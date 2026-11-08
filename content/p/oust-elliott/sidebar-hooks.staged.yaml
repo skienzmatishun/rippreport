@@ -5,7 +5,44 @@ metadata:
   main_date: "2026-04-13"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  CAMPAIGN-KICKOFF-RECEPTION:
+    refined_source: 8530c6cad44c5449e5a6084bd3c574e0df8f67985700c9440ef7fcc00bc89ed5
+    brief: |-
+      THE CONFLICT: Mike Vandenheuvel (Mike Van) is challenging State Senator Chris Elliott; Elliott is accused of being a dirty politician connected to Catalyst/GOB of Baldwin.
+      THE DISCOVERY: Article 2 details a Campaign Kickoff Reception for Matt McKenzie involving Elections and BCSO.
+      THE PIVOT: Article 2 does not provide direct contextual evidence for the Elliott/Catalyst conflict, but establishes a broader local election backdrop involving Matt McKenzie and BCSO.
+      KEY ENTITIES: Chris Elliott, Mike Vandenheuvel (Mike Van), Catalyst, Baldwin County Citizens for Accountability, Doug Snow, Matt McKenzie, BCSO
+    llm_text: Mike Vandenheuvel challenges State Senator Chris Elliott over his ties to Catalyst and Baldwin County dirty politics. Check how Matt McKenzie's BCSO kickoff reception reveals the full local election battle gripping Baldwin County.
+    text: Mike Vandenheuvel calls out State Senator Chris Elliott over ties to Catalyst and dirty politics in Baldwin County. Matt McKenzie's BCSO event shows the heated battle for local control.
+    widget_date: "2026-01-15"
+    generated_at: "2026-11-06T08:28:01.275031Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-no-clones:
+    refined_source: 211086e16dccabebfc6a3ecca1a03ff5e146e48cf4c9ded45401c3fdb1ac967e
+    brief: |-
+      THE CONFLICT: Hoss Mack and Lowery shared a "horrible record" in the BCSO elections; Lowery is described as a "clone" of Hoss Mack. (Specific dates not provided in source material.)
+      THE DISCOVERY: The Widget article revealed the historical political pattern of stagnation and cloning within Baldwin County law enforcement.
+      THE PIVOT: This history of local political failure (Mack/Lowery) provides context for the current challenge against State Senator Chris Elliott, who is accused of being a "sneaky dirty politician" linked to the Catalyst/GOB and gaming interests.
+      KEY ENTITIES: Hoss Mack, Lowery, Matt Mckenzie, Chris Elliott, Mike Vandenheuvel (Mike Van), Doug Snow, Catalyst, GOB, Baldwin County Citizens for Accountability.
+    llm_text: Hoss Mack and Lowery's "horrible record" reveals Baldwin County law enforcement struggles with political cloning. See how this local failure connects to current accusations against State Senator Chris Elliott and gaming interests.
+    text: Hoss Mack and Lowery have poor records on law enforcement in Baldwin County. How does this failure connect to accusations against State Senator Chris Elliott and gaming groups?
+    widget_date: "2025-09-26"
+    generated_at: "2026-11-06T08:32:51.326479Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-lose-front-teeth:
+    refined_source: 2fdfe3c7e57edd6a90a55a0cc526b5c7aca3d81563e5d83f023fd8016bf6c63d
+    brief: |-
+      THE CONFLICT: GOB/Catalyst faced multiple electoral defeats in Baldwin County including Bob Willis losing to Joshua Brown in Bay Minette and Brad Bass winning in Spanish Fort.
+      THE DISCOVERY: Article 2 documented the shift from GOB culture toward accountable government, showing Catalyst (Scott Boone Consulting) was losing public trust and influence.
+      THE PIVOT: Article 2 establishes the historical context of GOB/Catalyst corruption in Baldwin County, providing the background for Article 1's focus on State Senator Chris Elliott's connection to Catalyst and his prior knowledge of solar fields.
+      KEY ENTITIES: Chris Elliott, Mike Vandenheuvel (Mike Van), Catalyst, GOB, Scott Boone Consulting, Bob Willis, Joshua Brown, Brad Bass, Charlie Murphy, Ruthie Campbell, Russell Johnson, Doug Snow, Baldwin County Citizens for Accountability.
+    llm_text: GOB/Catalyst lost public trust in Baldwin County, evidenced by Bob Willis losing to Joshua Brown. State Senator Chris Elliott knew Catalyst's corruption history before his solar field involvement; Read how Baldwin County transitioned from GOB culture to accountability.
+    text: Bob Willis lost to Joshua Brown because voters lost trust in the GOB and Catalyst in Baldwin County. State Senator Chris Elliott backed solar deals despite knowing this history of corruption.
+    widget_date: "2025-08-27"
+    generated_at: "2026-11-06T08:33:48.057517Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   some-things-never-change:
+    refined_source: 7997ce1ec727045f24c0da8f8cc063d5e79a8fd76604cb69664f0f70a770186c
     brief: |-
       THE CONFLICT:
       *   March 3, 2022: Chris Elliott ("TAX MAN") was criticized for supporting the penny tax and the school separation lawsuit between Gulf Shores and Baldwin County Superintendent Eddie Tyler.
@@ -31,10 +68,12 @@ hooks:
       *   Eddie Tyler (Baldwin County Superintendent)
       *   Doug Snow (Baldwin County Citizens for Accountability administrator)
     llm_text: Chris Elliott faced criticism in 2022 for supporting the penny tax and school separation while linked to CATALYST. See how his past involvement with development interests relates directly to Mike Vandenheuvel’s current solar field challenge.
+    text: Chris Elliott faced heavy criticism in 2022 for backing the penny tax while linked to Catalyst. Mike Vandenheuvel now challenges him over those old development ties and new solar projects.
     widget_date: "2026-04-11"
     generated_at: "2026-11-06T08:27:01.316279Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   by-appointment-only:
+    refined_source: 8bf25c485d4e369ed8df022f1728e625ec379e689d327b9296c35ff69594b888
     brief: |-
       THE CONFLICT:
       *   A cabal in Baldwin County controlled judicial appointments via political influence with the State Executive Branch.
@@ -60,20 +99,24 @@ hooks:
       *   Baldwin County Citizens for Accountability
       *   solar fields
     llm_text: DraftKings backed a Baldwin County cabal that controlled judicial appointments and pushed the Alabama Gaming Commission. Mike Van challenges Senator Chris Elliott's commissioner bid, exposing deep political influence in local government.
+    text: DraftKings backed a Baldwin County group that controlled judge picks and pushed the Alabama Gaming Commission. Mike Van challenges Senator Chris Elliott to expose local political power.
     widget_date: "2026-04-10"
     generated_at: "2026-11-06T08:29:15.048626Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-news:
+    refined_source: 79794f7cd0096c9fe38086fb74d10e9bf009393cee20ec27d4d75102d0b2b354
     brief: |-
       THE CONFLICT: GOB network dominance in Baldwin County; Bob Wills removed as Mayor of Bay Minette in the last election; Anthony Lowery investigated Murray Lawrence Jr.'s wrongful conviction; Hoss Mack was a key GOB figure who subsequently faced job problems; Chris Elliott was tied to the GOB and had communication with the sheriff’s office via his wife.
       THE DISCOVERY: The GOB network is eroding due to pushback from 14 incorporated municipalities; Catalyst (former name for Scott Boone Consulting) acts as the under the rock political manipulator for the GOB, alongside Jon Grey.
       THE PIVOT: Article 2 establishes Chris Elliott's long-term, deep involvement in the corrupt GOB structure, linking him to manipulators (Catalyst/Scott Boone) and county-wide political corruption, providing the historical context that Mike Vandenheuvel (Mike Van) chose to avoid in his challenge, instead focusing on Elliott's connection to gaming interests and knowledge of solar fields.
       KEY ENTITIES: Chris Elliott; Mike Vandenheuvel (Mike Van); Hoss Mack; Anthony Lowery; Jerry Carl; Murray Lawrence Jr.; Harry Still; Scott Boone; Catalyst; Jon Grey; Baldwin County; Bay Minette
-    llm_text: Chris Elliott deeply tied to the corrupt GOB network communicated with the sheriff’s office. Discover how Catalyst (Scott Boone Consulting) and Jon Grey manipulate Baldwin County politics as GOB dominance finally erodes.
+    llm_text: Chris Elliott deeply tied to the corrupt GOB network communicated with the sheriff’s office. Read how Catalyst (Scott Boone Consulting) and Jon Grey manipulate Baldwin County politics as GOB dominance finally erodes.
+    text: Chris Elliott kept close ties to the corrupt GOB network and the sheriff's office. Catalyst and Jon Grey shaped Baldwin County politics while GOB power finally started to fade.
     widget_date: "2026-03-12"
     generated_at: "2026-11-06T08:30:30.518677Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   summerdale-sunshine:
+    refined_source: 201b2cac16101286054b90fe8f206fe6d9afbf477a47840b9321546777e99470
     brief: |-
       THE CONFLICT:
       *   Political infighting occurred at the Summerdale candidate forum in Baldwin County.
@@ -107,36 +150,7 @@ hooks:
       *   Kristy Haygood
       *   Frances Jones
     llm_text: Judge Taylor kicked Scott Boone of Catalyst at the Summerdale forum, labeling him "too toxic." This history proves Chris Elliott's Baldwin County political battles with Donna Black Givens over HB51 aren't new; they trace back to divisive, past fights.
+    text: Judge Taylor called Scott Boone of Catalyst too toxic at a Summerdale forum and kicked him out. Chris Elliott and Donna Black Givens fought over HB51 in a long line of bitter local disputes.
     widget_date: "2026-01-24"
     generated_at: "2026-11-06T08:31:41.542763Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  CAMPAIGN-KICKOFF-RECEPTION:
-    brief: |-
-      THE CONFLICT: Mike Vandenheuvel (Mike Van) is challenging State Senator Chris Elliott; Elliott is accused of being a dirty politician connected to Catalyst/GOB of Baldwin.
-      THE DISCOVERY: Article 2 details a Campaign Kickoff Reception for Matt McKenzie involving Elections and BCSO.
-      THE PIVOT: Article 2 does not provide direct contextual evidence for the Elliott/Catalyst conflict, but establishes a broader local election backdrop involving Matt McKenzie and BCSO.
-      KEY ENTITIES: Chris Elliott, Mike Vandenheuvel (Mike Van), Catalyst, Baldwin County Citizens for Accountability, Doug Snow, Matt McKenzie, BCSO
-    llm_text: Mike Vandenheuvel challenges State Senator Chris Elliott over his ties to Catalyst and Baldwin County dirty politics. Check how Matt McKenzie's BCSO kickoff reception reveals the full local election battle gripping Baldwin County.
-    widget_date: "2026-01-15"
-    generated_at: "2026-11-06T08:28:01.275031Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bcso-no-clones:
-    brief: |-
-      THE CONFLICT: Hoss Mack and Lowery shared a "horrible record" in the BCSO elections; Lowery is described as a "clone" of Hoss Mack. (Specific dates not provided in source material.)
-      THE DISCOVERY: The Widget article revealed the historical political pattern of stagnation and cloning within Baldwin County law enforcement.
-      THE PIVOT: This history of local political failure (Mack/Lowery) provides context for the current challenge against State Senator Chris Elliott, who is accused of being a "sneaky dirty politician" linked to the Catalyst/GOB and gaming interests.
-      KEY ENTITIES: Hoss Mack, Lowery, Matt Mckenzie, Chris Elliott, Mike Vandenheuvel (Mike Van), Doug Snow, Catalyst, GOB, Baldwin County Citizens for Accountability.
-    llm_text: Hoss Mack and Lowery's "horrible record" reveals Baldwin County law enforcement struggles with political cloning. See how this local failure connects to current accusations against State Senator Chris Elliott and gaming interests.
-    widget_date: "2025-09-26"
-    generated_at: "2026-11-06T08:32:51.326479Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  good-ole-boys-lose-front-teeth:
-    brief: |-
-      THE CONFLICT: GOB/Catalyst faced multiple electoral defeats in Baldwin County including Bob Willis losing to Joshua Brown in Bay Minette and Brad Bass winning in Spanish Fort.
-      THE DISCOVERY: Article 2 documented the shift from GOB culture toward accountable government, showing Catalyst (Scott Boone Consulting) was losing public trust and influence.
-      THE PIVOT: Article 2 establishes the historical context of GOB/Catalyst corruption in Baldwin County, providing the background for Article 1's focus on State Senator Chris Elliott's connection to Catalyst and his prior knowledge of solar fields.
-      KEY ENTITIES: Chris Elliott, Mike Vandenheuvel (Mike Van), Catalyst, GOB, Scott Boone Consulting, Bob Willis, Joshua Brown, Brad Bass, Charlie Murphy, Ruthie Campbell, Russell Johnson, Doug Snow, Baldwin County Citizens for Accountability.
-    llm_text: GOB/Catalyst lost public trust in Baldwin County, evidenced by Bob Willis losing to Joshua Brown. State Senator Chris Elliott knew Catalyst's corruption history before his solar field involvement; discover how Baldwin County transitioned from GOB culture to accountability.
-    widget_date: "2025-08-27"
-    generated_at: "2026-11-06T08:33:48.057517Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

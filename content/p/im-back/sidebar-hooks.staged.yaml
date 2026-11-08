@@ -1,0 +1,196 @@
+metadata:
+  generated_at: "2026-11-08T10:00:04.080942Z"
+  generator_version: 1.0.0
+  post_slug: im-back
+  main_date: "2018-08-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-open-letter-to-baldwin-county-district-attorney:
+    brief: |-
+      THE CONFLICT:
+      Kevin Boone (Fairhope City Councilman) submitted a complaint regarding Fairhope Mayor Wilson to Baldwin County District Attorney Robert Wilters (2016-2018 period).
+      The Ripp Report documented numerous allegations against Councilman Jack Burrell, Councilman Robert Brown, and the Fairhope Airport (including a million dollar jet lease involving Ray Hix and Haymes Snedeker, partners of Judge Haymes Snedeker).
+      The Ripp Report had documented these issues for years (2016, 2017, 2018).
+
+      THE DISCOVERY:
+      The Widget Article revealed that organized groups, specifically "Catalyst" (led by Kevin Boone’s son Scott), were actively using media (Courier, WABF 1480 AM/WACO radio) to attempt to unseat elected officials and influence DA Robert Wilters.
+      The Widget Article also noted DA Wilters' perceived bias toward "Catalyst" (supporting Lynn Perry, discouraging Harry D’Olive).
+
+      THE PIVOT:
+      The Widget Article established that Fairhope governance issues (including allegations against Councilmen and Mayor Wilson) were not isolated incidents but part of a coordinated political effort ("Catalyst") to manipulate local government and legal bodies, setting the historical context for the ongoing complaints against Fairhope officials and the similarity of the Fairhope controversy to the current Gulf Shores situation mentioned in the Main Article.
+
+      KEY ENTITIES:
+      Robert Wilters (Baldwin County District Attorney)
+      Kevin Boone (Fairhope City Councilman)
+      Mayor Wilson (Fairhope)
+      Jack Burrell (Fairhope Councilman)
+      Robert Brown (Fairhope City Councilman)
+      Ray Hix (Fairhope Airport Authority Treasurer)
+      Haymes Snedeker (Fairhope Municipal Judge)
+      Catalyst (group)
+      Judge Thomasson (Family Court)
+      Attorney Buddy Brackin
+      Gulf Shores
+      Fairhope Airport Authority
+    llm_text: Kevin Boone's complaint against Mayor Wilson wasn't an isolated incident; the Ripp Report found "Catalyst," led by Scott Boone, actively manipulated media to influence DA Robert Wilters. Discover how this coordinated effort shaped Fairhope politics and mirrors today's Gulf Shores controversies.
+    widget_date: "2018-08-10"
+    generated_at: "2026-11-08T09:52:48.235647Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  open-your-eyes:
+    brief: |-
+      THE CONFLICT: Decades of corrupt, Republican rule in Alabama disenfranchised citizens, evidenced by the 1967 incident involving Dock Rone and Coach Bryant, which initiated change in Alabama football.
+      THE DISCOVERY: The Widget Article (OPEN YOUR EYES) reveals a pattern of corrupt, Republican governance in Alabama, leading to voter disenfranchisement.
+      THE PIVOT: This historical pattern of corrupt rule (A2) provides the context for the specific local political failures and developer favoritism in Fairhope and Gulf Shores (A1).
+      KEY ENTITIES: The Ripp Report, Judge Thomasson, Attorney Buddy Brackin, Ray Hix, Haymes Snedeker, Jack Burrell, Mayor of Fairhope, Governor Kay Ivey, Walt Maddox, Chris Elliott, Jason Fisher, Gulf Shores, Fairhope.
+    llm_text: Decades of corrupt Republican rule in Alabama disenfranchised citizens, starting with the 1967 Dock Rone incident. See how this historical pattern drives developer favoritism in Fairhope and Gulf Shores today.
+    widget_date: "2018-08-08"
+    generated_at: "2026-11-08T09:55:02.424550Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-meets-social-media:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County was politically controlled by a group called Catalyst (Christian Republicans).
+      *   Fairhope's City Council and Mayor demonstrated a pattern of favoring developers (e.g., apartments) over citizens, leading to three citizen lawsuits and one pending lawsuit against the city.
+      *   The City of Fairhope incurred hundreds of thousands of dollars in attorney fees by defending developers instead of citizens.
+      *   Judge Thomasson and Attorney Buddy Brackin faced public complaints in Family Court, which the Bar association and Alabama Judiciary refused to investigate.
+
+      THE DISCOVERY:
+      *   Catalyst's influence was exposed through social media, culminating in Thomasson losing the People's Choice election and Elliott losing State Senate Seat 32 to David Northcutt.
+      *   Mayor Haygood (a Catalyst charter member) manipulated council elections, influencing Joe Davis' victory over John Lake (3500 people did not vote).
+      *   Ray Hix (Fairhope Airport Authority Treasurer) resigned; Hix was partners with Haymes Snedeker (Fairhope Municipal Judge) in a company that leased a million-dollar jet hanger.
+      *   Mayor Craft (Gulf Shores) faced citizen pushback regarding planned apartment complexes, mirroring the Fairhope controversy.
+
+      THE PIVOT:
+      *   Article 2 established the historical pattern of political manipulation and developer favoritism in Fairhope (led by Catalyst figures like Haygood and the failure to defend citizens), which is the specific context for the current controversy in Gulf Shores mentioned in Article 1.
+      *   Article 2 details how the City of Fairhope financially failed by standing behind developers, setting the precedent for the ongoing legal and financial issues involving Mr. Burrell and the City Attorney in Article 1.
+
+      KEY ENTITIES:
+      *   The Ripp Report
+      *   Judge Thomasson
+      *   Attorney Buddy Brackin
+      *   Catalyst
+      *   Mayor Karin Wilson
+      *   Elliott
+      *   David Northcutt
+      *   Mayor Haygood
+      *   Joe Davis
+      *   John Lake
+      *   Jonathan Armstrong
+      *   Ray Hix
+      *   Haymes Snedeker
+      *   Jack Burrell
+      *   Mayor Craft
+      *   Gulf Shores
+      *   Fairhope
+      *   Sheriff Hoss Mack
+      *   Eddie Tyler
+    llm_text: Catalyst-controlled politics in Fairhope, led by figures like Mayor Haygood, favored developers over citizens, costing the city hundreds of thousands in legal fees. Learn how this history of manipulation mirrors current controversies in Gulf Shores, affecting Jack Burrell.
+    widget_date: "2018-07-20"
+    generated_at: "2026-11-08T09:56:33.409307Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hallucinations:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope controversy regarding apartments and developer favor; Gulf Shores mirroring Fairhope tactics.
+      *   Mr. Ray Hix (Treasurer, Fairhope Airport Authority) resigned.
+      *   Hix partnered with Fairhope Municipal Judge Haymes Snedeker in Hix Snedeker companies, which awarded a lease on an airplane hanger for a million dollar jet.
+      *   Jack Burrell's police record and pending Federal lawsuit centered around Freedom of Speech.
+      *   Fairhope City Council members shared confidential information with Catalyst.
+      *   Catalyst supported only Catalyst candidates in the 2018 primary and run-off.
+
+      THE DISCOVERY:
+      *   Catalyst editor Chuckee Cheeze received an Alabama Press Association award for a bogus article regarding Fairhope and the Mayor.
+      *   Information Chuckee received about Fairhope corruption was provided by Catalyst members and City Council persons, not through FOIA requests.
+      *   The Ripp Report obtained thousands of documents through FOIA requests over 12 years.
+
+      THE PIVOT:
+      *   Article 2 established that media coverage of Fairhope issues (e.g., corruption, Mayor) was compromised by internal information sharing (Catalyst/Council), not independent research, validating the systemic concerns about developer favoritism and lack of transparency raised in Article 1.
+      *   Article 2 confirms the political manipulation and lack of truth in the media landscape surrounding the Fairhope conflicts discussed in Article 1.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Catalyst (media outlet/organization)
+      *   Chuckee Cheeze (Catalyst editor)
+      *   Jack Burrell
+      *   Mr. Ray Hix
+      *   Haymes Snedeker
+      *   Judge Thomasson
+      *   Attorney Buddy Brackin
+      *   Mr. Burrell
+      *   Mr. Brrell's attorney
+      *   Gulf Shores
+      *   The Ripp Report
+      *   Fairhope Airport Authority
+      *   Sherry Sullivian
+      *   Jenniffer Fiddler
+      *   Pandora Heathcoat
+      *   Robert Brown
+      *   Kevin Boone
+    llm_text: Ray Hix and Haymes Snedeker secured a million-dollar jet lease in Fairhope through their companies. The Ripp Report reveals Catalyst used insider tips from City Council, not independent research, compromising local truth.
+    widget_date: "2018-08-01"
+    generated_at: "2026-11-08T09:57:37.243006Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-is-drowning:
+    brief: |-
+      THE CONFLICT:
+      *   Michelle Thomasson served in Baldwin County Family Court.
+      *   In November 2018, the People's Choice campaign targeted Thomasson for removal from the Family Court position.
+
+      THE DISCOVERY:
+      *   Current complaints about Judge Thomasson and Attorney Buddy Brackin persist.
+      *   The Alabama Judiciary and the Bar association refuse to investigate these complaints.
+
+      THE PIVOT:
+      *   The 2018 election context (Article 2) established the historical public and political opposition to Judge Thomasson (Catalyst).
+      *   The current complaints (Article 1) confirm the ongoing lack of official accountability for Thomasson and Brackin, despite sustained public pressure.
+
+      KEY ENTITIES:
+      *   Judge Thomasson
+      *   Attorney Buddy Brackin
+      *   Billie Jo Underwood
+      *   Tucker Dorsey
+      *   Christy Olinger Edwards
+      *   Elliott
+      *   Northcutt
+      *   Sheriff Mack
+      *   Eddie Tyler
+      *   Jon Gray (Strategy)
+      *   Ray Hix
+      *   Haymes Snedeker
+      *   Jack Burrell
+      *   City of Fairhope
+      *   Gulf Shores
+    llm_text: Despite 2018 removal campaigns, complaints against Judge Michelle Thomasson and Attorney Buddy Brackin persist. The Alabama Judiciary refuses to investigate this ongoing lack of accountability in Baldwin County.
+    widget_date: "2018-07-18"
+    generated_at: "2026-11-08T09:58:48.442702Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county:
+    brief: |-
+      THE CONFLICT: In 2018, Chris Elliott and Tucker Dorsey supported maximum, unchecked development in Orange Beach and Gulf Shores, leading to a proposal for Phoenix Gulf Towers—two 26-story buildings on 5.8 acres of Perdido Beach Boulevard—which predicted the Gulf would become "Closed to residents of Baldwin County."
+
+      THE DISCOVERY: The pattern of developer-favoring policies, initially warned about in 2018, now mirrors Fairhope’s controversies in Gulf Shores, where elected officials are favoring developers over citizens and limiting public participation.
+
+      THE PIVOT: The 2018 Orange Beach condo project served as the historical blueprint demonstrating how unchecked development by key officials (Elliott/Dorsey) leads directly to the current exclusionary policies and developer favoritism observed by The Ripp Report in Gulf Shores.
+
+      KEY ENTITIES: Chris Elliott, Tucker Dorsey, David Northcutt, Billie Jo Underwood, Brett Robinson Real Estate Development Co., Phoenix Gulf Towers, Mayor’s Craft, Kennon, Judge Thomasson, Attorney Buddy Brackin, Ray Hix, Haymes Snedeker, Jack Fly, Jack Burrell, The Ripp Report
+    llm_text: Chris Elliott and Tucker Dorsey backed the massive Phoenix Gulf Towers in 2018, warning the Gulf would become closed to Baldwin County residents. This unchecked development blueprint now mirrors developer favoritism in Gulf Shores, showing officials ignore citizen input.
+    widget_date: "2018-07-11"
+    generated_at: "2026-11-08T09:53:57.975712Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-blast-from-the-past:
+    brief: |-
+      THE CONFLICT:
+      Former Fairhope City Council members and related figures, including Jack Burrell, Kevin Boone (Grandpa Catalyst), and Robert Brown (The Jester), led a "blast from the past" political movement intended to reshape Fairhope's government, characterized by obstruction over 18 months.
+
+      THE DISCOVERY:
+      The widget article reveals the foundational history of political maneuvering and corruption in Fairhope, specifically detailing Jack Burrell's Airport Scandal, Kevin Boone's connections (John Avant of Prebble Rish), and Robert Brown's conflict of interest regarding the Single Tax Colony Art Center contract award (awarding the bid to himself and Cliff Pittman).
+
+      THE PIVOT:
+      Article 2 establishes that the misconduct (e.g., Airport issues, favoring developers, abuse of power under 'At Large' system) is long-standing history, providing the context that Article 1 addresses when citing Fairhope's current issues, such as the Ray Hix resignation from the Fairhope Airport Authority, the Hix/Haymes Snedeker company jet lease, and the ongoing legal/ethical scrutiny of Jack Burrell and City Attorney actions.
+
+      KEY ENTITIES:
+      Jack Burrell (King bee Council), Kevin Boone (Grandpa Catalyst), Robert Brown (The Jester), Cliff Pittman, Ray Hix (Fairhope Airport Authority Treasurer), Haymes Snedeker, Judge Thomasson, Attorney Buddy Brackin, Gulf Shores, City of Fairhope, Prebble Rish, John Avant, Mayor Wilson, City Council.
+    llm_text: Jack Burrell, Kevin Boone, and Robert Brown orchestrated 18 months of political obstruction in Fairhope. Discover how Burrell's Airport Scandal and Robert Brown's conflict of interest established the city's long history of power abuse.
+    widget_date: "2018-06-27"
+    generated_at: "2026-11-08T09:59:48.672793Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

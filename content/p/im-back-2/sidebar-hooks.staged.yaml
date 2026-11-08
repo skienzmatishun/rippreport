@@ -6,22 +6,26 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   backstory-153:
+    refined_source: 7efaadd3affefe6e00af55aa28f2df1cba575f0cb44f5c2aab8f99ffe508c018
     brief: |-
       THE CONFLICT: Pras Michel was convicted this week on Ten Counts for funneling $200,000,000.00 stolen from the Milesians Tax Increment Finance Fund to influence the Obama and Trump campaigns.
       THE DISCOVERY: The Widget Article detailed political issues, including Kay Ivey's campaigns, Alabama Legislature priorities (Glock Chip legislation, Sheriff succession), and the Pras Michel conviction.
       THE PIVOT: Article 2 provides the political/corruption context and factual basis for the types of "news and facts about issues politicians do not speak of" that Francis Paul Ripp plans to cover on the Backstory podcast (referenced in Article 1).
       KEY ENTITIES: Francis Paul Ripp, Kay Ivey, Pras Michel, Milesians Tax Increment Finance Fund, Jefferson Beauregard Sessions III, Leonardo DiCaprio, Casa Carolyn, Backstory podcast, Baldwin County Legal Eagle, Deal with the Devil Facebook sites
     llm_text: Pras Michel faces conviction for funneling $200M from the Milesians Tax Increment Finance Fund to influence both Obama and Trump campaigns. Francis Paul Ripp uses this corruption to expose hidden facts about Alabama politics, including Kay Ivey's priorities, on the Backstory podcast.
+    text: Pras Michel faces conviction for funneling $200 million from the Milesians Tax Increment Finance Fund to political campaigns. Francis Paul Ripp uses this case to expose hidden facts about Alabama politics.
     widget_date: "2023-04-30"
     generated_at: "2026-11-06T19:59:55.085086Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   cover-up:
+    refined_source: 303f5696f6120994d42e0c37f0792e25dd5557a96e6b26ab51e490c30a84d713
     brief: |-
       THE CONFLICT: O.J. French was killed by Bay Minette police on August 20 2021. Mayor Bob Wills issued a letter to Tamara French regarding this incident.
       THE DISCOVERY: Article 2 details Mayor Bob Wills' involvement in a questionable self-dealing deal, renting office space to the Baldwin County Legislative Delegation for a total potential income of $867,000.00, despite having pending ethics and Alabama Bar complaints.
       THE PIVOT: Article 2 establishes Mayor Wills' history of questionable ethics and self-dealing, undermining his statements in the context of the O.J. French case, suggesting his claims of "no merit" regarding a "cover up" are suspect.
       KEY ENTITIES: Francis Paul Ripp, Mayor Bob Wills, Tamara French, O.J. French, Alabama Attorney General Steve Marshall, Albritton, Mabel Amos Memorial Fund (MAMF), Baldwin County Legal Eagle, Casa Carolyn, Baldwin County Major Crimes Unit (BCMCU), Al Tolbert, Brad Kendrick, Huey “Hoss” Mack, Edward Delmore, David Carpenter, Thurston Bullock, AltaPoine Health.
     llm_text: Mayor Bob Wills' questionable $867K self-dealing deal raises serious doubts about his "no merit" claims in the O.J. French police shooting. See how his ethics issues undermine his statements to Tamara French.
+    text: Mayor Bob Wills completed an $867,000 self-dealing deal that raises serious doubts about his no merit claims in the O.J. French police shooting. His ethics issues undermine his statements to Tamara French.
     widget_date: "2023-03-21"
     generated_at: "2026-11-06T19:59:28.449787Z"
     model_name: plugsky-lite
@@ -59,6 +63,7 @@ hooks:
       - Miriam Boutwell
       - Plan Lower AL Now (PLAN)
     llm_text: Francis Paul Ripp missed two Wonderful Wednesday’s while rebuilding Casa Carolyn, and now he’s back with The Ripp Report on Baldwin County’s runaway train of growth. After 14 municipalities, 14 mayors, and no real traffic plan, why aren’t Daphne and Fairhope talking about the 100,000 new residents coming?
+    text: Francis Paul Ripp missed two Wonderful Wednesday’s while rebuilding Casa Carolyn, and now he’s back with The Ripp Report on Baldwin County’s runaway train of growth. After 14 municipalities, 14 mayors, and no real traffic plan, why aren’t Daphne and Fairhope talking about the 100,000 new residents coming?
     widget_date: "2018-12-20"
     generated_at: "2026-11-06T19:59:43.804307Z"
     model_name: recursive/flint-v1.0:free

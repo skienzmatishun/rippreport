@@ -1,0 +1,138 @@
+metadata:
+  generated_at: "2026-11-07T20:02:00.053611Z"
+  generator_version: 1.0.0
+  post_slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  main_date: "2020-02-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-kiss:
+    refined_source: b207748560f1169ec6d8818212eb91bc6ea9b409135c1db6a16a7bab313c8e59
+    brief: |-
+      THE CONFLICT: Jack Burrell threw a KISS to candidate Bill Hightower during a Fairhope City Council meeting.
+      THE DISCOVERY: Article 2 details the context of the meeting, including Burrell's long tenure (7+ years) and behavior (extended meetings, silence regarding his Police Report).
+      THE PIVOT: Article 2 establishes that the Fairhope CATALYST council promotes CATALYST candidates, linking Burrell's action to the CATALYST political machine supporting Hightower.
+      KEY ENTITIES: Jack Burrell, Bill Hightower, Fairhope City Council, CATALYST, 2020 (election year context)
+    llm_text: Jack Burrell threw a KISS at Bill Hightower during Fairhope City Council, revealing how the CATALYST machine backed Hightower. See how Burrell's 7-year tenure ties into this local power play.
+    text: Jack Burrell supported Bill Hightower during a Fairhope City Council meeting, revealing machine backing. Burrell's long tenure ties directly into local power plays.
+    widget_date: "2020-02-12"
+    generated_at: "2026-11-07T19:59:47.115378Z"
+    model_name: plugsky-lite
+  puzzle-pieces:
+    brief: "THE CONFLICT: \n- In 2006, then-Governor Bob Riley turned down a deal from the United Arab Emirates regarding the container terminal at the Port of Mobile, amid post-9/11 national security concerns and a failed massive state tax plan.\n- Around the same time, Bob Riley passed a bill allocating $80 million to the Port of Mobile as part of a $300 million investment to move and upgrade the container terminal further south to Choctaw Point near Brookley.\n- In Florida, \"Project Pelican\" involved a secret 35-year lease of Port Canaveral to the UAE, brokered behind closed doors.\n- In Delaware, the Port of Wilmington was leased to the UAE state-owned company Gulftainer for 50 years.\n\nTHE DISCOVERY: \n- The background context reveals a multi-decade effort by Alabama leadership—transitioning from Bob Riley to Governor Kay Ivey—to funnel hundreds of millions in public funds (including $300M+ in state investments, BP, and GOMESA funds) into modernizing the Port of Mobile and deepening the Mobile Ship Channel.\n- The 2019 push by Governor Kay Ivey to pass a 10-cent-per-gallon gas tax in the legislature (bypassing a public vote) and prioritize widening the ship channel and building a $2.1 billion I-10 Bayway/Bridge project using anonymous Public-Private Partnerships (P3s) instead of federal funding.\n- The appointment of Richard Clark as the Deputy Director of the Alabama Port Authority, a figure directly connected to Gulftainer.\n- State actions—such as opposing Amtrak service to Mobile and relocating airport assets to Brookley—align with facilitating heavy industrial container traffic rather than local public convenience.\n\nTHE PIVOT: \n- The background context acts as the \"smoking gun\" by connecting historical dots: the 2006 UAE port deal was not truly rejected, but merely shelved. \n- The $2.1 billion P3-funded I-10 bridge project, the gas tax, the secretive bypassing of federal funds (noted by Bradley Byrne), and the restructuring of Mobile's infrastructure mirror the exact playbook used in Florida's Project Pelican and Delaware's Port of Wilmington. \n- It exposes the toll bridge and gas tax not as routine infrastructure funding, but as mechanisms to mask anonymous foreign control—specifically by Dubai's royal family and Gulftainer/Crescent Enterprises—over a critical U.S. seaport.\n\nKEY ENTITIES: \n- Bob Riley\n- Kay Ivey\n- Bradley Byrne\n- Richard Clark\n- Gulftainer\n- Crescent Enterprises\n- United Arab Emirates (UAE)\n- Port of Mobile\n- Port Canaveral\n- Port of Wilmington"
+    llm_text: Governor Kay Ivey's secretive $2.1 billion I-10 bridge project and gas tax aren't routine infrastructure. They mirror the exact foreign control playbook that leased ports in Florida and Delaware to the UAE.
+    text: Governor Kay Ivey's secretive $2.1 billion I-10 bridge project and gas tax aren't routine infrastructure. They mirror the exact foreign control playbook that leased ports in Florida and Delaware to the UAE.
+    widget_date: "2019-08-24"
+    generated_at: "2026-11-07T19:59:44.700912Z"
+    model_name: gemini-3.5-flash-lite
+  poison-ivy-bridge:
+    refined_source: d8351c72f321fab51f2cc9648c5a53c947ae5b62fe827347e195392b68a7842d
+    brief: |-
+      THE CONFLICT:
+      1. Proposal of a toll for the new Mobile Bridge affecting Mobile and Baldwin County residents.
+      2. State of Alabama misused a billion+ dollar BP settlement, using funds to cover up Goat Hill mistakes, build a Hotel, and refurbish the Governor’s Beach House.
+      3. State Senator Pittman, as appointed BP trustee, secured $750,000.00 in BP money for his "tractor" company.
+
+      THE DISCOVERY:
+      1. The critical need for the new bridge has been discussed for over a decade, not as an overnight emergency.
+      2. The City of Fairhope is now self-sustaining, having paid off all debt and cut wasteful spending, proving local fiscal accountability is possible.
+
+      THE PIVOT:
+      1. The historical misuse and squandering of BP money by the State of Alabama by figures like Governor Poison Ivy means the State cannot ethically place the financial burden of the bridge on the citizens of Mobile and Baldwin County.
+      2. The state's lack of accountability regarding BP funds justifies the opposition to the toll.
+
+      KEY ENTITIES:
+      1. Karin Wilson (Fairhope Mayor)
+      2. Chris Elliott (State Senator, Daphne)
+      3. State Senator Pittman
+      4. Governor Poison Ivy
+      5. Mobile
+      6. Baldwin County
+      7. BP settlement ($1 billion+)
+    llm_text: Governor Poison Ivy squandered $1 billion from the BP settlement, while State Senator Pittman pocketed $750,000. Mobile and Baldwin County should not pay the bridge toll; Fairhope Mayor Karin Wilson proves local accountability works.
+    text: Governor Kay Ivey spent $1 billion from the BP settlement. State Senator Tripp Pittman pocketed $750,000 of public funds.
+    widget_date: "2019-08-16"
+    generated_at: "2026-11-07T20:01:31.479347Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-first-in-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      - Mike Hubbard, Former Speaker of the Alabama House of Representatives, was convicted of 12 felonies.
+      - The conviction occurred approximately three years before Article 2.
+      - Mike Hubbard had not served one day in jail at the time of Article 2.
+      - Mike Hubbard was appealing to the Alabama Supreme Court.
+      - Mike Hubbard’s defense was that the laws he helped write were too confusing.
+
+      THE DISCOVERY:
+      - Article 2 claimed Alabama is first in political corruption and last in education.
+      - Article 2 labeled the issue “Political Corruption.”
+      - Article 2 stated the Alabama Ethics Commission is a joke.
+      - Article 2 stated the Alabama Bar Association and Judicial Committee are known more for covering up offenses of judges and attorneys than for accountability.
+      - Article 2 stated complaints fall on deaf ears and corruption festers.
+      - Article 2 stated a basic political ethic is that no elected official can use elected office for personal gain.
+      - Article 2 stated that in Alabama, this basic political ethic is acceptable.
+      - Article 2 stated that if Mike Hubbard does not go to jail, Alabama will maintain the U.S. Title as the Most Political Corrupt State and education will share the title.
+
+      THE PIVOT:
+      - Article 2 is older and should be framed as background/historical context for Article 1.
+      - Article 2 showed/revealed Mike Hubbard’s conviction, appeal, and the resulting political corruption context.
+      - Article 2 framed Alabama political corruption as systemic rather than isolated.
+      - Article 2 is the “smoking gun” or key context for Article 1 because it provides prior background linking Alabama’s political system to corruption before the Medical Marijuana Bill coverage.
+      - Article 2’s core fact pattern: Mike Hubbard convicted of 12 felonies, not served one day, appealing to Alabama Supreme Court.
+
+      THE KEY ENTITIES:
+      - Mike Hubbard — Former Speaker of the Alabama House of Representatives; convicted of 12 felonies; appealing to the Alabama Supreme Court.
+      - Alabama House of Representatives — Hubbard was the Former Speaker.
+      - Alabama Ethics Commission — Described as a joke in Article 2.
+      - Alabama Bar Association — Described as known more for covering up offenses of judges and attorneys than accountability.
+      - Judicial Committee — Described as covering up offenses of judges and attorneys.
+      - Alabama Supreme Court — Court hearing Mike Hubbard’s appeal.
+      - Alabama — State described as first in political corruption and last in education.
+      - Medical Marijuana Bill — Main Article subject; no content provided in the supplied material.
+      - Political Corruption — Central claim in Article 2.
+    llm_text: Former Alabama House Speaker Mike Hubbard faced 12 felony convictions without serving a day in jail. Article 2 says if he never goes to jail, Alabama keeps the title of most politically corrupt state—and last in education, even as it covers the Medical Marijuana Bill.
+    text: Former Alabama House Speaker Mike Hubbard faced 12 felony convictions without serving a day in jail. Article 2 says if he never goes to jail, Alabama keeps the title of most politically corrupt state—and last in education, even as it covers the Medical Marijuana Bill.
+    widget_date: "2019-06-05"
+    generated_at: "2026-11-07T20:00:07.211020Z"
+    model_name: recursive/flint-v1.0:free
+  alabama-national-news:
+    brief: "THE CONFLICT: \n- Alabama politicians and voters ignored public education funding for twenty years while repeatedly discussing an education lottery.\n- Voters were manipulated into accepting self-imposed property taxes instead of proper state funding.\n- Teachers were forced to donate their own time and money for basic school supplies, and parents were constantly asked to contribute financially.\n- Baldwin County resorted to using \"portable\" campuses as the norm.\n- Governor Kay Ivey faced the decision to sign or veto an extreme abortion bill that made no exceptions for incest, rape, or minors.\n\nTHE DISCOVERY: \n- Historical context from Article 2 (older widget article) revealed Alabama's severe systemic failures on a national stage: ranking DEAD LAST in the nation in education, operating the worst prison system in the U.S., and pushing radical anti-abortion legislation.\n- It exposed education in Alabama as a sham where proposed lottery revenues directed zero words and zero dimes toward public schools.\n\nTHE PIVOT: \n- Article 2 serves as the foundational background showing a long-standing pattern of legislative neglect and misplaced priorities in Alabama. \n- While Article 1 focuses on a \"Medical Marijuana Bill,\" Article 2 provides the critical historical baseline proving how Alabama leadership consistently mishandled critical public policy (education, prisons, healthcare/abortion), establishing a track record of institutional failure that contextualizes any new legislative push.\n\nKEY ENTITIES: \n- Governor Kay Ivey\n- Baldwin County\n- State of Alabama"
+    llm_text: Governor Kay Ivey and Alabama politicians spent twenty years starving public schools while Baldwin County relied on portable classrooms. Read how this systemic neglect exposes the real stakes behind today's legislative battles.
+    text: Governor Kay Ivey and Alabama politicians spent twenty years starving public schools while Baldwin County relied on portable classrooms. Read how this systemic neglect exposes the real stakes behind today's legislative battles.
+    widget_date: "2019-05-15"
+    generated_at: "2026-11-07T19:59:49.457439Z"
+    model_name: gemini-3.5-flash-lite
+  no-guardrails:
+    refined_source: 9c67665ea640385cd45cf7d62327176199efcc3805c580bd68da7e82ace4a64f
+    brief: |-
+      THE CONFLICT:
+      Matt Hart resigned from the Alabama Attorney General's Office Monday morning (Date not specified in Article 2, but in 2018 based on link).
+
+      THE DISCOVERY:
+      Alabama is ranked number 1 in political corruption.
+
+      THE PIVOT:
+      Hart's removal by Steve Marshall removed a major guardrail in combating political corruption, leaving reliance on the Alabama Ethics Commission, whose rules were influenced by convicted former Speaker Mike Hubbard.
+
+      KEY ENTITIES:
+      Alabama Attorney General Steve Marshall
+      Matt Hart
+      Alabama Ethics Commission
+      Mike Hubbard
+      Alabama
+    llm_text: 'Matt Hart''s resignation from the Alabama Attorney General''s Office leaves Alabama, ranked #1 in corruption, without a key guardrail. See how Steve Marshall''s move impacts ethics rules shaped by Mike Hubbard.'
+    text: Matt Hart resigned from the Alabama Attorney General's Office and removed a key watchdog. Steve Marshall's actions impact state ethics rules originally shaped by Mike Hubbard.
+    widget_date: "2018-11-23"
+    generated_at: "2026-11-07T19:59:56.378613Z"
+    model_name: plugsky-lite
+  danger-zone:
+    refined_source: 941a5a81d588eb6a99c83d34cbee2bc5a947bd4b8bbdecd3fd3c6d2c908c4846
+    brief: |-
+      THE CONFLICT: Dangerous conditions at the intersection of Highway 98 and Parker Road attributed to the CATALYST Fairhope City Council, former Mayor Can’t, and property owner Angelo Corte. (No specific dates provided).
+      THE DISCOVERY: Highway 98 and Parker Road are becoming more dangerous.
+      THE PIVOT: The danger is linked to an alleged conflict of interest between politicians and developers (Council/Mayor Can’t and Angelo Corte/CATALYST). (Connection to 'Medical Marijuana Bill' is not supported by provided text).
+      KEY ENTITIES: CATALYST, Fairhope City Council, Mayor Can’t, Angelo Corte, Highway 98, Parker Road
+    llm_text: Highway 98 and Parker Road are dangerously unsafe. Did Mayor Can’t and Angelo Corte/CATALYST push council decisions for profit?
+    text: Highway 98 and Parker Road remain dangerously unsafe for local drivers. Did Mayor Kant and Angelo Corte push council decisions through for private profit?
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T20:00:25.195833Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

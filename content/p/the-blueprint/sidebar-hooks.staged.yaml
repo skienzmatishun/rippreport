@@ -5,7 +5,34 @@ metadata:
   main_date: "2026-07-14"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  veterans-rally:
+    brief: |-
+      THE CONFLICT: In 2019, a massive public outcry erupted over proposed bridge tolls in the Mobile/Eastern Shore area. Over 50,000 citizens mobilized in opposition, led by figures like Jim Zeigler and organized via groups like South Alabama Citizens for Government Accountability (SACGA). Politicians publicly campaigned against the tolls, promising to block the financial trap for daily commuters.
+
+      THE DISCOVERY: Article 2 (chronologically preceding the current political flip-flop) documents the peak momentum of the 2019 anti-toll resistance and the explicit, unified public rejection of the infrastructure monetization scheme—proving that the current $3.2 billion project directly violates the massive mandate established by local residents.
+
+      THE PIVOT: Article 2 serves as the smoking gun because it exposes the total betrayal and hypocrisy of local politicians. The historical record shows that today's pro-toll politicians—who now champion the $7.70 per trip/$31 daily commuter fee and the ALGO Pass—were the exact same leaders who previously rode the 2019 anti-toll wave to court voter support before turning coat to back the investors.
+
+      KEY ENTITIES:
+      - Jim Zeigler (Organizer/Leader)
+      - South Alabama Citizens for Government Accountability (SACGA)
+      - Eastern Shore commuters
+      - Mobile region politicians / Governor's office
+      - Private investors / ALGO Pass backers
+    llm_text: In 2019, Jim Zeigler and 50,000 outraged commuters mobilized to crush Mobile's bridge tolls. Read how today's flip-flopping politicians rode that massive mandate straight into office before betraying voters to back greedy private investors.
+    text: In 2019, Jim Zeigler and 50,000 outraged commuters mobilized to crush Mobile's bridge tolls. Read how today's flip-flopping politicians rode that massive mandate straight into office before betraying voters to back greedy private investors.
+    widget_date: "2025-02-23"
+    generated_at: "2026-11-06T05:55:17.281948Z"
+    model_name: gemini-3.5-flash-lite
+  war:
+    brief: "THE CONFLICT: Governor Kay Ivey (\"poison Ivy\") utilized \"supreme executive power\" to remove Alabama Department of Veterans Affairs (ADVA) Director Admiral Kent Davis, retaliating against the current veterans board who opposed the move. The state attempted to pass a bill to strip veterans of their independent representation by creating a cabinet position for the ADVA director and reducing the veterans board to an advisory role subservient to the Governor. In response, a veterans rally was scheduled for February 25th at 11:30 in Montgomery, and veterans were urged to blackball and challenge any legislators who voted for the bill.\n\nTHE DISCOVERY: Article 2 (the older background context) exposed Governor Ivey's pattern of autocratic executive overreach, political retaliation, and backroom maneuvering to bypass independent oversight and consolidate power at the expense of citizens—tactics mirroring the stealthy, top-down imposition of the toll tax scheme.\n\nTHE PIVOT: Article 2 serves as the smoking gun because it documents the exact same playbook of executive abuse, secretive policy advancement, and betrayal of public trust by Governor Ivey's administration that later materialized in the $3.2 billion toll tax travesty. \n\nKEY ENTITIES:\n- Governor Kay Ivey (\"poison Ivy\")\n- Admiral Kent Davis\n- Jim Zeigler\n- South Alabama Citizens for Government Accountability (SACGA)\n- Alabama Department of Veterans Affairs (ADVA)"
+    llm_text: Governor Ivey deployed pure autocratic overreach when she ousted ADVA Director Admiral Kent Davis to silence independent oversight. Read how this blatant political retaliation mirrors the exact top-down tactics behind the $3.2 billion toll tax betrayal.
+    text: Governor Ivey deployed pure autocratic overreach when she ousted ADVA Director Admiral Kent Davis to silence independent oversight. Read how this blatant political retaliation mirrors the exact top-down tactics behind the $3.2 billion toll tax betrayal.
+    widget_date: "2025-02-22"
+    generated_at: "2026-11-06T05:55:23.221074Z"
+    model_name: gemini-3.5-flash-lite
   orange-beach-tyranny:
+    refined_source: 67c6ee56d2e8cae6fd296d6d63519da138cff611726e73c2e031684b651dafb2
     brief: |-
       THE CONFLICT:
       *   Danny Williams disappeared/died in Perdido Pass on the Friday of Memorial Day Weekend 2016.
@@ -32,11 +59,13 @@ hooks:
       *   Orange Beach
       *   2016 / 2019
       *   $7.70 / $3.2 billion
-    llm_text: Orange Beach Mayor Tony Kennon and officials hide local corruption, ignoring the 2016 Danny Williams disappearance during a federal drug investigation. Discover how this history links to the $3.2 billion toll scheme, proving it is a wider network takeover, not just an economic necessity.
+    llm_text: Orange Beach Mayor Tony Kennon and officials hide local corruption, ignoring the 2016 Danny Williams disappearance during a federal drug investigation. Read how this history links to the $3.2 billion toll scheme, proving it is a wider network takeover, not just an economic necessity.
+    text: Orange Beach Mayor Tony Kennon and local officials ignored the 2016 disappearance of Danny Williams Jr. Did local authorities bury this case to protect a federal drug investigation?
     widget_date: "2026-07-09"
     generated_at: "2026-11-06T05:56:05.013389Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   a-reckoning-is-predicted:
+    refined_source: a6fa43586fcf93fc91c9e0416cf3ca949ffa75f54a4f13c417131a720f70bcff
     brief: |-
       THE CONFLICT:
       Wrongful conviction of Murray Lawrence Jr. occurred involving District Attorney David Whitstone and District Attorney Robert Wilters; Anthony Lowery was the lead investigator who found no evidence; Hoss Mack was the sheriff/over-sheriff; Kristi Hagood was the unqualified judge supported by GOBs; Jon Gray and Scott Boone were paid consultants for Hagood.
@@ -50,10 +79,12 @@ hooks:
       KEY ENTITIES:
       Hoss Mack, Anthony Lowery, Chris Elliot, Kristi Hagood, Matt McKenzie, Robert Wilters, Jon Gray, Scott Boone, Jim Zeigler, David Whitstone, ALEA, BCSO, Eastern Shore, Mobile, $7.70, $3.2 billion, 2019.
     llm_text: Murray Lawrence Jr.'s wrongful conviction involved DA David Whitstone and judge Kristi Hagood, revealing deep corruption in Baldwin County. This system enabled politicians who protested tolls in 2019, like Jim Zeigler, to now support the $3.2 billion Gulf Coast toll project.
+    text: DA David Whitstone and Judge Kristi Hagood presided over the wrongful conviction of Murray Lawrence Jr. How does this corrupt system support politicians who now back the $3.2 billion toll project?
     widget_date: "2026-06-23"
     generated_at: "2026-11-06T05:57:25.038780Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   medical-cannabis-issues-licenses:
+    refined_source: 72b83c1153a088d836ed2875f101b81a038f70bdefba81cc6fd386bd48b53e41
     brief: |-
       THE CONFLICT:
       2019: Over 50,000 people protested against the planned Gulf Coast toll tax strategy.
@@ -78,42 +109,21 @@ hooks:
       Chey Lindsey Garrigan
       Alabama Cannabis Industry Association 501C6
     llm_text: Jim Zeigler fought the massive $3.2 billion Gulf Coast toll tax, impacting commuters with a $7.70 fee. Meanwhile, Alabama approved three medical cannabis dispensary licenses via the Darren Wesley “Ato” Hall Compassion Act.
+    text: Jim Zeigler fought the $3.2 billion Gulf Coast toll tax that slaps commuters with a $7.70 fee. Meanwhile, state regulators approved three new medical cannabis dispensary licenses under the Hall Act.
     widget_date: "2026-01-23"
     generated_at: "2026-11-06T05:58:40.888086Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   go-to-hell-veterans:
-    brief: "THE CONFLICT: In 2019, over 50,000 citizens—mobilized by groups and leaders like Jim Zeigler—fought against proposed toll bridges on the Gulf Coast, demanding no tolls and arguing it was a financial trap for average families. Many local politicians initially stood with the public against the tolls.\n\nTHE DISCOVERY: Article 2 (older context) outlines a fierce political betrayal and systemic corruption under Governor Kay Ivey (\"mee ma\"), detailing how lawmakers voted 56-39 to restructure the State Board of Veterans Affairs in retaliation against ADVA Commissioner Kent Davis for filing an ethics complaint. The complaint targeted Mental Health Director Kimberly Boswell for allegedly colluding with state officials to divert $7 million in American Rescue Plan Act (ARPA) funds intended for veterans. \n\nTHE PIVOT: Article 2 serves as the smoking gun proving a pattern of backroom political retaliation, executive overreach, and elected officials cutting the throats of their constituents (voters) to serve the Governor's agenda instead of representing the public. This mirrors the main article's core thesis: politicians flip-flopping, abandoning their principles, and selling out public interests (such as switching from opposing tolls to backing a $3.2 billion toll project with $7.70-$31 daily costs) when pressured by the powers that be.\n\nKEY ENTITIES: \n- Kay Ivey (Governor)\n- Jim Zeigler\n- Kent Davis (Admiral / ADVA Commissioner)\n- Kimberly Boswell (Department of Mental Health Director)\n- Ed Oliver (State Rep, R-Dadeville)\n- Andrew Jones (State Sen, Centre)\n- Greg Albritton (State Senator)\n- Napoleon Bracy\n- Chip Brown\n- Adline Clarke\n- Barbara Drummond\n- Brett Easterbrook\n- Jennifer Fidler\n- Donna Givens\n- Frances Holk-Jones\n- Chris Pringle\n- Mark Shirey\n- Matt Simpson\n- Shane Stringer\n- Margie Wilcox\n- Alan Baker (State Rep, R-Brewton)\n- Riehm"
+    brief: "THE CONFLICT: In 2019, over 50,000 citizens—mobilized by groups and leaders like Jim Zeigler—fought against proposed toll bridges on the Gulf Coast, demanding no tolls and arguing it was a financial trap for average families. Many local politicians initially stood with the public against the tolls.\n\nTHE DISCOVERY: Article 2 (older context) outlines a fierce political betrayal and systemic corruption under Governor Kay Ivey (\"mee ma\"), detailing how lawmakers voted 56-39 to restructure the State Board of Veterans Affairs in retaliation against ADVA Commissioner Kent Davis for filing an ethics complaint. The complaint targeted Mental Health Director Kimberly Boswell for colluding with state officials to divert $7 million in American Rescue Plan Act (ARPA) funds intended for veterans. \n\nTHE PIVOT: Article 2 serves as the smoking gun proving a pattern of backroom political retaliation, executive overreach, and elected officials cutting the throats of their constituents (voters) to serve the Governor's agenda instead of representing the public. This mirrors the main article's core thesis: politicians flip-flopping, abandoning their principles, and selling out public interests (such as switching from opposing tolls to backing a $3.2 billion toll project with $7.70-$31 daily costs) when pressured by the powers that be.\n\nKEY ENTITIES: \n- Kay Ivey (Governor)\n- Jim Zeigler\n- Kent Davis (Admiral / ADVA Commissioner)\n- Kimberly Boswell (Department of Mental Health Director)\n- Ed Oliver (State Rep, R-Dadeville)\n- Andrew Jones (State Sen, Centre)\n- Greg Albritton (State Senator)\n- Napoleon Bracy\n- Chip Brown\n- Adline Clarke\n- Barbara Drummond\n- Brett Easterbrook\n- Jennifer Fidler\n- Donna Givens\n- Frances Holk-Jones\n- Chris Pringle\n- Mark Shirey\n- Matt Simpson\n- Shane Stringer\n- Margie Wilcox\n- Alan Baker (State Rep, R-Brewton)\n- Riehm"
     llm_text: Remember when Jim Zeigler and 50,000 citizens stopped the Gulf Coast toll trap? Governor Kay Ivey and allied lawmakers now abandon you just like they retaliated against Admiral Kent Davis to bury a $7 million veteran fund scandal.
+    text: Remember when Jim Zeigler and 50,000 citizens stopped the Gulf Coast toll trap? Governor Kay Ivey and allied lawmakers now abandon you just like they retaliated against Admiral Kent Davis to bury a $7 million veteran fund scandal.
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T05:55:06.018391Z"
     model_name: gemini-3.5-flash-lite
   red-lips-award:
-    brief: "THE CONFLICT: \n- In 2019, over 50,000 Alabama citizens—organized by groups including Jim Zeigler's coalition—protested and mounted a massive public outcry against proposed toll bridges on the Gulf Coast, leading many local politicians to campaign on promises to oppose the tolls.\n- In 2024, legislation backed by Governor Kay Ivy restructured the State Board of Veterans Affairs following an ethics complaint filed by ADVA Commissioner Admiral Kent Davis against Department of Mental Health Director Kimberly Boswell regarding $7 million in diverted ARPA funds. State Senator Andrew Jones and State Representative Ed Oliver championed this legislation, passing it 21-9 in the Alabama State Senate.\n\nTHE DISCOVERY: \n- Article 2 reveals deep-seated, systemic corruption within Alabama state government, specifically implicating Governor Kay Ivey, Department of Mental Health Director Kimberly Boswell (who allegedly colluded to divert $7 million in American Rescue Plan Act funds intended for the Alabama Department of Veterans Affairs), and Ethics Commission Director Tom Albritton (who allegedly misappropriated $120,000 from the Mabel Amos Memorial Fund for children's scholarships).\n- It highlights how political retaliation is executed in the state government against whistleblowers like ADVA Commissioner Admiral Kent Davis, and exposes politicians (Andrew Jones, Ed Oliver, and Greg Albritton) acting as political \"flunkies\" to advance the executive branch's vindictive agendas.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun for Article 1 because it proves the exact mechanism of governance described in the toll tax scheme: a compromised, highly corrupt political apparatus where elected officials routinely abandon public interest and voter mandates to serve executive whims and backroom deals. \n- It establishes that the same political class exposed for retaliating against veterans and covering up multi-million dollar trust fund scandals (Tom Albritton/Mabel Amos Trust) and ARPA fund diversions (Kimberly Boswell) is entirely untrustworthy, providing the crucial background context for why politicians who promised to fight tolls in 2019 have now flipped into total turncoats supporting the $3.2 billion, $7.70-per-trip toll project for private investors.\n\nKEY ENTITIES: \n- Governor Kay Ivey\n- Jim Zeigler\n- Admiral Kent Davis\n- Kimberly Boswell\n- Tom Albritton\n- Andrew Jones\n- Ed Oliver\n- Greg Albritton\n- Chris Elliott\n- Vivian Davis Figures\n- Jim White\n- Judge Greg Griffin"
+    brief: "THE CONFLICT: \n- In 2019, over 50,000 Alabama citizens—organized by groups including Jim Zeigler's coalition—protested and mounted a massive public outcry against proposed toll bridges on the Gulf Coast, leading many local politicians to campaign on promises to oppose the tolls.\n- In 2024, legislation backed by Governor Kay Ivy restructured the State Board of Veterans Affairs following an ethics complaint filed by ADVA Commissioner Admiral Kent Davis against Department of Mental Health Director Kimberly Boswell regarding $7 million in diverted ARPA funds. State Senator Andrew Jones and State Representative Ed Oliver championed this legislation, passing it 21-9 in the Alabama State Senate.\n\nTHE DISCOVERY: \n- Article 2 reveals deep-seated, systemic corruption within Alabama state government, specifically implicating Governor Kay Ivey, Department of Mental Health Director Kimberly Boswell (who colluded to divert $7 million in American Rescue Plan Act funds intended for the Alabama Department of Veterans Affairs), and Ethics Commission Director Tom Albritton (who misappropriated $120,000 from the Mabel Amos Memorial Fund for children's scholarships).\n- It highlights how political retaliation is executed in the state government against whistleblowers like ADVA Commissioner Admiral Kent Davis, and exposes politicians (Andrew Jones, Ed Oliver, and Greg Albritton) acting as political \"flunkies\" to advance the executive branch's vindictive agendas.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun for Article 1 because it proves the exact mechanism of governance described in the toll tax scheme: a compromised, highly corrupt political apparatus where elected officials routinely abandon public interest and voter mandates to serve executive whims and backroom deals. \n- It establishes that the same political class exposed for retaliating against veterans and covering up multi-million dollar trust fund scandals (Tom Albritton/Mabel Amos Trust) and ARPA fund diversions (Kimberly Boswell) is entirely untrustworthy, providing the crucial background context for why politicians who promised to fight tolls in 2019 have now flipped into total turncoats supporting the $3.2 billion, $7.70-per-trip toll project for private investors.\n\nKEY ENTITIES: \n- Governor Kay Ivey\n- Jim Zeigler\n- Admiral Kent Davis\n- Kimberly Boswell\n- Tom Albritton\n- Andrew Jones\n- Ed Oliver\n- Greg Albritton\n- Chris Elliott\n- Vivian Davis Figures\n- Jim White\n- Judge Greg Griffin"
     llm_text: When Governor Kay Ivey and her legislative flunkies punish whistleblowers while bleeding millions in state funds, don't expect them to fight for you. See how this corrupt Alabama political apparatus proves Jim Zeigler's toll-fighting coalition was right all along.
+    text: When Governor Kay Ivey and her legislative flunkies punish whistleblowers while bleeding millions in state funds, don't expect them to fight for you. See how this corrupt Alabama political apparatus proves Jim Zeigler's toll-fighting coalition was right all along.
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T05:55:12.059682Z"
-    model_name: gemini-3.5-flash-lite
-  veterans-rally:
-    brief: |-
-      THE CONFLICT: In 2019, a massive public outcry erupted over proposed bridge tolls in the Mobile/Eastern Shore area. Over 50,000 citizens mobilized in opposition, led by figures like Jim Zeigler and organized via groups like South Alabama Citizens for Government Accountability (SACGA). Politicians publicly campaigned against the tolls, promising to block the financial trap for daily commuters.
-
-      THE DISCOVERY: Article 2 (chronologically preceding the current political flip-flop) documents the peak momentum of the 2019 anti-toll resistance and the explicit, unified public rejection of the infrastructure monetization scheme—proving that the current $3.2 billion project directly violates the massive mandate established by local residents.
-
-      THE PIVOT: Article 2 serves as the smoking gun because it exposes the total betrayal and hypocrisy of local politicians. The historical record proves that today's pro-toll politicians—who now champion the $7.70 per trip/$31 daily commuter fee and the ALGO Pass—were the exact same leaders who previously rode the 2019 anti-toll wave to court voter support before turning coat to back the investors.
-
-      KEY ENTITIES:
-      - Jim Zeigler (Organizer/Leader)
-      - South Alabama Citizens for Government Accountability (SACGA)
-      - Eastern Shore commuters
-      - Mobile region politicians / Governor's office
-      - Private investors / ALGO Pass backers
-    llm_text: In 2019, Jim Zeigler and 50,000 outraged commuters mobilized to crush Mobile's bridge tolls. Read how today's flip-flopping politicians rode that massive mandate straight into office before betraying voters to back greedy private investors.
-    widget_date: "2025-02-23"
-    generated_at: "2026-11-06T05:55:17.281948Z"
-    model_name: gemini-3.5-flash-lite
-  war:
-    brief: "THE CONFLICT: Governor Kay Ivey (\"poison Ivy\") utilized \"supreme executive power\" to remove Alabama Department of Veterans Affairs (ADVA) Director Admiral Kent Davis, retaliating against the current veterans board who opposed the move. The state attempted to pass a bill to strip veterans of their independent representation by creating a cabinet position for the ADVA director and reducing the veterans board to an advisory role subservient to the Governor. In response, a veterans rally was scheduled for February 25th at 11:30 in Montgomery, and veterans were urged to blackball and challenge any legislators who voted for the bill.\n\nTHE DISCOVERY: Article 2 (the older background context) exposed Governor Ivey's pattern of autocratic executive overreach, political retaliation, and backroom maneuvering to bypass independent oversight and consolidate power at the expense of citizens—tactics mirroring the stealthy, top-down imposition of the toll tax scheme.\n\nTHE PIVOT: Article 2 serves as the smoking gun because it documents the exact same playbook of executive abuse, secretive policy advancement, and betrayal of public trust by Governor Ivey's administration that later materialized in the $3.2 billion toll tax travesty. \n\nKEY ENTITIES:\n- Governor Kay Ivey (\"poison Ivy\")\n- Admiral Kent Davis\n- Jim Zeigler\n- South Alabama Citizens for Government Accountability (SACGA)\n- Alabama Department of Veterans Affairs (ADVA)"
-    llm_text: Governor Ivey deployed pure autocratic overreach when she ousted ADVA Director Admiral Kent Davis to silence independent oversight. Discover how this blatant political retaliation mirrors the exact top-down tactics behind the $3.2 billion toll tax betrayal.
-    widget_date: "2025-02-22"
-    generated_at: "2026-11-06T05:55:23.221074Z"
     model_name: gemini-3.5-flash-lite

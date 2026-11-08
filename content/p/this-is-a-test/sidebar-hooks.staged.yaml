@@ -1,0 +1,195 @@
+metadata:
+  generated_at: "2026-11-07T04:29:10.881340Z"
+  generator_version: 1.0.0
+  post_slug: this-is-a-test
+  main_date: "2021-10-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  striking-oil:
+    refined_source: 3d6b2a5abc854123ecc6067261a09e34f3ff080a19bc45b13bd186ab92a89563
+    brief: |-
+      THE CONFLICT: Regions Bank brought in over $1 million for managing the Mabel Amos Memorial Fund between 2002 and 2018.
+      THE DISCOVERY: Tom Albritton, Executive Director of the Ethics Commission and attorney, was "Self Dealing" the Mabel Amos Memorial Fund, awarding his daughters $105,000 and paying more than $120,000 to his children's education.
+      THE PIVOT: Article 2 established the financial link (Regions Bank's $1M management fees) and the initial self-dealing by Albritton; Article 1 expands this by detailing specific beneficiaries (Ben Bowden, 45,000) and ongoing legal action (Writ of Mandamus filed October 18th) related to the fund and associated oil findings ($70M-$80M).
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Regions Bank, Ben Bowden, Judge Johnny Hardwick, Francis Paul Ripp, Rob Holbert, Thomas Gallion, Leigh Manning, Rick Clifton
+    llm_text: Tom Albritton siphoned over $225k from the Mabel Amos Memorial Fund managed by Regions Bank. See how this self-dealing impacts the $70M-80M oil findings and the ongoing Writ of Mandamus.
+    text: Tom Albritton took over $225,000 from the Mabel Amos Memorial Fund managed by Regions Bank. This self-dealing connects to oil findings and an ongoing Writ of Mandamus.
+    widget_date: "2021-07-24"
+    generated_at: "2026-11-07T04:26:10.389730Z"
+    model_name: plugsky-lite
+  letter-to-the-alabama-attorney-general:
+    refined_source: 6b3c45129b943912216ea44762e0ea2ea95942831cdfa6a217b061f89ccdbe96
+    brief: |-
+      THE CONFLICT: Ethics Commission failed to investigate complaints regarding a Fairhope councilman using his board position for personal enrichment; Director Tom Albritton was "Self Dealing" the Mabel Amos Memorial Fund.
+      THE DISCOVERY: Article 2 (Letter to Alabama AG) details Albritton's self-dealing, noting he received $105,000 for his daughters' scholarships from the Mabel Amos Memorial Fund, and references a Lagniappe article.
+      THE PIVOT: Article 2 established the initial complaint against Albritton's self-dealing (via the Mabel Amos Fund and Fairhope Councilman case) to the Alabama AG, providing foundational context for the ongoing Writ of Mandamus and subsequent revelations in Article 1 (e.g., $120,000 for his children's education, 2014-2017 payments to Judge Ben Bowden).
+      KEY ENTITIES: Francis Paul Ripp, Tom Albritton, Mabel Amos Memorial Fund, Alabama Attorney General (Steve Marshall), Ethics Commission, Lagniappe, Rob Holbert, Judge Ben Bowden, Judge Michelle Thomasson, Regions Bank, Covington County Circuit Court, Montgomery County Circuit Judge Johnny Hardwick
+    llm_text: Tom Albritton siphoned $105,000 from the Mabel Amos Memorial Fund for his daughters. See how this self-dealing complaint reached the Alabama AG and impacted Fairhope.
+    text: Tom Albritton took $105,000 from the Mabel Amos Memorial Fund for his daughters. This self-dealing complaint reached the Alabama Attorney General and impacted Fairhope.
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-07T04:26:16.713262Z"
+    model_name: plugsky-lite
+  lets-talk-about-the-bama-loss:
+    refined_source: 9510b31b27a9b15fac3d0d7f495dbfb7f694a88fa2246faece790d5c221bc7c9
+    brief: |-
+      THE CONFLICT: Tom Albritton, Ethics Commission Executive Director, engaged in "Self Dealing" of the Mabel Amos Memorial Fund.
+      THE DISCOVERY: The Widget Article revealed general Alabama political figures (Jo Bonner, Chis Elliott, Mike McMillan) and high-profile local issues, including Nick Saban's coaching salary.
+      THE PIVOT: Article 2 does not serve as a 'smoking gun' or direct context for the Mabel Amos Trust scandal; it provides unrelated general contemporary Alabama social and political background.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund, Ben Bowden (Covington County Circuit Court Judge), Regions Bank, Judge Johnny Hardwick (Circuit Judge, Montgomery County), Rob Holbert, Nick Saban, Jo Bonner, Chis Elliott, Mike McMillan, Michelle Thomasson.
+    llm_text: Tom Albritton faced "Self Dealing" allegations over the Mabel Amos Memorial Fund. See how this scandal connects to Alabama politics, featuring figures like Jo Bonner, Mike McMillan, and even Nick Saban's coaching salary.
+    text: Tom Albritton faced self-dealing complaints over the Mabel Amos Memorial Fund. This scandal connects to Alabama politicians like Jo Bonner and Mike McMillan.
+    widget_date: "2021-10-18"
+    generated_at: "2026-11-07T04:26:49.814068Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  make-8-great:
+    brief: |-
+      THE CONFLICT:
+      - Francis Paul Ripp filed Writ of Mandamus on October 18.
+      - Judge Johnny Hardwick, Circuit Judge, Montgomery County, set STATUS REVIEW on all pending motions relative to the Writ of Mandamus, Monday November 25.
+      - Tom Albritton, Executive Director of the Alabama Ethics Commission and attorney, was "Self Dealing" via the Mabel Amos Memorial Fund.
+      - Albritton received more than $120,000 for his children's education from a trust where he was a trustee.
+      - Between 2014 and 2017, Covington County Circuit Court Judge Ben Bowden, former law partner of Albritton, benefited by $45,000 for his children's education.
+      - Albritton rewarded his law partners and a sitting judge with thousands of dollars from the trust.
+      - Regions Bank benefited by $1 million.
+      - Mabel Amos Memorial Fund / Amos 36-3: land leased from the Mabel Amos Memorial Fund; produced $70-80 million worth of oil and gas, potential for another $20 million; after 10 years still produced 100 barrels a day plus millions of cubic feet of natural gas.
+      - Parallel: Baldwin County Family Court Judge Michelle Thomasson had more complaints filed against her than stars in the sky.
+
+      THE DISCOVERY (Article 2 / Widget Article, older = background/historical context):
+      - New proposed Planning District 8 in Fairhope was long overdue.
+      - Fairhope had policy of annexing property only if a property owner made a request.
+      - Fairhope used this policy to avoid annexation of the African American community, per map.
+      - Fairhope spent $2.6 million on farmland for recreation, then rented it for $9,000 a year.
+      - Jack Burrell was behind the $2.6 million farmland purchase; still farmland today.
+      - Park in the African American neighbor got $0 / ZERO.
+      - Burrell, Boone, and Brown pushed the recreation land purchase.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 revealed Fairhope's neglect of the African American community (zero park funding, avoidance of annexation).
+      - Article 1 revealed Alabama corruption via Tom Albritton self-dealing and Ethics Commission/Bar Association inaction.
+      - Article 2's pattern of official neglect/ignoring parallels Article 1's pattern of self-dealing/neglect in the Mabel Amos Trust.
+      - Article 2 acts as the smoking gun / key context linking local land-use neglect to broader Alabama systemic corruption.
+
+      KEY ENTITIES TO MENTION:
+      - Francis Paul Ripp
+      - Judge Johnny Hardwick
+      - Tom Albritton
+      - Rob Holbert
+      - Ben Bowden
+      - Michelle Thomasson
+      - Mabel Amos
+      - Fletcher
+      - Regions Bank
+      - Fairhope
+      - Jack Burrell
+      - Burrell Boone
+      - Brown
+      - Clarice Hall Black
+      - Baldwin County
+      - Conecuh County
+      - Montgomery County
+      - Andalusia, Alabama
+      - Alabama Ethics Commission
+      - Bar Association
+      - IRS, Federal Court, FBI, Banking Commission, civil suit options (from Article 1)
+    llm_text: Francis Paul Ripp's mandamus fight landed before Judge Johnny Hardwick, who put Tom Albritton's self-dealing in the Mabel Amos Trust on status review. Now Fairhope's $2.6 million farmland deal skips the Black community, and readers should care.
+    text: Francis Paul Ripp's mandamus fight landed before Judge Johnny Hardwick, who put Tom Albritton's self-dealing in the Mabel Amos Trust on status review. Now Fairhope's $2.6 million farmland deal skips the Black community, and readers should care.
+    widget_date: "2021-10-16"
+    generated_at: "2026-11-07T04:26:28.408229Z"
+    model_name: recursive/flint-v1.0:free
+  alabama-ugly:
+    refined_source: 8fbf122e3cf2aa32320db2e777c7e2594a01cef4bcadddcb5c047150107f3c5c
+    brief: |-
+      THE CONFLICT: Tom Albritton (Executive Director of the Ethics Commission) was alleged to be "Self Dealing" the Mabel Amos Memorial Fund. The corruption was initially reported by Lagniappe, and the Trust funds were harbored at Regions Bank.
+
+      THE DISCOVERY: The Widget Article established that Tom Albritton, along with lawyers and a circuit court Judge, had "fingers in the pie" regarding the Mabel Amos Memorial Trust.
+
+      THE PIVOT: The Widget Article established the initial allegations of corruption regarding the Mabel Amos Trust, leading Francis Paul Ripp to file the Writ of Mandamus on October 18th, initiating the specific legal tests and exposing concrete financial beneficiaries (e.g., $120,000 to Albritton, $45,000 to Ben Bowden).
+
+      KEY ENTITIES:
+      Francis Paul Ripp
+      Judge Johnny Hardwick (Circuit Judge, Montgomery County)
+      Tom Albritton (Ethics Commission Executive Director)
+      Ben Bowden (Covington County Circuit Court Judge, 2014-2017)
+      Judge Michelle Thomasson (Baldwin County Family Court)
+      Mabel Amos Memorial Fund/Trust
+      Regions Bank
+      Tommy Gallion
+      Leigh Manning
+      Alabama Ethics Commission
+      Alabama Bar Association
+      Conecuh County
+      Andalusia
+    llm_text: Tom Albritton, Ethics Commission Executive Director, self-dealt the Mabel Amos Memorial Fund harbored at Regions Bank. Francis Paul Ripp filed a Writ of Mandamus, exposing corruption that gave Albritton $120,000 and Ben Bowden $45,000.
+    text: Ethics Commission Director Tom Albritton self-dealt from the Mabel Amos Memorial Fund at Regions Bank. Francis Paul Ripp filed a Writ of Mandamus to expose payments to Albritton and Ben Bowden.
+    widget_date: "2021-09-10"
+    generated_at: "2026-11-07T04:27:49.152142Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion-2:
+    refined_source: 8293bee1ab9ed13dea54b19cebe45cf59ba75831b4b146dc2363bde2ff016115
+    brief: |-
+      THE CONFLICT:
+      * Mabel Amos's will mandates strict language against "self-dealing" by trustees.
+      * Tom Albritton, Executive Director of the Alabama Ethics Commission, is accused of "Self Dealing" his family.
+      * Albritton has received over $120,000 for his children's education from the Mabel Amos Memorial Fund.
+      * Other trustees, John Bell and Rick Clifton, are also implicated in receiving "scholarships."
+      * Covington County Circuit Court Judge Ben Bowden benefited $45,000 for his children's education between 2014 and 2017.
+
+      THE DISCOVERY:
+      * Article 2 established the trust's strict "self-dealing" prohibition in the will.
+      * Article 2 also named John Bell and Rick Clifton as trustees alongside Tom Albritton.
+      * Article 2 highlighted the initial complaint filing against Albritton by The Ripp Report.
+
+      THE PIVOT:
+      * Article 2 establishes the legal standard (the will's "self-dealing" clause) that Article 1 claims was violated by Albritton.
+      * Article 2 provides the context of the initial allegations and the Ethics Commission's initial dismissal/response, setting up the continuing legal challenge (Writ of Mandamus) in Article 1.
+
+      KEY ENTITIES:
+      * Tom Albritton (Executive Director, Alabama Ethics Commission)
+      * Mabel Amos Memorial Fund
+      * Francis Paul Ripp (The Ripp Report)
+      * John Bell (Trustee, Regions Bank)
+      * Rick Clifton (Trustee)
+      * Ben Bowden (Covington County Circuit Court Judge)
+      * Regions Bank
+      * Judge Johnny Hardwick (Circuit Judge, Montgomery County)
+      * Judge Michelle Thomasson (Baldwin County Family Court)
+    llm_text: Tom Albritton took over $120k for his family from the Mabel Amos Memorial Fund, violating the trust's strict "self-dealing" rules. See how Judge Ben Bowden and trustees John Bell and Rick Clifton also benefited.
+    text: Tom Albritton took over $120,000 for his family from the Mabel Amos Memorial Fund, breaking strict self-dealing rules. Judge Ben Bowden and trustees John Bell and Rick Clifton also benefited.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-07T04:26:04.440381Z"
+    model_name: plugsky-lite
+  license-to-steal:
+    refined_source: a8ad77dc8464bdeac66b2336849a44937fa0550ff516f87ef84b47bdad8cbf3f
+    brief: |-
+      THE CONFLICT:
+      Tom Albritton, Executive Director of the Ethics Commission, was accused of "Self Dealing" the Mabel Amos Memorial Fund.
+      Albritton received over $100,000 (specifically cited as over $120,000) for his children’s college tuition from a trust where he served as a trustee.
+      Between 2014 and 2017, Covington County Circuit Court Judge Ben Bowden (Albritton's former law partner) benefited $45,000 from the trust.
+      Regions Bank benefited $1 million from the Mabel Amos Trust.
+      Francis Paul Ripp filed a Writ of Mandamus on October 18th, seeking a status review on November 25th, before Judge Johnny Hardwick, Circuit Judge, Montgomery County.
+
+      THE DISCOVERY:
+      In March 2018, Alabama Attorney General Steve Marshall repeatedly criticized the Alabama Ethics Commission, labeling it a "license to steal" and questioning its integrity due to Albritton's conflicts of interest.
+
+      THE PIVOT:
+      Article 2 (2018) established the initial, documented conflict of interest of the Ethics Commission Director (Tom Albritton) and Vice Chair (John Plunk), proving the institutional compromise predates the current legal challenge (Article 1, 2021/2022), thus framing the current effort as a systemic test of Alabama ethics, not an isolated incident.
+
+      KEY ENTITIES:
+      Tom Albritton (Ethics Commission Director, attorney)
+      John Plunk (Ethics Commission Vice Chair)
+      Francis Paul Ripp (The Ripp Report)
+      Judge Johnny Hardwick (Circuit Judge, Montgomery County)
+      Steve Marshall (Alabama Attorney General)
+      Mabel Amos Trust (Memorial Fund)
+      Ben Bowden (Covington County Circuit Court Judge, former law partner)
+      Regions Bank
+      Judge Michelle Thomasson (Baldwin County Family Court)
+      Rob Holbert (Media source)
+      Alabama Ethics Commission
+      Alabama Bar Association
+    llm_text: Ethics Director Tom Albritton self-dealt over $120,000 from the Mabel Amos Memorial Fund for his children's tuition. This institutional compromise, which Steve Marshall called a "license to steal," proves Alabama ethics requires systemic reform now.
+    text: Ethics Director Tom Albritton took over $120,000 from the Mabel Amos Memorial Fund for his children's tuition. Steve Marshall called this a license to steal, proving Alabama ethics needs reform.
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-07T04:28:49.504039Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

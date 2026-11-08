@@ -148,19 +148,25 @@ prints its results and does not write a repair report.
 
 ```sh
 ./bin/pipeline audit-content
-./bin/pipeline audit-content --no-lmstudio --request-delay=0s
+./bin/pipeline audit-content --no-model --request-delay=0s
 ./bin/pipeline audit-content --posts sample-post --resume=false
 ```
 
-The default uses the OpenAI-compatible API at `http://localhost:1234/v1`, model
-`qwen/qwen3-30b-a3b-128k`, up to 8,000 characters per post, a 600-second model
-timeout, and a two-second delay between posts. The conservative prompt only
+The default uses the pipeline's `config.yaml` settings for `llama_server.base_url`,
+`llama_server.llm_model`, and managed process settings. In managed mode the audit
+starts llama-server with the completion model and stops it on completion or
+cancellation, just like the other pipeline commands. Use `--config` to select a
+configuration, `--model` to override the GGUF path/name, or `--managed=false`
+to connect to an existing server. `--llama-server-url` selects an existing server
+and disables managed startup unless `--managed` is explicitly supplied.
+The audit sends up to 8,000 characters per post, with a 600-second model timeout
+and a two-second delay between posts. The conservative prompt only
 flags WordPress `[gallery]`, `[embed]`, `[caption]`, `[video]`, `[audio]`, and
 `[playlist]` shortcodes, including attributes/closing tags. It excludes ordinary
 Markdown links, HTML, Hugo shortcodes, front matter, and code examples. Thinking
 blocks and JSON fences in model responses are handled.
 
-`--no-lmstudio` performs local detection, excluding front matter, fenced and
+`--no-model` performs local detection without loading configuration or starting a model (`--no-lmstudio` remains a compatibility alias). It excludes front matter, fenced and
 indented code, inline code, HTML code/pre blocks, Hugo shortcode bodies, escaped
 brackets, and ordinary Markdown links/reference definitions.
 
@@ -171,7 +177,7 @@ The resumable report keeps the original JSON array format:
 ```
 
 Its default path is `hugo_post_audit_report.json` in the site root. Flags include
-`--report`, `--content-dir`, `--posts`, `--resume`, `--lmstudio-url`, `--model`,
+`--report`, `--content-dir`, `--posts`, `--resume`, `--config`, `--managed`, `--llama-server-url`, `--model`,
 `--model-timeout`, `--model-retries`, `--max-content-length`, and
 `--request-delay`. Each completed post is saved atomically. Model/parse errors
 are recorded explicitly and return a failing exit status. Failed records are

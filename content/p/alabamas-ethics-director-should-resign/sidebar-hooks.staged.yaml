@@ -5,73 +5,18 @@ metadata:
   main_date: "2023-03-04"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      *   2021: Alabama Ethics Commission Director Tom Albritton was accused by Attorney General Steve Marshall in a Civil Filing of improperly benefiting from The Mabel Amos Memorial Scholarship Trust as a "Trustee."
-      *   Albritton's children reportedly received over $100,000 from the trust.
-      *   Actions included an Ethics Complaint, a Bar Complaint, and a Writ of Mandamus in Montgomery County Circuit Court, based on Albritton's alleged self-dealing.
-      *   2022: Mr. Still ran for Attorney General against Mr. Marshall, campaigning on the issues of the Ethics Commission and the Mabel Amos Trust.
-
-      THE DISCOVERY:
-      *   Article 2 (Podcast) reports on broader Alabama political issues, including Governor Kay Ivey firing Admiral Kent Davis and exposing "good old boy" system ties between a hospice business and a Clarke County judge.
-      *   Article 2 does not provide a factual update regarding Tom Albritton or the Mabel Amos Trust case.
-
-      THE PIVOT:
-      *   Article 2 provides context regarding systemic political corruption and accountability failures ("good old boy" system, police accountability questions) in Alabama, which reinforces the larger pattern of ethical issues presented in Article 1, but it is not a direct factual update to the Albritton case.
-
-      KEY ENTITIES:
-      *   Tom Albritton (Ethics Commission Director)
-      *   Steve Marshall (Attorney General)
-      *   The Mabel Amos Memorial Scholarship Trust
-      *   Kay Ivey (Governor)
-      *   Admiral Kent Davis
-      *   Clarke County
-      *   Montgomery County Circuit Court
-      *   Mr. Still (R-Baldwin)
-    llm_text: Ethics Director Tom Albritton faced legal challenges from Steve Marshall over his alleged self-dealing using The Mabel Amos Memorial Scholarship Trust. See how this specific corruption fits into Alabama's larger "good old boy" political system under Governor Kay Ivey.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T20:05:33.657943Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: df4fd61b18fb4b3e81f260691bc40bbfa5393522c33a849cddb5fceeeae71ed5
     brief: |-
-      THE CONFLICT: 2021: Attorney General Steve Marshall filed a Civil Filing alleging Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust; Albritton was a "Trustee" and his children received over $100,000; complaints against Albritton were allegedly disposed of without investigation in 2021.
+      THE CONFLICT: 2021: Attorney General Steve Marshall filed a Civil Filing alleging Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust; Albritton was a "Trustee" and his children received over $100,000; complaints against Albritton were disposed of without investigation in 2021.
       THE DISCOVERY: Article 2 (newer) mentions companies with political ties scoring million-dollar contracts and courts stepping into a scandal where scholarships meant for the public went to insiders, indicating ongoing issues regarding public funds and political influence.
       THE PIVOT: Article 2 frames the scholarship misuse (Article 1) within a larger context of corruption where politically connected companies receive large contracts while self-investigations (like the Ethics Commission's) lack accountability, highlighting systemic failure rather than just an individual ethics breach.
       KEY ENTITIES: Tom Albritton, Steve Marshall, Alabama Ethics Commission, The Mabel Amos Memorial Scholarship Trust, Baldwin County District Attorney, Alabama.
     llm_text: Steve Marshall accused Tom Albritton of funneling over $100k from the Mabel Amos Scholarship Trust to his children. See how this misuse connects to bigger political deals and weak accountability in Alabama.
+    text: Steve Marshall accused Tom Albritton of funneling over $100,000 from the Mabel Amos Scholarship Trust to his children, exposing weak accountability in Alabama.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T20:05:00.228931Z"
     model_name: plugsky-lite
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton (Alabama Ethics Commission Director) improperly benefited from The Mabel Amos Memorial Scholarship Trust as a Trustee.
-      *   Albritton's children received over $100,000 from the Trust.
-      *   AG Steve Marshall filed a Civil Filing in 2021, along with an Ethics Complaint, a Bar Complaint against Albritton, and a Writ of Mandamus in Montgomery County Circuit Court.
-
-      THE DISCOVERY:
-      *   Article 2 highlights systemic corruption in Alabama's legal and political systems, including the Dothan Summer Feeding Scandal.
-      *   Article 2 details ongoing legal controversies, including the Mack vs Hadley theft case (Baldwin County Sheriff's Department) and the Rule 32 Petition for a new trial for Murray Lawrence Jr. (due to undisclosed 2005 autopsies/Brady Violation).
-      *   Article 2 mentions corrupt Alabama Federal Judge Mark Fuller (Mobile, Alabama).
-
-      THE PIVOT:
-      *   Article 2 does not provide a direct update on Tom Albritton's Mabel Amos Trust case; instead, it frames Albritton's specific ethical breach within a broader, documented pattern of institutional corruption across Alabama (e.g., Dothan Scandal, Judge Fuller, Brady violations).
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   Steve Marshall (Attorney General)
-      *   The Mabel Amos Memorial Scholarship Trust
-      *   Alabama Ethics Commission
-      *   Judge Mark Fuller
-      *   Dothan Summer Feeding Scandal
-      *   Mack vs Hadley
-      *   Murray Lawrence Jr.
-      *   Baldwin County Sheriff's Department
-    llm_text: Alabama Ethics Director Tom Albritton improperly benefited from the Mabel Amos Trust, giving his children over $100k. Attorney General Steve Marshall's actions expose systemic corruption spanning the Dothan Scandal to Judge Mark Fuller's documented issues.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T20:06:45.552225Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
     brief: |-
       THE CONFLICT:
@@ -117,60 +62,78 @@ hooks:
       - First Amendment.
       - Local school district corruption.
     llm_text: Alabama Ethics Director Tom Albritton should resign after Attorney General Steve Marshall alleged Albritton self-dealt with the Mabel Amos Trust and sent his kids over $100,000. The Ripp Report links that ethics fight to the newer Hunter Biden pardon and broader misconduct storm.
+    text: Alabama Ethics Director Tom Albritton should resign after Attorney General Steve Marshall alleged Albritton self-dealt with the Mabel Amos Trust and sent his kids over $100,000. The Ripp Report links that ethics fight to the newer Hunter Biden pardon and broader misconduct storm.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T20:05:41.601300Z"
     model_name: recursive/flint-v1.0:free
-  backstory-podcast-no-186-change-is-coming-alabama:
+  the-crime-of-the-century:
+    refined_source: 82ccde7e8209bdbed4ab0e50010f0bfc368e2ded20cbfba779c53a11c0d8b311
     brief: |-
-      THE CONFLICT: 2021; Attorney General Steve Marshall alleged Tom Albritton (Alabama Ethics Commission Director) improperly benefited from The Mabel Amos Memorial Scholarship Trust; Albritton's children received over $100,000 from the Trust; Allegations included Ethics Complaint, Bar Complaint, and Writ of Mandamus filed in Circuit Court of Montgomery County regarding Albritton's handling of complaints and self-dealing as Trustee.
-      THE DISCOVERY: Article 2 (Podcast No. 186) contains no new facts or updates regarding Tom Albritton, the Mabel Amos Trust, or the 2021 allegations; it covers 2024 US Presidential election results, Ukraine war, and Alabama rural hospitals.
-      THE PIVOT: Article 2 does not provide the key context or 'smoking gun' for Article 1; Article 2's content is unrelated to the 2021 Ethics Commission allegations.
-      KEY ENTITIES: Steve Marshall, Tom Albritton, The Mabel Amos Memorial Scholarship Trust, Circuit Court of Montgomery County, Alabama Ethics Commission, Brandon, R-Baldwin.
-    llm_text: Did Tom Albritton improperly benefit from The Mabel Amos Memorial Scholarship Trust? See why Steve Marshall pursued ethics and bar complaints over his $100k-plus benefit.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T20:05:06.474704Z"
-    model_name: plugsky-lite
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT: 2021 - Attorney General Steve Marshall filed a Civil Filing alleging Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust, from which Albritton's children received over $100,000; included Ethics Complaint, Bar Complaint, and Writ of Mandamus in Circuit Court of Montgomery County regarding Albritton's handling of complaints.
-      THE DISCOVERY: Article 2 does not update the status of Tom Albritton or the Mabel Amos Trust investigation.
-      THE PIVOT: Article 2 does not provide context or evidence regarding the Albritton ethics allegations.
-      KEY ENTITIES: Steve Marshall, Tom Albritton, The Mabel Amos Memorial Scholarship Trust, Circuit Court of Montgomery County, Governor Ivey, Brandon Thompson, Andy Ruten, Bob Wills, Baldwin County
-    llm_text: Attorney General Steve Marshall sued Ethics Director Tom Albritton over $100k from the Mabel Amos Memorial Trust. See how the Circuit Court of Montgomery County case involving Albritton plays out for local accountability.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T20:05:11.824023Z"
-    model_name: plugsky-lite
+      THE CONFLICT:
+      *   2021: Alabama Ethics Commission Director Tom Albritton was accused by Attorney General Steve Marshall in a Civil Filing of improperly benefiting from The Mabel Amos Memorial Scholarship Trust as a "Trustee."
+      *   Albritton's children reportedly received over $100,000 from the trust.
+      *   Actions included an Ethics Complaint, a Bar Complaint, and a Writ of Mandamus in Montgomery County Circuit Court, based on Albritton's alleged self-dealing.
+      *   2022: Mr. Still ran for Attorney General against Mr. Marshall, campaigning on the issues of the Ethics Commission and the Mabel Amos Trust.
+
+      THE DISCOVERY:
+      *   Article 2 (Podcast) reports on broader Alabama political issues, including Governor Kay Ivey firing Admiral Kent Davis and exposing "good old boy" system ties between a hospice business and a Clarke County judge.
+      *   Article 2 does not provide a factual update regarding Tom Albritton or the Mabel Amos Trust case.
+
+      THE PIVOT:
+      *   Article 2 provides context regarding systemic political corruption and accountability failures ("good old boy" system, police accountability questions) in Alabama, which reinforces the larger pattern of ethical issues presented in Article 1, but it is not a direct factual update to the Albritton case.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Ethics Commission Director)
+      *   Steve Marshall (Attorney General)
+      *   The Mabel Amos Memorial Scholarship Trust
+      *   Kay Ivey (Governor)
+      *   Admiral Kent Davis
+      *   Clarke County
+      *   Montgomery County Circuit Court
+      *   Mr. Still (R-Baldwin)
+    llm_text: Ethics Director Tom Albritton faced legal challenges from Steve Marshall over his alleged self-dealing using The Mabel Amos Memorial Scholarship Trust. See how this specific corruption fits into Alabama's larger "good old boy" political system under Governor Kay Ivey.
+    text: Ethics Director Tom Albritton faced legal challenges from Steve Marshall over alleged self-dealing using the Mabel Amos Memorial Scholarship Trust.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T20:05:33.657943Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: 1c35d57f9fdbcaa7f7873f29aa3a4616e25f55c7e715cd49b442c94cefb49ef1
     brief: |-
       THE CONFLICT: 2021; Attorney General Steve Marshall filed a Civil Filing alleging Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust; Albritton was a "Trustee" and his children received over $100,000 from the Trust; Mr. Ripp filed an Ethics Complaint, a Bar Complaint against Mr. Albritton, and a Writ of Mandamus in Circuit Court of Montgomery County concerning uninvestigated complaints and self dealing.
       THE DISCOVERY: Article 2 does not provide an update on the Albritton matter.
       THE PIVOT: Article 2 offers no context or evidence regarding the ethics allegations against Tom Albritton.
       KEY ENTITIES: Steve Marshall, Tom Albritton, The Mabel Amos Memorial Scholarship Trust, Mr. Ripp, Circuit Court of Montgomery County, Thomas Daniel "Danny" Williams Jr, Pete Rose, Katie Britt, Adm. Kent Davis
     llm_text: Attorney General Steve Marshall accused Ethics Director Tom Albritton of improperly benefiting from the Mabel Amos Memorial Scholarship Trust; see how Mr. Ripp's complaints hit the Circuit Court of Montgomery County.
+    text: Attorney General Steve Marshall accused Ethics Director Tom Albritton of improperly benefiting from the Mabel Amos Memorial Scholarship Trust in Montgomery County.
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T20:05:20.401720Z"
     model_name: plugsky-lite
   hatians-eating-cats:
+    refined_source: 2f94629a582ad9b8ef02e92022de2a2f6e81f2f0cd19e59b4e51677710fd37e3
     brief: |-
       THE CONFLICT: Tom Albritton, Alabama Ethics Commission Director, was alleged by Attorney General Steve Marshall in a Civil Filing in 2021 to improperly benefit from The Mabel Amos Memorial Scholarship Trust, from which his children received over $100,000. Allegations included self dealing as a Trustee and disposal of three complaints without investigation.
       THE DISCOVERY: Article 2 provides no direct update on Tom Albritton or the Mabel Amos Trust.
       THE PIVOT: Article 2 does not provide key context or a smoking gun related to Tom Albritton's ethics allegations; it is unrelated filler content.
       KEY ENTITIES: Tom Albritton, Steve Marshall, The Mabel Amos Memorial Scholarship Trust, Alabama Ethics Commission, Kent David, Donald Trump
     llm_text: AG Marshall alleged Ethics Director Tom Albritton improperly benefited his children from the Mabel Amos Trust with over $100k. See why this Alabama ethics scandal matters to local governance today.
+    text: AG Steve Marshall alleged Ethics Director Tom Albritton improperly benefited his children from the Mabel Amos Trust with over $100,000 in scholarship funds.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T20:05:30.131851Z"
     model_name: plugsky-lite
   the-180:
+    refined_source: 9b61a6066acc89fc90e26c8a3ee8ee34f25fb28d094f9095874787c840f63693
     brief: |-
       THE CONFLICT: 2021 - Alabama Ethics Commission Director Tom Albritton was accused by Attorney General Steve Marshall of improper benefit from The Mabel Amos Memorial Scholarship Trust, where Albritton was a "Trustee" and his children received over $100,000. Related actions included an Ethics Complaint, a Bar Complaint against Albritton, and a Writ of Mandamus in Circuit Court of Montgomery County regarding his disposal of complaints.
       THE DISCOVERY: Article 2 contains no factual updates regarding Tom Albritton, the Mabel Amos Trust, or the 2021 ethics allegations. It discusses Kamala Harris, RFK Jr, Trump, Sheriff Mack's departure in Baldwin County, and University of Alabama Football.
       THE PIVOT: Article 2 does not provide context or evidence regarding Article 1's allegations against Tom Albritton.
       KEY ENTITIES: Tom Albritton, Steve Marshall, The Mabel Amos Memorial Scholarship Trust, Kamala Harris, RFK Jr, Donald Trump, Sheriff Mack, Alabama Ethics Commission
     llm_text: Tom Albritton faced ethics claims from Steve Marshall over $100k from the Mabel Amos Trust. See how these 2021 Alabama allegations connect to today's political landscape.
+    text: Tom Albritton faced ethics claims from Steve Marshall over $100,000 from the Mabel Amos Trust. These 2021 Alabama allegations connect to today's political landscape.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T20:05:39.038010Z"
     model_name: plugsky-lite
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: d45555a9ef6dafb38d813de48f22185068443426babe74f18645addb65f184a8
     brief: |-
       THE CONFLICT:
       * 2021: Attorney General Steve Marshall alleged Civil Filing that Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust, from which Albritton's children received over $100,000.
@@ -199,6 +162,62 @@ hooks:
       * Governor Ivey
       * May Jung LLC
     llm_text: Tom Albritton’s $100k trust scandal connects to current Baldwin County issues, including Sheriff Mack's exit and the Brandon Thompson lawsuit. See how local governance struggles persist across Alabama politics.
+    text: Tom Albritton’s $100,000 trust scandal connects to current Baldwin County issues, including Sheriff Hoss Mack's exit and the Brandon Thompson lawsuit.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T20:05:50.713704Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 6a2343b14f6ec91b9a2a6a298ad303b078c9c19f7f52535f6aa098ee8ce9172f
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton (Alabama Ethics Commission Director) improperly benefited from The Mabel Amos Memorial Scholarship Trust as a Trustee.
+      *   Albritton's children received over $100,000 from the Trust.
+      *   AG Steve Marshall filed a Civil Filing in 2021, along with an Ethics Complaint, a Bar Complaint against Albritton, and a Writ of Mandamus in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   Article 2 highlights systemic corruption in Alabama's legal and political systems, including the Dothan Summer Feeding Scandal.
+      *   Article 2 details ongoing legal controversies, including the Mack vs Hadley theft case (Baldwin County Sheriff's Department) and the Rule 32 Petition for a new trial for Murray Lawrence Jr. (due to undisclosed 2005 autopsies/Brady Violation).
+      *   Article 2 mentions corrupt Alabama Federal Judge Mark Fuller (Mobile, Alabama).
+
+      THE PIVOT:
+      *   Article 2 does not provide a direct update on Tom Albritton's Mabel Amos Trust case; instead, it frames Albritton's specific ethical breach within a broader, documented pattern of institutional corruption across Alabama (e.g., Dothan Scandal, Judge Fuller, Brady violations).
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Steve Marshall (Attorney General)
+      *   The Mabel Amos Memorial Scholarship Trust
+      *   Alabama Ethics Commission
+      *   Judge Mark Fuller
+      *   Dothan Summer Feeding Scandal
+      *   Mack vs Hadley
+      *   Murray Lawrence Jr.
+      *   Baldwin County Sheriff's Department
+    llm_text: Alabama Ethics Director Tom Albritton improperly benefited from the Mabel Amos Trust, giving his children over $100k. Attorney General Steve Marshall's actions expose systemic corruption spanning the Dothan Scandal to Judge Mark Fuller's documented issues.
+    text: Alabama Ethics Director Tom Albritton gave his children over $100,000 from the Mabel Amos Trust. Attorney General Steve Marshall filed actions exposing systemic corruption.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T20:06:45.552225Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 44047da5f788989817d40f998d320422905f81dc6bc28655e24b570112c6e6dc
+    brief: |-
+      THE CONFLICT: 2021; Attorney General Steve Marshall alleged Tom Albritton (Alabama Ethics Commission Director) improperly benefited from The Mabel Amos Memorial Scholarship Trust; Albritton's children received over $100,000 from the Trust; Allegations included Ethics Complaint, Bar Complaint, and Writ of Mandamus filed in Circuit Court of Montgomery County regarding Albritton's handling of complaints and self-dealing as Trustee.
+      THE DISCOVERY: Article 2 (Podcast No. 186) contains no new facts or updates regarding Tom Albritton, the Mabel Amos Trust, or the 2021 allegations; it covers 2024 US Presidential election results, Ukraine war, and Alabama rural hospitals.
+      THE PIVOT: Article 2 does not provide the key context or 'smoking gun' for Article 1; Article 2's content is unrelated to the 2021 Ethics Commission allegations.
+      KEY ENTITIES: Steve Marshall, Tom Albritton, The Mabel Amos Memorial Scholarship Trust, Circuit Court of Montgomery County, Alabama Ethics Commission, Brandon, R-Baldwin.
+    llm_text: Did Tom Albritton improperly benefit from The Mabel Amos Memorial Scholarship Trust? See why Steve Marshall pursued ethics and bar complaints over his $100k-plus benefit.
+    text: Did Tom Albritton improperly benefit from the Mabel Amos Memorial Scholarship Trust? Steve Marshall pursued ethics and bar complaints over the $100,000 payout.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T20:05:06.474704Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: 92fde440a64e1f1da209b693963790e65c25ed9d5e304c081e363f6db80f7d65
+    brief: |-
+      THE CONFLICT: 2021 - Attorney General Steve Marshall filed a Civil Filing alleging Alabama Ethics Commission Director Tom Albritton improperly benefited from The Mabel Amos Memorial Scholarship Trust, from which Albritton's children received over $100,000; included Ethics Complaint, Bar Complaint, and Writ of Mandamus in Circuit Court of Montgomery County regarding Albritton's handling of complaints.
+      THE DISCOVERY: Article 2 does not update the status of Tom Albritton or the Mabel Amos Trust investigation.
+      THE PIVOT: Article 2 does not provide context or evidence regarding the Albritton ethics allegations.
+      KEY ENTITIES: Steve Marshall, Tom Albritton, The Mabel Amos Memorial Scholarship Trust, Circuit Court of Montgomery County, Governor Ivey, Brandon Thompson, Andy Ruten, Bob Wills, Baldwin County
+    llm_text: Attorney General Steve Marshall sued Ethics Director Tom Albritton over $100k from the Mabel Amos Memorial Trust. See how the Circuit Court of Montgomery County case involving Albritton plays out for local accountability.
+    text: Attorney General Steve Marshall sued Ethics Director Tom Albritton over $100,000 from the Mabel Amos Memorial Trust in the Circuit Court of Montgomery County.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T20:05:11.824023Z"
     model_name: plugsky-lite

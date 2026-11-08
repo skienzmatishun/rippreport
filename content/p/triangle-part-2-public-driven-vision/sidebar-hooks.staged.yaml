@@ -1,0 +1,219 @@
+metadata:
+  generated_at: "2026-11-08T15:46:43.140372Z"
+  generator_version: 1.0.0
+  post_slug: triangle-part-2-public-driven-vision
+  main_date: "2018-04-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  chuckie-cheeze:
+    brief: |-
+      THE CONFLICT:
+      *   Triangle land litigation spanned over 25 years.
+      *   Fairhope purchased the Triangle land for $11.25 Million, including $3 Million in legal fees.
+      *   Council President Jack Burrell and Kevin Boone advocate for placing the Triangle into a conservation easement/park, opposing development.
+      *   Past scandals referenced include the Fairhope Airport scandal involving Jack Burrell, the Tatumville debacle, and Councilman Brown's contract with the Eastern Shore Art Museum.
+      *   Jack Burrell denied a citizen the right to free speech.
+
+      THE DISCOVERY:
+      *   Article 2 alleged that journalist "Chuckee" (editor of *The Fairhope Courier* and *Baldwin Insider*) was politically biased toward "Catalyst."
+      *   Article 2 specifically called out Kevin Boone's numerous LLCs and the misconduct of Jack Burrell.
+
+      THE PIVOT:
+      *   Article 2 provides historical context detailing past political corruption, failed transparency, and documented misconduct involving Jack Burrell and Kevin Boone (Tatumville, Airport scandal, free speech denial).
+      *   This history establishes the environment where the 25-year Triangle litigation occurred, resulting in millions paid by taxpayers, setting the stage for the current debate over whether the land should be preserved against the "Public-Driven vision" of the Comprehensive Plan.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (Fairhope Council President)
+      *   Kevin Boone
+      *   Mayor Kant
+      *   Fairhope
+      *   Triangle
+      *   $11.25 Million
+      *   $3 Million
+      *   $650,000
+      *   RESTORE Act
+      *   Eastern Shore Art Museum
+      *   Tatumville
+      *   Fairhope Airport
+      *   The Fairhope Courier
+      *   Baldwin Insider
+    llm_text: The 25-year Triangle litigation cost Fairhope $11.25 million. Given the documented misconduct of Jack Burrell and Kevin Boone—including the Fairhope Airport scandal—can we trust the current land preservation debate?
+    widget_date: "2018-04-04"
+    generated_at: "2026-11-08T15:39:17.003441Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-triangle-mega-site:
+    brief: |-
+      THE CONFLICT:
+      *   The Triangle property in Fairhope was subject to litigation for over 25 years.
+      *   The property was purchased by the City of Fairhope as a legal settlement.
+      *   The settlement cost the City $11.25 million, including approximately $3 million in legal fees.
+      *   This settlement occurred under previous City Council leadership (Burrell and Boone) without public participation.
+
+      THE DISCOVERY:
+      *   The purchase was not a voluntary decision for a City Park but was mandated by a lawsuit settlement.
+      *   Councilmen Burrell and Boone, along with Mayor Kant, allegedly kept the public uninformed about the settlement terms.
+      *   The purchase included tax incentives favoring the sellers.
+      *   The estimated current land value is between $16 and $20 million.
+
+      THE PIVOT:
+      *   The historical facts (Widget Article) show the property acquisition was a non-voluntary, expensive legal settlement, contradicting claims of a "voluntary purchase for a City Park."
+      *   This past context challenges the current push by Burrell and Boone to place the Triangle into a conservation easement or "park," potentially eliminating Fairhope’s most valuable land asset from the $650,000 Public-Driven Vision Comprehensive Plan approved by Mayor Wilson.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Triangle property
+      *   Mayor Karin Wilson
+      *   Mayor Kant
+      *   Council President Jack Burrell
+      *   Mr Kevin Boone
+      *   $11.25 Million
+      *   $3 Million
+      *   $650,000
+      *   Restore Act
+      *   BP (funding source)
+    llm_text: Councilmen Burrell and Boone bought the Triangle property for $11.25 million, not as a voluntary park, but via a mandated legal settlement. This history challenges Mayor Wilson’s $650,000 Public-Driven Vision Plan, putting Fairhope's most valuable land at risk.
+    widget_date: "2018-03-30"
+    generated_at: "2026-11-08T15:41:28.074082Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald:
+    brief: |-
+      THE CONFLICT: Alabama Ethics Commission seeks to change existing Ethics laws, expanding its role following the Mike Hubbard conviction; the Commission has not held anyone in Baldwin County accountable despite dozens of filed complaints.
+      THE DISCOVERY: The Alabama Ethics Commission lacks demonstrated effectiveness in enforcing local ethics within Baldwin County.
+      THE PIVOT: The historical lack of local ethics accountability (Article 2) provides critical context for the ongoing political dispute over Fairhope's Triangle land (Article 1), suggesting institutional vulnerability in the decision-making process regarding Fairhope's most valuable asset.
+      KEY ENTITIES: Alabama Ethics Commission, Mike Hubbard, Baldwin County, Fairhope, Triangle, Mayor Karin Wilson, Jack Burrell, Kevin Boone, Kant, $11.25 Million, $3 Million, $650,000, Restore Act.
+    llm_text: The Alabama Ethics Commission ignored dozens of Baldwin County complaints, failing to hold anyone accountable even after the Mike Hubbard conviction. This institutional vulnerability matters now as Fairhope debates the $11.25 million Triangle land deal.
+    widget_date: "2018-03-23"
+    generated_at: "2026-11-08T15:42:43.981419Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cattle-gate-mega-site:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope’s Triangle was subject to litigation for over 25 years.
+      *   Baldwin County Commissioners and Economic Development Alliance failed to find a tenant for the Baldwin County Mega-site, documented in January, February, and May of last year.
+      *   Fairhope purchased the Triangle for $11.25 Million, including $3 million in legal fees.
+
+      THE DISCOVERY:
+      *   The Baldwin County Mega-site is an undeveloped 32 million dollar property lacking a sign and only having a cattle gate.
+      *   The Mega-site (700 hundred acres) is not suitable for cattle or development.
+
+      THE PIVOT:
+      *   The Mega-site situation demonstrates a regional pattern of political failure, inaction, and wasted resources concerning large, high-value, undeveloped land assets in the region.
+      *   This context highlights the political resistance (advocated by Jack Burrell and Kevin Boone) to developing Fairhope’s Triangle, despite the city having paid millions in legal fees and subsequently funding a $650,000 Comprehensive Land Use Plan.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Fairhope’s Triangle
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (Council President)
+      *   Kevin Boone
+      *   BP (Restore Act funding)
+      *   Baldwin County
+      *   Baldwin County Economic Development Alliance
+    llm_text: Fairhope spent $11.25 million on its Triangle, while Baldwin County lets its $32 million Mega-site sit undeveloped. Political resistance from Jack Burrell and Kevin Boone now stalls development despite city efforts, proving regional inaction wastes huge resources.
+    widget_date: "2018-03-02"
+    generated_at: "2026-11-08T15:45:26.900271Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  people-power-2:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope's Triangle land asset was subject to litigation for over 25 years.
+      *   Fairhope purchased the Triangle land for $11.25 Million (including $3 million in legal fees).
+      *   Historically, Mayor Jim Nix served 7 terms before being forced out due to criminal charges.
+      *   Tim Kant, following Nix, carried on "corrupt ways" until an honest election.
+      *   Serious sewer infrastructure problems existed, exemplified by a recent failure where the 13 million dollar sewer plant did not process 500,000 gallons of raw sewage into Big Head gully and Fly Creek watershed.
+
+      THE DISCOVERY:
+      *   Article 2 proves that City Council has a history of obstructing mayoral duties and infrastructure projects.
+      *   Citizen pressure (2276 signatures on a petition) successfully forced the Single Tax to back off the Tuberville subdivision.
+      *   The Council has been documented as failing to act on studies proposed by Mayor Wilson regarding sewer and infrastructure needs.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of Council obstruction and corruption (Nix/Kant era), providing context for the current political dynamic.
+      *   This historical pattern underlies the current Council opposition (Burrell and Boone) to the Comprehensive Land Use Plan and the development of the Triangle, viewing it as a continuation of "policies of the past."
+      *   Mayor Karin Wilson's current push for a "Public-Driven vision" and a Comprehensive Plan is a response to, and rejection of, this history of Council obstruction and poor governance.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Fairhope's Triangle
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (Council President)
+      *   Kevin Boone
+      *   Tim Kant
+      *   Jim Nix
+      *   Councilman Robinson
+      *   Sherry Sullivan
+      *   BP (Restore Act funding)
+      *   Tuberville subdivision
+      *   Big Head gully
+      *   Fly Creek watershed
+      *   $11.25 Million (Purchase cost)
+      *   $650,000 (Comprehensive Land Use Plan funding)
+    llm_text: Fairhope's $11.25 million Triangle purchase follows 25 years of litigation and past corruption under Jim Nix and Tim Kant. Mayor Karin Wilson now fights Council opposition from Jack Burrell and Kevin Boone to enact a needed Public-Driven Comprehensive Land Use Plan.
+    widget_date: "2018-02-16"
+    generated_at: "2026-11-08T15:44:04.463009Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bend-over-fairhope:
+    brief: |-
+      THE CONFLICT:
+      *   Over a year prior to Article 2, the Fairhope City Council opposed a petition (over 925 signatures) rejecting the Fairhope Single Tax plan regarding development on the banks of Big Head Gully, Tatumville.
+      *   The Council's actions, allegedly involving council members Boone and Brown having ties to the Single Tax, contributed to the settlement of the Triangle lawsuit.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the council historically prioritized developers (Single Tax plan) over public will, evidenced by the petition rejection and the subsequent settlement of the Triangle lawsuit.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of council obstruction and favoring developers (Big Head Gully) which culminated in the costly legal settlement for the Triangle property (paid by taxpayers). This historical pattern is now being repeated by Council President Jack Burrell and Kevin Boone, who are advocating for a conservation easement, potentially undermining the "Public-Driven vision" outlined in the $650,000 Comprehensive Land Use Plan approved by Mayor Karin Wilson.
+
+      KEY ENTITIES:
+      *   Fairhope Triangle
+      *   Fairhope Single Tax
+      *   Mayor Karin Wilson
+      *   Jack Burrell (Council President)
+      *   Kevin Boone
+      *   Robert Brown
+      *   Big Head Gully / Tatumville
+      *   $11.25 Million (Triangle purchase price)
+      *   $650,000 (Comprehensive Land Use Plan funding)
+      *   25 years (Triangle litigation duration)
+    llm_text: Did the Fairhope City Council ignore public will over Big Head Gully development? Jack Burrell and Kevin Boone now risk Mayor Karin Wilson's $650,000 land use plan by repeating historical developer favoritism.
+    widget_date: "2018-02-09"
+    generated_at: "2026-11-08T15:40:28.940747Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephant-in-a-volkswagen:
+    brief: |-
+      THE CONFLICT:
+      1. In 1994, the Tatumville gully watershed flooded the Magnolia Apartments, causing over one million dollars in damage.
+      2. The Fairhope City Council engaged in a dispute regarding the Airport Authority appointments, with members obstructing Mayor's appointments despite prior pledges.
+      3. Mr. Lee Turner, President of Single Tax, pushed the Tatumville Subdivision project without single tax membership approval, involving Mr. Cliff Pittman and Councilman Robert Brown.
+
+      THE DISCOVERY:
+      1. The Widget Article revealed patterns of conflict of interest (e.g., Mr. Turner, Mr. Pittman) and municipal mismanagement (e.g., Airport Authority control, questionable land transfers like the Tatumville project).
+      2. The Widget Article characterized the local political agenda as "smoke and mirrors" and "self-serving."
+
+      THE PIVOT:
+      1. The past conflicts (Article 2) demonstrate a history of opaque decision-making and political maneuvering by local entities (Single Tax, City Council, Airport Authority) that led to taxpayer losses and public distrust.
+      2. This historical distrust provides context for the current debate (Article 1), where Council President Jack Burrell and Kevin Boone advocate for retaining the Triangle property via conservation easement, opposing Mayor Karin Wilson’s "Public-Driven Vision" and Comprehensive Land Use Plan, which aims to utilize the asset responsibly.
+
+      KEY ENTITIES:
+      1. Fairhope
+      2. Triangle (most valuable land asset)
+      3. Mayor Karin Wilson
+      4. Jack Burrell (Council President)
+      5. Kevin Boone
+      6. BP (Restore Act funding)
+      7. Single Tax Corporation
+      8. Lee Turner
+      9. Cliff Pittman
+      10. Robert Brown (Councilman)
+      11. Fairhope Airport Authority
+      12. Tatumville Subdivision
+      13. Magnolia Apartments
+      14. $11.25 Million (purchase cost of Triangle land)
+      15. $3 Million (approximate legal fees)
+      16. $650,000 (Comprehensive Land Use Plan funding)
+      17. 25 years (duration of Triangle litigation)
+    llm_text: Mayor Karin Wilson pushes a "Public-Driven Vision" for the $11.25 million Triangle land, but Council President Jack Burrell and Kevin Boone oppose her plan. Past conflicts, including the 1994 Tatumville flood and Single Tax maneuvering, prove local politics often prioritize self-interest over taxpayer protection.
+    widget_date: "2018-01-27"
+    generated_at: "2026-11-08T15:46:26.526657Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

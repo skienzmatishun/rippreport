@@ -1,0 +1,96 @@
+metadata:
+  generated_at: "2026-11-07T16:30:51.661677Z"
+  generator_version: 1.0.0
+  post_slug: nappi-award
+  main_date: "2020-08-06"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  scary:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope, Alabama mayoral/city government conflict involving Mayor Karin Wilson, City Council, CATALYST, BP oil spill, Sherry Sullivan.
+      - Four years before main article: Fairhope running annual $6 million deficit; making payments on millions of dollars of debt; requiring most Utility department profits to subsidize its budget.
+      - Wilson’s administration: invested $14M in utility upgrades without borrowing a dime; obtained $11M to offset rehabilitating sewer lines and planning SSO Prevention Plan for Eastern Shore; obtained $18M in RESTORE funds, mostly for sewer upgrades and sewer overflow prevention plan; citizens save in sewer rate increases.
+      - Council fought Mayor tooth and nail for 4 years; council awarded nothing, ZERO; Mayor received 4 Nappi Awards for HARDEST WORKING ELECTED CITY OFFICIAL—EASTERN SHORE; received 4 during same time council got nothing.
+      - In four years, Mayor Wilson accomplished more than previous Mayor did in 16 years.
+      - Wilson made sewer system upgrade promises in 2016; critical upgrades to be completed by 2022; delivered; invested $14M in utility upgrades without borrowing a dime; obtained $11M to offset rehabilitating sewer lines and planning SSO Prevention Plan for Eastern Shore; obtained $18M in RESTORE funds, mostly for sewer upgrades and sewer overflow prevention plan; citizens save in sewer rate increases.
+      - Vote [KarinForFairhope.org] August 2th; Mayor Wilson ran as public servant and challenged and won election from corrupt administration; refused double dipping paid positions; previous Mayor held Utility manager position paying $60k/year or $240k over 4 years.
+      - Mayor Wilson has college degree in finance, 25 years business experience in finance, 3.5 years as Mayor; accomplishments exceed previous Mayor of 16 years.
+
+      THE DISCOVERY:
+      - Article 2, SCARY, older/background: after BP published Oil “Slick”, BP “good Vibes” guy on paddle board freaked out and forgot good vibes pledge.
+      - Ole good vibes converted Facebook page to share only, no comments, to eliminate people asking tough questions; endorsed Jack Burrell for Mayor candidate supporting a council person; described as SCARY.
+      - CATALYST took possession of BP paddle board and tied it to their boat; he pledged nothing to do with CATALYST aka Scott Boone Consulting; later badmouthed Mayor, breaking pledge.
+      - Scary Sherry and 3B’s are all CATALYST; 3B’s signs accompany her signs throughout Fairhope; BP paddle board guy brought up rear.
+      - Scary Sherry: fired disgruntled employee who sued city and never explained why; along with two co-workers assisted CATALYST council to undermine Mayor elect Karin Wilson from first day Mayor took office; ultimately fired for insubordination; motivation get even and help CATALYST regain power; all wrong reasons.
+      - Scary Sherry has high school education; Nix Center management did well; recreation center ran/tried failed miserably; published then Mayor’s newsletter total propaganda; knew first hand of BP fraud and Mayor’s involvement but never wrote about that; former employees complain bully and hard to work for; current city employees do not want Scary Sherry return.
+      - If Scary Sherry won, she would immediately fire numerous employees and replace them with hand picked CATALYST good ole boys; hire Tim Cant and other good ole boys; corruption and lawsuits will follow.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 is smoking gun/key context for Article 1 because it documents opposition/CATALYST/Scary Sherry/3B’s/BP oil spill context before/during Mayor Karin Wilson’s rise and NAPPI award.
+      - Article 2 explains conflict against which Mayor Wilson’s NAPPI award claims were framed: corrupt administration, council fight, opposition efforts to undermine Mayor elect Karin Wilson from first day she took office.
+
+      KEY ENTITIES:
+      - Mayor Karin Wilson; Sherry Sullivan / Scary Sherry; CATALYST; Scott Boone Consulting; BP; BP “good Vibes” guy; BP Oil “Slick”; Jack Burrell; Tim Cant; 3B’s; Nix Center; Mayor in Birmingham; Fairhope; Eastern Shore; City of Faux Hope Alabama; City Council; Utility department; Nappi Award; NAPPI; RESTORE; SSO Prevention Plan; City/Utility cash funds; KarinForFairhope.org; August 2th; $6M deficit; $14M; $11M; $18M; $60k/year; $240k over 4 years; $60+ million budget; Lowery, Wilters.
+    llm_text: Mayor Karin Wilson spent years fighting Fairhope’s City Council while she secured $14 million in utility upgrades without borrowing a dime. Now Sherry Sullivan and CATALYST are back, and readers shouldn’t miss how BP’s oil spill and that ugly fight shaped this fight.
+    text: Mayor Karin Wilson spent years fighting Fairhope’s City Council while she secured $14 million in utility upgrades without borrowing a dime. Now Sherry Sullivan and CATALYST are back, and readers shouldn’t miss how BP’s oil spill and that ugly fight shaped this fight.
+    widget_date: "2020-08-01"
+    generated_at: "2026-11-07T16:29:55.808156Z"
+    model_name: recursive/flint-v1.0:free
+  state-of-the-city-2019:
+    refined_source: f2424b959a3983aa9ea4d92b9c68169da31cd04d8b713e11162f3cd70f569e28
+    brief: |-
+      THE CONFLICT: City faced an annual $6 Million deficit and $6.83 million in debt prior to 2019. The previous Mayor drew a $60,000 annual second city paycheck from the utility fund.
+      THE DISCOVERY: In 2019, the city had decreased utility debt by 21% ($4 Million) and secured $18 Million in BP Restore Act funding, with $10 Million targeted for neglected sewer upgrades.
+      THE PIVOT: Article 2 (2019) establishes that Mayor Wilson's critical infrastructure focus (BP Restore/sewer funding) and fiscal stabilization (debt reduction, ethical salary refusal) began years before her recent Nappi Award recognition in Article 1, proving sustained progress.
+      KEY ENTITIES: Karin Wilson, Fairhope, Eastern Shore, Nappi Award, Stephanie Hollinghead, BP Restore Act, 2019, 2016
+    llm_text: Fairhope once struggled with a $6 million deficit and $6.83 million in debt. Mayor Karin Wilson stabilized the city, cutting utility debt 21% and securing $18 million in BP Restore Act funding specifically for neglected sewer upgrades.
+    text: Fairhope once struggled with a six million dollar deficit. Mayor Karin Wilson cut utility debt and secured 18 million dollars in BP Restore Act funds.
+    widget_date: "2019-01-26"
+    generated_at: "2026-11-07T16:29:25.530123Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  attention-baldwin-county:
+    refined_source: 2744309150189b4986c2f99bff97d754a5968360536cd0dd16b8fd26261090a9
+    brief: |-
+      THE CONFLICT: Fairhope city was running an annual $6 Million deficit and servicing millions of dollars of long-term debt four years prior to the current term.
+      THE DISCOVERY: Jerry Carl was running for Congress in Baldwin County, with a vote date of July 14th.
+      THE PIVOT: Article 2 establishes the earlier political context (July 14th election) preceding Mayor Karin Wilson's August 2nd election push, which highlights her municipal fiscal turnaround.
+      KEY ENTITIES: Karin Wilson, Fairhope, Jerry Carl, Baldwin County, Nappi Award, $14M, $18M RESTORE funds.
+    llm_text: Fairhope faced a $6M deficit years ago, but Mayor Karin Wilson engineered a major fiscal turnaround. Read how her municipal success compares to the political context of the July 14th election involving Jerry Carl in Baldwin County.
+    text: Fairhope faced a six million dollar deficit under past leadership. Mayor Karin Wilson engineered a major fiscal turnaround for the city.
+    widget_date: "2020-07-07"
+    generated_at: "2026-11-07T16:30:37.257370Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-aka-scott-boone-consulting:
+    refined_source: bd117e2d2318b1f0a472bbe02b5f2972ac7a0166071116154031144a53b395a4
+    brief: |-
+      THE CONFLICT:
+      - The "Catalyst" group, an organization accused of operating as a "good ole boys" network and a "criminal enterprise," was active in Baldwin County politics.
+      - Allegations against Catalyst included using inside information to secure municipal contracts, participating in "Strawman" land fraud, and representing interests of developers and landowners.
+      - Key figures linked to these activities include Scott Boone and Fairhope Councilman Kevin Boone.
+      - The group has since rebranded as Scott Boone Consulting to obscure its identity.
+
+      THE DISCOVERY:
+      - Article 2 revealed that Catalyst/Scott Boone Consulting is ideologically opposed to regulations, impact fees, and infrastructure needs.
+      - The group's political influence extends to municipal elections in Spanish Fort, Daphne, Fairhope, and Bay Minette.
+      - The organization is tied to investigations into Baldwin County sewer issues and land fraud.
+
+      THE PIVOT:
+      - Article 1 documents a four-year "tooth and nail" conflict between Fairhope Mayor Karin Wilson and the Fairhope City Council.
+      - Mayor Wilson’s administration has focused heavily on infrastructure, specifically investing $14M in utility upgrades and securing $18M in RESTORE funds for sewer system rehabilitation and overflow prevention.
+      - Article 2 provides the context for the Council's opposition: Councilman Kevin Boone is identified as part of the Catalyst network, a group that is explicitly against the types of infrastructure spending, regulations, and impact fees that Mayor Wilson is currently implementing.
+
+      KEY ENTITIES:
+      - Karin Wilson (Mayor, Fairhope)
+      - Kevin Boone (Fairhope Councilman)
+      - Scott Boone (Catalyst / Scott Boone Consulting)
+      - Catalyst (formerly Scott Boone Consulting)
+      - Tucker Dorsey (Past Baldwin County Commissioner)
+      - Fairhope City Council
+      - Baldwin County (Location)
+    llm_text: Mayor Karin Wilson is fighting a tooth-and-nail battle to secure millions for Fairhope’s critical sewer and utility upgrades. See how Councilman Kevin Boone and the Catalyst network use their political influence to block the essential infrastructure projects our community desperately needs.
+    text: Mayor Karin Wilson fights to secure millions for Fairhope sewer upgrades. Councilman Kevin Boone and the Catalyst network block these essential projects.
+    widget_date: "2020-08-05"
+    generated_at: "2026-11-07T16:29:16.586862Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'

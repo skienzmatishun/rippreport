@@ -1,0 +1,210 @@
+metadata:
+  generated_at: "2026-11-07T18:18:23.043131Z"
+  generator_version: 1.0.0
+  post_slug: where-hell-were-you
+  main_date: "2020-06-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  stealing-our-democracy:
+    refined_source: eda200091e1a8725eb7ab92f6c5e901a2cf1c6315619cf0944a9e4e01d42036a
+    brief: |-
+      THE CONFLICT:
+      *   Elections in Fairhope (2008 and 2012) were reported as "out of wack" and defied statistics/common sense.
+      *   The final results of the gubernatorial election involving Don Siegelman were manipulated in Baldwin County (mysterious ballots flipping results in favor of Bob Riley).
+      *   Judge Michelle Thompsson eliminated competition in Baldwin County by declaring opponents "not Republican enough."
+      *   Hoss Mack (Baldwin County Sheriff) used exclusive qualifications written with Sen. Tripp Pittman to eliminate competition, allowing him to win the last two elections without opposition.
+      *   The oversight by the Alabama Sec. Of State only brought confidence to Fairhope citizens in 2016.
+
+      THE DISCOVERY:
+      *   Baldwin County, including Fairhope, has a history of fixed elections and political corruption, detailed by Don Siegelman.
+
+      THE PIVOT:
+      *   Article 2 establishes that Fairhope's political environment is characterized by systemic and historical corruption, not just isolated disputes over the $6.2 million Fairhope Waterfront project (Article 1), providing crucial context for accusations of "CATALYST" and council misconduct.
+
+      KEY ENTITIES:
+      *   Don Siegelman
+      *   Baldwin County
+      *   Judge Michelle Thompsson
+      *   Hoss Mack
+      *   Tripp Pittman
+      *   Alabama Sec. Of State
+      *   Bob Riley
+      *   Fairhope
+      *   CATALYST
+      *   Kevin Boone
+      *   Robert Brown
+      *   Mayor Wilson
+      *   Mr. Howell Raines
+      *   Wilson
+      *   Councilman Boone
+      *   Councilman Brown
+      *   BP oil spill (2010)
+      *   $6.2 million grant
+      *   $2.65 million (farmland purchase)
+      *   11.25 million (triangle property cost)
+      *   K1 center
+    llm_text: Don Siegelman revealed Baldwin County's history of fixed elections, not just the Fairhope $6.2 million project. Judge Michelle Thompsson and Hoss Mack used specific qualifications to manipulate outcomes, proving Fairhope faces deep, systemic corruption.
+    text: Don Siegelman revealed a history of fixed elections in Baldwin County. How did Judge Michelle Thompsson and Hoss Mack manipulate local outcomes?
+    widget_date: "2020-06-17"
+    generated_at: "2026-11-07T18:13:00.801054Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat:
+    refined_source: bdee69b60e06aa45da90f30969fa9c223fad1d67cf9069b14c581051995180c8
+    brief: |-
+      THE CONFLICT:
+      - Councilmen Kevin Boone, Robert Brown, and Burrell are accused of systemic corruption in Fairhope.
+      - Allegations include: purchasing $2.65 million in farmland near the airport (allegedly to avoid a Black neighborhood); purchasing the K1 center (a condemned building) without a plan, necessitating expensive roof repairs; attempting to give away the $11.25 million Triangle property; and delaying sewer infrastructure discussions.
+      - The City Council lost a Federal Lawsuit regarding the denial of citizens' rights to speak at meetings.
+      - The Council voted themselves raises and full family insurance benefits.
+      - Previous administration issues: a former Mayor pushed Fly Creek apartments for a developer contributor, leading to annual dredging needs in the Fly Creek Basin.
+
+      THE DISCOVERY:
+      - Article 2 established "CATALYST" as a specific political faction/bloc within Baldwin County.
+      - During the July 14th GOP runoff for Alabama's 1st Congressional District, "CATALYST" was identified as the primary opposition to Jerry Carl.
+      - The endorsement by Bradley Byrne framed a vote for "CATALYST" as a vote against the best interests of Baldwin County.
+
+      THE PIVOT:
+      - Article 2 provides the historical framework that "CATALYST" is not merely a local Fairhope issue, but a recognized political organization/group that has been actively campaigning in Baldwin County.
+      - It transforms the specific local accusations against Boone, Brown, and Burrell into evidence of the broader "CATALYST" political machine that voters were warned about during the Congressional runoff.
+
+      KEY ENTITIES:
+      - Kevin Boone (Councilman)
+      - Robert Brown (Councilman)
+      - Burrell (Councilman)
+      - Howell Raines (Former NYT Editor/Commentator)
+      - Mayor Wilson
+      - Jerry Carl (Congressional Candidate)
+      - Bradley Byrne (Endorser)
+      - CATALYST (Political faction/group)
+      - Fairhope City Council
+    llm_text: Councilmen Kevin Boone, Robert Brown, and Burrell face explosive corruption allegations involving millions in questionable Fairhope deals and self-serving raises. This local chaos exposes the "CATALYST" political machine, the very dangerous faction Bradley Byrne warned Baldwin County voters about.
+    text: Councilmen Kevin Boone, Robert Brown, and Burrell face corruption claims over millions in Fairhope deals. Did Bradley Byrne warn voters about this exact political machine?
+    widget_date: "2020-06-15"
+    generated_at: "2026-11-07T18:12:57.958268Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  a-decade-of-corruption:
+    refined_source: 7575106b82d53a887b5cf28b93fa3ebac13d229bd3ea42adc8da025978582f3d
+    brief: |-
+      THE CONFLICT:
+      *   10 years ago (May 8th 2010), the County Commission told Senator Tripp Pittman and Fairhope Mayor Tim Kant not to proceed with a BP Boom work bid.
+      *   On June 4th 2010, the Fairhope City Council awarded a contract to Pittman Tractor, bypassing required approvals (no general contractor license, marine insurance, or county/ethics approval).
+      *   Pittman received a check for $372,165.90 for "COMPLETED" boom work, leading to a total close to $750,000 of BP money under the noses of the public.
+      *   This corruption pattern lasted over 8 years, involving a debris contract with the City of Fairhope maintained by Pittman and Mayor Kant until Karin Wilson was elected.
+
+      THE DISCOVERY:
+      *   Article 2 documents a decade-long pattern of systemic corruption in Baldwin County and Fairhope, centered on the group CATALYST.
+      *   Specific documented corruption includes the Mega Site, the Triangle property deal (11.2 million), airport bid rigging by Council President Burrell, and inside dealing by Councilman Boone and Councilman Brown (2.65 million for recreation land).
+      *   This corruption involved Fairhope staff, including Greg Mims, Sherry Sullivan, and Jennifer Fidler.
+
+      THE PIVOT:
+      *   Article 1 claims the current $6.2 million waterfront grant funding comes from the 2010 BP oil spill.
+      *   Article 2 shows that the initial handling and acquisition of that same BP funding in 2010 was rooted in a specific, documented contract fraud (Pittman/Kant), directly challenging Article 1’s claim of transparency in the waterfront project.
+
+      KEY ENTITIES:
+      *   Kevin Boone (Councilman)
+      *   Robert Brown (Councilman)
+      *   Mr. Howell Raines
+      *   Karin Wilson (Mayor)
+      *   CATALYST (Political group)
+      *   Tripp Pittman (State Senator)
+      *   Tim Kant (Former Mayor)
+      *   Burrell (Council President)
+      *   Greg Mims
+      *   Sherry Sullivan
+      *   Jennifer Fidler
+      *   Fairhope City Council
+      *   BP oil spill (2010)
+      *   $6.2 million (Waterfront grant)
+      *   $372,165.90 (Pittman initial payment)
+    llm_text: Tim Kant and Tripp Pittman took $372,165.90 from 2010 BP funds through contract fraud, bypassing required approvals. This decade-long corruption proves the current $6.2 million waterfront grant lacks transparency, challenging Fairhope's claims.
+    text: Tim Kant and Tripp Pittman took $372,165.90 from 2010 BP funds without required approvals. Why does Fairhope claim a new $6.2 million grant lacks transparency?
+    widget_date: "2020-06-10"
+    generated_at: "2026-11-07T18:16:00.455431Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-no-hope-fauxhope:
+    refined_source: db734d7f2247691859d72af74ca67d1ba6a3f9e2f3c327c9e18046a09f349313
+    brief: |-
+      THE CONFLICT: City Council actions led to the purchase of $2.65 million of farmland for recreation near the Airport, excluding proximity to poorer/Black neighborhoods. This action was deemed political and racist.
+      THE DISCOVERY: Lynn Oldshue (investigative reporter for Lagniappe/Alabama Public Radio) documented the disparity between affluent and working poor in Fairhope, establishing that the municipal government represented the status quo (FAUX-HOPE/CATALYST).
+      THE PIVOT: Article 2 established the racist/political motivation behind the $2.65 million land purchase, which Article 1 later referenced as evidence of systemic corruption and the council's discriminatory decision-making.
+      KEY ENTITIES: Kevin Boone, Robert Brown, Mayor Wilson, Kelly Wilson, Lynn Oldshue, Chris Bell, Councilman Boone, Councilman Brown, Kelly-Wilson, wilson, Raines, CATALYST, Fairhope Waterfront, $2.65 million, 2010 (BP oil spill funding).
+    llm_text: Lynn Oldshue proved Fairhope’s council used $2.65 million to buy farmland near the Airport, deliberately excluding poorer Black neighborhoods. Mayor Wilson's actions reveal systemic corruption and racist motives hidden behind the "Fairhope" facade.
+    text: Lynn Oldshue proved Fairhope leaders used $2.65 million to buy farmland while excluding Black neighborhoods. What do these actions reveal about municipal corruption?
+    widget_date: "2020-05-02"
+    generated_at: "2026-11-07T18:16:43.564129Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-fairhope-jester:
+    refined_source: 420def83841b8ed5cba4e29337fcabf3221fc59b69905f7bd3413e5521be190f
+    brief: |-
+      THE CONFLICT:
+      Robert Brown, Kevin Boone, and Councilman Burrell purchased $2.65 million of farmland for recreation; original location was close to a black neighborhood due to racial considerations.
+      The council attempted to give away the Triangle property, costing the city $11.25 million ($13 million).
+      The council defeated a change of government and filed a Federal Lawsuit against the council for denying citizens to speak, which they lost.
+      Councilmen Boone and Brown are accused of using their office for personal gain; Mr. Brown was found to be the only bid for a position, contradicting his claims of being one of many bids, and used his position on the Art Center board to personally enrich himself.
+
+      THE DISCOVERY:
+      Article 2 details the council's actions during the COVID-19 pandemic, including Mayor Wilson imploring the Governor for a shelter-in-place order and the Arts and Crafts cancellation.
+      Article 2 names Angelo Corte, Councilman Brown’s mentor, as a developer linked to Fly Creek apartments, whose work has not stopped, raising concerns about worker health.
+      Article 2 highlights Robert Brown's inconsistent stance, advocating against restrictions while using religious rhetoric (God/abortion) to deflect from financial corruption.
+
+      THE PIVOT:
+      Article 2 provides contemporary evidence (pandemic response, developer ties) reinforcing the pattern of self-interest and hypocrisy established by the financial corruption documented in Article 1 (farmland, Triangle property). It links Brown's personal gain to his public policy advice, making his current actions part of the documented systemic corruption in Fairhope.
+
+      KEY ENTITIES:
+      Robert Brown
+      Kevin Boone
+      Mayor Wilson
+      Mr. Howell Raines
+      Angelo Corte
+      City of Fairhope
+      Baldwin County
+      CATALYST City Council
+      Triangle Lawsuit
+      BP oil spill (2010)
+      K1-center
+    llm_text: Robert Brown and Kevin Boone faced corruption charges after buying $2.65M in farmland for personal gain. New evidence links Brown to developer Angelo Corte, revealing how his self-interest shaped Fairhope’s COVID-19 public policy.
+    text: Robert Brown and Kevin Boone faced corruption claims after buying $2.65 million in farmland. How did Brown and developer Angelo Corte shape Fairhope COVID-19 policies?
+    widget_date: "2020-04-08"
+    generated_at: "2026-11-07T18:17:57.559207Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-council-asleep-at-the-wheel:
+    refined_source: c6554eec408177541a4848b3198501b9c15e81712965dad93f9fa0d80634c177
+    brief: |-
+      THE CONFLICT: In 2016, the 240-unit Fly Creek Apartments project (Retreat at Fairhope Village) behind Publix on Hwy 98 was a major factor in the municipal election, despite Mayor Karin Wilson opposing the project and warning of long-range traffic consequences.
+
+      THE DISCOVERY: The Widget Article revealed that traffic congestion along U.S. 98 (Parker Road intersection) was a significant issue in 2016, and the city's traffic study used in that period was dated 2016.
+
+      THE PIVOT: The 2016 Fly Creek conflict demonstrates a historical pattern where the CATALYST council prioritized developer interests over citizen welfare (e.g., ignoring traffic warnings), providing context for current allegations of systemic corruption (e.g., $6.2 million waterfront grant funding, $11.25 million Triangle property loss, and Boone/Brown's $2.65 million farmland purchase) in the present day.
+
+      KEY ENTITIES: Kevin Boone, Robert Brown, Mayor Karin Wilson, Mr. Howell Raines, CATALYST, Fairhope, BP oil spill (2010), Triangle Lawsuit ($11.25 million), K1 center, Fly Creek Apartments (240 units), 2016 municipal election.
+    llm_text: Mayor Karin Wilson warned of traffic issues during the 2016 Fly Creek Apartments conflict, but CATALYST approved the 240-unit development. This historical pattern reveals how the council prioritized developer interests over citizens, providing context for current corruption allegations involving Kevin Boone and Robert Brown.
+    text: Mayor Karin Wilson warned of traffic problems before the 2016 Fly Creek Apartments vote. Why did the council approve the project against public interest?
+    widget_date: "2020-03-13"
+    generated_at: "2026-11-07T18:14:26.852023Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  off-the-rails:
+    refined_source: e9ac53629e1df0c38740006953742a8949633023dbcbfb260dfa86a8d20b5463
+    brief: |-
+      THE CONFLICT:
+      In January 2020, Fairhope City Council members Kevin Boone, Robert Brown, and Burrell were accused of operating as a "criminal enterprise." The council bypassed public participation to spend $2.75 million on recreation land intended for farming leases, while simultaneously neglecting critical sewer infrastructure projects.
+
+      THE DISCOVERY:
+      Article 2 revealed a pattern of the council prioritizing land acquisitions over essential municipal services. It established that sewer infrastructure was only being addressed through BP grant funds and the efforts of the Mayor and city staff, specifically because the Council had ignored the issue for years.
+
+      THE PIVOT:
+      Article 2 serves as the foundational evidence for the systemic corruption allegations in Article 1. The current disputes regarding the $6.2 million waterfront project, the $2.65 million farmland purchase (alleged to be racially motivated), and the neglect of sewer infrastructure are not isolated incidents, but a continuation of the same misconduct documented by the Council's actions in 2020.
+
+      KEY ENTITIES:
+      - Kevin Boone (Councilman)
+      - Robert Brown (Councilman)
+      - Burrell (Councilman)
+      - Mayor Wilson
+      - Howell Raines (Commentator/Critic)
+      - CATALYST (Political group/Council affiliation)
+      - Fairhope City Council
+      - BP (Oil spill funding source)
+    llm_text: Kevin Boone, Robert Brown, and Burrell once prioritized farmland over critical sewer repairs, sparking "criminal enterprise" accusations. This pattern of misconduct explains why today's massive waterfront and land deals are simply a continuation of systemic corruption.
+    text: Kevin Boone, Robert Brown, and Burrell bought farmland instead of fixing sewer lines. Does this pattern explain today's massive waterfront land deals?
+    widget_date: "2020-01-10"
+    generated_at: "2026-11-07T18:14:24.995720Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'

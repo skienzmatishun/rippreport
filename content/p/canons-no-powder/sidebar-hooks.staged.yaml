@@ -1,0 +1,92 @@
+metadata:
+  generated_at: "2026-11-07T03:32:46.559754Z"
+  generator_version: 1.0.0
+  post_slug: canons-no-powder
+  main_date: "2021-12-13"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  surrender:
+    refined_source: c232fb4052741d564b53d9a53cae14b3d7325a4ac6b94a128c9737837428867f
+    brief: |-
+      THE CONFLICT: McSharry assault case in Fairhope; McSharry is a repeat offender related to alcohol; McSharry threatened to sue Mayor Wilson.
+      THE DISCOVERY: The McSharry assault case concluded with a legal settlement, highlighting failures in Fairhope municipal court, city attorney, and city council (specifically Councilman Jack Burrell).
+      THE PIVOT: The McSharry assault case is cited in the main article as a "Case in point" demonstrating questionable judicial actions and fueling the "appearance of impropriety" that Article 1 alleges is rampant due to Baldwin County Judges (Norton and Snedeker) violating Judicial Canons.
+      KEY ENTITIES: McSharry, Mayor Wilson, Councilman Jack Burrell, Paula DiNardi, Judge Norton, Judge Snedeker, David McDonald, Catalyst/Scott Boone Consulting.
+    llm_text: McSharry's Fairhope assault case settled, exposing municipal failures involving Mayor Wilson and Councilman Jack Burrell. This local issue proves Baldwin County Judges Norton and Snedeker violate judicial canons, fueling widespread impropriety.
+    text: Ronan McSharry's Fairhope assault case settled after exposing municipal failures involving Mayor Wilson and Councilman Jack Burrell. Judges Norton and Snedeker violate judicial canons, fueling widespread impropriety.
+    widget_date: "2021-12-04"
+    generated_at: "2026-11-07T03:31:25.081879Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-cloud:
+    refined_source: b5cce3c44b49fd0efbe0f2578d079e3738660951d1b5e567abc1a4f768f44730
+    brief: |-
+      THE CONFLICT: Past corruption in Baldwin County included Strawman Land Fraud involving developer Burke and lender Delaney; Judge Thomason served as an elected district judge acting in capacity of un-elected circuit judge for over a decade, cited as voter disenfranchisement; Alabama Ethics Director Tom Albritton was accused of "self-dealing" via a private charitable trust.
+      THE DISCOVERY: The background articles revealed systemic issues across Baldwin County, including lack of transparency, judicial voter disenfranchisement, ethics violations, and Sheriff "Boss" Mack restricting public access to body camera footage.
+      THE PIVOT: The historical evidence of systemic corruption and lack of oversight (Widget Article) validates the Main Article's claim that the Alabama Judicial Canons have "NO powder," providing context that Judge Norton and Judge Snedeker’s current conflicts of interest (developer/real estate ties, political support for Catalyst/Scott Boone Consulting) are not isolated incidents but part of a long-standing "good ole boy cartel" in Baldwin County.
+      KEY ENTITIES: Judge Norton, Judge Snedeker, Judge Thomason, Councilman Jack Burrell, Tom Albritton, Sheriff "Boss" Mack, Burke, Delaney, Catalyst/Scott Boone Consulting, Fairhope, Alabama Judicial Canons (Canon 2), McSharry assault case.
+    llm_text: Baldwin County's corruption isn't new; past fraud involving Burke and Delaney and Judge Thomason's issues reveal systemic problems. Current conflicts involving Judge Norton and Judge Snedeker prove the "good ole boy cartel" still operates despite weak Alabama Judicial Canons.
+    text: Past fraud involving Burke and Delaney reveals that Baldwin County corruption is not new. Current conflicts involving Judge Norton and Judge Snedeker prove the good old boy cartel still operates under weak judicial canons.
+    widget_date: "2021-10-08"
+    generated_at: "2026-11-07T03:32:28.963597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  perfect-puzzle:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County, Alabama judges Judge Norton and Judge Snedeker engaged in/associated with non-judicial activities; development/real estate interests; alleged clouding of judicial responsibilities; alleged violation of Alabama Judicial Canons.
+      - Alabama Judicial Canons are baseline ethics; Baldwin County Canons have NO powder/no accountability.
+      - Canon 1: judge should uphold integrity and independence of judiciary.
+      - Canon 2: judge should avoid impropriety and appearance of impropriety.
+      - Canon 5: judge should regulate extra-judicial activities to minimize risk of conflict with judicial duties.
+      - Canon 7: judge or judicial candidate shall refrain from political activity inappropriate to judicial office.
+      - Judge Norton: boating accident involving son; alleged interference in police investigation involving son; Fox News release did not know son was driving boat; not made public what else unknown; if allegations true, should resign immediately.
+      - Judge Norton and Judge Snedeker: supporters of Catalyst/Scott Boone Consulting; alleged good ole boy cartel; political activity inappropriate to judicial office.
+      - Judge Norton and Judge Snedeker should be voted out of office; voters have powder; judicial canons worthless without accountability; Alabama has NO accountability.
+      - Formal complaint against Councilman Jack Burrell of Fairhope; Ripp Report and BCLE offered $5,000 cash award to prove complaint false; prove documents fabricated or altered from originals or willful malicious intent to mislead public or unlawfully disparage Burrell by making fictitious claims or providing erroneous documents; $5,000 reward.
+
+      THE DISCOVERY:
+      - Article 2 frames Alabama as most corrupt state in United States; “perfect puzzle” of no accountability, no transparency, no ethics; weak knee media, diluted standards, lack of balls; citizen reader as wire; do nothing.
+      - Alabama AG, Ethics Commission, Bar Association reputations of protecting allies accused of political corruption; FBI and Federal Courts turned blind eye or not opening eyes/reading what published.
+      - Police state mentality: police do no wrong and should never be held accountable.
+      - Lagniappe articles cited: millions in wasted payments to retired administrators; attempt to use RSA payments to settle harassment suit; UA Board of Trustees perks by St. John’s office, including $4.3 million on party house.
+      - Alabama Ethics Commission Director Tom Albritton; children’s college tuition paid from charitable trust upon which he is board member; story sprang from UA investigation.
+      - Alabama Ethics Commission resembles criminal enterprise; Tom Albritton doing best for Alabama remain most corrupt.
+      - Articles exposing land fraud, Judicial voter disenfranchisement, Ethics violations, by no less than Executive Director of Ethics, Baldwin County Sheriff Office Lawsuits and nine innocent lives lost; U of A and culture of silence.
+      - UPDATE: Judge Johnny Hardick, Montgomery Circuit Judge, selected by Chief Justice Tom Parker to preside over ethics cases on November 1; read evidence to Writ of Mandamus; found very interesting; wished could delve; decided to recuse due to potential conflict of interest.
+      - Ripp Report notified new date for hearing set.
+      - In Alabama, trustee, board member or councilman is pathway for self serving, using position for personal gain; cannot have accountability when all parties aiding and abetting.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 provides broader Alabama corruption context: Ethics Commission, Alabama AG, Tom Albritton, Mabel Amos Trust, U of A, Lagniappe, Judge Johnny Hardick, Chief Justice Tom Parker.
+      - Article 2 is smoking gun/key context for Article 1 because it establishes/frames no accountability, no transparency, no ethics; supports Article 1’s Judicial Canons “NO powder” claim; connects Baldwin County judicial conflict to state-level corruption/ethics failures.
+
+      KEY ENTITIES:
+      - Judge Norton
+      - Judge Snedeker
+      - Councilman Jack Burrell
+      - Fairhope
+      - Baldwin County
+      - Alabama
+      - Ripp Report
+      - BCLE
+      - Catalyst
+      - Scott Boone Consulting
+      - Judge Johnny Hardick
+      - Chief Justice Tom Parker
+      - Alabama Ethics Commission
+      - Tom Albritton
+      - Alabama Attorney General
+      - Alabama Bar Association
+      - FBI
+      - Federal Courts
+      - University of Alabama
+      - St. John’s office
+      - Lagniappe
+      - Mabel Amos Trust
+      - Lowery
+      - Wilters
+    llm_text: The Ripp Report says Judge Norton and Judge Snedeker face judicial canons with no powder in Baldwin County, Alabama. If the clouding allegations are true, readers should care because voters must hold them accountable before ethics mean little without consequences.
+    text: The Ripp Report says Judge Norton and Judge Snedeker face judicial canons with no powder in Baldwin County, Alabama. If the clouding allegations are true, readers should care because voters must hold them accountable before ethics mean little without consequences.
+    widget_date: "2021-12-08"
+    generated_at: "2026-11-07T03:31:39.291814Z"
+    model_name: recursive/flint-v1.0:free

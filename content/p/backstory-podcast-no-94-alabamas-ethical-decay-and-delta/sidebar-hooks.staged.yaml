@@ -1,0 +1,317 @@
+metadata:
+  generated_at: "2026-11-07T06:05:03.912451Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  main_date: "2021-08-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 58de1b7b1d120bb2f8f3e76e004411d96d2e1f6ebf5ebe7613d3670b72ad3494
+    brief: |-
+      THE CONFLICT:
+      * Sheriff Huey Mack refused to enforce Stay At Home order last Spring Break.
+      * Deputies removed individuals from Baldwin County School Board meeting where Eddie Tyler announced mask mandate (2nd grade and up).
+      * Conflict exists between Gulf Shores Mayor and Orange Beach Mayor over Baldwin Bridge Company contract.
+      * Taxman Elliott's Police Jurisdiction Law increases Sheriff's territory and prevents Fairhope wetlands protection enforcement.
+      * Mike Blakley (Limestone County Sheriff) was convicted of corruption this week.
+
+      THE DISCOVERY:
+      * Backstory Podcast No. 186 discusses various Alabama news stories, including the closing of rural hospitals and changes to hunting seasons.
+
+      THE PIVOT:
+      * Article 2 provides broader political and social context (e.g., 2024 US Presidential election, proposed constitutional amendments, rural hospital closures) for the localized ethical and governance crises detailed in Article 1.
+
+      KEY ENTITIES:
+      * Sheriff Huey Mack
+      * Eddie Tyler
+      * Gulf Shores Mayor
+      * Orange Beach Mayor
+      * Baldwin Bridge Company
+      * Steve Russo
+      * Frank Burt
+      * Tim James
+      * Taxman Elliott
+      * Lagniappe
+      * UA Board
+      * Alabama Ethics Commission (Montgomery County Circuit Court)
+      * Mike Blakley (Limestone County Sheriff)
+      * Backstory Podcast No. 186
+    llm_text: Sheriff Huey Mack defied health orders and Mike Blakley faced corruption charges. Backstory Podcast No. 186 connects these local Alabama governance crises—like the Baldwin Bridge Company feud—to rural hospital closures and the 2024 election.
+    text: Sheriff Huey Mack defied health orders while Mike Blakely faced corruption charges. Backstory Podcast connects these local crises to rural hospital closures.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T06:00:37.853031Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 0e5e21819671eb7f7f86cd32a85c387b705f0e5e7f333139452c0b7b33ed7b65
+    brief: |-
+      THE CONFLICT:
+      *   Last Spring Break, Sheriff Huey Mack refused to enforce a Stay At Home order in Baldwin County.
+      *   Sheriff Mack’s deputies removed people from a Baldwin County School Board meeting where Eddie Tyler mandated masks for 2nd grade and up.
+      *   Baldwin Bridge Company controls the "new bridge battle" between Gulf Shores and Orange Beach.
+      *   Taxman Elliott's Police Jurisdiction Law increases Sheriff's territory and restricts Fairhope's wetlands protection ordinance.
+      *   Limestone County Sheriff Mike Blakley was convicted of corruption.
+      *   A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis, leading to chaos in the veterans’ board.
+      *   A court case ruled that individuals cannot sue over a wrong SWAT raid, limiting police accountability.
+      *   A true crime story in Clarke County exposed a hospice business's shady ties to a judge, highlighting systemic corruption.
+      *   Alabama lawmakers are set to debate new laws.
+
+      THE PIVOT:
+      *   Article 2 provides broader state context (Ivey's actions, police accountability rulings, Clarke County judge corruption) that confirms the widespread "ethical decay" and political instability referenced by the specific local conflicts (Mack, Blakley, Ethics Commission) in Article 1.
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Eddie Tyler
+      *   Gulf Shores / Orange Beach
+      *   Baldwin Bridge Company
+      *   Taxman Elliott
+      *   Mike Blakley
+      *   Alabama Ethics Commission (Montgomery County Circuit Court)
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+      *   Fairhope
+    llm_text: Sheriff Huey Mack defied orders in Baldwin County, and Mike Blakley faced corruption charges. Governor Kay Ivey's chaos and the Clarke County judge scandal reveal widespread ethical decay across Alabama.
+    text: Sheriff Huey Mack defied orders and Mike Blakely faced corruption charges in Alabama. Governor Kay Ivey's chaos and the Clarke County scandal reveal ethical decay.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T05:55:52.126462Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 102110f22979cc7b32baa92ff14b23a0c752b790bb4adfdb2e642a41a9bf97e8
+    brief: |-
+      THE CONFLICT:
+      *   Sheriff Huey Mack refused a Spring Break Stay At Home order; Deputies removed individuals from a Baldwin County School Board meeting.
+      *   Eddie Tyler announced a mask mandate for Baldwin County schools (staff, students 2nd grade+).
+      *   The Baldwin Bridge Company is involved in a bridge battle between Gulf Shores and Orange Beach.
+      *   Taxman Elliott's Police Jurisdiction Law expands the Sheriff's territory and restricts Fairhope's wetlands protection ordinance.
+      *   Limestone County Sheriff Mike Blakley was convicted of corruption.
+      *   A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   Companies with political ties are scoring million-dollar contracts.
+      *   Law enforcement is investigating its own mishaps with no accountability.
+      *   Scholarships meant for the public were awarded to insiders.
+      *   Lawmakers are attempting to strip local control by allowing state leaders to handpick police chiefs.
+
+      THE PIVOT:
+      *   Article 2 confirms the systemic lack of accountability and political cronyism that enables specific localized corruption detailed in Article 1 (e.g., UA Board ghost employees, contract disputes, jurisdictional laws).
+      *   The push to strip local control aligns with the local conflicts over ordinances (Fairhope wetlands) and jurisdictional power (Taxman Elliott's Law).
+
+      KEY ENTITIES:
+      *   Huey Mack (Sheriff)
+      *   Eddie Tyler (Baldwin County School Board)
+      *   Gulf Shores Mayor
+      *   Orange Beach Mayor
+      *   Baldwin Bridge Company
+      *   Steve Russo
+      *   Frank Burt
+      *   Tim James
+      *   Taxman Elliott
+      *   Fairhope
+      *   Alabama Ethics Commission
+      *   Mike Blakley (Limestone County Sheriff)
+      *   Alabama (State/Montgomery County Circuit Court)
+    llm_text: Sheriff Huey Mack defied a Spring Break Stay At Home order while Taxman Elliott expands police territory, stripping local control. Read how political cronyism and corruption—from Mike Blakley to Baldwin Bridge Company contracts—are enabling local accountability failures.
+    text: Sheriff Huey Mack defied a spring break stay-at-home order while Taxman Elliott expands police territory. Political cronyism enables ongoing accountability failures.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T05:57:51.946235Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: e7d7a9ccfef99eb07ab8aa129155660539c89a34432b0579ac6da87c586265bf
+    brief: |-
+      THE CONFLICT:
+      *   Spring Break (Last Spring): Sheriff Huey Mack refused to enforce the issued Stay At Home order in Baldwin County.
+      *   Recent: 10-term Limestone County Sheriff Mike Blakley was convicted of corruption.
+      *   Past: A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   Podcast content (newer): Confirms the US government's COVID-19 response was damning.
+      *   Podcast content (newer): Details President Biden's pardon of his son Hunter.
+      *   Podcast content (newer): Features discussion on First Amendment rights and wrongful arrests of individuals exposing local school district corruption.
+
+      THE PIVOT:
+      *   Article 2 provides national context (Biden pardon, US COVID response) to local abuses (Mack's refusal, local school corruption, arrests of critics) detailed in Article 1, framing them within a broader political and constitutional conflict.
+      *   Article 2 confirms the existence of arrests critical of local government, linking to the school board/mask mandate situation in Article 1.
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Eddie Tyler (Baldwin County School Board)
+      *   Mike Blakley (Limestone County Sheriff)
+      *   Alabama Ethics Commission
+      *   Baldwin County
+      *   Gulf Shores
+      *   Orange Beach
+      *   Steve Russo-Frank Burt
+      *   Tim James
+      *   Hunter Biden
+      *   President Biden
+    llm_text: Mike Blakley faced corruption charges, while Sheriff Huey Mack defied Stay At Home orders in Baldwin County. See how local abuses connect to President Biden's Hunter pardon and a massive constitutional fight for First Amendment rights.
+    text: Mike Blakely faced corruption charges while Sheriff Huey Mack defied stay-at-home orders in Baldwin County. Local abuses connect to federal pardons and First Amendment fights.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T05:59:41.317882Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 59b2c35217a1923ef05116bfc5b1dfa8b2e340c13d32195400fedda926568f6e
+    brief: |-
+      THE CONFLICT:
+      *   Sheriff Huey Mack refused to enforce the Spring Break Stay At Home order despite vaccinations.
+      *   Baldwin County School Board (Eddie Tyler) mandated masks for staff, teachers, students 2nd grade and up.
+      *   Mayor of Gulf Shores and Mayor of Orange Beach were at odds regarding the Baldwin Bridge Company contract.
+      *   10 term Limestone County Sheriff Mike Blakley was convicted of corruption.
+      *   A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   Fairhope is expanding its $9.5M pier remodel.
+      *   Baldwin County approved thousands of residential lots while cutting sales tax on hearing aids.
+      *   The City of Bay Minette is being sued by the family of OJ French Jr, killed by BMPD Officer Brandon Thompson.
+      *   Mobile Attorney Andy Ruten is representing the City and hired Bay Minette Mayor Bob Wills to represent his firm in a separate Malpractice lawsuit.
+      *   Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+
+      THE PIVOT:
+      *   The Widget Article confirms ongoing local political action and legal entanglement within Baldwin County and surrounding cities (Fairhope, Bay Minette), demonstrating the complex, ongoing governance issues highlighted by the initial conflict (Mack's defiance, local ordinances).
+      *   The legal entanglements involving City of Bay Minette and Officer Brandon Thompson provide a contemporary example of law enforcement issues, mirroring the earlier focus on Sheriff Mack and local ordinance enforcement.
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Eddie Tyler
+      *   Gulf Shores Mayor
+      *   Orange Beach Mayor
+      *   Steve Russo
+      *   Frank Burt
+      *   Tim James
+      *   Taxman Elliott
+      *   Mike Blakley
+      *   Alabama Ethics Commission
+      *   Governor Ivey
+      *   Fairhope
+      *   $9.5M
+      *   City of Bay Minette
+      *   OJ French Jr
+      *   BMPD Officer Brandon Thompson
+      *   Andy Ruten
+      *   Bob Wills
+      *   Baldwin County
+    llm_text: Sheriff Huey Mack defied orders, but Baldwin County chaos continues. The City of Bay Minette faces an OJ French Jr lawsuit while Fairhope expands its $9.5M pier remodel.
+    text: Sheriff Huey Mack defied orders while Baldwin County chaos continues to grow. Bay Minette faces an OJ French Jr. lawsuit as Fairhope expands its pier.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T05:56:46.215066Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: b0de0845dd95a34cc845d7d5734ffc128f8083c5e82020a71f7fe1c29fff02a0
+    brief: |-
+      THE CONFLICT:
+      *   Last Spring Break, Sheriff Huey Mack refused to enforce the Stay At Home order in Baldwin County.
+      *   Deputies removed people from the Baldwin County School Board meeting where Eddie Tyler mandated masks for 2nd grade and up.
+      *   Limestone County Sheriff Mike Blakley was convicted of corruption (this week).
+      *   A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a decision today (1pm).
+      *   The legal case Mack vs Hadley involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      *   A Rule 32 Petition for Murray Lawrence Jr. was filed based on two autopsies ordered by Sheriff Mack's father (Coroner of Baldwin County in 2005) which were never disclosed (Brady Violation).
+      *   Federal Judge Mark Fuller (Mobile, Alabama) was identified as a corrupt judge.
+
+      THE PIVOT:
+      *   Article 2 provides specific evidence of past departmental misconduct (theft, undisclosed 2005 autopsies, Brady Violation) linked directly to Sheriff Mack and his father, providing legal context to the ethical and authority issues (mask mandates, jurisdiction laws) raised in Article 1.
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Eddie Tyler
+      *   Baldwin County School Board
+      *   Gulf Shores
+      *   Orange Beach
+      *   Baldwin Bridge Company
+      *   Taxman Elliott
+      *   Alabama Ethics Commission
+      *   Limestone County Sheriff Mike Blakley
+      *   Luigi Manjone
+      *   Mack vs Hadley
+      *   Murray Lawrence Jr.
+      *   Mark Fuller
+      *   Baldwin County Sheriff's Department
+    llm_text: Sheriff Huey Mack’s department stole a 1968 Camaro and withheld crucial 2005 autopsies for Murray Lawrence Jr. See the evidence linking Mack and his father to Brady violations and past corruption.
+    text: Sheriff Huey Mack's department stole a 1968 Camaro and withheld crucial 2005 autopsies. Evidence links Mack and his father to severe legal violations.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T05:58:52.282991Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: f83148568d5b3d27c45a3b97f62655cf6005737a0bce0b7db1d07921e4429321
+    brief: |-
+      THE CONFLICT: Sheriff Huey Mack violated Stay At Home order (Last Spring Break); Mayor conflict between Gulf Shores and Orange Beach involving Baldwin Bridge Company; UA Board investigated for ghost employees/golden parachutes; Limestone County Sheriff Mike Blakley convicted of corruption (this week); Writ of Mandamus filed against Alabama Ethics Commission (Montgomery County Circuit Court).
+      THE DISCOVERY: Article 2 highlights the ongoing unresolved mystery regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama (May 27, 2022), with a reward offered for information.
+      THE PIVOT: The unresolved 2022 death of Thomas Daniel "Danny" Williams Jr provides specific, localized context in Orange Beach that relates to the broader issues of municipal conflict (Gulf Shores/Orange Beach mayors) and ethical decay within Baldwin County detailed in the main article.
+      KEY ENTITIES: Sheriff Huey Mack, Eddie Tyler, Gulf Shores, Orange Beach, Baldwin Bridge Company, Taxman Elliott, City of Fairhope, Mike Blakley, Alabama Ethics Commission, Thomas Daniel "Danny" Williams Jr, Katie Britt, Adm. Kent Davis.
+    llm_text: The unresolved 2022 death of Thomas Daniel "Danny" Williams Jr in Orange Beach links directly to the municipal conflict between Gulf Shores and Orange Beach mayors. Read how this case reflects broader ethical decay involving Sheriff Huey Mack and the Baldwin Bridge Company.
+    text: The unresolved 2022 death of Thomas Williams Jr. in Orange Beach links to municipal conflicts. This case reflects ethical decay involving Sheriff Huey Mack.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T06:01:42.803678Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 0f065f72340645444e24d41cbdac0727bff9bc52054b50e1dff7471cad7fcea3
+    brief: |-
+      THE CONFLICT:
+      *   Mike Blakley, 10 term Limestone County Sheriff, was convicted of corruption this week (A1).
+      *   A Writ of Mandamus was filed against the Alabama Ethics Commission in Montgomery County Circuit Court (A1).
+      *   Sheriff Huey Mack refused to enforce a Stay At Home order last Spring Break in Baldwin County (A1).
+      *   Baldwin County School Board required masks for 2nd grade and up, enforced by Sheriff Mack’s Deputies against attendees (A1).
+      *   The Baldwin Bridge Company’s contract ties the Mayor of Gulf Shores and Orange Beach in a dispute (A1).
+
+      THE DISCOVERY:
+      *   Kent David, Former Real Admiral and Jag Officer and Alabama Veterans Affairs Commissioner, is leaving the State of Alabama due to a whistleblower Ethics Complaint (A2).
+      *   The Renaissance School in Baldwin County for special needs kids was robbed, potentially an inside job, leading to the school possibly shuttering (A2).
+      *   The Sheriff Department of Baldwin County has a new Command Staff (A2).
+      *   The Director of the Alabama Department of Transportation had his harassment case thrown out this week (A2).
+
+      THE PIVOT:
+      *   Article 2 updates the ongoing local ethical and governmental crisis (A1) by confirming high-level public officials (Kent David) are exiting the state due to ethics complaints, while simultaneously detailing internal corruption (Renaissance School robbery, new Baldwin County Command Staff) and legal actions (ADOT case dismissal) within the same county (Baldwin County).
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Baldwin County
+      *   Eddie Tyler
+      *   Gulf Shores
+      *   Orange Beach
+      *   Steve Russo
+      *   Frank Burt
+      *   Tim James
+      *   Alabama Ethics Commission (Montgomery County Circuit Court)
+      *   Mike Blakley
+      *   Kent David
+      *   Renaissance School
+      *   Alabama Department of Transportation
+      *   Fairhope
+      *   Baldwin Bridge Company
+    llm_text: 'Baldwin County faces a massive ethical crisis: Sheriff Huey Mack''s corruption conviction and Kent David''s departure confirm widespread governmental issues. This local chaos impacts everything from the Renaissance School robbery to the Gulf Shores bridge contract.'
+    text: Sheriff Huey Mack's corruption conviction and Kent David's departure confirm widespread governmental issues. Local chaos impacts everything from school robberies to bridge contracts.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T06:02:37.172469Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 86a38ce305318304e107102efd5da014eb29e9cb8fc1968e6957359ff6c7cd7b
+    brief: |-
+      THE CONFLICT: Sheriff Huey Mack (Baldwin County) refused to enforce a duly issued Stay At Home order during last Spring Break, leading to his deputies removing people from a Baldwin County School Board meeting where Eddie Tyler mandated masks for 2nd grade and up.
+      THE DISCOVERY: Sheriff Mack has one week left in office in Baldwin County, Alabama, and the Governor is currently selecting his replacement.
+      THE PIVOT: Mack's actions and resistance to public health orders (A1) have culminated in his imminent removal from office (A2).
+      KEY ENTITIES: Huey Mack, Eddie Tyler, Baldwin County, Gulf Shores, Orange Beach, Steve Russo, Frank Burt, Tim James, Alabama Ethics Commission, Mike Blakley, VP Kamala Harris, Governor.
+    llm_text: Sheriff Huey Mack defied the Stay At Home order and Eddie Tyler's mask mandate in Baldwin County. With just one week left, Mack's resistance to public health rules is forcing his removal as the Governor selects a replacement for Gulf Shores.
+    text: Sheriff Huey Mack defied stay-at-home orders and mask mandates in Baldwin County. With one week left, his resistance forces the Governor to select a replacement.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T06:03:39.199108Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 0578ccf92b71945ea8ff2ac704aedfff2903ffbba95453318af71ed76c2e7050
+    brief: |-
+      THE CONFLICT: Sheriff Huey Mack had a breakthrough SARS-COV-2 case in Baldwin County despite vaccination and refusal to enforce Spring Break Stay At Home order. Earlier, Limestone County Sheriff Mike Blakley was convicted of corruption.
+
+      THE DISCOVERY: On July 31, 2024, the family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson. Sheriff Mack announced his resignation mid-July, with Chief Deputy Anthony Lowery nominated by Governor Ivey.
+
+      THE PIVOT: The lawsuit proves a specific failure of local law enforcement (Officer Thompson's actions in the French incident) and exposes Mayor Robert Bob Wills' lie regarding the investigation outcome, highlighting the systemic ethical and legal decay in Baldwin County referenced in Article 1, and creating a power vacuum (Mack's resignation) that County Commissioner Matt McKenzie seeks to exploit.
+
+      KEY ENTITIES: Huey Mack, OJ French Jr., Officer Brandon Thompson, Robert Bob Wills, May Jung LLC, Anthony Lowery, Governor Ivey, Matt McKenzie, Eddie Tyler, Mike Blakley, Baldwin Bridge Company, Steve Russo, Frank Burt, Tim James.
+    llm_text: OJ French Jr.'s family sued Officer Brandon Thompson and the City of Bay Minette, exposing Mayor Robert Bob Wills' lies about the investigation. Sheriff Huey Mack resigned amid these failures, leaving Matt McKenzie poised to exploit the Baldwin County power vacuum.
+    text: The family of OJ French Jr. sued Officer Brandon Thompson and Bay Minette. Sheriff Huey Mack resigned amid failures, leaving a power vacuum in Baldwin County.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T06:04:46.833547Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

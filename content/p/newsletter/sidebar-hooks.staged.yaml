@@ -5,7 +5,63 @@ metadata:
   main_date: "2025-08-25"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  know-before-you-vote:
+    refined_source: 8d3581f919383261ba437838257c2e1609829c1b1553a0f673b7270ece775fe1
+    brief: |-
+      THE CONFLICT: Fairhope City Council ignored repeated concerns from its constituents. (Election date: August 26, 2025).
+      THE DISCOVERY: Article 2 highlighted constituent concerns regarding local government inaction in Fairhope prior to the August 26, 2025, vote.
+      THE PIVOT: The documented failure of the Fairhope City Council serves as evidence supporting The Ripp Report’s mission to expose political corruption across all 14 municipalities in Baldwin County.
+      KEY ENTITIES: Ripp Report (not-for-profit consumer group), Baldwin County, Fairhope City Council, 14 municipalities.
+    llm_text: Fairhope City Council ignored constituent concerns leading up to the August 26, 2025 vote. See how this failure proves The Ripp Report’s commitment to exposing political corruption across all 14 Baldwin County municipalities.
+    text: Fairhope City Council ignored constituent concerns before the August 2025 vote. The Ripp Report exposes political corruption across Baldwin County.
+    widget_date: "2025-08-05"
+    generated_at: "2026-11-06T12:11:19.881304Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pretty-flowers-rotten-roots:
+    refined_source: 41e1f571ec99424853429e646a4ba8bc71b337253b999a63468d9157467c15ee
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell, City Councilman in Fauxhope, has been involved in multiple controversies including the Publix Project, Triangle, The Airport, and council members taking city contracts through private company names.
+      *   A federal lawsuit was filed regarding denying a person the right to speak at a city council meeting.
+      *   Previous Mayor Karen Wilson refused a second paycheck and employed a utility engineer, leading the City Council to fire the engineer and assign the job to the Mayor.
+
+      THE DISCOVERY:
+      *   Fauxhope's entrenched council (supported by developers/Catalyst) unified for the Aug 26, 2025, election, contrasting with past independent council actions.
+      *   The current Mayor, Sherry Sullivan, is not a qualified engineer but was rewarded with a second paycheck, granting access to the Utility checkbook.
+      *   Jack Burrell is identified as the "absolutely worst City Councilman" and a key contact for "good ole boys" and developers.
+
+      THE PIVOT:
+      *   Article 2 provides specific, named examples of systemic political corruption (Fauxhope, Baldwin County) and misuse of municipal funds (Utility checkbook) that validate the general claim in Article 1 that high levels of corruption exist throughout Baldwin County.
+      *   This specific evidence justifies the Ripp Report's mandate to expose corruption in all 14 Baldwin County municipalities.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fauxhope City Councilman)
+      *   Sherry Sullivan (Fauxhope Mayor/Head of Utilities)
+      *   Karen Wilson (Former Mayor)
+      *   Catalyst (Developers/Special Interests)
+      *   Fauxhope (Municipality)
+      *   Baldwin County
+      *   The Ripp Report (Consumer/Anti-Corruption Group)
+      *   Aug 26, 2025 (Election Date)
+    llm_text: Fauxhope Councilman Jack Burrell and Mayor Sherry Sullivan control city contracts and the Utility checkbook. Discover specific corruption involving Catalyst developers, proving high-level misuse of municipal funds across all of Baldwin County.
+    text: Jack Burrell and Mayor Sherry Sullivan control city contracts and utility funds. Catalyst developers misused municipal funds across Baldwin County.
+    widget_date: "2025-07-18"
+    generated_at: "2026-11-06T12:15:33.415391Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-dhr-lawsuit:
+    refined_source: 42175ed407721c092cfecb694ff6df706a3ebf140cf9bde6d76fc49825f907dc
+    brief: |-
+      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months in mother's custody/control despite clear signs of abuse, law enforcement involvement, and a court-appointed guardian.
+      THE DISCOVERY: Article 2 revealed deep, systemic failures within Baldwin County’s court system, DHR, and law enforcement, resulting in the formation of a federal class action lawsuit against DHR.
+      THE PIVOT: The documented systemic corruption and failure within the Baldwin County DHR/Family Court system (Article 2) provides concrete examples of the widespread corruption that The Ripp Report (Article 1) seeks to expose politically across all 14 municipalities of Baldwin County.
+      KEY ENTITIES: Baldwin County; DHR; GAL; Baldwin County Family Court; The Ripp Report; 14 municipalities; Spanish Fort (law firm location)
+    llm_text: Five months of neglect for children in Baldwin County proves DHR and Family Court failed completely. This systemic failure sparks a federal class action, exposing corruption across all 14 Baldwin County municipalities.
+    text: Five months of neglect for children in Baldwin County exposed DHR failures. This systemic failure sparked a federal class action across municipalities.
+    widget_date: "2025-04-03"
+    generated_at: "2026-11-06T12:16:31.909366Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
+    refined_source: 9e93b4cbaa5db6aef47fef3f10a7541144ffd493dbe45c5ead8c47b2321af995
     brief: |-
       THE CONFLICT:
       Jack Burrell served as Councilman in the City of Fairhope for 15 to 30 years, characterized by "Good Ole Boy Club" practices, conflicts of interest, and questionable actions.
@@ -33,20 +89,24 @@ hooks:
       Publix
       Ripp Report
     llm_text: Jack Burrell ran Fairhope for 30 years using a "Good Ole Boy Club," overrunning the waterfront project to $10M and taking $500 from Jade Consulting. Discover the documented corruption—including covering up Ronan McSherry's arrests—proving why citizens must participate in Baldwin County elections.
+    text: Jack Burrell ran Fairhope for 30 years and overran waterfront project costs. Citizens must participate in Baldwin County elections to stop corruption.
     widget_date: "2025-08-24"
     generated_at: "2026-11-06T12:10:04.160267Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   qualified-daphne-district-6-city-council:
+    refined_source: 2886125b96845070e69b8c902b555e68a265ade5e2534f4564759ff0f7d1454d
     brief: |-
       THE CONFLICT: Daphne Mayor and council ignored community issues, including flooding and converting park property into commercial property.
       THE DISCOVERY: Dr. Byrian Ramsey, President of the Lake Forest property owners association and a Doctor of Management, is campaigning for Lake Forest First, City Council District 6 in Daphne.
       THE PIVOT: Article 2 provides a specific local example (Daphne/Lake Forest) of governmental negligence and ignored constituent concerns, illustrating the broader political corruption and low municipal involvement that Article 1 (The Ripp Report) aims to expose throughout Baldwin County.
       KEY ENTITIES: Dr. Byrian Ramsey, Daphne, Lake Forest, City Council District 6, The Ripp Report, Baldwin County.
     llm_text: Daphne Mayor and council ignored Lake Forest flooding and converted parkland to commercial use. Dr. Byrian Ramsey runs for City Council District 6, fighting the municipal negligence The Ripp Report exposes across Baldwin County.
+    text: The Daphne Mayor and council ignored Lake Forest flooding. Dr. Byrian Ramsey runs for City Council District 6 to fight municipal negligence.
     widget_date: "2025-08-23"
     generated_at: "2026-11-06T12:12:16.835952Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   food-for-thought:
+    refined_source: 4c91e752597991884ef7ef1d95f4d89851972c6043a987203f33b6304fbb6454
     brief: |-
       THE CONFLICT:
       *   Past conflict involves a publicly owned parcel of land in Baldwin County with a mismatched zoning designation. (No specific names or dates are provided in the source material.)
@@ -64,65 +124,19 @@ hooks:
       *   Publicly owned parcel of land
       *   Zoning designation issue
     llm_text: A publicly owned parcel in Baldwin County hides a critical zoning mismatch. Ripp Report documented this local irregularity, proving corruption risks across all 14 Baldwin County municipalities ahead of upcoming elections.
+    text: A publicly owned parcel in Baldwin County hides a zoning mismatch. The Ripp Report documented this irregularity ahead of local elections.
     widget_date: "2025-08-15"
     generated_at: "2026-11-06T12:13:11.284916Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote-2:
+    refined_source: f28e74674f78b4ab57c9b7a6c0a77616170f24b6856aa7a9f1bf50a1259920eb
     brief: |-
       THE CONFLICT: Fairhope City Council ignored repeated concerns from constituents leading up to the August 26, 2025 ballot.
       THE DISCOVERY: The Widget article revealed the Fairhope City Council's documented disregard for constituent input.
       THE PIVOT: The Fairhope City Council's specific failure (Article 2) provides concrete evidence supporting The Ripp Report's broader claim of high corruption levels in Baldwin County, driven partly by low municipal government participation (10%).
       KEY ENTITIES: Fairhope City Council, The Ripp Report, Baldwin County, 14 municipalities, August 26, 2025
     llm_text: Fairhope City Council ignored constituents before the August 26, 2025 ballot. The Ripp Report found this failure proves high corruption across Baldwin County, fueled by just 10% municipal participation.
+    text: Fairhope City Council ignored constituents before the August 26 ballot. Low municipal participation fueled high corruption across Baldwin County.
     widget_date: "2025-08-11"
     generated_at: "2026-11-06T12:14:09.353829Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  know-before-you-vote:
-    brief: |-
-      THE CONFLICT: Fairhope City Council ignored repeated concerns from its constituents. (Election date: August 26, 2025).
-      THE DISCOVERY: Article 2 highlighted constituent concerns regarding local government inaction in Fairhope prior to the August 26, 2025, vote.
-      THE PIVOT: The documented failure of the Fairhope City Council serves as evidence supporting The Ripp Report’s mission to expose political corruption across all 14 municipalities in Baldwin County.
-      KEY ENTITIES: Ripp Report (not-for-profit consumer group), Baldwin County, Fairhope City Council, 14 municipalities.
-    llm_text: Fairhope City Council ignored constituent concerns leading up to the August 26, 2025 vote. See how this failure proves The Ripp Report’s commitment to exposing political corruption across all 14 Baldwin County municipalities.
-    widget_date: "2025-08-05"
-    generated_at: "2026-11-06T12:11:19.881304Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pretty-flowers-rotten-roots:
-    brief: |-
-      THE CONFLICT:
-      *   Jack Burrell, City Councilman in Fauxhope, has been involved in multiple controversies including the Publix Project, Triangle, The Airport, and council members taking city contracts through private company names.
-      *   A federal lawsuit was filed regarding denying a person the right to speak at a city council meeting.
-      *   Previous Mayor Karen Wilson refused a second paycheck and employed a utility engineer, leading the City Council to fire the engineer and assign the job to the Mayor.
-
-      THE DISCOVERY:
-      *   Fauxhope's entrenched council (supported by developers/Catalyst) unified for the Aug 26, 2025, election, contrasting with past independent council actions.
-      *   The current Mayor, Sherry Sullivan, is not a qualified engineer but was rewarded with a second paycheck, granting access to the Utility checkbook.
-      *   Jack Burrell is identified as the "absolutely worst City Councilman" and a key contact for "good ole boys" and developers.
-
-      THE PIVOT:
-      *   Article 2 provides specific, named examples of systemic political corruption (Fauxhope, Baldwin County) and misuse of municipal funds (Utility checkbook) that validate the general claim in Article 1 that high levels of corruption exist throughout Baldwin County.
-      *   This specific evidence justifies the Ripp Report's mandate to expose corruption in all 14 Baldwin County municipalities.
-
-      KEY ENTITIES:
-      *   Jack Burrell (Fauxhope City Councilman)
-      *   Sherry Sullivan (Fauxhope Mayor/Head of Utilities)
-      *   Karen Wilson (Former Mayor)
-      *   Catalyst (Developers/Special Interests)
-      *   Fauxhope (Municipality)
-      *   Baldwin County
-      *   The Ripp Report (Consumer/Anti-Corruption Group)
-      *   Aug 26, 2025 (Election Date)
-    llm_text: Fauxhope Councilman Jack Burrell and Mayor Sherry Sullivan control city contracts and the Utility checkbook. Discover specific corruption involving Catalyst developers, proving high-level misuse of municipal funds across all of Baldwin County.
-    widget_date: "2025-07-18"
-    generated_at: "2026-11-06T12:15:33.415391Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  baldwin-county-dhr-lawsuit:
-    brief: |-
-      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months in mother's custody/control despite clear signs of abuse, law enforcement involvement, and a court-appointed guardian.
-      THE DISCOVERY: Article 2 revealed deep, systemic failures within Baldwin County’s court system, DHR, and law enforcement, resulting in the formation of a federal class action lawsuit against DHR.
-      THE PIVOT: The documented systemic corruption and failure within the Baldwin County DHR/Family Court system (Article 2) provides concrete examples of the widespread corruption that The Ripp Report (Article 1) seeks to expose politically across all 14 municipalities of Baldwin County.
-      KEY ENTITIES: Baldwin County; DHR; GAL; Baldwin County Family Court; The Ripp Report; 14 municipalities; Spanish Fort (law firm location)
-    llm_text: Five months of neglect for children in Baldwin County proves DHR and Family Court failed completely. This systemic failure sparks a federal class action, exposing corruption across all 14 Baldwin County municipalities.
-    widget_date: "2025-04-03"
-    generated_at: "2026-11-06T12:16:31.909366Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

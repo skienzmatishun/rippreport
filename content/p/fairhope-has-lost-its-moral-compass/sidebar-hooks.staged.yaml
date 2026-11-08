@@ -1,0 +1,56 @@
+metadata:
+  generated_at: "2026-11-08T13:08:34.091192Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-has-lost-its-moral-compass
+  main_date: "2018-06-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bushwhacked-hijacked-fairhope-style:
+    brief: |-
+      THE CONFLICT: City Council President Jack Burrell initiated a crusade against Mayor Karin Wilson, aiming to drive her out of office through bullying and obstruction, starting after Wilson's election.
+      THE DISCOVERY: The earlier articles revealed that the City Council supported Burrell’s effort to keep the Fairhope Airport title with the Airport Authority, not the city, and that City Council helped seal lawsuits related to firings (e.g., Sherry Sullivan).
+      THE PIVOT: Article 2 established Burrell’s historical opposition and the methods used (sealed cases, manipulating Chief Pettis’s retirement) which led to the ongoing, orchestrated attacks on the Mayor and the use of elected positions against her, as detailed in Article 1.
+      KEY ENTITIES: Jack Burrell, Karin Wilson, Chief Pettis, Sherry Sullivan, Fairhope City Council, Fairhope Airport, Mayor Wilson, Police Chief
+    llm_text: Jack Burrell orchestrated a political crusade against Mayor Karin Wilson, using the Fairhope City Council to control the Airport title and seal firings like Sherry Sullivan's. See how Burrell's historical opposition turned elected power into bullying against the Mayor.
+    widget_date: "2018-06-08"
+    generated_at: "2026-11-08T13:05:57.322004Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  paradise-lost:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell (City Council President) allegedly accepted free plane transportation from bidders related to the Fairhope Airport bid for a Board member and Fairhope Municipal Judge.
+      *   Mr. Burrell allegedly lied about a police record during his run for office.
+      *   The Council, including the Police Chief, orchestrated a public meeting to embarrass Mayor Wilson.
+      *   Mr. Burrell is involved in a Federal lawsuit for which the City of Fairhope is paying legal bills.
+
+      THE DISCOVERY:
+      *   Article 2 (older context) revealed that rapid residential growth in coastal areas, including Daphne/Fairhope, is outpacing adequate infrastructure development (traffic, congestion, crowded schools).
+      *   Article 2 noted that these communities have a finite carrying capacity and require regional planning (Baldwin County) and public transit solutions (ferry to Mobile, trolley).
+
+      THE PIVOT:
+      *   Article 2 establishes the high-growth, infrastructure-strained environment of Fairhope, setting the stage for the political crisis detailed in Article 1.
+      *   Article 1 demonstrates how political leadership (Burrell) is failing to provide the necessary "smart growth" and ethical guidance required to manage the complex, finite capacity of a rapidly developing coastal town.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President)
+      *   Mayor Wilson
+      *   Fairhope City Council
+      *   Police Chief
+      *   Daphne
+      *   Gulf Shores/Orange Beach
+      *   Fairhope Airport
+      *   Baldwin County
+    llm_text: Jack Burrell allegedly took free plane flights tied to the Fairhope Airport bid, failing to provide smart growth for rapidly expanding Daphne and Fairhope. See how this ethical crisis shows local leadership cannot manage the finite capacity of your growing coastal community.
+    widget_date: "2018-06-07"
+    generated_at: "2026-11-08T13:07:14.503789Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  chainsaw:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioner Chris Elliott and Tucker Dorsey (Catalyst candidates) attempted to deny public access to Zundel’s Road to Mobile Bay, leading to public pressure during the June 5 Primary election.
+      THE DISCOVERY: Article 2 revealed that the opposition to Zundel’s Road public access was motivated by donor interests living on the bay, not public need.
+      THE PIVOT: Article 2 provides historical context demonstrating a pattern where local elected officials prioritize private/donor interests over public access, framing the later accusations in Article 1 regarding Jack Burrell's misuse of elected power and conflicts of interest (e.g., free plane travel from bidders) as part of a systemic ethical failure in Fairhope.
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Police Chief, Chris Elliott, Tucker Dorsey, Zundel’s Road, Fairhope City Council
+    llm_text: Chris Elliott and Tucker Dorsey tried to deny public access to Zundel’s Road, fueling primary pressure. Article 2 reveals donor interests—not public need—drove the block, exposing systemic ethical failures in Fairhope City Council.
+    widget_date: "2018-05-07"
+    generated_at: "2026-11-08T13:08:15.110820Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

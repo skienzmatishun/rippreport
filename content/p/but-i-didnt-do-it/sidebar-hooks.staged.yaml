@@ -6,16 +6,19 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   bull:
+    refined_source: 3212eeb9b6c9f5b563312912f81bdc338a891baa03a6e726dac79469efc45913
     brief: |-
       THE CONFLICT: Murray Lawrence, Jr. was arrested in Fairhope in 2004 and charged with murder, a crime he did not commit. He was sentenced to "life without parole" and incarcerated in Holman Prison for 18 years.
       THE DISCOVERY: Between 2000 and 2016, Fairhope under Mayor Karen Wilson experienced administrative issues, including budget cuts to utility infrastructure (2017/2018), staffing decreases, and the co-mingling of city and utility funds.
       THE PIVOT: Article 2 provides historical context (2000-2016) of administrative and financial instability in Fairhope, demonstrating a pattern of governance issues predating and surrounding the 2004 wrongful conviction.
       KEY ENTITIES: Murray Lawrence, Jr.; Fairhope; Karen Wilson; Fairhope City Council; Holman Prison; Grand Hotel.
     llm_text: Murray Lawrence, Jr. spent 18 years in Holman Prison for a 2004 murder charge he did not commit. Did Mayor Karen Wilson's Fairhope administration—which saw budget cuts and fund co-mingling (2000-2016)—contribute to this deep injustice?
+    text: Murray Lawrence, Jr. spent 18 years in Holman Prison for a murder charge he did not commit. Did budget cuts and fund co-mingling during Mayor Karen Wilson's administration contribute to this injustice?
     widget_date: "2023-08-09"
     generated_at: "2026-11-06T19:21:30.144714Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   cannabis-conference:
+    refined_source: 4ee63804a31f5373b4a058b88293471295479f3eec6cc98507c7b43a7a3b4610
     brief: |-
       THE CONFLICT:
       Murray Lawrence, Jr. was arrested in 2004 in Fairhope, Alabama, by police at the Grand Hotel.
@@ -42,6 +45,7 @@ hooks:
       2004
       October 2023
     llm_text: Murray Lawrence, Jr. spent 18 years in Holman Prison after being framed for murder in Baldwin County in 2004. See how the 2023 ACIA conference highlights regulated medical cannabis growth, sharply contrasting that systemic injustice.
+    text: Murray Lawrence, Jr. spent 18 years in Holman Prison after being framed for murder in Baldwin County in 2004. The 2023 ACIA conference highlighted regulated medical cannabis growth, contrasting sharply with that systemic injustice.
     widget_date: "2023-08-08"
     generated_at: "2026-11-06T19:22:54.840108Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

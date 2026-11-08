@@ -5,52 +5,8 @@ metadata:
   main_date: "2026-09-28"
   model_name: gemini-3.5-flash-lite
 hooks:
-  mabel-amos-scholarship-list-revealed:
-    brief: |-
-      THE CONFLICT:
-      - A four-year civil litigation involving the Mabel Amos Memorial Fund (MAMF), which was established by the late two-term Alabama Secretary of State Mabel Amos upon her death in 1999 (fund inception in 2002) with roughly $500,000 that grew to millions due to oil discoveries in Conecuh County.
-      - Lawsuits filed by grandniece Leigh Manning, great-grandniece Megan Carmack, and student Tyra Lindsay (represented by attorney Byron B. Mathews, Jr.) against trust fiduciaries—including Regions Bank, John Bell, Drew McNeese, Rick Clifton, and Alabama Ethics Commission Executive Director Tom Albritton—alleging self-dealing, fraud, and improper distribution of scholarships to relatives, friends, and law firm associates.
-      - Alabama Attorney General Steve Marshall intervened as a plaintiff, attempting multiple emergency stays with the Alabama Supreme Court to block independent accounting efforts.
-      - Montgomery County Circuit Court Judge Greg Griffin appointed James C. White, Sr., as Special Fiduciary, whose investigation cost the trust $557,105.
-      - A final court order absolved and held harmless trust fiduciaries (including Tom Albritton, Regions Bank, John Bell, and Drew McNees) from all liability for administration from 2002 onward under a settlement requiring defendants to pay back $1.325 million and $300,000 in attorneys' fees.
-
-      THE DISCOVERY:
-      - The Special Fiduciary's report (uncovered and published by Lagniappe) revealed a hidden 12-year list of scholarship recipients from 2014 to 2024, exposing a "who's who" of prominent Andalusia and Covington County citizens.
-      - Documented $257,844 in self-dealing disbursements to children of board members and associates, including $135,000 paid to Tom Albritton's children (Martha H. Albritton and James Albritton receiving $67,500 each) and $60,000 to Anna E. Bowden (daughter of Judge Ben Bowden, Albritton's former law partner and childhood friend).
-      - Revealed nearly $470,000 given to colleges and universities as unauthorized "endowed scholarships," totaling $725,000 in unallowed spending.
-      - Showed that IRS Form 990 reports listed names and amounts from 2002 to 2013, but omitted recipient names starting in 2014 after oil royalties flooded the fund with millions.
-
-      THE PIVOT:
-      - Article 2 (Lagniappe report) provides the foundational, historical accounting proof of Tom Albritton's systemic self-dealing and misuse of trust funds.
-      - It serves as the "smoking gun" because it exposes the exact financial abuses and hidden recipient lists that Article 1 uses to condemn Albritton as a hypocritical, corrupt "fake ethics director" who escaped criminal charges and liability via a politically managed settlement, while depriving deserving children of legitimate scholarships.
-
-      KEY ENTITIES:
-      - Tom Albritton (Alabama Ethics Commission Executive Director / Albritton Law Firm)
-      - Mabel Amos (Former Alabama Secretary of State / Trust Creator)
-      - James C. White, Sr. (Special Fiduciary / CPA)
-      - Judge Greg Griffin (Montgomery County Circuit Court Judge)
-      - Steve Marshall (Alabama Attorney General)
-      - Regions Bank
-      - John Bell (Former Regions Bank representative / trustee)
-      - Drew McNeese (Regions Bank representative who replaced Bell in 2020)
-      - Rick Clifton (Albritton's late law partner / trust board member)
-      - Byron B. Mathews, Jr. (Attorney for petitioner Tyra Lindsay)
-      - Leigh Manning (Amos grandniece / plaintiff)
-      - Megan Carmack (Amos great-grandniece / plaintiff)
-      - Tyra Lindsay (Conecuh County student / petitioner)
-      - Martha H. Albritton and James Albritton (Albritton's children / scholarship recipients)
-      - Judge Ben Bowden (Alabama Court of Appeals / former law partner)
-      - Anna E. Bowden (Scholarship recipient)
-      - Paula Tillman (Rick Clifton's secretary)
-      - Chandlar Dauphin (Scholarship recipient / Tillman's granddaughter)
-      - Tina Ballard (Law firm secretary)
-      - Megan Ballard and Whitney Ballard (Scholarship recipients / Ballard's children)
-      - Dr. Charles R. Kerr, Dr. Allen Ward, and Dr. Kimberly Ward (Law firm clients whose children received scholarships)
-    llm_text: Alabama Ethics Director Tom Albritton dodged liability while funneling thousands in Mabel Amos trust funds to his own children. Read how a hidden Lagniappe report exposes systemic self-dealing and corruption that cheated deserving students out of their rightful scholarships.
-    widget_date: "2026-09-11"
-    generated_at: "2026-11-06T05:01:10.969986Z"
-    model_name: gemini-3.5-flash-lite
   our-man-in-mar-a-lago:
+    refined_source: 8cb0622b6089fde74ceac250a42478e9befa185e60df834fd38e594892de02a9
     brief: |-
       THE CONFLICT:
       *   Mabel Amos Memorial Fund/Trust administered by Director of Alabama Ethics Commission (Tom Albritton).
@@ -68,7 +24,7 @@ hooks:
 
       THE PIVOT:
       *   Article 2 established Albritton's direct involvement and the alleged systemic corruption among the law firm and Trust Board prior to the legal resolution.
-      *   This historical context proves that Albritton's exoneration (Article 1) despite the documented self-dealing and improper distribution of funds to relatives/friends was not an isolated legal technicality, but a consequence of the politically corrupt environment in Alabama, allowing him to escape criminal charges despite evidence of unethical handling.
+      *   This historical context shows that Albritton's exoneration (Article 1) despite the documented self-dealing and improper distribution of funds to relatives/friends was not an isolated legal technicality, but a consequence of the politically corrupt environment in Alabama, allowing him to escape criminal charges despite evidence of unethical handling.
 
       KEY ENTITIES:
       *   Tom Albritton (Alabama Ethics Director)
@@ -86,6 +42,7 @@ hooks:
       *   Byron Mathews
       *   Griffin (Court representative)
     llm_text: Tom Albritton, Alabama Ethics Director, escaped liability despite the Mabel Amos Trust’s 12-year self-dealing scandal involving relatives and friends. This exoneration proves Alabama’s political corruption shields powerful figures like Drew McNeese from justice.
+    text: Ethics Director Tom Albritton escaped liability after a 12-year self-dealing scandal involving the Mabel Amos Trust. This decision proves Alabama's political system protects connected insiders like Drew McNeese.
     widget_date: "2026-09-10"
     generated_at: "2026-11-06T05:01:43.490567Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -160,18 +117,67 @@ hooks:
       - Alabama
       - Big Earl - comedy act reference
     llm_text: Tom Albritton, Alabama's ethics chief, secretly tangled with the Mabel Amos Trust's four-year lawsuit, then self-dealt while kids like Tyra Lindsey lost scholarships. Courts booted him, but he still wanted his $120,000, and now Alabama's ethics system looks like the same dirty underwear.
+    text: Tom Albritton, Alabama's ethics chief, secretly tangled with the Mabel Amos Trust's four-year lawsuit, then self-dealt while kids like Tyra Lindsey lost scholarships. Courts booted him, but he still wanted his $120,000, and now Alabama's ethics system looks like the same dirty underwear.
     widget_date: "2026-06-21"
     generated_at: "2026-11-06T05:02:52.965662Z"
     model_name: recursive/flint-v1.0:free
   scumbag:
-    brief: "THE CONFLICT:\n- Tom Albritton (Alabama Ethics Director), along with Regions Bank, John Bell, and Drew McNees, administered the Mabel Amos Memorial Fund from its inception in 2002.\n- For four years, a civil lawsuit litigated the misuse of the trust. \n- A special fiduciary's audit report revealed that board members and trustees engaged in self-dealing by distributing scholarships to relatives and friends, while hiding the recipient list from public view for 12 years and depriving deserving students (such as Tyra Lindsey) of funds.\n- Plaintiffs (including family members represented by attorney Tommy Gallion, and Tyra Lindsey represented by attorney Byron B. Mathews) sought a $1.325 million payback and $300,000 in attorney fees.\n- A final judge's order absolved and held Tom Albritton, John Bell, Drew McNees, and Regions Bank harmless from all past liability, ending the 4-year litigation without criminal charges.\n\nTHE DISCOVERY:\n- The background coverage (Article 2) exposed that the litigation and a special fiduciary's report proved board members indulged in self-dealing and kept scholarship recipient lists hidden for 12 years.\n- It revealed that Ethics Commission members (Greg Pappas, George Pierce, and David \"Chips\" Pruet) claimed to have no idea Albritton was involved in the litigation or accused of self-dealing.\n- It highlighted systemic protection of Albritton by politicians (State Senator Chris Elliott, State Representative Matt Simpson, State Senator Greg Albritton), the Alabama Bar, the Ethics Commission, and Attorney General Steve Marshall, alongside potential federal probes and conflicts of interest involving Albritton's brother in the AG's office.\n\nTHE PIVOT:\n- Article 2 serves as the smoking gun because it documents the underlying 12-year concealment, the 4-year civil litigation, and the specific self-dealing charges regarding the Mabel Amos Memorial Fund. \n- It proves that despite clear evidence of fraud and self-enrichment at the expense of children's scholarships, Tom Albritton escaped criminal charges and was ultimately absolved of all liability by a judicial settlement—while maintaining his position as the Director of the Alabama Ethics Commission.\n\nKEY ENTITIES:\n- Tom Albritton\n- Mabel Amos Memorial Fund\n- Regions Bank\n- John Bell\n- Drew McNees\n- Byron B. Mathews\n- Tyra Lindsey\n- Megan Carmack\n- Tommy Gallion\n- Chris Elliott\n- Matt Simpson\n- Greg Albritton\n- Greg Pappas\n- George Pierce\n- David \"Chips\" Pruet\n- Steve Marshall\n- Allen Dodd\n- Katherine Robertson\n- Ashby Pate\n- Harry Still"
+    brief: "THE CONFLICT:\n- Tom Albritton (Alabama Ethics Director), along with Regions Bank, John Bell, and Drew McNees, administered the Mabel Amos Memorial Fund from its inception in 2002.\n- For four years, a civil lawsuit litigated the misuse of the trust. \n- A special fiduciary's audit report revealed that board members and trustees engaged in self-dealing by distributing scholarships to relatives and friends, while hiding the recipient list from public view for 12 years and depriving deserving students (such as Tyra Lindsey) of funds.\n- Plaintiffs (including family members represented by attorney Tommy Gallion, and Tyra Lindsey represented by attorney Byron B. Mathews) sought a $1.325 million payback and $300,000 in attorney fees.\n- A final judge's order absolved and held Tom Albritton, John Bell, Drew McNees, and Regions Bank harmless from all past liability, ending the 4-year litigation without criminal charges.\n\nTHE DISCOVERY:\n- The background coverage (Article 2) exposed that the litigation and a special fiduciary's report proved board members indulged in self-dealing and kept scholarship recipient lists hidden for 12 years.\n- It revealed that Ethics Commission members (Greg Pappas, George Pierce, and David \"Chips\" Pruet) claimed to have no idea Albritton was involved in the litigation or accused of self-dealing.\n- It highlighted systemic protection of Albritton by politicians (State Senator Chris Elliott, State Representative Matt Simpson, State Senator Greg Albritton), the Alabama Bar, the Ethics Commission, and Attorney General Steve Marshall, alongside potential federal probes and conflicts of interest involving Albritton's brother in the AG's office.\n\nTHE PIVOT:\n- Article 2 serves as the smoking gun because it documents the underlying 12-year concealment, the 4-year civil litigation, and the specific self-dealing charges regarding the Mabel Amos Memorial Fund. \n- It shows that despite clear evidence of fraud and self-enrichment at the expense of children's scholarships, Tom Albritton escaped criminal charges and was ultimately absolved of all liability by a judicial settlement—while maintaining his position as the Director of the Alabama Ethics Commission.\n\nKEY ENTITIES:\n- Tom Albritton\n- Mabel Amos Memorial Fund\n- Regions Bank\n- John Bell\n- Drew McNees\n- Byron B. Mathews\n- Tyra Lindsey\n- Megan Carmack\n- Tommy Gallion\n- Chris Elliott\n- Matt Simpson\n- Greg Albritton\n- Greg Pappas\n- George Pierce\n- David \"Chips\" Pruet\n- Steve Marshall\n- Allen Dodd\n- Katherine Robertson\n- Ashby Pate\n- Harry Still"
     llm_text: Ethics Director Tom Albritton dodged criminal charges and liability after a special audit exposed 12 years of self-dealing involving the Mabel Amos Memorial Fund. Read the background coverage to see how powerful politicians and Attorney General Steve Marshall shielded Albritton while deserving students lost out on scholarships.
+    text: Ethics Director Tom Albritton dodged criminal charges and liability after a special audit exposed 12 years of self-dealing involving the Mabel Amos Memorial Fund. Read the background coverage to see how powerful politicians and Attorney General Steve Marshall shielded Albritton while deserving students lost out on scholarships.
     widget_date: "2026-04-29"
     generated_at: "2026-11-06T05:01:16.396563Z"
     model_name: gemini-3.5-flash-lite
   fire-albritton:
-    brief: "THE CONFLICT: \n- Tom Albritton (Alabama Ethics Director), along with Regions Bank, John Bell, and Drew McNees, administered the Mabel Amos Memorial Fund (inception in 2002).\n- After four years of civil litigation, a final court order absolved and held harmless Albritton and other fiduciaries from all liability regarding the administration of the Trust.\n- Plaintiffs (represented by attorneys Carmack, Manning, Lindsey, and Byron Mathews) proposed that defendants pay back $1.325 million to make the fund whole (for improper distributions to people and institutions, and overcharged fees by Regions) plus $300,000 in attorneys' fees.\n- Judge Griffin approved a settlement ending the 4-year litigation to save remaining trust assets from being completely drained by legal and special fiduciary costs.\n\nTHE DISCOVERY: \n- Historical context (Widget Article / older background): The Mabel Amos Trust was plagued by millions in unaccountable funds and self-dealing, with board members handing out scholarships/donations to relatives, friends, and prominent citizens of Andalusia whose names were hidden for 12 years.\n- Tom Albritton operated with a $100,000+ salary while engaging in unethical behavior related to the trust, avoiding criminal charges despite widespread knowledge among the Attorney General, State/local Representatives, State Senators, and the Alabama Bar.\n- Albritton allegedly used a hidden recipient list as a \"blackmail card\" to protect himself, as politicians, lawyers, judges, and prominent citizens who received improper funds did not want to refund the money or have their names exposed.\n- Governor \"Me Ma\" Ivey used extreme executive power to fire Alabama Department of Veterans Affairs Director Kent Davis while leaving corrupt figures like Albritton untouched.\n\nTHE PIVOT: \n- The historical background details the exact mechanics of Albritton's corruption and self-dealing via the Mabel Amos Trust, exposing why the recent legal settlement letting him off scot-free is a miscarriage of justice. \n- While the court settled the 4-year litigation by absolving Albritton of liability to save the depleted trust, the background proves he systematically benefited elites and utilized a concealed recipient list as leverage to retain his position and salary as Ethics Director, highlighting the profound hypocrisy of the Alabama Ethics Commission.\n\nKEY ENTITIES: \n- Tom Albritton (Alabama Ethics Director)\n- Kent Davis (Alabama Department of Veterans Affairs Director)\n- Governor \"Me Ma\" Ivey\n- Judge Griffin\n- Regions Bank\n- John Bell\n- Drew McNees\n- Carmack (Attorney)\n- Manning (Attorney)\n- Tyra Lindsey (Petitioner/Plaintiff)\n- Byron Mathews (Attorney for Tyra Lindsey)\n- Mabel Amos Memorial Fund (Trust)"
-    llm_text: Judge Griffin just absolved Ethics Director Tom Albritton in the Mabel Amos Trust settlement, but history exposes his massive self-dealing. Discover how Albritton weaponized a hidden recipient list of elites to protect his $100k salary and dodge accountability.
+    brief: "THE CONFLICT: \n- Tom Albritton (Alabama Ethics Director), along with Regions Bank, John Bell, and Drew McNees, administered the Mabel Amos Memorial Fund (inception in 2002).\n- After four years of civil litigation, a final court order absolved and held harmless Albritton and other fiduciaries from all liability regarding the administration of the Trust.\n- Plaintiffs (represented by attorneys Carmack, Manning, Lindsey, and Byron Mathews) proposed that defendants pay back $1.325 million to make the fund whole (for improper distributions to people and institutions, and overcharged fees by Regions) plus $300,000 in attorneys' fees.\n- Judge Griffin approved a settlement ending the 4-year litigation to save remaining trust assets from being completely drained by legal and special fiduciary costs.\n\nTHE DISCOVERY: \n- Historical context (Widget Article / older background): The Mabel Amos Trust was plagued by millions in unaccountable funds and self-dealing, with board members handing out scholarships/donations to relatives, friends, and prominent citizens of Andalusia whose names were hidden for 12 years.\n- Tom Albritton operated with a $100,000+ salary while engaging in unethical behavior related to the trust, avoiding criminal charges despite widespread knowledge among the Attorney General, State/local Representatives, State Senators, and the Alabama Bar.\n- Albritton used a hidden recipient list as a \"blackmail card\" to protect himself, as politicians, lawyers, judges, and prominent citizens who received improper funds did not want to refund the money or have their names exposed.\n- Governor \"Me Ma\" Ivey used extreme executive power to fire Alabama Department of Veterans Affairs Director Kent Davis while leaving corrupt figures like Albritton untouched.\n\nTHE PIVOT: \n- The historical background details the exact mechanics of Albritton's corruption and self-dealing via the Mabel Amos Trust, exposing why the recent legal settlement letting him off scot-free is a miscarriage of justice. \n- While the court settled the 4-year litigation by absolving Albritton of liability to save the depleted trust, the background proves he systematically benefited elites and utilized a concealed recipient list as leverage to retain his position and salary as Ethics Director, highlighting the profound hypocrisy of the Alabama Ethics Commission.\n\nKEY ENTITIES: \n- Tom Albritton (Alabama Ethics Director)\n- Kent Davis (Alabama Department of Veterans Affairs Director)\n- Governor \"Me Ma\" Ivey\n- Judge Griffin\n- Regions Bank\n- John Bell\n- Drew McNees\n- Carmack (Attorney)\n- Manning (Attorney)\n- Tyra Lindsey (Petitioner/Plaintiff)\n- Byron Mathews (Attorney for Tyra Lindsey)\n- Mabel Amos Memorial Fund (Trust)"
+    llm_text: Judge Griffin just absolved Ethics Director Tom Albritton in the Mabel Amos Trust settlement, but history exposes his massive self-dealing. Read how Albritton weaponized a hidden recipient list of elites to protect his $100k salary and dodge accountability.
+    text: Judge Griffin just absolved Ethics Director Tom Albritton in the Mabel Amos Trust settlement, but history exposes his massive self-dealing. Read how Albritton weaponized a hidden recipient list of elites to protect his $100k salary and dodge accountability.
     widget_date: "2024-11-03"
     generated_at: "2026-11-06T05:01:22.436723Z"
+    model_name: gemini-3.5-flash-lite
+  mabel-amos-scholarship-list-revealed:
+    brief: |-
+      THE CONFLICT:
+      - A four-year civil litigation involving the Mabel Amos Memorial Fund (MAMF), which was established by the late two-term Alabama Secretary of State Mabel Amos upon her death in 1999 (fund inception in 2002) with roughly $500,000 that grew to millions due to oil discoveries in Conecuh County.
+      - Lawsuits filed by grandniece Leigh Manning, great-grandniece Megan Carmack, and student Tyra Lindsay (represented by attorney Byron B. Mathews, Jr.) against trust fiduciaries—including Regions Bank, John Bell, Drew McNeese, Rick Clifton, and Alabama Ethics Commission Executive Director Tom Albritton—alleging self-dealing, fraud, and improper distribution of scholarships to relatives, friends, and law firm associates.
+      - Alabama Attorney General Steve Marshall intervened as a plaintiff, attempting multiple emergency stays with the Alabama Supreme Court to block independent accounting efforts.
+      - Montgomery County Circuit Court Judge Greg Griffin appointed James C. White, Sr., as Special Fiduciary, whose investigation cost the trust $557,105.
+      - A final court order absolved and held harmless trust fiduciaries (including Tom Albritton, Regions Bank, John Bell, and Drew McNees) from all liability for administration from 2002 onward under a settlement requiring defendants to pay back $1.325 million and $300,000 in attorneys' fees.
+
+      THE DISCOVERY:
+      - The Special Fiduciary's report (uncovered and published by Lagniappe) revealed a hidden 12-year list of scholarship recipients from 2014 to 2024, exposing a "who's who" of prominent Andalusia and Covington County citizens.
+      - Documented $257,844 in self-dealing disbursements to children of board members and associates, including $135,000 paid to Tom Albritton's children (Martha H. Albritton and James Albritton receiving $67,500 each) and $60,000 to Anna E. Bowden (daughter of Judge Ben Bowden, Albritton's former law partner and childhood friend).
+      - Revealed nearly $470,000 given to colleges and universities as unauthorized "endowed scholarships," totaling $725,000 in unallowed spending.
+      - Showed that IRS Form 990 reports listed names and amounts from 2002 to 2013, but omitted recipient names starting in 2014 after oil royalties flooded the fund with millions.
+
+      THE PIVOT:
+      - Article 2 (Lagniappe report) provides the foundational, historical accounting proof of Tom Albritton's systemic self-dealing and misuse of trust funds.
+      - It serves as the "smoking gun" because it exposes the exact financial abuses and hidden recipient lists that Article 1 uses to condemn Albritton as a hypocritical, corrupt "fake ethics director" who escaped criminal charges and liability via a politically managed settlement, while depriving deserving children of legitimate scholarships.
+
+      KEY ENTITIES:
+      - Tom Albritton (Alabama Ethics Commission Executive Director / Albritton Law Firm)
+      - Mabel Amos (Former Alabama Secretary of State / Trust Creator)
+      - James C. White, Sr. (Special Fiduciary / CPA)
+      - Judge Greg Griffin (Montgomery County Circuit Court Judge)
+      - Steve Marshall (Alabama Attorney General)
+      - Regions Bank
+      - John Bell (Former Regions Bank representative / trustee)
+      - Drew McNeese (Regions Bank representative who replaced Bell in 2020)
+      - Rick Clifton (Albritton's late law partner / trust board member)
+      - Byron B. Mathews, Jr. (Attorney for petitioner Tyra Lindsay)
+      - Leigh Manning (Amos grandniece / plaintiff)
+      - Megan Carmack (Amos great-grandniece / plaintiff)
+      - Tyra Lindsay (Conecuh County student / petitioner)
+      - Martha H. Albritton and James Albritton (Albritton's children / scholarship recipients)
+      - Judge Ben Bowden (Alabama Court of Appeals / former law partner)
+      - Anna E. Bowden (Scholarship recipient)
+      - Paula Tillman (Rick Clifton's secretary)
+      - Chandlar Dauphin (Scholarship recipient / Tillman's granddaughter)
+      - Tina Ballard (Law firm secretary)
+      - Megan Ballard and Whitney Ballard (Scholarship recipients / Ballard's children)
+      - Dr. Charles R. Kerr, Dr. Allen Ward, and Dr. Kimberly Ward (Law firm clients whose children received scholarships)
+    llm_text: Alabama Ethics Director Tom Albritton dodged liability while funneling thousands in Mabel Amos trust funds to his own children. Read how a hidden Lagniappe report exposes systemic self-dealing and corruption that cheated deserving students out of their rightful scholarships.
+    text: Alabama Ethics Director Tom Albritton dodged liability while funneling thousands in Mabel Amos trust funds to his own children. Read how a hidden Lagniappe report exposes systemic self-dealing and corruption that cheated deserving students out of their rightful scholarships.
+    widget_date: "2026-09-11"
+    generated_at: "2026-11-06T05:01:10.969986Z"
     model_name: gemini-3.5-flash-lite

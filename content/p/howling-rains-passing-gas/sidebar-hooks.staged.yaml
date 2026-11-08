@@ -1,0 +1,130 @@
+metadata:
+  generated_at: "2026-11-07T13:30:17.026878Z"
+  generator_version: 1.0.0
+  post_slug: howling-rains-passing-gas
+  main_date: "2020-11-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  take-a-chance:
+    refined_source: 32e2cf7265a227860638f3035e644aff28389c31919123dae8e38681b381f256
+    brief: |-
+      THE CONFLICT:
+      *   2020: The 2020 Arts and Crafts Show was canceled by then Mayor Wilson due to COVID-19 precautions.
+      *   2020: Council President Jack Burrell and Sherry Sullivan, a show coordinator, advocated to "take a chance" on the event despite local medical advice.
+      *   2020: Councilman Brown supported this decision, despite not believing in masks.
+
+      THE DISCOVERY:
+      *   The Widget Article established that Jack Burrell and Sherry Sullivan prioritized non-essential public gatherings over strict public health guidelines (COVID-19, 2020).
+
+      THE PIVOT:
+      *   The Widget Article demonstrates a pattern of disregarding public health/expert advice (2020) by Burrell and Sullivan, setting the precedent for the later pushback against Mayor Wilson's comprehensive $40 million plan and the $6.2 million Waterfront Grant (Main Article), showing a consistent willingness to challenge established plans.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President/Associate Mayor)
+      *   Sherry Sullivan (Show Coordinator/Mayor)
+      *   Mayor Wilson
+      *   Robert Brown (Councilman)
+      *   CSB
+      *   Fairhope Waterfront
+      *   Scott/Boone
+      *   GMC engineer Scott Hutchinson
+      *   Howling Rains
+      *   Baldwin County
+    llm_text: Jack Burrell and Sherry Sullivan risked public health pushing the 2020 Arts and Crafts Show despite COVID-19 warnings. This pattern of disregarding expert advice sets the stage for their later challenges to Mayor Wilson's $40 million plan and the $6.2 million Waterfront Grant.
+    text: Jack Burrell and Sherry Sullivan pushed the 2020 Arts and Crafts Show despite health warnings. They now challenge Mayor Wilson and the Waterfront Grant.
+    widget_date: "2020-11-18"
+    generated_at: "2026-11-07T13:25:12.778933Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-the-46th-president-of-the-united-states:
+    refined_source: f5b731f6cc6cf41441d4285afc32f02dd540ecc1c135248e4338b8eb9289a966
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election involving Joseph Robinette Biden Jr. and Trump; state-level vote counts continued until certification.
+      THE DISCOVERY: Media companies/news outlets were confident in the 2020 Presidential Election outcome.
+      THE PIVOT: Article 2 (2020 Presidential Election) provides no factual context or 'smoking gun' for Article 1 (Fairhope municipal planning and Waterfront Grant).
+      KEY ENTITIES: Jack Burrell, Sherry Sullivan, Howling Rains, Mayor Wilson, CSB, Fairhope Waterfront, Scott/Boone, GMC engineer Scott Hutchinson, Biden, Trump.
+    llm_text: The 2020 election noise fades, but local accountability remains. Jack Burrell and Sherry Sullivan navigate the Fairhope Waterfront Grant and CSB plans; find out how Mayor Wilson moves local planning forward.
+    text: Jack Burrell and Sherry Sullivan manage the Fairhope Waterfront Grant and Catalyst plans. Mayor Karin Wilson pushes local planning forward despite this opposition.
+    widget_date: "2020-11-08"
+    generated_at: "2026-11-07T13:26:12.828621Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  women-stand-together:
+    refined_source: 39fc81888659dea7fa3ae47c07fdc68c0283c7229768b031af9084ee8658dd1c
+    brief: |-
+      THE CONFLICT: Paula DiNardi was assaulted on Thanksgiving night 2018; a city judge found the local businessman assailant guilty of assault and public intoxication. City prosecutor Marcus McDowell subsequently dismissed the assault charge by neglecting court filings during the appeal process.
+      THE DISCOVERY: Article 2 revealed that the City Council of Fairhope, which appointed Marcus McDowell, failed to hold him accountable for his negligence, despite the Mayor calling for his recusal, leading DiNardi to appeal to the Alabama Bar, Department of Justice, and Alabama Attorney General.
+      THE PIVOT: Article 2 provides historical proof of institutional failure and lack of accountability within the Fairhope City Council and its appointed officials (including the prosecutor), validating Article 1's claim that CSB/Catalyst Scott/Boone has total control over key city positions (council, municipal judge, city attorney, Mayor).
+      KEY ENTITIES: Paula DiNardi, Marcus McDowell, Jack Burrell, Sherry Sullivan, Mayor Karin Wilson, CSB, Catalyst Scott/Boone, Kevin Boone, Howling Rains, City Council, Scott Hutchinson.
+    llm_text: Paula DiNardi faced assault in 2018, but prosecutor Marcus McDowell dismissed the charge through negligence. The Fairhope City Council appointed McDowell yet failed to hold him accountable, proving CSB/Catalyst Scott/Boone controls city power.
+    text: Paula DiNardi faced assault in 2018, but prosecutor Marcus McDowell dismissed the charge. The Fairhope City Council appointed McDowell and protected him.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T13:27:31.817172Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-liar:
+    refined_source: 414ee02178a2bb7c45db432354c96d9d886b906542913fdf4c4a5eaacbb3b117
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell served as Council President under Mayor Cant for 4 years.
+      Burrell misrepresented sewer improvements, approving the main sewer plant but not funding transmission lines.
+      Burrell took credit for projects he voted against.
+      Burrell had a police record involving two disturbing incidents with juveniles.
+      Burrell was involved in bid rigging at the airport and voted for council full family insurance.
+      Burrell negotiated 2.65 million dollar farmland but leased it for $9,000 annually.
+      This fiscal activity caused the city to move from a $1.2 million surplus to a $1.7 million deficit.
+
+      THE DISCOVERY:
+      The Widget Article proves Jack Burrell has a documented history of lying to the public, fiscal mismanagement, and political opportunism during his time under Mayor Cant.
+
+      THE PIVOT:
+      Article 2 establishes Burrell's history of deception, making his current opposition (as a new Mayor) to the $40 million sewer/gas/water upgrade plan and the $6.2 million Waterfront Grant (initiated by Mayor Wilson) inherently suspect, despite the plan being community-based (500+ public comments).
+
+      KEY ENTITIES:
+      Jack Burrell
+      Mayor Cant
+      Sherry Sullivan
+      Mayor Wilson
+      Howling Rains
+      CSB
+      Catalyst
+      Fairhope
+      Scott Hutchinson (GMC engineer)
+      Fairhope Waterfront
+      $40 million (infrastructure upgrade)
+      $6.2 million (Waterfront Grant)
+    llm_text: Jack Burrell caused Fairhope to shift from a $1.2M surplus to a $1.7M deficit through lies and poor deals, like leasing $2.65M farmland for only $9k. Why does this man oppose the community-backed $40M infrastructure upgrade and the $6.2M Waterfront Grant?
+    text: Jack Burrell turned a budget surplus into a deficit through poor land deals. Why does he oppose the community infrastructure upgrade and the Waterfront Grant?
+    widget_date: "2020-05-23"
+    generated_at: "2026-11-07T13:29:58.359119Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  opposition-obstruction:
+    refined_source: 9bc10fc57872b0e971ebea274d4d3d2d5845e1a9d7989482458994625654cb5b
+    brief: |-
+      THE CONFLICT:
+      *   September 11 (Date in Article 2): Fairhope City Council meeting.
+      *   Action: Council rejected a second insurance bid (submitted 23 hours after deadline) favoring the Mayor's company.
+      *   Result: Cost taxpayers $60,000 and resulted in less coverage.
+      *   Context: Jack Burrell (Council President) insisted the decision was unrelated to the Mayor.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the Fairhope City Council was voting as a unit, prioritizing its own agenda over the Mayor's recommendations.
+      *   Councilman Boone defended document leaks as "transparency," despite legal warnings against leaking subpoenaed information (related to 3 pending city claims).
+      *   Jack Burrell used procedural tactics (e.g., calling a special meeting only 3 days after the regular meeting) to manage public discourse.
+
+      THE PIVOT:
+      *   Article 2 establishes that Jack Burrell and the Council are institutionally resistant to mayoral direction and prioritize council control over external input or mayoral initiatives.
+      *   This historical pattern of council obstruction (Sept 11 incident) explains the current political dynamic in Article 1: the new administration (CSB/Burrell) is overriding comprehensive, citizen-based plans (Mayor Wilson's $40M/ $23M funding) and ignoring public input (500+ surveys), thereby confirming the "complete total control" narrative.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President, new Mayor)
+      *   Sherry Sullivan (new Mayor)
+      *   Mayor Wilson
+      *   CSB / Catalyst Scott/Boone
+      *   Howling Rains
+      *   Councilman Boone
+      *   Fairhope City Council
+      *   Fairhope Waterfront
+      *   GMC engineer Scott Hutchinson
+    llm_text: Jack Burrell's Fairhope City Council rejected a cheaper insurance bid 23 hours late, costing taxpayers $60,000. This institutional obstruction shows the council prioritizes its agenda over Mayor Wilson's $40M plans, confirming local control struggles.
+    text: The Fairhope City Council rejected an insurance bid 23 hours late, costing taxpayers $60,000. This obstruction blocks Mayor Karin Wilson and her plans.
+    widget_date: "2017-09-15"
+    generated_at: "2026-11-07T13:28:35.766739Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

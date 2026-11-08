@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   bcso-sound-off:
+    refined_source: 25024a310eaea174cd272e3abc42e8635eb71cabce5fb2ea5c1e281bf9aefabf
     brief: |-
       THE CONFLICT:
       Hoss Mack dumped 20 years of departmental problems onto Lowery.
@@ -27,40 +28,12 @@ hooks:
       Afroman
       Baldwin County Sheriffs Deputy (20-year veteran)
     llm_text: Hoss Mack dumped 20 years of BCSO favoritism onto Lowery. This "good ole boys" culture under Governor Ivy enabled $16.3 million misuse on the Golden Triangle project.
+    text: Hoss Mack passed his political favor to Lowery, keeping the old boy network alive. Governor Ivey and her allies used this corrupt system to waste $16.3 million on the Triangle project.
     widget_date: "2026-03-23"
     generated_at: "2026-11-06T08:48:17.966083Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  read-the-comments:
-    brief: |-
-      THE CONFLICT:
-      Baldwin County Sheriff's Department (BCSD) had issues of lack of supervision, transparency, and accountability under a single leader (Hoss Mack).
-      Hoss Mack was the lead investigator in the wrongful conviction case of Murray Lawrence Jr.
-      Robert Wilters (DA) was the presiding judge in the kangaroo court for Murray Lawrence Jr.
-      A 20-year Baldwin County Sheriffs Deputy resigned, citing that "these are Ungodly men" running the place (context for Article 1).
-
-      THE DISCOVERY:
-      The BCSD had internal hanky panky problems, including a senior officer having an extra-curricular relationship with a subordinate female employee married to a fellow officer, which was allegedly covered up.
-
-      THE PIVOT:
-      Article 2 established the historical pattern of cover-ups, lack of transparency, and misconduct within the BCSD under Hoss Mack, providing context for the current event of Eddie Tyler's exit, the $16.3 Million Golden Triangle development, and the deputy's resignation citing corrupt leadership.
-
-      KEY ENTITIES:
-      Eddie Tyler
-      Brandon Moseley
-      Harry Still
-      Poodle Puncher
-      Fish River
-      BCSD (Baldwin County Sheriff's Office)
-      Murray Lawrence Jr.
-      Hoss Mack
-      Robert Wilters
-      Tom Bradley Jr (Pat Bradley)
-      Afroman
-    llm_text: A 20-year Baldwin County deputy cited "Ungodly men" after revealing systemic misconduct under Hoss Mack. Discover how the same leadership that oversaw the Murray Lawrence Jr. wrongful conviction continues to hide BCSD corruption.
-    widget_date: "2026-03-18"
-    generated_at: "2026-11-06T08:50:25.444903Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county-sheriff-appointment:
+    refined_source: 4ceeec14eee3b90ff1dcca8c41a128b59703de98e00bee02d965d4828c750745
     brief: |-
       THE CONFLICT:
       *   Sheriff Hoss Mack faced BCSO misconduct allegations, including a wrongful conviction (20 years) involving Mack, Prosecutor David Whetstone, and Judge Robert Wilters who withheld exculpatory evidence.
@@ -96,30 +69,24 @@ hooks:
       *   Afroman (Verdict winner)
       *   Mrs. Tom Bradley Jr (Pat Bradley)
     llm_text: Eddie Tyler, a 20-year BCSO Deputy, quit calling the leadership "Ungodly men," confirming systemic corruption under Hoss Mack involving wrongful convictions and the death of O.J. French. Readers must see how this historical abuse parallels the $16.3M Golden Triangle project benefiting one developer.
+    text: Eddie Tyler quit the sheriff's office and called leaders ungodly men, confirming deep corruption under Hoss Mack. This abuse mirrors the $16.3 million Golden Triangle project.
     widget_date: "2024-07-27"
     generated_at: "2026-11-06T08:51:46.649311Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  faux-pas:
-    brief: |-
-      THE CONFLICT: Donna Givens' Faux Pas occurred in Summerdale; Richard Cox was running for Baldwin County Commission District 1; Brandon Moseley covered legislative sessions in Montgomery.
-      THE DISCOVERY: Article 2 revealed the existence of a "Catalyst Cabal" and established a climate of expected "dirty politics" in Summerdale.
-      THE PIVOT: Article 2 provides the foundational political context (Cabal/Summerdale scandal) that led to the specific corruption detailed in Article 1, including the $16.3 Million Golden Triangle bridge spending and the resignation of a 20-year Baldwin County Sheriffs Deputy citing "Ungodly men."
-      KEY ENTITIES: Eddie Tyler; Brandon Moseley; Harry Still; Richard Cox; Donna Givens; Huey Mack; Mrs. Tom Bradley Jr (Pat Bradley); Afroman; Fish River; Baldwin County; BCSO; Summerdale.
-    llm_text: Donna Givens' Summerdale faux pas revealed a "Catalyst Cabal" and a climate of dirty politics. See how this corruption drove $16.3M Golden Triangle bridge spending and led to a 20-year BCSO deputy's resignation.
-    widget_date: "2026-01-26"
-    generated_at: "2026-11-06T08:52:48.459131Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   new-years-2026:
+    refined_source: 2afd602aae6726db25795fde3f7e86c7ad6f9be1c9952bf867c3ff10f6f02784
     brief: |-
       THE CONFLICT: Eddie Tyler's tenure ends; a 20-year Baldwin County Sheriffs Deputy resigns stating the men running the county are "Ungodly men."
       THE DISCOVERY: Article 2 (Older) featured Whitney Scapecci and Dr. John Sophocleus discussing the events of the year 2025.
       THE PIVOT: Article 2 provides the historical context of the 2025 discussion, which frames the later events detailed in Article 1 (Eddie Tyler's exit and the $16.3 Million Fish River project).
       KEY ENTITIES: Eddie Tyler, Fish River, Baldwin County, Mrs. Tom Bradley Jr (Pat Bradley), Afroman, Whitney Scapecci, Dr. John Sophocleus, Daphne, 68Ventures, Epstein, Venezuela, Trump.
-    llm_text: Eddie Tyler, a 20-year Baldwin County Sheriff's Deputy, resigned, stating county leaders are "Ungodly men." Discover how the $16.3 million Fish River project connects directly to 2025 discussions with Whitney Scapecci and Dr. John Sophocleus.
+    llm_text: Eddie Tyler, a 20-year Baldwin County Sheriff's Deputy, resigned, stating county leaders are "Ungodly men." Read how the $16.3 million Fish River project connects directly to 2025 discussions with Whitney Scapecci and Dr. John Sophocleus.
+    text: Eddie Tyler resigned after twenty years as a Baldwin County deputy and called county leaders ungodly men. See how the Fish River project connects to Whitney Scapecci.
     widget_date: "2026-01-01"
     generated_at: "2026-11-06T08:49:31.335425Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   former-summerdale-police-chief-kevin-brock:
+    refined_source: 5414655994cfbefffab11f7738f279d4bb11b20a7a2ad90a37ed36cae910adec
     brief: |-
       THE CONFLICT:
       *   Former Summerdale Police Chief Kevin Brock was investigated, fired, and indicted (two years later) by Baldwin County authorities, though charges were eventually dropped.
@@ -145,30 +112,12 @@ hooks:
       *   $16.3 Million
       *   Baldwin County
     llm_text: Baldwin County used a "Propaganda Machine" to target Kevin Brock and Dr. Lori Brock, exposing systemic corruption linked to Anthony Lowery. Learn how this history of biased law enforcement connects to the $16.3 million misuse under Eddie Tyler.
+    text: Baldwin County officials ran a propaganda machine to target Kevin and Dr. Lori Brock. This biased law enforcement ties directly to millions misspent under Eddie Tyler.
     widget_date: "2025-11-26"
     generated_at: "2026-11-06T08:53:58.339381Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  heart-of-dixie-podcast:
-    brief: |-
-      THE CONFLICT: Harry Still was arrested and faced attempted involuntary commitment on the word of Bay Minette City Councilman Matthew Franklin.
-      THE DISCOVERY: BCSO internal email leaked from Sheriff Anthony Lowery showed deputies being directed to pre-target Harry Still at a Republican event, instructing them to "do what you need to do."
-      THE PIVOT: The specific evidence of viewpoint-based policing and abuse of office (Lowery targeting Still) detailed in the earlier article provides context for the breakdown of the local power structure ("machine don't bleed") and the exit of figures like Eddie Tyler mentioned in the later article.
-      KEY ENTITIES: Harry Still, Matthew Franklin, Sheriff Anthony Lowery, Brandon Moseley, Francis Paul Ripp, Brown G Linder III PE Esq, Whitney Scapecchi, Eddie Tyler, Fish River, BCSO, Baldwin County, Tom Bradley Jr (Pat Bradley).
-    llm_text: Sheriff Anthony Lowery directed deputies to pre-target Harry Still, validating allegations of viewpoint-based policing from Councilman Matthew Franklin. See how this abuse of BCSO power reveals the deeper rot within Baldwin County's local political machine.
-    widget_date: "2025-11-21"
-    generated_at: "2026-11-06T08:54:54.936094Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  happy-days:
-    brief: |-
-      THE CONFLICT: Sheriff Hoss Mack was previously qualified to run by State Senator Tripp Pittman, eliminating competition, leading to Mack running unopposed for the third time.
-      THE DISCOVERY: Baldwin County corruption is systemic, involving misuse of ethics funds by Tom Albritton, illegal PAC use by the Attorney General, and developer influence over local government (Fairhope council, municipal attorney, municipal judge).
-      THE PIVOT: Article 2 establishes the deeply entrenched, self-perpetuating political system (Mack/Elliott connection, legislative manipulation) that enables the high-level, developer-benefiting spending (like the $16.3 Million Golden Triangle bridge/boulevard) detailed in Article 1.
-      KEY ENTITIES: Eddie Tyler, Afroman, Mrs. Tom Bradley Jr (Pat Bradley), Sheriff Hoss Mack, State Senator Tripp Pittman, State Senator Elliott, Tom Albritton, Baldwin County, Fish River, $16.3 Million, $65 Million, Golden Triangle.
-    llm_text: Sheriff Hoss Mack ran unopposed thanks to State Senator Tripp Pittman, enabling systemic Baldwin County corruption. This entrenched system allows developer influence to fuel massive spending, including the $16.3 Million Golden Triangle project.
-    widget_date: "2022-02-11"
-    generated_at: "2026-11-06T08:55:46.581239Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   driving-under-the-influence:
+    refined_source: baeb1b584f68cf2253b66888c478e465d65f5a4e71678cb514e341c32b0d7fd0
     brief: |-
       THE CONFLICT:
       *   Baldwin Substance Abuse Services, Inc. (BSAS) was formed on 10-4-2007 in Baldwin County, AL.
@@ -203,6 +152,75 @@ hooks:
       *   Kant (Fairhope Mayor)
       *   Baldwin County Sheriff's Deputy (20 year veteran)
     llm_text: Judge Thomason, an incorporator of Baldwin Substance Abuse Services (BSAS), funnels millions through mandatory DUI classes charging $400 per session. This local "cash cow" reveals systemic corruption echoing the high-level political spending in the Golden Triangle.
+    text: Judge Thomason started a group that forces DUI offenders to pay $400 for mandatory classes. This cash cow reveals deep local corruption just like the Golden Triangle spending.
     widget_date: "2016-05-20"
     generated_at: "2026-11-06T08:57:00.059648Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  read-the-comments:
+    refined_source: 3f181993134e69fd5aa0b39cb96f5ac693a64dd12408ee886787f76a0158195d
+    brief: |-
+      THE CONFLICT:
+      Baldwin County Sheriff's Department (BCSD) had issues of lack of supervision, transparency, and accountability under a single leader (Hoss Mack).
+      Hoss Mack was the lead investigator in the wrongful conviction case of Murray Lawrence Jr.
+      Robert Wilters (DA) was the presiding judge in the kangaroo court for Murray Lawrence Jr.
+      A 20-year Baldwin County Sheriffs Deputy resigned, citing that "these are Ungodly men" running the place (context for Article 1).
+
+      THE DISCOVERY:
+      The BCSD had internal hanky panky problems, including a senior officer having an extra-curricular relationship with a subordinate female employee married to a fellow officer, which was covered up.
+
+      THE PIVOT:
+      Article 2 established the historical pattern of cover-ups, lack of transparency, and misconduct within the BCSD under Hoss Mack, providing context for the current event of Eddie Tyler's exit, the $16.3 Million Golden Triangle development, and the deputy's resignation citing corrupt leadership.
+
+      KEY ENTITIES:
+      Eddie Tyler
+      Brandon Moseley
+      Harry Still
+      Poodle Puncher
+      Fish River
+      BCSD (Baldwin County Sheriff's Office)
+      Murray Lawrence Jr.
+      Hoss Mack
+      Robert Wilters
+      Tom Bradley Jr (Pat Bradley)
+      Afroman
+    llm_text: A 20-year Baldwin County deputy cited "Ungodly men" after revealing systemic misconduct under Hoss Mack. Read how the same leadership that oversaw the Murray Lawrence Jr. wrongful conviction continues to hide BCSD corruption.
+    text: A veteran Baldwin County deputy exposed systemic misconduct under Hoss Mack. Read how the leaders who hid the Murray Lawrence Jr. wrongful conviction still protect corruption.
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-06T08:50:25.444903Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  faux-pas:
+    refined_source: 8afa6dee1c8b5646441cfc8add4a00828c16494b45dab44f3378a3b1ca61c67f
+    brief: |-
+      THE CONFLICT: Donna Givens' Faux Pas occurred in Summerdale; Richard Cox was running for Baldwin County Commission District 1; Brandon Moseley covered legislative sessions in Montgomery.
+      THE DISCOVERY: Article 2 revealed the existence of a "Catalyst Cabal" and established a climate of expected "dirty politics" in Summerdale.
+      THE PIVOT: Article 2 provides the foundational political context (Cabal/Summerdale scandal) that led to the specific corruption detailed in Article 1, including the $16.3 Million Golden Triangle bridge spending and the resignation of a 20-year Baldwin County Sheriffs Deputy citing "Ungodly men."
+      KEY ENTITIES: Eddie Tyler; Brandon Moseley; Harry Still; Richard Cox; Donna Givens; Huey Mack; Mrs. Tom Bradley Jr (Pat Bradley); Afroman; Fish River; Baldwin County; BCSO; Summerdale.
+    llm_text: Donna Givens' Summerdale faux pas revealed a "Catalyst Cabal" and a climate of dirty politics. See how this corruption drove $16.3M Golden Triangle bridge spending and led to a 20-year BCSO deputy's resignation.
+    text: Donna Givens exposed the Catalyst cabal and dirty local politics in Summerdale. This corruption drove millions in spending on the Golden Triangle bridge and forced a deputy to quit.
+    widget_date: "2026-01-26"
+    generated_at: "2026-11-06T08:52:48.459131Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-days:
+    refined_source: 5dfb02de56f415cce7ef4d9382401ae7e6707a4851f34ccb767e41ca1ce724c5
+    brief: |-
+      THE CONFLICT: Sheriff Hoss Mack was previously qualified to run by State Senator Tripp Pittman, eliminating competition, leading to Mack running unopposed for the third time.
+      THE DISCOVERY: Baldwin County corruption is systemic, involving misuse of ethics funds by Tom Albritton, illegal PAC use by the Attorney General, and developer influence over local government (Fairhope council, municipal attorney, municipal judge).
+      THE PIVOT: Article 2 establishes the deeply entrenched, self-perpetuating political system (Mack/Elliott connection, legislative manipulation) that enables the high-level, developer-benefiting spending (like the $16.3 Million Golden Triangle bridge/boulevard) detailed in Article 1.
+      KEY ENTITIES: Eddie Tyler, Afroman, Mrs. Tom Bradley Jr (Pat Bradley), Sheriff Hoss Mack, State Senator Tripp Pittman, State Senator Elliott, Tom Albritton, Baldwin County, Fish River, $16.3 Million, $65 Million, Golden Triangle.
+    llm_text: Sheriff Hoss Mack ran unopposed thanks to State Senator Tripp Pittman, enabling systemic Baldwin County corruption. This entrenched system allows developer influence to fuel massive spending, including the $16.3 Million Golden Triangle project.
+    text: Sheriff Hoss Mack ran unopposed with help from Senator Tripp Pittman, shielding local corruption. This system allowed developers to push through the $16.3 million Golden Triangle project.
+    widget_date: "2022-02-11"
+    generated_at: "2026-11-06T08:55:46.581239Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  heart-of-dixie-podcast:
+    refined_source: d063f86e76917ce5718183e74edae32b8064cdd3c55d3f62e03acb8780e1a61d
+    brief: |-
+      THE CONFLICT: Harry Still was arrested and faced attempted involuntary commitment on the word of Bay Minette City Councilman Matthew Franklin.
+      THE DISCOVERY: BCSO internal email leaked from Sheriff Anthony Lowery showed deputies being directed to pre-target Harry Still at a Republican event, instructing them to "do what you need to do."
+      THE PIVOT: The specific evidence of viewpoint-based policing and abuse of office (Lowery targeting Still) detailed in the earlier article provides context for the breakdown of the local power structure ("machine don't bleed") and the exit of figures like Eddie Tyler mentioned in the later article.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Sheriff Anthony Lowery, Brandon Moseley, Francis Paul Ripp, Brown G Linder III PE Esq, Whitney Scapecchi, Eddie Tyler, Fish River, BCSO, Baldwin County, Tom Bradley Jr (Pat Bradley).
+    llm_text: Sheriff Anthony Lowery directed deputies to pre-target Harry Still, validating allegations of viewpoint-based policing from Councilman Matthew Franklin. See how this abuse of BCSO power reveals the deeper rot within Baldwin County's local political machine.
+    text: Sheriff Anthony Lowery directed deputies to target Harry Still. Read how this abuse of power by the Baldwin County Sheriff's Office exposes deep local political corruption.
+    widget_date: "2025-11-21"
+    generated_at: "2026-11-06T08:54:54.936094Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

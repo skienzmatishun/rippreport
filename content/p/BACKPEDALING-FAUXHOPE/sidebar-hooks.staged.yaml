@@ -5,116 +5,20 @@ metadata:
   main_date: "2024-05-17"
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
-  fairhope-free-year:
-    brief: |-
-      THE CONFLICT:
-      - Lawsuit: *FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant*.
-      - Court: United States District Court for the Southern District of Alabama, Southern Division.
-      - Incident: The City of Fairhope denied the plaintiff the right to speak/participate in council meetings.
-      - Outcome: The city/officials were sued in federal court; the judge reportedly warned the city they "did not want to come back to her court."
-
-      THE DISCOVERY:
-      - Legislative Action: The Alabama legislature postponed 2024 municipal elections due to the presidential election.
-      - Status of Officials: The Mayor, City Council, municipal attorney, and municipal judge are serving an additional year without a vote from the public (none are in their 5th year in office).
-      - Infrastructure Failures: Three-year water shortage; 2020 sewer/infrastructure projects remain incomplete; sewer plant is over capacity and discharging into the Bay.
-      - Proposed Regulation: Amendment to Ordinance No. 1692, Section IX, 12, which would remove "Public Participation (Non-Agenda Items)."
-
-      THE PIVOT:
-      - Article 2 reveals that the City Council is currently operating without a fresh electoral mandate (the "free year"). This provides the motive for the current attempt in Article 1 to pass Ordinance No. 1692, which would legally strip citizens of the ability to address the council on non-agenda items, effectively silencing public oversight during their un-elected term.
-
-      KEY ENTITIES:
-      - Jack Burrell (Councilman/Council President)
-      - Mayor Sullivan
-      - Francis Paul Ripp (Plaintiff)
-      - Councilman Martin
-      - Attorney Cain O'Rear
-      - Boone Burrell
-      - Brown
-      - CATALYST Council
-      - United States District Court for the Southern District of Alabama
-    llm_text: Francis Paul Ripp is taking Jack Burrell to federal court after Fairhope officials blocked his right to speak at council meetings. This legal battle exposes a plan to pass Ordinance 1692, which would legally silence citizens during the Council's un-elected "free year" in office.
-    widget_date: "2024-05-13"
-    generated_at: "2026-11-06T17:23:33.049658Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  fairhope-infrastructure:
-    brief: |-
-      THE CONFLICT:
-      *   Fairhope experienced a water shortage for three consecutive years.
-      *   Sewer and infrastructure projects approved in 2020 had not been completed by year 5.
-      *   The sewer plant was beyond capacity and continued discharging into the Bay.
-      *   68 Ventures was engaged in a legal dispute with the City of Fairhope regarding development denials (Skyline and Gables).
-
-      THE DISCOVERY:
-      *   68 Ventures acquired land from Hix Snedeker, the Fairhope Municipal Judge, who had previously annexed the property.
-      *   The property, designated "Park City," is located at Fairhope Avenue and Highway 181.
-      *   Senator Katie Britt (R-AL) purchased $33,000 stock in 68V 181-Fairhope Avenue 2023, LLC on December 14, 2023.
-
-      THE PIVOT:
-      *   The historical pattern of developer favoritism (68 Ventures acquiring land from the Municipal Judge, Hix Snedeker) provides the context for the current allegations of compromised municipal authority and financial mismanagement (e.g., the 2.65 million dollar purchase by the CATALYST Council).
-      *   This context explains the council's efforts to deny public participation and the lack of transparency regarding large project costs (27 million dollars on failed or incomplete projects).
-
-      KEY ENTITIES:
-      *   Jack Burrell (Councilman)
-      *   Mayor Sullivan
-      *   68 Ventures
-      *   Hix Snedeker (Fairhope Municipal Judge)
-      *   Senator Katie Britt (R-AL)
-      *   Boone Burrell
-      *   Brown
-      *   Francis Paul Ripp (Plaintiff)
-      *   Cain O'Rear
-      *   Jonathan Gray
-      *   Park City
-      *   City of Fairhope
-      *   United States District Court for the Southern District of Alabama Southern
-    llm_text: Fairhope suffered three years of water shortages due to failed infrastructure. Discover how Senator Katie Britt bought $33,000 stock in 68 Ventures, which acquired land from Municipal Judge Hix Snedeker.
-    widget_date: "2024-05-06"
-    generated_at: "2026-11-06T17:24:08.256281Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-history:
-    brief: |-
-      THE CONFLICT:
-      *   Historic buildings/houses (including Nancy Lewis's home) were demolished in Fauxhope.
-      *   Historic preservation issues were discussed in the last 6 councils, but repeatedly failed to pass.
-      *   Councilman Kevin Boone is identified as a developer with a history of supporting back room good ole boy politics.
-
-      THE DISCOVERY:
-      *   The Fauxhope city government is identified as 100% pro development, prioritizing commercial infrastructure for developers first.
-      *   Mayor Sherry Sullivan previously advised against passing a draft ordinance due to workload, not necessarily policy.
-      *   Fairhope's control is centralized in the Mayor/Utility Director, City Council, City Attorney, and Municipal Judge.
-
-      THE PIVOT:
-      *   Widget established the historical pattern of developer influence and prioritizing commercial interests (e.g., Boone's ties) which provides the context for the current refusal of public participation and questionable financial decisions in Main.
-      *   This pattern explains the political decisions leading to the denial of public participation and the subsequent federal court action referenced in the Main Article.
-
-      KEY ENTITIES:
-      *   Mayor Sherry Sullivan
-      *   Mayor Jack Burrell
-      *   Councilman Kevin Boone
-      *   Councilman Martin
-      *   Francis Paul Ripp
-      *   Boone Burrell and Brown
-      *   Cain O'Rear
-      *   United States District Court for the Southern District of Alabama
-      *   Fairhope City Council
-      *   $6.2 million (waterfront project)
-      *   $11.2 million (Triangle legal settlement)
-      *   $2.65 million (proposed land purchase)
-    llm_text: Fauxhope demolished historic homes, including Nancy Lewis's, even after six council discussions failed to protect them. Councilman Kevin Boone and a 100% pro-development government prioritize developers, explaining why public participation is denied in Main.
-    widget_date: "2023-09-17"
-    generated_at: "2026-11-06T17:26:39.189978Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-crier:
+    refined_source: 2dd8319be3a0d65bb9031ebd914178659429c501899829370f95a74fe3251ed7
     brief: |-
       THE CONFLICT: Fauxhope government, Mayor, Council, Municipal Judge, and Municipal Attorney have been supported 100% by special interests and developers, leading to 20 years of infrastructure neglect and failed projects (e.g., $6.2 million waterfront project; $3.5 million to $6 million soccer field project; $11.2 million Triangle "Legal Settlement").
       THE DISCOVERY: Article 2 (older) revealed that Fauxhope government is controlled by special interests, prioritizing commercial projects (like the ALDI water line and Municipal Judges project) over public needs, and previously attempted to restrict non-resident African Americans (e.g., duck pond/beach fees); it also noted the $2.5 million cost of full family insurance for council/mayor.
       THE PIVOT: Article 2 establishes the systemic developer/special interest control and the long-term neglect of infrastructure; Article 1 provides evidence of the political and legal consequences of this system, including Councilman Jack Burrell being sued in federal court (FRANCIS PAUL RIPP v. JACK BURRELL) for denying public participation in council meetings.
       KEY ENTITIES: Cory Martin, Jack Burrell, Mayor Sullivan, Francis Paul Ripp, City Council, Boone Burrell, Brown, Attorney Cain O rear, United States District Court for the Southern District of Alabama, Waterfront Project, Bay Bridge, Municipal Judge, Utilities.
     llm_text: Special interests have controlled Fauxhope government for 20 years, neglecting crucial projects like the $6.2M waterfront. Now, Francis Paul Ripp is suing Councilman Jack Burrell over denying public participation—read how this systemic neglect impacts your community.
+    text: Special interests controlled Fairhope government for 20 years while neglecting the $6.2 million waterfront. Now Francis Paul Ripp is suing Councilman Jack Burrell over denied public speech.
     widget_date: "2023-09-05"
     generated_at: "2026-11-06T17:27:50.612524Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bull:
+    refined_source: 490c6d31b8485ad7bd46055ee460ec8e8bf822de3dc3e26113d50be605344821
     brief: |-
       THE CONFLICT:
       - Between 2016 and 2020, Mayor Karen Wilson implemented reforms to eliminate "good ole boy" city contracts and financial mismanagement.
@@ -127,7 +31,7 @@ hooks:
       - It documents that the "Working Waterfront" and utility upgrades were once part of a strategic, long-term plan prioritized by the previous administration.
 
       THE PIVOT:
-      - Article 2 serves as the fiscal blueprint that the current administration has allegedly dismantled to facilitate the financial failures detailed in Article 1.
+      - Article 2 serves as the fiscal blueprint that the current administration has dismantled to facilitate the financial failures detailed in Article 1.
       - The current administration's $27 million in failed or incomplete projects (including the $6M soccer fields, $6.2M waterfront project, and the $11.25M Triangle settlement/legal fees) is framed as a direct consequence of returning to the "co-mingling of money" and "good ole boy" governance that Wilson had successfully neutered.
       - The current attempt to deny public participation at council meetings is presented as a tactical move to prevent citizens from questioning the disappearance of funds and the reversal of Wilson's transparency mandates.
 
@@ -143,10 +47,12 @@ hooks:
       - Fairhope City Council
       - Fairhope Utility Department
     llm_text: Karen Wilson fought to end "good ole boy" politics and protect utility funds from city co-mingling. Now, Mayor Sullivan is dismantling those safeguards, fueling $27 million in failed projects and inviting the return of the fiscal mismanagement Wilson successfully neutered.
+    text: Karen Wilson fought to protect utility funds from city mixing. Now Mayor Sullivan is undoing those safeguards, fueling $27 million in failed projects.
     widget_date: "2023-08-09"
     generated_at: "2026-11-06T17:24:55.341658Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   all-mouth:
+    refined_source: 39b544d22424ccbc0057363605817d3bf105e96f9e88139a0c1d986ee6a35301
     brief: |-
       THE CONFLICT:
       *   In 2013, Fauxhope considered a new sewer plant replacement costing approximately $20 million.
@@ -177,10 +83,12 @@ hooks:
       *   $6.2 million (Waterfront project)
       *   $27 million (Failed/incomplete projects total)
     llm_text: Fauxhope's infrastructure fails, from $13M sewer issues to the $2.65M land purchase, reveal systemic budget chaos. Councilman Jack Burrell questioned the $5M head works while receiving $17,000 in family insurance; see the full story.
+    text: Fairhope's infrastructure fails with $13 million in sewer issues and a $2.65 million land purchase. Councilman Jack Burrell questioned the head works while getting family insurance.
     widget_date: "2023-05-25"
     generated_at: "2026-11-06T17:25:26.910172Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   i-see-you:
+    refined_source: eb13d3d712b1cfe85316417fa0bc93de2db89f5c0510eeb0c42e78920e506f8a
     brief: |-
       THE CONFLICT:
       *   City of Fairhope waterfront project cost $6.2 million and became a political issue.
@@ -212,6 +120,112 @@ hooks:
       *   City of Fairhope
       *   UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA SOUTHERN
     llm_text: City Council appointed Municipal Judge Haymes Snedeker, a major developer whose projects the Council must approve. This documented conflict fuels $27 million in failed projects, ignoring taxpayer money for developments like Aldi.
+    text: City Council appointed Municipal Judge Haymes Snedeker, a developer whose projects the Council must approve. This conflict fuels $27 million in failed projects and ignores taxpayers.
     widget_date: "2023-05-23"
     generated_at: "2026-11-06T17:28:50.454614Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-free-year:
+    refined_source: 8d37e1db64b62059791285fe352b14ee208e49de3d37e18b92552fd7d8a233f3
+    brief: |-
+      THE CONFLICT:
+      - Lawsuit: *FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant*.
+      - Court: United States District Court for the Southern District of Alabama, Southern Division.
+      - Incident: The City of Fairhope denied the plaintiff the right to speak/participate in council meetings.
+      - Outcome: The city/officials were sued in federal court; the judge reportedly warned the city they "did not want to come back to her court."
+
+      THE DISCOVERY:
+      - Legislative Action: The Alabama legislature postponed 2024 municipal elections due to the presidential election.
+      - Status of Officials: The Mayor, City Council, municipal attorney, and municipal judge are serving an additional year without a vote from the public (none are in their 5th year in office).
+      - Infrastructure Failures: Three-year water shortage; 2020 sewer/infrastructure projects remain incomplete; sewer plant is over capacity and discharging into the Bay.
+      - Proposed Regulation: Amendment to Ordinance No. 1692, Section IX, 12, which would remove "Public Participation (Non-Agenda Items)."
+
+      THE PIVOT:
+      - Article 2 reveals that the City Council is currently operating without a fresh electoral mandate (the "free year"). This provides the motive for the current attempt in Article 1 to pass Ordinance No. 1692, which would legally strip citizens of the ability to address the council on non-agenda items, effectively silencing public oversight during their un-elected term.
+
+      KEY ENTITIES:
+      - Jack Burrell (Councilman/Council President)
+      - Mayor Sullivan
+      - Francis Paul Ripp (Plaintiff)
+      - Councilman Martin
+      - Attorney Cain O'Rear
+      - Boone Burrell
+      - Brown
+      - CATALYST Council
+      - United States District Court for the Southern District of Alabama
+    llm_text: Francis Paul Ripp is taking Jack Burrell to federal court after Fairhope officials blocked his right to speak at council meetings. This legal battle exposes a plan to pass Ordinance 1692, which would legally silence citizens during the Council's un-elected "free year" in office.
+    text: Francis Paul Ripp is taking Jack Burrell to federal court after Fairhope officials blocked his right to speak at council meetings. This legal battle exposes Ordinance 1692.
+    widget_date: "2024-05-13"
+    generated_at: "2026-11-06T17:23:33.049658Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  fairhope-infrastructure:
+    refined_source: 477349d5721bfc475cc99c52425e7cb750ca7eb55b87b0e9975935a9986a35d4
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope experienced a water shortage for three consecutive years.
+      *   Sewer and infrastructure projects approved in 2020 had not been completed by year 5.
+      *   The sewer plant was beyond capacity and continued discharging into the Bay.
+      *   68 Ventures was engaged in a legal dispute with the City of Fairhope regarding development denials (Skyline and Gables).
+
+      THE DISCOVERY:
+      *   68 Ventures acquired land from Hix Snedeker, the Fairhope Municipal Judge, who had previously annexed the property.
+      *   The property, designated "Park City," is located at Fairhope Avenue and Highway 181.
+      *   Senator Katie Britt (R-AL) purchased $33,000 stock in 68V 181-Fairhope Avenue 2023, LLC on December 14, 2023.
+
+      THE PIVOT:
+      *   The historical pattern of developer favoritism (68 Ventures acquiring land from the Municipal Judge, Hix Snedeker) provides the context for the current allegations of compromised municipal authority and financial mismanagement (e.g., the 2.65 million dollar purchase by the CATALYST Council).
+      *   This context explains the council's efforts to deny public participation and the lack of transparency regarding large project costs (27 million dollars on failed or incomplete projects).
+
+      KEY ENTITIES:
+      *   Jack Burrell (Councilman)
+      *   Mayor Sullivan
+      *   68 Ventures
+      *   Hix Snedeker (Fairhope Municipal Judge)
+      *   Senator Katie Britt (R-AL)
+      *   Boone Burrell
+      *   Brown
+      *   Francis Paul Ripp (Plaintiff)
+      *   Cain O'Rear
+      *   Jonathan Gray
+      *   Park City
+      *   City of Fairhope
+      *   United States District Court for the Southern District of Alabama Southern
+    llm_text: Fairhope suffered three years of water shortages due to failed infrastructure. Read how Senator Katie Britt bought $33,000 stock in 68 Ventures, which acquired land from Municipal Judge Hix Snedeker.
+    text: Fairhope suffered three years of water shortages from failed infrastructure. Senator Katie Britt bought $33,000 in stock from 68 Ventures after they acquired land from Judge Hix Snedeker.
+    widget_date: "2024-05-06"
+    generated_at: "2026-11-06T17:24:08.256281Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-history:
+    refined_source: 92f5cf4f087526c24f15431e097430fb024751a159db4bb7a3b21c92869c4fab
+    brief: |-
+      THE CONFLICT:
+      *   Historic buildings/houses (including Nancy Lewis's home) were demolished in Fauxhope.
+      *   Historic preservation issues were discussed in the last 6 councils, but repeatedly failed to pass.
+      *   Councilman Kevin Boone is identified as a developer with a history of supporting back room good ole boy politics.
+
+      THE DISCOVERY:
+      *   The Fauxhope city government is identified as 100% pro development, prioritizing commercial infrastructure for developers first.
+      *   Mayor Sherry Sullivan previously advised against passing a draft ordinance due to workload, not necessarily policy.
+      *   Fairhope's control is centralized in the Mayor/Utility Director, City Council, City Attorney, and Municipal Judge.
+
+      THE PIVOT:
+      *   Widget established the historical pattern of developer influence and prioritizing commercial interests (e.g., Boone's ties) which provides the context for the current refusal of public participation and questionable financial decisions in Main.
+      *   This pattern explains the political decisions leading to the denial of public participation and the subsequent federal court action referenced in the Main Article.
+
+      KEY ENTITIES:
+      *   Mayor Sherry Sullivan
+      *   Mayor Jack Burrell
+      *   Councilman Kevin Boone
+      *   Councilman Martin
+      *   Francis Paul Ripp
+      *   Boone Burrell and Brown
+      *   Cain O'Rear
+      *   United States District Court for the Southern District of Alabama
+      *   Fairhope City Council
+      *   $6.2 million (waterfront project)
+      *   $11.2 million (Triangle legal settlement)
+      *   $2.65 million (proposed land purchase)
+    llm_text: Fauxhope demolished historic homes, including Nancy Lewis's, even after six council discussions failed to protect them. Councilman Kevin Boone and a 100% pro-development government prioritize developers, explaining why public participation is denied in Main.
+    text: Fairhope demolished Nancy Lewis's historic home after six council discussions failed to protect it. Councilman Kevin Boone and a pro-development government prioritize developers over citizens.
+    widget_date: "2023-09-17"
+    generated_at: "2026-11-06T17:26:39.189978Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

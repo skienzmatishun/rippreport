@@ -5,13 +5,132 @@ metadata:
   main_date: "2024-01-21"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  baldwin-county-judicial-corruption:
+    refined_source: 99e1b40bf0e185cc230d2f5e1935e0c8ef370a227fe1377616d98170e6b68389
+    brief: |-
+      THE CONFLICT:
+      1. Murray Lawrence was wrongfully convicted in 2005.
+      2. Lawrence was incarcerated for over 18 years (6570 days).
+      3. Key figures involved: Sheriff Hoss Mack, District Attorney Robert Wilters (Judge), and prosecutor David Whetstone.
+      4. These three colluded to withhold the "Coroner's Report" from the defense.
+      5. Defense attorney Willy Huntley signed an affidavit on September 18, 2023, stating he never received the exculpatory evidence.
+
+      THE DISCOVERY:
+      1. The Baldwin County Sheriff's office has had consistent criminal and loss of life cases for 20 years.
+      2. The Sheriff's office uses its internal Major Crimes Division to avoid accountability for deputy misconduct.
+      3. Hoss Mack promised $600,000.00 worth of body and car cameras to the County Commission, but often fails to release full footage.
+      4. Evidence in Lawrence's case was "suppressed willfully rather than inadvertently," proving his innocence.
+
+      THE PIVOT:
+      1. Article 2 establishes a 20-year pattern of systemic corruption, lack of accountability, and judicial/prosecutorial misconduct within Baldwin County, which provides the context for the 2005 conviction.
+      2. Article 2 confirms that the suppression of evidence in the Murray Lawrence case was not an isolated failure but part of a long-standing pattern of official misconduct involving Sheriff Mack and DA Wilters.
+
+      KEY ENTITIES:
+      1. Murray Lawrence
+      2. Hoss Mack (Sheriff)
+      3. Robert Wilters (Judge/District Attorney)
+      4. David Whetstone (Prosecutor)
+      5. Steve Marshall
+      6. Tom Albrittion (Alabama Ethics Commission Executive Director)
+      7. Willy Huntley (Defense Attorney)
+      8. Baldwin County
+      9. Mabel Amos Trust
+      10. The Ripp Report
+    llm_text: Murray Lawrence served 18+ years wrongfully convicted after Sheriff Hoss Mack, DA Robert Wilters, and prosecutor David Whetstone deliberately withheld his evidence. Read how this 20-year pattern of systemic corruption defines justice and accountability within Baldwin County.
+    text: Sheriff Hoss Mack, DA Robert Wilters, and David Whetstone withheld evidence from Murray Lawrence. Read how that corruption defined Baldwin County justice.
+    widget_date: "2023-12-07"
+    generated_at: "2026-11-06T18:27:05.433664Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police-2:
+    refined_source: d9fe8bb9916246db0d949dae78c6de8605294969a1ff1267524384a2288a6487
+    brief: |-
+      THE CONFLICT:
+      *   Murray “Bubba” Lawrence was wrongfully incarcerated for over 18 years, starting around 2005, for the murder of Brandon Hastings.
+      *   Sheriff Hoss Mack and District Attorney Robert Wilters, along with retired prosecutor David Whetstone, colluded to withhold the vital Coroner’s Report from Lawrence’s defense.
+      *   Baldwin County Sheriffs Office (BCSO), led by Sheriff Hoss Mack, was involved in multiple highly publicized deaths, including Jonathan Victor (May 2017, shot unarmed) and Robert Yates (March 5, 2018, shot without probable cause).
+      *   Sheriff Mack secured his second term through legislative qualifications supported by State Senator Trip Pittman, creating perceived election rigging.
+      *   BCSO received over $65 million in funding in 2020 and 2021, including $700,000 for body/vehicle cameras, yet faced multiple lawsuits resulting in potential multi-million dollar verdicts.
+
+      THE DISCOVERY:
+      *   The Widget Article (published Sept 30, 2021) documented BCSO’s systemic issues, including lack of crisis intervention training, excessive force incidents, and Sheriff Mack’s political control over the County Commission (awarding a contract to Mack Funeral Home).
+      *   The Widget Article highlighted the Lagniappe decision, which broadly limited citizens' statutory right to access public law enforcement records (body cam, autopsy information).
+
+      THE PIVOT:
+      *   Article 2 established that BCSO operated within a politically controlled environment characterized by police misconduct, high death toll, and deliberate obstruction of public records (Lagniappe), making the subsequent actions of the Ethics Commission (Article 1) not an isolated event, but a continuation of institutional failure.
+      *   The context of pervasive corruption in Baldwin County (Article 2) explains why complaints against BCSO and associated officials (Mack, Wilters, Whetstone) "fell on deaf ears," leading to the specific complaints filed by The Ripp Report in Sept 2022 (Article 1) against Executive Director Tom Albrittion.
+
+      KEY ENTITIES:
+      *   Steve Marshall
+      *   Tom Albrittion (Alabama Ethics Commissions Executive Director)
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Murray Lawrence Jr.
+      *   Robert Wilters (Baldwin County District Attorney/Judge)
+      *   David Whetstone (Retired Prosecutor)
+      *   Francis Paul Ripp (The Ripp Reporter)
+      *   Willy Huntley (Defense Attorney)
+      *   Jonathan Victor
+      *   Robert Yates
+      *   William Cassady (U.S. District Court Judge)
+      *   Chief Justice Tom Parker
+      *   Trip Pittman (State Senator)
+      *   Maxwell & Tillman (Lawrence’s current attorneys)
+    llm_text: Murray Lawrence spent 18 years wrongfully incarcerated because Sheriff Hoss Mack and DA Robert Wilters obstructed key evidence. Our widget reveals how BCSO's systemic corruption and Lagniappe laws enabled this injustice across Baldwin County.
+    text: Sheriff Hoss Mack and DA Robert Wilters blocked key evidence in the Murray Lawrence case. How did official misconduct ruin an innocent man's life?
+    widget_date: "2023-11-20"
+    generated_at: "2026-11-06T18:25:48.965819Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  innocent:
+    refined_source: da40ab9f26f96618edfa0cc15ddfc9284b4e9374700173bee5578aa7491a6a3a
+    brief: |-
+      THE CONFLICT: Murray Lawrence convicted of capital murder on May 13, 2005, for the murder of Brandon Hastings in Baldwin County, Alabama.
+      THE DISCOVERY: Article 2 establishes the conviction was based primarily on accomplice testimony (Jarius McNeil) and lacks corroborating evidence (no DNA, fingerprints, ballistics, or reliable timeline), and that five witnesses placed Lawrence at home during the crime time.
+      THE PIVOT: Article 2 provides the foundational details of Lawrence's wrongful conviction (2005) which Article 1 references as the "wrongful conviction of Murray 'Bubba' Lawrence, 2005" and the subsequent 18 years of incarceration.
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Hoss Mack, David Whetstone, Robert Wilters, Willy Huntley, Jarius McNeil, Steve Marshall, Tom Albrittion, Alabama Ethics Commission
+    llm_text: Murray Lawrence spent 18 years for Brandon Hastings' murder, yet his 2005 conviction relied only on Jarius McNeil's testimony, not DNA. See how five witnesses prove Lawrence was home, exposing a wrongful conviction in Baldwin County.
+    text: Murray Lawrence served 18 years for a murder he did not commit. Five witnesses swore he was home, yet the court ignored them.
+    widget_date: "2022-04-22"
+    generated_at: "2026-11-06T18:23:52.678660Z"
+    model_name: plugsky-lite
+  catalyst-open-letter-to-baldwin-county-district-attorney:
+    refined_source: 8ea58f0d2832fed7cdcb1c2ba78e4e36aad06a859f526405e23374b62f2c6087
+    brief: |-
+      THE CONFLICT:
+      * 2016-2018: Allegations regarding Fairhope City Councilman Kevin Boone, Mayor Wilson, and support for candidates like Lynn Perry by District Attorney Robert Wilters.
+      * 2005: Wrongful conviction of Murray “Bubba” Lawrence.
+      * Sept 2022: Steve Marshall filed a complaint against Ethics Commission Executive Director Tom Albrittion.
+
+      THE DISCOVERY:
+      * Article 2 (2016-2018 timeframe) established historical context of alleged corruption in Fairhope government and political influence on DA Robert Wilters, linking him to the group "Catalyst."
+      * Article 1 (2022) details the wrongful conviction of Murray Lawrence and allegations of corruption in Baldwin County involving Sheriff Hoss Mack, DA Robert Wilters, and retired prosecutor David Whetstone, specifically the withholding of the Coroners Report.
+
+      THE PIVOT:
+      * Article 2 establishes a long-standing pattern of alleged political manipulation and influence involving DA Robert Wilters and local officials (Catalyst) which precedes and contextualizes the specific allegations of judicial/prosecutorial misconduct regarding Murray Lawrence in Article 1.
+
+      KEY ENTITIES:
+      * Steve Marshall
+      * Tom Albrittion
+      * Robert Wilters
+      * Hoss Mack
+      * David Whetstone
+      * Murray Lawrence
+      * Kevin Boone
+      * Lynn Perry
+      * Francis Paul Ripp
+      * Catalyst
+    llm_text: Robert Wilters influenced Fairhope politics with Catalyst, yet his office also linked to Murray Lawrence's wrongful conviction; see how this history connects to Steve Marshall's 2022 complaint against Tom Albrittion.
+    text: Robert Wilters mixed politics with Catalyst while his office linked to a wrongful conviction. How does that history connect to Steve Marshall?
+    widget_date: "2018-08-10"
+    generated_at: "2026-11-06T18:24:04.234143Z"
+    model_name: plugsky-lite
   tides-end:
+    refined_source: cda1d726041c57c04bed24510bae42df9bcf992eb8f96fcffa04597453d6a23d
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray "Bubba" Lawrence in 2005; alleged collusion between Sheriff Hoss Mack, District Attorney Robert Wilters, and retired prosecutor David Whetstone to withhold the "Coroner's Report" from the defense.
       THE DISCOVERY: Judge Robert Wilters, who is currently the District Attorney for the 28th Judicial District, answered the Rule 32 Petition filed by Murray "Bubba" Lawrence Jr. regarding withheld Brady Information.
       THE PIVOT: Article 2 confirms Wilters' dual role (Judge/DA) in the Lawrence case, directly supporting Article 1's accusation that Wilters, Mack, and Whetstone colluded to withhold vital exculpatory evidence from the defense, demonstrating a conflict of interest and political corruption in Baldwin County.
       KEY ENTITIES: Murray "Bubba" Lawrence Jr; Robert Wilters; Hoss Mack; David Whetstone; Alabama Ethics Commission; Tom Albrittion; Francis Paul Ripp; Willy Huntley; Maxwell & Tillman.
     llm_text: Bubba Lawrence was wrongfully convicted in 2005 because vital evidence was withheld. Judge Robert Wilters, now DA, directly participated with Sheriff Hoss Mack and David Whetstone, exposing corruption in Baldwin County.
+    text: Bubba Lawrence went to prison in 2005 because officials hid vital evidence. Judge Robert Wilters, Sheriff Hoss Mack, and David Whetstone oversaw the case.
     widget_date: "2024-01-18"
     generated_at: "2026-11-06T18:24:21.385409Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -94,115 +213,7 @@ hooks:
       - Alabama Rules of Criminal Procedure Rule 32
       - Birmingham, Alabama
     llm_text: The Ripp Report says Baldwin County’s Hoss Mack and prosecutor David Whetstone knowingly kept Brandon Hastings murder evidence from Murray “Bubba” Lawrence’s defense. That withheld evidence fuels Ripp’s claim that Alabama’s ethics system and courts let powerful officials bury misconduct.
+    text: The Ripp Report says Baldwin County’s Hoss Mack and prosecutor David Whetstone knowingly kept Brandon Hastings murder evidence from Murray “Bubba” Lawrence’s defense. That withheld evidence fuels Ripp’s claim that Alabama’s ethics system and courts let powerful officials bury misconduct.
     widget_date: "2023-12-14"
     generated_at: "2026-11-06T18:24:36.799018Z"
     model_name: recursive/flint-v1.0:free
-  baldwin-county-judicial-corruption:
-    brief: |-
-      THE CONFLICT:
-      1. Murray Lawrence was wrongfully convicted in 2005.
-      2. Lawrence was incarcerated for over 18 years (6570 days).
-      3. Key figures involved: Sheriff Hoss Mack, District Attorney Robert Wilters (Judge), and prosecutor David Whetstone.
-      4. These three colluded to withhold the "Coroner's Report" from the defense.
-      5. Defense attorney Willy Huntley signed an affidavit on September 18, 2023, stating he never received the exculpatory evidence.
-
-      THE DISCOVERY:
-      1. The Baldwin County Sheriff's office has had consistent criminal and loss of life cases for 20 years.
-      2. The Sheriff's office uses its internal Major Crimes Division to avoid accountability for deputy misconduct.
-      3. Hoss Mack promised $600,000.00 worth of body and car cameras to the County Commission, but often fails to release full footage.
-      4. Evidence in Lawrence's case was "suppressed willfully rather than inadvertently," proving his innocence.
-
-      THE PIVOT:
-      1. Article 2 establishes a 20-year pattern of systemic corruption, lack of accountability, and judicial/prosecutorial misconduct within Baldwin County, which provides the context for the 2005 conviction.
-      2. Article 2 confirms that the suppression of evidence in the Murray Lawrence case was not an isolated failure but part of a long-standing pattern of official misconduct involving Sheriff Mack and DA Wilters.
-
-      KEY ENTITIES:
-      1. Murray Lawrence
-      2. Hoss Mack (Sheriff)
-      3. Robert Wilters (Judge/District Attorney)
-      4. David Whetstone (Prosecutor)
-      5. Steve Marshall
-      6. Tom Albrittion (Alabama Ethics Commission Executive Director)
-      7. Willy Huntley (Defense Attorney)
-      8. Baldwin County
-      9. Mabel Amos Trust
-      10. The Ripp Report
-    llm_text: Murray Lawrence served 18+ years wrongfully convicted after Sheriff Hoss Mack, DA Robert Wilters, and prosecutor David Whetstone deliberately withheld his evidence. Discover how this 20-year pattern of systemic corruption defines justice and accountability within Baldwin County.
-    widget_date: "2023-12-07"
-    generated_at: "2026-11-06T18:27:05.433664Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sheriff-huey-boss-mack-secret-police-2:
-    brief: |-
-      THE CONFLICT:
-      *   Murray “Bubba” Lawrence was wrongfully incarcerated for over 18 years, starting around 2005, for the murder of Brandon Hastings.
-      *   Sheriff Hoss Mack and District Attorney Robert Wilters, along with retired prosecutor David Whetstone, allegedly colluded to withhold the vital Coroner’s Report from Lawrence’s defense.
-      *   Baldwin County Sheriffs Office (BCSO), led by Sheriff Hoss Mack, was involved in multiple highly publicized deaths, including Jonathan Victor (May 2017, shot unarmed) and Robert Yates (March 5, 2018, shot without probable cause).
-      *   Sheriff Mack secured his second term through legislative qualifications supported by State Senator Trip Pittman, creating perceived election rigging.
-      *   BCSO received over $65 million in funding in 2020 and 2021, including $700,000 for body/vehicle cameras, yet faced multiple lawsuits resulting in potential multi-million dollar verdicts.
-
-      THE DISCOVERY:
-      *   The Widget Article (published Sept 30, 2021) documented BCSO’s systemic issues, including lack of crisis intervention training, excessive force incidents, and Sheriff Mack’s political control over the County Commission (awarding a contract to Mack Funeral Home).
-      *   The Widget Article highlighted the Lagniappe decision, which broadly limited citizens' statutory right to access public law enforcement records (body cam, autopsy information).
-
-      THE PIVOT:
-      *   Article 2 established that BCSO operated within a politically controlled environment characterized by police misconduct, high death toll, and deliberate obstruction of public records (Lagniappe), making the subsequent actions of the Ethics Commission (Article 1) not an isolated event, but a continuation of institutional failure.
-      *   The context of pervasive corruption in Baldwin County (Article 2) explains why complaints against BCSO and associated officials (Mack, Wilters, Whetstone) "fell on deaf ears," leading to the specific complaints filed by The Ripp Report in Sept 2022 (Article 1) against Executive Director Tom Albrittion.
-
-      KEY ENTITIES:
-      *   Steve Marshall
-      *   Tom Albrittion (Alabama Ethics Commissions Executive Director)
-      *   Hoss Mack (Baldwin County Sheriff)
-      *   Murray Lawrence Jr.
-      *   Robert Wilters (Baldwin County District Attorney/Judge)
-      *   David Whetstone (Retired Prosecutor)
-      *   Francis Paul Ripp (The Ripp Reporter)
-      *   Willy Huntley (Defense Attorney)
-      *   Jonathan Victor
-      *   Robert Yates
-      *   William Cassady (U.S. District Court Judge)
-      *   Chief Justice Tom Parker
-      *   Trip Pittman (State Senator)
-      *   Maxwell & Tillman (Lawrence’s current attorneys)
-    llm_text: Murray Lawrence spent 18 years wrongfully incarcerated because Sheriff Hoss Mack and DA Robert Wilters allegedly obstructed key evidence. Our widget reveals how BCSO's systemic corruption and Lagniappe laws enabled this injustice across Baldwin County.
-    widget_date: "2023-11-20"
-    generated_at: "2026-11-06T18:25:48.965819Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  innocent:
-    brief: |-
-      THE CONFLICT: Murray Lawrence convicted of capital murder on May 13, 2005, for the murder of Brandon Hastings in Baldwin County, Alabama.
-      THE DISCOVERY: Article 2 establishes the conviction was based primarily on accomplice testimony (Jarius McNeil) and lacks corroborating evidence (no DNA, fingerprints, ballistics, or reliable timeline), and that five witnesses placed Lawrence at home during the crime time.
-      THE PIVOT: Article 2 provides the foundational details of Lawrence's wrongful conviction (2005) which Article 1 references as the "wrongful conviction of Murray 'Bubba' Lawrence, 2005" and the subsequent 18 years of incarceration.
-      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Hoss Mack, David Whetstone, Robert Wilters, Willy Huntley, Jarius McNeil, Steve Marshall, Tom Albrittion, Alabama Ethics Commission
-    llm_text: Murray Lawrence spent 18 years for Brandon Hastings' murder, yet his 2005 conviction relied only on Jarius McNeil's testimony, not DNA. See how five witnesses prove Lawrence was home, exposing a wrongful conviction in Baldwin County.
-    widget_date: "2022-04-22"
-    generated_at: "2026-11-06T18:23:52.678660Z"
-    model_name: plugsky-lite
-  catalyst-open-letter-to-baldwin-county-district-attorney:
-    brief: |-
-      THE CONFLICT:
-      * 2016-2018: Allegations regarding Fairhope City Councilman Kevin Boone, Mayor Wilson, and support for candidates like Lynn Perry by District Attorney Robert Wilters.
-      * 2005: Wrongful conviction of Murray “Bubba” Lawrence.
-      * Sept 2022: Steve Marshall filed a complaint against Ethics Commission Executive Director Tom Albrittion.
-
-      THE DISCOVERY:
-      * Article 2 (2016-2018 timeframe) established historical context of alleged corruption in Fairhope government and political influence on DA Robert Wilters, linking him to the group "Catalyst."
-      * Article 1 (2022) details the wrongful conviction of Murray Lawrence and allegations of corruption in Baldwin County involving Sheriff Hoss Mack, DA Robert Wilters, and retired prosecutor David Whetstone, specifically the withholding of the Coroners Report.
-
-      THE PIVOT:
-      * Article 2 establishes a long-standing pattern of alleged political manipulation and influence involving DA Robert Wilters and local officials (Catalyst) which precedes and contextualizes the specific allegations of judicial/prosecutorial misconduct regarding Murray Lawrence in Article 1.
-
-      KEY ENTITIES:
-      * Steve Marshall
-      * Tom Albrittion
-      * Robert Wilters
-      * Hoss Mack
-      * David Whetstone
-      * Murray Lawrence
-      * Kevin Boone
-      * Lynn Perry
-      * Francis Paul Ripp
-      * Catalyst
-    llm_text: Robert Wilters allegedly influenced Fairhope politics with Catalyst, yet his office also linked to Murray Lawrence's wrongful conviction; see how this history connects to Steve Marshall's 2022 complaint against Tom Albrittion.
-    widget_date: "2018-08-10"
-    generated_at: "2026-11-06T18:24:04.234143Z"
-    model_name: plugsky-lite

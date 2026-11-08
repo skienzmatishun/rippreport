@@ -1,0 +1,167 @@
+metadata:
+  generated_at: "2026-11-07T08:43:38.194133Z"
+  generator_version: 1.0.0
+  post_slug: weasel-contractor
+  main_date: "2021-05-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  csb-railroad-nomination:
+    refined_source: 6fc51fafdd533b3c9a9d79c80d9eb2be20e7c2202ed2ea314a22b30d1adb2ca5
+    brief: |-
+      THE CONFLICT:
+      Robert Brown purchased his property on July 21, 2020.
+      Jack Burrell (Fairhope City Council President) used non-public participation to select Jay Robinson as the next councilperson.
+      This nomination was linked to special interests, CSB and Catalyst/Scott Boone.
+
+      THE DISCOVERY:
+      The Fairhope City Council operates under special interests, suppressing free speech and public participation.
+      Jay Robinson’s council seat provided significant undisclosed value, including family insurance estimated at $80,000 to $100,000 over the remaining term.
+
+      THE PIVOT:
+      Article 2 establishes a documented pattern (2020) of political machines (CSB/Catalyst) prioritizing special interests and ethical breaches over public good, mirroring the pattern of Chris Elliott (Article 1) attempting to gain unfair competitive advantages and circumvent rules in the Strengthen Alabama Homes program (2016).
+
+      KEY ENTITIES:
+      Chris Elliott
+      Tripp Boom Boom Pittman
+      Stacy Elliott
+      Catalyst
+      Scott Boone Consulting
+      HB-188
+      Lynn Stacy
+      Michelle Thomasson
+      Tucker Dorsey
+      Scott "baby" Boone
+      Robert Wilters
+      Brian Powell
+      Robert Brown
+      Jack Burrell
+      CSB
+      Jay Robinson
+      Sherry Sullivan
+      Cory Martin
+    llm_text: Jack Burrell used non-public means to push Jay Robinson onto the Fairhope City Council. This machine, linked to CSB and Catalyst, gave undisclosed value ($80k–$100k) to Robert Brown, proving special interests override public good.
+    text: Jack Burrell used non-public means to push Jay Robinson onto the Fairhope City Council. This machine gave undisclosed value to Robert Brown, proving special interests override public good.
+    widget_date: "2021-03-12"
+    generated_at: "2026-11-07T08:41:11.188304Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  honeymoon:
+    refined_source: bd2ddf3d234bdff50c7d2e9a18fe7b6040ef12e68ebf963999393c19762383bd
+    brief: |-
+      THE CONFLICT: Robert Brown quit Fairhope City Council; CSB dominated Fairhope politics; Brown purchased a "family" property in July 2020 (appraised value $1.6 million); Probate filing number is 1845773.
+
+      THE DISCOVERY: The CSB entity, along with Jack Burrell, Sherry Sullivan, and Kevin Boone, controls the entire political infrastructure of Fairhope through selection rather than election.
+
+      THE PIVOT: Article 2 establishes the entrenched, non-elected, and self-interested power of the CSB political machine in Baldwin County, providing the foundational context for Article 1's revelation that Chris Elliott was part of the same "old boy club" operating under the Catalyst/Scott Boone Consulting banner.
+
+      KEY ENTITIES: Robert Brown, Jack Burrell, Sherry Sullivan, Kevin Boone, Jay Robinson, CSB, Chris Elliott (Stacy Elliott, Catalyst, Scott Boone Consulting), Lynn Stacy, Michelle Thomasson, Tucker Dorsey, Tripp Boom Boom Pittman, Brian Powell (SAH Director), Robert Wilters (District Attorney), HB-188, Baldwin County.
+    llm_text: Robert Brown quit Fairhope City Council after buying a $1.6 million property. Read how the powerful CSB entity and leaders like Jack Burrell control Fairhope politics through selection, not through election.
+    text: Robert Brown quit the Fairhope City Council after buying a $1.6 million property. Leaders like Jack Burrell control Fairhope politics through selection rather than election.
+    widget_date: "2021-03-05"
+    generated_at: "2026-11-07T08:42:21.760068Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity-2:
+    refined_source: 35c175226fd199ac5fb57fc400710787858b2ee42716240cb16beabac2b46e9c
+    brief: |-
+      THE CONFLICT:
+      *   2015: Governor Love Bentley allowed $3 BILLION to be left on the table regarding Medicaid expansion in Alabama.
+
+      THE DISCOVERY:
+      *   Article 2 reveals a consistent pattern of obstruction by Alabama Republican Governors (Bentley in 2015, Governor Ivy in 2021) preventing Medicaid Expansion, resulting in estimated losses of $15-$20 BILLION and hospital closures.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical context of systemic political self-interest and obstruction against public welfare in Alabama; Article 1 demonstrates this pattern through Chris Elliott, a political operative, manipulating the Strengthen Alabama Homes grant program ($22,231,066 allocated) for personal/political gain (HB-188).
+
+      KEY ENTITIES:
+      *   Chris Elliott (Stacy Elliott)
+      *   Governor Love Bentley
+      *   Governor Ivy
+      *   HB-188
+      *   Tripp Boom Boom Pittman
+      *   Brian Powell (SAH Director)
+      *   Michelle Thomasson
+      *   Tucker Dorsey
+      *   Lynn Stacy
+      *   Tim Can’t
+      *   Scott "baby" Boone
+      *   Robert Wilters
+      *   Baldwin County
+      *   Medicaid
+      *   Affordable Care Act (ACA)
+    llm_text: Governor Love Bentley lost Alabama $3 billion in 2015 blocking Medicaid expansion. See how Chris Elliott manipulated $22M from the Strengthen Alabama Homes grant, revealing systemic self-interest that harms public welfare.
+    text: Governor Robert Bentley lost Alabama $3 billion in 2015 by blocking Medicaid expansion. Chris Elliott manipulated $22 million from the Strengthen Alabama Homes grant, revealing systemic self-interest.
+    widget_date: "2021-02-19"
+    generated_at: "2026-11-07T08:37:31.812780Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  super-bowl-lv:
+    refined_source: db5b41264f12ab33d0bf49358907f53eebbaaa3b730b3ba39e01d55de9061b42
+    brief: |-
+      THE CONFLICT: 2020 Presidential election resulted in a contested election and an insurrection at the nation's Capital
+      THE DISCOVERY: The 2020 Presidential election was viewed as a source of intense national division and political strain, comparable to a major sporting event like Super Bowl LV
+      THE PIVOT: Article 2 establishes a national context of extreme political division, contested outcomes, and insurrection, which provides the backdrop for the local political corruption and distrust detailed in Article 1 (Chris Elliott's history as a contractor and State Senator)
+      KEY ENTITIES: Chris Elliott, Tripp Boom Boom Pittman, Stacy Elliott, Haygood, Catalyst, Scott Boone Consulting, HB-188, Brian Powell, Michelle Thomasson, Tucker Dorsey, Lynn Stacy, Tim Can’t, Robert Wilters, Baldwin County, Elliott Builders Inc.
+    llm_text: National division from the 2020 election and Capitol insurrection fuels local distrust. See how Chris Elliott leveraged his role in Baldwin County to push HB-188, revealing deeper political corruption.
+    text: National politics from 2020 fuel local distrust. How did Chris Elliott use his role in Baldwin County to push HB-188?
+    widget_date: "2021-02-05"
+    generated_at: "2026-11-07T08:43:27.360928Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  s-o-s:
+    refined_source: 91a87ab157c3604ac3cbc32cf99c63560e8b030384878d180752942f4c58c3a0
+    brief: |-
+      THE CONFLICT: Hoss Mack (Baldwin County Sheriff) faced Federal Court without Qualified Immunity due to a well-established pattern of "deliberate indifference" involving two prior cases of loss of life. In 2016, Chris Elliott (former Baldwin County Commissioner/home builder) was removed from the Strengthen Alabama Homes program by DOI Director Brian Powell for attempting to gain confidential information and an "unfair competitive advantage."
+
+      THE DISCOVERY: Article 2 revealed that the Baldwin County judicial system historically allowed law enforcement, specifically Hoss Mack, to evade accountability using Qualified Immunity.
+
+      THE PIVOT: The systemic lack of judicial accountability in Baldwin County (A2) provided the environment for political machine members like Chris Elliott (A1) to retain influence, despite having demonstrated ethical violations and being legally penalized (2016 program removal, city court guilty plea).
+
+      KEY ENTITIES: Chris Elliott, Hoss Mack, Brian Powell, Michelle Thomasson, Tucker Dorsey, Lynn Stacy, Tripp Boom Boom Pittman, Scott Boone Consulting, Mobile Baykeeper, DOI.
+    llm_text: Hoss Mack now faces Federal Court without Qualified Immunity over prior deaths, exposing Baldwin County's systemic lack of accountability. This same environment allowed Chris Elliott to retain influence despite ethical violations and 2016 program removal.
+    text: Hoss Mack faces Federal Court without Qualified Immunity over prior deaths, exposing Baldwin County's lack of accountability. This environment allowed Chris Elliott to retain influence despite ethical violations.
+    widget_date: "2021-05-07"
+    generated_at: "2026-11-07T08:36:25.431621Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-special-legislative-alert-alabama-medical-cannabis:
+    refined_source: 2a5efa0a0bd0279f6820ac0f220182e1fc3fefe624146443eb823e4f05143e97
+    brief: |-
+      THE CONFLICT: Chris Elliott, formerly Stacy Elliott and Haygood, was involved with the political machine in Baldwin County; in 2016, Elliott Builders Inc. was removed as an eligible contractor from the Strengthen Alabama Homes program after attempting to gain confidential bids.
+      THE DISCOVERY: The Alabama House of Representatives passed SB 46, establishing a statewide medical cannabis program, which was heading to the Senate for final approval under Governor Ivey.
+      THE PIVOT: Both issues (Elliott's contracting misconduct and the SB 46 medical cannabis legislation) occurred within the same Alabama state political and legislative environment, demonstrating the scope of state political activity during the relevant time frame.
+      KEY ENTITIES: Chris Elliott, Tripp Boom Boom Pittman, Stacy Elliott, Haygood, Catalyst, Scott Boone Consulting, Tucker Dorsey, Lynn Stacy, Tim Can’t, Robert Wilters, Brian Powell, Chey Garrigan, Governor Ivey, SB 46, HB-188.
+    llm_text: Chris Elliott faced penalties for misconduct in Baldwin County, but Alabama politics was also pushing forward SB 46, establishing a statewide medical cannabis program. See how these two issues reveal the scope of state power under Governor Ivey.
+    text: Chris Elliott faced penalties for misconduct in Baldwin County while Alabama politics advanced Senate Bill 46 to create a medical cannabis program. Both issues reveal the scope of state power under Governor Ivey.
+    widget_date: "2021-05-07"
+    generated_at: "2026-11-07T08:38:43.127448Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-slap-on-the-wrist:
+    refined_source: 1ba078dfb4b11998f0c8841167bcfec9cdd35cb2504f26fb7f951041a884bd9a
+    brief: |-
+      THE CONFLICT:
+      Ronan McSharry was convicted of "breach of peace" in 2017 for harassing artist Nall Hollis, resulting in 12-month probation (with conditions to avoid contact and avoid inebriation). In 2018, McSharry assaulted Paula DiNiardi, for which he offered no apology or paid medical expenses.
+
+      THE DISCOVERY:
+      Baldwin County operated a political cabal under the banner CATALYST, which exerted a stranglehold on Fairhope and Baldwin County, involving politicians, developers, judges, and lawyers. This cabal rebranded to Scott Boone Consulting (SBC) during the 2020 election cycle.
+
+      THE PIVOT:
+      Article 2 establishes the systemic, entrenched political corruption (the "good ole boy club") within Baldwin County, demonstrating that the political machine (CATALYST/SBC) is not isolated to municipal issues but is a foundational element of the county’s power structure, which Chris Elliott (a partner in Catalyst/SBC) subsequently utilized in his role as a contractor and State Senator.
+
+      KEY ENTITIES:
+      Ronan McSharry
+      Paula DiNiardi
+      Nall Hollis
+      CATALYST
+      Scott Boone Consulting (SBC)
+      Chris Elliott
+      Michelle Thomasson
+      Tucker Dorsey
+      Lynn Stacy
+      Tim Can't
+      Scott Boone
+      Robert Wilters (District Attorney)
+      Brian Powell (SAH Director)
+      Haymes Snedeker (Municipal Judge)
+      Marcus McDowell (City Attorney)
+      Stankoski (Circuit Court Judge)
+    llm_text: Ronan McSharry faced charges for harassing Nall Hollis and assaulting Paula DiNiardi. Uncover how the CATALYST/SBC political machine controlled Baldwin County, influencing judges and politicians like Chris Elliott.
+    text: Ronan McSharry faced charges for harassing Nall Hollis and assaulting Paula DiNiardi. Uncover how the Catalyst political machine controlled Baldwin County and influenced judges and politicians like Chris Elliott.
+    widget_date: "2021-03-26"
+    generated_at: "2026-11-07T08:39:54.136393Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,7 +5,20 @@ metadata:
   main_date: "2025-07-03"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  vote-smart:
+    refined_source: c01a39df55933989cf2fcc5bfb044883047353180cbfc733311716d2abdfb034
+    brief: |-
+      THE CONFLICT: Historically, Baldwin County elections were controlled by the "Good Ole Boys" (GOB), utilizing operatives like Lynn Stacy, Stacy Haygood, and Elliott, later evolving under names like Catalyst and Scott Boone Consulting to place status quo candidates in power.
+      THE DISCOVERY: Article 2 revealed the systematic methods of GOB control, citing Andrea Lindsey's switch from Democrat to Republican 15 minutes before qualification (March 5, 2024) as proof of being a "Catalyst" rubber stamp.
+      THE PIVOT: Article 2 provides the historical context demonstrating that the "good ole boy culture" mentioned in Article 1 (regarding the Fairhope City Council and Mayor) is not isolated but part of a long-standing, systematic pattern of political control in Baldwin County.
+      KEY ENTITIES: Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Lynn Stacy, Stacy Haygood, Elliott, Andrea Lindsey, Carrie Hosier, Kim Earl, Tyler, Gray
+    llm_text: Lynn Stacy and Stacy Haygood fueled "Good Ole Boys" control across Baldwin County elections. Andrea Lindsey's 15-minute party switch proves this systematic political pattern extends far beyond Fairhope.
+    text: Lynn Stacy and Stacy Haygood directed political control across Baldwin County elections. Andrea Lindsey's quick party switch proved this system extended far beyond Fairhope.
+    widget_date: "2024-02-13"
+    generated_at: "2026-11-06T14:14:12.225122Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: b3c61787d621cf389bd14d691210b9f6d7ba9156f6876c30cfca88e8bd0ea7ff
     brief: |-
       THE CONFLICT:
       *   A political cabal, originally known as CATALYST and later Scott Boone Consulting (SBC), operated in Baldwin County and Fairhope for years.
@@ -38,20 +51,24 @@ hooks:
       *   Fly Creek Apartments
       *   Mayor Cant
     llm_text: Scott Boone Consulting (SBC) was a cabal that cost Fairhope taxpayers $3 million on the Triangle Lawsuit while controlling city appointments. See the evidence of this entrenched "good ole boy culture" and decide how to challenge SBC at the August 26 municipal election.
+    text: Scott Boone Consulting cost Fairhope taxpayers $3 million on the Triangle lawsuit while controlling city appointments. Citizens challenged this entrenched culture at the ballot box.
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T14:10:59.820969Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   notice:
+    refined_source: 8cae892b2d3e6fbf363d190e7993524529f9b6b6653368a5bcf79f79c8b7e4c7
     brief: |-
       THE CONFLICT: The Ripp Report and Francis Paul Ripp were blocked from Facebook, forcing a shift in communication methods (historical context).
       THE DISCOVERY: The publication lost access to thousands of existing Facebook sites.
       THE PIVOT: Article 2 provides context on the operational challenges of the publication (The Ripp Report) but offers no factual connection or 'smoking gun' regarding the Fairhope municipal election or the current council challenges mentioned in Article 1.
       KEY ENTITIES: The Ripp Report, Francis Paul Ripp, Mayor Sullivan, Fairhope City Council, Aug. 26, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany.
-    llm_text: The Ripp Report and Francis Paul Ripp lost thousands of Facebook sites after being blocked by the platform. Discover how this operational crisis impacts local coverage of the Fairhope City Council.
+    llm_text: The Ripp Report and Francis Paul Ripp lost thousands of Facebook sites after being blocked by the platform. Read how this operational crisis impacts local coverage of the Fairhope City Council.
+    text: The Ripp Report and Francis Paul Ripp lost thousands of followers after Facebook blocked their pages. This digital blackout blocked local coverage of the Fairhope City Council.
     widget_date: "2025-05-04"
     generated_at: "2026-11-06T14:12:08.866599Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-march-5th:
+    refined_source: 93a375fb297af5917b90c97b06240a5cda90c64b0e7967863da4fad325ec9c44
     brief: |-
       THE CONFLICT:
       *   VOTE MARCH 5, 2024, election occurred in Baldwin County.
@@ -87,16 +104,7 @@ hooks:
       *   Aug 26 (Municipal election date)
       *   March 5, 2024 (Widget election date)
     llm_text: Sheriff Hoss Mack and the GOB controlled Baldwin County leadership, tying Fairhope Mayors to their cabal. See how Superintendent Tyler and Andrea Lindsey used school ties to protect this institutional corruption.
+    text: Sheriff Hoss Mack and political allies controlled Baldwin County leadership and tied Fairhope mayors to their network. Superintendent Tyler and Andrea Lindsey used school ties to protect the system.
     widget_date: "2024-03-01"
     generated_at: "2026-11-06T14:13:10.944743Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-smart:
-    brief: |-
-      THE CONFLICT: Historically, Baldwin County elections were controlled by the "Good Ole Boys" (GOB), utilizing operatives like Lynn Stacy, Stacy Haygood, and Elliott, later evolving under names like Catalyst and Scott Boone Consulting to place status quo candidates in power.
-      THE DISCOVERY: Article 2 revealed the systematic methods of GOB control, citing Andrea Lindsey's switch from Democrat to Republican 15 minutes before qualification (March 5, 2024) as proof of being a "Catalyst" rubber stamp.
-      THE PIVOT: Article 2 provides the historical context demonstrating that the "good ole boy culture" mentioned in Article 1 (regarding the Fairhope City Council and Mayor) is not isolated but part of a long-standing, systematic pattern of political control in Baldwin County.
-      KEY ENTITIES: Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Lynn Stacy, Stacy Haygood, Elliott, Andrea Lindsey, Carrie Hosier, Kim Earl, Tyler, Gray
-    llm_text: Lynn Stacy and Stacy Haygood fueled "Good Ole Boys" control across Baldwin County elections. Andrea Lindsey's 15-minute party switch proves this systematic political pattern extends far beyond Fairhope.
-    widget_date: "2024-02-13"
-    generated_at: "2026-11-06T14:14:12.225122Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

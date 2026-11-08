@@ -1,0 +1,169 @@
+metadata:
+  generated_at: "2026-11-08T08:40:17.975378Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-catalyst-a-dirty-little-secret
+  main_date: "2018-09-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  citizens-fighting-back:
+    brief: |-
+      THE CONFLICT:
+      *   The Catalyst Council, hand-picked by former Mayor Tim Kant, sought to block the October 2, 2018, referendum in Fairhope to change the government form to Council-Manager/Districts.
+      *   The attempt involved calling a Special Meeting to hire a law firm and seek a Temporary Restraining Order (TRO) to cancel the election.
+      *   The referendum was allowed to proceed after Mayor Karin Wilson won the election, enabling a legitimate vote.
+
+      THE DISCOVERY:
+      *   Article 2 showed a historical pattern in Baldwin County municipalities, including Fairhope, where local governments ran "roughshod" over citizens.
+      *   Article 2 specifically cited the "Catalyst" Council President mocking citizens and refusing to allow public speaking at a public forum in Fairhope.
+
+      THE PIVOT:
+      *   Article 2 provides historical context demonstrating that the Council's actions in 2018 (attempting to block the election) were not isolated errors but a continuation of a long-standing pattern of anti-citizen behavior and denial of public input in Fairhope.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Baldwin County
+      *   Catalyst Council
+      *   Tim Kant (Former Mayor)
+      *   Karin Wilson (Mayor)
+      *   Jay Robinson (Councilman/Attorney)
+      *   Jack Burrell (Council President)
+      *   Fresh Start Fairhope
+      *   October 2, 2018
+    llm_text: The Catalyst Council, backed by Tim Kant, tried to block Fairhope's Oct 2, 2018, referendum. Article 2 reveals this wasn't an isolated error but a long pattern of anti-citizen behavior in Baldwin County, including Council President Jack Burrell mocking residents.
+    widget_date: "2018-09-19"
+    generated_at: "2026-11-08T08:32:42.276892Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  re-run-doing-nothing:
+    brief: |-
+      THE CONFLICT: The Catalyst Council opposed the October 2, 2018, referendum to change Fairhope's government structure to Council-Manager (leading to districts in 2020).
+      THE DISCOVERY: The Catalyst Council, hand-picked by former Mayor Tim Kant, engaged in secretive actions, including calling a Special Meeting to hire a law firm seeking a Temporary Restraining Order to cancel the election, rather than transparently informing the public.
+      THE PIVOT: Article 2 (historical context) established the resistance to change, while Article 1 revealed the specific, deceptive tactics (silence, refusal to seek Attorney General opinion, use of "misinformation" as an excuse) used by the Council immediately prior to the election to undermine the democratic process.
+      KEY ENTITIES: Fairhope City Council, Tim Kant, Karin Wilson, Jay Robinson, Jack Burrell, Fresh Start Fairhope, Catalyst, October 2, 2018, September 19, 2018.
+    llm_text: Tim Kant's Catalyst Council secretly tried to cancel the October 2, 2018, Fairhope referendum using a private law firm. Discover the deceptive tactics they used to silence the public and undermine Fairhope's democratic process.
+    widget_date: "2018-09-15"
+    generated_at: "2026-11-08T08:35:16.279815Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  full-plate:
+    brief: |-
+      THE CONFLICT: Council President's "vision" led to a legal settlement costing $11.25 million; the K-1 school site has been idle since that settlement.
+      THE DISCOVERY: The Council faces pending lawsuits against the President and the Council, which the President refuses to apologize for, despite evidence like a video of the incident.
+      THE PIVOT: The Council's actions to suppress the October 2, 2018 referendum for Council-Manager form of government are consistent with a historical pattern of secretive, costly, and legally questionable self-interest, rather than legitimate public concern.
+      KEY ENTITIES: Fairhope City Council, Tim Kant, Karin Wilson, Jack Burrell (Council President), Jay Robinson (Councilman/attorney), Chuck Zunk (Fresh Start spokesman), Dean Mosher, Lee Lawson (EDA president), $11.25 million, October 2, 2018, Fresh Start Fairhope.
+    llm_text: Council President Jack Burrell refuses to apologize for actions leading to an $11.25 million settlement, leaving the K-1 school site idle. This pattern of secretive self-interest, including suppressing the October 2, 2018 referendum, fuels pending lawsuits against the Fairhope City Council.
+    widget_date: "2018-09-07"
+    generated_at: "2026-11-08T08:36:33.999325Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pop-up-target:
+    brief: |-
+      THE CONFLICT: Council secrecy regarding K-1 Center planning for two years; Jack Burrell (Council President) wrote a letter of intent to the School Board without public disclosure.
+      THE DISCOVERY: The council demonstrates a pattern of secretive, non-transparent governance that predates the 2018 election crisis.
+      THE PIVOT: The history of closed-door operations (K-1 Center) provides context for the Catalyst Council's later attempts to suppress public information and attempt to cancel the October 2, 2018, Council-Manager referendum.
+      KEY ENTITIES: Jack Burrell, Tim Kant, Karin Wilson, Jay Robinson, Chuck Zunk, Fairhope City Council, Catalyst, Fresh Start Fairhope, Oct. 2, 2018, K-1 Center, Baldwin County Economic Development Alliance (BCEDA).
+    llm_text: Council President Jack Burrell secretly planned K-1 Center for two years, writing an intent letter without public disclosure. This non-transparent governance predates the 2018 election crisis, explaining how the Catalyst Council later suppressed public information.
+    widget_date: "2018-08-31"
+    generated_at: "2026-11-08T08:37:44.180974Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  skunked:
+    brief: |-
+      THE CONFLICT:
+      *   For the last 20 years, Fairhope has used an "At Large" City Council system.
+      *   Fresh Start for Fairhope (FSF) initially sought a change to the Council-Manager form of government and Districts.
+      *   The current council was hand-picked by former Mayor Tim Kant, forming the "Catalyst" machine.
+      *   The October 2, 2018, referendum was set to decide on the Council-Manager form of government.
+
+      THE DISCOVERY:
+      *   FSF initially intended Districts but 65 people at an early meeting voted to support "At Large" over Districts.
+      *   Chuck Zunk supported the move to remain "at large" for the entire city population.
+      *   The "Skunk" (At Large status) is favored by the City Council, Catalyst, disgruntled ex-employees, and antique Council members due to concerns over power and control, not representation.
+
+      THE PIVOT:
+      *   Article 2 established that the FSF goal shifted from Districts to At Large, explaining why the Catalyst Council (which favors At Large for control) opposed the change of Government referendum (Oct 2, 2018) in Article 1.
+      *   Article 2 frames the council's resistance in Article 1 not just as political opposition, but as a defense of an existing system that provides them "cover and no accountability."
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Catalyst
+      *   Tim Kant (former Mayor)
+      *   Karin Wilson (Mayor)
+      *   Chuck Zunk (FSF spokesman, former Financial Advisory Committee/Airport Authority chairman)
+      *   Jay Robinson (Councilman, attorney)
+      *   Jack Burrell (Council President)
+      *   Fresh Start for Fairhope (FSF)
+      *   October 2, 2018 (Election date)
+      *   City Council (At Large system)
+      *   Airport Authority
+      *   11 days before Oct 2, 2018 (Special meeting/Attorney research)
+      *   September 19, 2018 (FSF Urgent Message date)
+    llm_text: Tim Kant's "Catalyst" machine controls Fairhope's 20-year "At Large" system. Council members like Jack Burrell defend this power structure, resisting change for control, not genuine representation.
+    widget_date: "2018-08-25"
+    generated_at: "2026-11-08T08:38:54.300476Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-open-letter-to-baldwin-county-district-attorney:
+    brief: |-
+      THE CONFLICT:
+      *   Kevin Boone (Fairhope City Councilman/Catalyst member) submitted a public complaint against Mayor Karin Wilson.
+      *   Allegations of Catalyst (a shadow government) obstructing Fairhope Government dated back to 2016, 2017, and 2018.
+      *   DA Robert Wilters was accused of being aided by Catalyst, specifically supporting Lynn Perry for Probate Judge and discouraging Harry D’Olive.
+      *   Other Councilmen targeted included Jack Burrell, Robert Brown (secured no-bid contract at Fairhope Art Center), and Kevin Boone (linked to John Avant and shared LLCs).
+
+      THE DISCOVERY:
+      *   The Ripp Report documented a multi-year pattern (2016–2018) of alleged corruption, influence, and ethical lapses involving Catalyst and specific Fairhope elected officials, not just a single event.
+
+      THE PIVOT:
+      *   Article 2 establishes that the "Catalyst machine" and its alleged corruption were long-standing issues predating the 2018 referendum, proving the 2018 attempt to derail the Council-Manager vote was not an isolated political disagreement but part of a chronic pattern of control by the Catalyst Council.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Karin Wilson (Mayor)
+      *   Tim Kant (former Mayor)
+      *   Kevin Boone (Councilman/Catalyst)
+      *   Jay Robinson (Councilman/Attorney)
+      *   Jack Burrell (Council President)
+      *   Robert Brown (Councilman)
+      *   Robert Wilters (Baldwin County District Attorney)
+      *   Lynn Perry (Probate Judge candidate/Catalyst)
+      *   Harry D’Olive (Probate Judge candidate)
+      *   John Avant
+      *   Fresh Start Fairhope
+      *   October 2, 2018
+      *   Fairhope Airport
+      *   Baldwin County
+    llm_text: Councilman Kevin Boone publicly challenged Mayor Karin Wilson, alleging Catalyst's corruption spans 2016–2018. Discover how this "Catalyst machine" controlled Fairhope long before the 2018 referendum, exposing a chronic pattern of influence on City Council and DA Robert Wilters.
+    widget_date: "2018-08-10"
+    generated_at: "2026-11-08T08:34:00.270597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-busted:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Tripp Pittman, Baldwin County BP trustee, skimmed $750,000.
+      *   Pittman also took municipal contracts from Fairhope with assistance from Fairhope Mayor Can’t and City Council.
+      *   State Representatives ignored Pittman's actions.
+      *   Former Fairhope Mayor Tim Kant hand-picked the current "Catalyst" City Council.
+      *   The current Council attempted to use legal means (seeking a Temporary Restraining Order) to cancel the October 2, 2018 referendum to change to a Council-Manager form of government.
+
+      THE DISCOVERY:
+      *   Article 2 reveals documented corruption involving Senator Tripp Pittman and municipal contracts from Fairhope.
+      *   Article 2 shows the "Catalyst" political machine was already in a defensive and panicked state following Primary and run-off elections.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical context of corruption and the political power of the "Catalyst" machine (Mayor Can't/City Council) before the 2018 election dispute.
+      *   This background demonstrates the entrenched, self-serving nature of the "Catalyst" group, making their subsequent attempt to suppress the October 2, 2018 referendum for political control (rather than legitimate concern) highly suspicious.
+
+      KEY ENTITIES:
+      *   Fairhope City Council (At Large)
+      *   Catalyst
+      *   Tim Kant (Former Mayor)
+      *   Karin Wilson (Mayor)
+      *   Jay Robinson (Councilman, Attorney)
+      *   Jack Burrell (Council President)
+      *   Chuck Zunk (Fresh Start Fairhope spokesman)
+      *   Fresh Start Fairhope (FSF)
+      *   Randy Davis (State Representative, Daphne)
+      *   Lynn Perry (Catalyst Candidate)
+      *   Joe Faust (Baldwin County Representative)
+      *   Senator Tripp Pittman ($750,000)
+      *   Oct 2, 2018 (Referendum Date)
+    llm_text: Senator Tripp Pittman skimmed $750,000 via Fairhope contracts, revealing deep corruption. This history proves the Catalyst machine, backed by Tim Kant, tried to cancel the 2018 referendum solely for political control.
+    widget_date: "2018-07-27"
+    generated_at: "2026-11-08T08:39:59.481226Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

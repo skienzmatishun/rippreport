@@ -6,24 +6,27 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   not-guilty-innocent:
+    refined_source: 7d1c37336fcd9eb3d7d3b93cc3da4053b7b015074d9b464f5effa614c1873cb9
     brief: |-
       THE CONFLICT: Harry Still (attorney) was arrested on a misdemeanor charge on September 3, 2025, in Bay Minette for a skirmish with Matt Franklin (Bay Minette city councilman). Judge Marcus McDowell found Still guilty, despite McDowell having a conflict of interest regarding the Ronan McSherry case.
       THE DISCOVERY: Still successfully appealed the ruling to a jury trial in Circuit Court presided over by Judge Clark Stankoski, resulting in a "not guilty" verdict.
       THE PIVOT: Judge Clark Stankoski, who ruled on Still's appeal, is also the presiding Circuit Court Judge in Baldwin County where James Pittman (Baldwin County attorney) practices as an indigent defense attorney and holds a seat on the Baldwin Judicial Commission (which selected Judge Brackin).
       KEY ENTITIES: Harry Still, Matt Franklin, Judge Scott Tayor, Judge Marcus McDowell, Judge Clark Stankoski, James Pittman, Tripp Pittman, Clark Stankoski, Paul Shalhoub, SERVPRO, Mediacom, Southland Properties, Al Tolbert, Ronan McSherry, Marcus McDowell, Chris Elliott, Councilman Franklin, Sheriff Lowery, Robert Wilters, Hoss Mack, Kristy Haygood.
     llm_text: Harry Still was convicted for a skirmish with Councilman Matt Franklin, but appealed to Judge Clark Stankoski and won a "not guilty" verdict. This ruling raises questions given Stankoski's connections to Baldwin County attorney James Pittman.
+    text: Harry Still won a not guilty verdict on appeal with Judge Clark Stankoski. Stankoski has deep connections to attorney James Pittman.
     widget_date: "2026-06-13"
     generated_at: "2026-11-06T06:25:50.498446Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mountain-medicine:
+    refined_source: 18f539e8bec29d86bd5f3a7048fead998eca07f9ee4752eeb603898c37a54e22
     brief: |-
       THE CONFLICT:
       *   Baldwin County attorney James Pittman is accused of manipulating the legal system.
       *   Pittman was elected representative to the Baldwin Judicial Commission, headed by Baldwin County Presiding Circuit Court Judge Clark Stankoski.
       *   Pittman was assigned to Stankoski’s courtroom as an indigent defense attorney.
       *   Pittman submitted the appointment for Judge Brackin, leading to the case against Paul Shalhoub being assigned to Judge Brackin within six months.
-      *   Pittman allegedly attempted to coerce Mediacom into paying SERVPRO $35,106.38 plus interest and fees (nearly $67,000).
-      *   Pittman's brother, Tripp Pittman, was trustee of BP funds and allegedly self-dealt approximately $750,000.
+      *   Pittman attempted to coerce Mediacom into paying SERVPRO $35,106.38 plus interest and fees (nearly $67,000).
+      *   Pittman's brother, Tripp Pittman, was trustee of BP funds and self-dealt approximately $750,000.
 
       THE DISCOVERY:
       *   Darryl Patton is a Master Herbalist and author of "Mountain Medicine: The Herbal Remedies of Tommy Bass."
@@ -49,27 +52,32 @@ hooks:
       *   Baldwin Judicial Commission
       *   BP funds
       *   Bay Minette, Alabama
-    llm_text: James Pittman and his brother Tripp Pittman face severe accusations, including $750,000 in alleged self-dealing from BP funds. Discover how local history, tied to herbalist Darryl Patton in Bay Minette, provides vital context to the Baldwin County legal conflict.
+    llm_text: James Pittman and his brother Tripp Pittman face severe accusations, including $750,000 in alleged self-dealing from BP funds. Read how local history, tied to herbalist Darryl Patton in Bay Minette, provides vital context to the Baldwin County legal conflict.
+    text: James Pittman and Tripp Pittman face accusations of self-dealing from BP funds. Local legal conflicts tie back to Bay Minette history.
     widget_date: "2026-06-12"
     generated_at: "2026-11-06T06:27:14.879816Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   delight:
+    refined_source: ee365b0551e3a3219ba92238224d23017575c2cac6313cd4b248bc618cdbfd5a
     brief: |-
       THE CONFLICT: Fairhope taxpayers faced a $11.25 million loss related to the Triangle property; a lawsuit was filed in the U.S. District Court for the Southern District of Alabama on Oct. 27 (year not specified).
       THE DISCOVERY: The city of Fairhope (and its associated legal counsel, Hand Anderall Sale) displayed a pattern of changing rules after the fact, costing taxpayers $3 million in legal fees and giving the property to the Single Tax Corporation.
       THE PIVOT: The historical failure of the Fairhope city government to manage public funds and adhere to legal precedent (Widget Article) establishes a local context of political and judicial ethical failure, which is mirrored in the current actions of attorney James Pittman who is accused of manipulating judicial appointments (Baldwin Judicial Commission) and coercing payments (SERVPRO) for personal gain (Main Article).
       KEY ENTITIES: James Pittman, Tripp Pittman, Baldwin Judicial Commission, Clark Stankoski, Judge Brackin, SERVPRO, Southland Properties, Paul Shalhoub, Fairhope, Mayor Can’t, Hand Anderall Sale, Cain O’Rear, Single Tax Corporation, Jack Burrell.
     llm_text: Fairhope taxpayers lost $11.25 million on the Triangle property because Hand Anderall Sale changed rules after the fact. Does this local failure mirror James Pittman's alleged manipulation of the Baldwin Judicial Commission and coercion of SERVPRO?
+    text: Fairhope taxpayers lost millions on the Triangle property. Hand Arendall Sale changed rules after the fact.
     widget_date: "2022-11-04"
     generated_at: "2026-11-06T06:28:33.395352Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-open-letter-to-baldwin-county-district-attorney:
+    refined_source: 40b44a6bf500c1d26a61129615105648c501211ef32be6918a0c82a78f3e9328
     brief: |-
       THE CONFLICT: In 2016, 2017, 2018, District Attorney Robert Wilters was accused of being aided by the group Catalyst, including supporting Lynn Perry for Probate Judge and discouraging Harry D’Olive from running for Probate Judge.
       THE DISCOVERY: Article 2 detailed allegations of corruption in Fairhope involving City Councilman Kevin Boone, Mayor Wilson, and the influence of the Catalyst group on local government.
       THE PIVOT: Both articles document ethical misconduct and alleged conflicts of interest within the Baldwin/Fairhope jurisdiction, specifically concerning judicial appointments (Wilters/Perry vs. Pittman/Brackin) and the manipulation of legal processes for financial gain (Pittman's SERVPRO/Mediacom case).
       KEY ENTITIES: James Pittman, Tripp Pittman, Clark Stankoski, Judge Brackin, Robert Wilters, Kevin Boone, Mayor Wilson, Paul Shalhoub, SERVPRO, Mediacom, Southland Properties, Catalyst
-    llm_text: Robert Wilters allegedly used Catalyst to influence Probate Judge appointments, including supporting Lynn Perry. Meanwhile, Kevin Boone and Mayor Wilson faced scrutiny over corruption and financial manipulation in Fairhope.
+    llm_text: Robert Wilters used Catalyst to influence Probate Judge appointments, including supporting Lynn Perry. Meanwhile, Kevin Boone and Mayor Wilson faced scrutiny over corruption and financial manipulation in Fairhope.
+    text: Robert Wilters used Catalyst to influence Probate Judge appointments. Kevin Boone and Mayor Wilson faced scrutiny over financial manipulation.
     widget_date: "2018-08-10"
     generated_at: "2026-11-06T06:29:54.312943Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,182 @@
+metadata:
+  generated_at: "2026-11-07T19:47:26.287694Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-council-asleep-at-the-wheel
+  main_date: "2020-03-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  full-plate:
+    refined_source: 8110c2abad4c4f63b0e872cee353acc4b8b8c7c1e98448e17374770c082c1cbf
+    brief: |-
+      THE CONFLICT:
+      * K-1 school site controversy occurred previously.
+      * Council President had a "vision" that cost $11.25 million in a legal settlement regarding the land triangle.
+      * EDA President Lee Lawson provided an economic impact analysis for the Hatch project: 266 new/indirect jobs, $16.8M payroll, $33.65M sales/output revenue.
+
+      THE DISCOVERY:
+      * Article 2 established prior council mismanagement and controversial land deals (K-1 site, $11.25M settlement) involving the Council and Baldwin County Economic Alliance before the COVID-19/HB 203 issues in Article 1.
+
+      THE PIVOT:
+      * Article 2 shows the CATALYST council has a history of questionable decision-making, disregarding citizen input, and costly legal issues, establishing a pattern of poor governance that makes their inaction on COVID-19, HB 203, and Fly Creek Apartments (Article 1) less credible.
+
+      KEY ENTITIES:
+      * Fairhope City Council (CATALYST)
+      * Mayor Karin Wilson
+      * Dr. Scott Harris (Health Officer)
+      * Governor Kay Ivey
+      * HB 203
+      * Fly Creek Apartments
+      * Baldwin County Economic Alliance
+      * Lee Lawson
+      * Dean Mosher
+      * K-1 school site
+    llm_text: Fairhope Council's $11.25M K-1 land settlement reveals a pattern of costly decisions before addressing HB 203. See how EDA President Lee Lawson's Hatch project data contrasts with this governance history.
+    text: Fairhope Council spent $11.25 million on the K-1 land settlement before facing HB 203. EDA President Lee Lawson provided data that clashes with this record of spending.
+    widget_date: "2018-09-07"
+    generated_at: "2026-11-07T19:44:44.111546Z"
+    model_name: plugsky-lite
+  catalyst-does-fairhope:
+    brief: "THE CONFLICT: \n- Former Fairhope Mayor Tim Kant and his administration, alongside developer Angelo Corte, pushed through the approval of the Fly Creek Apartments (later known as the 240-unit 'Retreat at Fairhope Village' behind the Publix on Hwy 98) despite overwhelming public outcry.\n- During Tim Kant's final City Council meeting (prior to the 2016 municipal election), Councilmen Burrell and Boone voted to accept a suspicious \"gift\" of wetland land from Angelo Corte that receives all the drainage runoff from the Publix property.\n- Taxpayers funded infrastructure supporting the developer, including a fire station on Parker Road constructed on Corte property and a sewer lift station built above Fly Creek to service the apartments ahead of the broader community.\n\nTHE DISCOVERY: \n- The older article (Article 2) reveals the deep historical collusion between the former Tim Kant administration, developer Angelo Corte, and city officials to greenlight the Fly Creek project at taxpayer expense. \n- It documents how municipal resources (a fire station and a sewer lift station) were strategically built to accommodate the private development, and how the city was saddled with wetland liability and drainage maintenance for the Corte-developed Publix site.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun for Article 1 because it shows that the current traffic nightmares, infrastructure strain, and environmental damage from the Fly Creek apartments (which are finally opening units and adding 1,200 cars a day to Parker Road and Highway 98 in Article 1) were deliberately engineered years earlier by pro-development leadership. \n- It directly connects the \"CATALYST council\" and former officials criticized in Article 1 to the backroom deals and taxpayer-funded subsidies exposed in Article 2.\n\nKEY ENTITIES: \n- Tim Kant (Former Mayor of Fairhope)\n- Angelo Corte (Developer)\n- Karin Wilson (Mayor of Fairhope)\n- Burrell (City Councilman)\n- Boone (City Councilman)\n- Dr. Scott Harris (State Health Officer / Alabama Department of Public Health)\n- Kay Ivey (Governor of Alabama)"
+    llm_text: Former Mayor Tim Kant and developer Angelo Corte forced through the Fly Creek project despite intense public outcry, saddling taxpayers with costly wetland liabilities. Read how these backroom deals engineered today's severe traffic and infrastructure nightmares.
+    text: Former Mayor Tim Kant and developer Angelo Corte forced through the Fly Creek project despite intense public outcry, saddling taxpayers with costly wetland liabilities. Read how these backroom deals engineered today's severe traffic and infrastructure nightmares.
+    widget_date: "2018-04-20"
+    generated_at: "2026-11-07T19:44:40.464812Z"
+    model_name: gemini-3.5-flash-lite
+  off-the-rails:
+    brief: |-
+      THE CONFLICT:
+      - January 10, 2020: Backstory Podcast released "Off the Rails" (Widget Article) criticizing Fairhope City Council; council described as having no priorities or off the rails; cited sewer spill; council slowed infrastructure projects and misused city funds; described as rogue conducting as criminal enterprise.
+      - Three councilmen – Boone Brown and Burrell – without community involvement or public participation paid $2.75 million for recreation land; council had no money for development, solution was to lease 2.75 million in land for farming.
+      - Same three councilmen ignored sewer infrastructure for years; city staff and Mayor Karin Wilson obtained BP funds; first time in 20+ years sewer infrastructure seriously addressed without help of council.
+
+      THE DISCOVERY:
+      - Article 2 (Backstory Podcast, January 10, 2020) showed/revealed the council's sewer infrastructure neglect, sewer spill, slowed infrastructure projects, and misused funds prior to Article 1's COVID-19, HB 203, Fly Creek Apartments, and traffic issues.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and serves as background/historical context (smoking gun) for Article 1 ("FAIRHOPE COUNCIL ASLEEP AT THE WHEEL"); it establishes prior council inaction and misconduct that Article 1 frames as ongoing "asleep at the wheel" conduct.
+
+      THE KEY ENTITIES:
+      - Mayor Karin Wilson
+      - Dr. Scott Harris
+      - Governor Kay Ivey
+      - Fairhope City Council / CATALYST Council
+      - Baldwin County Legislature Delegation
+      - HB 203 / Barnwell Landmark District / 44 square mile boundary
+      - Fairhope Arts & Crafts Festival
+      - Fly Creek Apartments / Retreat at Fairhope Village / 240 units / $1060–$2085/month / behind Publix on Hwy 98
+      - The Highlands / 77 units
+      - Parker Road
+      - Hwy 98
+      - Boone Brown
+      - Burrell
+      - $2.75 million
+      - BP Funds
+      - City staff
+      - Baldwin County, Alabama
+      - State Senators (email contacts)
+      - Lowery, Wilters
+    llm_text: Backstory Podcast's 'Off the Rails' called the Fairhope City Council rogue over a sewer spill and a $2.75 million land deal. Now 'FAIRHOPE COUNCIL ASLEEP AT THE WHEEL' uses that smoking gun to show why readers should care about Mayor Karin Wilson's stalled infrastructure.
+    text: Backstory Podcast's 'Off the Rails' called the Fairhope City Council rogue over a sewer spill and a $2.75 million land deal. Now 'FAIRHOPE COUNCIL ASLEEP AT THE WHEEL' uses that smoking gun to show why readers should care about Mayor Karin Wilson's stalled infrastructure.
+    widget_date: "2020-01-10"
+    generated_at: "2026-11-07T19:45:18.969783Z"
+    model_name: recursive/flint-v1.0:free
+  rotten:
+    brief: "THE CONFLICT: \n- May 2016: Council President Jack Burrell was involved in an airport scam, as documented in previous Ripp Report articles.\n- Over the preceding 7 years, Council President Jack Burrell acted as council president while operating the city council as a \"criminal enterprise,\" protecting the appointed city attorney and municipal judge, and siding with developers on controversial projects like the 240-unit Fly Creek Apartments (Retreat at Fairhope Village) and the 77-unit townhome project (The Highlands) which rely on an outdated 2016 traffic study.\n- Ongoing dispute over HB 203 (Barnwell Landmark District bill), which passed the House and moved to the Senate, threatening citizens with potential annexation without consent.\n- March 2020: Mayor Karin Wilson raised concerns regarding potential COVID-19 impacts on the Fairhope Arts and Crafts Festival and warned citizens about the legislative overreach of HB 203, while criticizing the City Council (\"Catalyst Council\") for being \"asleep at the wheel.\"\n\nTHE DISCOVERY: \n- Article 2 (Widget Article, older context) exposes Fairhope City Council President Jack Burrell and State Senator Chris Elliott as the worst-ranked elected officials in Baldwin County, with Burrell taking the top spot for running the city council like a \"criminal enterprise\" alongside the municipal judge and city attorney.\n- It highlights a documented history of corruption and a \"special bond\" between Burrell and the judge dating back at least three years prior to 2020.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it connects current municipal failures (such as the Catalyst Council ignoring traffic studies for the Fly Creek Apartments and staying silent on critical legislation like HB 203) to long-standing, systemic corruption led by Council President Jack Burrell. While Article 1 frames the council as merely \"asleep at the wheel,\" Article 2 provides the historical context proving they are actively compromised and acting as a corrupt enterprise.\n\nKEY ENTITIES: \n- Jack Burrell (Fairhope City Council President)\n- Senator Chris Elliott (State Senator)\n- Mayor Karin Wilson\n- Dr. Scott Harris (State Health Officer / Alabama Department of Public Health)\n- Governor Kay Ivey"
+    llm_text: Fairhope Council President Jack Burrell and Senator Chris Elliott rank as Baldwin County's worst politicians for running a criminal enterprise. Read our smoking-gun report exposing how Burrell's deep-rooted corruption fuels massive municipal failures today.
+    text: Fairhope Council President Jack Burrell and Senator Chris Elliott rank as Baldwin County's worst politicians for running a criminal enterprise. Read our smoking-gun report exposing how Burrell's deep-rooted corruption fuels massive municipal failures today.
+    widget_date: "2020-01-03"
+    generated_at: "2026-11-07T19:44:46.513038Z"
+    model_name: gemini-3.5-flash-lite
+  triangle-roaches:
+    refined_source: b03939a4596405cf245a12ef939558564b6b09df36ba1475bbf741cd4b1cbdb0
+    brief: |-
+      THE CONFLICT:
+      - Former Mayor Tim Can't fueled a lawsuit over the Triangle property during his 16 years as Mayor (2006 till present).
+      - In February 2014, Fairhope City Council authorized Mayor Can't to enter "settlement talks to reach a legal settlement over the Triangle lawsuit."
+      - In September 2014, the Mayor announced a legal settlement of $8.25 million regarding the Triangle, which was a loss and covered $3 million in unrefunded law fees guaranteed by Attorney Cain Orear.
+
+      THE DISCOVERY:
+      - Article 2 reveals the Triangle settlement was a "Legal Settlement" of $8.25 million, not a purchase for parks.
+      - Article 2 links Tim Can't's tenure and the Triangle issue to favoring developers like Publix and Fly Creek Apartments.
+
+      THE PIVOT:
+      - Article 2 establishes Tim Can't's history of prioritizing development/political aims over public transparency (e.g., secret council authorization, lawsuits) which directly connects to the council's support of the Fly Creek Apartments project and the perceived inaction regarding traffic/HB 203 in Article 1.
+
+      KEY ENTITIES:
+      - Tim Can't (Former Mayor)
+      - Fairhope City Council (CATALYST Council)
+      - Triangle Conservancy
+      - Publix
+      - Fly Creek Apartments
+      - HB 203
+      - Mayor Karin Wilson
+      - Dr. Scott Harris
+      - Cain Orear (City Attorney)
+      - Parker Road / Hwy 98
+    llm_text: Former Mayor Tim Can't settled the Triangle lawsuit for $8.25M, not for parks, while favoring developers like Publix. See how his 16 years prioritized development over public transparency.
+    text: Former Mayor Tim Kant settled the Triangle lawsuit for $8.25 million instead of building parks. His 16 years in office consistently put developer Publix ahead of public transparency.
+    widget_date: "2019-12-05"
+    generated_at: "2026-11-07T19:44:53.238270Z"
+    model_name: plugsky-lite
+  bend-over-fairhope:
+    brief: |-
+      THE CONFLICT: The Fairhope City Council—led by Council President Mr. Burrell and supported by members Boone and Brown—waged a prolonged war to obstruct Mayor Karin Wilson, cutting her discretionary funds from $15,000 to $2,500, interfering with city employees, spreading rumors, and favoring developers over citizens on major contentious local projects such as the Fly Creek Apartments.
+
+      THE DISCOVERY: Article 2 revealed a systemic pattern of council corruption, conflicts of interest, and backroom dealing—specifically highlighting that council members Boone and Brown had direct ties to the Fairhope Single Tax Corporation, which was pushing a controversial 12-home development on the banks of Big Head Gully that threatened sewer backups, and noting how the council previously pushed through the settled "triangle lawsuit" and bypassed public input through secret agenda manipulations.
+
+      THE PIVOT: Article 2 serves as the smoking gun for Article 1 by proving that the Fairhope City Council's current inaction and hostility toward Mayor Karin Wilson (regarding crises like COVID-19 prep, the flawed HB 203 annexation bill, and the disastrous 2016 traffic study for the 240-unit Fly Creek Apartments/Retreat at Fairhope Village) are not isolated incidents, but rather part of a long-standing, documented pattern of favoring developers at the expense of public safety and ignoring citizen outrage.
+
+      KEY ENTITIES:
+      - Mayor Karin Wilson
+      - Mr. Burrell (Council President)
+      - Boone (Council Member)
+      - Brown (Council Member)
+      - Dr. Scott Harris (State Health Officer / Alabama Department of Public Health)
+      - Governor Kay Ivey
+    llm_text: Council President Burrell, Boone, and Brown waged a relentless war against Mayor Karin Wilson, slashing her budget while pushing developer-backed projects like Fly Creek. Read how this coordinated corruption endangers your safety and ignores public outrage.
+    text: Council President Burrell, Boone, and Brown waged a relentless war against Mayor Karin Wilson, slashing her budget while pushing developer-backed projects like Fly Creek. Read how this coordinated corruption endangers your safety and ignores public outrage.
+    widget_date: "2018-02-09"
+    generated_at: "2026-11-07T19:44:51.828574Z"
+    model_name: gemini-3.5-flash-lite
+  public-servant:
+    refined_source: 6cae0e48ffd7fbd2312e18739733eb23007c2414685a1bf4a39b11daeabc118f
+    brief: |-
+      THE CONFLICT: Bill Hightower and Jerry Carl engaged in a political run-off campaign on March 31; Hightower alleged Carl borrowed approximately $200,000 from a local bank for his campaign.
+      THE DISCOVERY: The Widget Article revealed that Bill Hightower’s campaign relied on out-of-state special interest money, while the Main Article revealed the CATALYST council failed to address local issues like COVID-19, HB 203, and Fly Creek Apartments.
+      THE PIVOT: Article 2 provides context on financial accountability and special interest influence at the Congressional level, mirroring the lack of local accountability cited in Article 1 regarding the CATALYST council’s inaction on critical municipal issues (HB 203, Fly Creek Apartments).
+      KEY ENTITIES: Karin Wilson, Dr. Scott Harris, Kay Ivey, Bill Hightower, Jerry Carl, CATALYST Council, Fairhope, HB 203, Fly Creek Apartments, Publix, Barnwell Landmark District.
+    llm_text: Bill Hightower accused Jerry Carl of borrowing $200k, yet Hightower’s campaign relied on out-of-state special interest money. Does this national financial influence mirror the CATALYST Council’s failure to address local issues like HB 203 and Fly Creek Apartments?
+    text: Bill Hightower accused Jerry Carl of borrowing money while using out-of-state special interest funds. Did this national money stop the CATALYST Council from fixing local issues like HB 203?
+    widget_date: "2020-03-07"
+    generated_at: "2026-11-07T19:45:45.283495Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  runoff:
+    refined_source: 470261cd17a1a03f66b27e12b33badc78eee6dfba4de01cb757cad0ec6ff6d21
+    brief: |-
+      THE CONFLICT:
+      First Congressional District race runoff on March 31 between Jerry Carl and Bill Hightower. CATALYST aimed for total political power in Baldwin County.
+
+      THE DISCOVERY:
+      CATALYST failed its 10,000-vote prediction in the runoff, falling short by more than 66%.
+
+      THE PIVOT:
+      The challenged political ambitions of CATALYST (A2) are demonstrated by the local governance failures in Fairhope (A1), specifically concerning the Fly Creek Apartments and the controversial HB 203 legislation.
+
+      KEY ENTITIES:
+      Mayor Karin Wilson
+      Dr. Scott Harris
+      CATALYST
+      Fairhope
+      Baldwin County
+      HB 203
+      Barnwell Landmark District
+      Publix
+      U.S. 98
+      Parker Road
+      Jerry Carl
+      Bill Hightower
+    llm_text: CATALYST aimed for total power in Baldwin County but missed its 10,000-vote prediction in the Jerry Carl/Bill Hightower runoff. Read how this ambition failed, linking to Fairhope's local governance issues, including controversial HB 203.
+    text: CATALYST missed its 10,000-vote target in the Jerry Carl and Bill Hightower runoff. Watch how that political failure connects directly to Fairhope and controversial HB 203.
+    widget_date: "2020-03-05"
+    generated_at: "2026-11-07T19:46:59.522403Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

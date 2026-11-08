@@ -5,7 +5,20 @@ metadata:
   main_date: "2025-11-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  biased-investigation:
+    refined_source: bde08317babee25321aea07b29053e8737273f95dc46983680b11bf8bc645641
+    brief: |-
+      THE CONFLICT: Otis French was killed by a BCSO deputy following an encounter with police in Bay Minette. The Mayor-elect, Joshua Brown, led protests against this fatal shooting.
+      THE DISCOVERY: Article 2 reveals a historical pattern of institutional opacity, specifically noting that Baldwin County MCU Lt. Andre Reid stated officer body camera footage would not be released, and the officer involved in the French shooting remains unnamed.
+      THE PIVOT: This established history of lack of transparency, distrust in law enforcement, and the powerful political role of the BCSO Sheriff provides the context for Harry Still’s extreme criticism of former officials like Al Tolbert and his subsequent refusal to trust the BMPD during the September 3 fight with Councilman Matthew Franklin, leading him to involve the Baldwin County Sheriff’s Office.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Bob Wills, Al Tolbert, Joshua Brown, Otis French, Andre Reid, Baldwin County Sheriff’s Office (BCSO), Bay Minette Police Department (BMPD)
+    llm_text: Joshua Brown led protests after Otis French was killed by a BCSO deputy. Despite Lt. Andre Reid refusing body camera footage, the officer remains unnamed, exposing a history of institutional opacity in Baldwin County.
+    text: Joshua Brown led protests after Otis French was killed by a BCSO deputy. Lieutenant Andre Reid refused body camera footage, exposing institutional opacity.
+    widget_date: "2022-09-24"
+    generated_at: "2026-11-06T11:07:16.524851Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   heart-of-dixie-podcast:
+    refined_source: 667457d4dafe39c610ffc3fc1044a7d3dadb950276dba9b7bfe87caa95591494
     brief: |-
       THE CONFLICT:
       *   September 3: Fight occurred in downtown Bay Minette between attorney Harry Still and Councilman Matthew Franklin.
@@ -37,10 +50,12 @@ hooks:
       *   November 3 (Tolbert resignation)
       *   December (Court date)
     llm_text: Did the Bay Minette fight between Harry Still and Councilman Matthew Franklin hide something? A leaked BCSO email shows Sheriff Anthony Lowery directed deputies to pre-target Still, raising major First Amendment retaliation concerns.
+    text: Did the Bay Minette fight between Harry Still and Councilman Matthew Franklin hide something? A leaked BCSO email shows Sheriff Anthony Lowery directed deputies to pre-target Still.
     widget_date: "2025-11-21"
     generated_at: "2026-11-06T11:04:48.122701Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-4:
+    refined_source: 71ebb8c2a0fd64ee8a46059395d92730445e3f487078bfa94da46047ca5984eb
     brief: |-
       THE CONFLICT:
       Harry Still and Councilman Matthew Franklin fought in Franklin's downtown Bay Minette office on Sept. 3.
@@ -66,17 +81,8 @@ hooks:
       Baldwin County
       Fairhope
       Bay Minette
-    llm_text: Harry Still and Councilman Matthew Franklin fought in Bay Minette, but local political opacity runs deeper. Discover how Fairhope's waterfront project ballooned from $6.2M to $10M amid unchecked developer influence.
+    llm_text: Harry Still and Councilman Matthew Franklin fought in Bay Minette, but local political opacity runs deeper. Read how Fairhope's waterfront project ballooned from $6.2M to $10M amid unchecked developer influence.
+    text: Harry Still and Councilman Matthew Franklin fought in Bay Minette. Why did Fairhope's waterfront project jump from $6.2 million to $10 million while developers held the cards?
     widget_date: "2025-11-14"
     generated_at: "2026-11-06T11:06:08.262831Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  biased-investigation:
-    brief: |-
-      THE CONFLICT: Otis French was killed by a BCSO deputy following an encounter with police in Bay Minette. The Mayor-elect, Joshua Brown, led protests against this fatal shooting.
-      THE DISCOVERY: Article 2 reveals a historical pattern of institutional opacity, specifically noting that Baldwin County MCU Lt. Andre Reid stated officer body camera footage would not be released, and the officer involved in the French shooting remains unnamed.
-      THE PIVOT: This established history of lack of transparency, distrust in law enforcement, and the powerful political role of the BCSO Sheriff provides the context for Harry Still’s extreme criticism of former officials like Al Tolbert and his subsequent refusal to trust the BMPD during the September 3 fight with Councilman Matthew Franklin, leading him to involve the Baldwin County Sheriff’s Office.
-      KEY ENTITIES: Harry Still, Matthew Franklin, Bob Wills, Al Tolbert, Joshua Brown, Otis French, Andre Reid, Baldwin County Sheriff’s Office (BCSO), Bay Minette Police Department (BMPD)
-    llm_text: Joshua Brown led protests after Otis French was killed by a BCSO deputy. Despite Lt. Andre Reid refusing body camera footage, the officer remains unnamed, exposing a history of institutional opacity in Baldwin County.
-    widget_date: "2022-09-24"
-    generated_at: "2026-11-06T11:07:16.524851Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

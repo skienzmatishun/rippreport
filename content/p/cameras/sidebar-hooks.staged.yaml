@@ -6,16 +6,19 @@ metadata:
   model_name: plugsky-lite
 hooks:
   mouthpiece:
+    refined_source: 9775aec54ef41cb282b25d6688c60981fa11ceb37a61ca9fa86191a41e249fe5
     brief: |-
       THE CONFLICT: Jack Burrell was on the council for 10 years, promising no federal money needed and no tolls for Fairhope infrastructure.
       THE DISCOVERY: Article 2 shows Jack Burrell currently supports tolls and increasing county population growth via new infrastructure (Toll Bridge/Bayway).
       THE PIVOT: Article 2 establishes Burrell's history of political deception regarding public promises (no tolls) which contrasts with the current discussion of public funds (Sheriff Mack's $600,000 for cameras) and accountability in Article 1.
       KEY ENTITIES: Jack Burrell, Fairhope, Toll Bridge, Baldwin County, Sheriff Hoss Mack, County Commission, Bay Minette police, Mr. French, Jonathan Victor, Attorney Ben Crump, U.S. District Court Judge William Cassady, Murray “Bubba” Lawrence
     llm_text: Jack Burrell promised no Fairhope tolls for a decade, yet now supports the Toll Bridge. See how his past deceptions clash with current county funding debates involving Sheriff Mack's $600k.
+    text: Jack Burrell promised no Fairhope tolls for a decade, yet he now supports the Toll Bridge. His past deceptions clash with current county funding debates involving Sheriff Mack.
     widget_date: "2022-08-20"
     generated_at: "2026-11-06T20:53:44.805096Z"
     model_name: plugsky-lite
   get-out-of-jail-card:
+    refined_source: 94bb01b7b4f9336c09fac020a64b014e8739f6ae94456ff23b6f527075250357
     brief: |-
       THE CONFLICT:
       *   May 12, 2017: Jonathan Victor was shot by a Baldwin County Sheriff's Office (BCSO) deputy.
@@ -44,16 +47,19 @@ hooks:
       *   Mayor Mike “Slappin” MCMillan
       *   Lyndsey Cooper
     llm_text: Sheriff Hoss Mack requested $600,000 for cameras, yet he refuses to give the public footage. Baldwin County's system of impunity lets Mack evade accountability, ignoring past BCSO cases that resulted in 8 deaths.
+    text: Sheriff Hoss Mack requested $600,000 for cameras yet refuses to give the public the footage. Baldwin County impunity lets Mack evade accountability while ignoring past sheriff office cases that resulted in eight deaths.
     widget_date: "2022-08-16"
     generated_at: "2026-11-06T20:54:59.616756Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   non-lethal:
+    refined_source: fb66e24433c5dd245c129425864b3276f6fb1c498f5e5d7501a57ddf78f8ebae
     brief: |-
       THE CONFLICT: Jonathan Victor was shot four times with an Ruger AR-15 from 7 yards by a Baldwin County Sheriff's Office (BCSO) deputy on May 12, 2017.
       THE DISCOVERY: The Widget Article (January 19, 2021) showed BCSO prioritized military weapons over non-lethal equipment and reported Sheriff Hoss Mack stated in a deposition that BCSO lacked a crisis intervention team and de-escalation training at the time of the incident (May 2017).
       THE PIVOT: Article 2 provides the background context (lack of training/non-lethal options) that directly supports Article 1's legal finding, where U.S. District Court Judge William Cassady noted Mack failed to adequately train deputies to respond to mental health crises. Both articles detail the refusal by Sheriff Mack to release body-cam/vehicle footage despite receiving $600,000 for the system.
       KEY ENTITIES: Sheriff Hoss Mack, Baldwin County, Bay Minette Police, Johnathan Victor, Judge William Cassady, Gabriel Tynes
     llm_text: BCSO deputy shot Jonathan Victor four times in May 2017. Judge William Cassady found Sheriff Hoss Mack failed to train deputies, directly supporting the refusal to release body-cam footage despite $600,000 funding.
+    text: A sheriff office deputy shot Jonathan Victor four times in May 2017. Judge William Cassady found Sheriff Hoss Mack failed to train deputies, supporting the refusal to release body camera footage despite receiving $600,000 in funding.
     widget_date: "2021-02-13"
     generated_at: "2026-11-06T20:56:10.106899Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

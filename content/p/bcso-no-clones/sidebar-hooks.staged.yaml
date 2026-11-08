@@ -5,7 +5,158 @@ metadata:
   main_date: "2025-09-26"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  po-po-hoss-mack-ccuo:
+    refined_source: da4914c344b7e694a45a49e661769281ee8d837ee3569830e2405adf21efc089
+    brief: |-
+      THE CONFLICT:
+      *   Wrongful conviction of Murray Lawrence Jr.
+      *   Incident date related to evidence: May 17, 2004.
+      *   Involved parties in 2004 cover-up: Hoss Mack, Mack's father, Whetstone, Wilters, Anthony Lowery.
+      *   Systemic issue: Baldwin County Sheriff Office (BCSO) operated as a "good ole boy club" involving sexual misconduct, missing evidence, and incompetent investigations.
+
+      THE DISCOVERY:
+      *   A second autopsy report indicated Whetstone, Wilters, and Mack should have known it was performed prior to Lawrence’s trial.
+      *   Hoss Mack, Wilters, and Whetstone hid evidence that would have proven Murray Lawrence Jr. innocent.
+      *   Wilters wrote and signed the order allowing the second autopsy.
+
+      THE PIVOT:
+      *   Article 2 establishes Sheriff Hoss Mack's historical pattern as a "Chief Cover up officer" (CCUO) involving evidence mishandling and systemic corruption.
+      *   Article 1 connects Anthony Lowery to this history, stating he is a "clone" of Hoss Mack and has rightfully inherited Mack’s "horrible record," making him part of the established corrupt system rather than a change.
+
+      KEY ENTITIES:
+      *   Hoss Mack
+      *   Anthony Lowery
+      *   Matt Mckenzie
+      *   Murray Lawrence Jr.
+      *   Whetstone
+      *   Wilters
+      *   Jon Grey
+      *   Baldwin County Sheriff Office (BCSO)
+      *   Alabama Department of Forensic Sciences
+      *   Baldwin County School Board
+      *   Ventures 68
+    llm_text: Hoss Mack, Whetstone, and Wilters orchestrated the 2004 BCSO cover-up that wrongly convicted Murray Lawrence Jr. Anthony Lowery inherits this "horrible record," confirming the systemic corruption within the Sheriff’s Office never changed for Baldwin County.
+    text: Hoss Mack, David Whetstone, and Robert Wilters orchestrated the 2004 cover-up that framed Murray Lawrence Jr. Anthony Lowery inherited this exact office culture, proving nothing changed.
+    widget_date: "2024-06-15"
+    generated_at: "2026-11-06T11:40:40.200855Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-march-5th:
+    refined_source: 0796e56d04a649ea0b4600a1e6da1ff509dda4e358d1e63e686f36257c865700
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County has been held under the control of the "Good Ole Boys" (GOB) cabal for decades, lacking accountability and transparency.
+      *   Sheriff Hoss Mack is identified as a central figure in this GOB stranglehold, influencing Mayors (e.g., Fairhope) and school system leaders (Eddie and Gray/Tyler).
+      *   The cycle is perpetuated by organizations like Catalyst.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that the GOB control spans key positions, including the Circuit Clerk (held for years by Catalyst) and the Sheriff's office.
+      *   Article 2 called for voters to reject Catalyst candidates and vote for alternatives like Kim Earl and Carrie Hosier on March 5, 2024.
+
+      THE PIVOT:
+      *   Article 2 established the systemic corruption of the GOB/Hoss Mack era in Baldwin County.
+      *   Article 1 confirms that Lowery is a clone of Hoss Mack and has inherited his "horrible record," demonstrating that the election is not about new change but the continuation of the entrenched, flawed system identified in Article 2.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Sheriff)
+      *   Lowery (Candidate/Clone)
+      *   Matt Mckenzie (Proposed alternative candidate)
+      *   Kim Earl (Circuit Clerk candidate)
+      *   Carrie Hosier (Board of Education candidate)
+      *   Andrea Lindsey (Catalyst candidate/party switcher)
+      *   Eddie Tyler / John Gray (School system leaders)
+      *   Fairhope (Mayor cited as charter member of the Sheriff's cabal)
+      *   Catalyst (Organization controlling GOB cycle)
+      *   Baldwin County (Location)
+      *   March 5, 2024 (Election date)
+    llm_text: Hoss Mack's clone, Lowery, continues the GOB stranglehold in Baldwin County. Vote Kim Earl and Carrie Hosier on March 5 to finally break the Catalyst cycle.
+    text: Anthony Lowery continues the old political stranglehold left behind by Hoss Mack in Baldwin County. Will voters select Kim Earl and Carrie Hosier on March 5 to break this cycle?
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T11:41:58.712458Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  end-the-good-ole-boy-culture-in-baldwin-county:
+    refined_source: 9b67176d662fcaed4802744bc8e9dd5f5dc36f6b333ef1dd59c49e8a92130152
+    brief: |-
+      THE CONFLICT:
+      Hoss Mack was the driving force of the "good ole boy" system in Baldwin County, putting many Judges and Mayors in office. This system initially involved Lynn Stacy, who formed cohorts with Chris Elliot and Haygood (Catalyst).
+
+      THE DISCOVERY:
+      The political cabal, formerly Catalyst, now operates under Scott Boone Consulting, representing entrenched, long-term, and potentially corrupt political power in Baldwin County. Hoss Mack retired, leaving the sheriff reins to Anthony Lowery.
+
+      THE PIVOT:
+      Article 2 establishes that Anthony Lowery inherited not just the sheriff role from Hoss Mack but also the "responsibility to keep those good ole boy connections warm and fuzzy," confirming the claim in Article 1 that Lowery inherited Hoss Mack’s "horrible record" and operates within the established, unchangeable political mold.
+
+      KEY ENTITIES:
+      Hoss Mack
+      Anthony Lowery
+      Lynn Stacy
+      Chris Elliot
+      Haygood
+      Catalyst
+      Scott Boone Consulting
+      Matt Mckenzie
+      Baldwin County
+    llm_text: Hoss Mack built Baldwin County's "good ole boy" system using Lynn Stacy and Chris Elliot. Now, Anthony Lowery manages Scott Boone Consulting, inheriting Mack's "horrible record" and keeping the entrenched political mold strong.
+    text: Anthony Lowery now manages Scott Boone Consulting after taking over the local political machine from Hoss Mack. What does this transition mean for accountability inside Baldwin County?
+    widget_date: "2025-08-25"
+    generated_at: "2026-11-06T11:38:16.782714Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
+    refined_source: 988519b150969cede87831c5316a28cd9fa84a5ca0d48ff5c28d059cc9886cad
+    brief: |-
+      THE CONFLICT: Jack Burrell, a councilman in the City of Fairhope, was a key figure in the "Good Ole Boy Club" within Fairhope politics, leading to multiple questionable actions, conflicts of interest, and alleged ethical failures spanning at least 5 years ago (related to the waterfront project, Publix violations, and utility management).
+
+      THE DISCOVERY: The Widget Article reveals a historical pattern of entrenched, non-transparent, and ethically compromised local government in Fairhope, exemplified by Jack Burrell's actions and the failure of the council to implement district transparency or address citizen complaints (e.g., Library issue).
+
+      THE PIVOT: Article 2 establishes the deep-rooted history of problematic local politics and lack of accountability in Baldwin County (Fairhope), providing the necessary background context to understand the current election concerns in Article 1 regarding Sheriff BCSO (Hoss Mack/Lowery), suggesting that the political culture requires a "break the mold" change.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Councilman, Fairhope)
+      *   Mayor Wilson (Former Mayor, Fairhope)
+      *   Hoss Mack (Sheriff/Candidate)
+      *   Lowery (Sheriff/Candidate, clone of Hoss Mack)
+      *   Matt Mckenzie (Candidate for new sheriff)
+      *   Ronan McSharry (Arrested multiple times)
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Publix (Parker Road violations)
+      *   Waterfront Project (Cost ballooned from 6.3M to 10M)
+    llm_text: Jack Burrell’s "Good Ole Boy Club" actions, including the waterfront project ballooning from $6.3M to $10M, reveal a 5-year pattern of Fairhope corruption. Understand this Baldwin County history before voting on the Sheriff races featuring Hoss Mack and Lowery.
+    text: Jack Burrell watched a waterfront project balloon from 6.3 million to 10 million dollars in Fairhope. How does this five-year pattern of spending connect to the current Sheriff races?
+    widget_date: "2025-08-24"
+    generated_at: "2026-11-06T11:42:54.088000Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualified-daphne-district-6-city-council:
+    refined_source: c975b0f8fe4491e047bc1afe57e6310cb9a8fc2acbc0d5523772b5f97746c373
+    brief: |-
+      THE CONFLICT:
+      *   Daphne Mayor and council were historically "stone deaf" to issues in Lake Forest (second largest subdivision in Alabama).
+      *   Key past issues include flooding and the conversion of park property into commercial property.
+
+      THE DISCOVERY:
+      *   Dr. Byrian Ramsey, President of the Lake Forest property owners association, was a highly qualified candidate for Daphne District 6 City Council.
+      *   Ramsey sought to challenge the local "good ole boys" mold with his qualifications (Doctor of Management in Organizational Leadership in Information Systems and Technology).
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of local government complacency and entrenched "good ole boys" culture in Daphne.
+      *   Article 1 applies this same critique to Baldwin County, arguing that the Sheriff's office is trapped in the same mold (Hoss Mack and Lowery's "horrible record"), necessitating a change (Matt Mckenzie).
+
+      KEY ENTITIES:
+      *   Hoss Mack
+      *   Lowery
+      *   Matt Mckenzie
+      *   Dr. Byrian Ramsey
+      *   Daphne
+      *   Lake Forest
+      *   BCSO
+      *   City Council District 6
+      *   Baldwin County
+    llm_text: Dr. Byrian Ramsey challenges Daphne's "stone deaf" City Council and Lake Forest complacency. This entrenched "good ole boys" culture extends to Baldwin County, where Matt Mckenzie critiques the BCSO's record under Hoss Mack and Lowery.
+    text: Dr. Byrian Ramsey is challenging the Daphne City Council and Lake Forest leadership. How does this entrenched local culture connect to Matt Mckenzie's criticism of the Sheriff's Office?
+    widget_date: "2025-08-23"
+    generated_at: "2026-11-06T11:44:04.301363Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-law-enforcement-narrative-2:
+    refined_source: e28f86f89e8991e433507d31064d503b8995f7770df7d05cc15a5e82f9d02a41
     brief: |-
       THE CONFLICT:
       *   Death of a beloved Bay Minette Community member following a 10am traffic stop one month ago.
@@ -33,10 +184,12 @@ hooks:
       *   Forest Bullin
       *   Michael Walker (Baldwin County Sheriff's Deputy)
     llm_text: The recent Bay Minette death following a traffic stop demands answers from Sheriff Huey Mack's unit. Scott Johnson documented a long history of cover-ups, proving these systemic issues span generations, not just the current administration.
+    text: A traffic stop in Bay Minette ended in a death that demands answers from Sheriff Huey Mack's unit. Scott Johnson documented a long history of cover-ups in this department.
     widget_date: "2025-09-10"
     generated_at: "2026-11-06T11:37:17.808783Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-ole-boys-lose-front-teeth:
+    refined_source: 31c9abfc12b231baa282b6d8db6ee1d8dd9e38f3ecbc33db7473e654ba0783f0
     brief: |-
       THE CONFLICT:
       *   Local Baldwin County elections showed a decline in 'good ole boy' (GOB) culture.
@@ -68,146 +221,7 @@ hooks:
       *   Spanish Fort
       *   Robertsdale
     llm_text: Baldwin County is actively breaking the mold of 'good ole boy' corruption, proving the GOB culture is finally gone. Bob Willis lost to Joshua Brown, and Brad Bass won in Spanish Fort, signaling a major shift toward accountable government.
+    text: Voters just removed Bob Willis and elected Joshua Brown and Brad Bass in Spanish Fort. Does this political shift finally break the grip of old-boy politics in Baldwin County?
     widget_date: "2025-08-27"
     generated_at: "2026-11-06T11:39:23.038592Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  po-po-hoss-mack-ccuo:
-    brief: |-
-      THE CONFLICT:
-      *   Wrongful conviction of Murray Lawrence Jr.
-      *   Incident date related to evidence: May 17, 2004.
-      *   Involved parties in 2004 cover-up: Hoss Mack, Mack's father, Whetstone, Wilters, Anthony Lowery.
-      *   Systemic issue: Baldwin County Sheriff Office (BCSO) operated as a "good ole boy club" involving sexual misconduct, missing evidence, and incompetent investigations.
-
-      THE DISCOVERY:
-      *   A second autopsy report indicated Whetstone, Wilters, and Mack should have known it was performed prior to Lawrence’s trial.
-      *   Hoss Mack, Wilters, and Whetstone hid evidence that would have proven Murray Lawrence Jr. innocent.
-      *   Wilters wrote and signed the order allowing the second autopsy.
-
-      THE PIVOT:
-      *   Article 2 establishes Sheriff Hoss Mack's historical pattern as a "Chief Cover up officer" (CCUO) involving evidence mishandling and systemic corruption.
-      *   Article 1 connects Anthony Lowery to this history, stating he is a "clone" of Hoss Mack and has rightfully inherited Mack’s "horrible record," making him part of the established corrupt system rather than a change.
-
-      KEY ENTITIES:
-      *   Hoss Mack
-      *   Anthony Lowery
-      *   Matt Mckenzie
-      *   Murray Lawrence Jr.
-      *   Whetstone
-      *   Wilters
-      *   Jon Grey
-      *   Baldwin County Sheriff Office (BCSO)
-      *   Alabama Department of Forensic Sciences
-      *   Baldwin County School Board
-      *   Ventures 68
-    llm_text: Hoss Mack, Whetstone, and Wilters orchestrated the 2004 BCSO cover-up that wrongly convicted Murray Lawrence Jr. Anthony Lowery inherits this "horrible record," confirming the systemic corruption within the Sheriff’s Office never changed for Baldwin County.
-    widget_date: "2024-06-15"
-    generated_at: "2026-11-06T11:40:40.200855Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-march-5th:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County has been held under the control of the "Good Ole Boys" (GOB) cabal for decades, lacking accountability and transparency.
-      *   Sheriff Hoss Mack is identified as a central figure in this GOB stranglehold, influencing Mayors (e.g., Fairhope) and school system leaders (Eddie and Gray/Tyler).
-      *   The cycle is perpetuated by organizations like Catalyst.
-
-      THE DISCOVERY:
-      *   Article 2 revealed that the GOB control spans key positions, including the Circuit Clerk (held for years by Catalyst) and the Sheriff's office.
-      *   Article 2 called for voters to reject Catalyst candidates and vote for alternatives like Kim Earl and Carrie Hosier on March 5, 2024.
-
-      THE PIVOT:
-      *   Article 2 established the systemic corruption of the GOB/Hoss Mack era in Baldwin County.
-      *   Article 1 confirms that Lowery is a clone of Hoss Mack and has inherited his "horrible record," demonstrating that the election is not about new change but the continuation of the entrenched, flawed system identified in Article 2.
-
-      KEY ENTITIES:
-      *   Hoss Mack (Sheriff)
-      *   Lowery (Candidate/Clone)
-      *   Matt Mckenzie (Proposed alternative candidate)
-      *   Kim Earl (Circuit Clerk candidate)
-      *   Carrie Hosier (Board of Education candidate)
-      *   Andrea Lindsey (Catalyst candidate/party switcher)
-      *   Eddie Tyler / John Gray (School system leaders)
-      *   Fairhope (Mayor cited as charter member of the Sheriff's cabal)
-      *   Catalyst (Organization controlling GOB cycle)
-      *   Baldwin County (Location)
-      *   March 5, 2024 (Election date)
-    llm_text: Hoss Mack's clone, Lowery, continues the GOB stranglehold in Baldwin County. Vote Kim Earl and Carrie Hosier on March 5 to finally break the Catalyst cycle.
-    widget_date: "2024-03-01"
-    generated_at: "2026-11-06T11:41:58.712458Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  end-the-good-ole-boy-culture-in-baldwin-county:
-    brief: |-
-      THE CONFLICT:
-      Hoss Mack was the driving force of the "good ole boy" system in Baldwin County, putting many Judges and Mayors in office. This system initially involved Lynn Stacy, who formed cohorts with Chris Elliot and Haygood (Catalyst).
-
-      THE DISCOVERY:
-      The political cabal, formerly Catalyst, now operates under Scott Boone Consulting, representing entrenched, long-term, and potentially corrupt political power in Baldwin County. Hoss Mack retired, leaving the sheriff reins to Anthony Lowery.
-
-      THE PIVOT:
-      Article 2 establishes that Anthony Lowery inherited not just the sheriff role from Hoss Mack but also the "responsibility to keep those good ole boy connections warm and fuzzy," confirming the claim in Article 1 that Lowery inherited Hoss Mack’s "horrible record" and operates within the established, unchangeable political mold.
-
-      KEY ENTITIES:
-      Hoss Mack
-      Anthony Lowery
-      Lynn Stacy
-      Chris Elliot
-      Haygood
-      Catalyst
-      Scott Boone Consulting
-      Matt Mckenzie
-      Baldwin County
-    llm_text: Hoss Mack built Baldwin County's "good ole boy" system using Lynn Stacy and Chris Elliot. Now, Anthony Lowery manages Scott Boone Consulting, inheriting Mack's "horrible record" and keeping the entrenched political mold strong.
-    widget_date: "2025-08-25"
-    generated_at: "2026-11-06T11:38:16.782714Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
-    brief: |-
-      THE CONFLICT: Jack Burrell, a councilman in the City of Fairhope, was a key figure in the "Good Ole Boy Club" within Fairhope politics, leading to multiple questionable actions, conflicts of interest, and alleged ethical failures spanning at least 5 years ago (related to the waterfront project, Publix violations, and utility management).
-
-      THE DISCOVERY: The Widget Article reveals a historical pattern of entrenched, non-transparent, and ethically compromised local government in Fairhope, exemplified by Jack Burrell's actions and the failure of the council to implement district transparency or address citizen complaints (e.g., Library issue).
-
-      THE PIVOT: Article 2 establishes the deep-rooted history of problematic local politics and lack of accountability in Baldwin County (Fairhope), providing the necessary background context to understand the current election concerns in Article 1 regarding Sheriff BCSO (Hoss Mack/Lowery), suggesting that the political culture requires a "break the mold" change.
-
-      KEY ENTITIES:
-      *   Jack Burrell (Councilman, Fairhope)
-      *   Mayor Wilson (Former Mayor, Fairhope)
-      *   Hoss Mack (Sheriff/Candidate)
-      *   Lowery (Sheriff/Candidate, clone of Hoss Mack)
-      *   Matt Mckenzie (Candidate for new sheriff)
-      *   Ronan McSharry (Arrested multiple times)
-      *   Fairhope City Council
-      *   Baldwin County
-      *   Publix (Parker Road violations)
-      *   Waterfront Project (Cost ballooned from 6.3M to 10M)
-    llm_text: Jack Burrell’s "Good Ole Boy Club" actions, including the waterfront project ballooning from $6.3M to $10M, reveal a 5-year pattern of Fairhope corruption. Understand this Baldwin County history before voting on the Sheriff races featuring Hoss Mack and Lowery.
-    widget_date: "2025-08-24"
-    generated_at: "2026-11-06T11:42:54.088000Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  qualified-daphne-district-6-city-council:
-    brief: |-
-      THE CONFLICT:
-      *   Daphne Mayor and council were historically "stone deaf" to issues in Lake Forest (second largest subdivision in Alabama).
-      *   Key past issues include flooding and the conversion of park property into commercial property.
-
-      THE DISCOVERY:
-      *   Dr. Byrian Ramsey, President of the Lake Forest property owners association, was a highly qualified candidate for Daphne District 6 City Council.
-      *   Ramsey sought to challenge the local "good ole boys" mold with his qualifications (Doctor of Management in Organizational Leadership in Information Systems and Technology).
-
-      THE PIVOT:
-      *   Article 2 establishes a historical pattern of local government complacency and entrenched "good ole boys" culture in Daphne.
-      *   Article 1 applies this same critique to Baldwin County, arguing that the Sheriff's office is trapped in the same mold (Hoss Mack and Lowery's "horrible record"), necessitating a change (Matt Mckenzie).
-
-      KEY ENTITIES:
-      *   Hoss Mack
-      *   Lowery
-      *   Matt Mckenzie
-      *   Dr. Byrian Ramsey
-      *   Daphne
-      *   Lake Forest
-      *   BCSO
-      *   City Council District 6
-      *   Baldwin County
-    llm_text: Dr. Byrian Ramsey challenges Daphne's "stone deaf" City Council and Lake Forest complacency. This entrenched "good ole boys" culture extends to Baldwin County, where Matt Mckenzie critiques the BCSO's record under Hoss Mack and Lowery.
-    widget_date: "2025-08-23"
-    generated_at: "2026-11-06T11:44:04.301363Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

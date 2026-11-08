@@ -1,0 +1,131 @@
+metadata:
+  generated_at: "2026-11-07T19:36:03.923350Z"
+  generator_version: 1.0.0
+  post_slug: shelter-in-place
+  main_date: "2020-04-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  danger-zone:
+    brief: |-
+      THE CONFLICT:
+      - Main Article “SHELTER IN PLACE” reports: Stay home.
+      - Main Article reports: Since the report below was posted, in less than 12 hours, number of cases rose by 136; deaths at 36.
+      - Main Article reports: The Governor resisted giving the statewide order for “stay at home” or “Shelter in Place.”
+      - Main Article reports: The Governor’s decision is based on the people pulling her strings.
+      - Main Article reports: The author predicts that even the puppet masters will have to accept the inevitable and join the rest of the United States and stay home for a couple of weeks to reevaluate the situation.
+      - Main Article reports: News Flash: You can catch the coronavirus in Church or at the Beach.
+      - Main Article reports: In Baldwin County, each of the 14 municipalities is handling the virus independently.
+      - Main Article reports: Bay Minette does very little and has a wait-and-see approach.
+      - Main Article reports: Orange Beach has allowed large crowds on islands.
+      - Main Article reports: Fairhope’s Mayor has written the Governor and implored her to institute a statewide “Shelter in Place,” while other municipalities remain mute.
+      - Main Article reports: The author asks: Where is the PLAN? Where are the tests? Where are the ventilators?
+      - Main Article reports: JUST ANNOUNCED ALABAMA WILL ORDER “Shelter in Place” Saturday. FINALLY, now.
+      - Main Article reports: Cooperate. The life you save may be your own.
+
+      THE DISCOVERY:
+      - Widget Article “DANGER ZONE” reports: Highway 98 and Parker Road are becoming more dangerous with every passing day.
+      - Widget Article reports: You can thank the CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and property owner Angelo Corte, a CATALYST supporter.
+      - Widget Article reports: The below listed complaint affects every motorist traveling through the intersection.
+      - Widget Article reports: Please read this, it is what happens when you have politicians and developers in the same bed.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 showed/revealed local danger at Highway 98 and Parker Road.
+      - Article 2 tied local political/development actors: CATALYST Fairhope City Council, former Fairhope Mayor Can’t, Angelo Corte, CATALYST supporter.
+      - Article 2 is the smoking gun/key context for Article 1 because it documents local political/developer alignment before/around the pandemic response.
+      - Article 1 conflict centers on Governor resistance, Baldwin County municipalities, Fairhope’s Mayor, Bay Minette, Orange Beach, and Alabama statewide order.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Baldwin County municipalities
+      - Bay Minette
+      - Orange Beach
+      - Fairhope
+      - Fairhope City Council
+      - Fairhope’s Mayor
+      - Governor
+      - Alabama
+      - CATALYST Fairhope City Council
+      - former Fairhope Mayor Can’t
+      - Angelo Corte
+      - CATALYST supporter
+      - Highway 98
+      - Parker Road
+      - motorists
+      - “Shelter in Place”
+      - “Stay at home”
+      - coronavirus cases
+      - deaths
+      - tests
+      - ventilators
+      - Church
+      - Beach
+      - Lowery
+      - Wilters
+    llm_text: Highway 98 and Parker Road are becoming more dangerous, and the Fairhope City Council, former Mayor Can’t, and Angelo Corte face blame. As the Governor resists a statewide shelter-in-place and cases and deaths rise, readers should care.
+    text: Highway 98 and Parker Road are becoming more dangerous, and the Fairhope City Council, former Mayor Can’t, and Angelo Corte face blame. As the Governor resists a statewide shelter-in-place and cases and deaths rise, readers should care.
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T19:34:25.889395Z"
+    model_name: recursive/flint-v1.0:free
+  survey:
+    brief: "THE CONFLICT: \n- In the past (leading up to June 2019 and during budget processes), the Fairhope City Council (referred to as the \"CATALYST council\") engaged in political obstruction against the Mayor.\n- The Council elected, against public outcry, to purchase 2.65 million dollars worth of farmland for recreation. \n- Within weeks of the purchase and with zero money allocated for development, the Council declared the property \"surplus\" and leased it out for farming at $9,000 a year, an amount that barely covers the interest (dubbed a \"Good ole Boy deal\").\n- Meanwhile, the city paid its city debt in full in June 2019 under the Mayor, Superintendents, and staff.\n\nTHE DISCOVERY: \n- Article 2 (the widget article covering the State of the City report) shows that despite council obstruction, the city achieved major financial milestones, including paying off Fairhope's city debt in full by June 2019 and maintaining high employee morale.\n- It also revealed the $6.2 million investment plan for the \"Fairhope Working Waterfront and Green Space Project\" to promote tourism and recreational fishing.\n\nTHE PIVOT: \n- Article 2 serves as the key background context showing a persistent pattern of dysfunctional, uncoordinated leadership and questionable financial decisions by local entities (specifically the Fairhope City Council's reckless land acquisition). \n- This historical local government friction and lack of a unified plan directly mirror the disjointed, chaotic handling of the COVID-19 pandemic described in Article 1, where all 14 municipalities in Baldwin County acted independently and failed to cooperate.\n\nKEY ENTITIES: \n- Fairhope Mayor\n- Fairhope City Council (The \"CATALYST council\")\n- Baldwin County municipalities (including Bay Minette and Orange Beach)\n- Governor of Alabama"
+    llm_text: While the Fairhope City Council pushed through a shady $2.65 million farmland deal, the Mayor's administration eliminated city debt by June 2019. Read how this local government dysfunction mirrors Baldwin County's chaotic COVID response.
+    text: While the Fairhope City Council pushed through a shady $2.65 million farmland deal, the Mayor's administration eliminated city debt by June 2019. Read how this local government dysfunction mirrors Baldwin County's chaotic COVID response.
+    widget_date: "2020-02-08"
+    generated_at: "2026-11-07T19:34:02.463574Z"
+    model_name: gemini-3.5-flash-lite
+  bar-stool-continued:
+    refined_source: 6aa54a4035da8838205373acf58c94d4f385017fa7d07a2af7ed0045fd6375b7
+    brief: |-
+      THE CONFLICT: Assault case involving McSherry, scheduled for Monday January 27 (15 months prior to the second article publication).
+      THE DISCOVERY: Article 2 reported on the failure of Fairhope Municipal Court and City Attorney to resolve McSherry's case within 6 months, leading to the case moving to Circuit Court.
+      THE PIVOT: Article 2 reveals local legal/governmental inertia and potential obstruction (Fairhope Municipal Court/City Attorney involvement) which sets a precedent for the delayed and resistant action (Governor's hesitation) regarding the statewide "Shelter in Place" order mentioned in Article 1.
+      KEY ENTITIES: McSherry, James Pittman, Fairhope Municipal Court, City Attorney, Governor, Baldwin County, Fairhope's Mayor, Bay Minette, Orange Beach.
+    llm_text: McSherry's assault case stalled for 15 months because Fairhope Municipal Court and the City Attorney failed to act. See how this local legal inertia mirrors Governor hesitation on the statewide "Shelter in Place" order.
+    text: Fairhope Municipal Court and the City Attorney stalled the McSherry assault case for 15 months. This local legal delay mirrors the Governor's hesitation on statewide emergency orders.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T19:34:08.464539Z"
+    model_name: plugsky-lite
+  april-fool:
+    refined_source: 4df2d343812c0424e586460f921390fef8910c15154e7b6e254203bef75f6f18
+    brief: |-
+      THE CONFLICT: Alabama faced a crisis of public health and trust, marked by citizens participating in risk (April Fool’s Day) and a lack of belief in science, driven by political corruption and apathy.
+      THE DISCOVERY: Alabama is nationally ranked first in political corruption, and dead last in health, education, and job opportunities.
+      THE PIVOT: This systemic lack of leadership and citizen apathy (identified in the older article) explains the Governor's initial resistance to a statewide "Shelter in Place" order and the fragmented, independent handling of the virus by the 14 municipalities in Baldwin County.
+      KEY ENTITIES: Alabama; Governor; Baldwin County; Bay Minette; Orange Beach; Fairhope; Small Business Administration (SBA); 14 municipalities; $10,000.00 (SBA loan); Saturday (day statewide order was finally announced).
+    llm_text: Alabama ranks first in political corruption and dead last in health, explaining the Governor’s initial resistance to a statewide "Shelter in Place" order. See how 14 Baldwin County municipalities, including Bay Minette and Orange Beach, used $10k SBA loans to navigate the crisis before the Saturday statewide announcement.
+    text: Alabama ranks first in political corruption and dead last in health. Fourteen Baldwin County municipalities secured $10,000 SBA loans before the Governor announced a statewide shutdown.
+    widget_date: "2020-04-01"
+    generated_at: "2026-11-07T19:34:45.656424Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lost-opportunity:
+    refined_source: 1758dfd4bfe5c164c6fc9d1d2284860582e5fc75593015db76c6201176cde52e
+    brief: |-
+      THE CONFLICT: Councilman Burrell Boone and "the three B’s" insisted on purchasing recreation land in Fairhope next to the airport, leading to a budget crisis, prior to the August 25th municipal election.
+      THE DISCOVERY: Fairhope had to cut $2.6 million from its city budget (staff, police, fire, etc.) to compensate for anticipated COVD-19 income loss, stemming from the initial land purchase decision.
+      THE PIVOT: The financial instability caused by the previous council (Article 2) exists concurrently with the public health crisis (Article 1), forcing Fairhope's Mayor to implore the Governor for a statewide "Shelter in Place" order, highlighting local municipal weakness during a state-level health emergency.
+      KEY ENTITIES: Fairhope, Councilman Burrell Boone, $2.6 million, $9,000, Governor, Alabama, Baldwin County, Fairhope's Mayor, Bay Minette, Orange Beach, Saturday (when Alabama ordered "Shelter in Place").
+    llm_text: Councilman Burrell Boone’s land purchase forced Fairhope to cut $2.6 million from city services. This budget crisis complicates the COVID-19 emergency, forcing the Mayor to plead with the Governor for a state-wide "Shelter in Place" order.
+    text: Jack Burrell and Kevin Boone forced Fairhope to cut $2.6 million from city services for land deals. This budget crisis forced the Mayor to plead with Governor Kay Ivey for emergency orders.
+    widget_date: "2020-03-26"
+    generated_at: "2026-11-07T19:35:47.023734Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  economic-virus:
+    refined_source: 6b1623433877995cbdba37c54f5d237f72470b4eeba7cee84f511c75f88e2a93
+    brief: |-
+      THE CONFLICT: Alabama is dead last in response time for COVD-19; Airlines and Cruise Ships require tens of Billions of dollars for bailout.
+      THE DISCOVERY: Alabama's Governor resisted a statewide "Shelter in Place" order despite rising cases (136 cases, 36 deaths in <12 hours) in Baldwin County.
+      THE PIVOT: Article 2 establishes the widespread economic threat and initial lack of coordinated action, contextualizing the urgency of the "Shelter in Place" announcement in Article 1.
+      KEY ENTITIES: Alabama Governor; Baldwin County; Bay Minette; Orange Beach; Fairhope's Mayor; COVD-19; Airlines; Cruise Ships
+    llm_text: Alabama Governor resisted a "Shelter in Place" order while Baldwin County saw 36 COVID-19 deaths, leaving the state dead last in response time. See how this inaction jeopardizes billions needed by Alabama's airlines and cruise ships.
+    text: Governor Kay Ivey delayed a shutdown order while Baldwin County recorded 36 COVID-19 deaths. This state inaction threatens vital relief funds for Alabama airlines and cruise ships.
+    widget_date: "2020-03-21"
+    generated_at: "2026-11-07T19:34:00.590646Z"
+    model_name: plugsky-lite
+  catalyst-2:
+    brief: "THE CONFLICT: In the early days of the COVID-19 pandemic (under 12 hours before a reported jump to 136 cases and 36 deaths), the Governor resisted issuing a statewide \"shelter in place\" order due to external political influence (\"puppet masters\"). Baldwin County's 14 municipalities handled the crisis independently and disjointedly: Bay Minette took a \"wait and see\" approach, Orange Beach allowed large crowds on islands, and Fairhope Mayor (imploring the Governor) pushed for a statewide mandate while other local leaders remained silent amid shortages of tests and ventilators. \n\nTHE DISCOVERY: Article 2 (CATALYST) serves as the historical backdrop showing the initial decentralized chaos, lack of coordinated planning, and municipal friction across Baldwin County right before state intervention.\n\nTHE PIVOT: Article 2 provides the critical context of local government paralysis—specifically contrasting Orange Beach's lax crowd control and Bay Minette's inaction against Fairhope's isolated plea—which explains why the Governor's eventual Saturday \"Shelter in Place\" mandate was urgently necessary despite initial resistance.\n\nKEY ENTITIES:\n- The Governor of Alabama\n- Baldwin County municipalities (Bay Minette, Orange Beach, Fairhope)\n- Mayor of Fairhope"
+    llm_text: When COVID hit, Alabama's Governor delayed a lockdown while Baldwin County's mayors fractured. See why Fairhope's frantic plea forced the state's hand.
+    text: When COVID hit, Alabama's Governor delayed a lockdown while Baldwin County's mayors fractured. See why Fairhope's frantic plea forced the state's hand.
+    widget_date: "2020-03-13"
+    generated_at: "2026-11-07T19:33:56.534986Z"
+    model_name: gemini-3.5-flash-lite

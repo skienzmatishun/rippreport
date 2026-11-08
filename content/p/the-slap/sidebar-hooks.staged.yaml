@@ -5,30 +5,8 @@ metadata:
   main_date: "2022-04-05"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT: 2022 Oscars incident (LA); rising violence reported in Mobile, Alabama; Panama City; and Miami; US House passed the MORE ACT (removing marijuana from Federal Schedule of Controlled Substances); Ladd Peebles Stadium Shooter captured in St. Augustine, Florida.
-
-      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis regarding the veterans’ board; a true crime story revealed shady ties between a hospice business and a judge in Clarke County, Alabama; a court case limits the ability to sue over a wrong SWAT raid.
-
-      THE PIVOT: The discovery of systemic corruption and lack of police accountability (SWAT raid/Clarke County) in Alabama provides context to the broader pattern of political maneuvering and alleged violence, highlighting Alabama's "good old boy" system amid the political conflict against Joe Biden.
-
-      KEY ENTITIES: Joe Biden; Kamala Harris; Kay Ivey; Admiral Kent Davis; Alabama Republicans; Lagniappe Mobile Newspaper; Clarke County.
-    llm_text: Kay Ivey fired Admiral Kent Davis, but systemic corruption runs deeper in Alabama. A Clarke County judge tied to a hospice business and a wrong SWAT raid exposes the state's "good old boy" system amidst political conflict.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-07T00:58:52.951281Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: 2022 Oscars incident in LA involving one man slapping another.
-      THE DISCOVERY: Companies with political ties received million-dollar contracts; the Baldwin County District Attorney building construction bid was awarded, demonstrating corruption and lack of accountability.
-      THE PIVOT: Article 2 provides specific evidence of institutional corruption and political failure in Alabama (e.g., DA building contracts, insider scholarships) which contextualizes the broader political tension and rising violence noted in Article 1.
-      KEY ENTITIES: Baldwin County District Attorney, Alabama leaders, Joe Biden, Lagniappe Mobile Newspaper
-    llm_text: The 2022 Oscars slap highlights deeper political tensions, but the real story is institutional corruption in Alabama. Baldwin County District Attorney building bids show how political ties reward companies, not accountability.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-07T01:01:01.888996Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 08b755b9d0146d4e484a7f7744604cb7d970300b27f544432840945ead9a5441
     brief: |-
       THE CONFLICT:
       *   2022 Oscars incident (slap)
@@ -53,20 +31,12 @@ hooks:
       *   Alabama Court of Civil Appeals
       *   2022 Oscars
     llm_text: 'The Alabama Court of Civil Appeals decision for Murray Lawrence Jr. confirms a Brady Violation: Sheriff Mack''s father ordered 2005 autopsies that the defense never received. This evidence exposes systemic corruption in Baldwin County, linking local justice failures to Alabama''s broader political crisis.'
+    text: The Alabama Court of Civil Appeals confirmed a Brady violation in the Murray Lawrence Jr. case. Did Sheriff Mack's father order hidden autopsies that exposed justice failures in Baldwin County?
     widget_date: "2024-12-13"
     generated_at: "2026-11-07T01:02:00.413123Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: 2022 Oscars incident in LA ('The Slap'); Ladd Peebles Stadium Shooter captured in St. Augustine, Florida (this week).
-      THE DISCOVERY: Podcast report details President Biden's pardon of his son Hunter; allegations of misconduct against various officials; discussion of First Amendment rights regarding wrongful arrests exposing local school district corruption.
-      THE PIVOT: Article 2 provides context on executive misconduct (Biden pardon) and systemic government failures (COVID-19 response) occurring concurrently with the rising violence and political tension detailed in Article 1 (Oscars/Alabama political divide).
-      KEY ENTITIES: Joe Biden; Hunter Biden; Alabama Republicans; Lagniappe Mobile Newspaper; St. Augustine, Florida; MORE ACT
-    llm_text: Biden pardons Hunter while violent incidents rock St. Augustine and political tension flares after the 2022 Oscars incident. See how executive misconduct and local corruption threaten First Amendment rights across America.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-07T01:02:57.689621Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 31e96f57688f8b6f393b5dacc9ebb0effe57aa30f67b5345cfd42747a3d36465
     brief: |-
       THE CONFLICT:
       * 2022 Oscars incident in LA involving violence (slap)
@@ -91,10 +61,12 @@ hooks:
       * St. Augustine, Florida
       * Mobile, Alabama
     llm_text: The 2022 Oscars violence and Mobile, Alabama crime signal deep regional instability. Backstory Podcast No. 186 reveals how Alabama Republicans challenge Joe Biden over rural hospital closures and proposed constitutional amendments.
+    text: The 2022 Oscars violence and Mobile crime point to regional instability. How do Alabama Republicans challenge Joe Biden over rural hospital closures?
     widget_date: "2024-11-27"
     generated_at: "2026-11-07T01:00:03.073923Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: dab08877537873f13a11697233f61d1bb3a3f3d5a684a4b7a6df9588117990ba
     brief: |-
       THE CONFLICT:
       *   2022 Oscars incident (slap)
@@ -123,36 +95,24 @@ hooks:
       *   Governor Ivey
       *   Baldwin County
     llm_text: Forget the 2022 Oscars slap and stadium shooter news. OJ French Jr.'s family is suing the City of Bay Minette over BMPD Officer Brandon Thompson's killing; Mayor Bob Wills and Andy Ruten fight to review the crucial bodycam footage.
+    text: The family of OJ French Jr. is suing Bay Minette over Officer Brandon Thompson's actions. Will Mayor Bob Wills and Andy Ruten allow a review of the critical body camera footage?
     widget_date: "2024-10-18"
     generated_at: "2026-11-07T01:04:07.814165Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-pete-rose:
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 790d14529166ece87fe3cc956b65774d66d5f3667b55cac192820bd4a773fbc9
     brief: |-
-      THE CONFLICT:
-      *   2022 Oscars incident in Los Angeles (Main Article context).
-      *   Ladd Peebles Stadium Shooter captured in St. Augustine, Florida (Main Article).
-      *   Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama (May 27, 2022; body recovered May 29, 2022) (Widget Article).
-
-      THE DISCOVERY:
-      *   Widget Article is newer and currently offers a reward for information regarding the unresolved mystery of Thomas Daniel "Danny" Williams Jr’s death.
-      *   The Widget Article also notes the passing of legendary baseball player Pete Rose.
-
-      THE PIVOT:
-      *   The Widget Article provides a specific, ongoing, local unresolved violent crime (Williams Jr’s death in Orange Beach, AL) that serves as a concrete example supporting the Main Article’s broad claim that "violence is on the rise" in locations like Mobile, Alabama.
-
-      KEY ENTITIES:
-      *   Thomas Daniel "Danny" Williams Jr
-      *   Orange Beach, Alabama
-      *   Pete Rose
-      *   St. Augustine, Florida
-      *   Ladd Peebles Stadium
-      *   Katie Britt
-      *   Adm. Kent Davis
-    llm_text: Thomas Daniel "Danny" Williams Jr's death in Orange Beach, Alabama, is still unsolved, providing a clear example of rising local violence. Do you have information? The Ripp Report offers a reward for details on this ongoing community mystery.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-07T01:05:11.789904Z"
+      THE CONFLICT: 2022 Oscars incident in LA ('The Slap'); Ladd Peebles Stadium Shooter captured in St. Augustine, Florida (this week).
+      THE DISCOVERY: Podcast report details President Biden's pardon of his son Hunter; allegations of misconduct against various officials; discussion of First Amendment rights regarding wrongful arrests exposing local school district corruption.
+      THE PIVOT: Article 2 provides context on executive misconduct (Biden pardon) and systemic government failures (COVID-19 response) occurring concurrently with the rising violence and political tension detailed in Article 1 (Oscars/Alabama political divide).
+      KEY ENTITIES: Joe Biden; Hunter Biden; Alabama Republicans; Lagniappe Mobile Newspaper; St. Augustine, Florida; MORE ACT
+    llm_text: Biden pardons Hunter while violent incidents rock St. Augustine and political tension flares after the 2022 Oscars incident. See how executive misconduct and local corruption threaten First Amendment rights across America.
+    text: President Biden pardoned Hunter Biden as political tensions flared after the 2022 Oscars. Do executive misconduct and local corruption threaten First Amendment rights?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T01:02:57.689621Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: 1c0f69a126a82e38f561b4cca8c582c963a63cc7530a0aca543f5c2f7796be72
     brief: |-
       THE CONFLICT:
       *   2022 Oscars incident involving violence in Los Angeles.
@@ -163,7 +123,7 @@ hooks:
       *   Sylacauga, Alabama, is the focus of the "Haitian Immigrant Eating Cats" debate.
       *   Former Alabama Veterans Affairs Commissioner Kent David resigned due to a whistleblower Ethics Complaint.
       *   Donald Trump engaged in a food fight with Taylor Swift.
-      *   An Oswaldian-type figure, allegedly a freedom fighter in Ukraine/native of North Carolina, was avoided in a second assassination attempt.
+      *   An Oswaldian-type figure, a freedom fighter in Ukraine/native of North Carolina, was avoided in a second assassination attempt.
       *   Brandon Moseley (BamaCarry Inc, Tuscaloosa) discussed five firearms related bills for the 2025 session.
 
       THE PIVOT:
@@ -181,10 +141,12 @@ hooks:
       *   Russell Brand
       *   Lagniappe Mobile Newspaper
     llm_text: Kent David resigned from Alabama Veterans Affairs amid an Ethics Complaint. Brandon Moseley now details specific 2025 firearms legislation in Sylacauga, revealing how local politics drives national debate.
+    text: Kent Davis resigned from Alabama Veterans Affairs after an ethics complaint. How does Brandon Moseley's report on firearms legislation in Sylacauga drive national debates?
     widget_date: "2024-09-20"
     generated_at: "2026-11-07T01:06:41.733110Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: 12a04cf3140bed2db29eb04ed909c9beac3f3c4fa519d2c0a0cc43382a25a2fc
     brief: |-
       THE CONFLICT:
       *   2022 Oscars incident (slap) in Los Angeles.
@@ -216,10 +178,12 @@ hooks:
       *   2022 Oscars (Los Angeles)
       *   Ladd Peebles Stadium (Mobile, Alabama)
     llm_text: Sheriff Mack has only one week left in Baldwin County, Alabama. How will the Alabama Governor select a replacement amidst national shifts like VP Kamala Harris's rise and Candidate Trump consuming political oxygen?
+    text: Sheriff Mack has only one week left in office in Baldwin County. How will Governor Kay Ivey pick a replacement while national campaigns take center stage?
     widget_date: "2024-08-24"
     generated_at: "2026-11-07T01:07:57.198686Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 11198768b74ff79deda08e8a335891c03c5edddadf69ad89f810a2a44d9e2437
     brief: |-
       THE CONFLICT:
       2022 Oscars incident occurred in LA.
@@ -241,6 +205,62 @@ hooks:
       Governor Ivey
       City of Bay Minette
     llm_text: OJ French Jr.'s family sued the City of Bay Minette and Officer Brandon Thompson. They allege Thompson lacked probable cause when shooting French Jr. over a taser, offering a concrete look at localized police misconduct and the fight for justice.
+    text: The family of OJ French Jr. sued the City of Bay Minette and Officer Brandon Thompson. Did Thompson lack probable cause when he shot French during a taser struggle?
     widget_date: "2024-08-02"
     generated_at: "2026-11-07T01:08:59.258158Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 488c24d0e4b49f65de4f2062d479958999510c782ab649dec6a8f78f2d3db9b2
+    brief: |-
+      THE CONFLICT: 2022 Oscars incident (LA); rising violence reported in Mobile, Alabama; Panama City; and Miami; US House passed the MORE ACT (removing marijuana from Federal Schedule of Controlled Substances); Ladd Peebles Stadium Shooter captured in St. Augustine, Florida.
+
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis regarding the veterans’ board; a true crime story revealed shady ties between a hospice business and a judge in Clarke County, Alabama; a court case limits the ability to sue over a wrong SWAT raid.
+
+      THE PIVOT: The discovery of systemic corruption and lack of police accountability (SWAT raid/Clarke County) in Alabama provides context to the broader pattern of political maneuvering and alleged violence, highlighting Alabama's "good old boy" system amid the political conflict against Joe Biden.
+
+      KEY ENTITIES: Joe Biden; Kamala Harris; Kay Ivey; Admiral Kent Davis; Alabama Republicans; Lagniappe Mobile Newspaper; Clarke County.
+    llm_text: Kay Ivey fired Admiral Kent Davis, but systemic corruption runs deeper in Alabama. A Clarke County judge tied to a hospice business and a wrong SWAT raid exposes the state's "good old boy" system amidst political conflict.
+    text: Governor Kay Ivey fired Admiral Kent Davis amid deep political conflict in Alabama. Do a Clarke County judge linked to a hospice business and a wrong SWAT raid prove the state protects its own?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T00:58:52.951281Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 29e45b41996b9ca5b040f34653a554ab2bb2bc933275d434271b43bc245a9890
+    brief: |-
+      THE CONFLICT: 2022 Oscars incident in LA involving one man slapping another.
+      THE DISCOVERY: Companies with political ties received million-dollar contracts; the Baldwin County District Attorney building construction bid was awarded, demonstrating corruption and lack of accountability.
+      THE PIVOT: Article 2 provides specific evidence of institutional corruption and political failure in Alabama (e.g., DA building contracts, insider scholarships) which contextualizes the broader political tension and rising violence noted in Article 1.
+      KEY ENTITIES: Baldwin County District Attorney, Alabama leaders, Joe Biden, Lagniappe Mobile Newspaper
+    llm_text: The 2022 Oscars slap highlights deeper political tensions, but the real story is institutional corruption in Alabama. Baldwin County District Attorney building bids show how political ties reward companies, not accountability.
+    text: The 2022 Oscars slap highlights deep political tensions in America. Do Baldwin County district attorney building bids reward political ties instead of accountability?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T01:01:01.888996Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 679c321f94cd6567c8df4dc8b3194fafc5e8203c62a383fbe5bd82334152b507
+    brief: |-
+      THE CONFLICT:
+      *   2022 Oscars incident in Los Angeles (Main Article context).
+      *   Ladd Peebles Stadium Shooter captured in St. Augustine, Florida (Main Article).
+      *   Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama (May 27, 2022; body recovered May 29, 2022) (Widget Article).
+
+      THE DISCOVERY:
+      *   Widget Article is newer and currently offers a reward for information regarding the unresolved mystery of Thomas Daniel "Danny" Williams Jr’s death.
+      *   The Widget Article also notes the passing of legendary baseball player Pete Rose.
+
+      THE PIVOT:
+      *   The Widget Article provides a specific, ongoing, local unresolved violent crime (Williams Jr’s death in Orange Beach, AL) that serves as a concrete example supporting the Main Article’s broad claim that "violence is on the rise" in locations like Mobile, Alabama.
+
+      KEY ENTITIES:
+      *   Thomas Daniel "Danny" Williams Jr
+      *   Orange Beach, Alabama
+      *   Pete Rose
+      *   St. Augustine, Florida
+      *   Ladd Peebles Stadium
+      *   Katie Britt
+      *   Adm. Kent Davis
+    llm_text: Thomas Daniel "Danny" Williams Jr's death in Orange Beach, Alabama, is still unsolved, providing a clear example of rising local violence. Do you have information? The Ripp Report offers a reward for details on this ongoing community mystery.
+    text: Thomas Daniel Williams Jr. died in Orange Beach, and his case remains unsolved. Does The Ripp Report offer a reward for details on this ongoing community mystery?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T01:05:11.789904Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

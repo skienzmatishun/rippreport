@@ -5,23 +5,15 @@ metadata:
   main_date: "2023-05-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  bad-faith:
-    brief: |-
-      THE CONFLICT: General governmental bad faith exhibited by governments at all levels including the FBI, Alabama Legislature, United States Congress, and City of Dothan Alabama.
-      THE DISCOVERY: Widget Article 2 establishes a broad political context of systemic government failure ("Hive of Scum and Villainy").
-      THE PIVOT: Article 2 provides the overarching theme of governmental malfeasance, which Article 1 demonstrates through specific local actions in Fauxhope, such as the appointment of a developer as Municipal Judge and rubber-stamping infrastructure procurement without public discussion.
-      KEY ENTITIES: Fauxhope City Council, Haymes Snedeker, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC, Councilman Martin, Baldwin County Bridge, ALDOT.
-    llm_text: Fauxhope's City Council appointed developer Haymes Snedeker as Municipal Judge and rubber-stamped contracts. This local corruption isn't an isolated issue; it signals systemic government failure from Fauxhope to the U.S. Congress.
-    widget_date: "2023-05-20"
-    generated_at: "2026-11-06T19:46:28.994774Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hair-on-fire:
+    refined_source: 38c6e75f73c41304d04ff7f8c0767a3c84020597387dc9827b13d6dfdb773965
     brief: |-
       THE CONFLICT: Chris Elliott (DUI, Tax man, rouge State Senator) pushed Senate Bill 306, which would create a full-time, non-rotating commissioner chair of the Baldwin County Commission. Sen. Greg Albritton (R-Range) voted against SB 306, citing lack of populace support and opposition from Baldwin County Commission and ACCA. (Date context implies prior to May 2023).
       THE DISCOVERY: Article 2 shows prior political interference by Sheriff Hoss Mack (political director) and his influence on Chris Elliott, whose wife worked for the Sheriff since Elliott's election in Baldwin County.
       THE PIVOT: Article 2 establishes a pattern of political maneuvering and local power consolidation (Mack/Elliott) in Baldwin County, providing context for the concentrated, potentially self-serving decisions made by the Fairhope City Council (e.g., appointing developer Snedeker as Municipal Judge, approving infrastructure for his projects) in Article 1.
       KEY ENTITIES: Chris Elliott, Sheriff Hoss Mack, Sen. Greg Albritton, Baldwin County Commission, ACCA, Haymes Snedeker, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC, Mayor Can’t, Martin.
     llm_text: Chris Elliott's push for a permanent Baldwin County Commissioner chair faced Senator Greg Albritton's no vote. See how Sheriff Hoss Mack's influence connects to local power grabs involving Haymes Snedeker.
+    text: Chris Elliott pushed for a permanent Baldwin County Commissioner chair, but Senator Greg Albritton voted no. Sheriff Hoss Mack's influence connects to local power grabs involving Haymes Snedeker.
     widget_date: "2023-05-18"
     generated_at: "2026-11-06T19:45:41.147476Z"
     model_name: plugsky-lite
@@ -72,20 +64,24 @@ hooks:
       - ALDI - infrastructure
       - Publix - development
     llm_text: Fauxhope’s mayor spent $8.25 million and drained $3 million from utilities to settle a lawsuit it lost over a $20 million triangle. Now Council approved a $282,211 clock plaza bid to developer Haymes Snedeker’s firm while the judge who backed him faces conflict questions.
+    text: Fauxhope’s mayor spent $8.25 million and drained $3 million from utilities to settle a lawsuit it lost over a $20 million triangle. Now Council approved a $282,211 clock plaza bid to developer Haymes Snedeker’s firm while the judge who backed him faces conflict questions.
     widget_date: "2023-05-09"
     generated_at: "2026-11-06T19:46:46.491159Z"
     model_name: recursive/flint-v1.0:free
   mouthpiece:
+    refined_source: 956dc4b1a8e2af2783a8c54199f40d4ff50c9bceb3a65b279bf2348df62fb445
     brief: |-
       THE CONFLICT: Infrastructure failures in Fairhope are noted as 10 years behind; Jack Burrell has been on council for 10 years and was directly involved in slowing down or not approving projects; Burrell initially promised no federal money and no tolls regarding the Toll Bridge/Bayway.
       THE DISCOVERY: Article 2 revealed Jack Burrell’s 10-year tenure on the council and his past actions of delaying infrastructure projects, despite his current political stance supporting tolls and increased population growth.
       THE PIVOT: Article 2 establishes a historical pattern of infrastructure neglect and political dishonesty by Burrell and the council, providing context for the current conflict of interest (Snedeker appointed Municipal Judge/major developer) and the continued use of taxpayer funds for infrastructure (Aldi/East Fairhope) and council approvals (tag.NET, Clock Plaza) shown in Article 1.
       KEY ENTITIES: Jack Burrell, Haymes Snedeker, Jody W. Bishop (Circuit Judge), Martin, Fairhope City Council, Baldwin County, RH Deas Building Co., LLC, ProTecVideo, LLC, ALDI, Publix, Toll Bridge/Bayway.
     llm_text: Jack Burrell, a 10-year council member, once promised no tolls for the Toll Bridge/Bayway but now supports growth. See how his history of delaying critical infrastructure projects affects Fairhope taxpayers today.
+    text: Jack Burrell served ten years on the council and once promised no tolls for the Bayway. His history of delaying critical infrastructure projects affects Fairhope taxpayers today.
     widget_date: "2022-08-20"
     generated_at: "2026-11-06T19:47:32.547304Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stinking-ticking-time-bomb:
+    refined_source: 97338529735664778ed8ab944fb7392e4e51c22da9b426dbd02ef6381ac149ae
     brief: |-
       THE CONFLICT:
       Bass case involved Burke (BCSS President) and Delaney (lender) alleged Ponzi scheme fraud; trial in Judge Jody Bishop's courtroom mentioned in historical context.
@@ -107,26 +103,43 @@ hooks:
       LLPS
       DR Horton
     llm_text: Judge Jody Bishop oversaw the Burke Ponzi trial while also approving Haymes Snedeker developments for unregulated BCSS sprawl; see how this judge connects county sewage to local land deals.
+    text: Judge Jody Bishop oversaw the Burke Ponzi trial and approved Haymes Snedeker developments for unregulated BCSS sprawl. This judge connects county sewage to local land deals.
     widget_date: "2022-08-12"
     generated_at: "2026-11-06T19:45:46.839306Z"
     model_name: plugsky-lite
   fauxhope-roller-coaster:
+    refined_source: 699b73788bf1265d93cef6252299cd52a26f3430044f5539749cb4413ad7d140
     brief: |-
       THE CONFLICT: Waterfront project delays/cost overruns; original plan involved ADA compliant walkway; council sought to avoid ADA compliance.
       THE DISCOVERY: Original plan over 18 months ago involved a kudzu covered bank cleanup and ADA compliant switchback walkway; council later proposed open car on rails solution.
       THE PIVOT: Article 2 establishes a pattern of council decisions lacking public participation and leading to substantial financial/logistic mistakes (e.g., waterfront project delays, failed ADA compliance efforts), context for Article 1's critique of unpublicized, self-serving decisions (e.g., Snedeker appointment, clock plaza bid, policing tech procurement).
       KEY ENTITIES: Fauxhope City Council, Mayor Can’t, Haymes Snedeker, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC, Martin, ALDI, Publix
     llm_text: Fauxhope City Council ditched its ADA walkway for a rail solution on the waterfront, ignoring public input. See how this pattern of poor decisions, from the Snedeker appointment to project delays, impacts you.
+    text: The Fairhope City Council dropped its ADA walkway for a rail solution on the waterfront and ignored public input. This poor decision follows a pattern that impacts local taxpayers.
     widget_date: "2022-04-12"
     generated_at: "2026-11-06T19:45:52.750563Z"
     model_name: plugsky-lite
   trolls-for-tolls:
+    refined_source: d67c1973a05590102f1b08ed3fce2257d2ee1a336d6fd3657ed236d229e33cd9
     brief: |-
       THE CONFLICT: Bayway Bridge project financing discussions occurred with political debate regarding tolls. Jim Zigler campaigned against tolls via Facebook, but Mobile and Baldwin MPO's subsequently supported tolls.
       THE DISCOVERY: Article 2 (older) established historical context on tolling debates (Bayway Bridge/I-10) and questioned Alabama's federal authorization for bridge tolls (citing Pennsylvania's Act 44 and DOT rejection).
       THE PIVOT: Article 2 provides prior context on the political maneuvering around major infrastructure financing (tolls) in Baldwin/Mobile County, setting a precedent for skepticism toward council decisions regarding public funding and development costs seen in Article 1.
       KEY ENTITIES: Jack Burrell, Jim Zigler, Jon Gray, ALDOT, David Peterson, Fairhope Airport Authority, Mobile MPO, Baldwin MPO, Martin, Haymes Snedeker, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC
     llm_text: Jim Zigler fought tolls on the Bayway Bridge, but Mobile and Baldwin MPOs backed them. See the history of Alabama's tolling debates and question current public funding decisions.
+    text: Jim Zigler fought tolls on the Bayway Bridge, but Mobile and Baldwin MPOs backed them. Look at the history of Alabama tolling debates and question current public funding decisions.
     widget_date: "2022-01-28"
     generated_at: "2026-11-06T19:45:58.804884Z"
     model_name: plugsky-lite
+  bad-faith:
+    refined_source: 91481f5802974c337c2e1d18c48256ea2d341d1f292a9e57c503dc3778fc72c1
+    brief: |-
+      THE CONFLICT: General governmental bad faith exhibited by governments at all levels including the FBI, Alabama Legislature, United States Congress, and City of Dothan Alabama.
+      THE DISCOVERY: Widget Article 2 establishes a broad political context of systemic government failure ("Hive of Scum and Villainy").
+      THE PIVOT: Article 2 provides the overarching theme of governmental malfeasance, which Article 1 demonstrates through specific local actions in Fauxhope, such as the appointment of a developer as Municipal Judge and rubber-stamping infrastructure procurement without public discussion.
+      KEY ENTITIES: Fauxhope City Council, Haymes Snedeker, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC, Councilman Martin, Baldwin County Bridge, ALDOT.
+    llm_text: Fauxhope's City Council appointed developer Haymes Snedeker as Municipal Judge and rubber-stamped contracts. This local corruption isn't an isolated issue; it signals systemic government failure from Fauxhope to the U.S. Congress.
+    text: The Fairhope City Council appointed developer Haymes Snedeker as Municipal Judge and approved his contracts. This local corruption signals systemic government failure from Fairhope to Washington.
+    widget_date: "2023-05-20"
+    generated_at: "2026-11-06T19:46:28.994774Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

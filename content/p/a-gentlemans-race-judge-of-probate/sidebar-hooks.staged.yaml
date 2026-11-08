@@ -1,0 +1,77 @@
+metadata:
+  generated_at: "2026-11-08T14:37:48.368020Z"
+  generator_version: 1.0.0
+  post_slug: a-gentlemans-race-judge-of-probate
+  main_date: "2018-05-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  chainsaw:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioner Chris Elliott and Tucker Dorsey (both Catalyst candidates) attempted to deny Zundel’s Road public access to Mobile Bay prior to the June 5 Primary election.
+      THE DISCOVERY: Catalyst candidates (Elliott and Dorsey) previously acted against common folk interests, prioritizing the demands of bay donors over public access.
+      THE PIVOT: This past action establishes a pattern of anti-public-interest behavior by Catalyst, which is leveraged in the Probate Judge race to question the integrity and trustworthiness of Catalyst Candidate Lynn Perry.
+      KEY ENTITIES: Tim Russell, Baldwin County Probate Judge, Randy Davis, Catalyst, Lynn Perry, Max Hansen, Alan Lipscomb, Matt McKenzie, Harry D’Olive, Chris Elliott, Tucker Dorsey, Zundel’s Road, 2017 (40M asset generation), 3.9 million dollar budget.
+    llm_text: Chris Elliott and Tucker Dorsey tried to deny Zundel’s Road access to Mobile Bay, prioritizing bay donors over public interests. This anti-public-interest pattern now questions Catalyst candidate Lynn Perry’s integrity in the Baldwin County Probate Judge race.
+    widget_date: "2018-05-07"
+    generated_at: "2026-11-08T14:31:34.597551Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-top-dogs:
+    brief: |-
+      THE CONFLICT: Catalyst supported Tucker Dorsey for Baldwin County commission and Chris Elliott for State Senate, a relationship exposed on June 5, 2018.
+      THE DISCOVERY: Tucker Dorsey and Chris Elliott utilized LLCs (e.g., at Summerdale 13040 Underwood Rd.) to hide business interests and were linked to a Mega "Dump" site costing taxpayers over $32 million, alongside alleged efforts to bar public access to the Bay through commissioner donations.
+      THE PIVOT: Article 2 establishes Catalyst's documented history of self-serving, politically motivated actions and financial ties, providing critical context for Catalyst's subsequent lobbying and attempts to influence the Probate Judge race in Article 1 (e.g., pushing Lynn Perry).
+      KEY ENTITIES: Catalyst, Tucker Dorsey, Chris Elliott, Randy Davis, Tim Russell (Baldwin County Probate Judge), Lynn Perry, Max Hansen, Alan Lipscomb, Matt McKenzie, Harry D’Olive, Clarence Burke.
+    llm_text: Catalyst backed Tucker Dorsey and Chris Elliott, using LLCs to hide interests tied to a $32 million taxpayer dump. See how Catalyst's self-serving political actions threatened public access to the Bay and influenced the Probate Judge race.
+    widget_date: "2018-05-04"
+    generated_at: "2026-11-08T14:33:45.658994Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-quit-and-will-quit-again:
+    brief: |-
+      THE CONFLICT: Joe Davis, a CATALYST CANDIDATE, quit the Daphne City Council (Article 2).
+      THE DISCOVERY: Article 2 establishes a history (2006/2015 founding of The Ripp Report) where CATALYST candidates exhibit political instability by leaving public office.
+      THE PIVOT: Article 2 serves as historical context showing the pattern of CATALYST political failure, lending skepticism to Catalyst's current attempt (Article 1) to influence the Probate Judge race through lobbying (Lynn Perry).
+      KEY ENTITIES: Joe Davis, John Lake, Amber Smith, Tim Russell, Randy Davis, Lynn Perry, Max Hansen, Alan Lipscomb, Matt McKenzie, Harry D’Olive, Catalyst
+    llm_text: Joe Davis quit Daphne City Council, revealing a history where Catalyst candidates show political instability. Does this pattern make Catalyst's current lobbying with Lynn Perry for the Probate Judge race questionable?
+    widget_date: "2018-03-21"
+    generated_at: "2026-11-08T14:34:54.197170Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-candidates:
+    brief: |-
+      THE CONFLICT: Catalyst had candidates seeded in many county offices leading up to the June 9, 2018, primary election.
+      THE DISCOVERY: The Widget Article established Catalyst's widespread presence and warned against allowing them control of county government during the 2018 mid-term elections.
+      THE PIVOT: The Widget Article provides the historical context of Catalyst's political ambition, explaining why Catalyst's current attempts to "lob" other candidates (like Lynn Perry) in the 2018 Probate Judge race are seen as a politically motivated effort to gain control of the position vacated by Tim Russell.
+      KEY ENTITIES: Catalyst, Baldwin County, Tim Russell, Randy Davis, Lynn Perry, Max Hansen, Alan Lipscomb, Matt McKenzie, Harry D’Olive, June 9 2018, July 17th.
+    llm_text: Catalyst seeded candidates across Baldwin County before the June 9, 2018 primary, building political ambition. Now, Catalyst lobbies for Lynn Perry in the Probate Judge race, a calculated move to control the position Tim Russell vacated.
+    widget_date: "2018-03-16"
+    generated_at: "2026-11-08T14:35:35.725955Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrong-ball:
+    brief: |-
+      THE CONFLICT: Frank Burt held the County Commissioner position since 1988; Baldwin County Substance Abuse Services (BCSA) was founded by judges and lawyers, including Judge Michelle Hart.
+      THE DISCOVERY: BCSA operates as a cash-collecting "money scheme" allowing individuals to pay for convictions, and Judge Michelle Hart was both a BCSA founder and the first client of Catalyst.
+      THE PIVOT: The historical pattern of Catalyst using political appointments (e.g., Jeb Ball as Commissioner) for transactional gain and the documented conflicts of interest regarding BCSA provide context for scrutiny of Catalyst's involvement and the integrity concerns within the Probate Judge race, particularly regarding attorney qualifications.
+      KEY ENTITIES: Judge Tim Russell; Frank Burt; Judge Michelle Hart; Max Hansen; Alan Lipscomb; Matt McKenzie; Harry D’Olive
+    llm_text: Frank Burt held County Commissioner since 1988, while Judge Michelle Hart helped found BCSA, a cash-collecting "money scheme." This history of conflict fuels scrutiny over the integrity of the Probate Judge race and Catalyst's involvement.
+    widget_date: "2018-03-09"
+    generated_at: "2026-11-08T14:36:41.758361Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mid-term-elections-vote-incumbents-out:
+    brief: |-
+      THE CONFLICT: Tucker Dorsey held County Commission Seat Three; he helped marry the county to a mega-site costing $35 million (not including lost revenue).
+      THE DISCOVERY: The Widget Article revealed that voting for Tucker Dorsey was equivalent to voting for Clarence Burke, Baldwin County Sewer, and Catalyst, representing the "good ole boys" and their old ways of doing business.
+      THE PIVOT: The Widget Article establishes the historical context of established, entrenched power (the "good ole boys" and Catalyst) in Baldwin County, which is then seen attempting to influence the Probate Judge race by tapping Catalyst candidate Lynn Perry (as detailed in the Main Article).
+      KEY ENTITIES: Tucker Dorsey; Clarence Burke; Catalyst; Baldwin County; Judge Tim Russell; Randy Davis; Lynn Perry; Max Hansen; Alan Lipscomb; Matt McKenzie; Harry D’Olive.
+    llm_text: Tucker Dorsey helped marry Baldwin County to a $35 million mega-site. Voting for Dorsey meant backing Clarence Burke and Catalyst, the "good ole boys" controlling county power.
+    widget_date: "2018-02-21"
+    generated_at: "2026-11-08T14:32:37.490797Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT: Past political structure in Baldwin County involved "good ole boys," including former Mayor Kant and Sen Pittman, facilitating "back room deals" and political corruption.
+      THE DISCOVERY: Article 2 revealed the established "good ole boy network" was weakening, with "connections... gone, fired, retired or drying up," creating an opportunity for change.
+      THE PIVOT: Article 2 establishes the historical context of political corruption and the decline of the traditional power structure, making Catalyst's current intervention in the Probate Judge race (Article 1) a response to a changing, less controlled political environment.
+      KEY ENTITIES: Tim Russell, Randy Davis, Lynn Perry, Max Hansen, Alan Lipscomb, Matt McKenzie, Harry D’Olive, Catalyst, Mayor Karen Wilson, Kant, Sen Pittman, Judge Michelle Thomason, Baldwin County Probate Judge (40 million dollars in 2017), $2587.13 (qualification fee).
+    llm_text: Baldwin County's old "good ole boy" network, once run by Kant and Sen Pittman, is finally weakening. See how Catalyst uses this shift to challenge the Probate Judge race for $40 million.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-08T14:37:32.025433Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

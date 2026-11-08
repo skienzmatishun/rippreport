@@ -99,7 +99,7 @@ alttags: A triangular wooden frame against a green background contains a partial
 summary: Mayor Tim Kant and city council members secretly traded away millions in
   taxpayer cash to settle a disastrous land lawsuit. Uncovered settlement papers show
   officials drained utility reserves and submitted fake environmental studies to grab
-  BP grant money. Read our complete breakdown to discover how local leadership sold
+  BP grant money. Read our complete breakdown to Read how local leadership sold
   out Fairhope taxpayers behind closed doors.
 ---
 

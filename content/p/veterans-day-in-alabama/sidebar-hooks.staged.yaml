@@ -5,6 +5,48 @@ metadata:
   main_date: "2022-11-04"
   model_name: recursive/flint-v1.0:free
 hooks:
+  elephants-in-alabama:
+    refined_source: 2b0e5cad18463d7f349a492a25772104b5234d4ffd1656515e9d3186a69107fc
+    brief: |-
+      THE CONFLICT:
+      - Civil lawsuit filed against Ethics Commission Executive Director Tom Albritton.
+      - Allegations of corruption and lack of action by state agencies/Governor.
+
+      THE DISCOVERY:
+      - State payroll data shows McCallum (identified as "Employee 1" in Examiners’ report) was paid salary months after resigning.
+      - State Bar paid McCallum an additional $37,000 approximately 10 months after resignation.
+      - Ethics Commission did not disclose specific laws violated by Albritton.
+
+      THE PIVOT:
+      - Widget Article (older) details documented financial irregularities (McCallum payments) and corruption allegations against Tom Albritton, providing context for the current political situation in Alabama referenced in the Main Article (Veterans Day in Alabama, November 11th).
+      - The Main Article provides a date (November 11th) related to Alabama, while the Widget Article provides the specific corrupt governance context for the state.
+
+      KEY ENTITIES:
+      - Tom Albritton (Ethics Commission Executive Director)
+      - McCallum ("Employee 1")
+      - Alabama Bar
+      - Ethics Commission
+      - Lauderdale County
+      - Sweet Home Alabama
+      - Governor (unnamed)
+      - November 11th
+    llm_text: Tom Albritton faces a civil suit over corruption, but state payroll shows McCallum got paid $37k after resigning. See how these financial irregularities fueled Alabama's governance issues before November 11th.
+    text: Tom Albritton faces a civil suit over corruption, and state payroll shows McCallum received payment after resigning. These financial irregularities fueled Alabama governance issues.
+    widget_date: "2022-07-14"
+    generated_at: "2026-11-06T20:27:34.790475Z"
+    model_name: plugsky-lite
+  top-shelf-corruption:
+    refined_source: 3a6d55abf14c223a33d1bac092ff56866bbf63412b09077e8d5a94cf88ff4eb2
+    brief: |-
+      THE CONFLICT: Steve Marshall, Attorney General of Alabama, approved an administrative resolution concerning McCallum's transgressions, resulting in fines but no criminal investigation for McCallum. Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015.
+      THE DISCOVERY: Tom Albritton's children received $15,000 scholarships from the trust in 2015, totaling $105,000 between 2014 and 2018 (based on 990 records).
+      THE PIVOT: Article 2 (Widget) establishes a history of high-level political corruption involving Marshall, McCallum, and Albritton, providing historical context to Alabama politics, which Article 1 (Main) is set within (Veterans Day, Alabama).
+      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Alabama Ethics Commission, Regions Bank, Alabama Bar, Alabama.
+    llm_text: Steve Marshall approved fines for McCallum, but Tom Albritton's children received $105k from the trust. See how this high-level corruption connects to Alabama's political history.
+    text: Steve Marshall approved fines for McCallum, and Tom Albritton's children received trust funds. This high-level corruption connects directly to Alabama political history.
+    widget_date: "2022-07-09"
+    generated_at: "2026-11-06T20:27:44.396055Z"
+    model_name: plugsky-lite
   this-is-the-new-logo-for-fairhope:
     brief: |-
       THE CONFLICT:
@@ -24,14 +66,16 @@ hooks:
       - November 11 / Veterans Day
       - No additional names, organizations, dollar amounts, positions, or titles appear in the provided content.
     llm_text: Before Fairhope got its new logo, this Alabama town was just a blip in an older article. Now that new logo becomes the smoking gun backdrop for the Veterans Day story with soldiers saluting across Alabama on November 11th.
+    text: Before Fairhope got its new logo, this Alabama town was just a blip in an older article. Now that new logo becomes the smoking gun backdrop for the Veterans Day story with soldiers saluting across Alabama on November 11th.
     widget_date: "2022-10-28"
     generated_at: "2026-11-06T20:27:17.690693Z"
     model_name: recursive/flint-v1.0:free
   alabama-black-hole:
+    refined_source: fc35d2fa31cf0c4afc4701c2571c603be998a8c389a879b1e7185201c17b4bc3
     brief: |-
       THE CONFLICT:
       - Original complaint against Tom Albritton and Cynthia Raulston cited in correspondence dated July 16, 2021.
-      - Original complaints implicated Lawyers, a Judge, Council President, councilman, and a mayor; these were allegedly excused by the Ethics Commission.
+      - Original complaints implicated Lawyers, a Judge, Council President, councilman, and a mayor; these were excused by the Ethics Commission.
       - Cynthia Raulston contacted complainant in January 2022 regarding the Mabel Amos trust and Albritton's 'self-serving' of funds.
       - Article 2 references "Self Dealing" reported in Lagniappe on June 30, 2021.
 
@@ -58,21 +102,25 @@ hooks:
       - Alabama Bar
       - Ethics Commission
       - Lagniappe Mobile
-    llm_text: Tom Albritton concealed his multi-million dollar Mabel Amos trust role from his 2015 appointment. See how he and Judge Ben Bowden allegedly self-dealt using scholarship funds.
+    llm_text: Tom Albritton concealed his multi-million dollar Mabel Amos trust role from his 2015 appointment. See how he and Judge Ben Bowden self-dealt using scholarship funds.
+    text: Tom Albritton concealed his multi-million dollar Mabel Amos trust role from his 2015 appointment. He and Judge Ben Bowden self-dealt using scholarship funds.
     widget_date: "2022-10-21"
     generated_at: "2026-11-06T20:27:16.022652Z"
     model_name: plugsky-lite
   liars-bridge:
+    refined_source: d579c99d2249de8b94e1a290ed54c74f275961f8bbd82f75a7b0f8fcdadc06d5
     brief: |-
       THE CONFLICT: Politicians made original promises regarding the Mobile bridge (no tolls, no federal money) but changed decisions after the no tolls petition reached 50,000.
       THE DISCOVERY: The Widget Article revealed Jack Burrell (ESMPO Chairman/Fairhope City Councilman) repeatedly broke promises concerning the Mobile bridge infrastructure, driven primarily by development expansion, and expressed concerns about the PACT Act legislation.
       THE PIVOT: Article 2 provides concrete examples of politicians breaking promises to constituents and veterans (tolls, PACT Act concerns) which serves as the historical context for the Veterans Day theme (honoring promises) discussed in Article 1.
       KEY ENTITIES: Jack Burrell, Jerry Carl, Mobile Bay Bridge, ESMPO, Fairhope City Council, PACT Act, Alabama
     llm_text: Jack Burrell repeatedly broke his no-tolls promise for the Mobile Bay Bridge, prioritizing development expansion over constituent commitments. See concrete examples of this betrayal impacting veterans and raising serious concerns about the PACT Act legislation.
+    text: Jack Burrell broke his no-tolls promise for the Mobile Bay Bridge, prioritizing development expansion. This betrayal raises serious concerns about the PACT Act legislation.
     widget_date: "2022-07-29"
     generated_at: "2026-11-06T20:27:42.650750Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-shuffle:
+    refined_source: e5c55d98a2ae807df3c83cb22a155a1db3e705d65ba810ab93945f3c3bd50ef8
     brief: |-
       THE CONFLICT:
       Steve Marshall, Attorney General of Alabama, faced a complaint regarding Ethics Executive Director Tom Albritton.
@@ -90,54 +138,19 @@ hooks:
       Tom Albritton (Ethics Director/Executive Director)
       Alabama
     llm_text: AG Steve Marshall stonewalled a complaint against Ethics Director Tom Albritton with a non-disclosing letter. This "Alabama Shuffle" reveals a pattern of political corruption and stonewalling within Alabama state governance.
+    text: AG Steve Marshall stonewalled a complaint against Ethics Director Tom Albritton. This response reveals a pattern of political corruption within Alabama state governance.
     widget_date: "2022-07-27"
     generated_at: "2026-11-06T20:28:49.847412Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   line-in-the-sand:
+    refined_source: aceb946e8ea74487d0301212ce629772de947434e805e8464f863986b6938a86
     brief: |-
       THE CONFLICT: Mabel Amos died in 1999.
       THE DISCOVERY: Mabel Amos Charitable Trust, established by her will, was alleged to be used for personal benefit/self-dealing by trustees.
       THE PIVOT: The civil lawsuit filed by Mabel Amos relatives concerning the trust's handling provides the foundational evidence of the alleged corruption detailed in the later reporting.
       KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Regions Bank, Ethics Commission, Alabama AG, Ben Bowden, Montgomery County Circuit Court
     llm_text: Mabel Amos relatives sued the trust over alleged self-dealing involving Tom Albritton and Rick Clifton. See how this Montgomery County Circuit Court case uncovers corruption connected to Regions Bank.
+    text: Mabel Amos relatives sued the trust over self-dealing involving Tom Albritton and Rick Clifton. This Montgomery County court case uncovers corruption connected to Regions Bank.
     widget_date: "2022-07-24"
     generated_at: "2026-11-06T20:27:24.244375Z"
-    model_name: plugsky-lite
-  elephants-in-alabama:
-    brief: |-
-      THE CONFLICT:
-      - Civil lawsuit filed against Ethics Commission Executive Director Tom Albritton.
-      - Allegations of corruption and lack of action by state agencies/Governor.
-
-      THE DISCOVERY:
-      - State payroll data shows McCallum (identified as "Employee 1" in Examiners’ report) was paid salary months after resigning.
-      - State Bar paid McCallum an additional $37,000 approximately 10 months after resignation.
-      - Ethics Commission did not disclose specific laws violated by Albritton.
-
-      THE PIVOT:
-      - Widget Article (older) details documented financial irregularities (McCallum payments) and corruption allegations against Tom Albritton, providing context for the current political situation in Alabama referenced in the Main Article (Veterans Day in Alabama, November 11th).
-      - The Main Article provides a date (November 11th) related to Alabama, while the Widget Article provides the specific corrupt governance context for the state.
-
-      KEY ENTITIES:
-      - Tom Albritton (Ethics Commission Executive Director)
-      - McCallum ("Employee 1")
-      - Alabama Bar
-      - Ethics Commission
-      - Lauderdale County
-      - Sweet Home Alabama
-      - Governor (unnamed)
-      - November 11th
-    llm_text: Tom Albritton faces a civil suit over corruption, but state payroll shows McCallum got paid $37k after resigning. See how these financial irregularities fueled Alabama's governance issues before November 11th.
-    widget_date: "2022-07-14"
-    generated_at: "2026-11-06T20:27:34.790475Z"
-    model_name: plugsky-lite
-  top-shelf-corruption:
-    brief: |-
-      THE CONFLICT: Steve Marshall, Attorney General of Alabama, approved an administrative resolution concerning McCallum's transgressions, resulting in fines but no criminal investigation for McCallum. Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015.
-      THE DISCOVERY: Tom Albritton's children received $15,000 scholarships from the trust in 2015, totaling $105,000 between 2014 and 2018 (based on 990 records).
-      THE PIVOT: Article 2 (Widget) establishes a history of high-level political corruption involving Marshall, McCallum, and Albritton, providing historical context to Alabama politics, which Article 1 (Main) is set within (Veterans Day, Alabama).
-      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Alabama Ethics Commission, Regions Bank, Alabama Bar, Alabama.
-    llm_text: Steve Marshall approved fines for McCallum, but Tom Albritton's children received $105k from the trust. See how this high-level corruption connects to Alabama's political history.
-    widget_date: "2022-07-09"
-    generated_at: "2026-11-06T20:27:44.396055Z"
     model_name: plugsky-lite

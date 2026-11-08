@@ -5,42 +5,6 @@ metadata:
   main_date: "2026-09-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  our-man-in-mar-a-lago:
-    brief: |-
-      THE CONFLICT:
-      Mabel Amos died in 1999, establishing the Mabel Amos Memorial Fund with roughly $500,000. Board members, including Tom Albritton and Rick Clifton, indulged in self-dealing, awarding scholarships to relatives and friends over a period including 2012–2019. The total unallowed spending cited in the Special Fiduciary’s report is $725,000.
-
-      THE DISCOVERY:
-      The Mabel Amos Scholarship Trust was administered by Tom Albritton, Director of the Alabama Ethics Commission, and managed by the law firm Allbritton, Clifton, Alverson, Moody and Bowden. Clifton served on the Trust Board.
-
-      THE PIVOT:
-      Article 2 establishes the initial institutional link between the Mabel Amos Scholarship Trust and the law firm Allbritton, Clifton, Alverson, Moody and Bowden, providing the historical context for the later findings in Article 1, where the Special Fiduciary James C. White, Sr. documented specific self-dealing violations involving Albritton's family and associates like Judge Ben Bowden's daughter.
-
-      KEY ENTITIES:
-      Mabel Amos
-      Tom Albritton (Alabama Ethics Commission Executive Director)
-      Rick Clifton
-      James C. White, Sr. (Special Fiduciary)
-      Alabama Ethics Commission
-      Mabel Amos Memorial Fund (MAMF)
-      Allbritton, Clifton, Alverson, Moody and Bowden, P.C.
-      John Bell / Drew McNeese (Regions Bank)
-      Judge Greg Griffin (Montgomery County Circuit Court Judge)
-      Steve Marshall (Alabama Attorney General)
-      Martha H. Albritton
-      James Albritton
-      Anna E. Bowden (Daughter of Judge Ben Bowden)
-      Ben Bowden (Alabama Court of Appeals Judge)
-      Paula Tillman
-      Whitney Ballard
-      Rick Clifton
-      Alverson
-      Moody
-      Bowden
-    llm_text: Tom Albritton, Director of the Alabama Ethics Commission, oversaw the Mabel Amos Memorial Fund. His associates, including Rick Clifton, misused $725,000 for family and friends, violating the trust.
-    widget_date: "2026-09-10"
-    generated_at: "2026-11-06T05:12:43.456387Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   rock-bottom:
     brief: |-
       THE CONFLICT:
@@ -99,10 +63,12 @@ hooks:
         - Martha H. Albriton — Albriton daughter.
         - James Albriton — Albriton son.
     llm_text: Tom Albriton steered the Mabel Amos scholarship fund, paid his kids $135,000, and now leads Alabama’s Ethics Commission. The ROCK BOTTOM widget says if he keeps his job, Alabama proves it’s the most politically corrupt state in America.
+    text: Tom Albriton steered the Mabel Amos scholarship fund, paid his kids $135,000, and now leads Alabama’s Ethics Commission. The ROCK BOTTOM widget says if he keeps his job, Alabama proves it’s the most politically corrupt state in America.
     widget_date: "2026-09-08"
     generated_at: "2026-11-06T05:12:53.912369Z"
     model_name: recursive/flint-v1.0:free
   fins-to-the-left-fins-to-the-right:
+    refined_source: e0368861523a687a76920281d4f2c7c5f4e977eb8b19b225c071acb74a0d2a08
     brief: |-
       THE CONFLICT: Historical pattern of "ecosystems" in South Alabama where private interests and public officials overlap through "dead deals" and land development. Specifically, the Orange Beach/CoastAL deal involved private partners John McInnis and Cameron Price (Flora-Bama/Orange Beach Land Company interests) and public-side figures like Jack Robertson and Tony Kennon.
 
@@ -122,6 +88,7 @@ hooks:
       - Jack Robertson (City official)
       - Mabel Amos (Former Secretary of State/Trust creator)
     llm_text: From the Orange Beach CoastAL deal to the Mabel Amos scandal, names like Tony Kennon and Tom Albritton keep resurfacing across South Alabama. Article 2 exposes the "ecosystem" of interlocking interests and public officials that leaves a permanent paper trail of self-dealing.
+    text: The Orange Beach CoastAL deal and the Mabel Amos scandal show how Tony Kennon and Tom Albritton resurface across South Alabama. Interlocking financial interests leave a permanent paper trail of self-dealing.
     widget_date: "2026-07-28"
     generated_at: "2026-11-06T05:12:15.678819Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
@@ -135,18 +102,21 @@ hooks:
 
       KEY ENTITIES: Jim Zeigler, South Alabama Citizens for Government Accountability (SACGA)
     llm_text: In 2019, Jim Zeigler and SACGA mobilized 50,000 residents against toxic Gulf Coast tolls. Now, our investigation exposes the backroom blueprints proving politicians turned coat to back this $3.2B trap.
+    text: In 2019, Jim Zeigler and SACGA mobilized 50,000 residents against toxic Gulf Coast tolls. Now, our investigation exposes the backroom blueprints proving politicians turned coat to back this $3.2B trap.
     widget_date: "2026-07-14"
     generated_at: "2026-11-06T05:11:14.330349Z"
     model_name: gemini-3.5-flash-lite
   advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream:
     brief: "THE CONFLICT: Inmate Murray \"Bubba\" Lawrence, Jr. has maintained his innocence for over two decades of imprisonment. Advocates Francis Paul Ripp and Nancy R. Koerner engaged the Birmingham law firm Maxwell-Tillman—represented primarily by partner Leroy Maxwell and assigned attorney Gabby Humber—to assist in drafting a federal writ of habeas corpus after exhausting state-level avenues. Despite a verbal agreement, three advocacy witnesses, a formal invoice, and a prompt financial down-payment, the firm abruptly abandoned the case after two years, issuing a Non-Engagement Letter denying an attorney-client relationship and returning only generic summations and advocate-compiled research without conducting independent discovery or uncovering suppressed evidence like the Alabama State Coroners' Report detailing the exhumation of the victim and removal of all seven cervical vertebrae.\n\nTHE DISCOVERY: The background coverage from the Alabama Gazette details systemic legal abandonment and professional misconduct by retained counsel in high-stakes post-conviction relief efforts. It exposes how legal representation took retainers, accepted client-provided research for two years, and then severed ties midstream with alarming disclaimers regarding privileged information while ignoring critical issues such as the inmate's deteriorating medical condition and prison communication failures.\n\nTHE PIVOT: While the main article exposes elite self-dealing and corruption within the Mabel Amos Memorial Fund controlled by prominent figures like Tom Albritton, the background widget article acts as the thematic and systemic \"smoking gun\" by demonstrating the parallel failure and abandonment of justice within Alabama's legal and institutional framework—showing how ordinary citizens and inmates like Murray Lawrence face professional stonewalling, while insiders exploit fiduciary trusts for personal enrichment.\n\nKEY ENTITIES: \n- Murray \"Bubba\" Lawrence, Jr.\n- Francis Paul Ripp\n- Nancy R. Koerner\n- Maxwell-Tillman (Law Firm)\n- Leroy Maxwell\n- Gabby Humber\n- Murray Lawrence, Sr.\n- Tom Albritton\n- James C. White, Sr.\n- Steve Marshall\n- Greg Griffin\n- Rick Clifton\n- John Bell\n- Mabel Amos"
     llm_text: After taking a financial down-payment, Birmingham attorneys Leroy Maxwell and Gabby Humber abandoned innocent inmate Murray Lawrence, Jr. Read how this legal betrayal mirrors the systemic corruption and elite self-dealing bleeding Alabama dry.
+    text: After taking a financial down-payment, Birmingham attorneys Leroy Maxwell and Gabby Humber abandoned innocent inmate Murray Lawrence, Jr. Read how this legal betrayal mirrors the systemic corruption and elite self-dealing bleeding Alabama dry.
     widget_date: "2025-08-19"
     generated_at: "2026-11-06T05:11:19.672029Z"
     model_name: gemini-3.5-flash-lite
   lt-governor-ainsworth-breaks-with-governor:
     brief: "THE CONFLICT: \n- In February 2025, a political battle erupted in Alabama when Governor Kay Ivey pushed for Senate Bill 67 (sponsored by Senator Andrew Jones), aimed at taking over the Department of Veterans Affairs by stripping power from the Veterans Board and granting the Governor sole authority to appoint the commissioner and board members.\n- Veterans Commissioner Kent Davis previously filed an ethics complaint with the Alabama Ethics Commission (involving Executive Director Kim Boswell), prompting Governor Ivey to fire Davis and seek total executive control over the department, overriding opposition from Lt. Governor Will Ainsworth, Senators April Weaver and Chris Elliott, and state veterans' groups.\n\nTHE DISCOVERY: \n- The older article (February 2025) documents a major executive overreach and power grab by Governor Kay Ivey targeting an independent state board (the Department of Veterans Affairs) following an internal ethics complaint. \n- It establishes a direct historical precedent of friction between independent administrative boards, state oversight bodies, and executive power plays in Alabama politics.\n\nTHE PIVOT: \n- Article 2 serves as critical context for the main article by exposing the systemic rot and hypocrisy within Alabama's ethics and governance structures—specifically highlighting how state officials and enforcers (such as Ethics Commission Executive Director Tom Albritton in the Mabel Amos trust scandal) operate with impunity while executive figures like Governor Ivey simultaneously move to dismantle independent boards and consolidate absolute political control under the guise of reform or compliance.\n\nKEY ENTITIES:\n- Tom Albritton\n- Governor Kay Ivey\n- Lt. Governor Will Ainsworth\n- Kent Davis\n- James C. White, Sr.\n- Judge Greg Griffin\n- Steve Marshall\n- Rick Clifton\n- John Bell\n- Drew McNeese\n- Andrew Jones\n- April Weaver\n- Chris Elliott\n- Ed Oliver\n- Kim Boswell\n- Mabel Amos\n- Leigh Manning\n- Megan Carmack\n- Tyra Lindsay\n- Byron B. Mathews, Jr."
     llm_text: When Governor Kay Ivey fired Veterans Commissioner Kent Davis to seize control of the Department of Veterans Affairs, she exposed Alabama’s deeper governance rot. Read our February 2025 report to see how officials like Tom Albritton weaponize executive power while independent boards crumble.
+    text: When Governor Kay Ivey fired Veterans Commissioner Kent Davis to seize control of the Department of Veterans Affairs, she exposed Alabama’s deeper governance rot. Read our February 2025 report to see how officials like Tom Albritton weaponize executive power while independent boards crumble.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T05:11:25.783370Z"
     model_name: gemini-3.5-flash-lite
@@ -185,6 +155,45 @@ hooks:
       - Byron B. Mathews, Jr. (Plaintiff's attorney)
       - Judge Michelle Thomasson (Baldwin County Family Court Judge)
     llm_text: Francis Paul Ripp caught Alabama Ethics Director Tom Albritton funneling trust funds to his kids while state agencies looked the other way. Read how this explosive background ties directly into the new court-ordered report exposing the massive Mabel Amos cover-up.
+    text: Francis Paul Ripp caught Alabama Ethics Director Tom Albritton funneling trust funds to his kids while state agencies looked the other way. Read how this explosive background ties directly into the new court-ordered report exposing the massive Mabel Amos cover-up.
     widget_date: "2021-10-22"
     generated_at: "2026-11-06T05:11:32.951347Z"
     model_name: gemini-3.5-flash-lite
+  our-man-in-mar-a-lago:
+    refined_source: 668db76549b9abc907b3fb53a561896eb34584e16466debc31c69e71b1662f00
+    brief: |-
+      THE CONFLICT:
+      Mabel Amos died in 1999, establishing the Mabel Amos Memorial Fund with roughly $500,000. Board members, including Tom Albritton and Rick Clifton, indulged in self-dealing, awarding scholarships to relatives and friends over a period including 2012–2019. The total unallowed spending cited in the Special Fiduciary’s report is $725,000.
+
+      THE DISCOVERY:
+      The Mabel Amos Scholarship Trust was administered by Tom Albritton, Director of the Alabama Ethics Commission, and managed by the law firm Allbritton, Clifton, Alverson, Moody and Bowden. Clifton served on the Trust Board.
+
+      THE PIVOT:
+      Article 2 establishes the initial institutional link between the Mabel Amos Scholarship Trust and the law firm Allbritton, Clifton, Alverson, Moody and Bowden, providing the historical context for the later findings in Article 1, where the Special Fiduciary James C. White, Sr. documented specific self-dealing violations involving Albritton's family and associates like Judge Ben Bowden's daughter.
+
+      KEY ENTITIES:
+      Mabel Amos
+      Tom Albritton (Alabama Ethics Commission Executive Director)
+      Rick Clifton
+      James C. White, Sr. (Special Fiduciary)
+      Alabama Ethics Commission
+      Mabel Amos Memorial Fund (MAMF)
+      Allbritton, Clifton, Alverson, Moody and Bowden, P.C.
+      John Bell / Drew McNeese (Regions Bank)
+      Judge Greg Griffin (Montgomery County Circuit Court Judge)
+      Steve Marshall (Alabama Attorney General)
+      Martha H. Albritton
+      James Albritton
+      Anna E. Bowden (Daughter of Judge Ben Bowden)
+      Ben Bowden (Alabama Court of Appeals Judge)
+      Paula Tillman
+      Whitney Ballard
+      Rick Clifton
+      Alverson
+      Moody
+      Bowden
+    llm_text: Tom Albritton, Director of the Alabama Ethics Commission, oversaw the Mabel Amos Memorial Fund. His associates, including Rick Clifton, misused $725,000 for family and friends, violating the trust.
+    text: Tom Albritton directed the Alabama Ethics Commission and oversaw the Mabel Amos Memorial Fund. His associates misused seven hundred twenty-five thousand dollars of public trust funds for family and friends.
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-06T05:12:43.456387Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

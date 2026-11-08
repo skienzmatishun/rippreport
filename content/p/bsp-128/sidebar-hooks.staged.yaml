@@ -5,101 +5,8 @@ metadata:
   main_date: "2022-05-15"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      *   Novelis is building a $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite.
-      *   This project is part of a multi-year effort led by Lance LaCour (former BCEDA Director) and the Chambers of Commerce.
-      *   Governor Kay Ivey is noted for spending $1.7M on ads (via a secret Santa) and her administration is dealing with issues regarding veterans support.
-
-      THE DISCOVERY:
-      *   The Backstory Podcast covered issues related to Alabama's political system, specifically focusing on Governor Kay Ivey firing Admiral Kent Davis and attempting to control the veterans’ board.
-      *   The podcast also exposed a true crime story in Clarke County involving a hospice business and a judge, highlighting "good old boy" system ties.
-
-      THE PIVOT:
-      *   Article 2 provides concrete detail on the political fallout surrounding Governor Ivey and the veterans' board (firing Admiral Kent Davis), which is referenced generally in Article 1 regarding Ivey's spending and political climate.
-
-      KEY ENTITIES:
-      *   Novelis
-      *   Bay Minette, Alabama
-      *   Baldwin County
-      *   Lance LaCour
-      *   Governor Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County
-      *   Morgan County Republican Executive Committee
-    llm_text: Novelis is building a $2.5B low-carbon aluminum plant in Bay Minette, Alabama, but Governor Kay Ivey’s political battles complicate the project. Discover how Ivey fired Admiral Kent Davis and struggled with the veterans' board amid her $1.7M ad spend.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T23:57:26.800397Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Novelis secured a $2.5 Billion contract to build a low-carbon aluminum recycling/rolling facility in Bay Minette, Alabama, on the Baldwin County Megasite; this project originated from an Alliance formed by the Chambers of Commerce at the behest of Baldwin County United, led by Lance LaCour (former BCEDA Director).
-
-      THE DISCOVERY: Article 2 confirms ongoing systemic corruption in Alabama, noting that companies with political ties score million-dollar contracts, public scholarships go to insiders, and lawmakers are pushing to strip local control by allowing state leaders to handpick police chiefs.
-
-      THE PIVOT: Article 2 reframes the specific local contract success (Novelis) from an economic achievement into a symptom of wider, unaccountable political corruption and systemic failure within Alabama's leadership.
-
-      KEY ENTITIES: Novelis, Baldwin County, Bay Minette, Lance LaCour, Chambers of Commerce, Baldwin County United, Governor Ivey, Mr. Still, Fort Morgan Plant, Bertolla, Mobile Maritime Museum ($60M).
-    llm_text: Novelis secured a $2.5B low-carbon facility in Bay Minette, Alabama. Did Lance LaCour's success create an economic win, or just another symptom of systemic corruption benefiting political insiders across Alabama?
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T23:59:46.610187Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   Mack vs Hadley dispute over the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-      *   2005 autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County were never disclosed to the defense (Brady Violation) for Murray Lawrence Jr.
-      *   Corrupt Alabama Federal Judge Mark Fuller operated from Mobile, Alabama.
-
-      THE DISCOVERY:
-      *   The Alabama Court of Civil Appeals released a decision regarding Mack vs Hadley today (date of Article 2).
-      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
-      *   Allegations of corruption include the Dothan Summer Feeding Scandal.
-      *   Iranian drones were observed over New Jersey.
-
-      THE PIVOT:
-      *   Article 2 reveals systemic corruption (Sheriff Mack, Judge Fuller) within Baldwin County and the broader Alabama legal system, providing critical context for the high-stakes, multi-year $2.5 Billion Novelis aluminum plant development project mentioned in Article 1 (Bay Minette, Baldwin County Megasite).
-
-      KEY ENTITIES:
-      *   Novelis
-      *   Bay Minette, Alabama
-      *   Baldwin County
-      *   Lance LaCour
-      *   Sheriff Mack
-      *   Mark Fuller
-      *   Luigi Manjone
-      *   Dothan Summer Feeding Scandal
-      *   United Healthcare
-      *   Alabama Court of Civil Appeals
-    llm_text: Sheriff Mack and corrupt Judge Mark Fuller fueled systemic corruption in Baldwin County. See how this scandal impacts the massive $2.5 Billion Novelis plant development in Bay Minette.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-07T00:01:02.420890Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Novelis is developing a $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite; this was a multi-year village-wide effort initiated by the Chambers of Commerce and Baldwin County United.
-      THE DISCOVERY: A newer podcast discusses President Biden's pardon of his son Hunter, a damning report on the US government's COVID-19 response, and the wrongful arrests of individuals exposing corruption in a local school district.
-      THE PIVOT: Article 2 updates the broader national context of political misconduct and government failure, paralleling the local governance controversies (e.g., Baldwin County Commission repealing the Comprehensive Plan) detailed in Article 1.
-      KEY ENTITIES: Novelis, Bay Minette, Baldwin County Megasite, Lance LaCour, Baldwin County United, Chambers of Commerce, President Biden, Hunter Biden, Governor Ivey, Morgan County Republican Executive Committee.
-    llm_text: Novelis develops a $2.5B low-carbon aluminum plant in Bay Minette, Alabama. Yet, local governance struggles—like the Baldwin County Comprehensive Plan repeal—mirror national misconduct, from the Biden/Hunter pardon to COVID response failures.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-07T00:02:22.417468Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Novelis is building a $2.5 Billion low-carbon aluminum recycling and rolling facility in Bay Minette, Alabama, on the Baldwin County Megasite. This was a multi-year effort initiated by the Chambers of Commerce at the behest of Baldwin County United. Lance LaCour (former BCEDA Director) was a key figure in the project's inception.
-
-      THE DISCOVERY: Podcast No. 186 (Article 2) discusses broader Alabama political and legal issues including closing of rural hospitals, proposed constitutional amendments in Alabama, and the 2024 US Presidential election results.
-
-      THE PIVOT: Article 2 does not provide a direct update on the Novelis project; it provides context on general state political and legal challenges occurring in Alabama.
-
-      KEY ENTITIES: Novelis, Bay Minette, Baldwin County, Lance LaCour, Chambers of Commerce, Baldwin County United
-    llm_text: Novelis is building a $2.5 billion low-carbon aluminum facility in Bay Minette, Alabama. Discover how state challenges—from rural hospital closures to proposed constitutional amendments—affect this massive project in Baldwin County.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T23:58:38.759964Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: eb8742d2d6ae2dc8d477be49c286a3226246743e5261bf7140ef0c7b32b5b80a
     brief: |-
       THE CONFLICT:
       *   Novelis is building a $2.5 Billion, low-carbon Aluminum Plant in Bay Minette, Alabama.
@@ -128,55 +35,36 @@ hooks:
       *   Andy Ruten
       *   Bob Wills
     llm_text: While Novelis builds its $2.5B plant in Bay Minette, Baldwin County approved thousands of residential lots and cut hearing aid taxes. Plus, Andy Ruten is suing the City over the OJ French Jr case, hiring Mayor Bob Wills to handle the malpractice fight.
+    text: Baldwin County approves thousands of new homes while Novelis builds its plant. Meanwhile, Andy Ruten sues the city and hires Mayor Bob Wills for his legal defense.
     widget_date: "2024-10-18"
     generated_at: "2026-11-07T00:03:53.325163Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-pete-rose:
+  backstory-podcast-no-187-the-pardon:
+    refined_source: c7f05e347950818aaf953fb40770127d8b997dc284e24ebc0e0f74793866b2d0
     brief: |-
-      THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022; Body recovered on Sunday May 29, 2022.
-      THE DISCOVERY: Pete Rose passed away this week; Information reward is available regarding the Williams Jr. death.
-      THE PIVOT: Article 2 provides context on ongoing local crime and political issues (MS-13 Operations in Baldwin County) within the same geographic area (Baldwin County) detailed in Article 1 (Novelis plant/Baldwin County Megasite).
-      KEY ENTITIES: Novelis, $2.5 Billion, Bay Minette, Alabama, Baldwin County Megasite, Lance LaCour, Mr. Ingram, Governor Ivey, Katy Britt, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, MS-13 Operations in Baldwin County, Adm. Kent Davis.
-    llm_text: Pete Rose passed away, and a reward is still offered for information regarding Thomas Daniel "Danny" Williams Jr.'s death in Orange Beach. Explore Baldwin County's complex issues—from the Novelis megasite to MS-13 operations—to see why this local case matters now.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-07T00:05:02.878323Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT:
-      *   Novelis is planning a $2.5 Billion, low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite.
-      *   This project began as a multi-year, village-wide effort supported by the Chambers of Commerce and Baldwin County United.
-
-      THE DISCOVERY:
-      *   Recent events in Baldwin County include the robbery of the Renaissance School for special needs kids.
-      *   The Baldwin County Sheriff Department has a new Command Staff.
-
-      THE PIVOT:
-      *   Both articles detail concurrent, high-stakes development and governance issues in Baldwin County, including the repeal of the Comprehensive Plan by the Baldwin County Commission Meeting and local safety/institutional challenges (school robbery).
-
-      KEY ENTITIES:
-      *   Novelis
-      *   Bay Minette, Alabama
-      *   Baldwin County
-      *   Lance LaCour
-      *   Kent David (Former Alabama Veterans Affairs Commissioner)
-      *   Brandon Moseley
-      *   Baldwin County Commission
-    llm_text: Novelis is building a $2.5 billion low-carbon aluminum plant in Bay Minette, Alabama. As Baldwin County tackles a Comprehensive Plan repeal and school robberies, high-stakes development meets urgent local safety challenges.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-07T00:06:17.315461Z"
+      THE CONFLICT: Novelis is developing a $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite; this was a multi-year village-wide effort initiated by the Chambers of Commerce and Baldwin County United.
+      THE DISCOVERY: A newer podcast discusses President Biden's pardon of his son Hunter, a damning report on the US government's COVID-19 response, and the wrongful arrests of individuals exposing corruption in a local school district.
+      THE PIVOT: Article 2 updates the broader national context of political misconduct and government failure, paralleling the local governance controversies (e.g., Baldwin County Commission repealing the Comprehensive Plan) detailed in Article 1.
+      KEY ENTITIES: Novelis, Bay Minette, Baldwin County Megasite, Lance LaCour, Baldwin County United, Chambers of Commerce, President Biden, Hunter Biden, Governor Ivey, Morgan County Republican Executive Committee.
+    llm_text: Novelis develops a $2.5B low-carbon aluminum plant in Bay Minette, Alabama. Yet, local governance struggles—like the Baldwin County Comprehensive Plan repeal—mirror national misconduct, from the Biden/Hunter pardon to COVID response failures.
+    text: Novelis builds a $2.5 billion aluminum plant in Bay Minette. Yet, local leaders repeal the Baldwin County Comprehensive Plan while ignoring public interest.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T00:02:22.417468Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: d636c6e854d4cf668cc975b19f834861ea2c91e4fa7b3f8075dfec588aa91b47
     brief: |-
       THE CONFLICT: Novelis plans $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama/Baldwin County Megasite. Baldwin County Commission repealed the Comprehensive Plan. District 15 shouted down Bertolla rezoning last week. Public Hearing May 19th related to Baldwin County Sewer Service Fort Morgan Plant.
       THE DISCOVERY: VP Kamala Harris has shifted politically from "scourge of the democratic party" to "darling savior." Sheriff Mack in Baldwin County, Alabama, has one week left in office and the Governor is selecting a replacement.
       THE PIVOT: The local political transition (Sheriff Mack replacement, Baldwin County Commission decisions) is occurring during a significant national political shift (VP Harris's political trajectory) and amid major local infrastructure development (Novelis plant).
       KEY ENTITIES: Novelis, Bay Minette, Baldwin County, Lance LaCour, Kamala Harris, Sheriff Mack, Governor Ivey, Mr. Still, RFK Jr.
     llm_text: Baldwin County fights Novelis's $2.5B low-carbon aluminum plant despite the Commission repealing its comprehensive plan. As Sheriff Mack prepares to leave, watch how VP Kamala Harris's political pivot influences this massive Alabama development.
+    text: Baldwin County pushes the Novelis aluminum plant forward after repealing its comprehensive plan. Watch how local leadership handles this massive industrial change.
     widget_date: "2024-08-24"
     generated_at: "2026-11-07T00:07:29.464825Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 2616708e5007c32e16109577fb8c6fa0941b1936c0d761910e2b4dcf04f29b83
     brief: |-
       THE CONFLICT:
       *   Incident occurred in Bay Minette, Alabama, leading to a lawsuit filed on July 31, 2024.
@@ -203,6 +91,138 @@ hooks:
       *   May Jung LLC
       *   $2.5 Billion
     llm_text: OJ French Jr.'s family is suing Bay Minette and Officer Brandon Thompson over his fatal stop. Mayor Robert Bob Wills lied amid this crisis and the Sheriff resigns, raising serious questions about the $2.5 Billion Novelis plant development in Baldwin County.
+    text: The family of OJ French Jr. is suing Bay Minette and Officer Brandon Thompson. Did Mayor Robert Bob Wills lie about the fatal stop while Sheriff Mack resigned?
     widget_date: "2024-08-02"
     generated_at: "2026-11-07T00:08:57.829050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: a98f6e0c78f18c03ebb4c2315ac4f37f3bfd73070eb17de99542ee4d661f1583
+    brief: |-
+      THE CONFLICT:
+      *   Mack vs Hadley dispute over the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      *   2005 autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County were never disclosed to the defense (Brady Violation) for Murray Lawrence Jr.
+      *   Corrupt Alabama Federal Judge Mark Fuller operated from Mobile, Alabama.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a decision regarding Mack vs Hadley today (date of Article 2).
+      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
+      *   Allegations of corruption include the Dothan Summer Feeding Scandal.
+      *   Iranian drones were observed over New Jersey.
+
+      THE PIVOT:
+      *   Article 2 reveals systemic corruption (Sheriff Mack, Judge Fuller) within Baldwin County and the broader Alabama legal system, providing critical context for the high-stakes, multi-year $2.5 Billion Novelis aluminum plant development project mentioned in Article 1 (Bay Minette, Baldwin County Megasite).
+
+      KEY ENTITIES:
+      *   Novelis
+      *   Bay Minette, Alabama
+      *   Baldwin County
+      *   Lance LaCour
+      *   Sheriff Mack
+      *   Mark Fuller
+      *   Luigi Manjone
+      *   Dothan Summer Feeding Scandal
+      *   United Healthcare
+      *   Alabama Court of Civil Appeals
+    llm_text: Sheriff Mack and corrupt Judge Mark Fuller fueled systemic corruption in Baldwin County. See how this scandal impacts the massive $2.5 Billion Novelis plant development in Bay Minette.
+    text: Sheriff Mack and Judge Mark Fuller built a system of deep corruption in Baldwin County. How does that old misconduct affect the new Novelis plant in Bay Minette?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T00:01:02.420890Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 95af7fc92ada14a87b5e1a7dcc4c55a54972e30bec7fc5dda901176b0bee2ef0
+    brief: |-
+      THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022; Body recovered on Sunday May 29, 2022.
+      THE DISCOVERY: Pete Rose passed away this week; Information reward is available regarding the Williams Jr. death.
+      THE PIVOT: Article 2 provides context on ongoing local crime and political issues (MS-13 Operations in Baldwin County) within the same geographic area (Baldwin County) detailed in Article 1 (Novelis plant/Baldwin County Megasite).
+      KEY ENTITIES: Novelis, $2.5 Billion, Bay Minette, Alabama, Baldwin County Megasite, Lance LaCour, Mr. Ingram, Governor Ivey, Katy Britt, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, MS-13 Operations in Baldwin County, Adm. Kent Davis.
+    llm_text: Pete Rose passed away, and a reward is still offered for information regarding Thomas Daniel "Danny" Williams Jr.'s death in Orange Beach. Explore Baldwin County's complex issues—from the Novelis megasite to MS-13 operations—to see why this local case matters now.
+    text: Orange Beach still offers a reward for answers in the death of Thomas Daniel Williams Jr. Why does this unsolved case get ignored while officials chase megasite deals?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T00:05:02.878323Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 99558e2ffb5035e8b14659bc4eb6d6eabd81b277b11c7483c98638c1aa587b64
+    brief: |-
+      THE CONFLICT: Novelis secured a $2.5 Billion contract to build a low-carbon aluminum recycling/rolling facility in Bay Minette, Alabama, on the Baldwin County Megasite; this project originated from an Alliance formed by the Chambers of Commerce at the behest of Baldwin County United, led by Lance LaCour (former BCEDA Director).
+
+      THE DISCOVERY: Article 2 confirms ongoing systemic corruption in Alabama, noting that companies with political ties score million-dollar contracts, public scholarships go to insiders, and lawmakers are pushing to strip local control by allowing state leaders to handpick police chiefs.
+
+      THE PIVOT: Article 2 reframes the specific local contract success (Novelis) from an economic achievement into a symptom of wider, unaccountable political corruption and systemic failure within Alabama's leadership.
+
+      KEY ENTITIES: Novelis, Baldwin County, Bay Minette, Lance LaCour, Chambers of Commerce, Baldwin County United, Governor Ivey, Mr. Still, Fort Morgan Plant, Bertolla, Mobile Maritime Museum ($60M).
+    llm_text: Novelis secured a $2.5B low-carbon facility in Bay Minette, Alabama. Did Lance LaCour's success create an economic win, or just another symptom of systemic corruption benefiting political insiders across Alabama?
+    text: Novelis secured a $2.5 billion facility in Bay Minette. Did Lance LaCour bring a real economic win, or just another insider deal for Alabama politicians?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T23:59:46.610187Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: a73890837867906d32f8bcf191a7d7087bf1751d6a0c8803b4f130dd21ce3b45
+    brief: |-
+      THE CONFLICT:
+      *   Novelis is planning a $2.5 Billion, low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite.
+      *   This project began as a multi-year, village-wide effort supported by the Chambers of Commerce and Baldwin County United.
+
+      THE DISCOVERY:
+      *   Recent events in Baldwin County include the robbery of the Renaissance School for special needs kids.
+      *   The Baldwin County Sheriff Department has a new Command Staff.
+
+      THE PIVOT:
+      *   Both articles detail concurrent, high-stakes development and governance issues in Baldwin County, including the repeal of the Comprehensive Plan by the Baldwin County Commission Meeting and local safety/institutional challenges (school robbery).
+
+      KEY ENTITIES:
+      *   Novelis
+      *   Bay Minette, Alabama
+      *   Baldwin County
+      *   Lance LaCour
+      *   Kent David (Former Alabama Veterans Affairs Commissioner)
+      *   Brandon Moseley
+      *   Baldwin County Commission
+    llm_text: Novelis is building a $2.5 billion low-carbon aluminum plant in Bay Minette, Alabama. As Baldwin County tackles a Comprehensive Plan repeal and school robberies, high-stakes development meets urgent local safety challenges.
+    text: Bay Minette welcomes a $2.5 billion Novelis plant. At the same time, Baldwin County drops its comprehensive plan and deals with rising local safety threats.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T00:06:17.315461Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 9ec1013a5c3c57a0c9f9a0ce538ba40fa89e333ebbc57bf5ed98cac92ca1afcc
+    brief: |-
+      THE CONFLICT:
+      *   Novelis is building a $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite.
+      *   This project is part of a multi-year effort led by Lance LaCour (former BCEDA Director) and the Chambers of Commerce.
+      *   Governor Kay Ivey is noted for spending $1.7M on ads (via a secret Santa) and her administration is dealing with issues regarding veterans support.
+
+      THE DISCOVERY:
+      *   The Backstory Podcast covered issues related to Alabama's political system, specifically focusing on Governor Kay Ivey firing Admiral Kent Davis and attempting to control the veterans’ board.
+      *   The podcast also exposed a true crime story in Clarke County involving a hospice business and a judge, highlighting "good old boy" system ties.
+
+      THE PIVOT:
+      *   Article 2 provides concrete detail on the political fallout surrounding Governor Ivey and the veterans' board (firing Admiral Kent Davis), which is referenced generally in Article 1 regarding Ivey's spending and political climate.
+
+      KEY ENTITIES:
+      *   Novelis
+      *   Bay Minette, Alabama
+      *   Baldwin County
+      *   Lance LaCour
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+      *   Morgan County Republican Executive Committee
+    llm_text: Novelis is building a $2.5B low-carbon aluminum plant in Bay Minette, Alabama, but Governor Kay Ivey’s political battles complicate the project. Read how Ivey fired Admiral Kent Davis and struggled with the veterans' board amid her $1.7M ad spend.
+    text: Governor Kay Ivey fired Admiral Kent Davis and shook up veteran programs. How do these political fights affect major projects like the Novelis plant in Bay Minette?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T23:57:26.800397Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: ab5d6ed050b7abfa90cdecbf7a8352f06c82282a99305d5bc4000eb7a2a9288f
+    brief: |-
+      THE CONFLICT: Novelis is building a $2.5 Billion low-carbon aluminum recycling and rolling facility in Bay Minette, Alabama, on the Baldwin County Megasite. This was a multi-year effort initiated by the Chambers of Commerce at the behest of Baldwin County United. Lance LaCour (former BCEDA Director) was a key figure in the project's inception.
+
+      THE DISCOVERY: Podcast No. 186 (Article 2) discusses broader Alabama political and legal issues including closing of rural hospitals, proposed constitutional amendments in Alabama, and the 2024 US Presidential election results.
+
+      THE PIVOT: Article 2 does not provide a direct update on the Novelis project; it provides context on general state political and legal challenges occurring in Alabama.
+
+      KEY ENTITIES: Novelis, Bay Minette, Baldwin County, Lance LaCour, Chambers of Commerce, Baldwin County United
+    llm_text: Novelis is building a $2.5 billion low-carbon aluminum facility in Bay Minette, Alabama. Read how state challenges—from rural hospital closures to proposed constitutional amendments—affect this massive project in Baldwin County.
+    text: Novelis is building a 2.5 billion dollar low-carbon aluminum facility in Bay Minette. Read how state challenges like rural hospital closures affect this massive Baldwin County project.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T23:58:38.759964Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

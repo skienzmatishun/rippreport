@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   faux-pas:
+    refined_source: cbb03dcd0ad2a867b1565259a04f743ad9a96fbaacfd80ec34f0aa49e24f6e6f
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama, involving extensive failures across law enforcement, prosecutors, defense counsel, courts, and prison system.
 
@@ -15,10 +16,60 @@ hooks:
 
       KEY ENTITIES: Murray Lawrence Jr, BCSO, Donna Givens, Richard Cox, Summerdale, Baldwin County, Hoss Mack
     llm_text: Murray Lawrence Jr. faced a wrongful conviction in Baldwin County, Alabama. Local dysfunction, like Donna Givens' "Catalyst Cabal" in Summerdale, exposes the systemic corruption that failed the courts and law enforcement.
+    text: Murray Lawrence Jr. suffered a wrongful conviction in Baldwin County, Alabama. Local political networks like Donna Givens' group in Summerdale exposed courts and law enforcement that abandoned the public.
     widget_date: "2026-01-26"
     generated_at: "2026-11-06T09:29:15.500286Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-culture-2:
+    refined_source: d07ed30dc41bf98358e2a5738b240fdf669599805b57117c82bcdf17d49d3c5e
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama; BCSO culture of "Absolute Immunity" developed by former sheriff Hoss Mack and maintained by current appointed sheriff Anthony Lowery.
+      THE DISCOVERY: BCSO investigates itself via the Baldwin County Major Crimes Division; this culture has existed for 18 years and involves ignored citizen complaints, unsolved cases, and wrongful convictions.
+      THE PIVOT: Article 2 establishes the long-standing systemic corruption (Absolute Immunity, self-investigation by BCSO) and links Anthony Lowery directly to investigating the conviction of Murray Lawrence Jr., proving the failures described in Article 1 are due to an entrenched, institutional culture, not isolated error.
+      KEY ENTITIES: Murray Lawrence Jr., Anthony Lowery, Hoss Mack, BCSO, Baldwin County, Alabama, Alabama Exposure and Accountability, Scott Boone Consulting/Catalyst, Matt McKenzie
+    llm_text: How did Murray Lawrence Jr. get a wrongful conviction? BCSO's 18-year "Absolute Immunity" culture, tied to Sheriff Anthony Lowery, proves this is institutional failure, not isolated error.
+    text: How did Murray Lawrence Jr. receive a wrongful conviction? The Sheriff's Office operated with absolute immunity under Sheriff Anthony Lowery, proving this failure runs deep within the institution.
+    widget_date: "2026-01-13"
+    generated_at: "2026-11-06T09:33:37.622873Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lee-county-no-justice-center:
+    refined_source: 05745eaa378c08e3793c4f0dc2657acd98b2a641749724fad53c313f85dd5158
+    brief: |-
+      THE CONFLICT: Cole Barkley was convicted of attempted murder and sentenced to 45 years in the Lee County Justice Center in 2021 after being shot by an Auburn Police officer who did not announce his presence.
+      THE DISCOVERY: The Lee County Justice Center functions as a closed "Police Fraternity" where judges (Judge Tickle), prosecutors, and law enforcement are interconnected, creating a system vulnerable to wrongful convictions.
+      THE PIVOT: The documented 2021 case of Cole Barkley in Lee County provides a specific, recent factual example of the systemic legal and law enforcement corruption (Justice Centers, judicial capture) cited broadly in the context of the wrongful conviction of Murray Lawrence Jr. in Baldwin County.
+      KEY ENTITIES: Murray Lawrence Jr, BCSO, Cole Barkley, Nicole, Auburn Police, Lee County Justice Center, Judge Tickle, Baldwin County
+    llm_text: Cole Barkley received 45 years after an Auburn Police officer shot him in 2021. The Lee County Justice Center acts as a "Police Fraternity" with Judge Tickle, showing how this system risks wrongful convictions like Murray Lawrence Jr.'s.
+    text: Cole Barkley received a 45-year prison sentence after an Auburn police officer shot him in 2021. Judge Tickle and local law enforcement operate with zero accountability, risking wrongful convictions like Murray Lawrence Jr.'s.
+    widget_date: "2024-03-11"
+    generated_at: "2026-11-06T09:32:32.362380Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    refined_source: 9dd47be0dd56666b864bb4950118496ac370604b562c8ff294a22f4fe48b1981
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in 2005. He served more than 20 years in prison.
+      THE DISCOVERY: Article 2 identified four key figures (Wilters, Lowery, Mack, Whetstone) who built the case despite a lack of evidence (no DNA, no fingerprints). Key exculpatory evidence was suppressed. The victim, Brandon Hastings, was strangled in Mississippi, not shot in Alabama.
+      THE PIVOT: Article 2 provides the historical evidence (2005 trial details, coerced confession from Jarius McNeil, prosecutorial misconduct by David Whetstone) that supports Article 1's claim of deep corruption in Baldwin County, showing those responsible (Lowery, Wilters) now hold higher political power (Sheriff, DA) as of 2026.
+      KEY ENTITIES: Murray Lawrence Jr., BCSO, Robert Wilters (Presiding Circuit Court Judge 2005; DA since ~2015), Anthony Lowery (Chief Investigator 2005; current Baldwin County Sheriff, appointed by Governor Kay Ivey), Huey 'Hoss' Mack (Lead Investigator/Captain 2005), David Whetstone (Baldwin County DA 2005), Jarius McNeil, Brandon Hastings, Baldwin County, Fairhope.
+    llm_text: Murray Lawrence Jr. served over 20 years for a 2005 capital murder conviction, yet key figures Lowery and Wilters built the case with no DNA. These powerful men—current Baldwin County Sheriff and DA—now hold high office, proving deep corruption persists in Fairhope.
+    text: Murray Lawrence Jr. served over 20 years for a 2005 murder conviction built without DNA evidence. The officials who built that case, Lowery and Wilters, now hold high office in Fairhope.
+    widget_date: "2025-10-01"
+    generated_at: "2026-11-06T09:34:37.163080Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  deal-with-the-devil:
+    refined_source: 6a852bf5f25c401dae82317e2f0d0a90a3905af2986376def3f514ed58499c39
+    brief: |-
+      THE CONFLICT: Murray “Bubba” Lawrence Jr. was convicted by the Baldwin County justice system in connection with the Steve Nodine case on or around December 2, 2010. The trial involved District Attorney David Whetstone, Judge Robert Wilters, and defense attorney Willy Huntly.
+      THE DISCOVERY: The 2000+ page trial transcript established a timeline that reportedly proved Mr. Lawrence had multiple witness alibis, which the court overlooked.
+      THE PIVOT: The 2010 trial details (Whetstone's actions, judge Wilters presiding, documented procedural flaws) provide the specific historical foundation for the claims of extensive corruption and wrongful conviction detailed in the 2026 book, *The Framing of Murray Lawrence Jr.*
+      KEY ENTITIES: Murray Lawrence Jr. ("Bubba Lawrence"), David Whetstone (Prosecuting DA), Robert Wilters (Judge at the time), Willy Huntly (Defense Attorney), Hoss Mack (Baldwin County Sheriff/BCSO), Paul McGarry (Pathologist), Baldwin County, BCSO.
+    llm_text: Murray "Bubba" Lawrence Jr. faced conviction in the 2010 Steve Nodine case, yet a 2000-page transcript proves his alibis were ignored. See how DA David Whetstone and Judge Robert Wilters presided over procedural flaws that fueled claims of systemic corruption in *The Framing of Murray Lawrence Jr.*
+    text: Murray Lawrence Jr. faced conviction during the 2010 Steve Nodine case despite a 2000-page transcript supporting his alibi. DA David Whetstone and Judge Robert Wilters ignored the evidence.
+    widget_date: "2022-03-14"
+    generated_at: "2026-11-06T09:36:25.031066Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-know-the-backstory:
+    refined_source: f7ffe7a68bc3e5577d81a63977663b89c75bd81d46e8cc96d3104f9f48e113e7
     brief: |-
       THE CONFLICT:
       Former Mayor Tim Kant first proposed re-establishing creek biological and hydraulic connectivity in 2014 regarding the Fly Creek culvert issue.
@@ -49,70 +100,36 @@ hooks:
       M & N of Alabama LLC
       $20 million BUILD grant
     llm_text: Former Mayor Tim Kant first flagged the Fly Creek culvert issue in 2014, but Publix development caused a 2023 failure. This Fly Creek negligence mirrors the systemic institutional corruption detailed in our investigation into Murray Lawrence Jr.'s wrongful conviction.
+    text: Former Mayor Tim Kant identified problems at the Fly Creek culvert in 2014, but Publix development caused a major failure in 2023. This negligence reflects the institutional corruption found in Murray Lawrence Jr.'s case.
     widget_date: "2026-01-25"
     generated_at: "2026-11-06T09:31:27.389718Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  lee-county-no-justice-center:
-    brief: |-
-      THE CONFLICT: Cole Barkley was convicted of attempted murder and sentenced to 45 years in the Lee County Justice Center in 2021 after being shot by an Auburn Police officer who did not announce his presence.
-      THE DISCOVERY: The Lee County Justice Center functions as a closed "Police Fraternity" where judges (Judge Tickle), prosecutors, and law enforcement are interconnected, creating a system vulnerable to wrongful convictions.
-      THE PIVOT: The documented 2021 case of Cole Barkley in Lee County provides a specific, recent factual example of the systemic legal and law enforcement corruption (Justice Centers, judicial capture) cited broadly in the context of the wrongful conviction of Murray Lawrence Jr. in Baldwin County.
-      KEY ENTITIES: Murray Lawrence Jr, BCSO, Cole Barkley, Nicole, Auburn Police, Lee County Justice Center, Judge Tickle, Baldwin County
-    llm_text: Cole Barkley received 45 years after an Auburn Police officer shot him in 2021. The Lee County Justice Center acts as a "Police Fraternity" with Judge Tickle, showing how this system risks wrongful convictions like Murray Lawrence Jr.'s.
-    widget_date: "2024-03-11"
-    generated_at: "2026-11-06T09:32:32.362380Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bcso-culture-2:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama; BCSO culture of "Absolute Immunity" developed by former sheriff Hoss Mack and maintained by current appointed sheriff Anthony Lowery.
-      THE DISCOVERY: BCSO investigates itself via the Baldwin County Major Crimes Division; this culture has existed for 18 years and involves ignored citizen complaints, unsolved cases, and wrongful convictions.
-      THE PIVOT: Article 2 establishes the long-standing systemic corruption (Absolute Immunity, self-investigation by BCSO) and links Anthony Lowery directly to investigating the conviction of Murray Lawrence Jr., proving the failures described in Article 1 are due to an entrenched, institutional culture, not isolated error.
-      KEY ENTITIES: Murray Lawrence Jr., Anthony Lowery, Hoss Mack, BCSO, Baldwin County, Alabama, Alabama Exposure and Accountability, Scott Boone Consulting/Catalyst, Matt McKenzie
-    llm_text: How did Murray Lawrence Jr. get a wrongful conviction? BCSO's 18-year "Absolute Immunity" culture, tied to Sheriff Anthony Lowery, proves this is institutional failure, not isolated error.
-    widget_date: "2026-01-13"
-    generated_at: "2026-11-06T09:33:37.622873Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture:
+    refined_source: 7514bd9caa83e6bfe0f6bff47677ba873f38fa237a535d9791ca2bd874f2a232
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr.; 2017 fatal shooting of Jonathan Victor (deputy Lt. Matthew Hunady cleared by federal jury); Stephen Nodine Murder Trial; OJ French killed in Bay Minette.
       THE DISCOVERY: BCSO operates with a culture of blanket immunity, no transparency, and no accountability, as stated by Anthony Lowery.
-      THE PIVOT: Anthony Lowery was the lead investigator in the wrongful conviction of Murray Lawrence Jr.; Hoss Mack (Judge), Robert Wilters, and David Whetstone allegedly hid exculpatory evidence, demonstrating the systemic corruption cited in the book.
+      THE PIVOT: Anthony Lowery was the lead investigator in the wrongful conviction of Murray Lawrence Jr.; Hoss Mack (Judge), Robert Wilters, and David Whetstone hid exculpatory evidence, demonstrating the systemic corruption cited in the book.
       KEY ENTITIES: Murray Lawrence Jr, BCSO, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Jonathan Victor, Matthew Hunady, Stephen Nodine, Peyton Little, Matt McKenzie, Chisesi, Justin Correa, Nodine, Fairhope, Baldwin County, Mayor Wills.
-    llm_text: Anthony Lowery investigated Murray Lawrence Jr.'s wrongful conviction, revealing BCSO operates with blanket immunity. Judges Hoss Mack, Robert Wilters, and David Whetstone allegedly hid critical evidence, proving systemic corruption in Baldwin County.
+    llm_text: Anthony Lowery investigated Murray Lawrence Jr.'s wrongful conviction, revealing BCSO operates with blanket immunity. Judges Hoss Mack, Robert Wilters, and David Whetstone hid critical evidence, proving systemic corruption in Baldwin County.
+    text: Anthony Lowery investigated Murray Lawrence Jr.'s wrongful conviction, exposing a culture of absolute immunity at the Sheriff's Office. Judges Hoss Mack, Robert Wilters, and David Whetstone hid critical evidence.
     widget_date: "2025-10-05"
     generated_at: "2026-11-06T09:30:14.750315Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in 2005. He served more than 20 years in prison.
-      THE DISCOVERY: Article 2 identified four key figures (Wilters, Lowery, Mack, Whetstone) who built the case despite a lack of evidence (no DNA, no fingerprints). Key exculpatory evidence was suppressed. The victim, Brandon Hastings, was strangled in Mississippi, not shot in Alabama.
-      THE PIVOT: Article 2 provides the historical evidence (2005 trial details, coerced confession from Jarius McNeil, prosecutorial misconduct by David Whetstone) that supports Article 1's claim of deep corruption in Baldwin County, showing those responsible (Lowery, Wilters) now hold higher political power (Sheriff, DA) as of 2026.
-      KEY ENTITIES: Murray Lawrence Jr., BCSO, Robert Wilters (Presiding Circuit Court Judge 2005; DA since ~2015), Anthony Lowery (Chief Investigator 2005; current Baldwin County Sheriff, appointed by Governor Kay Ivey), Huey 'Hoss' Mack (Lead Investigator/Captain 2005), David Whetstone (Baldwin County DA 2005), Jarius McNeil, Brandon Hastings, Baldwin County, Fairhope.
-    llm_text: Murray Lawrence Jr. served over 20 years for a 2005 capital murder conviction, yet key figures Lowery and Wilters built the case with no DNA. These powerful men—current Baldwin County Sheriff and DA—now hold high office, proving deep corruption persists in Fairhope.
-    widget_date: "2025-10-01"
-    generated_at: "2026-11-06T09:34:37.163080Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-enforcer-hoss-macks-rise-to-statewide-power:
+    refined_source: f0086518845a15ddd811e38af21a1d3a7b1326222281a5a10f22b3a26d6fe888
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. occurred in Baldwin County, Alabama.
       THE DISCOVERY: Baldwin County functions as a politically influential region in Alabama where power is consolidated, narratives are controlled, and officials rarely face consequences.
       THE PIVOT: The rise of Hoss Mack and the lack of accountability in Baldwin County (Article 2 context) provides the systemic environment that allowed the extensive corruption and failure detailed in the wrongful conviction of Murray Lawrence Jr. (Article 1).
       KEY ENTITIES: Murray Lawrence Jr., Hoss Mack, BCSO (Baldwin County Sheriff's Office), Baldwin County, Alabama.
     llm_text: Murray Lawrence Jr. endured a wrongful conviction in powerful Baldwin County, Alabama. How did the BCSO and Hoss Mack allow this corruption? Read how systemic lack of accountability enables official failure in this influential region.
+    text: Murray Lawrence Jr. endured a wrongful conviction in powerful Baldwin County. How did the Sheriff's Office and Hoss Mack allow this miscarriage of justice to happen in plain sight?
     widget_date: "2025-08-15"
     generated_at: "2026-11-06T09:35:28.180879Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  deal-with-the-devil:
-    brief: |-
-      THE CONFLICT: Murray “Bubba” Lawrence Jr. was convicted by the Baldwin County justice system in connection with the Steve Nodine case on or around December 2, 2010. The trial involved District Attorney David Whetstone, Judge Robert Wilters, and defense attorney Willy Huntly.
-      THE DISCOVERY: The 2000+ page trial transcript established a timeline that reportedly proved Mr. Lawrence had multiple witness alibis, which the court overlooked.
-      THE PIVOT: The 2010 trial details (Whetstone's actions, judge Wilters presiding, documented procedural flaws) provide the specific historical foundation for the claims of extensive corruption and wrongful conviction detailed in the 2026 book, *The Framing of Murray Lawrence Jr.*
-      KEY ENTITIES: Murray Lawrence Jr. ("Bubba Lawrence"), David Whetstone (Prosecuting DA), Robert Wilters (Judge at the time), Willy Huntly (Defense Attorney), Hoss Mack (Baldwin County Sheriff/BCSO), Paul McGarry (Pathologist), Baldwin County, BCSO.
-    llm_text: Murray "Bubba" Lawrence Jr. faced conviction in the 2010 Steve Nodine case, yet a 2000-page transcript proves his alibis were ignored. See how DA David Whetstone and Judge Robert Wilters presided over procedural flaws that fueled claims of systemic corruption in *The Framing of Murray Lawrence Jr.*
-    widget_date: "2022-03-14"
-    generated_at: "2026-11-06T09:36:25.031066Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stealing-our-democracy:
+    refined_source: 81457561861113bb30d6d87524e3c3e58fd4d3250bd567f5aa36e093878b3a04
     brief: |-
       THE CONFLICT:
       *   Governor Don Siegelman was declared winner but Baldwin County used mysterious ballots to flip the final results in favor of Bob Riley.
@@ -140,10 +157,12 @@ hooks:
       *   Baldwin County
       *   Alabama Exposure and Accountability
     llm_text: Don Siegelman won, yet Baldwin County used mysterious ballots to flip the final result to Bob Riley. This systemic corruption, involving Hoss Mack and Judge Michelle Thompsson, shows why Murray Lawrence Jr.'s wrongful conviction was not an accident.
+    text: Don Siegelman won the election, but Baldwin County ballots flipped the final result to Bob Riley. Officials like Hoss Mack and Judge Michelle Thompsson enabled the corruption behind Murray Lawrence Jr.'s conviction.
     widget_date: "2020-06-17"
     generated_at: "2026-11-06T09:37:41.432407Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   judicial-trick:
+    refined_source: e6553a60c510ddce5019695ff985b6fd0405cd5528f7648289a6b57a4857e860
     brief: |-
       THE CONFLICT: Ronan McSherry was assaulted by Paula Dinardi on November 22, 2018. Baldwin County Circuit Judge Clark Stankoski dismissed the serious assault charge because municipal attorney Marcus McDowell failed to amend the Fairhope charging document to include "did cause bodily harm."
 
@@ -153,6 +172,7 @@ hooks:
 
       KEY ENTITIES: Murray Lawrence Jr., BCSO, Baldwin County, Fairhope, Clark Stankoski (Baldwin County Circuit Judge), Marcus McDowell (Municipal Attorney), Jack Burrell (Fairhope City Council President), Ronan McSherry, Paula Dinardi, John Beck (Lawyer), James Pittman (Lawyer), Lagniappe, Alabama Exposure and Accountability.
     llm_text: Judge Clark Stankoski dismissed Ronan McSherry's assault charge because Marcus McDowell failed to amend the Fairhope charging document. This failure exposes systemic judicial trickery and political influence favoring Jack Burrell in Baldwin County.
+    text: Judge Clark Stankoski dismissed Ronan McSherry's assault charge because Marcus McDowell failed to update the Fairhope charging documents. This court failure protected Jack Burrell from public scrutiny.
     widget_date: "2020-04-18"
     generated_at: "2026-11-06T09:38:38.513383Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

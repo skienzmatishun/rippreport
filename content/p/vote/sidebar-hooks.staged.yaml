@@ -1,0 +1,37 @@
+metadata:
+  generated_at: "2026-11-08T11:05:10.325667Z"
+  generator_version: 1.0.0
+  post_slug: vote
+  main_date: "2018-07-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  ask-chris-elliott-catalyst-red-flags:
+    brief: |-
+      THE CONFLICT: Christopher G Stradtman sold property to Mr. Elliott and his wife on January 3, 2018, in Elberta on Key Hole Rd.
+      THE DISCOVERY: The property, valued at $290,000, was purchased by Mr. Elliott for $49,725.20, financed by a $100,000 mortgage from Trustee National Bank.
+      THE PIVOT: The 49,725.20 purchase price relative to the $290,000 valuation, combined with the specific financial arrangements, provides historical context (red flags) relevant to current political scrutiny (VOTE).
+      KEY ENTITIES: Mr. Elliott, his wife, Christopher G Stradtman, Trustee National Bank, Baldwin County Probate Judge/Office, Elberta.
+    llm_text: Christopher G Stradtman sold a $290,000 Elberta property to Mr. Elliott for only $49,725 in 2018. See how this specific financial arrangement with Trustee National Bank offers critical context for current political scrutiny.
+    widget_date: "2018-07-16"
+    generated_at: "2026-11-08T11:02:44.215442Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-first-christian-church-of-hypocrites-of-baldwin-county:
+    brief: |-
+      THE CONFLICT: Tim Can’t was defeated in a Baldwin County election; Church members subsequently disrupted the Fairhope Government and attacked the Mayor.
+      THE DISCOVERY: The First Christian Catalyst Church of Fairhope CCCF promotes political takeover using religious values, has a history of conflicts of interest, and supports candidates like Mr. Elliott, who raised over $500,000 from special interest groups.
+      THE PIVOT: The CCCF's documented history of unethical political influence (e.g., Mr. Elliott's campaign using the School Superintendent and Sheriff for support, filing meritless complaints) provides the historical context for the current election focus (VOTE JULY 17th).
+      KEY ENTITIES: First Christian Catalyst Church of Fairhope CCCF, Tim Can’t, Mr. Elliott, Fairhope Mayor, Judge Thomasson, Baldwin County, Bay Minette, July 17th, $500,000
+    llm_text: The First Christian Catalyst Church of Fairhope CCCF disrupted Fairhope after Tim Can't’s defeat, promoting political takeover through religious values. See how Mr. Elliott raised over $500,000 from special interests and read the full history before you vote July 17th.
+    widget_date: "2018-07-15"
+    generated_at: "2026-11-08T11:03:45.564854Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-held-back:
+    brief: |-
+      THE CONFLICT: Elections occurred in Baldwin County involving 8 Catalyst Candidates and multiple races (County Commission D1, District Court Judge, Probate Judge, State Senate Seat 32, Circuit Clerk, Alabama Court of Appeals). Catalyst spent over $500,000, but only won three races.
+      THE DISCOVERY: Out of 150,104 registered voters in Baldwin County, only 36,073 voted, representing 24% turnout.
+      THE PIVOT: The low voter turnout (24%) provides context for the extremely close results (e.g., County Commission D1 decided by 1000 votes; Joe Davis beat John Lake by 1%), illustrating that high funding ($500,000+) did not guarantee victory against the People's Choice who spent less than $10,000.
+      KEY ENTITIES: Baldwin County; Catalyst; People’s Choice; Jeb Ball; Frank Burt; Joe Davis; John Lake; Skip Gruber; Jerry Johnson; Billie Joe Underwood; Tucker Dorsey; Elliott; David Northcutt; Thomason; Christy Edwards; Jody Wise Campbell; Mark Stejskal.
+    llm_text: In Baldwin County, Catalyst spent over $500,000 but won only three races. Joe Davis beat John Lake by just 1%, showing small-spending challengers outperformed high-funding campaigns amid low 24% voter turnout.
+    widget_date: "2018-06-06"
+    generated_at: "2026-11-08T11:04:53.090384Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

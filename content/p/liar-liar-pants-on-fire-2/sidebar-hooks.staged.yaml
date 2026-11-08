@@ -1,0 +1,173 @@
+metadata:
+  generated_at: "2026-11-07T05:12:53.456682Z"
+  generator_version: 1.0.0
+  post_slug: liar-liar-pants-on-fire-2
+  main_date: "2021-09-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  no-98-ethical-abortion:
+    refined_source: 5e8b912ef305c8efe15febf92790aaf9d55629fe6f346f56fa06ff7b518abc60
+    brief: |-
+      THE CONFLICT: Fly Creek apartments project in Fairhope involved corruption, drainage issues, and multiple violations resulting in over 5 lawsuits and hundreds of thousands of dollars in taxpayer cost. Key figures included Mayor, Arthur Corte, Council President Jack Burrell, and developer Stewart “The Liar” Speed of Leaf River Group.
+
+      THE DISCOVERY: The Alabama Ethics Commission and General Counsel responded to Mr. Ripp's complaints against The Executive Director Tom Albritton concerning the Mable Amos Scholarship Trust.
+
+      THE PIVOT: Article 2 reveals parallel ethical and governance issues (e.g., Tom Albritton's trust, Brittney Wood's disappearance in Baldwin County) in the broader regional context of Baldwin County, matching the systemic corruption exposed by the Fly Creek project in Article 1. (Note: No direct factual link connects the two events).
+
+      KEY ENTITIES: Stewart “The Liar” Speed, Leaf River Group, Jack Burrell, Arthur Corte, Tom Albritton, Mr. Ripp, Fairhope, Baldwin County, Mable Amos Scholarship Trust.
+    llm_text: Fly Creek corruption exposed Mayor Arthur Corte and Jack Burrell, costing taxpayers hundreds of thousands. This systemic failure extends across Baldwin County, including ethical issues surrounding Tom Albritton's Mable Amos Scholarship Trust.
+    text: Fly Creek corruption exposed Mayor Arthur Corte and Jack Burrell at taxpayer expense. This systemic failure extends across Baldwin County and into state ethics offices.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-07T05:09:28.729379Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-of-the-un-vaccinated:
+    refined_source: 295532499b743ef55d62c2c7126ced1ee29e0415128754f62e27896cf8ffeb75
+    brief: |-
+      THE CONFLICT:
+      *   2020 Arts and Craft show debated by Fairhope City Council and candidate Sherry Sullivan regarding COVID mitigation.
+      *   Mayor Karen Wilson initially expressed caution, stating decisions would rely on State Health Officer recommendations.
+      *   Council President Jack Burrell tested positive for coronavirus last year and initially stated vaccination was a personal choice.
+      *   Jack Burrell previously boasted that the Bayway Bridge should be built without federal money, later backtracking when realizing federal funding was necessary.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council and Mayor changed their stance on COVID protocol and incentivizing vaccination after receiving federal money via the American Rescue Plan.
+      *   The city awarded $500 (full-time with proof of vaccination), $250 (part-time with vaccination), and $125 (seasonal) employee compensation.
+      *   This shift demonstrated a change from initial fiscal conservatism to accepting federal funds.
+
+      THE PIVOT:
+      *   Article 2 establishes the pattern of the Fairhope City Council and Mayor prioritizing immediate financial gain (federal funds) over consistent public health guidance or stated fiscal conservatism.
+      *   This pattern of political flip-flopping and prioritizing self-interest provides context for the corruption and alleged 'back door meetings' mentioned in Article 1 regarding the Fly Creek apartments project.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Mayor Karen Wilson
+      *   Jack Burrell (Council President)
+      *   Sherry Sullivan
+      *   Arthur Corte (Developer)
+      *   Stewart “The Liar” Speed (Leaf River Group)
+      *   Fly Creek apartments (Fairhope Village Apartments at Publix)
+      *   American Rescue Plan
+      *   2020 Arts and Craft show
+      *   Parker Road
+      *   Grand Hotel
+      *   Stephanie Durnin
+      *   Stephanie Hannon
+    llm_text: Mayor Karen Wilson and Council President Jack Burrell shifted COVID rules and incentivized vaccination only after securing American Rescue Plan funds. This financial pivot shows they prioritize federal money over public health, setting the stage for Fly Creek corruption allegations.
+    text: Mayor Karen Wilson and Council President Jack Burrell changed COVID rules only after securing federal funds. They prioritized federal money over public health before facing corruption claims.
+    widget_date: "2021-08-13"
+    generated_at: "2026-11-07T05:11:35.818109Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  where-is-the-media:
+    refined_source: 2f33537ca046345975857e7b29456b901e1901085f341367ff1048311844fa2a
+    brief: |-
+      THE CONFLICT: Tom Albritton (Alabama Ethics Commission Director) used the Mabel Amos Memorial Fund (a trust) to finance his children’s education, violating the trust's intent. This occurred alongside the non-disclosure of a 2010 oil discovery in Conecuh County (60-80 million dollars pumped).
+      THE DISCOVERY: Article 2 revealed institutional corruption involving Regions Bank and the Alabama Ethics Commission, alongside government secrecy regarding oil revenue in Conecuh County.
+      THE PIVOT: Article 2 establishes a historical pattern of unchecked institutional corruption and media silence within Alabama governance (2021), providing context for the subsequent development corruption and lack of accountability in Fairhope (Fly Creek project).
+      KEY ENTITIES: Tom Albritton, Regions Bank, Mabel Amos Memorial Fund, Conecuh County, Stewart “The Liar” Speed, Leaf River Group, Jack Burrell, Arthur Corte, Fly Creek/Fairhope Village Apartments at Publix.
+    llm_text: Tom Albritton misused the Mabel Amos Memorial Fund for his children while hiding a $60-80M Conecuh County oil discovery. This systemic corruption links Albritton, Regions Bank, and the Alabama Ethics Commission.
+    text: Tom Albritton misused a memorial fund for his children while hiding a massive oil discovery. This systemic corruption links Albritton, Regions Bank, and state ethics officials.
+    widget_date: "2021-08-06"
+    generated_at: "2026-11-07T05:10:33.850610Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mega-lost-opportunity:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope Village Apartments / Fairhope Village at Publix / Fly Creek apartments: alleged corruption in Fairhope.
+      - Over 5 lawsuits resulting from polluting Fly Creek, drainage issues, and multiple violations; cost taxpayers hundreds of thousands of dollars.
+      - Public meetings held; attendance 250–300 people opposing project on banks of Fly Creek; cited as reason Tim Can lost re-election bid; council exposed for back-door meetings with developers.
+      - Then-Mayor and benefactor developer Arthur Corte; Council President Jack Burrell; Burrell acted as if listening but betrayed; Burrell responsible for gift.
+      - Stewart “The Liar” Speed of Leaf River Group, developers from Mississippi; told Fairhope audience 250–300 citizens apartments would be luxury; signature apartments of Leaf River; never sold to any other apartment management group; environmental sound; never contaminate Fly Creek; all lies and knew when said; recorded live.
+      - Since construction: 5 lawsuits, contamination of creek, destruction of easements/right-of-ways, failure to provide infrastructure for traffic on Parker Road; poor management, partial flooding, electric and water pressure issues; Leaf River management replaced, replaced again when project sold; sold as predicted.
+      - Lawyer and Grand Hotel employee gave insight into Speed history; Speed moved to Mobile project; sold before completion; failings matched Fairhope.
+      - Speed still working on town homes in same Fly Creek project; overpriced with view of Publix loading dock and surrounded by red clay; not selling well.
+      - Speed likes Fairhope; going to make it new home; divorced wife of 25 years; remarry at Grand Hotel this Friday; crowd who’s who of Baldwin development.
+
+      - Baldwin County Mega Site background:
+      - Ripp Report following Mega-site black hole since original $32 million purchase of land.
+      - Baldwin County Commission unanimously approved in 2012 paying $25,976,500 to Crosby Trust and $6,312,500 to Catawba Land Company LLC for property in 2012. County since paid $8.5 million on debt but still owes $23,775,798; divided into $10,350,000 debt tied to 2014 General Obligation Warrant and $13,425,798.99 debt remaining on $15 million borrowed from own oil and gas trust fund.
+      - County annual payments: $392,790 for General Obligation Warrant; starting in 2020 annual payments of $762,790; pays $1,297,508 per year to oil and gas trust fund.
+      - In 2015, with no sign, no identity, no infrastructure, no rail, no water or power, no constructive sales package, county commission continued to pour good money after bad into Mega-site, without audit.
+      - Treasurer Kimberly Creech; Baldwin County Budget Director Ron Cink; BCEDA nonprofit receives hundreds thousands dollars every year in funding from County Commission and local municipalities.
+      - Taxpayers invested $150,000 more into Mega Site after initial purchase for improvements to access and visibility; around $15 million debt remains outstanding; about $8 million owed to county’s oil and gas trust fund from general fund, plus around $7 million in general obligation warrants; total investment around $48 million including interest.
+      - Recent 12.5 million from Growing Alabama Tax Credit Program for improvements; improvements should have been made at purchase of property not 10 years later; site never had sign or identity until Ripp Report and Lagniappe made it an issue.
+      - Bottom line: $32 million in 2012, almost 10 years ago, would probably be $50 million today, considering lost opportunity.
+      - Recent penny school tax skimmed $5 million for county infrastructure projects while telling everyone good deal; schools now have $5 million less; deal with devil and no one got to vote on it.
+      - Citizens after investing $32 million now being told no mega sites in Alabama left except one in Baldwin County; dead last, but only choice; one hell of sales pitch.
+
+      THE DISCOVERY:
+      - Article 2 showed/revealed at the time: flow of false and misleading information from Baldwin County Economic Development Alliance.
+      - President and CEO of BCEDA Lee Lawson claimed site was “shovel ready” for years; site did not even have sign or gate for years.
+      - Lawson reported courting some 55 to 60 “real inquiries” from potential developers over past eight years; later said economic development officials nationwide recognizing recent uptick of interest for “shovel-ready” mega sites; believes ongoing investment into South Alabama Mega Site will eliminate time and extraneous costs, making future development more attractive.
+      - Lawson brags about 55 to 60 inquiries and site being shovel ready; same lecture over and over; if show something for sale or lease, 55 to 60 times, and do not sell, something not right or full of B.S.
+      - Lawson spoke about Fairhope Airport in exact same terms as mega-site; exaggerate potential sales and need; never provide solid proof or contracts.
+      - Senator Chris Elliott, Aug 28, 2018, on advanced manufacturing in U.S., car manufacturing states like Alabama, particularly Baldwin County’s certified Mega Site.
+      - Lamar Advertising concerned billboard at Baldwin County mega site won't have enough traffic; AL.com Mobile @ALcomMobile March 27, 2013.
+      - Baldwin Mega Site still looking for big industry; Baldwin County’s 3,009 acre Mega Site cost county $30...; Pensacola Daily News @PensacolaDaily Sept 2, 2014.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and should be framed as background/historical context.
+      - Article 2 revealed/established BCEDA/Lee Lawson pattern of false/misleading claims, shovel-ready claims, lost opportunity, mega-site mismanagement.
+      - Article 1 is newer and covers Fairhope Leaf River Group/Stewart Speed alleged lies and corruption.
+      - Article 2 is smoking gun/key context for Article 1 because it documents long-running false public claims and public investment/lost opportunity before Article 1; connects to same Baldwin County economic development narrative, public meetings, false claims, taxpayer costs.
+
+      THE KEY ENTITIES:
+      - Fairhope; Fairhope Village Apartments; Fairhope Village at Publix; Fly Creek; Publix; Baldwin County; Baldwin County Economic Development Alliance (BCEDA); Baldwin County Mega Site; South Alabama Mega Site; Fairhope Airport; Parker Road; Mobile; Mississippi; Alabama; Baldwin County Commission; Commissioner Joe Davis; Treasurer Kimberly Creech; Budget Director Ron Cink; Senator Chris Elliott; AL.com Mobile; Pensacola Daily News; Gulf Coast News; Growing Alabama Tax Credit Program; Alabama Commerce Department; Crosby Trust; Catawba Land Company LLC; oil and gas trust fund; general obligation warrant; Lee Lawson; Stewart “The Liar” Speed; Leaf River Group; Arthur Corte; Jack Burrell; Tim Can; Grand Hotel; Lamar Advertising.
+    llm_text: Fairhope's council took developer Stewart 'The Liar' Speed at his word while hiding back-door deals, and five Fly Creek lawsuits over pollution may now cost taxpayers hundreds of thousands. The Baldwin County Mega Site lost nearly $50 million, and leaders kept calling it shovel ready without a sign.
+    text: Fairhope's council took developer Stewart 'The Liar' Speed at his word while hiding back-door deals, and five Fly Creek lawsuits over pollution may now cost taxpayers hundreds of thousands. The Baldwin County Mega Site lost nearly $50 million, and leaders kept calling it shovel ready without a sign.
+    widget_date: "2021-07-30"
+    generated_at: "2026-11-07T05:07:18.943792Z"
+    model_name: recursive/flint-v1.0:free
+  live-like-a-coward-die-like-a-coward:
+    refined_source: 584ae90fa68841366f08e9b0e00aca459ddd33f51715416e9e9e6e2b9bc5ee23
+    brief: |-
+      THE CONFLICT:
+      1. Fairhope corruption regarding Fly Creek apartments (Fairhope Village Apartments at Publix) resulted in over 5 lawsuits, drainage issues, and multiple violations costing taxpayers hundreds of thousands of dollars. (Article 1)
+      2. John McAfee fled a wrongful death lawsuit in Arizona, orchestrated a murder in Belize (Gregory Faull), and subsequently fled the country. (Article 2)
+
+      THE DISCOVERY:
+      1. Article 2 reveals that John McAfee, seeking to escape U.S. legal accountability, orchestrated the death of Gregory Faull in Belize.
+
+      THE PIVOT:
+      1. No factual connection exists between the municipal corruption in Fairhope (Fly Creek project) and the international fugitive activities of John McAfee.
+
+      KEY ENTITIES:
+      1. Stewart “The Liar” Speed (Leaf River Group)
+      2. Jack Burrell (Council President)
+      3. Arthur Corte (Benefactor Developer)
+      4. Tim Can’t (Former Mayor)
+      5. John McAfee
+      6. Tom Mangar
+      7. Gregory Faull
+      8. Belize
+      9. Fairhope
+      10. Fly Creek
+      11. Spain
+    llm_text: Fairhope corruption regarding the Fly Creek apartments cost taxpayers hundreds of thousands. Separately, John McAfee orchestrated Gregory Faull’s murder in Belize to escape U.S. legal accountability.
+    text: Fairhope corruption regarding the Fly Creek apartments cost taxpayers hundreds of thousands of dollars. Local officials continue to avoid legal accountability for their actions.
+    widget_date: "2021-06-25"
+    generated_at: "2026-11-07T05:07:57.134903Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-red-flags-faux-hope:
+    refined_source: a724c9fc374b2e818d4d24c47ad6b7cfb5af0b6aec9ea8b2fa2a24e5218fea6f
+    brief: |-
+      THE CONFLICT: Fly Creek apartment project (Fairhope Village Apartments at Publix) resulted in over 5 lawsuits due to pollution, drainage issues, and violations. Developers (Leaf River Group/Stewart Speed) misled the public about luxury status and environmental soundness. Council President Jack Burrell was involved in behind-the-scenes communications regarding a gift from Mr. Speed.
+      THE DISCOVERY: Article 2 revealed a pattern of systemic corruption and lack of transparency in Fairhope, including Jack Burrell's history of bid rigging at the Fairhope Airport Authority, refusal to tape Airport Authority meetings since February, and politically motivated land deals (e.g., substation placement in Hawthorne Glenn in April; $40,000 purchase of Kathy Hoffren's land).
+      THE PIVOT: Article 2 establishes Jack Burrell's documented, prior history of unethical behavior, lack of public transparency, and misuse of city power (Airport Authority, land deals) which provides context and evidence for his alleged complicity in the Fly Creek corruption (Article 1).
+      KEY ENTITIES: Jack Burrell, Stewart "The Liar" Speed, Leaf River Group, Arthur Corte, Fly Creek apartments / Fairhope Village Apartments at Publix, Fairhope City Council, Fairhope Airport Authority, Kathy Hoffren, Karin Wilson, Mayor Wilson, Lee Lawson.
+    llm_text: Fly Creek apartments sparked over 5 lawsuits regarding pollution and drainage, involving Stewart Speed and Leaf River Group. New evidence reveals Council President Jack Burrell has a documented history of bid rigging at the Airport Authority, connecting his past corruption to the Fly Creek scandal.
+    text: Fly Creek apartments face multiple lawsuits over pollution and drainage issues. New evidence reveals Council President Jack Burrell has a documented history of bid rigging.
+    widget_date: "2021-06-18"
+    generated_at: "2026-11-07T05:12:39.840017Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ugly:
+    refined_source: 91325ce531355093cec84baeb772642b10f889e11fa9f58846bca1c45f39757d
+    brief: |-
+      THE CONFLICT: Allegations of white collar crime and political corruption involving the Mabel Amos Memorial Trust and Regions Bank in Alabama.
+      THE DISCOVERY: The Ethics Commission, Judiciary, Bar Association, and Attorney General failed to investigate or act on allegations regarding the Mabel Amos Memorial Trust, which harbored millions at Regions Bank.
+      THE PIVOT: The systemic failure of Alabama oversight agencies detailed in the older article provides the necessary context that the localized developer corruption (Leaf River Group/Fly Creek apartments) detailed in the newer article is not an isolated incident, but a manifestation of statewide political corruption.
+      KEY ENTITIES: Tom Albritton, Regions Bank, Mabel Amos Memorial Trust, Tommy Gallion, Leigh Manning, Stewart “The Liar” Speed, Leaf River Group, Jack Burrell (Council President), Arthur Corte, Tim Can’t, Fly Creek, Fairhope.
+    llm_text: Alabama oversight failed the Mabel Amos Memorial Trust, which held millions at Regions Bank without investigation. Don't mistake Leaf River Group's Fly Creek issues for isolated developer problems; this systemic corruption runs through state politics.
+    text: State oversight failed a memorial trust holding millions of dollars at Regions Bank. Developer issues are just one part of this systemic corruption in state politics.
+    widget_date: "2021-09-10"
+    generated_at: "2026-11-07T05:06:45.639341Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

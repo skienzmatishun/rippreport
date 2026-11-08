@@ -5,64 +5,27 @@ metadata:
   main_date: "2027-09-09"
   model_name: recursive/flint-v1.0:free
 hooks:
-  a-reckoning-is-predicted-2:
-    brief: |-
-      THE CONFLICT:
-      - Past event: Murray Lawrence Jr. remained in prison for more than twenty years for a crime that Mississippi’s forensic expert concluded he did not commit.
-      - Confessed killer: Jarius McNeil.
-      - McNeil avoided execution by blaming an innocent man; that claim became the foundation of the conviction.
-      - Conviction was built without jurisdiction, without physical evidence, and without the due process required by law.
-      - Critical evidence was ignored, legal failures went unchallenged, and attempts to expose the truth were blocked.
-      - Case exposes intersection of power, race, and corruption in Baldwin County, Alabama.
-
-      THE DISCOVERY:
-      - Article 2 is older than Article 1; frame it as background/historical context.
-      - Article 2 title: A Reckoning is Predicted.
-      - Article 2 states: money wins elections; sometimes the best man does not win; especially when only 10 percent of the voting public decides who wins and all the rest just bitch.
-      - Sheriff Anthony Lowery had five times the money of opponent Matt McKenzie; Lowery could not stand in McKenzie’s shade, but money and GOB control prevailed.
-      - Lowery had former Sheriff Hoss Mack turning over every rock he could; Mack will be Lowery’s downfall and is responsible for total lack of transparency and accountability of the BCSO.
-      - Hoss Mack is trying to become head of ALEA, Alabama Law Enforcement Agency; The Ripp Report personally notified ALEA about Little Hoss’s plan.
-      - Baldwin County, despite only 10 percent of constituents voting, is shifting away from the GOB.
-      - In years past only 1 or 2 protagonists pointed out deficiencies of the sheriff office and the GOB’s; podcasts, social media, and publications like Lagniappe inspired at least a half dozen new warriors against the injustice of the BCSO and the GOB’s of Baldwin County.
-      - BCSO will have a new sheriff in the next election; Lowery and Mack will be put to pasture.
-      - Senator Chris Elliott is in his last term as a state senator; will try to move up the political ladder and fail; consummate liar; use of PAC money, dark money, and GOB endorsements not going to work in next election; solar farm, gambling issues, and PAC money in closet will do him in; secret ambition to become Director of Gaming for State of Alabama.
-      - Baldwin County has a new judge supported and endorsed by the top tier of GOB’s.
-      - District Attorney Robert Wilters and Hoss Mack; consultants Jon Gray and Scott Boone teamed up and paid to represent Kristi Hagood.
-      - Hagood was not qualified to become a judge but was qualified to represent the GOB’s.
-      - Sad irony: Anthony Lowery, Hoss Mack, Robert Wilters, and new judge Kristi Hagood are all involved in the wrongful conviction of Murray Lawrence Jr.
-
-      THE PIVOT:
-      - Article 2 is the smoking gun/key context for Article 1 because it frames political power, money, GOB control, elections, new judge, District Attorney, and sheriff as part of the same system that failed Murray Lawrence Jr.
-      - Article 2 connects to Article 1 through Anthony Lowery, Hoss Mack, Robert Wilters, and new judge Kristi Hagood, all described as involved in the wrongful conviction.
-      - Article 2 frames the upcoming election, new judge, District Attorney Robert Wilters, and BCSO changes as part of the reckoning.
-      - It explains how GOB control and money influenced the system that failed Murray Lawrence Jr.
-
-      THE KEY ENTITIES:
-      - People: Murray Lawrence Jr., Jarius McNeil, Hoss Mack, Anthony Lowery, Matt McKenzie, Chris Elliott, Robert Wilters, Jon Gray, Scott Boone, Kristi Hagood, David Whitstone.
-      - Organizations: Baldwin County Sheriff’s Office (BCSO), Alabama Law Enforcement Agency (ALEA), GOB, District Attorney’s office, State Senate, Alabama.
-      - Locations: Baldwin County, Alabama; Mississippi.
-      - Positions/titles: Sheriff, former Sheriff, District Attorney, state senator, judge, Director of Gaming for State of Alabama, ALEA head.
-    llm_text: Murray Lawrence Jr. spent over twenty years in prison because Jarius McNeil confessed to his murder and Anthony Lowery’s Hoss Mack ignored the truth. The Reckoning shows how Baldwin County’s sheriff, judge, and prosecutor let power and money crush an innocent man.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-06T04:22:01.380053Z"
-    model_name: recursive/flint-v1.0:free
   midterm-election-special:
+    refined_source: 5f40c10590392af7ac5683c8cb061b8764a5d6b0da8d71c0d824bea52ce9fdcd
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama, spanning over twenty years; conviction based on coerced testimony of Jarius McNeil.
       THE DISCOVERY: Baldwin County faces overdevelopment and corruption, impacting local political races (e.g., Alabama 2026 Governor Race).
       THE PIVOT: Article 2 establishes the ongoing, documented political and systemic corruption within Baldwin County, providing the real-world context for the institutional failure and control over the justice system detailed in the Murray Lawrence Jr. case.
       KEY ENTITIES: Murray Lawrence Jr., Jarius McNeil, Baldwin County, Alabama, John Wahl, Ken McFeeters, Tommy Tubberville
     llm_text: Murray Lawrence Jr. spent over twenty years wrongly convicted in Baldwin County, Alabama, based on coerced testimony from Jarius McNeil. This injustice reflects deeper Baldwin County corruption, showing how local power controls the justice system and impacts the 2026 Governor Race.
+    text: Murray Lawrence Jr. spent over twenty years wrongfully convicted based on coerced testimony from Jarius McNeil. This injustice shows how local power controls the justice system.
     widget_date: "2026-11-02"
     generated_at: "2026-11-06T04:21:42.068377Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   key-figures:
+    refined_source: 3f01c779f604bccd25aceda782c514a3023b4a1340e141251f252d48dc255375
     brief: |-
       THE CONFLICT: Murray Lawrence Jr. was wrongly convicted in Baldwin County, Alabama, around 2005. The conviction was based on coerced testimony from the actual killer, Jarius McNeil, lacking jurisdiction, physical evidence (no murder weapon, DNA, fingerprints), and an independent Alabama autopsy. The trial was overseen by Robert Wilters (Circuit Court Judge). John David Whetstone was the Baldwin County District Attorney. Hoss Mack (Chief Deputy) oversaw the investigation, allowing the victim’s body to go to Mack Funeral Home.
       THE DISCOVERY: The officials responsible for the 2005 conviction—including Wilters, Mack, and Lowery—have maintained influence in Baldwin County and state law enforcement. Hoss Mack is the Executive Director of the Alabama Sheriffs Association. Anthony Lowery, who worked under Mack, was appointed Baldwin County Sheriff in 2024 and will run for a full term in 2026.
       THE PIVOT: Article 2 reveals that the systemic failure and corruption cited in Article 1 (the system closed ranks; those who created the conviction still control it) is not historical but ongoing, demonstrated by the continued power, influence, and lack of accountability among the original case builders.
       KEY ENTITIES: Murray Lawrence Jr., Jarius McNeil, Baldwin County, Alabama, Robert Wilters (Circuit Court Judge), John David Whetstone (District Attorney), Hoss Mack (Chief Deputy/Executive Director of Alabama Sheriffs Association), Anthony Lowery (Baldwin County Sheriff/Candidate 2026), Dr. Paul McGarry (pathologist).
     llm_text: Officials who wrongly convicted Murray Lawrence Jr. in 2005—including Hoss Mack and Anthony Lowery—still run Baldwin County law enforcement. They show that the system failed then and continues to lack accountability now.
+    text: Officials who wrongly convicted Murray Lawrence Jr. in 2005, including Hoss Mack and Anthony Lowery, still run Baldwin County law enforcement without accountability.
     widget_date: "2026-09-02"
     generated_at: "2026-11-06T04:22:39.082293Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -110,10 +73,12 @@ hooks:
       - Courts/legal filings: Full Court Transcript; Rule 32 - State Filing; Supreme Court - State Filing; Habeas Corpus - Federal Filing; Petition for Writ of Certiorari – Federal Filing; 32.1(b) Jurisdiction Filing.
       - Lowery, Wilters — names flagged for Key Entities; no further details in supplied text.
     llm_text: Murray Lawrence Jr. faces life without parole for a murder he did not commit, and confessed killer Jarius McNeil blamed him to avoid execution. His coerced blame now frames a new book and documentary about Alabama prisons, raising questions about a conviction built without evidence or due process.
+    text: Murray Lawrence Jr. faces life without parole for a murder he did not commit, and confessed killer Jarius McNeil blamed him to avoid execution. His coerced blame now frames a new book and documentary about Alabama prisons, raising questions about a conviction built without evidence or due process.
     widget_date: "2026-08-17"
     generated_at: "2026-11-06T04:23:07.632658Z"
     model_name: recursive/flint-v1.0:free
   fairhope-wrongful-conviction:
+    refined_source: 44b9f272d554fda1989601cbe6cf5428352ff2e1c6aa87b3f86e695b2b870d9f
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. was wrongfully convicted of a murder in Baldwin County, Alabama. The conviction was based solely on the testimony of Jarius McNeil, a convicted criminal, who coerced a false confession to avoid capital punishment.
@@ -131,6 +96,7 @@ hooks:
       BCSO
       20+ years (duration of wrongful imprisonment)
     llm_text: Murray Lawrence Jr. endured over 20 years of wrongful conviction in Baldwin County, Alabama. His case relied solely on coerced testimony from Jarius McNeil, exposing deep systemic corruption within the local BCSO justice system.
+    text: Murray Lawrence Jr. endured over 20 years of wrongful imprisonment in Baldwin County. His case relied solely on coerced testimony from Jarius McNeil, exposing deep BCSO corruption.
     widget_date: "2026-08-01"
     generated_at: "2026-11-06T04:23:54.793141Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -177,6 +143,7 @@ hooks:
       - Baldwin County justice system / prosecution network.
       - Key topics mentioned: Elections, Hoss Mack, Lowery, Ivy.
     llm_text: Murray Lawrence Jr. spent over 20 years in prison for a crime Mississippi’s forensic expert concluded he did not commit. Now Baldwin County’s sheriff culture, Hoss Mack, Lowery, and Governor Ivy face scrutiny after the confessed killer blamed an innocent man.
+    text: Murray Lawrence Jr. spent over 20 years in prison for a crime Mississippi’s forensic expert concluded he did not commit. Now Baldwin County’s sheriff culture, Hoss Mack, Lowery, and Governor Ivy face scrutiny after the confessed killer blamed an innocent man.
     widget_date: "2026-03-23"
     generated_at: "2026-11-06T04:23:59.552337Z"
     model_name: recursive/flint-v1.0:free
@@ -224,6 +191,49 @@ hooks:
       - Lowery, per instruction, though not detailed in provided excerpts
       - Justice for Murray Lawrence Jr. website/organization
     llm_text: Murray Lawrence Jr. spent over twenty years in prison for a crime he didn’t commit, while Baldwin County Sheriff’s Hoss Mack produced zero evidence and Judge Robert Wilters backed the rush. The Ripp Report says a secret BCSO relationship and ignored evidence exposed a kangaroo court—and a system that covered up for him.
+    text: Murray Lawrence Jr. spent over twenty years in prison for a crime he didn’t commit, while Baldwin County Sheriff’s Hoss Mack produced zero evidence and Judge Robert Wilters backed the rush. The Ripp Report says a secret BCSO relationship and ignored evidence exposed a kangaroo court—and a system that covered up for him.
     widget_date: "2026-03-18"
     generated_at: "2026-11-06T04:24:34.386914Z"
+    model_name: recursive/flint-v1.0:free
+  a-reckoning-is-predicted-2:
+    brief: |-
+      THE CONFLICT:
+      - Past event: Murray Lawrence Jr. remained in prison for more than twenty years for a crime that Mississippi’s forensic expert concluded he did not commit.
+      - Confessed killer: Jarius McNeil.
+      - McNeil avoided execution by blaming an innocent man; that claim became the foundation of the conviction.
+      - Conviction was built without jurisdiction, without physical evidence, and without the due process required by law.
+      - Critical evidence was ignored, legal failures went unchallenged, and attempts to expose the truth were blocked.
+      - Case exposes intersection of power, race, and corruption in Baldwin County, Alabama.
+
+      THE DISCOVERY:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 title: A Reckoning is Predicted.
+      - Article 2 states: money wins elections; sometimes the best man does not win; especially when only 10 percent of the voting public decides who wins and all the rest just bitch.
+      - Sheriff Anthony Lowery had five times the money of opponent Matt McKenzie; Lowery could not stand in McKenzie’s shade, but money and GOB control prevailed.
+      - Lowery had former Sheriff Hoss Mack turning over every rock he could; Mack will be Lowery’s downfall and is responsible for total lack of transparency and accountability of the BCSO.
+      - Hoss Mack is trying to become head of ALEA, Alabama Law Enforcement Agency; The Ripp Report personally notified ALEA about Little Hoss’s plan.
+      - Baldwin County, despite only 10 percent of constituents voting, is shifting away from the GOB.
+      - In years past only 1 or 2 protagonists pointed out deficiencies of the sheriff office and the GOB’s; podcasts, social media, and publications like Lagniappe inspired at least a half dozen new warriors against the injustice of the BCSO and the GOB’s of Baldwin County.
+      - BCSO will have a new sheriff in the next election; Lowery and Mack will be put to pasture.
+      - Senator Chris Elliott is in his last term as a state senator; will try to move up the political ladder and fail; consummate liar; use of PAC money, dark money, and GOB endorsements not going to work in next election; solar farm, gambling issues, and PAC money in closet will do him in; secret ambition to become Director of Gaming for State of Alabama.
+      - Baldwin County has a new judge supported and endorsed by the top tier of GOB’s.
+      - District Attorney Robert Wilters and Hoss Mack; consultants Jon Gray and Scott Boone teamed up and paid to represent Kristi Hagood.
+      - Hagood was not qualified to become a judge but was qualified to represent the GOB’s.
+      - Sad irony: Anthony Lowery, Hoss Mack, Robert Wilters, and new judge Kristi Hagood are all involved in the wrongful conviction of Murray Lawrence Jr.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it frames political power, money, GOB control, elections, new judge, District Attorney, and sheriff as part of the same system that failed Murray Lawrence Jr.
+      - Article 2 connects to Article 1 through Anthony Lowery, Hoss Mack, Robert Wilters, and new judge Kristi Hagood, all described as involved in the wrongful conviction.
+      - Article 2 frames the upcoming election, new judge, District Attorney Robert Wilters, and BCSO changes as part of the reckoning.
+      - It explains how GOB control and money influenced the system that failed Murray Lawrence Jr.
+
+      THE KEY ENTITIES:
+      - People: Murray Lawrence Jr., Jarius McNeil, Hoss Mack, Anthony Lowery, Matt McKenzie, Chris Elliott, Robert Wilters, Jon Gray, Scott Boone, Kristi Hagood, David Whitstone.
+      - Organizations: Baldwin County Sheriff’s Office (BCSO), Alabama Law Enforcement Agency (ALEA), GOB, District Attorney’s office, State Senate, Alabama.
+      - Locations: Baldwin County, Alabama; Mississippi.
+      - Positions/titles: Sheriff, former Sheriff, District Attorney, state senator, judge, Director of Gaming for State of Alabama, ALEA head.
+    llm_text: Murray Lawrence Jr. spent over twenty years in prison because Jarius McNeil confessed to his murder and Anthony Lowery’s Hoss Mack ignored the truth. The Reckoning shows how Baldwin County’s sheriff, judge, and prosecutor let power and money crush an innocent man.
+    text: Murray Lawrence Jr. spent over twenty years in prison because Jarius McNeil confessed to his murder and Anthony Lowery’s Hoss Mack ignored the truth. The Reckoning shows how Baldwin County’s sheriff, judge, and prosecutor let power and money crush an innocent man.
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-06T04:22:01.380053Z"
     model_name: recursive/flint-v1.0:free

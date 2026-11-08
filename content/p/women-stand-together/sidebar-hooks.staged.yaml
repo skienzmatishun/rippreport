@@ -1,0 +1,55 @@
+metadata:
+  generated_at: "2026-11-07T15:56:58.802293Z"
+  generator_version: 1.0.0
+  post_slug: women-stand-together
+  main_date: "2020-08-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-voters-guide:
+    refined_source: 20fc4a06e367b8b581099fedfc64240aaeb00523b814a3f5da8601b9468f40b1
+    brief: |-
+      THE CONFLICT:
+      *   2016: Municipal election in Fairhope resulted in the defeat of incumbent Mayor Timothy Kant (16 years) by Karin Wilson (first woman Mayor).
+      *   Council Structure: The City Council was populated by five individuals selected by the previous mayor/minions, controlled by the "CATALYST" group.
+      *   Council Misconduct: Jack Burrell served 8 years as Council President; accused of bid rigging, lying about the Triangle lawsuit, and the $2.65 million farmland purchase/lease. Robert Brown used his four years on council to secure contracts (soccer fields/Art Center) totaling close to $1 million for personal gain.
+
+      THE DISCOVERY:
+      *   The City of Fairhope's municipal government, specifically the council, has a documented history of cronyism, prioritizing development/insider deals (CATALYST), and failing to manage public infrastructure/growth responsibly.
+
+      THE PIVOT:
+      *   Article 1 details the failure of City Prosecutor Marcus McDowell to hold an assailant accountable for a 2018 assault charge, leading to the charge being dismissed.
+      *   Article 2 establishes that the City Council, which appointed McDowell, is institutionally controlled by a system (CATALYST) prioritizing self-enrichment over public duty, explaining the council's subsequent silence and refusal to hold the prosecutor accountable.
+
+      KEY ENTITIES:
+      *   Paula DiNardi (Victim/Advocate)
+      *   Marcus McDowell (City Prosecutor)
+      *   Karin Wilson (Mayor)
+      *   Timothy Kant (Former Mayor)
+      *   Jack Burrell (Council President)
+      *   Robert Brown (Councilman)
+      *   Kevin Boone
+      *   Deb Hopkins
+      *   Joshua Gammon
+      *   Howell Gibbens
+      *   CATALYST (Political/Development Group)
+      *   Fairhope City Council
+    llm_text: Fairhope's council, controlled by the CATALYST group, prioritized cronyism and self-enrichment over public duty. Did this system silence Prosecutor Marcus McDowell, leading to his failure to hold an assailant accountable for Paula DiNardi's 2018 assault?
+    text: Fairhope leaders prioritized cronyism over public duty under the CATALYST group. Did this political system shield Prosecutor Marcus McDowell from accountability?
+    widget_date: "2020-08-20"
+    generated_at: "2026-11-07T15:56:42.727614Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-going-backwards:
+    refined_source: dac0c790aeb8c2a95a79bd3ecb13f03417358170f992c33501133dcb33d9b6bc
+    brief: "THE CONFLICT: \n- A political divide in Fairhope between Mayor Karin Wilson and the \"CATALYST\" faction.\n- The \"CATALYST\" faction is comprised of Councilmen Jack Burrell, Kevin Boone, and Robert Brown (the \"Three B's\").\n- Accusations against the \"Three B's\" involving the use of elected office for personal gain and the support of wasteful contractors.\n- A familial link exists between Councilman Kevin Boone and Scott Boone, who runs CATALYST.\n\nTHE DISCOVERY: \n- Article 2 revealed the existence of a cohesive political block (the \"Three B's\" and CATALYST) working to control the city government.\n- It established a pattern of the \"Three B's\" prioritizing factional interests and protecting specific associates/contractors over general city interests.\n\nTHE PIVOT: \n- Article 2 provides the motive for the negligence described in Article 1. \n- The City Council's refusal to hold City Prosecutor Marcus McDowell accountable for the dismissal of Paula DiNardi’s assault charges is not mere oversight, but a continuation of the \"protectionist\" behavior identified in Article 2. \n- The \"Three B's\" (the appointing body) are protecting the prosecutor (the appointee) to maintain the power structure of their political block, effectively victimizing a citizen to shield their own administration.\n\nKEY ENTITIES:\n- Paula DiNardi (Assault victim)\n- Marcus McDowell (City Prosecutor)\n- Karin Wilson (Mayor)\n- Jack Burrell (City Council / \"Three B's\")\n- Kevin Boone (City Council / \"Three B's\")\n- Robert Brown (City Council / \"Three B's\")\n- Scott Boone (CATALYST / son of Kevin Boone)\n- Sullivan (CATALYST candidate)\n- Deb Hopkins (Candidate)\n- Joshua Gammon (Candidate)\n- Howell Gibbens (Candidate)"
+    llm_text: Why did the City Council refuse to hold Prosecutor Marcus McDowell accountable for dismissing Paula DiNardi’s assault charges? The "Three B's"—Jack Burrell, Kevin Boone, and Robert Brown—are shielding their political allies and prioritizing a factional power structure over justice for Fairhope citizens.
+    text: Why did the City Council refuse to hold Prosecutor Marcus McDowell accountable for dropping Paula DiNardi's assault charges? Are leaders protecting political allies?
+    widget_date: "2020-08-19"
+    generated_at: "2026-11-07T15:55:49.323292Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  catalyst-liar:
+    brief: "THE CONFLICT: Paula DiNardi was assaulted on Thanksgiving night in 2018 by a local businessman/immigration green card holder. A city judge found the assailant guilty of assault and public intoxication. During the subsequent appeal process, City Prosecutor Marcus McDowell allowed the assault charge to be dismissed by repeatedly neglecting to answer the court and failing to properly file paperwork, subpoena witnesses, or update the victim. Despite a municipal judge finding the defendant guilty and the Mayor asking McDowell to recuse himself, the City Council (specifically appointed by them) refused to hold McDowell accountable, leading to a live-TV tongue-lashing of the Mayor. \n\nTHE DISCOVERY: Article 2 (older background context) establishes a documented history of deception, financial mismanagement, and corruption by Fairhope City Council President Jack Burrell and the \"CATALYST\" council faction. It details instances of Burrell taking credit for infrastructure projects he voted against, failing to fund transmission lines alongside sewer plant repairs, hiding a police record involving disturbing incidents with juveniles, participating in airport bid rigging, voting for full-family council insurance, and disastrously negotiating a $2.65 million farmland purchase for recreation that was immediately leased out for a paltry $9,000 a year, flipping the city's $1.2 million surplus into a $1.7 million deficit.\n\nTHE PIVOT: Article 2 serves as the smoking gun because it shows that Council President Jack Burrell and the CATALYST faction have an established, pre-existing pattern of systemic dishonesty, self-dealing, and administrative incompetence. While Article 1 focuses on the specific cronyism and negligence of City Prosecutor Marcus McDowell and the City Council covering up an assault case, Article 2 provides the broader historical context demonstrating that this specific council (led by Burrell, Boone, and Brown) operates on a culture of lies, lack of accountability, and failure of governance—directly connecting their protection of McDowell to a long-running pattern of shielding political allies at the expense of Fairhope citizens.\n\nKEY ENTITIES:\n- Paula DiNardi\n- Jack Burrell\n- Marcus McDowell\n- Kevin Boone\n- Karin Wilson\n- Deb Hopkins\n- Joshua Gammon\n- Howell Gibbens\n- Mayor Cant"
+    llm_text: City Prosecutor Marcus McDowell dodged accountability for letting an assailant walk free, but Council President Jack Burrell’s deep-rooted corruption proves this cover-up is business as usual. Read how Burrell’s trail of financial ruin and deceit shields cronies at citizens' expense.
+    text: City Prosecutor Marcus McDowell dodged accountability for letting an assailant walk free, but Council President Jack Burrell’s deep-rooted corruption proves this cover-up is business as usual. Read how Burrell’s trail of financial ruin and deceit shields cronies at citizens' expense.
+    widget_date: "2020-05-23"
+    generated_at: "2026-11-07T15:55:42.565865Z"
+    model_name: gemini-3.5-flash-lite

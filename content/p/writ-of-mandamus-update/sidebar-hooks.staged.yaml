@@ -1,0 +1,220 @@
+metadata:
+  generated_at: "2026-11-07T04:25:57.396872Z"
+  generator_version: 1.0.0
+  post_slug: writ-of-mandamus-update
+  main_date: "2021-10-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  writ-of-mandamus-and-bar-complaint:
+    refined_source: 97eaa3ecc72b79b1c12aac5b0a2c39661817213d5b9af8264a79c1fe65347c76
+    brief: |-
+      THE CONFLICT: Tom Albritton, Director of Alabama Ethics Commission and trustee of Mabel Amos Memorial Fund, used fund resources for his children's tuition. Date of initial reporting: June 29, 2021.
+      THE DISCOVERY: Article 2 revealed Albritton's children received scholarships valued at $105,000 from the Mabel Amos Memorial Fund he oversees.
+      THE PIVOT: Article 2 established the "self-dealing" allegations concerning the Mabel Amos Memorial Fund and Albritton's role as trustee, which forms the basis for the current civil case and Writ of Mandamus mentioned in Article 1.
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Mabel Amos Memorial Fund, Regions Bank, Francis Paul Ripp, Judge Johnny Hardwick, Harry Still
+    llm_text: Alabama Ethics Director Tom Albritton used Mabel Amos Memorial Fund resources for his children's $105k tuition. See how his trustee role sparked a civil case against him.
+    text: Alabama Ethics Director Tom Albritton spent Mabel Amos Memorial Fund money on $105,000 in tuition for his children. His role as a trustee sparked a new civil case against him.
+    widget_date: "2021-07-15"
+    generated_at: "2026-11-07T04:22:21.404200Z"
+    model_name: plugsky-lite
+  this-is-a-test:
+    refined_source: c40c71c7a8498890417cd61e89abe13ba44db1b680bea5e15cd2c6089a07bd71
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton (Executive Director of Ethics Commission and attorney) engaged in "self dealing" of the Mabel Amos Memorial Fund.
+      *   This corruption was revealed by Rob Holbert.
+      *   Between 2014 and 2017, Covington County Circuit Court Judge Ben Bowden (former law partner) benefited $45,000 from the trust.
+      *   Albritton received over $120,000 for his children’s education from the trust.
+      *   Regions Bank benefited $1 million from the fund.
+      *   The fund held land (Amos 36-3) producing $70 million to $80 million in oil/gas revenue, which was kept secret.
+
+      THE DISCOVERY:
+      *   The Mabel Amos Memorial Fund was used by Albritton to enrich himself and others, including Judge Bowden and Regions Bank, despite the fund generating significant oil and gas revenue.
+      *   The initial complaints were filed against Albritton for basic corruption using a public position.
+
+      THE PIVOT:
+      *   Article 2 established the initial documented corruption of Albritton and the misuse of the Mabel Amos Memorial Fund, providing the factual basis for Francis Paul Ripp's Writ of Mandamus (filed October 18th) and the pending civil case against Regions Bank (Article 1).
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Mabel Amos Memorial Fund
+      *   Regions Bank
+      *   Francis Paul Ripp
+      *   Judge Johnny Hardwick
+      *   Ben Bowden
+      *   Rob Holbert
+      *   Harry Still
+      *   Tom Parker
+      *   Michelle Thomasson
+      *   Ethics Commission
+    llm_text: Tom Albritton misused the Mabel Amos Memorial Fund, secretly siphoning $120k for his children and $45k from Judge Ben Bowden. Read how this fund generated $70M-$80M in oil/gas revenue that Regions Bank benefited from.
+    text: Tom Albritton took $120,000 for his children and $45,000 for Judge Ben Bowden from the Mabel Amos Memorial Fund. Regions Bank profited while this fund generated tens of millions in oil and gas revenue.
+    widget_date: "2021-10-22"
+    generated_at: "2026-11-07T04:22:49.583430Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lets-talk-about-the-bama-loss:
+    refined_source: c3afdae77cdcbc8c8a220addaf1b708ed7d755c3a148a9efdbf5562146d557d6
+    brief: |-
+      THE CONFLICT:
+      *   University of Alabama lost a football game resulting in increases in domestic violence/DUI’s/and a murder.
+
+      THE DISCOVERY:
+      *   Nick Saban is the highest paid coach according to the NCAA.
+      *   A bill signed by the Governor allowed $400 Million in Covid Aid to be used for $1.2 Billion in prison construction, not subject to the Public Bid Law.
+
+      THE PIVOT:
+      *   Article 2 provides historical/local context (Alabama loss, Covid aid misuse) but contains no factual evidence, names, or context relating to the allegations of Mr. Albritton’s “self Dealing” of the Mabel Amos Memorial Fund or the legal proceedings involving Regions Bank.
+
+      KEY ENTITIES:
+      *   Francis Paul Ripp
+      *   Judge Johnny Hardwick
+      *   Tom Parker
+      *   Harry Still
+      *   Regions Bank
+      *   Mr. Albritton
+      *   Mabel Amos Memorial Fund
+      *   Nick Saban
+      *   University of Alabama
+      *   Chis Elliott
+      *   Tucker Dorsey
+      *   Mike McMillan
+      *   Mo Brooks
+      *   Jo Bonner
+    llm_text: Nick Saban earns massive pay, but the University of Alabama's loss fueled domestic violence and a murder. A Governor bill allowed $400 million in Covid Aid to fund $1.2 billion in prison construction, bypassing public bid laws.
+    text: A governor's bill allowed $400 million in COVID aid to fund $1.2 billion in prison construction without public bids. Where did the oversight go while state leaders bypassed the rules?
+    widget_date: "2021-10-18"
+    generated_at: "2026-11-07T04:25:39.309184Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-to-the-alabama-attorney-general:
+    brief: |-
+      THE CONFLICT:
+      - Nov. 25: Judge Johnny Hardwick, Circuit Judge, Montgomery County, held STATUS REVIEW on all pending motions relative to Writ of Mandamus filed by Francis Paul Ripp on Oct. 18.
+      - Nov. 1: Judge Johnny Hardwick, selected by Chief Justice Tom Parker to preside over some ethics cases, read evidence to Ripp’s Writ of Mandamus, found it very interesting, wished he could delve into case, then recused himself due to potential conflict of interest.
+      - Francis Paul Ripp and Attorney Harry Still had no problem with Judge Hardick hearing the case; Ripp said they respect his decision and will wait until case is rescheduled.
+      - Ripp announced a civil case will be filed against Regions Bank involving trustees of the Mabel Amos Memorial Fund.
+      - Allegations against Mr. Albritton: based on his “self Dealing” of the Mabel Amos Memorial Fund as trustee; Albritton admitted in Lagniappe articles; should require Albritton to resign from Ethics Commission immediately.
+      - Mr. Albritton is Executive Director of the Ethics Commission; actions as trustee should require immediate resignation.
+
+      THE DISCOVERY:
+      - Widget Article, Letter to the Alabama Attorney General, is older/background context.
+      - Letter addressed to Alabama Attorney General Steve Marshall, 501 Washington Ave., Montgomery, Alabama 36104; attention Mr. Steve Marshall.
+      - During last election cycle, Ripp had conversation with Steve Marshall in Fairhope, Alabama during one of Marshall’s campaign stops; Ripp explained level of corruption in Baldwin County and that Alabama Ethics Commission was not investigating ethics complaints.
+      - Marshall assured Ripp, if elected, his office would take all complaints seriously; Marshall did not; office did not respond to or investigate complaint Ripp personally delivered to Marshall’s investigators in Montgomery.
+      - Complaint involved a Fairhope councilman using board position to personally enrich himself; Ethics Commission believed Councilman without independent investigation.
+      - Ripp Report founded in 2008; consumer organization; handles consumer issues and political corruption; Alabama number one in nation for political corruption; no one held accountable; Ethics Commission, Alabama Bar and Judiciary rarely, if ever, followed through.
+      - Oversight bodies acted as insulator for corruption; lack of action only encouraged further corruption.
+      - Letter enclosed copy of Lagniappe article “SELF-DEALING,” Ethics Complaint, Alabama Bar Complaint, and Writ of Mandamus; all related to actions of Director of Alabama Ethics, Tom Albritton; Ripp suggested Marshall read Lagniappe article first.
+      - Lagniappe article and Ripp Report had as many as 80,000 readers; Ripp noted Court of Public Opinion far more effective than those tasked with upholding law; Ripp said will keep readers informed.
+      - Specific complaint against Mr. Albritton: self dealing, IRS code violations, actions as Alabama attorney.
+      - Albritton and Ethics Commission dismissed several complaints listed in Ethics Complaint and Writ of Mandamus, including Fairhope Councilman; all involved situations where board members or trust attorneys used positions the same as Albritton.
+      - Ripp questioned how Ethics Commission could find anyone guilty of self dealing if Director of Ethics Commission was self dealing himself.
+      - Albritton is one of three trustees, and an attorney, of the Mabel Amos Memorial Fund; same fund awarded Albritton’s daughters $105,000 in scholarships to University of Texas.
+      - Mabel Amos Memorial Fund and three trustees should be subjects of extensive review by appropriate authorities; if fund benefiting Albritton, not surprise other two trustees benefited.
+
+      THE PIVOT:
+      - Article 2, the Widget Letter to the Alabama Attorney General, is older than Article 1, the Main Article “WRIT OF MANDAMUS: UPDATE”; frame Article 2 as background/historical context.
+      - Article 2 letter predates Nov. 25 status review and contains prior complaint to Alabama AG and alleged Ethics Commission inaction.
+      - Article 1 references Writ of Mandamus, Lagniappe article, Ethics Complaint, Alabama Bar Complaint, and civil case against Regions Bank; Article 2 states those documents are related to Tom Albritton.
+      - Article 2 is key/smoking gun context because it provides prior factual basis: Ripp’s complaint to Marshall, Marshall’s failure to act, Albritton’s self dealing, Mabel Amos Memorial Fund, trustees, and $105,000 scholarship.
+      - Article 1 pivot: Judge Hardwick recused; civil case against Regions Bank involving trustees of Mabel Amos Memorial Fund; Ripp says civil case will expose how many of Albritton’s law partners and friends were on the “self serving” money train.
+
+      KEY ENTITIES:
+      - Francis Paul Ripp / The Ripp Report / Lagniappe
+      - Judge Johnny Hardwick / Montgomery County Circuit Court
+      - Chief Justice Tom Parker
+      - Attorney Harry Still
+      - Thomas “Tom” Albritton / Alabama Ethics Commission / Executive Director
+      - Alabama Attorney General Steve Marshall
+      - Regions Bank
+      - Mabel Amos Memorial Fund / three trustees
+      - Fairhope Councilman / Baldwin County / Fairhope, Alabama / Montgomery, Alabama
+      - Alabama Bar / Judiciary
+      - University of Texas
+      - $105,000
+      - 80,000 readers
+      - Dates: Oct. 18, Nov. 1, Nov. 25; Ripp Report founded in 2008.
+    llm_text: Judge Johnny Hardwick recused from Francis Paul Ripp’s writ over Tom Albritton’s self-dealing, while Ripp prepares a civil case against Regions Bank over the Mabel Amos Fund. The Ripp Report’s widget letter to Alabama Attorney General Steve Marshall exposes how Marshall ignored Ripp’s corruption complaint.
+    text: Judge Johnny Hardwick recused from Francis Paul Ripp’s writ over Tom Albritton’s self-dealing, while Ripp prepares a civil case against Regions Bank over the Mabel Amos Fund. The Ripp Report’s widget letter to Alabama Attorney General Steve Marshall exposes how Marshall ignored Ripp’s corruption complaint.
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-07T04:22:37.997927Z"
+    model_name: recursive/flint-v1.0:free
+  boycott-mcsharrys:
+    refined_source: 075e07c13289b40c2e460b8b1a4604b14992885834487f595b7be15853015c2e
+    brief: |-
+      THE CONFLICT: Ronan McSharry was found guilty of public intoxication and assault in Fairhope Municipal Court (last week of widget article) and sentenced to 180 days in jail, with time served.
+      THE DISCOVERY: Article 2 documented historical patterns of corruption in Fairhope, including City Council actions (led by Jack Burrell) suppressing public participation and the handling of the Paula DiNardi assault charge against Ronan McSharry by City Attorney Marcus McDowell, leading to a lesser charge.
+      THE PIVOT: Article 2 establishes a history of local judicial and political corruption in Alabama (Fairhope/Baldwin County), providing context for the ethics concerns surrounding Mr. Albritton and the Ethics Commission mentioned in Article 1, suggesting systemic issues across jurisdictions.
+      KEY ENTITIES: Ronan McSharry, Jack Burrell, Marcus McDowell, Paula DiNardi, Judge Stankowski, Albritton, Regions Bank, Ethics Commission, Montgomery County, Johnny Hardwick, Tom Parker, Francis Paul Ripp, Harry Still, Mabel Amos Memorial Fund.
+    llm_text: Ronan McSharry's conviction ties into Fairhope's history of political maneuvering, where Jack Burrell's council and Marcus McDowell's office mishandled the Paula DiNardi assault charge. See how local corruption runs deep, connecting McSharry's case to broader ethics concerns across Alabama.
+    text: Ronan McSharry's conviction exposes deep political problems in Fairhope. Jack Burrell's council and Marcus McDowell's office handled the Paula DiNardi assault charge while local officials protected themselves.
+    widget_date: "2021-03-20"
+    generated_at: "2026-11-07T04:22:07.784973Z"
+    model_name: plugsky-lite
+  your-rights-your-money:
+    refined_source: b805c47b1188b7e649c23491ccba39eacfe3d43c1b2a2a862fe37e2f734c251d
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, Executive Director of the Ethics Commission, and former law partners (including Covington County Circuit Court Judge Ben Bowden) benefited from the Mabel Amos Memorial Foundation trust.
+      *   Specific instance: Bowden's child received SMU scholarships totaling $45,000 between 2014 and 2017, funded by the trust.
+      *   This alleged self-dealing was permitted by the Alabama Attorney General, Ethics Commission, Alabama Bar, and Judiciary.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Albritton and his associates were utilizing the private Mabel Amos Memorial Foundation for personal gain (family scholarships) while serving as trustees.
+      *   Article 2 also documented the lack of transparency in Baldwin County, where the Alabama Supreme Court insulated BCSO from public accountability (e.g., rejecting release of 2017 fatal shooting details).
+
+      THE PIVOT:
+      *   Article 2 provides the historical proof (2014-2017 scholarship records) of Albritton's "self-dealing" as a trustee.
+      *   This historical evidence forms the basis for Article 1's legal action: Francis Paul Ripp filed a Writ of Mandamus (October 18th) and plans a civil case against Regions Bank concerning the trusteeship.
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Francis Paul Ripp
+      *   Judge Johnny Hardwick (Montgomery County Circuit Judge)
+      *   Chief Justice Tom Parker
+      *   Regions Bank
+      *   Mabel Amos Memorial Fund
+      *   Huey Hoss Mack / Baldwin County Sheriff (BCSO)
+      *   Ben Bowden (Covington County Circuit Court Judge)
+      *   Tripp Pittman (State Senator, stole $750,000)
+      *   SMU
+      *   Dates: October 18th, November 25th (Status Review); 2014-2017 (Scholarship Period)
+    llm_text: Tom Albritton and Judge Ben Bowden misused the Mabel Amos Memorial Foundation, giving Bowden's child $45,000 in SMU scholarships. Francis Paul Ripp filed a Writ of Mandamus to hold state oversight accountable in this self-dealing scandal.
+    text: Tom Albritton and Judge Ben Bowden misused the Mabel Amos Memorial Foundation to give Bowden's child $45,000 for school. Francis Paul Ripp filed a Writ of Mandamus to challenge this clear self-dealing.
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-07T04:24:09.525343Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  license-to-steal:
+    refined_source: 72ade764f71e08776d11a642bc2ac84daab330729929e494859390c1210a607a
+    brief: |-
+      THE CONFLICT:
+      Steve Marshall stated commitment to prosecuting political corruption in Alabama (March 15, 2018; March 20, 2018; March 27, 2018).
+      Tom Allbritton, Director of the Ethics Commission, faced questions regarding his actions as a lawyer and director, including overseeing a private charitable trust paying over $100,000 for his kids’ college tuition.
+      John Plunk, Vice Chair of Ethics, was linked to helping a sheriff disguise political money flow.
+      Columbia Mayor Rhonda Freeman had a pending case (2020-0337 & 0361) before the Alabama Ethics Commission (hearing August 4, 2021).
+
+      THE DISCOVERY:
+      The main article reveals Francis Paul Ripp filed a Writ of Mandamus on October 18th against the Ethics Commission regarding Mr. Albritton's "self Dealing" of the Mabel Amos Memorial Fund, prompting a status review hearing on November 25th.
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of alleged corruption and lack of integrity within the Alabama Ethics Commission, specifically naming Director Tom Allbritton and Vice Chair John Plunk as figures under scrutiny, setting context for the specific allegations of self-dealing against Albritton concerning the Mabel Amos Memorial Fund detailed in Article 1.
+
+      KEY ENTITIES:
+      Steve Marshall
+      Tom Allbritton
+      John Plunk
+      Francis Paul Ripp
+      Regions Bank
+      Albritton
+      Judge Johnny Hardwick
+      Tom Parker
+      Harry Still
+      Mabel Amos Memorial Fund
+      Montgomery County
+      Alabama Ethics Commission
+      Columbia Mayor Rhonda Freeman
+      Mike Blakely
+    llm_text: Tom Allbritton faces a Writ of Mandamus over the Mabel Amos Memorial Fund, despite Steve Marshall's anti-corruption stance. See how John Plunk and Rhonda Freeman fit into the Ethics Commission's pattern of alleged integrity issues.
+    text: Tom Albritton faces a Writ of Mandamus over the Mabel Amos Memorial Fund. John Plunk and Rhonda Freeman join a long line of officials tied to ongoing integrity issues at the Ethics Commission.
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-07T04:22:15.469513Z"
+    model_name: plugsky-lite

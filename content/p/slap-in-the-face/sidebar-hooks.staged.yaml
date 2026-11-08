@@ -1,0 +1,203 @@
+metadata:
+  generated_at: "2026-11-07T14:18:47.234685Z"
+  generator_version: 1.0.0
+  post_slug: slap-in-the-face
+  main_date: "2020-10-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-55:
+    refined_source: 0bef1fbce5781435e297b31e9864bcfb1adec8a8e24493e4f149833e20c522d3
+    brief: |-
+      THE CONFLICT: John McAfee was detained in Spain; two white males were discovered on County Road 95, Baldwin County, south of Elberta near Pirates Cove and Barber's Marina.
+      THE DISCOVERY: Robin LeJiuen won the municipal election in Daphne and re-elected accused woman "Slapper Mike" McMillan as Mayor of Spanish Fort.
+      THE PIVOT: The Widget Article confirms Mike McMillan's electoral victory, providing the political context for the Main Article's discussion of his "WALKED, NOT GUILTY" status and the resulting accusations of corruption in Spanish Fort.
+      KEY ENTITIES: Mike McMillan, John McAfee, Robin LeJiuen, Spanish Fort, Daphne, Elberta, Barber's Marina, Tripp Pittman, Chris Elliott, Marcus McDowell, Paula DiNiardi, Thomas Gallion III.
+    llm_text: Mike McMillan secured his Spanish Fort mayoral re-election, supported by Robin LeJiuen. Read how his "walked, not guilty" status fuels serious corruption accusations within Spanish Fort politics.
+    text: Mike McMillan secured re-election in Spanish Fort with support from Robin LeJiuen. Does his walked status hide serious political corruption?
+    widget_date: "2020-10-12"
+    generated_at: "2026-11-07T14:11:13.041889Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  missed-the-bullet:
+    refined_source: 5e732dd14bc0307ecb272e8c5081aa7c016d0761d8f8ec70e3b817d30c735173
+    brief: |-
+      THE CONFLICT: Hurricane Delta impacted Lake Charles and Baldwin County. Robin LeJeune was elected Mayor of Daphne in a runoff election, defeating the Catalyst/Scott Boone Consulting candidate.
+      THE DISCOVERY: Article 2 showed Baldwin County cleanup required an estimated $100 million for debris removal alone, and Fairhope was managing cleanup at 11,000 cu yards per day.
+      THE PIVOT: Article 2 establishes the immediate post-disaster environment (Hurricane Delta recovery and Daphne's shift toward slowing development under LeJeune) providing the critical background context for the subsequent corruption claims in Article 1, where municipal attorney Marcus McDowell failed to file charges in the McSherry case (Paula DiNiardi incident) and FEMA fraud was alleged in Fairhope.
+      KEY ENTITIES: Robin LeJeune (Mayor of Daphne), Catalyst/Scott Boone Consulting, Hurricane Delta, Baldwin County, Fairhope, Marcus McDowell (Municipal Attorney for Fairhope), "Slappin Mike" McMillian (Mayor of Spanish Fort), Tripp Pittman (Sen.), Chris Elliott (Sen.), Paula DiNiardi.
+    llm_text: After Hurricane Delta left Baldwin County needing $100M for cleanup, local corruption persists. Fairhope attorney Marcus McDowell failed to charge in the Paula DiNiardi case while FEMA fraud claims linger in the recovery effort.
+    text: Hurricane Delta left Baldwin County needing one hundred million dollars for cleanup. Fairhope attorney Marcus McDowell dropped charges in the Paula DiNiardi case while FEMA fraud lingered.
+    widget_date: "2020-10-09"
+    generated_at: "2026-11-07T14:13:51.790029Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shadow-government-southern-style:
+    refined_source: 0879e48c4b84ea2b4efbcb6ecc253e0e95e960191a48b1025f57ee96ff0cc093
+    brief: |-
+      THE CONFLICT:
+      *   Former Democratic Gov. Don Siegelman and former HealthSouth CEO Richard Scrushy faced political prosecution.
+      *   The prosecution was a scheme by Rob Riley, Rob Campbell, and Doug Jones to gain control over Scrushy's financial clout and void his retirement policy with HealthSouth.
+      *   The Scrushy meetings discussed by Gallion started in Fall 2018 (specifically 10/28/18).
+      *   Specific local corruption issues in Baldwin County include the McSherry case (Fairhope, lingering for almost two years), the Paula DiNiardi assault (Fairhope), Tripp Pittman (BP fraud), Chris Elliott (DUI), and FEMA fraud (Fairhope).
+      *   "Slappin Mike" McMillian (newly elected Mayor of Spanish Fort) was found NOT GUILTY regarding an alleged assault.
+      *   The main article was published on 2020-10-17.
+
+      THE DISCOVERY:
+      *   Thomas Gallion III’s book, *Shadow Government Southern Style*, provides evidence of pervasive political corruption, extending from the 1950s to recent times in the South.
+      *   The book details how political actions (like the Siegelman/Scrushy case) were driven by financial gain (Campbell's firm, Riley, Jones) rather than purely political motives.
+
+      THE PIVOT:
+      *   The Widget Article establishes a historical precedent and pattern (Siegelman/Scrushy case, 2018) that corruption in Southern politics is fundamentally driven by financial cabals, not just political disagreements.
+      *   This context supports the Main Article's claim that Alabama is number one in corruption due to systemic issues, validating allegations against local officials like Marcus McDowell and Mike McMillian.
+
+      KEY ENTITIES:
+      *   Thomas Gallion III (Author)
+      *   Don Siegelman (Former Democratic Gov.)
+      *   Richard Scrushy (Former HealthSouth CEO)
+      *   Rob Riley / Rob Campbell / Doug Jones (Alleged schemers)
+      *   Marcus McDowell (Municipal attorney for Fairhope)
+      *   Mike McMillian ("Slappin Mike," Mayor of Spanish Fort)
+      *   Sen. Tripp Pittman
+      *   Sen. Chris Elliott
+      *   Paula DiNiardi
+      *   Fairhope / Spanish Fort (Baldwin County, AL)
+      *   HealthSouth (Organization)
+    llm_text: Thomas Gallion III reveals Don Siegelman and Richard Scrushy’s prosecution was driven by financial schemers like Rob Riley and Rob Campbell, not just politics. Read how this systemic corruption impacts Baldwin County figures, including Spanish Fort Mayor Mike McMillian.
+    text: Thomas Gallion III reveals financial schemers Rob Riley and Rob Campbell drove the prosecution of Don Siegelman and Richard Scrushy.
+    widget_date: "2020-09-11"
+    generated_at: "2026-11-07T14:14:56.557373Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  absolute-power:
+    refined_source: 26332533cde25ecf5767a5d5be8ed2722140f5b11b0d45a046af97b0ef5a2bea
+    brief: |-
+      THE CONFLICT:
+      1.  The McSherry case has been lingering for almost two years in Fairhope.
+      2.  Municipal Attorney Marcus McDowell failed to file charges in the McSherry case.
+      3.  "Slappin Mike" McMillian was newly elected Mayor of Spanish Fort and was found NOT GUILTY of an assault charge.
+      4.  Tripp Pittman was involved in the BP fraud case.
+      5.  Chris Elliott was involved in a DUI case (FEMA fraud mentioned in connection).
+      6.  Sherry Sullivan was elected Mayor of Fairhope, succeeding the Wilson Administration (four years).
+      7.  The City Council, led by Jack Burrell, was described as having total control and operating as the "three B's."
+
+      THE DISCOVERY:
+      1.  The Widget Article reveals that special interests had total control in Fairhope prior to Sherry Sullivan's election.
+      2.  The Widget Article identifies Jack Burrell as the influential Council President who continued to run the show regardless of the election outcome.
+      3.  The Widget Article confirms that the McSherry case was an ignored issue that the City Attorney was attempting to make disappear during the Wilson term.
+
+      THE PIVOT:
+      1.  The Widget Article established the systemic corruption (total control by the "three B’s" and the council) that preceded Sherry Sullivan's term.
+      2.  This pre-existing institutional corruption (ignored lawsuits, lack of accountability) provides the context for the current failures, such as Marcus McDowell's refusal to file charges in the McSherry case, which is highlighted in the Main Article.
+
+      KEY ENTITIES:
+      1.  Chris Elliott
+      2.  Tripp Pittman
+      3.  Marcus McDowell (Municipal Attorney for Fairhope)
+      4.  Mike McMillian ("Slappin Mike," Mayor of Spanish Fort)
+      5.  Sherry Sullivan (Mayor of Fairhope)
+      6.  Jack Burrell (Council President)
+      7.  Catalyst/Scott Boone Consulting
+      8.  Baldwin County
+      9.  Fairhope
+      10. Spanish Fort
+      11. Paula DiNiardi
+      12. Thomas Gallion III
+      13. Sean Connery Club
+      14. BP fraud
+      15. FEMA fraud
+    llm_text: Jack Burrell controlled Fairhope through systemic corruption before Sherry Sullivan won office. Learn how this deep-rooted influence led Municipal Attorney Marcus McDowell to ignore the two-year McSherry case.
+    text: Jack Burrell controlled Fairhope through corruption until Sherry Sullivan won office. Municipal Attorney Marcus McDowell used this deep-rooted influence to ignore the two-year McSherry case.
+    widget_date: "2020-08-28"
+    generated_at: "2026-11-07T14:15:50.478795Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-missing-in-action:
+    refined_source: 48da9e162160b0651e84c6c859f58509ecbf1ea5e26f9235a5e327e4cd19881d
+    brief: |-
+      THE CONFLICT:
+      *   Tripp Pittman was involved in a BP fraud scandal.
+      *   Chris Elliott was involved in a DUI incident.
+      *   In Fairhope, municipal attorney Marcus McDowell failed to file charges in the McSherry case, which had lingered for almost two years.
+      *   "Slappin Mike" McMillian, newly elected Mayor of Spanish Fort, was found NOT GUILTY in related proceedings.
+
+      THE DISCOVERY:
+      *   Article 2 documented Fairhope political forums concerning City Council and Mayor candidates (Mayor Wilson vs. Sherry Sullivan).
+      *   Article 2 revealed Sherry Sullivan's poor judgment, specifically promoting the Arts and Crafts Show despite medical advice and encouraging unmasked attendance at football games, contradicting Mayor Wilson's caution during the COVID-19 pandemic.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of political poor judgment and disregard for public safety in Baldwin County (during the pandemic context), setting the backdrop for the specific legal and ethical failures (FEMA fraud, McDowell inaction, McMillian acquittal) detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   Tripp Pittman
+      *   Marcus McDowell
+      *   Mike McMillian / Slappin Mike
+      *   Sherry Sullivan
+      *   Mayor Wilson
+      *   Fairhope
+      *   Spanish Fort
+      *   FEMA
+      *   Common Sense Campaign
+    llm_text: Sherry Sullivan promoted events during COVID, contradicting Mayor Wilson's caution. This political judgment sets the stage for legal failures involving Tripp Pittman's BP fraud and Marcus McDowell's failure to file charges.
+    text: Sherry Sullivan promoted events during COVID against Mayor Karin Wilson's warnings. That political split set the stage for Tripp Pittman's BP fraud case.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T14:17:07.150944Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-bullies:
+    refined_source: 2b12f160ba52bad169084fc1e66a34b478806b483361f96f72878a0a93fc0c88
+    brief: |-
+      THE CONFLICT:
+      *   Councilmen Burrell Boone and Brown (representing CATALYST/Scott Boone Consulting - CSB) maintained a position of corruption and special interests in Fairhope for 16 years.
+      *   Mayor Karin Wilson spent four years opposing these "bullies" and special interests.
+      *   CATALYST city attorney Marcus McDowell supported Sullivan and failed to file necessary assault charges against Ronan McSharry, allowing the statute of limitations to run out, relating to a video of Paula DiNiardi being knocked off a bar stool.
+
+      THE DISCOVERY:
+      *   The second article reveals that the McSharry assault case had been a long-standing issue, with Marcus McDowell, the CATALYST city attorney, complicit in preventing charges, despite Mayor Wilson's efforts to curb corruption.
+
+      THE PIVOT:
+      *   Article 2 establishes Marcus McDowell's historical pattern of failing to file charges in the McSharry assault case; Article 1 confirms this history by noting that McDowell "failed to even file charges" in the lingering McSherry case, connecting past judicial inaction to current claims of Baldwin County corruption.
+
+      KEY ENTITIES:
+      *   Marcus McDowell (Municipal Attorney for Fairhope / CATALYST city attorney)
+      *   Burrell Boone
+      *   Scott Boone (CATALYST/Scott Boone Consulting - CSB)
+      *   Karin Wilson (Mayor of Fairhope)
+      *   Ronan McSharry
+      *   Paula DiNiardi
+      *   "Slappin Mike" McMillian (Newly elected Mayor of Spanish Fort)
+      *   Tripp Pittman (Sen. regarding BP fraud)
+      *   Chris Elliott (Sen. regarding DUI)
+      *   Fairhope
+      *   Spanish Fort
+      *   Baldwin County
+      *   Thomas Gallion III (Author)
+    llm_text: Marcus McDowell, the CATALYST city attorney, blocked charges in the Ronan McSharry assault case, letting the statute of limitations run out. This inaction happened despite Mayor Karin Wilson fighting 16 years of corruption from Burrell Boone and Scott Boone Consulting.
+    text: City attorney Marcus McDowell blocked charges in the Ronan McSharry assault case until time ran out. Mayor Karin Wilson fought this corruption for sixteen years.
+    widget_date: "2020-08-15"
+    generated_at: "2026-11-07T14:12:38.356459Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-ass-whoopin:
+    refined_source: 011d14c87e71eee7edc5c59c9ffb2827028adedee5c79aa0a88d289930d6da1b
+    brief: |-
+      THE CONFLICT:
+      Election results in Baldwin County showed a shift of 2000-2652 Catalyst votes from Lowtower to Jerry Carl (Article 2). This political context preceded the 2020-10-17 event where "Slappin Mike" McMillian (newly elected Mayor of Spanish Fort) was found NOT GUILTY (Article 1).
+
+      THE DISCOVERY:
+      Article 2 showed that Baldwin County voters prevented a CATALYST candidate from winning the First Congressional Seat (Jerry Carl won by 3873 votes in Mobile).
+
+      THE PIVOT:
+      Article 2 establishes the local political and organizational context (CATALYST/Scott Boone Consulting loss and subsequent maneuvering in Fairhope/Spanish Fort) which provides the backdrop for the specific judicial and corruption allegations (McMillian acquittal, FEMA fraud, McSherry case failure to file charges by Marcus McDowell) detailed in Article 1.
+
+      KEY ENTITIES:
+      Mike McMillian (Mayor of Spanish Fort)
+      Marcus McDowell (Municipal Attorney for Fairhope)
+      Tripp Pittman (Former Sen., related to BP fraud)
+      Chris Elliott (Related to DUI/FEMA fraud)
+      Jerry Carl
+      Sherry Sullivan
+      Jay Robinson
+      Jimmy Conyers
+      Scott Boone Consultant (CATALYST/SBC)
+      Paula DiNiardi
+      Thomas Gallion III (Author of *Shadow Government Southern Style*)
+    llm_text: Baldwin County voters shifted 2000+ Catalyst votes to Jerry Carl, changing the political landscape. This backdrop shaped the context for "Slappin Mike" McMillian, Mayor of Spanish Fort, who was found NOT GUILTY in his 2020-10-17 case.
+    text: Baldwin County voters shifted over two thousand votes to Jerry Carl. That shift formed the backdrop for Spanish Fort Mayor Mike McMillan's not guilty verdict.
+    widget_date: "2020-07-17"
+    generated_at: "2026-11-07T14:18:33.733326Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

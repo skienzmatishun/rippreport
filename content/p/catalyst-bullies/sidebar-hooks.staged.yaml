@@ -1,0 +1,231 @@
+metadata:
+  generated_at: "2026-11-07T16:15:17.874228Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-bullies
+  main_date: "2020-08-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-train-wreck:
+    brief: |-
+      THE CONFLICT:
+      - Over four years, Mayor Karin Wilson of Fairhope, Baldwin County, stood against City Council members Burrell Boone and Brown, who represented CATALYST/Scott Boone Consulting (CSB).
+      - CSB was run by Scott Boone, son of Councilman Burrell Boone, and financed by special interests not aligned with citizens' values.
+      - CATALYST special interests included Baldwin County Sewer, local politicians, connected attorneys, shady judges, greedy developers, and dark money.
+      - The "3 B's" — Burrell Boone, Councilman Brown, Sherry Sullivan — wanted the "honey hole" and the "corruption rubber stamp" back.
+      - The corruption rubber stamp had been held for 16 years by former Mayor Tim Cant.
+      - Four years ago, Fairhope lost the corruption rubber stamp.
+      - Burrell Boone and Scott Boone worked as a team; Scott was privileged to Fairhope executive committee details and confidential city information.
+      - CATALYST City Attorney Marcus McDowell supported Sullivan and had her sign in front of his office.
+      - McDowell represented the council exclusively and acted as a bully toward Mayor Wilson.
+      - McDowell failed, numerous times, to file necessary charges of assault against Ronan McSharry, Burrell Boone's best friend.
+      - McDowell allowed the statute of limitations to run out on the assault charge recorded on video.
+      - McDowell made it a political issue by saying the Mayor should not listen to citizens' complaints.
+
+      THE DISCOVERY:
+      - Article 2 (CATALYST TRAIN WRECK) covered the latest Fairhope City Council Meeting.
+      - Revealed the McSharry case is corruption staring at Fairhope in the face.
+      - City Attorney failed, numerous times, in error or purpose, to defend the victim.
+      - City Attorney should be fired; the city will be lucky if they are not sued for the way the case was handled.
+      - After the bully council lectured about treatment of women, Councilman Boone, aka "llc. Boone," started yelling at the Mayor and demanded Councilman Burrell immediately adjourn the meeting.
+      - Burrell cut off the Mayor's comments after just pledging she would be given the opportunity to speak.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun for Article 1 because it captured the live Fairhope City Council Meeting incident on video.
+      - Boone's yelling at the Mayor, Burrell's demand to adjourn, and Burrell cutting off the Mayor's comments after his pledge.
+      - Provides the visual evidence of the bullying behavior and the City Attorney's failure in the McSharry assault case.
+
+      KEY ENTITIES:
+      - Mayor Karin Wilson
+      - Councilman Burrell Boone
+      - Councilman Brown
+      - Scott Boone / CATALYST / Scott Boone Consulting (CSB)
+      - Sherry Sullivan
+      - Marcus McDowell (City Attorney)
+      - Ronan McSharry (Burrell Boone's best friend; assault victim)
+      - Tim Cant (former Mayor; corruption rubber stamp)
+      - Baldwin County Sewer
+      - Fairhope City Council
+      - Municipal Judge
+      - Baldwin County
+      - Nappi Awards
+      - The Ripp Report
+      - Backstory Podcast
+      - CSB
+      - Councilman Boone, aka "llc. Boone"
+    llm_text: Fairhope Mayor Karin Wilson got cut off mid-speech by Councilman Burrell Boone, who demanded adjournment after yelling at her. The video exposes how City Attorney Marcus McDowell failed to defend assault victim Ronan McSharry — and let the clock run out.
+    text: Fairhope Mayor Karin Wilson got cut off mid-speech by Councilman Burrell Boone, who demanded adjournment after yelling at her. The video exposes how City Attorney Marcus McDowell failed to defend assault victim Ronan McSharry — and let the clock run out.
+    widget_date: "2020-05-29"
+    generated_at: "2026-11-07T16:12:14.214527Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-attack:
+    refined_source: 1c2e36667385009e2b7a94588096614fc5bfc2dc4c8d47aacce0930b2ffae92f
+    brief: |-
+      THE CONFLICT: CATALYST/CSB operated across Baldwin County (Fairhope, Daphne, Spanish Fort, Bay Minette) aiming for county-wide political control, attempting a takeover in 2018, and manipulating elections (e.g., closing Daphne minority precincts in 2016).
+      THE DISCOVERY: CSB/CATALYST was a profit-making political group tied to developers (Prebble, DR Horton, Columbia Southern, Truland, Corte, Cox) who funded candidates via a "Triangle Trade," accumulating over a million dollars, and subsequently changed its name to Scott Boone Consulting after losing the congressional race to Jerry Carl.
+      THE PIVOT: Article 2 establishes the systematic, financially rooted, and historically organized nature of CSB, confirming that the current councilmen (Burrell, Boone, Brown) and their associated figures (Scott Boone) represent a long-standing, high-level corruption machine, not just local political interests.
+      KEY ENTITIES: Scott Boone, Kevin Boone, Karin Wilson, Marcus McDowell, Ronan McSharry, Burrell, Brown, Sherry Sullivan, Tim Cant, CSB, CATALYST, Jerry Carl, Prebble, DR Horton, Columbia Southern, Truland, Corte, Cox
+    llm_text: Developer-backed groups like CATALYST funded Baldwin County politics—including closing Daphne minority precincts—accumulating over a million dollars via the "Triangle Trade." Scott Boone, Kevin Boone, and current councilmen Burrell and Brown represent a long-standing corruption machine tied to developers like DR Horton.
+    text: Developer groups like CATALYST funded Daphne politics and closed minority precincts. Scott Boone, Kevin Boone, Burrell, and Brown represent a corruption machine tied to DR Horton.
+    widget_date: "2020-08-12"
+    generated_at: "2026-11-07T16:11:29.968544Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  howell-gibbens:
+    refined_source: 3663d5aa2ab01d6f0a4055d7f71dbb5a6639179d8127404e4e5b7afbd705fd2b
+    brief: "THE CONFLICT: \n- Councilman Robert Brown and Councilman Burrell Boone have been accused of using their official positions for personal gain and to serve special interests.\n- Specifically, Councilman Brown is the subject of active Ethics and Attorney General complaints regarding contracts that benefited him personally.\n- Major financial involvements include a $2.65 million Recreation land purchase conducted without public participation and a proposed $11.25 million taxpayer-funded conservation easement for the Triangle property.\n- Brown is linked to developer Angelo Corte regarding the Fly Creek Apartments.\n\nTHE DISCOVERY: \n- Article 2 identifies Councilman Robert Brown specifically as a \"CATALYST/Scott Boone loyalist.\"\n- It establishes a historical pattern of Brown siding with developers and mentors over constituents.\n- It characterizes the CATALYST group as a \"good ole boy’s club\" that has already cost Baldwin County millions of dollars.\n\nTHE PIVOT: \n- Article 2 provides the evidentiary foundation for the \"CATALYST\" label used in Article 1. \n- While Article 1 frames the current situation as \"bullying\" by the \"3 B’s,\" Article 2 provides the specific financial trail (the $2.65M and $11.25M figures) and legal status (Ethics/AG complaints) that proves the \"special interests\" and \"corruption\" mentioned by Mayor Wilson are tied to documented land deals and developer connections.\n\nKEY ENTITIES:\n- Karin Wilson (Mayor)\n- Burrell Boone (Councilman)\n- Robert Brown (Councilman)\n- Scott Boone (Scott Boone Consulting/CSB)\n- Marcus McDowell (City Attorney)\n- Sherry Sullivan (Candidate/Ex-employee)\n- Howell Gibbens (Candidate)\n- Angelo Corte (Developer)\n- Ronan McSharry\n- Tim Cant (Former official)\n- CATALYST / CSB (Special interest group)"
+    llm_text: Councilman Robert Brown faces active Ethics and Attorney General complaints over land deals like the $11.25 million Triangle property easement. Read how the "CATALYST" good ole boy’s club uses developer connections like Angelo Corte to drain Baldwin County funds.
+    text: Councilman Robert Brown faces Ethics and Attorney General complaints over land deals like the Triangle property easement. The CATALYST club uses developer connections to drain funds.
+    widget_date: "2020-08-10"
+    generated_at: "2026-11-07T16:11:21.888569Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  catalyst-colors:
+    refined_source: 83974f0cf76bfd080d32faaf1f7efc492776908b24ce02cddcbb33470b7db72f
+    brief: |-
+      THE CONFLICT:
+      Three Fairhope City Councilmen (Burrell Boone, Brown, and Boone) approved and purchased $2.65 million in recreational land on November 1st, without National Park Service approval or public participation.
+      This occurred shortly before the Connectivity Master Plan Workshop on November 7th.
+      The Council also voted themselves a full family insurance package valued at $17,000 annually.
+      The Widget Article context was focused on the 2020 election.
+
+      THE DISCOVERY:
+      The 3 B’s (Burrell, Brown, and Boone) used their city office for personal gain, including the $2.65 million land purchase and Robert Brown's complaint against the Eastern Shore Art Center.
+
+      THE PIVOT:
+      The historical financial and ethical misconduct ($2.65M land deal, misuse of office) established the "CATALYST" culture of corruption that Mayor Karin Wilson is currently fighting against in the four-year period leading up to the current election.
+
+      KEY ENTITIES:
+      Karin Wilson (Mayor)
+      Burrell Boone
+      Robert Brown
+      Kevin Boone (Scott Boone Consulting/CSB)
+      Marcus McDowell (City Attorney)
+      Ronan McSharry
+      Scott Boone
+      Baldwin County Sewer
+      CATALYST/CSB
+      Fairhope City Council
+      Tim Cant (former corruption rubber stamp)
+    llm_text: Burrell Boone, Brown, and Boone spent $2.65 million on recreational land without public approval. Read how this misuse of office fueled the CATALYST corruption Mayor Karin Wilson now fights before the election.
+    text: Burrell, Brown, and Boone spent $2.65 million on recreational land without public approval. This misuse of office fueled the CATALYST corruption that Mayor Karin Wilson fights.
+    widget_date: "2019-11-07"
+    generated_at: "2026-11-07T16:13:39.346120Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-ass-whoopin:
+    brief: |-
+      THE CONFLICT:
+      - Over the last four years, Mayor Karin Wilson of Fairhope stood up to bullies tied to special interests that do not align with citizen values.
+      - The bullies were Fairhope councilmen Burrell Boone and Brown, who represented CATALYST/Scott Boone Consulting, CSB.
+      - CSB was run by Scott Boone, son of Councilman Boone, and financed by special interests.
+      - CSB special interests included Baldwin County Sewer, local politicians, connected attorneys, shady judges, greedy developers, and dark money.
+      - CSB was supported by so-called media who wrote paid hit pieces for the 3 B’s, spewing unfounded allegations meant to mislead the public.
+      - Mr Boone and his son worked as a team; Scott was privileged to Fairhope executive committee details and other confidential city information.
+      - Four years ago, Fairhope lost the corruption rubber stamp it had depended on for 16 years, Tim Cant.
+      - The three B’s wanted the honey hole and corruption rubber stamp back.
+      - They chose a fired ex-employee who sued the city and never disclosed her complaint to the citizens of Fairhope to be their Mayor’s choice.
+      - The chosen person was underqualified; if elected, she would fire numerous employees and place past fired employees in their place.
+      - Fairhope would return to rampant corruption and lawsuits would follow.
+      - CATALYST city attorney Marcus McDowell supported Sherry Sullivan and had her sign in front of his office.
+      - McDowell represented the council exclusively and had been disrespectful and a bully to the Mayor, as seen in the train wreck.
+      - McDowell helped Burrell’s best friend Ronan McSharry by failing numerous times to file necessary assault charges.
+      - McDowell allowed the statute of limitations to run out on the assault charge recorded on video.
+      - McDowell made it a political issue by saying the Mayor should not listen to citizen complaints.
+      - McDowell was a horrible legal representative of the city but made the 3 B’s proud.
+      - CSB placed signs all over Fairhope encouraging voters to block vote for all four CATALYST candidates Burrell Boone Brown and Sherry Sullivan.
+
+      THE DISCOVERY:
+      - Article 2, CATALYST ASS WHOOPIN, was older/background context: Fairhope’s CATALYST group was licking their wounds after the election of Jerry Carl.
+      - Major shift in voting away from CATALYST candidates.
+      - Carl’s opponent “Lowtower” made a major mistake by hooking up with CATALYST, aka Scott Boone Consulting.
+      - Statistical analysis of the district, First Congressional Seat, Jerry Carl, showed as much as 2,500 votes being shifted from CATALYST Lowtower to Carl.
+      - That shift was from the primary to the runoff.
+      - Baldwin County, for both races, showed a swing of 2,652 Catalyst votes from Lowtower to Carl.
+      - In Fairhope, same elections, CATALYST lost votes to Carl around 1,118.
+      - Estimate of gained votes for Carl from CATALYST in Baldwin County was approximately 2,000 to 2,500.
+      - Those gained votes helped Carl, from some votes he lost in rural counties.
+      - Mobile pushed Carl over the top to win by 3,873.
+      - Baldwin County voters prevented a CATALYST candidate from going to the swamp.
+      - Special thanks to Baldwin County Citizens For Government Accountability (CGA) Facebook.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it showed CATALYST’s electoral loss and major shift in voting away from CATALYST.
+      - Article 2 was older than Article 1 and should be framed as background/historical context.
+      - It supports the Main Article conflict involving CATALYST/Scott Boone Consulting and Mayor Karin Wilson.
+      - It showed the CATALYST group was licking wounds after the Jerry Carl election.
+      - It showed voters shifted from CATALYST Lowtower to Jerry Carl.
+      - Baldwin County voters prevented a CATALYST candidate from going to the swamp.
+
+      KEY ENTITIES:
+      - Names: Karin Wilson, Burrell Boone, Brown, Scott Boone, Sherry Sullivan, Marcus McDowell, Ronan McSharry, Tim Cant, Jerry Carl, Lowtower, Jay Robinson, Jimmy Conyers, John Melones, Carl Hightower, Kant, Melones, Sullivan, Lowery, Wilters.
+      - Organizations: CATALYST, Scott Boone Consulting, CSB, Baldwin County Sewer, City Council, Mayor, City Attorney, First Congressional Seat, Baldwin County Citizens For Government Accountability (CGA), Facebook.
+      - Locations: Fairhope, Baldwin County, Mobile, Eastern Shore.
+      - Events: Mayor Wilson vs. CATALYST bullies; Marcus McDowell; Ronan McSharry assault charge; Tim Cant; Jerry Carl election; Lowtower; primary to runoff; Nappi Awards; qualifications close 5pm July 23.
+      - Numbers: last four years, four years ago, 16 years, 4 Nappi Awards, 2,500 votes, 2,652, 1,118, 2,000-2,500, 3,873, 5pm July 23.
+    llm_text: Mayor Karin Wilson took on CATALYST bullies Burrell Boone and Brown, who pushed Scott Boone Consulting and its shady interests against Fairhope. Baldwin County voters shifted thousands from CATALYST in the Jerry Carl race, helping Fairhope avoid a corrupt mayor pick.
+    text: Mayor Karin Wilson took on CATALYST bullies Burrell Boone and Brown, who pushed Scott Boone Consulting and its shady interests against Fairhope. Baldwin County voters shifted thousands from CATALYST in the Jerry Carl race, helping Fairhope avoid a corrupt mayor pick.
+    widget_date: "2020-07-17"
+    generated_at: "2026-11-07T16:11:36.429887Z"
+    model_name: recursive/flint-v1.0:free
+  freaky-fairhope:
+    refined_source: 1da0a5eec91c4a3e5efcd586d7dd767898f64105729a97c7bc8d2e9ddc055f72
+    brief: |-
+      THE CONFLICT: State Senator Boom Boom Pittman and Mayor Cant orchestrated BP fund fraud totaling $639,000.00 in 2010. Councilmen Boone, Brown, and Burrell (the 3 B’s) also used office for personal gain (estimated $17,500 family insurance package) and purchased farmland, subsequently leasing it back for $9,000 annually, driving a city surplus of $1.7 million to a $1.2 million deficit.
+
+      THE DISCOVERY: The local political status quo in Baldwin County was characterized as a criminal enterprise, with the current city council viewed as the worst in 50 years, demonstrating systemic corruption dating back to 2010.
+
+      THE PIVOT: Article 2 establishes the historical pattern of financial misconduct and corruption by the three B’s (Boone, Brown, Burrell) and the influence of CATALYST/CSB, proving that the alleged "bullies" in Article 1 are operating within a long-established framework of malfeasance, not just recent political disputes.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Burrell Boone
+      *   Brown
+      *   Scott Boone
+      *   CATALYST / Scott Boone Consulting (CSB)
+      *   Marcus McDowell (City Attorney)
+      *   Ronan McSharry
+      *   Tim Cant
+      *   BP
+      *   Boom Boom Pittman
+      *   Sherry Sullivan
+      *   Baldwin County Sewer
+      *   Fairhope Waterfront
+    llm_text: Senator Boom Boom Pittman and Mayor Cant orchestrated $639k BP fund fraud in 2010. Read how the three B's—Boone, Brown, and Burrell—operated within a long-established system of Baldwin County corruption.
+    text: Senator Tripp Pittman and Mayor Kant orchestrated BP fund fraud in 2010. Boone, Brown, and Burrell operated within this long-established system of Baldwin County corruption.
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T16:14:57.794427Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-stacking-the-deck:
+    refined_source: 4a98c82071124b661cbe5bb267a377755cf077b6e6c1180ccc14d0cd831226e3
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Tim Cant supported developers (Fly Creek Apartments, BP Fraud) and was responsible for Fairhope’s infrastructure failures.
+      *   Fairhope and Baldwin County are historically known for "Fixing" elections and "Stacking the deck."
+      *   Kevin Boone served on the Fairhope City Council for 8 years, without disclosing numerous LLCs and conflicts of interest.
+      *   The corruption "rubber stamp" provided by Tim Cant was lost four years prior to the Main Article.
+
+      THE DISCOVERY:
+      *   CATALYST transitioned to the Scott Boone Consulting (CSB) banner, which functions as a complex structure intended to conceal interrelationships and insulate from liability.
+      *   The Boone family (Kevin Boone and his son Scott Boone) was central to the entrenched council system.
+      *   Joshua Gammon was an early challenger for Kevin Boone's council seat (Place 5).
+
+      THE PIVOT:
+      *   Article 2 establishes that the CATALYST/CSB network is not a recent political maneuver but a deeply entrenched, long-standing system of corruption and election manipulation rooted in the council's history (Kevin Boone's 8-year tenure and undisclosed conflicts).
+      *   This historical foundation validates Article 1's claim that the current political battles (McDowell, McSharry, Wilson vs. CSB) are a continuation of a systemic, decades-long corruption effort, not just a current disagreement.
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   CSB (Scott Boone Consulting)
+      *   Burrell Boone
+      *   Brown
+      *   Karin Wilson
+      *   Marcus McDowell (City Attorney)
+      *   Ronan McSharry
+      *   Sherry Sullivan
+      *   Kevin Boone
+      *   Joshua Gammon
+      *   Tim Cant
+      *   Fairhope
+      *   Baldwin County Sewer
+    llm_text: Former Mayor Tim Cant oversaw Fairhope infrastructure failures while Kevin Boone hid conflicts during his 8-year council run. Scott Boone Consulting (CSB) proves this corruption is a deep, decades-long system, not just a current political fight.
+    text: Former Mayor Tim Kant oversaw Fairhope infrastructure failures while Kevin Boone hid conflicts. Scott Boone Consulting proves this corruption is a decades-long system.
+    widget_date: "2020-07-03"
+    generated_at: "2026-11-07T16:12:37.142028Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

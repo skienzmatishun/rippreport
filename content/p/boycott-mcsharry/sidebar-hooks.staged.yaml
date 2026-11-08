@@ -5,67 +5,8 @@ metadata:
   main_date: "2022-08-05"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-mcsharry-will-out:
-    brief: |-
-      THE CONFLICT:
-      *   March 19, 2017: Ronan McSharry was accused of directing abusive/vulgar language/gestures toward artist Nall Hollis.
-      *   2017 Sentence: McSharry received 12 months probation, a no-contact order with Hollis, and an order not to consume distilled liquors.
-      *   Recent History: McSharry has accumulated nine arrests involving alcohol/intoxication.
-      *   Paula DiNardi case: DiNardi filed a civil suit in Circuit Court claiming injury from being shoved; McSharry was involved in a "breach of peace" charge approximately two months before the main article.
-      *   Legal Voiding: Judge Clark Stankoski voided McSharry's conviction because Fairhope City Prosecutor Marcus McDowell failed to include the fact that McSharry "did cause physical harm to another person" on the charging document.
-
-      THE DISCOVERY:
-      *   Article 2 provides general political context regarding the $3Billion Mobile Bayway Project, $2Billion Novell aluminum facility in Baldwin County Mega Site, and the ongoing controversy surrounding Attorney General Steve Marshall.
-      *   Article 2 does not provide specific factual evidence or legal history connecting Ronan McSharry to past events beyond his status as a figure within Fairhope/Baldwin County.
-
-      THE PIVOT:
-      *   Article 1 details the specific legal failings (Marcus McDowell's charging error) and the pattern of behavior (2017 probation, 9 arrests) which demonstrates the failure of local governance and law enforcement, whereas Article 2 offers only broad, unrelated political commentary about Alabama infrastructure and state figures.
-
-      KEY ENTITIES:
-      *   Ronan McSharry (Green Card holder from Ireland, owner of McSharry's Irish Pub)
-      *   Paula DiNardi
-      *   Marcus McDowell (Fairhope City Prosecutor)
-      *   Jack Burrell (Fairhope City Councilman)
-      *   Nall Hollis (Artist)
-      *   Judge Clark Stankoski (Baldwin County Circuit Court)
-      *   Karin Wilson (then-Mayor of Fairhope)
-      *   Paul Ripp (Fairhope citizen)
-      *   James Pittman (McSharry's attorney)
-    llm_text: Judge Clark Stankoski voided Ronan McSharry's 2017 conviction because Fairhope City Prosecutor Marcus McDowell omitted key facts. This legal failure exposes how local governance ignores McSharry's nine arrests and past incidents involving Nall Hollis and Paula DiNardi.
-    widget_date: "2022-08-01"
-    generated_at: "2026-11-06T21:14:35.214552Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  liars-bridge:
-    brief: |-
-      THE CONFLICT: Jack Burrell served on the Fairhope City Council for 10 years and was directly involved in slowing or not approving infrastructure projects, contradicting his promises regarding tolls and federal funding for the Mobile Bay Bridge.
-      THE DISCOVERY: Article 2 shows Jack Burrell's long-standing history of prioritizing development interests and political consensus over keeping campaign promises and addressing municipal needs.
-      THE PIVOT: Article 2 establishes a pattern of systemic political failure and broken promises within the Fairhope City Council, lending credence to Article 1's accusation that the council (including Councilman Burrell) ignored the pattern of drunken assaults and public disturbances committed by Ronan McSharry.
-      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Nall Hollis, Karin Wilson, Paul Ripp, Jerry Carl
-    llm_text: Jack Burrell promised better infrastructure but prioritized development over fixing tolls and federal funding for the Mobile Bay Bridge. His council's pattern of failure also ignored Ronan McSharry's documented assaults and public disturbances.
-    widget_date: "2022-07-29"
-    generated_at: "2026-11-06T21:16:50.450698Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  catalyst-eat-their-own:
-    brief: |-
-      THE CONFLICT: In 2017, Jennifer Fidler and Sherry Sullivan were fired from their longtime Fairhope city posts by then-Mayor Karen Wilson.
-      THE DISCOVERY: The CATALYST political group, aided by Councilman Kevin Boone and Jack Burrell, sought to undermine Mayor Wilson and maintained a history of political corruption in Baldwin County.
-      THE PIVOT: The historical political maneuvering and the establishment of power structures (including McDowell as a holdover from the "Mayor Can’t era") revealed in Article 2 provide the context for the systemic failures, specifically the incompetence of Municipal Attorney Marcus McDowell and the inaction of Councilman Jack Burrell, which allowed Ronan McSharry to continue his pattern of alcohol-fueled assaults (9th arrest).
-      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Karin Wilson, Jennifer Fidler, Sherry Sullivan, Councilman Kevin Boone, Nall Hollis, James Pittman, Judge Clark Stankoski, Paul Ripp, Lagniappe, CATALYST, McSharry’s Irish Pub.
-    llm_text: Did Mayor Karen Wilson fire Jennifer Fidler and Sherry Sullivan in 2017? Systemic failures—including Marcus McDowell's incompetence and Jack Burrell's inaction—allowed Ronan McSharry to commit his 9th alcohol-fueled assault.
-    widget_date: "2022-05-20"
-    generated_at: "2026-11-06T21:18:58.211174Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  threesome:
-    brief: |-
-      THE CONFLICT: Ronan McSharry, owner of McSharry’s Irish Pub, was accused of harassing Nall Hollis on March 19, 2017, leading to 12 months probation; McSharry has racked up nine arrests related to alcohol-fueled incidents, including the Paula DiNardi case.
-      THE DISCOVERY: Article 2 reveals systemic corruption across Baldwin County municipalities (Spanish Fort, Summerdale, Fairhope) involving elected officials, including Mayors (David Wilson), Municipal Judges (Robert Stankowski), and Municipal Attorneys (Spencer Davis, David Conner), who use legal systems and insurance settlements to conceal wrongdoing.
-      THE PIVOT: Article 2 establishes that the perceived failings of the Fairhope municipal system (led by Marcus McDowell, Jack Burrell, and Judge Robert Stankoski) are not isolated incompetence but part of a broader, recognized pattern of elected officials covering up corruption, making the failure to prosecute McSharry part of a systemic institutional cover-up.
-      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Judge Clark Stankoski, Nall Hollis, Karin Wilson, Paul Ripp, Robert Stankoski, Spencer Davis, David Conner.
-    llm_text: Ronan McSharry's 2017 harassment and nine alcohol-related arrests expose more than just personal failure. Systemic corruption involving Baldwin County officials like Judge Robert Stankoski and Mayor David Wilson actively conceals wrongdoing.
-    widget_date: "2022-02-25"
-    generated_at: "2026-11-06T21:17:51.332640Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   happy-days:
+    refined_source: dff6f2c614b77ec45a5f2788ff21065685b0c19bf11a732a922786927d562094
     brief: |-
       THE CONFLICT:
       1. Ronan McSharry was accused of harassing artist Nall Hollis on March 19, 2017, leading to 12 months probation for "breach of peace."
@@ -103,30 +44,36 @@ hooks:
       14. Fairhope
       15. Baldwin County
     llm_text: Ronan McSharry received probation for harassing artist Nall Hollis, yet Fairhope City Prosecutor Marcus McDowell later voided his conviction. This outcome exposes Baldwin County's "good ole boys" structure, where powerful developers and local officials shield criminals from true accountability.
+    text: Ronan McSharry received probation for harassing artist Nall Hollis, but City Prosecutor Marcus McDowell later voided the conviction. This outcome exposes how powerful local officials shield criminals from true accountability.
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T21:15:46.763403Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mcsharry-madness:
+    refined_source: 7ff86662c35f85e2a1bbb807fc5a597820f916d6f9411d87f9ca70cdc3568390
     brief: |-
       THE CONFLICT: Ronan McSharry, owner of McSharry’s Irish Pub in Fairhope, assaulted Paula DiNardi (shoved from stool). This was part of a pattern of drunken behavior, including a prior incident on March 19, 2017, where McSharry harassed artist Nall Hollis.
       THE DISCOVERY: In the past, Municipal Judge Haymes Snedeker found McSharry guilty of both assault and intoxication, imposing 180 days. However, Baldwin County Circuit Judge Clark Stankoski later voided the assault conviction, ruling Fairhope City Prosecutor Marcus McDowell made an error on the charging document.
       THE PIVOT: Article 2 establishes that the municipal court system (Judge Snedeker/McDowell) initially found McSharry guilty of assault but that the conviction was later overturned by Circuit Court (Judge Stankoski) due to procedural error, revealing a failure in the local judicial system that Article 1 criticizes.
       KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell (Fairhope City Prosecutor), Jack Burrell (Councilman), Karin Wilson (then-Mayor), James Pittman (McSharry's attorney), Clark Stankoski (Baldwin County Circuit Judge), Haymes Snedeker (Fairhope Municipal Judge), Nall Hollis, Paul Ripp (Fairhope citizen), Lagniappe, Sherry Sullivan (potential Catalyst Mayor).
     llm_text: Ronan McSharry assaulted Paula DiNardi at his Fairhope pub. Though Municipal Judge Haymes Snedeker initially found him guilty, Circuit Judge Clark Stankoski later voided the conviction, exposing major flaws in the local justice system.
+    text: Ronan McSharry assaulted Paula DiNardi at his Fairhope pub. Municipal Judge Haymes Snedeker found him guilty, but Circuit Judge Clark Stankoski later voided the conviction, exposing major flaws in local justice.
     widget_date: "2021-11-26"
     generated_at: "2026-11-06T21:19:42.709516Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   get-zoned-or-get-screwed:
+    refined_source: 4bf4c568243dd82d5a964a6594f7a19fe172acaed4a722836fbfd9a9649f3dbc
     brief: |-
       THE CONFLICT: Ronan McSharry was accused of assault on Paula DiNardi and accumulated nine arrests for alcohol-related incidents.
       THE DISCOVERY: Un-zoned properties (e.g., Proposed District 37, within 5-mile city line) are vulnerable to unchecked development, lacking local representation and regulatory oversight.
       THE PIVOT: Both articles demonstrate a failure of Fairhope City Council and municipal government (including the City Attorney) to protect citizens, whether from criminal misconduct (McSharry) or from unchecked development/loss of local voice (zoning).
       KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Karin Wilson, Paul Ripp, Nall Hollis, Mayor Sullivan, Elizabeth Gabel Wilso, Fairhope City Council.
     llm_text: 'Ronan McSharry''s assault and nine alcohol arrests expose a deeper failure: Fairhope City Council ignored citizen safety. Un-zoned properties lack local voice, proving municipal government protects neither residents nor their land.'
+    text: Ronan McSharry racked up nine alcohol arrests while the Fairhope City Council ignored public safety. Un-zoned properties lack local voice, proving municipal government protects neither residents nor their land.
     widget_date: "2021-11-19"
     generated_at: "2026-11-06T21:20:50.485491Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   now-you-know-jack:
+    refined_source: d046acfcdc15659a808467b63b4f87ed873a7308f9bf677c2a6ab3a6e5adeed4
     brief: |-
       THE CONFLICT:
       *   Ronan McSharry, owner of McSharry’s Irish Pub, received a 12-month probation sentence on March 19, 2017, for breach of peace and alleged harassment of Nall Hollis (across the street from the bar).
@@ -155,7 +102,76 @@ hooks:
       *   Fairhope City Council
       *   Fairhope Police
       *   The Ripp Report
-    llm_text: Jack Burrell obstructed Mayor Kant's office, yet he ignored Ronan McSharry's ninth arrest and assaults on women like Paula DiNardi. Discover how Burrell's anti-democratic pattern allowed the City Council to disregard the rule of law.
+    llm_text: Jack Burrell obstructed Mayor Kant's office, yet he ignored Ronan McSharry's ninth arrest and assaults on women like Paula DiNardi. Read how Burrell's anti-democratic pattern allowed the City Council to disregard the rule of law.
+    text: Jack Burrell fought Mayor Kant while ignoring Ronan McSharry and his assaults on women like Paula DiNardi. Read how Burrell and the City Council disregard the rule of law.
     widget_date: "2017-08-30"
     generated_at: "2026-11-06T21:22:06.891796Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-mcsharry-will-out:
+    refined_source: d4f453b06cba83f6df2a7d59515479838f6aad888be1da79e9a3410bc7555e0a
+    brief: |-
+      THE CONFLICT:
+      *   March 19, 2017: Ronan McSharry was accused of directing abusive/vulgar language/gestures toward artist Nall Hollis.
+      *   2017 Sentence: McSharry received 12 months probation, a no-contact order with Hollis, and an order not to consume distilled liquors.
+      *   Recent History: McSharry has accumulated nine arrests involving alcohol/intoxication.
+      *   Paula DiNardi case: DiNardi filed a civil suit in Circuit Court claiming injury from being shoved; McSharry was involved in a "breach of peace" charge approximately two months before the main article.
+      *   Legal Voiding: Judge Clark Stankoski voided McSharry's conviction because Fairhope City Prosecutor Marcus McDowell failed to include the fact that McSharry "did cause physical harm to another person" on the charging document.
+
+      THE DISCOVERY:
+      *   Article 2 provides general political context regarding the $3Billion Mobile Bayway Project, $2Billion Novell aluminum facility in Baldwin County Mega Site, and the ongoing controversy surrounding Attorney General Steve Marshall.
+      *   Article 2 does not provide specific factual evidence or legal history connecting Ronan McSharry to past events beyond his status as a figure within Fairhope/Baldwin County.
+
+      THE PIVOT:
+      *   Article 1 details the specific legal failings (Marcus McDowell's charging error) and the pattern of behavior (2017 probation, 9 arrests) which demonstrates the failure of local governance and law enforcement, whereas Article 2 offers only broad, unrelated political commentary about Alabama infrastructure and state figures.
+
+      KEY ENTITIES:
+      *   Ronan McSharry (Green Card holder from Ireland, owner of McSharry's Irish Pub)
+      *   Paula DiNardi
+      *   Marcus McDowell (Fairhope City Prosecutor)
+      *   Jack Burrell (Fairhope City Councilman)
+      *   Nall Hollis (Artist)
+      *   Judge Clark Stankoski (Baldwin County Circuit Court)
+      *   Karin Wilson (then-Mayor of Fairhope)
+      *   Paul Ripp (Fairhope citizen)
+      *   James Pittman (McSharry's attorney)
+    llm_text: Judge Clark Stankoski voided Ronan McSharry's 2017 conviction because Fairhope City Prosecutor Marcus McDowell omitted key facts. This legal failure exposes how local governance ignores McSharry's nine arrests and past incidents involving Nall Hollis and Paula DiNardi.
+    text: Judge Clark Stankoski voided Ronan McSharry's 2017 conviction because City Prosecutor Marcus McDowell omitted key facts. This legal failure hides McSharry's nine arrests and past assaults.
+    widget_date: "2022-08-01"
+    generated_at: "2026-11-06T21:14:35.214552Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  liars-bridge:
+    refined_source: 3f289290590bf42435a12e01bab18d32cf46673bc3b1a27edab9d3d7a0f58634
+    brief: |-
+      THE CONFLICT: Jack Burrell served on the Fairhope City Council for 10 years and was directly involved in slowing or not approving infrastructure projects, contradicting his promises regarding tolls and federal funding for the Mobile Bay Bridge.
+      THE DISCOVERY: Article 2 shows Jack Burrell's long-standing history of prioritizing development interests and political consensus over keeping campaign promises and addressing municipal needs.
+      THE PIVOT: Article 2 establishes a pattern of systemic political failure and broken promises within the Fairhope City Council, lending credence to Article 1's accusation that the council (including Councilman Burrell) ignored the pattern of drunken assaults and public disturbances committed by Ronan McSharry.
+      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Nall Hollis, Karin Wilson, Paul Ripp, Jerry Carl
+    llm_text: Jack Burrell promised better infrastructure but prioritized development over fixing tolls and federal funding for the Mobile Bay Bridge. His council's pattern of failure also ignored Ronan McSharry's documented assaults and public disturbances.
+    text: Jack Burrell promised better infrastructure but prioritized development over fixing Mobile Bay Bridge tolls. His council also ignored Ronan McSharry and his documented assaults.
+    widget_date: "2022-07-29"
+    generated_at: "2026-11-06T21:16:50.450698Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-eat-their-own:
+    refined_source: 52562730a0907719c40bf9c582a5a61983e2e02a3458b70a8704188c5f4286d4
+    brief: |-
+      THE CONFLICT: In 2017, Jennifer Fidler and Sherry Sullivan were fired from their longtime Fairhope city posts by then-Mayor Karen Wilson.
+      THE DISCOVERY: The CATALYST political group, aided by Councilman Kevin Boone and Jack Burrell, sought to undermine Mayor Wilson and maintained a history of political corruption in Baldwin County.
+      THE PIVOT: The historical political maneuvering and the establishment of power structures (including McDowell as a holdover from the "Mayor Can’t era") revealed in Article 2 provide the context for the systemic failures, specifically the incompetence of Municipal Attorney Marcus McDowell and the inaction of Councilman Jack Burrell, which allowed Ronan McSharry to continue his pattern of alcohol-fueled assaults (9th arrest).
+      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Karin Wilson, Jennifer Fidler, Sherry Sullivan, Councilman Kevin Boone, Nall Hollis, James Pittman, Judge Clark Stankoski, Paul Ripp, Lagniappe, CATALYST, McSharry’s Irish Pub.
+    llm_text: Did Mayor Karen Wilson fire Jennifer Fidler and Sherry Sullivan in 2017? Systemic failures—including Marcus McDowell's incompetence and Jack Burrell's inaction—allowed Ronan McSharry to commit his 9th alcohol-fueled assault.
+    text: Did Mayor Karen Wilson fire Jennifer Fidler and Sherry Sullivan in 2017? Systemic failures by Marcus McDowell and Jack Burrell allowed Ronan McSharry to commit his ninth alcohol-fueled assault.
+    widget_date: "2022-05-20"
+    generated_at: "2026-11-06T21:18:58.211174Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  threesome:
+    refined_source: 4ead4033edeefb2f4a2c345540decb957f2624a9f944232dd5770807f11cd985
+    brief: |-
+      THE CONFLICT: Ronan McSharry, owner of McSharry’s Irish Pub, was accused of harassing Nall Hollis on March 19, 2017, leading to 12 months probation; McSharry has racked up nine arrests related to alcohol-fueled incidents, including the Paula DiNardi case.
+      THE DISCOVERY: Article 2 reveals systemic corruption across Baldwin County municipalities (Spanish Fort, Summerdale, Fairhope) involving elected officials, including Mayors (David Wilson), Municipal Judges (Robert Stankowski), and Municipal Attorneys (Spencer Davis, David Conner), who use legal systems and insurance settlements to conceal wrongdoing.
+      THE PIVOT: Article 2 establishes that the perceived failings of the Fairhope municipal system (led by Marcus McDowell, Jack Burrell, and Judge Robert Stankoski) are not isolated incompetence but part of a broader, recognized pattern of elected officials covering up corruption, making the failure to prosecute McSharry part of a systemic institutional cover-up.
+      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Marcus McDowell, Jack Burrell, Judge Clark Stankoski, Nall Hollis, Karin Wilson, Paul Ripp, Robert Stankoski, Spencer Davis, David Conner.
+    llm_text: Ronan McSharry's 2017 harassment and nine alcohol-related arrests expose more than just personal failure. Systemic corruption involving Baldwin County officials like Judge Robert Stankoski and Mayor David Wilson actively conceals wrongdoing.
+    text: Ronan McSharry's nine alcohol arrests expose more than personal failure. Systemic corruption involving officials like Judge Robert Stankoski and Mayor David Wilson actively conceals wrongdoing.
+    widget_date: "2022-02-25"
+    generated_at: "2026-11-06T21:17:51.332640Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

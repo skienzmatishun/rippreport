@@ -1,0 +1,186 @@
+metadata:
+  generated_at: "2026-11-07T11:07:06.702984Z"
+  generator_version: 1.0.0
+  post_slug: insanity-2
+  main_date: "2021-02-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  dollars-and-lives:
+    refined_source: f5a95ef9adcb647ecd552da64bd0aac471935ccb509d40de6a907767cd4b6f7a
+    brief: |-
+      THE CONFLICT:
+      *   Governor Bentley left 3 BILLION DOLLARS on the table in 2015 regarding healthcare.
+      *   Governor Ivy planned a "private Partnership" prison plan valued at 3 Billion in 2021.
+
+      THE DISCOVERY:
+      *   The City of Fairhope's 6.2 million dollar waterfront project originated with the Wilson administration.
+      *   Fairhope was previously Alabama City, and a 1938 booklet details early settler construction (coffer dam/bulkhead).
+      *   Article 2 documented local handling of COVID-19, leading to the cancellation of the Christmas Parade.
+
+      THE PIVOT:
+      *   Article 2 provides context on localized municipal financial management (Fairhope waterfront, $6.2M grant) and local public health response (COVID-19) in Alabama.
+      *   Article 1 details state-level policy failures regarding Medicaid expansion (2015 and 2021) by state governors.
+      *   There is no direct factual link connecting the municipal waterfront project or 1938 historical facts to the state Medicaid expansion policy or governor actions.
+
+      KEY ENTITIES:
+      *   Governor Bentley
+      *   Governor Ivy
+      *   Alabama
+      *   Medicaid
+      *   Wilson administration
+      *   Mayor Sullivan
+      *   Mayor Jack Burrell
+      *   Fairhope Waterfront
+      *   Howing Rains
+    llm_text: Governor Bentley lost $3B on 2015 healthcare, and Governor Ivy planned a $3B prison partnership. See how state failures contrast with Fairhope's $6.2M waterfront project and local COVID-19 response.
+    text: Governor Bentley lost $3 billion on 2015 healthcare, and Governor Ivey planned a $3 billion prison partnership. State failures contrast with Fairhope's $6.2 million waterfront project.
+    widget_date: "2020-12-05"
+    generated_at: "2026-11-07T11:05:17.930724Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  slap-in-the-face:
+    refined_source: 255ac04e657bfdeb99ce31bd500671bc7f3f3777147bfcf018b7130334f28f87
+    brief: |-
+      THE CONFLICT:
+      *   2020: Slappin Mike McMillian (Mayor of Spanish Fort) was cleared of charges and walked not guilty.
+      *   2020: Allegations of BP fraud involving Sen. Tripp Pittman.
+      *   2020: Sen Chris Elliott was involved in a DUI incident.
+      *   2020: FEMA fraud allegations in Fairhope.
+      *   2020: Marcus McDowell (municipal attorney for Fairhope) failed to file charges in the McSherry case involving Paula DiNiardi.
+
+      THE DISCOVERY:
+      *   Alabama is identified as number one in corruption, attributed to a flawed judicial system where powerful individuals evade consequences.
+      *   Thomas Gallion III published *Shadow Government Southern Style*, detailing political and legal corruption from the 1950s to the present.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of systemic judicial and political corruption in Alabama (2020) where powerful figures are not held accountable.
+      *   This background context supports Article 1's critique that political motives and failure to expand Medicaid (2015/2021) under Governor Bentley and Governor Ivy are not isolated policy errors but symptomatic of deep, unchecked political governance and corruption.
+
+      KEY ENTITIES:
+      *   Governor Bentley
+      *   Governor Ivy
+      *   Chris Elliott
+      *   Tripp Pittman
+      *   Mike McMillian
+      *   Marcus McDowell
+      *   Paula DiNiardi
+      *   Medicaid
+      *   Affordable Care Act (ACA)
+      *   Alabama
+    llm_text: 'Alabama ranks #1 in corruption, where powerful figures like Mike McMillian and Tripp Pittman evade justice. Don''t view Medicaid failures as isolated policy errors—they stem from systemic political corruption across the state.'
+    text: Alabama ranks first in public corruption while figures like Mike McMillian and Tripp Pittman evade justice. Medicaid failures stem from systemic political corruption across the state.
+    widget_date: "2020-10-17"
+    generated_at: "2026-11-07T11:00:32.180239Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  missed-the-bullet:
+    refined_source: a2add863416c19c9698461e152ea971434ed141ae03e2498b89c46625518fac2
+    brief: |-
+      THE CONFLICT: 2015 - Love Gov. Bentley left 3 BILLION DOLLARS on the table concerning healthcare/Medicaid.
+      THE DISCOVERY: Robin LeJeune was elected Mayor of Daphne, choosing to slow development and prioritize infrastructure following Hurricane Delta.
+      THE PIVOT: Both articles detail substantial financial losses and missed opportunities (A1: $15B–$20B lost Medicaid revenue; A2: $100 million estimated debris removal cost) despite political or natural events.
+      KEY ENTITIES: Governor Ivy, Love Gov. Bentley, Medicaid, Daphne, Robin LeJeune, Hurricane Delta
+    llm_text: Love Gov. Bentley lost $15B–$20B in Medicaid revenue, proving political inaction costs millions. Meanwhile, Daphne Mayor Robin LeJeune slowed development after Hurricane Delta, preventing a $100 million debris cost.
+    text: Governor Bentley lost billions in Medicaid revenue, proving political inaction costs millions. Daphne Mayor Robin LeJeune slowed development after Hurricane Delta and prevented a $100 million debris cost.
+    widget_date: "2020-10-09"
+    generated_at: "2026-11-07T11:06:40.954336Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  non-lethal:
+    refined_source: 7bf46bc082660731d66c6a8888adeecdfb71fb5656badfd6021df43cdb8d4054
+    brief: |-
+      THE CONFLICT:
+      *   2015: Love Gov. Bentley left 3 BILLION DOLLARS on the table regarding healthcare.
+      *   May 2017: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in Baldwin County.
+      *   2021: Governor Ivy pursued a $3 Billion "private Partnership" prison plan.
+
+      THE DISCOVERY:
+      *   Baldwin County police departments prioritized lethal military weapons (e.g., AR-15 rifles, Humvee) over non-lethal weapons.
+      *   In May 2017, BCSO, per Sheriff Hoss Mack deposition, lacked a crisis intervention team and de-escalation training.
+      *   Sheriff’s office refused to turn over critical body camera and vehicle footage in the Johnathan Victor case.
+
+      THE PIVOT:
+      *   Article 2 demonstrates systemic government/law enforcement negligence (lack of de-escalation, prioritizing lethal force, lack of accountability) in Baldwin County.
+      *   Article 1 demonstrates systemic political negligence (refusal to expand Medicaid, lost billions) by Alabama Republican Governors, connecting both articles to broad state-level failure in protecting public welfare and fiscal responsibility.
+
+      KEY ENTITIES:
+      *   Alabama
+      *   Governor Bentley
+      *   Governor Ivy
+      *   Johnathan Victor
+      *   Hoss Mack
+      *   Baldwin County Police
+      *   Bay Minette
+      *   Medicaid
+      *   Taser X26
+    llm_text: Governor Bentley lost $3 billion on Medicaid, but Baldwin County’s negligence cost Johnathan Victor his life. Sheriff Hoss Mack's police prioritized lethal AR-15 weapons over de-escalation, showing statewide failure.
+    text: Governor Bentley lost $3 billion on Medicaid, but Baldwin County negligence cost Johnathan Victor his life. Sheriff Hoss Mack's department prioritized lethal weapons over de-escalation.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-07T10:59:14.044940Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-senate-impeachment:
+    refined_source: d662b01ee9aac7c09b90e4c884d2b8105ed8c5d46e8b638ca09249fdf0a91cc1
+    brief: |-
+      THE CONFLICT:
+      Former Governor Love Bentley (2015) left $3 BILLION on the table and hindered healthcare access in Alabama.
+
+      THE DISCOVERY:
+      Article 2 documented the COVID-19 impact in Alabama (477,570 cases, 9,021 deaths) and highlighted major development projects such as the Bayway Project and the Golden Triangle project (4,200 Acres near Stapleton in Spanish Fort Planning Jurisdiction).
+
+      THE PIVOT:
+      Article 2 provides the contemporary economic and political context (development projects, legislative activity, health crisis) in Alabama that frames the long-term political failure regarding Medicaid expansion criticized in Article 1.
+
+      KEY ENTITIES:
+      Governor Love Bentley
+      Governor Ivy
+      Richard Shelby
+      Jack Burrell
+      AG Steve Marshall
+      Larry Flynt
+      Bayway Project
+      Golden Triangle Project
+      Spanish Fort Planning Jurisdiction
+      2015
+      2021
+      $3 Billion
+      477,570 SARS-COV-2 cases in Alabama
+      15 Billion to 20 Billion (estimated Medicaid revenue loss)
+    llm_text: Former Governor Love Bentley left $3 Billion on the table and hindered Alabama healthcare. See how the 477,570 COVID-19 cases and major projects like the Bayway and Golden Triangle shape today's political and economic crisis.
+    text: Former Governor Robert Bentley left $3 billion on the table and hindered Alabama healthcare. COVID-19 cases and major projects like the Bayway shape today's political and economic crisis.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-07T11:01:35.139370Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  super-bowl-lv:
+    refined_source: c32228347e7a02baad386f7edaee3df86b0b6ad1c05f8e88cb81a143fc772778
+    brief: |-
+      THE CONFLICT:
+      2020 Presidential election contested, leading to reported "insurrection" at the nation's Capital.
+
+      THE DISCOVERY:
+      Political divisions (Republicans and Democrats) mirror those in professional sports (Super Bowl LV); both involve billions of dollars and media attention.
+
+      THE PIVOT:
+      Article 2 establishes a historical context of national division and resistance against established authority, which contrasts with the localized political failure (Medicaid refusal) detailed in Article 1.
+
+      KEY ENTITIES:
+      Governor-Ivey
+      Governor-Bentley
+      Medicaid
+      Alabama
+      Super Bowl LV
+      Kansas City Chiefs
+      Tampa Bay Buccaneers
+    llm_text: National political divisions echo the billions at Super Bowl LV, where the Kansas City Chiefs clash with the Tampa Bay Buccaneers. How does this large-scale conflict compare to local failures, like Medicaid refusal in Alabama involving Governors Ivey and Bentley?
+    text: National political divisions match the massive spending at Super Bowl LV between the Kansas City Chiefs and Tampa Bay Buccaneers. How does this conflict compare to Medicaid refusal in Alabama?
+    widget_date: "2021-02-05"
+    generated_at: "2026-11-07T11:02:47.872952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-big-lie:
+    refined_source: 3b0155d545836b0f028202426a8b1510a2950366812ff9f6ef170c8a97b27e10
+    brief: |-
+      THE CONFLICT: Vietnam War (1968); Tet Offensive/Battle of Khe Sanh claimed thousands of lives; 55,000 American lives lost; Martin Luther King and Robert Kennedy assassinated in 1968.
+      THE DISCOVERY: Article 2 reveals a historical pattern of political deception by the U.S. government regarding the Vietnam War.
+      THE PIVOT: Article 2 establishes a broad historical context of government lying, framing modern political actions in Alabama (Medicaid obstruction) as part of a continuous, systemic pattern of political dishonesty, rather than an isolated state issue.
+      KEY ENTITIES: Alabama; Governor Bentley (2015); Governor Ivey (2021); Medicaid Expansion; $3 Billion; $15 Billion-$20 Billion; Vietnam; Birmingham, Alabama.
+    llm_text: The U.S. government lied about the Vietnam War, fueling national crisis in 1968. This historical pattern of deception connects to modern Alabama issues, showing Medicaid obstruction under Bentley and Ivey isn't an isolated state problem.
+    text: The United States government lied about the Vietnam War and fueled a national crisis in 1968. This historical pattern of deception connects to modern Medicaid obstruction under Bentley and Ivey.
+    widget_date: "2021-01-15"
+    generated_at: "2026-11-07T11:04:05.563758Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

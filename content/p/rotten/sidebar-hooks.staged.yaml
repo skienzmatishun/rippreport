@@ -1,0 +1,128 @@
+metadata:
+  generated_at: "2026-11-07T20:31:43.017935Z"
+  generator_version: 1.0.0
+  post_slug: rotten
+  main_date: "2020-01-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-15-the-banquette:
+    refined_source: 8f129b99e3face6ed181311e8f68a19801c2e1f42d897877742303a03984790e
+    brief: |-
+      THE CONFLICT: Airport scam involving Councilman Burrell in May 2016
+      THE DISCOVERY: Burrell held multiple roles (City Council President, Judge, City Attorney) and was accused of operating a "criminal enterprise"
+      THE PIVOT: The May 2016 airport scam article is cited as historical proof of Burrell's alleged corruption during his seven years as council president leading up to the 2020 election
+      KEY ENTITIES: Jack Burrell, Senator Elliott, Fairhope City Council, Baldwin County
+    llm_text: Jack Burrell held multiple roles—City Council President, Judge, City Attorney—while facing an airport scam accusation in May 2016. See how this historical corruption proof shapes the debate with Senator Elliott in Fairhope.
+    text: Jack Burrell held three different city titles while facing an airport scam accusation in 2016. That history of corruption defines his current battles with Senator Elliott in Fairhope.
+    widget_date: "2019-12-28"
+    generated_at: "2026-11-07T20:30:23.933119Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  criminal-enterprise:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County has a share of corrupt and/or inept elected officials.
+      - Two worst elected officials identified: Sen. Elliott and Jack Burrell.
+      - Sen. Elliott ranked second; Jack Burrell ranked first.
+      - Jack Burrell served as Fairhope City Council President and headed the City Council, which operated as a criminal enterprise.
+      - The "appointed" city Attorney and Fairhope Municipal Judge could always depend on Burrell.
+      - Jack Burrell and the Fairhope Municipal Judge had a "special bond"; "Three years later and the Judge and Jack are at it again."
+      - May 2016: The Ripp Report published articles about Councilmen Burrell and the airport scam.
+      - Burrell served as council president for approximately seven years through 2020; deemed a disgrace; in 2020 recognized as threat to quality of life, property values, and children.
+      - 2020: Main article headline directive: "VOTE OUT THE ENTIRE CITY COUNCIL IN 2020."
+
+      THE DISCOVERY:
+      - Widget Article 2, "CRIMINAL ENTERPRISE," posed: "Fairhope being run as a Criminal Enterprise?"
+      - Widget content instructed: "WATCH UNTIL MINUTE 2:07–9:03."
+      - Widget image context: heavily blurred nighttime photograph of a police car with illuminated headlights and flashing blue and red emergency lights on the roof.
+
+      THE PIVOT:
+      - Article 2 (Widget) is older than Article 1 (Main); frame as background/historical context.
+      - Article 2 framed Fairhope as being run as a criminal enterprise.
+      - Article 1 (Main, "ROTTEN," "WORST ELECTED OFFICIAL") adopted the criminal enterprise framing.
+      - Article 1 directed readers to May 2016 Ripp Report articles about Councilmen Burrell and the airport scam.
+      - Article 2 is the smoking gun for Article 1 because it raised the criminal enterprise allegation that Article 1 now ties to Jack Burrell.
+
+      KEY ENTITIES:
+      - Jack Burrell — Fairhope City Council President.
+      - Sen. Elliott — second worst elected official in Baldwin County.
+      - Fairhope Municipal Judge — "the Judge."
+      - Appointed City Attorney — Fairhope.
+      - Baldwin County — county context.
+      - Fairhope City Council — operating as criminal enterprise.
+      - Councilmen Burrell — May 2016 airport scam context.
+      - Fairhope — city.
+      - Lowery — name to mention.
+      - Wilters — name to mention.
+    llm_text: Jack Burrell ran Fairhope as a criminal enterprise while the appointed city attorney and Fairhope Municipal Judge looked the other way. The Ripp Report’s “CRIMINAL ENTERPRISE” widget now ties that old allegation straight to Burrell—and why you should vote out the whole council.
+    text: Jack Burrell ran Fairhope as a criminal enterprise while the appointed city attorney and Fairhope Municipal Judge looked the other way. The Ripp Report’s “CRIMINAL ENTERPRISE” widget now ties that old allegation straight to Burrell—and why you should vote out the whole council.
+    widget_date: "2019-12-27"
+    generated_at: "2026-11-07T20:30:19.319990Z"
+    model_name: recursive/flint-v1.0:free
+  in-your-face:
+    refined_source: 10d939bd7ec9b85986c5a395ef11a05e92769116ed94470e2180cd9b76e7210d
+    brief: |-
+      THE CONFLICT:
+      *   May 2016: Councilmen Burrell were involved in an "airport scam" in Fairhope.
+      *   Feb 26 2018: An Ethics Complaint was filed against Fairhope City Councilman Robert Brown by Theresa Davis/Thomas B. Albritton.
+      *   2020: Jack Burrell was running for re-election as City Council President in Fairhope.
+
+      THE DISCOVERY:
+      *   Article 2 (2018) proves Robert Brown used his office and position as a City Council liaison to secure a contract with Eastern Shore Art Center, despite receiving clear informal advice from the State of Alabama Ethics Commission against using office for self/family benefit.
+      *   Brown was associated with Cliff Pittman (Pittman Brown Development Co.), who was a director of the Single Tax Corp.
+
+      THE PIVOT:
+      *   Article 2 provides specific evidence (2018 Ethics Complaint) demonstrating a pattern of elected officials in Fairhope (Robert Brown) ignoring Ethics Commission advice and Public Doctrine to secure personal/business gain, supporting the main article's broad claim of corruption by officials like Jack Burrell.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fairhope City Council President)
+      *   Robert Brown (Fairhope City Council)
+      *   Senator Elliott
+      *   Cliff Pittman (Pittman Brown Development Co.)
+      *   Chris Elliott
+      *   State of Alabama Ethics Commission
+      *   Fairhope City Council
+      *   Eastern Shore Art Center
+      *   Baldwin County
+    llm_text: Robert Brown violated ethics rules in 2018, using his council position to secure an Eastern Shore Art Center contract. This pattern of ignoring the State of Alabama Ethics Commission proves Fairhope officials like Jack Burrell lack integrity.
+    text: Robert Brown broke ethics rules in 2018 to grab an Eastern Shore Art Center contract. Fairhope leaders like Jack Burrell ignore the Alabama Ethics Commission on a regular basis.
+    widget_date: "2018-02-28"
+    generated_at: "2026-11-07T20:31:26.825212Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  triangle-roaches:
+    brief: "THE CONFLICT: \n- Former Mayor Tim Kant (\"Can't\") fueled a 2-decade, multi-lawsuit dispute over the \"Triangle\" property during his 16 years in office (2006 to present / dating back to the 1980s family inheritance).\n- In February 2014, Councilman Ford illegally added an unannounced item to a City Council meeting agenda to authorize Mayor Kant to enter secret settlement talks over the Triangle lawsuit.\n- In September 2014, Mayor Kant announced a legal settlement while misleading the public, claiming the city was going to purchase the land for parks to cover up a major court loss.\n- The city ultimately lost a total of $13 million ($8.25 million legal settlement plus $3 million in legal fees, which City Attorney Cain Orear had falsely guaranteed would be refunded).\n- The Triangle property was stripped of old-growth pines over 10 years ago, leaving only scrub oak, erosion from logging roads, and severe traffic/parking issues compounded by the approval of 230 apartments and over 100 condos/townhouses behind Publix (near Parker Road and Highway 98).\n- Tim Kant has now resurfaced as a major player in a newly formed \"Triangle Conservancy,\" attempting to block development.\n- Meanwhile, Fairhope City Council President Jack Burrell has operated the City Council as a \"criminal enterprise\" for the last 7 years, carrying water for the appointed City Attorney and Fairhope Municipal Judge, and was previously linked to an airport scam in May 2016.\n\nTHE DISCOVERY: \n- The historical background details how past political corruption, secret backroom meetings (such as the February 2014 council agenda maneuver), and deceitful public spin by Mayor Tim Kant directly birthed a $13 million financial disaster for the city. \n- It shows that the \"Triangle\" land deal was never a legitimate park purchase, but rather a political cover-up for a lost lawsuit driven by the \"good ole boys\" network.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it exposes the foundational, multi-million-dollar corruption and deception of the past (led by former Mayor Tim Kant) that the current administration—led by City Council President Jack Burrell and the City Attorney—continues to protect and perpetuate, proving the Ripp Report's ongoing thesis that the entire local government operates as an unrepentant criminal enterprise.\n\nKEY ENTITIES: \n- Jack Burrell (Fairhope City Council President)\n- Tim Kant / \"Can't\" (Former Mayor of Fairhope)\n- Senator Elliott \n- Cain Orear (City Attorney)\n- Councilman Ford\n- Publix\n- Fly Creek Apartments\n- Triangle Conservancy"
+    llm_text: Former Mayor Tim Kant hid a disastrous $13 million court loss behind deceptive park-purchase spin, launching a multi-decade legacy of backroom corruption. Now, Council President Jack Burrell protects those same corrupt players, proving our local government still operates like a criminal enterprise.
+    text: Former Mayor Tim Kant hid a disastrous $13 million court loss behind deceptive park-purchase spin, launching a multi-decade legacy of backroom corruption. Now, Council President Jack Burrell protects those same corrupt players, proving our local government still operates like a criminal enterprise.
+    widget_date: "2019-12-05"
+    generated_at: "2026-11-07T20:29:46.110130Z"
+    model_name: gemini-3.5-flash-lite
+  nail-in-the-coffin:
+    refined_source: b2cb5984836ac9ed4a1936f7bd2e33c269d64f8d2cf36062ca7efe710ad47b19
+    brief: |-
+      THE CONFLICT: Councilmen Burrell involved in airport scam, referenced in May 2016 articles.
+      THE DISCOVERY: Fairhope City Council approved $2,650,000.00 land purchase (114 acres, northwest corner of CR 13 and 32) using savings, debt reserve, and impact fees without budget approval.
+      THE PIVOT: Article 2 (Widget Article, older context) shows documented historical corruption related to Councilmen Burrell (airport scam, Triangle PARK settlement, Soccer Fields) providing context for the current allegations against Jack Burrell as City Council President.
+      KEY ENTITIES: Jack Burrell, Senator Elliott, Fairhope City Council, Baldwin County, ?CATALYST
+    llm_text: Jack Burrell, the City Council President, approved a $2.65M land purchase without budget approval. See how his past airport scam history connects to these major Fairhope Council decisions.
+    text: Council President Jack Burrell spent 2.65 million dollars on land without budget approval. His past airport scam involvement matches his reckless spending on the Fairhope Council.
+    widget_date: "2019-10-30"
+    generated_at: "2026-11-07T20:29:47.019492Z"
+    model_name: plugsky-lite
+  watering-hole:
+    brief: "THE CONFLICT: \n- Bar owner Ronan McSharry repeatedly broke the law, accumulated multiple arrests and convictions, and remained on probation while continuing to avoid legal consequences (\"walk\").\n- Fairhope City Council President Jack Burrell and members of the local judiciary (judges and attorneys) frequently socialized at McSharry's bar (\"The Watering Hole\").\n- Jack Burrell was honored with a sandwich named after him on the McSharry's menu and maintained a police report that he failed to disclose prior to his election.\n- Politicians and judiciary members only distanced themselves from the bar after public backlash following McSharry's multiple arrests, yet they continued to protect him behind the scenes (\"have McSharry's back\").\n\nTHE DISCOVERY: \n- The article (serving as historical context/background) exposed a local \"spaghetti bowl of Conflicts of Interest and Quid Quo Pro Deals\" in Baldwin County.\n- It revealed systemic corruption involving judges, lawyers, and politicians who operate with blatant double standards, allowing favored individuals like McSharry to evade justice based on personal connections (\"who you know\").\n- It highlighted that citizens interacting with Municipal, District, or Circuit Courts in Baldwin County could have \"no expectation of a fair trial.\"\n\nTHE PIVOT: \n- Article 2 acts as the \"smoking gun\" because it provides concrete proof of the systemic \"quid pro quo\" culture and close, corrupt relationships between elected officials (Jack Burrell) and the local justice system. \n- It bridges the gap between general allegations of corruption and specific evidence of institutional shielding, directly supporting Article 1's claims that Burrell and local officials operate with impunity and maintain unethical ties to the judicial system.\n\nKEY ENTITIES: \n- Ronan McSharry\n- Jack Burrell\n- Senator Elliott"
+    llm_text: Bar owner Ronan McSharry kept beating convictions while Council President Jack Burrell ate sandwiches named after him. Read the smoking gun exposing Baldwin County's rigged courts and corrupt quid pro quo deals.
+    text: Bar owner Ronan McSharry kept beating convictions while Council President Jack Burrell ate sandwiches named after him. Read the smoking gun exposing Baldwin County's rigged courts and corrupt quid pro quo deals.
+    widget_date: "2019-10-25"
+    generated_at: "2026-11-07T20:29:51.161285Z"
+    model_name: gemini-3.5-flash-lite
+  going-down:
+    refined_source: 8e7068fc0349a761814a0599d52508828fd14159c22bc0e222eebb863bb19992
+    brief: |-
+      THE CONFLICT: Councilmen Burrell and the airport scam occurred in May 2016
+      THE DISCOVERY: Baldwin County lacks sewer regulations; over 566 apartments are under construction/proposed in Fairhope alone
+      THE PIVOT: The 2016 article establishes a history of questionable council actions (airport scam) linked to Councilmen Burrell, providing historical context for the allegations of corruption and poor decision-making in the later article regarding unchecked development and infrastructure failure.
+      KEY ENTITIES: Jack Burrell, Fairhope, Baldwin County, Catalyst Council, Rock Creek, 181/Fairhope at Wal-Mart
+    llm_text: Councilman Jack Burrell's 2016 airport scam history ties into today's unchecked development in Fairhope. Baldwin County lacks sewer rules, putting 566+ apartments at risk.
+    text: Jack Burrell faced an airport scam accusation in 2016 that connects to reckless development today. Baldwin County ignores sewer rules and crams 566 apartments into high risk zones.
+    widget_date: "2019-10-18"
+    generated_at: "2026-11-07T20:29:52.253630Z"
+    model_name: plugsky-lite

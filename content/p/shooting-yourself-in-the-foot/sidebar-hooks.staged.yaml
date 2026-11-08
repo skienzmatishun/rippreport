@@ -5,7 +5,92 @@ metadata:
   main_date: "2022-05-17"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  vote-yes-today:
+    refined_source: 4e488d2b2ca5149bfafd3ca3a8601cbe1514ae647468856e71ecd080a1659f98
+    brief: |-
+      THE CONFLICT: Steve Carney ran for Mayor of Daphne and lost as the Catalyst candidate; Baldwin County Substance Abuse Services Inc. (BSAS) was founded in 2007 through the District Attorney’s office; Jeb Ball, director of BCSA/BSAS, has received a double paycheck for 4 years; Tucker Dorsey was a former Baldwin County commissioner and was voted out over issues like the Baldwin County Sewer/Strawman.
+      THE DISCOVERY: The older widget article focused on a local election requiring voters to "Vote YES Today" regarding District Zoning and the number 8.
+      THE PIVOT: The older zoning vote (Article 2) provides historical context of local voting engagement in Baldwin County preceding the current District 2 commission race (Article 1).
+      KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Tucker Dorsey, Catalyst, Baldwin Substance Abuse Services Inc. (BSAS), Michell Thomason, District 2, District Zoning, Baldwin County.
+    llm_text: Steve Carney lost the Mayor race, but local politics involve more than just the Catalyst campaign. Jeb Ball collected a double paycheck at BSAS while former commissioner Tucker Dorsey faced scrutiny over District Zoning votes.
+    text: Steve Carney lost the mayoral race, but local politics stretch far beyond the Catalyst campaign. Jeb Ball collected two paychecks at BSAS while former commissioner Tucker Dorsey faced scrutiny over zoning votes.
+    widget_date: "2022-02-15"
+    generated_at: "2026-11-06T23:52:55.519619Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  make-8-great:
+    refined_source: 9f5f88f1a0db9f10e0fefbc80bedcb02a90340bac98983c7eb0da1ffb58ce282
+    brief: |-
+      THE CONFLICT: Fairhope historically used property annexation only if requested by owners, to avoid annexing the African American community.
+      THE DISCOVERY: Fairhope spent $2.6 million on farmland intended for recreation, which was subsequently rented for $9000 annually; this was pushed by Jack Burrell, Burrell Boone and Brown.
+      THE PIVOT: No direct factual connection exists between the Fairhope zoning/land history (Article 2) and the Baldwin County commission race conflicts (Article 1); both articles document systemic local governance issues (e.g., discriminatory zoning vs. conflicts of interest/Catalyst control).
+      KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Catalyst, Tucker Dorsey, Baldwin County, Fairhope, Clarice Hall Black, Jack Burrell, Baldwin Substance Abuse Services Inc. (BSAS).
+    llm_text: Fairhope used property annexation to avoid the African American community. See how Jack Burrell and his firm pushed a $2.6 million farmland deal, revealing systemic local governance issues in Baldwin County.
+    text: Fairhope used property annexation to bypass the African American community. Jack Burrell and his firm pushed a $2.6 million farmland deal that exposed broken local governance in Baldwin County.
+    widget_date: "2021-10-16"
+    generated_at: "2026-11-06T23:49:28.810738Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-quit:
+    refined_source: 24c91207c56a11c82d6cfec80a26d6a4026123b75648f538608c77d976ac1612
+    brief: |-
+      THE CONFLICT: Robert Brown quit the Fairhope City Council (2016/2020 cycle) after serving five months, triggering an fixed appointment process.
+      THE DISCOVERY: Article 2 revealed that the vacancy filling process for Robert Brown's seat was manipulated by Catalyst/Scott Boone Consulting (CSB), not by democratic council process.
+      THE PIVOT: Article 2 establishes Catalyst/CSB's historical pattern of controlling local appointments and politics (Fairhope), providing context for Catalyst's current "strangle hold" on Baldwin County politics and Steve Carney's candidacy.
+      KEY ENTITIES: Catalyst, Scott Boone Consulting (CSB), Robert Brown, Jack Burrell, Jay Robinson, Steve Carney, Tucker Dorsey, Jeb Ball, Jonathan Armstrong, Matt McKenzie, Baldwin Substance Abuse Services Inc. (BSAS).
+    llm_text: Robert Brown served only five months on the Fairhope City Council before quitting, exposing how Catalyst/Scott Boone Consulting fixed his appointment. Read how Catalyst maintains a stranglehold on Baldwin County politics, influencing key candidates like Steve Carney.
+    text: Robert Brown quit the Fairhope City Council after just five months, exposing how Catalyst and Scott Boone Consulting arranged his appointment. Catalyst maintains power in Baldwin County by backing candidates like Steve Carney.
+    widget_date: "2021-02-26"
+    generated_at: "2026-11-06T23:54:08.006248Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shadow-government-southern-style:
+    refined_source: 639e877c65c9cbde13efe7560835f50e164646ef2134d0cdd04087fb68fc8c81
+    brief: |-
+      THE CONFLICT:
+      *   Don Siegelman and HealthSouth CEO Richard Scrushy were involved in a political prosecution (2018).
+      *   The prosecution was a ploy by Rob Riley, Doug Jones, and Campbell's firm to gain control over Scrushy's financial clout, not solely to limit Siegelman's political power.
+
+      THE DISCOVERY:
+      *   Thomas T. Gallion III's book, *Shadow Government, Southern Style* (2020), vindicates long-standing allegations of systemic political corruption in Baldwin County.
+      *   This corruption is characterized by a focus on money rather than politics, involving Attorneys, Judges, Mayors, and Council members.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical, systemic pattern of money-driven political control (e.g., Scrushy case) in Deep South Alabama.
+      *   This context validates the specific local claims in Article 1 regarding Catalyst's control, the conflicts of interest within BSAS (founded 2007), and the financial incentives (double checks) tied to local office in Baldwin County.
+
+      KEY ENTITIES:
+      *   Steve Carney
+      *   Jonathan Armstrong
+      *   Jeb Ball
+      *   Matt McKenzie
+      *   Catalyst
+      *   Tucker Dorsey
+      *   Thomas T. Gallion III
+      *   Don Siegelman
+      *   Richard Scrushy
+      *   Rob Riley
+      *   Doug Jones
+      *   Baldwin County
+      *   Baldwin Substance Abuse Services Inc. (BSAS)
+      *   2007 (BSAS founding)
+      *   2020 (*Shadow Government* publication)
+    llm_text: Rob Riley used the Don Siegelman/Richard Scrushy prosecution to gain financial control, not just political leverage. Thomas T. Gallion III's book confirms this systemic, money-driven corruption defines Baldwin County, validating local claims about Catalyst and BSAS.
+    text: Rob Riley used the Don Siegelman and Richard Scrushy prosecution to grab financial control. Thomas T. Gallion III confirms that money-driven corruption defines Baldwin County and validates claims about Catalyst and BSAS.
+    widget_date: "2020-09-11"
+    generated_at: "2026-11-06T23:55:20.542501Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exposing-tucker-dorsey:
+    refined_source: 42184fcd016218ab64a440407c3fb916ac98e5e2b52336f196b3cc95ca944572
+    brief: |-
+      THE CONFLICT: Lee "Slippery Trip" Pittman and Mayor Kant stole a $639,000 boom grant from the City of Fairhope.
+      THE DISCOVERY: Jasper Tucker Dorsey is connected to the "Sicko Six" (Pittman, Hoss Mack, Bob James, Chris Elliot, Charles Gruber, and Dorsey) and has supported Pittman's efforts to limit Sheriff qualifications and double county commissioner pay.
+      THE PIVOT: Dorsey's historical role in the established corrupt network (Sicko Six) and his influence on county politics (A2) is the mechanism through which the shadow political group Catalyst backs Steve Carney in the current District two commission race (A1).
+      KEY ENTITIES: Jasper Tucker Dorsey, Steve Carney, Tucker Dorsey, Catalyst, Lynn Stacey, Lee "Slippery Trip" Pittman, Mayor Kant, Jeb Ball, Johnathan Armstrong, Baldwin Substance Abuse Services Inc. (BSAS), Matt McKenzie
+    llm_text: Jasper Tucker Dorsey, a "Sicko Six" member linked to the $639,000 stolen grant, dictates county politics. Read how his influence drives Catalyst's support for Steve Carney in the District Two race.
+    text: Jasper Tucker Dorsey belongs to a group linked to a stolen $639,000 grant and controls county politics. His influence drives Catalyst to support Steve Carney in the District Two race.
+    widget_date: "2014-05-31"
+    generated_at: "2026-11-06T23:56:28.710844Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bsp-128:
+    refined_source: 7c462186bcf14e7ae8ff9bc13741e7b430a415b7c59ecfc369ee4dd54c4b6d5a
     brief: |-
       THE CONFLICT:
       *   Baldwin Substance Abuse Services Inc. (BSAS) was founded in 2007 through the District Attorney’s office.
@@ -36,100 +121,31 @@ hooks:
       *   Bertolla
       *   Baldwin County Commission
     llm_text: Unchecked local power enabled Jeb Ball's no-bid BSAS contract, backed by Judge Michell Thomason. See how the repealed Comprehensive Plan and Megasite development set the stage for this lack of accountability across Baldwin County.
+    text: Jeb Ball secured a no-bid contract with BSAS with backing from Judge Michell Thomason. The repealed Comprehensive Plan and Megasite development set the stage for this lack of accountability.
     widget_date: "2022-05-15"
     generated_at: "2026-11-06T23:48:03.504555Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   homeland-securitys-disinformation-governance-board:
+    refined_source: 866fa221cbfa721a18fcbfee69a0e0941bb753830d3c05f439ecdca9a220eeae
     brief: |-
       THE CONFLICT: Steve McMillan served Baldwin County in the Legislature since 1980; he has since died.
       THE DISCOVERY: Article 2 profiles local events and the death of a long-serving public servant in Baldwin County; Article 1 details current political conflicts and commission races within Baldwin County (District two).
       THE PIVOT: Both articles provide local context for Baldwin County politics; Article 2 establishes a historical presence of public service (McMillan, 1980-present) against which Article 1’s current political controversies (BSAS, Catalyst) are viewed.
       KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Tucker Dorsey, Steve McMillan, Michell Thomason, Baldwin Substance Abuse Services Inc. (BSAS), Catalyst.
     llm_text: Steve McMillan served Baldwin County since 1980, but his death brings focus to local politics. See how his long public service contrasts with current District two conflicts involving BSAS and Catalyst.
+    text: Steve McMillan served Baldwin County for decades until his death shifted local politics. District Two conflicts involving BSAS and Catalyst now dominate county elections.
     widget_date: "2022-05-06"
     generated_at: "2026-11-06T23:50:34.180567Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   roll-of-the-dice:
+    refined_source: 80bb17fc2738ad03053fc1b02999e6d8dde62ee997ec37c4b92cdf0c1a5fda43
     brief: |-
       THE CONFLICT: Over 20 years of discussion regarding a state lottery in Alabama.
       THE DISCOVERY: The Legislative Services Agency estimated a state lottery could bring $272 million to $358 million annually; a December 2020 report projected gaming could boost state revenue by $710 million per year (lottery $300M, casinos $300M-$400M, sportsbook $10M-$15M).
       THE PIVOT: Article 2 discusses state-level lottery revenue loss and Article 1 discusses local Baldwin County political corruption (BSAS/Catalyst); no factual link exists between the two documents.
       KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Tucker Dorsey, Catalyst, Judge Michell Thomason, Burt, Legislative Services Agency, Baldwin County, Baldwin Substance Abuse Services Inc. (BSAS).
     llm_text: Alabama debates a $358M state lottery, yet local Baldwin County corruption involving BSAS and Catalyst demands attention. Don't miss how these political messes distract from massive state revenue potential.
+    text: Alabama debates a $358 million state lottery while Baldwin County deals with political corruption tied to BSAS and Catalyst. These local scandals distract the public from massive state revenue potential.
     widget_date: "2022-03-04"
     generated_at: "2026-11-06T23:51:44.761240Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-yes-today:
-    brief: |-
-      THE CONFLICT: Steve Carney ran for Mayor of Daphne and lost as the Catalyst candidate; Baldwin County Substance Abuse Services Inc. (BSAS) was founded in 2007 through the District Attorney’s office; Jeb Ball, director of BCSA/BSAS, has received a double paycheck for 4 years; Tucker Dorsey was a former Baldwin County commissioner and was voted out over issues like the Baldwin County Sewer/Strawman.
-      THE DISCOVERY: The older widget article focused on a local election requiring voters to "Vote YES Today" regarding District Zoning and the number 8.
-      THE PIVOT: The older zoning vote (Article 2) provides historical context of local voting engagement in Baldwin County preceding the current District 2 commission race (Article 1).
-      KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Tucker Dorsey, Catalyst, Baldwin Substance Abuse Services Inc. (BSAS), Michell Thomason, District 2, District Zoning, Baldwin County.
-    llm_text: Steve Carney lost the Mayor race, but local politics involve more than just the Catalyst campaign. Jeb Ball collected a double paycheck at BSAS while former commissioner Tucker Dorsey faced scrutiny over District Zoning votes.
-    widget_date: "2022-02-15"
-    generated_at: "2026-11-06T23:52:55.519619Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  make-8-great:
-    brief: |-
-      THE CONFLICT: Fairhope historically used property annexation only if requested by owners, allegedly to avoid annexing the African American community.
-      THE DISCOVERY: Fairhope spent $2.6 million on farmland intended for recreation, which was subsequently rented for $9000 annually; this was pushed by Jack Burrell, Burrell Boone and Brown.
-      THE PIVOT: No direct factual connection exists between the Fairhope zoning/land history (Article 2) and the Baldwin County commission race conflicts (Article 1); both articles document systemic local governance issues (e.g., discriminatory zoning vs. conflicts of interest/Catalyst control).
-      KEY ENTITIES: Steve Carney, Jonathan Armstrong, Matt McKenzie, Jeb Ball, Catalyst, Tucker Dorsey, Baldwin County, Fairhope, Clarice Hall Black, Jack Burrell, Baldwin Substance Abuse Services Inc. (BSAS).
-    llm_text: Fairhope allegedly used property annexation to avoid the African American community. See how Jack Burrell and his firm pushed a $2.6 million farmland deal, revealing systemic local governance issues in Baldwin County.
-    widget_date: "2021-10-16"
-    generated_at: "2026-11-06T23:49:28.810738Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  i-quit:
-    brief: |-
-      THE CONFLICT: Robert Brown quit the Fairhope City Council (2016/2020 cycle) after serving five months, triggering an allegedly fixed appointment process.
-      THE DISCOVERY: Article 2 revealed that the vacancy filling process for Robert Brown's seat was manipulated by Catalyst/Scott Boone Consulting (CSB), not by democratic council process.
-      THE PIVOT: Article 2 establishes Catalyst/CSB's historical pattern of controlling local appointments and politics (Fairhope), providing context for Catalyst's current "strangle hold" on Baldwin County politics and Steve Carney's candidacy.
-      KEY ENTITIES: Catalyst, Scott Boone Consulting (CSB), Robert Brown, Jack Burrell, Jay Robinson, Steve Carney, Tucker Dorsey, Jeb Ball, Jonathan Armstrong, Matt McKenzie, Baldwin Substance Abuse Services Inc. (BSAS).
-    llm_text: Robert Brown served only five months on the Fairhope City Council before quitting, exposing how Catalyst/Scott Boone Consulting fixed his appointment. Discover how Catalyst maintains a stranglehold on Baldwin County politics, influencing key candidates like Steve Carney.
-    widget_date: "2021-02-26"
-    generated_at: "2026-11-06T23:54:08.006248Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  shadow-government-southern-style:
-    brief: |-
-      THE CONFLICT:
-      *   Don Siegelman and HealthSouth CEO Richard Scrushy were involved in a political prosecution (2018).
-      *   The prosecution was allegedly a ploy by Rob Riley, Doug Jones, and Campbell's firm to gain control over Scrushy's financial clout, not solely to limit Siegelman's political power.
-
-      THE DISCOVERY:
-      *   Thomas T. Gallion III's book, *Shadow Government, Southern Style* (2020), vindicates long-standing allegations of systemic political corruption in Baldwin County.
-      *   This corruption is characterized by a focus on money rather than politics, involving Attorneys, Judges, Mayors, and Council members.
-
-      THE PIVOT:
-      *   Article 2 establishes the historical, systemic pattern of money-driven political control (e.g., Scrushy case) in Deep South Alabama.
-      *   This context validates the specific local claims in Article 1 regarding Catalyst's control, the conflicts of interest within BSAS (founded 2007), and the financial incentives (double checks) tied to local office in Baldwin County.
-
-      KEY ENTITIES:
-      *   Steve Carney
-      *   Jonathan Armstrong
-      *   Jeb Ball
-      *   Matt McKenzie
-      *   Catalyst
-      *   Tucker Dorsey
-      *   Thomas T. Gallion III
-      *   Don Siegelman
-      *   Richard Scrushy
-      *   Rob Riley
-      *   Doug Jones
-      *   Baldwin County
-      *   Baldwin Substance Abuse Services Inc. (BSAS)
-      *   2007 (BSAS founding)
-      *   2020 (*Shadow Government* publication)
-    llm_text: Rob Riley allegedly used the Don Siegelman/Richard Scrushy prosecution to gain financial control, not just political leverage. Thomas T. Gallion III's book confirms this systemic, money-driven corruption defines Baldwin County, validating local claims about Catalyst and BSAS.
-    widget_date: "2020-09-11"
-    generated_at: "2026-11-06T23:55:20.542501Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  exposing-tucker-dorsey:
-    brief: |-
-      THE CONFLICT: Lee "Slippery Trip" Pittman and Mayor Kant stole a $639,000 boom grant from the City of Fairhope.
-      THE DISCOVERY: Jasper Tucker Dorsey is connected to the "Sicko Six" (Pittman, Hoss Mack, Bob James, Chris Elliot, Charles Gruber, and Dorsey) and has supported Pittman's efforts to limit Sheriff qualifications and double county commissioner pay.
-      THE PIVOT: Dorsey's historical role in the established corrupt network (Sicko Six) and his influence on county politics (A2) is the mechanism through which the shadow political group Catalyst backs Steve Carney in the current District two commission race (A1).
-      KEY ENTITIES: Jasper Tucker Dorsey, Steve Carney, Tucker Dorsey, Catalyst, Lynn Stacey, Lee "Slippery Trip" Pittman, Mayor Kant, Jeb Ball, Johnathan Armstrong, Baldwin Substance Abuse Services Inc. (BSAS), Matt McKenzie
-    llm_text: Jasper Tucker Dorsey, a "Sicko Six" member linked to the $639,000 stolen grant, dictates county politics. Discover how his influence drives Catalyst's support for Steve Carney in the District Two race.
-    widget_date: "2014-05-31"
-    generated_at: "2026-11-06T23:56:28.710844Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

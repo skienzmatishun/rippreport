@@ -5,17 +5,8 @@ metadata:
   main_date: "2024-07-08"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  hanky-panky-at-the-po-po:
-    brief: |-
-      THE CONFLICT: In 2004, Murray Lawrence Jr. was involved in a wrongful conviction case which Captain Mack utilized to gain promotion to Sheriff.
-      THE DISCOVERY: June 20, 2024, Article 2 revealed an ongoing Federal Investigation concerning the handling of evidence by Baldwin County Sheriff's Deputies working under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
-      THE PIVOT: Article 2 confirms the existence of a Federal investigation into BCSO conduct (OCDEFT evidence) which supports the claims in Article 1 that the Federal investigation is a primary reason for Sheriff Hoss Mack’s retirement.
-      KEY ENTITIES: Sheriff Hoss Mack, Anthony Lowery, Murray Lawrence Jr., Captain Andre Reid, BCSO, OCDEFT, Baldwin County.
-    llm_text: Hoss Mack leveraged Murray Lawrence Jr.'s 2004 wrongful conviction to become Sheriff. Now, a Federal investigation into BCSO/OCDEFT evidence handling confirms why Mack retired.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T16:53:00.635408Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   wrongful-conviction-fairhope-baldwin-county:
+    refined_source: 0190aa1416fed50a7d9f929aaf83389e3510231cb6d911f1b881504fc4a05b7d
     brief: |-
       THE CONFLICT:
       - In 2004, Murray Lawrence Jr. was wrongfully convicted in Fairhope, Baldwin County.
@@ -39,10 +30,12 @@ hooks:
       - Baldwin County Sheriff's Office (BCSO)
       - Baldwin County Commission
     llm_text: The 2004 wrongful conviction of Murray Lawrence Jr. serves as the smoking gun for Baldwin County’s systemic corruption. This injustice directly propelled Hoss Mack to the Sheriff’s office and secured Anthony Lowery’s lucrative tenure and salary within the BCSO.
+    text: The 2004 wrongful conviction of Murray Lawrence Jr. exposes deep corruption in Baldwin County. This injustice propelled Hoss Mack to the Sheriff's office and secured Anthony Lowery's high salary.
     widget_date: "2024-06-17"
     generated_at: "2026-11-06T16:52:57.613979Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   po-po-hoss-mack-ccuo:
+    refined_source: eb5f9fc5789b75cd61ca2f8874dbccfff99b2c0ff39e80e6958381f84ccc653c
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted.
@@ -54,7 +47,7 @@ hooks:
 
       THE DISCOVERY:
       *   The second autopsy report indicated Mack, Wilters, and Whetstone should have known about its existence before Lawrence’s trial.
-      *   Mack, Wilters, and Whetstone allegedly hid evidence that proved Lawrence was innocent.
+      *   Mack, Wilters, and Whetstone hid evidence that proved Lawrence was innocent.
       *   Anthony Lowery was also an investigator in the case, securing a "cushy Friday paycheck and tenure in BCSO" through association with Mack.
 
       THE PIVOT:
@@ -73,42 +66,63 @@ hooks:
       *   Alabama Department of Forensic Sciences
       *   Baldwin County Commission
     llm_text: Hoss Mack's rise to BCSO Sheriff followed Murray Lawrence Jr.'s wrongful 2004 conviction. New autopsy reports prove Mack, Wilters, and Whetstone hid evidence, linking his leadership directly to historical corruption.
+    text: Hoss Mack became Sheriff after Murray Lawrence Jr. suffered a wrongful conviction in 2004. New autopsy reports prove Mack, Robert Wilters, and David Whetstone hid crucial evidence.
     widget_date: "2024-06-15"
     generated_at: "2026-11-06T16:55:18.275511Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hanky-panky-by-the-po-po:
+    refined_source: e8ff0126bb41f93e5d9eb7ebea3160220ed8fe29057d998d5736a8a2c27e448c
     brief: |-
       THE CONFLICT: Murray Lawrence Jr. wrongful conviction case; Hoss Mack was the lead investigator; Robert Wilters (DA) was the presiding judge/presiding over a "kangaroo court."
       THE DISCOVERY: Article 2 revealed BCSO lacked transparency and accountability, highlighted an internal cover-up involving a senior officer (Hoss Mack) having an extracurricular activity with a subordinate married to a fellow officer; Article 2 also noted Mack's role in the wrongful conviction produced zero evidence.
       THE PIVOT: Article 2 provides historical context showing Hoss Mack's history of lack of transparency, internal misconduct, and involvement in the wrongful conviction (which led to his promotion), justifying the internal and external investigations leading to his potential retirement detailed in Article 1; Article 1 further shows Anthony Lowery supported Mack in this 2004 wrongful conviction.
       KEY ENTITIES: Hoss Mack (Sheriff), Murray Lawrence Jr., Anthony Lowery, Robert Wilters (DA), BCSO (Baldwin County Sheriff's Department), Johnathan Victor, Andre.
     llm_text: Hoss Mack's investigation led to Murray Lawrence Jr.'s wrongful conviction, overseen by DA Robert Wilters. The BCSO lacked transparency, hiding Mack's misconduct and internal cover-ups that fueled the injustice.
+    text: District Attorney Robert Wilters oversaw the investigation that led to Murray Lawrence Jr.'s wrongful conviction. The Sheriff's Office hid internal misconduct and covered up the injustice.
     widget_date: "2024-05-31"
     generated_at: "2026-11-06T16:56:02.640079Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lee-county-no-justice-center:
+    refined_source: 168e6d655ed344ea25b886a22b67013b6988af85feb0b239b61da1e3f47382b7
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in 2004, which earned Hoss Mack the promotion to Sheriff and involved Anthony Lowery.
       THE DISCOVERY: In 2021, the Lee County Justice Center was documented as facilitating wrongful convictions, exemplified by Cole Barkley, who was sentenced to 45 years for attempted murder following police misconduct by Auburn PD.
       THE PIVOT: Article 2 provides contemporary evidence of the systemic "Police Fraternity" and lack of accountability (e.g., Barkley's case, Justice Center environment) that fueled the internal crises and calls for reform within BCSO, contributing to Hoss Mack's retirement.
       KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr., Lee County, BCSO, Judge Tickle, Cole Barkley, Auburn PD.
-    llm_text: Hoss Mack's 2004 wrongful conviction involving Murray Lawrence Jr. exposed deep issues in Lee County. Discover how Cole Barkley’s case and the Justice Center’s failures reveal the "Police Fraternity" fueling BCSO crises and calls for reform.
+    llm_text: Hoss Mack's 2004 wrongful conviction involving Murray Lawrence Jr. exposed deep issues in Lee County. Read how Cole Barkley’s case and the Justice Center’s failures reveal the "Police Fraternity" fueling BCSO crises and calls for reform.
+    text: Hoss Mack secured a wrongful conviction against Murray Lawrence Jr. in 2004. The case exposes a police fraternity inside the Sheriff's Office that triggers ongoing calls for reform.
     widget_date: "2024-03-11"
     generated_at: "2026-11-06T16:54:10.974225Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   no-justice:
+    refined_source: 1969eaa6d6992b83094ada3f4377764e672455dc39b7b8108db522d3f818df79
     brief: "THE CONFLICT: \n- 2003: Murder of Brandon Hastings.\n- 2004: Murray “Bubba” Lawrence Jr. was sentenced to life without parole for the murder based on a gunshot theory.\n- During the trial, lead investigator Lt. Hoss Mack, prosecutor David Whetstone, and presiding Judge Robert Wilters suppressed a coroner's report (a second autopsy) that identified the cause of death as suffocation, not a gunshot.\n- The conviction of Lawrence facilitated Hoss Mack's promotion to Sheriff and secured tenure for Anthony Lowery within the BCSO.\n\nTHE DISCOVERY: \n- Criminal rights advocates unearthed the suppressed second autopsy report.\n- The report proves the state's theory of the crime was factually incorrect.\n- The report confirms the withholding of evidence was a willful, deliberate act by high-ranking Baldwin County officials rather than an inadvertent error.\n- Current Assistant DA Haygood Kristi Deason is filing the state's response to the Rule 32 petition, appearing to protect the original actors (Wilters, Mack, and Whetstone).\n\nTHE PIVOT: \n- Article 2 provides the evidentiary basis for the \"Good ole Boy\" culture and corruption allegations cited in Article 1.\n- It identifies the specific instance of misconduct that allowed Hoss Mack to ascend to the Sheriff position.\n- It establishes Anthony Lowery as a tainted successor due to his complicity in the 2004 wrongful conviction case.\n\nKEY ENTITIES: \n- Hoss Mack (Sheriff/Former Lt.)\n- Murray “Bubba” Lawrence Jr. (Wrongfully convicted)\n- Brandon Hastings (Victim)\n- Robert Wilters (District Attorney/Former Judge)\n- David Whetstone (Prosecutor)\n- Anthony Lowery (BCSO employee/Potential successor)\n- Haygood Kristi Deason (Assistant District Attorney)\n- Jarius McNeil (Witness/Co-conspirator)"
     llm_text: Hoss Mack secured his path to Sheriff by suppressing a coroner's report that proved Murray “Bubba” Lawrence Jr. didn't kill Brandon Hastings. This investigation exposes how Judge Robert Wilters and prosecutor David Whetstone built the corrupt "Good ole Boy" culture that still protects itself today.
+    text: Hoss Mack hid a coroner's report that proved Murray Lawrence Jr. did not kill Brandon Hastings. Judge Robert Wilters and prosecutor David Whetstone built a corrupt good ole boy culture that protects itself.
     widget_date: "2024-01-26"
     generated_at: "2026-11-06T16:54:35.464446Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   rule-32:
+    refined_source: fbb729d71e894d4e86cb9a7407ae65ff737c7e27dc351b1e9efbd46622c12fe8
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence resulted in over 7500 days (20 years) in jail.
       THE DISCOVERY: Hoss Mack, District Attorney Robert Wilters, Judge, and David Whetstone knowingly and willfully suppressed evidence, which proved Lawrence's innocence. This was revealed via a Rule 32 petition filed on November 27, 2023.
       THE PIVOT: Article 2 proves Sheriff Hoss Mack's involvement in the willful suppression of evidence in the Lawrence wrongful conviction case. Article 1 establishes that Anthony Lowery was involved with "Captain Mack" in the 04 Wrongful Conviction of Murray Lawrence Jr., which led to Mack's promotion to Sheriff and assured Lowery tenure in BCSO.
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr, Anthony Lowery, Robert Wilters, David Whetstone, BCSO, Attorneys Maxwell/Tillman, Johnathan Victor, Andre, County Commission.
     llm_text: Hoss Mack, DA Robert Wilters, and Judge David Whetstone knowingly suppressed evidence leading to Murray Lawrence's 20-year wrongful conviction. See how Mack's involvement in the Lawrence case secured Anthony Lowery's tenure and his promotion to Sheriff.
+    text: Hoss Mack, Robert Wilters, and David Whetstone hid evidence that caused Murray Lawrence to serve 20 years for a crime he did not commit. Mack used his role in the case to secure promotions and power.
     widget_date: "2023-12-14"
     generated_at: "2026-11-06T16:56:54.381162Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-at-the-po-po:
+    refined_source: 308fc3b47a1f6eba28880103a3ad1571abcd6fa2f49f9c8431d43955c8beda43
+    brief: |-
+      THE CONFLICT: In 2004, Murray Lawrence Jr. was involved in a wrongful conviction case which Captain Mack utilized to gain promotion to Sheriff.
+      THE DISCOVERY: June 20, 2024, Article 2 revealed an ongoing Federal Investigation concerning the handling of evidence by Baldwin County Sheriff's Deputies working under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
+      THE PIVOT: Article 2 confirms the existence of a Federal investigation into BCSO conduct (OCDEFT evidence) which supports the claims in Article 1 that the Federal investigation is a primary reason for Sheriff Hoss Mack’s retirement.
+      KEY ENTITIES: Sheriff Hoss Mack, Anthony Lowery, Murray Lawrence Jr., Captain Andre Reid, BCSO, OCDEFT, Baldwin County.
+    llm_text: Hoss Mack leveraged Murray Lawrence Jr.'s 2004 wrongful conviction to become Sheriff. Now, a Federal investigation into BCSO/OCDEFT evidence handling confirms why Mack retired.
+    text: Hoss Mack used the 2004 wrongful conviction of Murray Lawrence Jr. to launch his career as Sheriff. A federal investigation into evidence handling at the Sheriff's Office explains why Mack retired.
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T16:53:00.635408Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

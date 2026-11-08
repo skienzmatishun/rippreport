@@ -1,0 +1,199 @@
+metadata:
+  generated_at: "2026-11-07T11:56:24.221997Z"
+  generator_version: 1.0.0
+  post_slug: the-big-lie
+  main_date: "2021-01-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  slap-in-the-face:
+    refined_source: 2b5aa0dbfb0ec3ffe87a04183307f3bec60c470d8885103b92b65bbe5cdec75b
+    brief: |-
+      THE CONFLICT:
+      Vietnam War deception: Lie that cost 55,000 American lives in 1968 (Tet Offensive, Battle of Khe Sanh).
+      Alabama corruption: Historical political and judicial malfeasance, including the murder of Alabama's newly elected Attorney General in the 1950s.
+
+      THE DISCOVERY:
+      Alabama (Baldwin County) is cited as number one in corruption due to a failing judicial system.
+      Specific examples of corruption include the case of "Slappin Mike" McMillian (Mayor of Spanish Fort) being found not guilty, and failure by Marcus McDowell (municipal attorney for Fairhope) to file charges in the McSherry case against Paula DiNiardi.
+
+      THE PIVOT:
+      Article 2 provides a concrete, local example of sustained governmental deception in Alabama (judicial/political corruption) which supports Article 1's broader claim that "Politicians, from both sides of the aisle have been lying to us for years," extending the theme of political deceit beyond the Vietnam War.
+
+      KEY ENTITIES:
+      "Slappin Mike" McMillian
+      Tripp Pittman
+      Chris Elliott
+      Marcus McDowell
+      Paula DiNiardi
+      Thomas Gallion III
+      Baldwin County
+      Fairhope
+      Spanish Fort
+    llm_text: Baldwin County ranks number one for corruption, proving politicians lie beyond the Vietnam War. Marcus McDowell and "Slappin Mike" McMillian show how Alabama's failing judicial system shields local deceit from accountability.
+    text: Marcus McDowell and Mike McMillian expose an Alabama judicial system that shields corrupt politicians. How do local courts protect insiders from public scrutiny?
+    widget_date: "2020-10-17"
+    generated_at: "2026-11-07T11:54:45.361930Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  missed-the-bullet:
+    refined_source: 77698af1e1518d62315f56690f9293cac283c4fb7902abc428aa8d538846dc0e
+    brief: |-
+      THE CONFLICT: Vietnam War (1968); Tet Offensive and Battle of Khe Sanh claimed lives; 55,000 Americans died; Martin Luther King and Robert Kennedy assassinated in 1968.
+      THE DISCOVERY: Baldwin County missed Hurricane Delta; Robin LeJeune was elected Mayor of Daphne by over 1000 votes, defeating the Catalyst/Scott Boone Consulting candidate.
+      THE PIVOT: Article 2 provides recent evidence of local governmental choice (Daphne choosing slower development and infrastructure focus) amid disaster (Hurricane Delta/pandemic), reinforcing Article 1’s central thesis that politicians and institutions perpetuate lies and systemic failures (Vietnam, election fraud).
+      KEY ENTITIES: Robin LeJeune, Daphne, Catalyst/Scott Boone Consulting, Vietnam, Marine Corp, El Toro California, Lake Charles, Baldwin County, Hurricane Delta
+    llm_text: Vietnam’s systemic failures cost 55,000 American lives. But Robin LeJeune won Mayor of Daphne by over 1000 votes, choosing slower development amid Hurricane Delta, proving local choice matters.
+    text: Robin LeJeune won the Daphne mayoral race by over 1,000 votes during Hurricane Delta. How did local voters demand slower development against the wishes of political insiders?
+    widget_date: "2020-10-09"
+    generated_at: "2026-11-07T11:53:28.963364Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  absolute-power:
+    refined_source: 10b8d6ee75da5adb171a56e9c2311c80743bbc7278f1dcd5d9aec3a3c196df65
+    brief: |-
+      THE CONFLICT: Power tends to corrupt, and absolute power corrupts absolutely (attributed to Sir John Dalberg-Acton, 1837-1869).
+      THE DISCOVERY: Local corruption and special interest control in Fairhope; low voter turnout (17% of registered voters); unresolved issues like the McSherry case and ignored lawsuits during the Wilson Administration (4 years) and Cant administration (10 years).
+      THE PIVOT: Article 2 demonstrates that institutional lying and corruption are a persistent, localized pattern in Baldwin County, mirroring the national government deception regarding the Vietnam War (55,000 American lives lost) cited in Article 1, establishing a theme of systemic deceit across scales.
+      KEY ENTITIES: Jack Burrell, Sherry Sullivan, Wilson, Cant, 3 B’s, Scott Boone Consulting, Fairhope, Baldwin County, City Attorney.
+    llm_text: Fairhope corruption isn't just local; it mirrors national deceit, like the Vietnam War lies. Low voter turnout and ignored cases (McSherry, Wilson/Cant) prove systemic lying plagues Baldwin County.
+    text: Low voter turnout and ignored cases like McSherry and Wilson expose deep systemic problems in Fairhope. Why do local leaders refuse to answer hard questions from the public?
+    widget_date: "2020-08-28"
+    generated_at: "2026-11-07T11:49:02.629097Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-missing-in-action:
+    refined_source: ada4ffe378883bc680622d2cf29ca7ea5cf15ca3648eebea1c7750d08427ab9e
+    brief: |-
+      THE CONFLICT:
+      *   1968: Tet Offensive and Battle of Khe Sanh occurred in Vietnam.
+      *   1968: Martin Luther King and Robert Kennedy were assassinated.
+      *   1968: Vietnam cost 55,000 Americans their lives (claimed to be a lie).
+      *   1968: Author was discharged from the Marine Corp (El Toro, California) after 13 months in Vietnam.
+      *   1968: Military Police escorted the author to Los Angeles Airport bound for Birmingham, Alabama, with direct orders not to discuss "current events."
+
+      THE DISCOVERY:
+      *   During the COVID-19 pandemic in Fairhope, local political actions (e.g., Arts and Crafts Show promotion) were criticized for prioritizing profit over public safety.
+      *   Sherry Sullivan, a mayoral candidate, was criticized for attending a football game without masking and promoting the Arts and Crafts Show despite Thomas doctors advising against it.
+      *   Mayor Wilson opposed the Arts and Crafts Show cancellation, prioritizing citizen safety.
+
+      THE PIVOT:
+      *   Article 1 establishes a historical pattern of government deception (Vietnam) regarding national crisis and loss of life.
+      *   Article 2 demonstrates a contemporary example of local political poor judgment and disregard for public health (COVID-19 pandemic) in the context of civic decision-making (Fairhope City Council forum).
+      *   Both articles argue that political figures (national and local) perpetuated lies or exhibited poor judgment that risked citizens' lives, linking the past deceit to present concerns (e.g., pandemic hoaxes/election claims).
+
+      KEY ENTITIES:
+      *   Vietnam
+      *   Martin Luther King
+      *   Robert Kennedy
+      *   Marine Corp
+      *   El Toro, California
+      *   Birmingham, Alabama
+      *   Fairhope
+      *   Spanish Fort
+      *   Common Sense Campaign
+      *   Sherry Sullivan
+      *   Mayor Wilson
+      *   Burrell
+      *   Boone
+      *   Thomas (doctors)
+      *   Baldwin Counties
+    llm_text: From Vietnam's 1968 deceptions to Fairhope's COVID-19 crisis, political figures repeatedly risked citizens' lives. Did Sherry Sullivan disregard Thomas doctors while Mayor Wilson championed public safety against national patterns set by Martin Luther King and Robert Kennedy?
+    text: Mayor Sherry Sullivan ignored local doctors during the COVID-19 crisis while pushing development projects. Did city leaders put public health at risk for financial gain?
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T11:55:57.560167Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  winner-and-loser:
+    refined_source: 6171aa361e604a4825a80a85d2695946bc636be077c046e5008599d648abcf5f
+    brief: |-
+      THE CONFLICT:
+      - Vietnam War: Cost 55,000 American lives.
+      - 1968: Assassination of Martin Luther King.
+      - 1968: Assassination of Robert Kennedy.
+      - 1968: Tet Offensive and battle of Khe Sanh.
+
+      THE DISCOVERY:
+      - Article 2 highlights the contrast between Nick Saban's principled leadership (supporting Black Lives Matter) and Tommy Tuberville’s divisive political actions (contributing to "inciting insurrection").
+
+      THE PIVOT:
+      - Article 2 provides a modern, specific example (Tuberville's actions) of the political division and toxicity that mirrors the systemic government lies and civil unrest described regarding Vietnam and the 1968 era in Article 1.
+
+      KEY ENTITIES:
+      - Vietnam
+      - 1968
+      - Martin Luther King
+      - Robert Kennedy
+      - Marine Corp
+      - El Toro California
+      - Nick Saban
+      - Alabama Football
+      - Tommy Tuberville
+    llm_text: The chaos of 1968, marked by the assassinations of Martin Luther King and Robert Kennedy, mirrors today's political division. See how Nick Saban's principled leadership contrasts sharply with Tommy Tuberville's divisive actions in Alabama Football.
+    text: Nick Saban and Tommy Tuberville represent very different approaches to public influence in Alabama. How does political division shape the state's cultural institutions?
+    widget_date: "2021-01-12"
+    generated_at: "2026-11-07T11:47:47.877718Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  quarterback-sneak:
+    refined_source: d586055612a5156a9959a88ced51f9b8b1300d5b77f81843e79198d20014463c
+    brief: |-
+      THE CONFLICT:
+      *   1968 saw the Tet Offensive and the battle of Khe Sanh in Vietnam, resulting in 55,000 American deaths.
+      *   1968 was the year of the assassinations of Martin Luther King and Robert Kennedy.
+      *   Vietnam Veterans reported being lied to by politicians regarding the war.
+      *   A veteran discharged from the Marine Corp at El Toro, California, in 1968 was escorted by military police to Los Angeles Airport, bound for Birmingham, Alabama, due to concerns about public reaction.
+
+      THE DISCOVERY:
+      *   In Fairhope, Baldwin County, Alabama, Jack Burrell is identified as a "sneaky and corrupt politician."
+      *   Burrell used a City Council meeting to swear in Municipal Judge Haymes Snedeker.
+      *   Burrell and two workers spent $2.65 million on recreation land; a town clock cost $600,000.
+      *   Judge Snedeker is a large land owner/developer in Fairhope, requiring City Council authorization for developments.
+      *   Ronan McSharry has not been prosecuted regarding the assault on Paula DiNardi, and Municipal Attorney Marcus McDowell is accused of failing and lying about his responsibilities.
+
+      THE PIVOT:
+      *   Both articles detail instances where government figures (national/local) have been deceitful or allowed "appearance of impropriety" (Vietnam deception vs. Snedeker's conflicted position and McSharry's lack of prosecution).
+      *   The historical pattern of government lying about major events (Vietnam) is mirrored in current local corruption (Fairhope City Government).
+      *   The historical theme of government deception is linked to the contemporary issue of unchecked local power and lack of accountability.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Haymes Snedeker (Municipal Judge)
+      *   Ronan McSharry
+      *   Marcus McDowell (Municipal Attorney)
+      *   Paula DiNardi
+      *   Cory Martin
+      *   Scott Boone Consulting
+      *   El Toro, California
+      *   Birmingham, Alabama
+      *   Fairhope, Baldwin County, Alabama
+      *   Marine Corp
+    llm_text: Vietnam veterans felt lied to by politicians during the 1968 Tet Offensive. Today, Fairhope City Council officials like Jack Burrell and Judge Haymes Snedeker show similar local corruption, raising serious questions about accountability.
+    text: Fairhope City Council officials Jack Burrell and Judge Haymes Snedeker face hard questions about local accountability. Why do taxpayers continue to fund secret municipal projects?
+    widget_date: "2021-01-11"
+    generated_at: "2026-11-07T11:50:36.223246Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dollars-and-lives:
+    refined_source: 5ebb67f147225724af76f19bfa85fc4085d6ef0ab40816eb7b624a5a99d04cba
+    brief: |-
+      THE CONFLICT:
+      *   1968 saw the Tet Offensive and Battle of Khe Sanh in Vietnam.
+      *   1968 was the year Martin Luther King and Robert Kennedy were assassinated.
+      *   The Vietnam War cost 55,000 American lives.
+
+      THE DISCOVERY:
+      *   The City of Fairhope's $6.2 million waterfront project originated with the Wilson administration.
+      *   Historical documentation (c. 1938, when Fairhope was Alabama City) shows early settlers used fill from the current road entrance to build the pier and park property.
+      *   Local bluffs are identified as cut-back banks from previous construction, not historic bluffs, according to Howing Rains.
+
+      THE PIVOT:
+      *   Both articles assert that politicians, from both sides of the aisle, lie to the American public (Vietnam war lies vs. Fairhope project narrative spins).
+
+      KEY ENTITIES:
+      *   Martin Luther King
+      *   Robert Kennedy
+      *   Marine Corp (El Toro, CA)
+      *   Fairhope
+      *   Mayor Sullivan
+      *   Jack Burrell
+      *   Howing Rains
+      *   Wilson administration
+    llm_text: Martin Luther King and Robert Kennedy faced political lies, but the deceit continues in Fairhope. Howing Rains proves the $6.2 million waterfront project uses cut-back banks, not historic bluffs from the Wilson administration.
+    text: City records show the $6.2 million waterfront project used cut-back banks instead of historic bluffs. Who authorized these damaging changes to the local landscape?
+    widget_date: "2020-12-05"
+    generated_at: "2026-11-07T11:52:03.207639Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

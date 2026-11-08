@@ -6,22 +6,26 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   oust-elliott:
+    refined_source: 1758fc22ef1aa78c1e8ee7b7f1afcfa99016264c6d5de099631907bbe07305e1
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. involving former sheriff Hoss Mack, judge Robert Wilters, and prosecutor David Whetstone.
       THE DISCOVERY: Article 2 revealed Chris Elliott's connection to "Catalyst" and "GOB" in Baldwin County, highlighting his gaming interests and prior knowledge of solar fields.
       THE PIVOT: Article 2 establishes a historical context of political entanglement and scrutiny within Baldwin County, setting a precedent for examining the conduct of local officials like Hoss Mack, Robert Wilters, and Anthony Lowery detailed in Article 1.
       KEY ENTITIES: Murray Lawrence Jr., Anthony Lowery, BCSO, Hoss Mack, Kristy Haygood, Robert Wilters, David Whetstone, Maxwell-Tillman, Gabby Humber, Chris Elliott, Mike Vandenheuvel, Catalyst, Baldwin County.
     llm_text: Murray Lawrence Jr.'s wrongful conviction implicates former sheriff Hoss Mack, judge Robert Wilters, and prosecutor David Whetstone. New details on Chris Elliott and "Catalyst" expose deep political entanglement within Baldwin County.
+    text: Murray Lawrence Jr. suffered a wrongful conviction involving former Sheriff Hoss Mack, judge Robert Wilters, and prosecutor David Whetstone. New details expose deep political ties.
     widget_date: "2026-04-13"
     generated_at: "2026-11-06T08:24:50.881051Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   some-things-never-change:
+    refined_source: 6620cba0d74ccd5718954572a5cc3a8b9ebcf4afeef436a6fceca62f6ea309b2
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. involved Hoss Mack (Former sheriff), Robert Wilters (Judge/D.A.), Anthony Lowery (Lead investigator/Sheriff candidate), and Kristy Haygood (Asst. D.A. candidate).
       THE DISCOVERY: Article 2 (March 3, 2022) revealed local political issues in Baldwin County, including the school separation lawsuit (Gulf Shores vs. Baldwin County Superintendent Eddie Tyler) and tax controversies (GAS TAX/PENNY TAX) involving State Senator Chris Elliott ("TAX MAN").
       THE PIVOT: Article 2 establishes the widespread political climate of corruption, distrust, and questionable conduct within Baldwin County, providing the broader context for the specific judicial and law enforcement misconduct detailed in the wrongful conviction case (Article 1).
       KEY ENTITIES: Murray Lawrence Jr, Anthony Lowery, Kristy Haygood, Hoss Mack, Robert Wilters, David Whetstone, Maxwell-Tillman, Gabby Humber, Chris Elliott, Eddie Tyler, Jack Burrell, Sherry Sullivan.
     llm_text: Murray Lawrence Jr.'s wrongful conviction implicates former Sheriff Hoss Mack and Judge Robert Wilters. This scandal reveals deeper Baldwin County corruption, connecting to issues involving Chris Elliott and Eddie Tyler.
+    text: Former Sheriff Hoss Mack and Judge Robert Wilters oversaw the wrongful conviction of Murray Lawrence Jr. This case exposes wider political corruption in Baldwin County.
     widget_date: "2026-04-11"
     generated_at: "2026-11-06T08:25:57.980496Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,91 +5,8 @@ metadata:
   main_date: "2025-10-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  bcso-no-clones:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongly convicted of Brandon Hastings' murder in 2005 and served over 20 years. The case involved Lead Investigator Huey 'Hoss' Mack coercing the real killer, Jarius McNeil, who changed his story after being threatened.
-      THE DISCOVERY: Article 2 reveals that Sheriff Anthony Lowery is viewed as a "clone" of former Captain Hoss Mack, sharing the same "horrible record," indicating a continuous, linked power dynamic within Baldwin County law enforcement.
-      THE PIVOT: Article 2 demonstrates that the institutional culture and problematic record established by Hoss Mack (the original investigator) were inherited by Anthony Lowery (the current Sheriff), proving the systemic persistence of the power structure cited in Article 1.
-      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Jarius McNeil, Robert Wilters (Presiding Judge 2005; DA since 2015), David Whetstone (DA 2005), Huey 'Hoss' Mack (Lead Investigator/Former Sheriff), Anthony Lowery (Current Sheriff, appointed by Governor Kay Ivey), BCSO, Matt Mckenzie.
-    llm_text: Murray Lawrence Jr. served over 20 years for Brandon Hastings' murder based on coerced testimony from Jarius McNeil. Current Sheriff Anthony Lowery mirrors former Lead Investigator Hoss Mack's problematic record, proving Baldwin County's systemic law enforcement issues persist.
-    widget_date: "2025-09-26"
-    generated_at: "2026-11-06T11:31:04.305540Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-law-enforcement-narrative-2:
-    brief: |-
-      THE CONFLICT:
-      *   Murray Lawrence Jr. was wrongfully convicted of the murder of Brandon Hastings in 2005.
-      *   He has served over 20 years in prison.
-      *   The original investigation involved coerced testimony from Jarius McNeil, who later changed his story.
-      *   The victim was strangled in Mississippi, not shot in Alabama, as initially claimed by the State.
-
-      THE DISCOVERY:
-      *   Article 2 reveals Sheriff Huey Mack and the Baldwin County Major Crimes Unit have a "long history" of cover-ups and disinformation, predating the 2005 case.
-      *   This history includes incidents like the death of Jonathan Victor, the Key Largo Villas eviction death, and the death of confidential informant Peyton Little.
-
-      THE PIVOT:
-      *   Article 2 establishes that the misconduct surrounding the 2005 wrongful conviction was not an isolated error but part of a systemic, long-standing pattern of cover-ups and institutional disinformation within the Baldwin County law enforcement structure (BCSO).
-
-      KEY ENTITIES:
-      *   Murray Lawrence Jr.
-      *   Brandon Hastings
-      *   Huey 'Hoss' Mack
-      *   Robert Wilters (Presiding Circuit Court Judge in 2005; Baldwin County District Attorney since ~2015)
-      *   Anthony Lowery (Chief Investigator in 2005; Current Baldwin County Sheriff)
-      *   David Whetstone (Baldwin County District Attorney in 2005)
-      *   Jarius McNeil
-      *   BCSO (Baldwin County Sheriff's Office)
-      *   Baldwin County
-    llm_text: Murray Lawrence Jr. spent over 20 years for Brandon Hastings' murder, but the 2005 conviction relied on coerced testimony. Our report reveals Sheriff Huey Mack and BCSO maintain a long history of systemic cover-ups in Baldwin County, not just one wrongful conviction.
-    widget_date: "2025-09-10"
-    generated_at: "2026-11-06T11:32:48.589050Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  wrongful-conviction-fairhope-baldwin-county:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in Baldwin County, Alabama, around 2005. The conviction was based on the coerced testimony of Jarius McNeil, who later changed his story. The actual crime involved Brandon Hastings being strangled in Mississippi, not shot in Alabama, contradicting the State's claim.
-
-      THE DISCOVERY: Article 2 established the wrongful conviction of Murray Lawrence Jr. as a parallel case to *Just Mercy*, specifically pointing out that the Judge, Prosecutor, and Sheriff were involved in withholding evidence and inefficient police investigation.
-
-      THE PIVOT: Article 2 provides the initial, broad context of institutional failure (Judge/Prosecutor/Sheriff misconduct) in Baldwin County. Article 1 details how four specific power figures (Wilters, Lowery, Mack, Whetstone) perpetuated the injustice during the 2005 trial and maintained influence in high office today (e.g., Wilters as DA since 2015; Lowery as current Sheriff).
-
-      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Jarius McNeil, Robert Wilters (Circuit Court Judge 2005/DA since 2015), Anthony Lowery (Chief Investigator 2005/Current Baldwin County Sheriff), Huey 'Hoss' Mack (Lead Investigator 2005/Former BCSO Sheriff), David Whetstone (Baldwin County DA 2005), BCSO, Baldwin County, Governor Kay Ivey.
-    llm_text: Murray Lawrence Jr. was wrongfully convicted of capital murder in Baldwin County, AL, based on coerced testimony from Jarius McNeil. Discover how figures like DA Robert Wilters and Sheriff Anthony Lowery perpetuated this 2005 injustice and maintain power in high office today.
-    widget_date: "2024-06-17"
-    generated_at: "2026-11-06T11:33:43.049532Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  new-sheriff-no-changes:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr was wrongfully convicted in a capital murder trial in Baldwin County in 2005 for a murder he did not commit (victim: Brandon Hastings). The investigation was orchestrated by Huey 'Hoss' Mack (then BCSO Captain), and the prosecution was led by David Whetstone (then Baldwin County DA).
-      THE DISCOVERY: The BCSO, under Sheriff Hoss Mack, ignored two pending federal lawsuits involving the Major Crimes Unit and ignored the wrongful conviction of Murray Lawrence Jr, despite Governor Kay Ivey's appointment of Anthony Lowery.
-      THE PIVOT: Article 2 establishes that the pattern of misconduct (ignoring federal lawsuits, wrongful convictions, lack of accountability/transparency in BCSO investigations) was active under Sheriff Mack's leadership *before* Anthony Lowery took over, proving the system of suppressed evidence and institutional failure mentioned in Article 1 is historical, not merely a recent development.
-      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Hoss Mack, Anthony Lowery, Robert Wilters (Presiding Circuit Court Judge 2005/Baldwin County DA since 2015), David Whetstone (Baldwin County DA), BCSO (Baldwin County Sheriff’s Office), Governor Kay Ivey, Jarius McNeil, MCU (Major Crimes Unit).
-    llm_text: Murray Lawrence Jr was wrongfully convicted in 2005 for Brandon Hastings' murder, orchestrated by Hoss Mack and David Whetstone. New evidence proves this BCSO misconduct predates Anthony Lowery, showing institutional failure is historical, not merely a recent development.
-    widget_date: "2024-08-29"
-    generated_at: "2026-11-06T11:34:29.070083Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  justified:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in Baldwin County in 2005, resulting in over 20 years of imprisonment.
-      THE DISCOVERY: Article 2 revealed that Baldwin County Major Crimes Unit investigated itself (e.g., the killing of O.J. French and Johnathan Victor) and that Robert Wilters, Huey 'Hoss' Mack, and David Whetstone colluded to secure the wrongful conviction.
-      THE PIVOT: Article 2 establishes the systemic pattern of institutional corruption (self-investigation, Grand Jury manipulation by Wilters) and direct collusion among the key figures (Wilters, Mack, Whetstone, Lowery) that provided the mechanism for the suppressed evidence and prosecutorial misconduct detailed in Article 1.
-      KEY ENTITIES:
-      Murray Lawrence Jr.
-      David Whetstone
-      Robert Wilters
-      Anthony Lowery
-      Huey 'Hoss' Mack
-      BCSO
-      Baldwin County Major Crimes Unit
-      O.J. French
-      Johnathan Victor
-      Brandon Hastings
-      Al Tolbert
-      County Commission
-    llm_text: Robert Wilters, Huey 'Hoss' Mack, and David Whetstone colluded to secure Murray Lawrence Jr.'s wrongful 2005 capital murder conviction in Baldwin County. Discover how the BCSO Major Crimes Unit self-investigated its own corruption, shattering years of suppressed evidence.
-    widget_date: "2025-03-08"
-    generated_at: "2026-11-06T11:31:49.268034Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
+    refined_source: 6b2bb792ae76ba945df1f66df43bfd080c83569121410e9f5c546e3777716a7d
     brief: |-
       THE CONFLICT:
       - Murray Lawrence Jr. was wrongfully convicted of a murder in 2005, spending over 20 years in prison.
@@ -125,6 +42,101 @@ hooks:
       - Alabama Press Association
       - Governor Kay Ivey
     llm_text: How did Hoss Mack's institutional control allow Murray Lawrence Jr. to receive a wrongful 2005 conviction? Mack's election rigging and Lagniappe records denial show BCSO power hides deep injustice.
+    text: How did Hoss Mack's institutional control allow Murray Lawrence Jr. to receive a wrongful 2005 conviction? Mack's election rigging and records denials show BCSO power hides injustice.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T11:36:15.632846Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-no-clones:
+    refined_source: 1c2892f16386e877e65704fefca9fcbc65036c03415473665de15a28f150be61
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongly convicted of Brandon Hastings' murder in 2005 and served over 20 years. The case involved Lead Investigator Huey 'Hoss' Mack coercing the real killer, Jarius McNeil, who changed his story after being threatened.
+      THE DISCOVERY: Article 2 reveals that Sheriff Anthony Lowery is viewed as a "clone" of former Captain Hoss Mack, sharing the same "horrible record," indicating a continuous, linked power dynamic within Baldwin County law enforcement.
+      THE PIVOT: Article 2 demonstrates that the institutional culture and problematic record established by Hoss Mack (the original investigator) were inherited by Anthony Lowery (the current Sheriff), proving the systemic persistence of the power structure cited in Article 1.
+      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Jarius McNeil, Robert Wilters (Presiding Judge 2005; DA since 2015), David Whetstone (DA 2005), Huey 'Hoss' Mack (Lead Investigator/Former Sheriff), Anthony Lowery (Current Sheriff, appointed by Governor Kay Ivey), BCSO, Matt Mckenzie.
+    llm_text: Murray Lawrence Jr. served over 20 years for Brandon Hastings' murder based on coerced testimony from Jarius McNeil. Current Sheriff Anthony Lowery mirrors former Lead Investigator Hoss Mack's problematic record, proving Baldwin County's systemic law enforcement issues persist.
+    text: Murray Lawrence Jr. served over 20 years for Brandon Hastings' murder based on coerced testimony from Jarius McNeil. Sheriff Anthony Lowery mirrors Hoss Mack's flawed record.
+    widget_date: "2025-09-26"
+    generated_at: "2026-11-06T11:31:04.305540Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-law-enforcement-narrative-2:
+    refined_source: eb1df9f7d645bf274e023ea4430fffc3617c348b2c01f7431258dca1efde1e2a
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted of the murder of Brandon Hastings in 2005.
+      *   He has served over 20 years in prison.
+      *   The original investigation involved coerced testimony from Jarius McNeil, who later changed his story.
+      *   The victim was strangled in Mississippi, not shot in Alabama, as initially claimed by the State.
+
+      THE DISCOVERY:
+      *   Article 2 reveals Sheriff Huey Mack and the Baldwin County Major Crimes Unit have a "long history" of cover-ups and disinformation, predating the 2005 case.
+      *   This history includes incidents like the death of Jonathan Victor, the Key Largo Villas eviction death, and the death of confidential informant Peyton Little.
+
+      THE PIVOT:
+      *   Article 2 establishes that the misconduct surrounding the 2005 wrongful conviction was not an isolated error but part of a systemic, long-standing pattern of cover-ups and institutional disinformation within the Baldwin County law enforcement structure (BCSO).
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Brandon Hastings
+      *   Huey 'Hoss' Mack
+      *   Robert Wilters (Presiding Circuit Court Judge in 2005; Baldwin County District Attorney since ~2015)
+      *   Anthony Lowery (Chief Investigator in 2005; Current Baldwin County Sheriff)
+      *   David Whetstone (Baldwin County District Attorney in 2005)
+      *   Jarius McNeil
+      *   BCSO (Baldwin County Sheriff's Office)
+      *   Baldwin County
+    llm_text: Murray Lawrence Jr. spent over 20 years for Brandon Hastings' murder, but the 2005 conviction relied on coerced testimony. Our report reveals Sheriff Huey Mack and BCSO maintain a long history of systemic cover-ups in Baldwin County, not just one wrongful conviction.
+    text: Murray Lawrence Jr. spent over 20 years behind bars while Sheriff Huey Mack and the BCSO maintained a long history of systemic cover-ups in Baldwin County.
+    widget_date: "2025-09-10"
+    generated_at: "2026-11-06T11:32:48.589050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrongful-conviction-fairhope-baldwin-county:
+    refined_source: 50f61ce6b144f9288e570c3104861a8e1957fa5c35c8505aa25aedac7458170b
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in Baldwin County, Alabama, around 2005. The conviction was based on the coerced testimony of Jarius McNeil, who later changed his story. The actual crime involved Brandon Hastings being strangled in Mississippi, not shot in Alabama, contradicting the State's claim.
+
+      THE DISCOVERY: Article 2 established the wrongful conviction of Murray Lawrence Jr. as a parallel case to *Just Mercy*, specifically pointing out that the Judge, Prosecutor, and Sheriff were involved in withholding evidence and inefficient police investigation.
+
+      THE PIVOT: Article 2 provides the initial, broad context of institutional failure (Judge/Prosecutor/Sheriff misconduct) in Baldwin County. Article 1 details how four specific power figures (Wilters, Lowery, Mack, Whetstone) perpetuated the injustice during the 2005 trial and maintained influence in high office today (e.g., Wilters as DA since 2015; Lowery as current Sheriff).
+
+      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Jarius McNeil, Robert Wilters (Circuit Court Judge 2005/DA since 2015), Anthony Lowery (Chief Investigator 2005/Current Baldwin County Sheriff), Huey 'Hoss' Mack (Lead Investigator 2005/Former BCSO Sheriff), David Whetstone (Baldwin County DA 2005), BCSO, Baldwin County, Governor Kay Ivey.
+    llm_text: Murray Lawrence Jr. was wrongfully convicted of capital murder in Baldwin County, AL, based on coerced testimony from Jarius McNeil. Read how figures like DA Robert Wilters and Sheriff Anthony Lowery perpetuated this 2005 injustice and maintain power in high office today.
+    text: Murray Lawrence Jr. was wrongfully convicted in Baldwin County based on coerced testimony from Jarius McNeil. DA Robert Wilters and Sheriff Anthony Lowery perpetuated this injustice.
+    widget_date: "2024-06-17"
+    generated_at: "2026-11-06T11:33:43.049532Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-sheriff-no-changes:
+    refined_source: d10a551005f19d9f6789fd7650cea13b120f8c77452e031b38f56eda3a0531ae
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr was wrongfully convicted in a capital murder trial in Baldwin County in 2005 for a murder he did not commit (victim: Brandon Hastings). The investigation was orchestrated by Huey 'Hoss' Mack (then BCSO Captain), and the prosecution was led by David Whetstone (then Baldwin County DA).
+      THE DISCOVERY: The BCSO, under Sheriff Hoss Mack, ignored two pending federal lawsuits involving the Major Crimes Unit and ignored the wrongful conviction of Murray Lawrence Jr, despite Governor Kay Ivey's appointment of Anthony Lowery.
+      THE PIVOT: Article 2 establishes that the pattern of misconduct (ignoring federal lawsuits, wrongful convictions, lack of accountability/transparency in BCSO investigations) was active under Sheriff Mack's leadership *before* Anthony Lowery took over, proving the system of suppressed evidence and institutional failure mentioned in Article 1 is historical, not merely a recent development.
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Hoss Mack, Anthony Lowery, Robert Wilters (Presiding Circuit Court Judge 2005/Baldwin County DA since 2015), David Whetstone (Baldwin County DA), BCSO (Baldwin County Sheriff’s Office), Governor Kay Ivey, Jarius McNeil, MCU (Major Crimes Unit).
+    llm_text: Murray Lawrence Jr was wrongfully convicted in 2005 for Brandon Hastings' murder, orchestrated by Hoss Mack and David Whetstone. New evidence proves this BCSO misconduct predates Anthony Lowery, showing institutional failure is historical, not merely a recent development.
+    text: Murray Lawrence Jr. was wrongfully convicted in 2005 for Brandon Hastings' murder through Hoss Mack and David Whetstone. New evidence proves this BCSO misconduct is historical.
+    widget_date: "2024-08-29"
+    generated_at: "2026-11-06T11:34:29.070083Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justified:
+    refined_source: f21ccd1203b02da48e04d75568912b8f0fa43abdb34bdb3c2f5342f66d2b9b0e
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in Baldwin County in 2005, resulting in over 20 years of imprisonment.
+      THE DISCOVERY: Article 2 revealed that Baldwin County Major Crimes Unit investigated itself (e.g., the killing of O.J. French and Johnathan Victor) and that Robert Wilters, Huey 'Hoss' Mack, and David Whetstone colluded to secure the wrongful conviction.
+      THE PIVOT: Article 2 establishes the systemic pattern of institutional corruption (self-investigation, Grand Jury manipulation by Wilters) and direct collusion among the key figures (Wilters, Mack, Whetstone, Lowery) that provided the mechanism for the suppressed evidence and prosecutorial misconduct detailed in Article 1.
+      KEY ENTITIES:
+      Murray Lawrence Jr.
+      David Whetstone
+      Robert Wilters
+      Anthony Lowery
+      Huey 'Hoss' Mack
+      BCSO
+      Baldwin County Major Crimes Unit
+      O.J. French
+      Johnathan Victor
+      Brandon Hastings
+      Al Tolbert
+      County Commission
+    llm_text: Robert Wilters, Huey 'Hoss' Mack, and David Whetstone colluded to secure Murray Lawrence Jr.'s wrongful 2005 capital murder conviction in Baldwin County. Read how the BCSO Major Crimes Unit self-investigated its own corruption, shattering years of suppressed evidence.
+    text: Robert Wilters, Hoss Mack, and David Whetstone colluded to secure Murray Lawrence Jr.'s wrongful 2005 conviction. The BCSO Major Crimes Unit investigated its own corruption.
+    widget_date: "2025-03-08"
+    generated_at: "2026-11-06T11:31:49.268034Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

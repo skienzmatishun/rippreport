@@ -1,0 +1,167 @@
+metadata:
+  generated_at: "2026-11-07T18:54:49.064555Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-train-wreck
+  main_date: "2020-05-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pissed-on-or-pissed-off:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council meeting; main article frames it as a “Freaky Friday” segment.
+      - City Attorney is appointed by City Council; Municipal Judge is appointed by City Council.
+      - McSharry case: City Attorney failed, numerous times, in error or purpose, to defend victim; City Attorney should be fired; city will be lucky if not sued for way case handled.
+      - McSharry case described as “corruption staring you in the face”; question raised: what if this was your daughter, sister, mother, or friend that was assaulted?
+      - After bully council lectured about treatment of women, Councilman Boone, aka llc. Boone, yelled at Mayor and demanded Councilman Burrell immediately adjourn meeting; Burrell adjourned; Burrell cut off Mayor’s comments after Mayor pledged she would be given opportunity to speak.
+
+      THE DISCOVERY:
+      - Article 2, “PISSED ON OR PISSED OFF,” is older and should be framed as background/historical context.
+      - Article 2 states current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope.
+      - Article 2 states council cost Fairhope millions of dollars and made mistakes with Burrell at the helm.
+      - Curfew: 10pm to 5am adopted across state, including Mobile.
+      - Council raised flag of civil liberties while same council wound up in Federal Court for refusing to let a USMC combat veteran speak at council meeting; council lost.
+      - Council paid Council President Burrell’s attorney fees every time they needed to extract his foot from his mouth.
+      - Burrell used Airport Authority and taxpayer money to hire lawyers to investigate whistleblower; never supplied any report.
+      - Burrell used Airport Authority and tax dollars to derail allegations of his involvement in bid-rigging while serving on Airport Board.
+      - Burrell had police record with two sealed juvenile charges that he never exposed prior to last election.
+      - Councilman Brown enjoyed lucrative contracts acquired by using elected position for personal gain.
+      - Brown had pending complaint on desk of Alabama Attorney General.
+      - Council Boone had more LLCs than a red head has freckles.
+      - Scott Boone is Kevin Boone’s son who runs CATALYST; family connection fueled CATALYST attempt to political control Fairhope and Baldwin County.
+      - Three B’s spent 2.65 million for recreation land that “only they” wanted, then leased it for 9 thousand a year for farmland.
+      - City’s first analysis of budget cuts due to coronavirus was 2.65 million.
+      - Council voted themselves a raise and FULL FAMILY insurance that none of city employees enjoy.
+      - Council politicized coronavirus to distract.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 showed/claimed council corruption, Burrell misconduct, Brown contracts, Boone LLCs, CATALYST ties, federal court, curfew, McSharry case context.
+      - Article 2 is the “smoking gun” or key context for Article 1 because it predates/frames the main article’s council meeting and McSharry conflict.
+      - Main article references past posts related to McSharry case and CATALYST and mentions Backstory Podcast; Article 2 aligns as older backstory/context.
+      - Article 2’s background helps explain Article 1’s conflict around City Attorney, Municipal Judge, City Council, McSharry, and CATALYST.
+
+      KEY ENTITIES:
+      - Fairhope City Council
+      - City of Faux Hope
+      - Baldwin County
+      - Mayor
+      - Councilman Burrell
+      - Councilman Boone, aka llc. Boone
+      - Councilman Brown
+      - Councilman Conyers
+      - Mayor and Councilman Conyers
+      - City Attorney
+      - Municipal Judge
+      - Ronan McSharry
+      - McSharry case
+      - CATALYST
+      - Backstory Podcast
+      - The Ripp Report
+      - Kevin Boone
+      - Scott Boone
+      - Airport Authority / Airport Board
+      - Alabama Attorney General
+      - USMC combat veteran
+      - Mobile, Alabama
+      - Alabama
+      - Fairhope, Alabama
+      - Baldwin County
+      - Council President Burrell
+    llm_text: Fairhope’s City Council picked its own City Attorney and Municipal Judge, and the McSharry case exposed how badly that failed. The City Attorney needs to go now, and the council may owe millions in big local legal trouble.
+    text: Fairhope’s City Council picked its own City Attorney and Municipal Judge, and the McSharry case exposed how badly that failed. The City Attorney needs to go now, and the council may owe millions in big local legal trouble.
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T18:52:10.926795Z"
+    model_name: recursive/flint-v1.0:free
+  shelter-in-place:
+    brief: "THE CONFLICT: Fairhope City Council meeting where Councilman Boone (aka llc. Boone) yelled at the Mayor and demanded Councilman Burrell immediately adjourn the meeting. Burrell cut off the Mayor's comments after pledging she could speak. The City Attorney failed multiple times to defend a female assault victim in the Ronan McSharry case. \n\nTHE DISCOVERY: Historical context (Article 2) shows Fairhope's local government struggling during the early COVID-19 pandemic. Fairhope's Mayor wrote the Governor demanding a statewide \"Shelter in Place\" order while other Baldwin County municipalities remained mute, highlighting early administrative fractures and decentralized handling across the county's 14 municipalities.\n\nTHE PIVOT: Article 2 establishes a historical pattern of systemic dysfunction, lack of unified planning, and questionable leadership by local officials (such as the Mayor and municipal handling) in Fairhope. This background provides the baseline context for Article 1, proving that current corruption, misogyny, and the defense of figures like Ronan McSharry by appointed officials (City Attorney and Municipal Judge) are extensions of long-standing governance failures.\n\nKEY ENTITIES:\n- Ronan McSharry (and the McSharry case)\n- Councilman Boone (llc. Boone)\n- Councilman Burrell\n- Fairhope City Attorney\n- Fairhope Municipal Judge\n- Governor of Alabama\n- The Ripp Report"
+    llm_text: When Councilman Boone yells at the Mayor and the City Attorney abandons an assault victim in the Ronan McSharry case, it looks like isolated madness. But The Ripp Report proves this modern misogyny stems from deep-rooted, long-standing systemic dysfunction.
+    text: When Councilman Boone yells at the Mayor and the City Attorney abandons an assault victim in the Ronan McSharry case, it looks like isolated madness. But The Ripp Report proves this modern misogyny stems from deep-rooted, long-standing systemic dysfunction.
+    widget_date: "2020-04-03"
+    generated_at: "2026-11-07T18:51:21.015494Z"
+    model_name: gemini-3.5-flash-lite
+  economic-virus:
+    refined_source: 2e23ec73061196c7f7cb4c9228897c7f7d60a146028ebbee8ffb6c9f4bb27c11
+    brief: |-
+      THE CONFLICT: No specific conflict involving Ronan McSharry or the Fairhope City Council is detailed in the older article (Widget Article). The older article discusses the economic impact of COVID-19 in Alabama, noting Alabama is dead last in response time.
+      THE DISCOVERY: The Widget Article revealed the economic challenges of the COVID-19 pandemic in 2020 (e.g., tourism halt, airline needs in the tens of Billions of dollars, 2020 profits evaporated).
+      THE PIVOT: The Widget Article provides a historical context (COVID-19 pandemic/economic crisis) for the environment in which the allegations of corruption and mishandling of the McSharry case (Article 1) are occurring, though a direct causal link is not established by the facts provided.
+      KEY ENTITIES: Ronan McSharry, Fairhope City Council, City Attorney, Municipal Judge, Councilman Boone, Councilman Burrell, Mayor, CATALYST
+    llm_text: Alabama's dead-last COVID response set the stage for today's issues. See how the economic crisis shaped the environment around Ronan McSharry and the Fairhope City Council.
+    text: Alabama's slow COVID response set the stage for current local issues. The economic crisis shaped the environment around Ronan McSharry and the Fairhope City Council.
+    widget_date: "2020-03-21"
+    generated_at: "2026-11-07T18:51:28.539578Z"
+    model_name: plugsky-lite
+  catalyst-associates-exposed:
+    brief: |-
+      THE CONFLICT:
+      - On April 27, 2012, Fairhope Councilman Kevin Boone announced his candidacy platform emphasizing ethics, transparency, accountability, and putting citizens first.
+      - In 2012, Chris Elliott and Dane Haygood (Mayor of Daphne), along with Lynn Stacey, formed the political consulting firm Elliott, Haygood & Stacy, collecting campaign funds from candidates including Tim Kant ($22,500), Hoss Mack ($12,000), and Kevin Boone ($7,000).
+      - On August 11, 2014, Scott Boone (son of Kevin Boone) and Lynn Stacey (son of the older Stacey) formed Catalyst Associates, LLC, with the stated purpose of "Any Legal Activity," following Chris Elliott's transition to County Commissioner.
+      - On August 14, 2014 (just three days after formation), Judge Michelle Thomason paid Catalyst Associates $2,500 for consulting and polling as one of their first clients.
+      - Historically, Kevin Boone acted against constituent interests by supporting Mayor Tim Kant's Publix/Rock Creek fire station dead-end connection, backing First Baptist Church expansion projects that altered neighborhoods without public input, dismantling the Knoll Park committee, voting for a $12.2 million Triangle Lawsuit land settlement with no development plan, eliminating the finance committee, and awarding lucrative municipal/BP boom contracts to political allies like Senator Pittman.
+
+      THE DISCOVERY:
+      - Article 2 exposes the historical formation and financial mechanics of Catalyst Associates, LLC (formed August 11, 2014, by Scott Boone and Lynn Stacey) and its political consulting/lobbying roots tied to Chris Elliott, Dane Haygood, and Lynn Stacey.
+      - It documents specific early financial transactions, including Judge Michelle Thomason hiring Catalyst as a client three days after its creation ($2,500 on August 14, 2014) and candidates like Kevin Boone receiving financial backing from these political consultancy networks.
+      - It established a pattern of political nepotism, conflicts of interest, and hidden municipal contractor arrangements designed to deceive voters under the guise of transparency.
+
+      THE PIVOT:
+      - Article 2 serves as the smoking gun for Article 1 because it traces the exact lineage, origins, and operational playbook of "CATALYST" referenced in the main article. While Article 1 attacks current Councilman Kevin Boone, the corrupt handling of the Ronan McSharry assault case, and the City Attorney/Municipal Judge appointments tied to Catalyst, Article 2 proves this systemic network of political self-dealing, nepotism, and shadow contracting was deliberately built back in 2014 by the exact same families and political operatives (Scott Boone, Kevin Boone, Lynn Stacey, Chris Elliott) currently running Fairhope into the ground.
+
+      KEY ENTITIES:
+      - Kevin Boone (Fairhope Councilman)
+      - Scott Boone (Campaign manager / Co-founder of Catalyst Associates, LLC)
+      - Chris Elliott (County Commissioner / Political consultant)
+      - Dane Haygood (Mayor of Daphne)
+      - Lynn Stacey / "Mr. Fix it" Stacey (Political consultant / Co-founder of Catalyst Associates, LLC)
+      - Judge Michelle Thomason
+      - Tim Kant (Mayor of Fairhope)
+      - Hoss Mack
+      - Senator Pittman
+      - Ronan McSharry
+      - Paul Ripp
+      - Jeanne Carney
+    llm_text: Back in 2014, political operatives Chris Elliott and Lynn Stacey launched Catalyst Associates, LLC to secure lucrative municipal contracts and hide deep conflicts of interest. Read Article 2 to uncover how Councilman Kevin Boone and his son engineered this corrupt network to deceive Fairhope voters.
+    text: Back in 2014, political operatives Chris Elliott and Lynn Stacey launched Catalyst Associates, LLC to secure lucrative municipal contracts and hide deep conflicts of interest. Read Article 2 to uncover how Councilman Kevin Boone and his son engineered this corrupt network to deceive Fairhope voters.
+    widget_date: "2014-10-03"
+    generated_at: "2026-11-07T18:51:29.243890Z"
+    model_name: gemini-3.5-flash-lite
+  dark-wednesday:
+    refined_source: 5baf352f853fa1394dba2c07c6233feb85a2aa409b8328129d74b391c2db82c8
+    brief: |-
+      THE CONFLICT: Alleged corruption in the McSharry case involving Ronan McSharry; City Attorney failed to defend victim; City Council appointed the City Attorney and Municipal Judge.
+      THE DISCOVERY: Article 2 showed cumulative Covid-19 cases, deaths, and tests in Alabama (specifically noting Alabama's cases were up by 50%).
+      THE PIVOT: Article 2 is not the 'smoking gun' for Article 1; the articles discuss unrelated topics (public health vs. local political corruption).
+      KEY ENTITIES: Ronan McSharry, Fairhope, City Council, City Attorney, Municipal Judge, Councilman Boone, Mayor, Councilman Burrell, Baldwin County.
+    llm_text: Ronan McSharry faces serious corruption allegations in Fairhope. The City Council appointed both the City Attorney and Municipal Judge, raising questions about whether the City Attorney truly defended his victim.
+    text: Ronan McSharry faces serious corruption allegations in Fairhope. The City Council appointed both the City Attorney and Municipal Judge, raising questions about justice.
+    widget_date: "2020-05-27"
+    generated_at: "2026-11-07T18:51:56.575217Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-liar:
+    refined_source: d1019da25dfa06426cd8e35b5df153cae3d4930f5dae9f2749019021d1ed065c
+    brief: "THE CONFLICT: \n- Jack Burrell served as Fairhope Council President for 4 years under Mayor Cant.\n- During his tenure, Burrell and \"the three B's\" negotiated a $2.65 million farmland purchase for future recreation.\n- The land purchase resulted in the city moving from a $1.2 million surplus to a $1.7 million deficit.\n- The city subsequently leased the purchased farmland for $9,000 per year for farming.\n- Allegations of airport bid-rigging and voting for full-family insurance for the council.\n- Discrepancies in sewer infrastructure: Burrell claimed credit for sewer improvements he had actually voted against.\n\nTHE DISCOVERY: \n- Article 2 revealed a pattern of systemic dishonesty and fiscal mismanagement by the \"CATALYST\" council members.\n- It documented Jack Burrell’s undisclosed police record involving incidents with juveniles.\n- It highlighted the council's tendency to only support infrastructure projects when media presence or inevitable progress forced their hand.\n\nTHE PIVOT: \n- Article 2 provides the evidentiary foundation that the current legal and judicial failures in the McSharry case (the alleged failure of the City Attorney and Municipal Judge to defend a victim) are not isolated errors.\n- It establishes \"CATALYST\" as a long-standing political entity characterized by corruption, lying, and self-interest, framing the McSharry case as the latest manifestation of this established pattern.\n\nKEY ENTITIES:\n- Jack Burrell (Council President)\n- Mayor Cant\n- Ronan McSharry\n- Councilman Boone\n- Fairhope City Council\n- \"The three B's\" (Council subgroup)\n- City Attorney\n- Municipal Judge"
+    llm_text: Jack Burrell and the "CATALYST" council traded a $1.2 million surplus for massive deficits and systemic lies. This pattern of corruption proves the McSharry case represents the latest manifestation of a long-standing culture of political self-interest in Fairhope.
+    text: Jack Burrell and the CATALYST council traded a surplus for massive deficits and lies. This pattern proves political self-interest runs deep in Fairhope.
+    widget_date: "2020-05-23"
+    generated_at: "2026-11-07T18:52:03.250004Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  saturday-apology:
+    brief: "THE CONFLICT: \n- A Fairhope City Council meeting featured intense confrontation regarding the handling of the McSharry case.\n- Councilman Boone (referred to as llc. Boone) yelled at the Mayor and demanded Councilman Burrell immediately adjourn the meeting.\n- Councilman Burrell abruptly adjourned the meeting and cut off the Mayor after she had been promised the opportunity to speak.\n- The City Attorney repeatedly failed—either in error or on purpose—to defend the female victim in the Ronan McSharry assault case, exposing the city to potential lawsuits.\n- The City Attorney and Municipal Judge are appointed by the City Council; the text argues that replacing the council is necessary to replace these officials, who are tied to the \"CATALYST\" faction.\n\nTHE DISCOVERY (Background Context from Article 2):\n- Article 2 (older background/historical context) established the mission of The Ripp Report and the Backstory Podcast (#9) to expose political corruption and consumer issues in Baldwin County, specifically targeting elected and appointed officials using positions for personal gain.\n- It revealed that Baldwin County—specifically Fairhope and Daphne—was facing unbridled development where judges and attorneys are developers, and the City Council that appointed them approves their projects.\n- It warned that \"CATALYST\" (described as the \"Good ole Boys\") was attempting to regain control in Fairhope to prevent a backward spiral.\n\nTHE PIVOT: \n- Article 2 serves as the foundational \"smoking gun\" because it previously mapped out the exact threat—\"CATALYST\" and their political network operating through the City Council, appointed attorneys, and judges for personal gain. \n- Article 1 shows that the systemic corruption predicted in Article 2 has manifested directly inside City Hall: specifically through the mishandling and failure to defend a victim in the McSharry assault case by the City Attorney, followed by the \"CATALYST\" councilmen shutting down public transparency and silencing the Mayor when confronted.\n\nKEY ENTITIES:\n- Ronan McSharry (and the McSharry case)\n- Councilman Boone (llc. Boone)\n- Councilman Burrell\n- The Mayor\n- The City Attorney\n- The Municipal Judge\n- CATALYST (The Good ole Boys)\n- The Ripp Report / Backstory Podcast\n- Fairhope\n- Daphne\n- Baldwin County"
+    llm_text: When Councilman Boone yelled at the Mayor and Burrell abruptly shut down the Fairhope meeting, they proved our past warnings about the CATALYST faction right. Read how this brazen cover-up in the McSharry assault case exposes the corrupt local network you must vote out.
+    text: When Councilman Boone yelled at the Mayor and Burrell abruptly shut down the Fairhope meeting, they proved our past warnings about the CATALYST faction right. Read how this brazen cover-up in the McSharry assault case exposes the corrupt local network you must vote out.
+    widget_date: "2019-11-03"
+    generated_at: "2026-11-07T18:51:16.115976Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-players:
+    refined_source: 5e4d5bb682fc90247f1c47d45318919f1ef6e0a24d17caea703c4797d23a5fc7
+    brief: |-
+      THE CONFLICT: 2016 Fairhope Municipal Elections featured a full slate of CATALYST candidates; CATALYST nearly achieved control in 2018 mid-term elections.
+      THE DISCOVERY: CATALYST established control via appointed City Attorney and Municipal Judge, who were affiliated with the group; the City Attorney botched the McSherry case intentionally.
+      THE PIVOT: Article 2 establishes CATALYST's long-standing control via appointed legal/judicial staff which Article 1 criticizes for mishandling the McSharry case, linking the current issue to historical corruption.
+      KEY ENTITIES: CATALYST, Ronan McSharry, McSharrys, City Council, City Attorney, Municipal Judge, Mayor Cant, Mayor Wilson, Councilman Boone, Councilman Burrell, Chris Elliott, Fairhope, FAUXHOPE, NOHOPE, Jerry Carl.
+    llm_text: CATALYST used appointed City Attorney and Municipal Judge to control Fairhope, intentionally botching the Ronan McSharry case. See how this historical corruption links to today's City Council decisions.
+    text: CATALYST used appointed city officials to control Fairhope and botched the Ronan McSharry case. This historical corruption links directly to today's city council decisions.
+    widget_date: "2020-05-15"
+    generated_at: "2026-11-07T18:51:18.355625Z"
+    model_name: plugsky-lite

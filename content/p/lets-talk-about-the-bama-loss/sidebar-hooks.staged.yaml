@@ -1,0 +1,393 @@
+metadata:
+  generated_at: "2026-11-07T04:32:49.088528Z"
+  generator_version: 1.0.0
+  post_slug: lets-talk-about-the-bama-loss
+  main_date: "2021-10-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  scalped:
+    refined_source: 470ac92732cc066d1fed548e5cff350ba82c526b3175f9718081f9f2a8a0131c
+    brief: |-
+      THE CONFLICT: University of Alabama lost a football game this past weekend; Nick Saban is the highest-paid coach according to NCAA.
+      THE DISCOVERY: Baldwin County District Attorney building construction bid award has occurred.
+      THE PIVOT: Widget Article highlights broader local corruption and lack of accountability, contextualizing the high-profile spending (like Saban's salary/Covid Aid use) within a pattern of unchecked political/contractual behavior.
+      KEY ENTITIES: Nick Saban, Baldwin County District Attorney, Chis Elliott, Tucker Dorsey, Mike McMillan, Mo Brooks, Jo Bonner
+    llm_text: Nick Saban earns big, but Baldwin County District Attorney construction bids show local accountability is missing. See how this local contract pattern mirrors unchecked high-profile spending.
+    text: Baldwin County District Attorney construction bids show a lack of local accountability. This contract pattern mirrors unchecked high-profile spending.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T04:29:16.335606Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: b48dead6ce5c75985c125e5e04f3ce80daca0b475bf1aad2f89b443d90631fd4
+    brief: |-
+      THE CONFLICT:
+      - University of Alabama lost a football game this past weekend
+      - Loss resulted in increases in domestic violence/DUI’s and a murder
+      - Nick Saban is the highest-paid coach according to NCAA
+
+      THE DISCOVERY:
+      - Governor Ivey called for immediate resignation of Veteran's Affairs Commissioner for Alabama
+      - Fairhope expanding $9.5M pier remodel
+      - Baldwin County approved thousands of residential lots
+      - City of Bay Minette, Alabama, is being sued by the family of OJ French Jr for the killing of OJ French Jr by BMPD Officer Brandon Thompson
+      - Mobile Attorney Andy Ruten represents City of Bay Minette
+      - Ruten's firm hires Bay Minette Mayor Bob Wills to represent them in a lawsuit for Malpractice
+
+      THE PIVOT:
+      - Article 2 provides specific, current local governance and legal developments in Alabama (e.g., Bay Minette lawsuit, Fairhope project, Governor Ivey action) which contrasts with the vague national/sports claims of Article 1, grounding the state context.
+
+      KEY ENTITIES:
+      - Nick Saban
+      - University of Alabama
+      - Governor Ivey
+      - Baldwin County
+      - Fairhope
+      - City of Bay Minette
+      - OJ French Jr
+      - BMPD Officer Brandon Thompson
+      - Andy Ruten
+      - Bob Wills
+      - Chis Elliott
+      - Tucker Dorsey
+      - "Slappin" Mike McMillan
+      - Mo Brooks
+      - Jo Bonner
+    llm_text: 'Governor Ivey canned the VA commissioner while Bay Minette faces a deadly lawsuit: the family of OJ French Jr sued the city after Officer Brandon Thompson killed him, with city attorney Andy Ruten hiring malpractice defendant Mayor Bob Wills to defend them. It’s a real-world Alabama mess that puts the national sports noise to shame.'
+    text: Governor Ivey fired the VA commissioner as Bay Minette faces a deadly lawsuit. The family of OJ French Jr. sued the city after an officer killed him.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T04:29:26.786671Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT:
+      - In the past, the University of Alabama lost a football game over the weekend.
+      - A Facebook leaker claimed the University of Alabama was “running for the exits” after the loss.
+      - The article linked the Alabama loss to increases in domestic violence, DUI, and murder.
+      - Nick Saban was again the highest-paid coach according to the NCAA.
+      - University of Alabama Confidentiality Agreements were the subject of a Lagniappe article.
+      - The Governor signed into law a bill allowing use of $400 million in COVID Aid on $1.2 billion for prison construction, not subject to the Public Bid Law.
+      - US COVID-19 totals: 44,700,000 SARS-CoV-2 cases, 721,000 deaths.
+
+      THE DISCOVERY:
+      - Article 2, titled The Pardon, is newer than Article 1 and should be framed as an update.
+      - The Pardon podcast discusses a damning report on the US government’s COVID-19 response.
+      - The Pardon podcast covers President Biden’s pardon of his son Hunter.
+      - The Pardon podcast covers allegations of misconduct against various officials.
+      - The Pardon podcast covers controversies surrounding political appointments.
+      - The Pardon podcast covers the murder of a healthcare CEO.
+      - The Pardon podcast covers arrests of individuals critical of local government.
+      - The Pardon podcast covers the First Amendment and wrongful arrests of individuals who exposed corruption in their local school district.
+
+      THE PIVOT:
+      - Article 2 is the “smoking gun” or key context for Article 1 because it adds newer coverage of COVID-19 response failures, Hunter Biden pardon, misconduct allegations, political appointments, healthcare CEO murder, arrests, and school-district corruption.
+      - Article 2 provides an update since Article 1 on government response and institutional/legal fallout.
+      - Article 2 connects to Article 1 themes: University of Alabama Confidentiality Agreements, local government, public officials, and allegations of misconduct.
+
+      THE KEY ENTITIES:
+      - Nick Saban; University of Alabama; NCAA; Facebook leaker; University of Alabama Confidentiality Agreements; Governor; COVID Aid; $400 million; $1.2 billion; prison construction; Public Bid Law.
+      - Baldwin Planning District 8; Fairhope; Point Clear; Chis Elliott; Tucker “whatever your real name may be” Dorsey; Spanish Fort; Mayor “Slappin” Mike McMillan; Anti-Farmers Federation; Mo Brooks; de facto Governor Jo Bonner; Jo Bonner bucking for USA president job.
+      - Dr. Sanjay Gupta; JRE; President Biden; Hunter Biden; COVID-19; healthcare CEO; murder; political appointments; misconduct; arrests; First Amendment; local school district; corruption.
+      - The Ripp Report; The Pardon; Lagniappe.
+    llm_text: After Alabama lost, a Facebook leaker claimed Nick Saban was running for the exits, and The Ripp Report tied that chaos to COVID failures, Hunter Biden’s pardon, and misconduct allegations. Now The Pardon’s update puts government scandals and institutional fallout right next to college football’s biggest headlines.
+    text: After Alabama lost, a Facebook leaker claimed Nick Saban was running for the exits, and The Ripp Report tied that chaos to COVID failures, Hunter Biden’s pardon, and misconduct allegations. Now The Pardon’s update puts government scandals and institutional fallout right next to college football’s biggest headlines.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T04:29:49.040995Z"
+    model_name: recursive/flint-v1.0:free
+  the-pete-rose:
+    refined_source: 5ba5d24cf6b6d76383c97f69c854b168f6d7524828648bca1b7e27a0b9c8ef8b
+    brief: |-
+      THE CONFLICT:
+      - Alabama football season referenced in context of a "Bama Loss" resulting in increases in domestic violence, DUI's, and a murder this past weekend.
+      - The University of Alabama lost a football game this past weekend (specific date not provided in text, but context implies recent event).
+      - Nick Saban is again the highest paid coach according to the NCAA.
+      - University of Alabama Confidentiality Agreements are the subject of a Lagniappe article this week.
+      - Governor signed into law a bill allowing $400 Million in Covid Aid to be used on $1.2 Billion for prison construction, not subject to Public Bid Law.
+      - Baldwin Planning District 8 Fairhope/Point Clear news involves Chis Elliott, Tucker "whatever your real name may be" Dorsey, Spanish Fort Mayor "Slappin" Mike McMillan, Anti-Farmers Federation Senate Candidate Mo Brooks, and de facto Governor Jo Bonner bucking for USA president job.
+      - Thomas Daniel "Danny" Williams Jr died on May 27, 2022 (Memorial Day Weekend), body recovered May 29, 2022. Reward offered for information leading to conclusion of his death mystery.
+
+      THE DISCOVERY:
+      - Article 2 (The Pete Rose) confirms the passing of Legendary baseball player Pete Rose this week.
+      - Reward is actively on the table for information regarding Thomas Daniel "Danny" Williams Jr death in Orange Beach, Alabama (May 27, 2022).
+      - New political developments: Montgomery Alabama Mayor's travel records, MS-13 Operations in Baldwin County, Gulf Coast High Intensity Drug Trafficking Area Program.
+      - Katie Britt, Pornhub Alabama, Veterans Affairs Director Adm. Kent Davis, Baywatch Docuseries, and Longshoreman's Strike are new developments cited.
+      - Rescue the Republic Rally went off in DC on Sunday without a hitch (new event).
+
+      THE PIVOT:
+      - The "Bama Loss" and resulting social issues (domestic violence, DUI, murder) provide the immediate context for why the Thomas Daniel "Danny" Williams Jr death (May 27, 2022) and the reward offered are being revisited or connected.
+      - The convergence of the football loss, the Williams Jr death anniversary/remembrance, and the new political/social developments (Mayor's travel records, MS-13 operations) creates the connective tissue.
+      - The mention of University of Alabama Confidentiality Agreements and the Governor's use of Covid Aid for prison construction provides institutional context for the power structures referenced.
+
+      KEY ENTITIES:
+      - Nick Saban (Alabama football coach, highest paid)
+      - University of Alabama (Confidentiality Agreements, football program)
+      - Thomas Daniel "Danny" Williams Jr (death May 27, 2022, Orange Beach, Alabama)
+      - Pete Rose (Legendary baseball player, passed this week)
+      - Jo Bonner (de facto Governor, bucking for USA president job)
+      - Chis Elliott
+      - Tucker "whatever your real name may be" Dorsey
+      - Spanish Fort Mayor "Slappin" Mike McMillan
+      - Mo Brooks (Anti-Farmers Federation Senate Candidate)
+      - Montgomery Alabama Mayor (travel records)
+      - Adm. Kent Davis (Veterans Affairs Director)
+      - MS-13 Operations in Baldwin County
+      - Gulf Coast High Intensity Drug Trafficking Area Program
+      - Baldwin Planning District 8 (Fairhope/Point Clear)
+      - Katie Britt
+      - Pornhub Alabama
+      - Baywatch Docuseries
+      - Longshoreman's Strike
+    llm_text: The Alabama loss sparked a violent weekend, but Thomas Daniel "Danny" Williams Jr's 2022 death in Orange Beach remains unsolved as a reward waits. From Governor Bonner's presidential ambitions to MS-13 operations in Baldwin County, this case exposes the deadly cost when Bama falls.
+    text: Thomas Daniel Williams Jr. died in Orange Beach in 2022, and his case remains unsolved. A reward waits while regional leaders chase higher office.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T04:29:46.765546Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: ba15817883c3f7c62569b779502e09da210a235ae75c6b10d91a336408c845f0
+    brief: |-
+      THE CONFLICT:
+      - Sheriff (unnamed in Article 1, implied current Baldwin County Sheriff) announced mid-July resignation effective mid-August.
+      - Sheriff requested Chief Deputy Anthony Lowery be appointed to fill the remainder of his term by Governor Kay Ivey.
+      - County Commissioner Matt McKenzie also wants the sheriff appointment.
+      - Chis Elliott, Tucker Dorsey, Spanish Fort Mayor "Slappin" Mike McMillan, Mo Brooks, and Jo Bonner are listed as political figures in Baldwin County involved in local power struggles.
+      - Reference to "DEAL WITH THE DEVIL CASE" involving Anthony Lowery.
+      - $400 Million in Covid Aid signed into law for $1.2 Billion prison construction, not subject to Public Bid Law.
+      - Nick Saban is the highest paid coach according to NCAA.
+
+      THE DISCOVERY:
+      - On July 31, 2024, the family of OJ French Jr, the Bay Minette Justice League, and May Jung LLC held a rally revealing a Federal Court lawsuit against City of Bay Minette and Officer Brandon Thompson.
+      - Lawsuit alleges Officer Thompson did not have probable cause for the stop, demanded victim exit vehicle, struggled over a taser, and shot OJ French Jr killing him.
+      - Mayor Robert Bob Wills lied stating he spoke for the family and that they were "ok with the outcome" of the investigation.
+      - Grand Jury has seen the video and cleared the Officer; video is not a public record.
+      - Sheriff announced resignation mid-July, wants Anthony Lowery appointed by Governor Ivey.
+      - County Commissioner Matt McKenzie also wants the sheriff post.
+
+      THE PIVOT:
+      - Article 2 identifies Anthony Lowery as Chief Deputy seeking Sheriff appointment, directly connecting to Article 1's mention of the Sheriff wanting Lowery appointed.
+      - Article 2 names Mayor Robert Bob Wills and Officer Brandon Thompson, adding specific local government/law enforcement targets to Article 1's general Baldwin County political cast (Elliott, Dorsey, McMillan, Brooks, Bonner).
+      - Article 2 provides the concrete legal action (Federal lawsuit, July 31, 2024 rally) behind Article 1's references to local power struggles and "BOSS HOGG influence."
+      - Article 2's call to action to "throw these bastards out" from Mayor Wills to Legislators to Judges directly updates Article 1's framing of Baldwin County corruption.
+
+      KEY ENTITIES:
+      - Anthony Lowery (Chief Deputy, prospective Sheriff appointee)
+      - Robert Bob Wills (Mayor of Bay Minette)
+      - Brandon Thompson (Bay Minette Police Officer)
+      - OJ French Jr (Deceased victim)
+      - Matt McKenzie (County Commissioner, sheriff appointment candidate)
+      - Kay Ivey (Governor of Alabama)
+      - Chis Elliott (Baldwin County political figure)
+      - Tucker Dorsey (Baldwin County political figure)
+      - Mike McMillan (Spanish Fort Mayor)
+      - Mo Brooks (Senate Candidate)
+      - Jo Bonner (de facto Governor reference)
+      - May Jung LLC (Legal Counsel)
+      - Bay Minette Justice League
+      - City of Bay Minette
+      - Baldwin County
+    llm_text: Anthony Lowery wants the Baldwin County Sheriff job Governor Kay Ivey is about to fill, but OJ French Jr’s family is suing Officer Brandon Thompson and corrupt Mayor Robert Bob Wills for a murder caught on video the Grand Jury covered up.
+    text: Anthony Lowery wants the Baldwin County Sheriff job that Governor Kay Ivey will fill. Meanwhile, the family of OJ French Jr. is suing over a killing caught on video.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T04:30:07.638099Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 583a4d95709f10180acd56d4b8ddc5239b37f4d5b4a037bd3954d8071d12bae4
+    brief: |-
+      THE CONFLICT:
+      - University of Alabama lost a football game (past weekend)
+      - Event correlated with increases in domestic violence/DUI/murder
+      - Governor signed into law a bill allowing $400 Million in Covid Aid to be used for $1.2 Billion in prison construction, exempt from Public Bid Law
+
+      THE DISCOVERY:
+      - Alabama Court of Civil Appeals released decision today at 1pm regarding Rule 32 Petition for Murray Lawrence Jr.
+      - Case (Mack vs Hadley) involved Baldwin County Sheriff's Department theft of 1968 Camaro
+      - Discovery of two autopsies (2005) ordered by Sheriff Mack's father/Coroner of Baldwin County were never disclosed to Defense (Brady Violation)
+      - Arrest of Luigi Manjone for murdering a United Healthcare CEO
+
+      THE PIVOT:
+      - Article 2 provides concrete evidence of systemic legal corruption (Dothan Summer Feeding Scandal, corrupt Judge Mark Fuller, Baldwin County Sheriff's Dept misconduct) rather than solely focusing on sports salaries (Nick Saban) or legislative spending (prison construction) mentioned in Article 1.
+
+      KEY ENTITIES:
+      - Nick Saban
+      - University of Alabama
+      - Chis Elliott
+      - Tucker Dorsey
+      - Mike McMillan
+      - Mo Brooks
+      - Jo Bonner
+      - Luigi Manjone
+      - Mark Fuller
+      - Murray Lawrence Jr.
+      - Sheriff Mack
+      - Baldwin County
+      - Dothan Summer Feeding Scandal
+    llm_text: 'The University of Alabama loss distracts from real corruption: Judge Mark Fuller and Baldwin County Sheriff''s Department misconduct expose deep legal rot. The case involving Murray Lawrence Jr. reveals a Brady violation and systemic theft that demands attention.'
+    text: Judge Mark Fuller and the Baldwin County Sheriff's Department face serious misconduct charges. The case involving Murray Lawrence Jr. exposes hidden evidence and theft.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T04:31:22.423748Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 985473292823c90f76f770cd392f2143a711897b147ee6792fda3637918a5f12
+    brief: |-
+      THE CONFLICT: University of Alabama lost a football game this past weekend, resulting in increases in domestic violence/DUI/murder; Governor signed a bill allowing $400 Million in Covid Aid to be used on $1.2 Billion for prison construction, exempt from Public Bid Law; Nick Saban is the highest paid coach (NCAA).
+      THE DISCOVERY: Backstory Podcast No. 186 (newer) covered 2024 US Presidential election results, Trump Cabinet 2.0, closing rural hospitals in Alabama, and proposed constitutional amendments in Alabama.
+      THE PIVOT: The newer article shifts the focus from specific football/legislative incidents to broader, systemic political and social changes within Alabama (rural health, constitutional amendments, 2024 election).
+      KEY ENTITIES: Nick Saban, Chis Elliott, Tucker Dorsey, Mike McMillan, Mo Brooks, Jo Bonner
+    llm_text: Alabama used $400M in Covid aid for a $1.2B prison build, bypassing public bids. Read how rural hospital closures and 2024 election shifts shape the state's deep political crisis.
+    text: Alabama spent 400 million dollars in COVID aid on a prison without public bids. Rural hospital closures and political shifts follow this spending decision.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T04:32:20.478542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 935797b1e91d40f40e76ad629d9023e8f1163a397870514bca1964af26c77522
+    brief: |-
+      THE CONFLICT:
+      - Chris Elliott, Tucker Dorsey, Mike McMillan, Mo Brooks, and Jo Bonner identified as key political figures in Baldwin County/Fairhope area.
+      - Governor signed bill allowing $400 Million in Covid Aid to be used on $1.2 Billion prison construction without Public Bid Law.
+      - UA (University of Alabama) Confidentiality Agreements subject of a Lagniappe article.
+      - Nick Saban is the highest paid coach per NCAA.
+      - University of Alabama loss linked to increases in domestic violence, DUIs, and a murder.
+      - 44,700,000 SARS-COV-2 cases and 721,000 deaths in the USA.
+
+      THE DISCOVERY:
+      - 1819 News and similar outlets are promoting the “Haitian Immigrant Eating Cats” narrative in Sylacauga, Alabama.
+      - Fairhope Alabama City Councilman is begging for immigrants despite high home prices.
+      - Former Real Admiral and JAG Officer Kent David, Alabama Veterans Affairs Commissioner, is being removed via a whistleblower Ethics Complaint.
+      - Israel caused radios and pagers used by enemies to explode, injuring/killing hundreds.
+      - Renaissance School in Baldwin County for special needs kids robbed (inside job possible).
+      - Alabama Department of Transportation Director's harassment case thrown out.
+      - New Baldwin County Sheriff Department Command Staff appointed.
+      - Texas Federal Bankruptcy Judge David R. Jones named "Most Corrupt Judge."
+      - P Diddy denied bail in sex crimes cases.
+      - Federal Reserve dropped interest rates by half a point.
+      - "Rescue the Republic" rally scheduled for September 29, 2024, in DC featuring RFK Jr, Tulsi Gabbard, and Russell Brand.
+
+      THE PIVOT:
+      - Article 2 provides specific local Alabama political context (Kent David, Baldwin County, 1819 News) that connects to the political cast of characters mentioned in Article 1 (Chris Elliott, Mo Brooks, Jo Bonner).
+
+      KEY ENTITIES:
+      - Chris Elliott
+      - Tucker Dorsey
+      - Mike McMillan
+      - Mo Brooks
+      - Jo Bonner
+      - Nick Saban
+      - Kent David
+      - 1819 News
+      - Baldwin County
+      - Sylacauga
+      - Fairhope
+      - David R. Jones
+      - RFK Jr
+      - Tulsi Gabbard
+      - Russell Brand
+    llm_text: 'Baldwin County pols like Chris Elliott and Mo Brooks defend the $400M Covid-to-prison bailout while Fairhope Councilman begs for immigrants—meanwhile 1819 News pushes the "cat-eating" lie in Sylacauga. It’s the same playbook: smear the vulnerable while protecting the connected.'
+    text: Baldwin County politicians defend a costly prison bailout while local leaders push false claims. The powerful protect their friends and smear vulnerable people.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T04:29:56.172392Z"
+    model_name: plugsky-lite
+  the-180:
+    brief: |-
+      THE CONFLICT:
+      - SARS-CoV-2 USA cases: 44,700,000; deaths: 721,000.
+      - Facebook leaker has University of Alabama coaches/players running for exits.
+      - University of Alabama lost a football game this past weekend.
+      - Loss resulted in increases in domestic violence, DUI, and murder.
+      - Nick Saban again highest paid coach according to NCAA; image context: Saban laughs in white polo shirt, tweet highlighting highest-paid coaching salary.
+      - UA Confidentiality Agreements subject of Lagniappe article this week.
+      - Governor signed into law bill allowing use of $400 million in Covid Aid on $1.2 billion for prison construction, not subject to Public Bid Law.
+      - Baldwin Planning District 8, Fairhope/Point Clear news.
+      - Baldwin County, Alabama entities: Chis Elliott, Tucker "whatever your real name may be" Dorsey, Spanish Fort Mayor "Slappin" Mike McMillan, Anti-Farmers Federation Senate Candidate Mo Brooks, de facto Governor Jo Bonner bucking for USA president job, cast of characters.
+      - Dr. Sanjay Gupta on JRE.
+
+      THE DISCOVERY:
+      - Article 2: VP Kamala Harris gone from scourge of Democratic party to darling savior.
+      - VP Harris riding high from Democratic National Convention; RFK Jr removed name from battleground ballots and threw in with Candidate Trump, consuming oxygen.
+      - One week left of Sheriff Mack in office in Baldwin County, Alabama.
+      - Governor selecting replacement as of Article 2.
+      - "Pray for change but expect the worst."
+      - Headline: Finebaum claims University of Alabama Football Dynasty over.
+      - THE 180 cover: Backstory Podcast The 180 cover featuring red-framed TIME magazine sketch of VP Kamala Harris alongside Baldwin County seal.
+
+      THE PIVOT:
+      - Article 2 is newer than Article 1.
+      - Article 2 frames Finebaum claim about University of Alabama Football Dynasty over as headline.
+      - Article 2 update/frame for Article 1's Bama Loss content.
+      - Article 2 is key context for Article 1 via Finebaum Alabama football dynasty claim.
+
+      THE KEY ENTITIES:
+      - Nick Saban
+      - University of Alabama
+      - NCAA
+      - Facebook leaker
+      - Domestic violence
+      - DUI
+      - Murder
+      - UA Confidentiality Agreements
+      - Governor
+      - $400 million Covid Aid
+      - $1.2 billion prison construction
+      - Public Bid Law
+      - Baldwin Planning District 8
+      - Fairhope
+      - Point Clear
+      - Chis Elliott
+      - Tucker Dorsey
+      - Spanish Fort
+      - Mike McMillan
+      - Mo Brooks
+      - Jo Bonner
+      - Dr. Sanjay Gupta
+      - JRE
+      - Kamala Harris
+      - Democratic National Convention
+      - RFK Jr
+      - Donald Trump
+      - Sheriff Mack
+      - Baldwin County
+      - Alabama
+      - Finebaum
+      - University of Alabama Football Dynasty
+      - THE 180
+      - Lowery
+      - Wilters
+    llm_text: A Facebook leaker says Alabama coaches and players are running for exits after their loss, and Nick Saban again tops the NCAA pay chart. As domestic violence and murder rise, Vice President Kamala Harris becomes the Democratic darling while Alabama's governor picks a new sheriff.
+    text: A Facebook leaker says Alabama coaches and players are running for exits after their loss, and Nick Saban again tops the NCAA pay chart. As domestic violence and murder rise, Vice President Kamala Harris becomes the Democratic darling while Alabama's governor picks a new sheriff.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T04:31:19.016499Z"
+    model_name: recursive/flint-v1.0:free
+  the-crime-of-the-century:
+    refined_source: 1b6e9c18d9c8304d79b3eb5ba395296a34c27ffd72d61394804086c67e7ccf52
+    brief: |-
+      THE CONFLICT:
+      *   The University of Alabama lost a football game "this past weekend."
+      *   This event coincided with increases in domestic violence, DUI’s, and a murder.
+      *   Nick Saban remains the highest-paid coach (NCAA).
+      *   The Governor signed a bill allowing $400 Million in Covid Aid to be used on $1.2 Billion for prison construction, bypassing the Public Bid Law.
+      *   Local Baldwin Planning District 8 figures mentioned: Chis Elliott, Tucker Dorsey, Spanish Fort Mayor Mike McMillan, Mo Brooks, and de facto Governor Jo Bonner.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis.
+      *   Davis's removal led to chaos in veterans’ programs, turning the job into a political role.
+      *   A true crime story in Clarke County exposed a "good old boy" system where a hospice business had shady ties to a judge.
+      *   A court case limits the ability to sue over a wrong SWAT raid, questioning police accountability.
+
+      THE PIVOT:
+      *   Article 2 updates the political context in Alabama, showing systemic corruption (Clarke County judge ties) and political instability (Ivey firing Davis) that underpins the social breakdown (increased domestic violence/murder) noted after the UA loss in Article 1.
+
+      KEY ENTITIES:
+      *   Nick Saban
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Chis Elliott
+      *   Tucker Dorsey
+      *   Mike McMillan
+      *   Mo Brooks
+      *   Jo Bonner
+      *   Joe Biden
+      *   Kamala Harris
+      *   Baldwin Planning District 8 Fairhope/Point Clear
+      *   Clarke County (Judge/Hospice)
+    llm_text: While Nick Saban remains highly paid, Alabama faces social turmoil—including increased violence—fueled by systemic corruption. Kay Ivey's political moves, like firing Admiral Kent Davis and approving a $1.2B prison deal, expose the rot in places like Clarke County.
+    text: Systemic corruption fuels rising violence across Alabama. Governor Kay Ivey's political moves and prison deals expose deep rot in local offices.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T04:30:09.230955Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,7 +5,122 @@ metadata:
   main_date: "2023-11-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  hatians-eating-cats:
+    refined_source: 5215a32f3ee403411c496dc1dad3e83c850c2b4ac2e5760ee658edf253f79e3c
+    brief: |-
+      THE CONFLICT:
+      * 2002: Guardian News removed a bin Laden letter document.
+      * Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a seized Camaro from a Bay Minette Attorney's father.
+      * Mobile PD killed a 16-year-old during a no-knock-pre-dawn-raid in Baldwin County related to Marijuana sale.
+      * Mabel Amos Memorial Scholarship Trust lawsuit reached settlement involving Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank.
+
+      THE DISCOVERY:
+      * Renaissance School in Baldwin County for special needs kids was robbed; inside job suspected, potentially shuttering the school.
+      * Sheriff Department of Baldwin County has a new Command Staff.
+
+      THE PIVOT:
+      * Article 2 provides a new, specific event (Renaissance School robbery) occurring in Baldwin County that connects to the general local governance and crime themes present in Article 1.
+
+      KEY ENTITIES:
+      * Baldwin County
+      * Clark Stankoski
+      * Huey Mack
+      * Bay Minette Attorney
+      * Mobile PD
+      * Steve Marshall
+      * Tom Albritton
+      * Regions Bank
+      * Renaissance School
+      * Sheriff Department of Baldwin County
+    llm_text: The Renaissance School robbery in Baldwin County threatens this special needs center. See how new Sheriff Department Command Staff tackles local issues, from Clark Stankoski's orders to Mobile PD raids.
+    text: A Baldwin County special needs school faced a dangerous robbery. How are new sheriff commanders handling court orders and local crime?
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T18:40:27.997714Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    refined_source: 9b795260e0f869fac0a284091ec2451740ffee18361e6e36fcdaf2e5218f5d47
+    brief: |-
+      THE CONFLICT:
+      - 2002: Guardian News removed a document related to a bin Laden letter.
+      - Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro seized from a father of a Bay Minette Attorney.
+      - Mobile PD killed a 16-year-old during a no-knock-pre-dawn-raid in Baldwin County related to marijuana sale.
+
+      THE DISCOVERY:
+      - May 27, 2022: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama.
+      - May 29, 2022: Danny Williams Jr's body was recovered.
+
+      THE PIVOT:
+      - None; Article 2 introduces a separate, unrelated investigation (Danny Williams Jr death) in Orange Beach, Alabama, distinct from the 2002 bin Laden letter removal or the Baldwin County Camaro seizure/police incident detailed in Article 1.
+
+      KEY ENTITIES:
+      - Guardian News
+      - Elon Musk
+      - ADL
+      - Donald Trump
+      - Clark Stankoski
+      - Huey Mack
+      - Bay Minette Attorney
+      - Mobile PD
+      - Mayor Stinson
+      - Mike Hubbard
+      - Governor Robert Bentley
+      - Steve Marshall
+      - Tom Albritton
+      - Regions Bank
+      - Thomas Daniel "Danny" Williams Jr
+      - Orange Beach, Alabama
+    llm_text: Orange Beach's Danny Williams Jr death connects to a different story than the 2002 Guardian News removal or the Mobile PD raid. See how these separate local events expose deeper community issues.
+    text: Danny Williams Jr.'s death in Orange Beach points to deeper community dangers. How do hidden local records expose police misconduct?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T18:40:20.937747Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 80b01d6ea5043d372d3eaf351d66049d32f8dd62c66268337e0fae3a23d56f72
+    brief: |-
+      THE CONFLICT: Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro illegally seized from the father of a Bay Minette Attorney (Main Article timeline).
+      THE DISCOVERY: The Alabama Court of Civil Appeals released a ruling on the Mack vs Hadley case; this case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department (Widget Article update).
+      THE PIVOT: The ruling updates the initial conflict of illegal seizure, adding new evidence (two autopsies from 2005) that were never disclosed to the defense (a Brady Violation), escalating the legal scrutiny beyond just the seizure order.
+      KEY ENTITIES: Sheriff Huey Mack; Judge Clark Stankoski; Mack vs Hadley; Baldwin County; Alabama Court of Civil Appeals; Mark Fuller (Alabama Federal Judge); Bay Minette Attorney; 1968 Camaro.
+    llm_text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from a Bay Minette Attorney's father. The Alabama Court of Civil Appeals ruling reveals a serious Brady Violation with undisclosed 2005 autopsies, escalating this Mack vs Hadley case.
+    text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a seized vehicle. Did an appeals court ruling expose hidden autopsies and a major violation?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T18:41:49.839028Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: f5f8ff660b370ec30e474f60b00501ca6ad229969d0fc8151a49ff7fe525b5d3
+    brief: |-
+      THE CONFLICT:
+      * Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro illegally seized from the father of a Bay Minette Attorney (time unspecified in Article 1).
+      * Mobile PD killed a 16 year old in a no-knock-pre-dawn-raid in Baldwin County (time unspecified in Article 1).
+      * Mabel Amos Memorial Scholarship Trust lawsuit involved Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank, and plaintiff's attorneys, leading to a settlement (time unspecified in Article 1).
+
+      THE DISCOVERY:
+      * The family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
+      * OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a struggle over a taser because the officer lacked probable cause for the stop.
+      * Sheriff Huey Mack announced his resignation mid-July and intends to resign mid-August, with Chief Deputy Anthony Lowery being considered for appointment by Governor Ivey.
+      * County Commissioner Matt McKenzie is also interested in the Sheriff position.
+
+      THE PIVOT:
+      * Article 2 provides specific dates (July 31, 2024) and detailed context (lawsuit specifics, officer actions, Sheriff's resignation) regarding the Bay Minette/Camaro case mentioned in Article 1, clarifying the ongoing legal and personnel shifts in Baldwin County.
+
+      KEY ENTITIES:
+      * OJ French Jr.
+      * Huey Mack (Sheriff)
+      * Clark Stankoski (Baldwin County Judge)
+      * Brandon Thompson (Bay Minette Police Officer)
+      * Mayor Robert Bob Wills
+      * Anthony Lowery (Chief Deputy)
+      * Governor Ivey
+      * Matt McKenzie (County Commissioner)
+      * Bay Minette City
+      * May Jung LLC
+    llm_text: OJ French Jr.'s family sued Bay Minette Police Officer Brandon Thompson over his death; Baldwin County Judge Clark Stankoski also pressured Sheriff Huey Mack over a seized Camaro. See how these high-profile cases shape Baldwin County's shifting leadership, including the Sheriff's open seat.
+    text: OJ French Jr.'s family sued a Bay Minette police officer over a fatal encounter. How do these high-profile cases shape the open race for sheriff?
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T18:40:41.825091Z"
+    model_name: plugsky-lite
   the-crime-of-the-century:
+    refined_source: 1c4870f735ca7b44d7c7ecd2407212db42f3b68e6592a614722434e323e21f68
     brief: |-
       THE CONFLICT:
       *   Mobile PD conducted a no-knock pre-dawn raid in Baldwin County, related to a Marijuana warrant.
@@ -28,6 +143,7 @@ hooks:
       *   16-year-old victim
       *   Bay Minette Attorney
     llm_text: Mobile PD’s no-knock raid in Baldwin County that killed a 16-year-old now faces a legal hurdle. A new court ruling limits lawsuits against police for wrong SWAT raids, severely limiting accountability despite Mayor Stinson banning such actions.
+    text: A Mobile police no-knock raid killed a 16-year-old in Baldwin County. Why do new court rulings protect police officers from accountability?
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T18:40:49.453905Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -122,60 +238,24 @@ hooks:
       - Alabama
       - Citizens
     llm_text: Guardian News scrubbed a 2002 bin Laden letter while Elon Musk, self-appointed free-speech arbiter, threatened suspension over an anti-Semitic tweet. The smoking-gun Baldwin County update ties Judge Clark Stankoski, Sheriff Huey Mack, and the Camaro they seized to corruption, lawsuits, and no accountability.
+    text: Guardian News scrubbed a 2002 bin Laden letter while Elon Musk, self-appointed free-speech arbiter, threatened suspension over an anti-Semitic tweet. The smoking-gun Baldwin County update ties Judge Clark Stankoski, Sheriff Huey Mack, and the Camaro they seized to corruption, lawsuits, and no accountability.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T18:40:56.941393Z"
     model_name: recursive/flint-v1.0:free
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT: Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro illegally seized from the father of a Bay Minette Attorney (Main Article timeline).
-      THE DISCOVERY: The Alabama Court of Civil Appeals released a ruling on the Mack vs Hadley case; this case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department (Widget Article update).
-      THE PIVOT: The ruling updates the initial conflict of illegal seizure, adding new evidence (two autopsies from 2005) that were never disclosed to the defense (a Brady Violation), escalating the legal scrutiny beyond just the seizure order.
-      KEY ENTITIES: Sheriff Huey Mack; Judge Clark Stankoski; Mack vs Hadley; Baldwin County; Alabama Court of Civil Appeals; Mark Fuller (Alabama Federal Judge); Bay Minette Attorney; 1968 Camaro.
-    llm_text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from a Bay Minette Attorney's father. The Alabama Court of Civil Appeals ruling reveals a serious Brady Violation with undisclosed 2005 autopsies, escalating this Mack vs Hadley case.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T18:41:49.839028Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: 38aef32c05233602ba696c3e3fb7fc3a0fc81df8de8a59427eb1975740a7b4de
     brief: |-
       THE CONFLICT: Guardian News removed a document related to a 2002 bin Laden letter takedown. Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro seized from a Bay Minette Attorney's father. Mobile PD killed a 16 year old in a no-knock-pre-dawn-raid related to Marijuana sale.
       THE DISCOVERY: A new podcast covers President Biden's pardon of his son Hunter and allegations of misconduct against various officials, including wrongful arrests of individuals exposing local school district corruption.
       THE PIVOT: The new podcast contextually broadens the scope from a single media censorship event (2002 takedown) to systemic issues involving government misconduct, political pardons, and civil liberties violations.
       KEY ENTITIES: Guardian News, 2002, bin Laden, Baldwin County Judge Clark Stankoski, Sheriff Huey Mack, Bay Minette Attorney, Mobile PD, Mayor Stinson, President Biden, Hunter (Biden's son)
     llm_text: Judge Stankoski gave Sheriff Mack 43 days for a Camaro, but a new podcast connects this to Biden's Hunter pardon and local corruption. See how government misconduct spans from 2002 takedowns to today's civil liberties fights.
+    text: Judge Stankoski gave Sheriff Mack an ultimatum over a seized car. How do old police takedowns connect to modern fights over civil liberties?
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T18:40:01.203545Z"
     model_name: plugsky-lite
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT:
-      Guardian News removed a document related to a 2002 bin Laden letter takedown.
-      Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro illegally seized from the father of a Bay Minette Attorney.
-      Mobile PD killed a 16-year-old in a no-knock-pre-dawn-raid related to Marijuana sale.
-      Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank, and plaintiff's attorneys reached a settlement in the Mabel Amos Memorial Scholarship Trust lawsuit.
-
-      THE DISCOVERY:
-      Podcast No. 186 covers 2024 US Presidential election results, The Trump Cabinet 2.0, and Alabama issues including closing rural hospitals and proposed constitutional amendments.
-
-      THE PIVOT:
-      The Widget Article provides a contemporary political and legal framework (2024 election, constitutional amendments) for the past and present local legal and political events detailed in the Main Article.
-
-      KEY ENTITIES:
-      Guardian News
-      Clark Stankoski (Baldwin County Judge)
-      Huey Mack (Sheriff)
-      Mayor Stinson
-      Donald Trump
-      Steve Marshall (Attorney General)
-      Tom Albritton (Ethic Director)
-      Speaker Ledbetter
-      Steve Lahto
-      Robert Bentley
-      Mike Hubbard
-    llm_text: Baldwin County Judge Clark Stankoski forced Sheriff Huey Mack to return a Camaro seized from a Bay Minette attorney's father. Understand how this local legal chaos connects to Attorney General Steve Marshall’s settlement and the 2024 election landscape.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T18:42:55.904050Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: b16cfbd440895c5f23b70a0c98dc0f7ebeb7cc14458d45e2b5c6492d13c83b34
     brief: |-
       THE CONFLICT:
       Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro illegally seized from the father of a Bay Minette Attorney (related to Marijuana sale).
@@ -203,112 +283,51 @@ hooks:
       Bob Wills
       Governor Ivey
     llm_text: Judge Clark Stankoski gave Sheriff Mack 43 days for an illegal Camaro return while Bay Minette fights a suit over OJ French Jr's death by BMPD Officer Thompson. See how these local legal battles shape Baldwin County now.
+    text: Judge Clark Stankoski gave Sheriff Mack a strict deadline to return a seized car. How do ongoing legal battles shape leadership in Baldwin County?
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T18:40:13.906357Z"
     model_name: plugsky-lite
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT:
-      - 2002: Guardian News removed a document related to a bin Laden letter.
-      - Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro seized from a father of a Bay Minette Attorney.
-      - Mobile PD killed a 16-year-old during a no-knock-pre-dawn-raid in Baldwin County related to marijuana sale.
-
-      THE DISCOVERY:
-      - May 27, 2022: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama.
-      - May 29, 2022: Danny Williams Jr's body was recovered.
-
-      THE PIVOT:
-      - None; Article 2 introduces a separate, unrelated investigation (Danny Williams Jr death) in Orange Beach, Alabama, distinct from the 2002 bin Laden letter removal or the Baldwin County Camaro seizure/police incident detailed in Article 1.
-
-      KEY ENTITIES:
-      - Guardian News
-      - Elon Musk
-      - ADL
-      - Donald Trump
-      - Clark Stankoski
-      - Huey Mack
-      - Bay Minette Attorney
-      - Mobile PD
-      - Mayor Stinson
-      - Mike Hubbard
-      - Governor Robert Bentley
-      - Steve Marshall
-      - Tom Albritton
-      - Regions Bank
-      - Thomas Daniel "Danny" Williams Jr
-      - Orange Beach, Alabama
-    llm_text: Orange Beach's Danny Williams Jr death connects to a different story than the 2002 Guardian News removal or the Mobile PD raid. See how these separate local events expose deeper community issues.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T18:40:20.937747Z"
-    model_name: plugsky-lite
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT:
-      * 2002: Guardian News removed a bin Laden letter document.
-      * Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a seized Camaro from a Bay Minette Attorney's father.
-      * Mobile PD killed a 16-year-old during a no-knock-pre-dawn-raid in Baldwin County related to Marijuana sale.
-      * Mabel Amos Memorial Scholarship Trust lawsuit reached settlement involving Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank.
-
-      THE DISCOVERY:
-      * Renaissance School in Baldwin County for special needs kids was robbed; inside job suspected, potentially shuttering the school.
-      * Sheriff Department of Baldwin County has a new Command Staff.
-
-      THE PIVOT:
-      * Article 2 provides a new, specific event (Renaissance School robbery) occurring in Baldwin County that connects to the general local governance and crime themes present in Article 1.
-
-      KEY ENTITIES:
-      * Baldwin County
-      * Clark Stankoski
-      * Huey Mack
-      * Bay Minette Attorney
-      * Mobile PD
-      * Steve Marshall
-      * Tom Albritton
-      * Regions Bank
-      * Renaissance School
-      * Sheriff Department of Baldwin County
-    llm_text: The Renaissance School robbery in Baldwin County threatens this special needs center. See how new Sheriff Department Command Staff tackles local issues, from Clark Stankoski's orders to Mobile PD raids.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T18:40:27.997714Z"
-    model_name: plugsky-lite
   the-180:
+    refined_source: 0aa9ee7181f7ce0eff7fab9724593e425c1f311fc5963234a705b37aa565d0a5
     brief: |-
       THE CONFLICT: Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro seized from the father of a Bay Minette Attorney.
       THE DISCOVERY: Sheriff Huey Mack has only one week left in office in Baldwin County, Alabama.
       THE PIVOT: Article 2 updates the status of Sheriff Mack from the 43-day deadline in Article 1 to his impending departure.
       KEY ENTITIES: Clark Stankoski, Huey Mack, Bay Minette Attorney, Baldwin County, Kamala Harris, Robert Bentley
     llm_text: Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return the seized Camaro; with Mack leaving office next week in Baldwin County, what happens to the case? Read how this deadline impacts the Bay Minette Attorney.
+    text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a seized Camaro in days. What happens to the case with Mack leaving office soon?
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T18:40:32.810790Z"
     model_name: plugsky-lite
-  sheriff-mack-out-oj-french-lawsuit-in:
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 3ca294e9e09b435b4582e63792eeaf7328032f69ee5ff89b1e4887ad0dac02f9
     brief: |-
       THE CONFLICT:
-      * Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro illegally seized from the father of a Bay Minette Attorney (time unspecified in Article 1).
-      * Mobile PD killed a 16 year old in a no-knock-pre-dawn-raid in Baldwin County (time unspecified in Article 1).
-      * Mabel Amos Memorial Scholarship Trust lawsuit involved Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank, and plaintiff's attorneys, leading to a settlement (time unspecified in Article 1).
+      Guardian News removed a document related to a 2002 bin Laden letter takedown.
+      Baldwin County Judge Clark Stankoski gave Sheriff Huey Mack 43 days to return a Camaro illegally seized from the father of a Bay Minette Attorney.
+      Mobile PD killed a 16-year-old in a no-knock-pre-dawn-raid related to Marijuana sale.
+      Attorney General Steve Marshall, Ethic Director Tom Albritton, Regions Bank, and plaintiff's attorneys reached a settlement in the Mabel Amos Memorial Scholarship Trust lawsuit.
 
       THE DISCOVERY:
-      * The family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
-      * OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a struggle over a taser because the officer allegedly lacked probable cause for the stop.
-      * Sheriff Huey Mack announced his resignation mid-July and intends to resign mid-August, with Chief Deputy Anthony Lowery being considered for appointment by Governor Ivey.
-      * County Commissioner Matt McKenzie is also interested in the Sheriff position.
+      Podcast No. 186 covers 2024 US Presidential election results, The Trump Cabinet 2.0, and Alabama issues including closing rural hospitals and proposed constitutional amendments.
 
       THE PIVOT:
-      * Article 2 provides specific dates (July 31, 2024) and detailed context (lawsuit specifics, officer actions, Sheriff's resignation) regarding the Bay Minette/Camaro case mentioned in Article 1, clarifying the ongoing legal and personnel shifts in Baldwin County.
+      The Widget Article provides a contemporary political and legal framework (2024 election, constitutional amendments) for the past and present local legal and political events detailed in the Main Article.
 
       KEY ENTITIES:
-      * OJ French Jr.
-      * Huey Mack (Sheriff)
-      * Clark Stankoski (Baldwin County Judge)
-      * Brandon Thompson (Bay Minette Police Officer)
-      * Mayor Robert Bob Wills
-      * Anthony Lowery (Chief Deputy)
-      * Governor Ivey
-      * Matt McKenzie (County Commissioner)
-      * Bay Minette City
-      * May Jung LLC
-    llm_text: OJ French Jr.'s family sued Bay Minette Police Officer Brandon Thompson over his death; Baldwin County Judge Clark Stankoski also pressured Sheriff Huey Mack over a seized Camaro. See how these high-profile cases shape Baldwin County's shifting leadership, including the Sheriff's open seat.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T18:40:41.825091Z"
-    model_name: plugsky-lite
+      Guardian News
+      Clark Stankoski (Baldwin County Judge)
+      Huey Mack (Sheriff)
+      Mayor Stinson
+      Donald Trump
+      Steve Marshall (Attorney General)
+      Tom Albritton (Ethic Director)
+      Speaker Ledbetter
+      Steve Lahto
+      Robert Bentley
+      Mike Hubbard
+    llm_text: Baldwin County Judge Clark Stankoski forced Sheriff Huey Mack to return a Camaro seized from a Bay Minette attorney's father. Understand how this local legal chaos connects to Attorney General Steve Marshall’s settlement and the 2024 election landscape.
+    text: Judge Clark Stankoski forced Sheriff Huey Mack to return a seized Camaro. How does that local legal chaos connect to Attorney General Steve Marshall?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T18:42:55.904050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

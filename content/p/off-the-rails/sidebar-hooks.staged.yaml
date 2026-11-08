@@ -1,0 +1,145 @@
+metadata:
+  generated_at: "2026-11-07T20:25:10.863807Z"
+  generator_version: 1.0.0
+  post_slug: off-the-rails
+  main_date: "2020-01-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bp-restore-act-application:
+    brief: "THE CONFLICT: \n- In April 2013 and October 2013, Mayor Tim Kant and the Fairhope City Council conspired to exclude the public from open meetings, violating public notice and open meeting rules.\n- The Mayor and Council authorized a lawsuit settlement (the Triangle Lawsuit involving the Corte family) costing the city a $3 million down payment on land (withdrawn from the utility fund and a separate bank loan), a $5.75 million debt, and $3 million in attorney fees paid to Hand-Arendall.\n- The city used a flawed \"Fly Creek Watershed Restoration Project\" study developed by Thompson Engineering as a vehicle to secure BP Restore Act funds to cover the settlement, omitting that major creek damage was caused by Arthur Corte’s development of the Shoppes at Fairhope Village.\n- Thompson Engineering previously designed a failed 3,200-foot steel boom at Perdido Pass (completed July 2010; cost ballooned from $4.6 million to $5.2 million) that lasted a week, threatened the bridge, stopped no oil, and was sold for scrap by Orange Beach.\n- Mayor Tim Kant, Senator Trip Pittman, and the city faced multiple investigations regarding BP fraud, and American Municipal Insurance Corporation sued the city and Mayor Kant personally for excessive attorney fees paid to Hand-Arendall.\n\nTHE DISCOVERY: \n- Article 2 (historical background) documents a long-standing pattern of backroom dealing, financial recklessness, and land acquisition scandals by Fairhope leadership. \n- It shows that using expensive land purchases for dubious or non-infrastructure purposes—funded via debt and utility funds without public input—is an established playbook by Fairhope officials dating back to the 2013 Triangle Lawsuit and Fly Creek project.\n- It exposes that the city has historically relied on questionable engineering studies by Thompson Engineering and covert council actions to bail out private land deals under the guise of public \"recreation\" or \"restoration.\"\n\nTHE PIVOT: \n- Article 2 provides the exact historical precedent and \"smoking gun\" context for the January 10, 2020 Main Article. \n- It shows that the current councilmen (Boone, Brown, and Burrell) spending $2.75 million on recreation land with zero community involvement—and then leasing it out for farming because they have no money for development while ignoring sewer infrastructure—is not an isolated incident. \n- It shows a decades-long systemic enterprise of fiscal irresponsibility, secret land acquisition, and neglect of critical infrastructure (sewers) in favor of questionable land schemes funded by public debt or outside grants.\n\nKEY ENTITIES: \n- Arthur Corte\n- Mayor Tim Kant\n- Senator Shelby\n- Senator Jeff Sessions\n- Congressman Bradley Byrne\n- Senator Trip Pittman\n- Thompson Engineering\n- Hand-Arendall (Attorneys)\n- American Municipal Insurance Corporation\n- Francis P. Ripp (The Ripp Report)\n- Fairhope City Council (specifically councilmen Boone, Brown, and Burrell referenced in the main article)"
+    llm_text: Mayor Tim Kant and the council hid the $11.75 million Triangle Lawsuit settlement behind fake restoration studies. Read how that 2013 corruption birthed today's secret land deals.
+    text: Mayor Tim Kant and the council hid the $11.75 million Triangle Lawsuit settlement behind fake restoration studies. Read how that 2013 corruption birthed today's secret land deals.
+    widget_date: "2014-04-08"
+    generated_at: "2026-11-07T20:23:34.985440Z"
+    model_name: gemini-3.5-flash-lite
+  malfunction-junction:
+    refined_source: af1e6e176780beb169225c7696a676feb295bad105f5e207daaace758440e1d1
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council prioritized developer support over infrastructure and public safety at Highway 98 and Parker Road.
+      *   Councilmen Boone Brown and Burrell, along with other councilmen, paid $2.75 million for recreation land, which was leased for farming instead of addressing ignored sewer infrastructure.
+
+      THE DISCOVERY:
+      *   The Catalyst City Council supported a developer who approved 48 apartment units on Parker Road.
+      *   This development would increase the neighborhood population from roughly 50 people (16 houses) to 500-700 people, generating an equivalent daily traffic impact of over 1000 cars at the intersection.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern (pre-2020 elections) where the City Council prioritized "good ole boy deals" and developer interests (apartment growth/traffic) over essential municipal needs (infrastructure, sewer repair, intersection safety), contextualizing the subsequent mismanagement and lack of prioritization cited in Article 1.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Boone Brown
+      *   Burrell
+      *   Highway 98
+      *   Parker Road
+      *   $2.75 million
+      *   BP funds
+      *   2020 Fairhope Municipal Elections (Aug. 25th)
+    llm_text: Councilmen Boone Brown and Burrell spent $2.75 million on farming land instead of fixing critical sewer infrastructure at Highway 98. A new 48-unit development will explode the Parker Road population from 50 to 700, guaranteeing massive traffic issues.
+    text: Fairhope leaders spent $2.75 million on farm land instead of fixing Highway 98 sewer lines. A new housing development will soon push local traffic to the breaking point.
+    widget_date: "2020-01-08"
+    generated_at: "2026-11-07T20:23:51.490340Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-16-the-jack-wilson-complex:
+    refined_source: 18f18e68de85daa5d0000d0449a93eac696f043785c0ad72ff8cca706189d459
+    brief: |-
+      THE CONFLICT: Past events detailed in Article 2 relate to THE JACK WILSON COMPLEX and involve Bob Wills, Mayor of Bay Minette. (Specific past conflict details, dates, and names are not provided for Article 2).
+      THE DISCOVERY: Article 2 provided background/historical context regarding The Jack Wilson Complex.
+      THE PIVOT: Article 2 serves as historical context for Article 1, which reports on Fairhope's current infrastructure issues, specifically a sewer spill on January 10, 2020.
+      KEY ENTITIES: Fairhope City Council, Boone Brown, Burrell, $2.75 million, BP funds, Mayor (of Fairhope, unnamed), Bob Wills (Mayor of Bay Minette).
+    llm_text: Fairhope needs $2.75 million to fix infrastructure after the January 2020 sewer spill. How does the history of the Jack Wilson Complex and Mayor Bob Wills connect to the city’s current repair crisis?
+    text: Fairhope needs $2.75 million to fix infrastructure after a sewer spill. How does the history of Mayor Bob Wills connect to this repair crisis?
+    widget_date: "2020-01-05"
+    generated_at: "2026-11-07T20:24:56.522838Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  rotten:
+    brief: |-
+      THE CONFLICT:
+      - January 10, 2020 — Fairhope’s City Council had another sewer spill.
+      - Fairhope’s City Council had no priorities, or if they did it was off the rails.
+      - Council slowed down infrastructure projects and misused city funds.
+      - Council described as rogue; conducted as criminal enterprise.
+      - Three councilmen — Boone Brown and Burrell — without community involvement or public participation paid $2.75 million for recreation land.
+      - Council had no money for development; solution was to lease the $2.75 million land for farming.
+      - Same three councilmen ignored sewer infrastructure for years.
+      - City staff and the mayor obtained BP funds; without them nothing would have been done.
+      - First time in 20+ years sewer infrastructure seriously addressed WITHOUT the help of the council.
+      - Recreation land for farming OR repair sewer infrastructure.
+
+      THE DISCOVERY (older Widget article):
+      - Baldwin County has its share of corrupt and inept elected officials.
+      - Two stood out: Sen. Elliott and Jack Burrell. Sen. Elliott came in second to Fairhope City Council President Jack Burrell, who operates as a criminal enterprise.
+      - The “appointed” city Attorney and Fairhope Municipal Judge could always depend on Burrell to carry their water.
+      - 2020 needs to be the last year for Burrell the Judge and the City Attorney.
+      - Fairhope deserves better.
+      - The Judge and Jack have a special bond; three years later and the Judge and Jack are at it again.
+      - Go back to May of 2016 on the Ripp Report — articles about Councilmen Burrell and the airport scam.
+      - Last 7 years Burrell has been council president — disgrace on all levels.
+      - In 2020, the people of Fairhope will finally recognize Burrell is a threat to their quality of life, property values, and a horrible example for children.
+      - “WAKE UP FAIRHOPE — VOTE OUT THE ENTIRE CITY COUNCIL IN 2020”
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 established Jack Burrell as Fairhope City Council President operating as a criminal enterprise — key context for Article 1’s “criminal enterprise” framing.
+      - Article 2’s May 2016 Ripp Report airport scam references predate the January 10, 2020 sewer spill article.
+      - Article 2’s 2020 call to vote out the entire city council sets up the timeline of Article 1.
+
+      KEY ENTITIES:
+      - Jack Burrell — Fairhope City Council President; head of City Council; operates as criminal enterprise; 2020 target to vote out.
+      - Boone Brown — councilman; involved in $2.75 million recreation land deal.
+      - Fairhope City Council — no priorities; sewer spill; slowed infrastructure; misused funds.
+      - Fairhope Municipal Judge — “appointed”; special bond with Burrell; referred to as “Burrell the Judge.”
+      - City Attorney — “appointed”; carried water for Burrell.
+      - Mayor — obtained BP funds for sewer.
+      - City staff — obtained BP funds for sewer.
+      - BP Funds — obtained by city staff and mayor; sewer infrastructure.
+      - Sen. Elliott — Baldwin County state senator; second-most infamous; paired with Burrell as worst.
+      - Baldwin County — corrupt and inept elected officials.
+      - Fairhope — sewer infrastructure; recreation land.
+      - Ripp Report — May 2016 articles on Councilmen Burrell and airport scam.
+      - Councilmen Burrell — airport scam context, May 2016.
+      - $2.75 million — recreation land purchase.
+      - Sewer spill — January 10, 2020.
+    llm_text: Fairhope’s Jack Burrell led a council with no priorities while a January 10, 2020 sewer spill piled up. Three councilmen spent $2.75 million on recreation land, ignored infrastructure, and left the mayor and staff to beg BP for help.
+    text: Fairhope’s Jack Burrell led a council with no priorities while a January 10, 2020 sewer spill piled up. Three councilmen spent $2.75 million on recreation land, ignored infrastructure, and left the mayor and staff to beg BP for help.
+    widget_date: "2020-01-03"
+    generated_at: "2026-11-07T20:23:46.078759Z"
+    model_name: recursive/flint-v1.0:free
+  triangle-roaches:
+    brief: "THE CONFLICT:\n- A multi-decade, 2+ decade legal battle over the Triangle property cost the City of Fairhope $13 million total, resulting in an $8.25 million legal settlement and $3 million in legal fees.\n- Attorney Cain Orear guaranteed the city would be refunded its legal fees in litigation, which never happened.\n- In February 2014, Councilman Ford added an unannounced item to a City Council agenda allowing Mayor Tim Kant to enter secret settlement talks over the Triangle lawsuit without public knowledge or community involvement.\n- In September 2014, Mayor Tim Kant announced the legal settlement, falsely spinning the acquisition to the community as a \"purchase\" for park land to cover up the lawsuit loss and legal fees.\n- Former Mayor Tim Kant fueled the lawsuit throughout his entire 16-year mayoral tenure, which involved 3 administrations and 4 lawsuits dating back to family inheritances in the 1980s.\n- Tim Kant favored developers over citizens regarding the Publix and Fly Creek Apartments projects, approving 230 apartments and over 100 condos/townhouses behind Publix, creating a severe traffic and parking crisis at Parker Road and Highway 98.\n- The Triangle property was stripped of all old-growth pines over 10 years ago, leaving logging roads, erosion, scrub oak, and low vegetation, making it a poor choice for recreation or conservation.\n\nTHE DISCOVERY:\n- The historical background reveals that the current council's actions mirror past political corruption regarding the Triangle property.\n- Documents obtained via FOIA requests exposed the February 2014 illegal, behind-closed-doors council meeting where the settlement talks were secretly authorized.\n- The \"purchase\" of the Triangle property for $2.75 million by councilmen Boone, Brown, and Burrell for recreation—which they now plan to lease for farming due to a lack of development funds—is a continuation of the historical deception surrounding the $8.25 million legal settlement.\n- The \"Triangle Conservancy\" has now formed, featuring Tim Kant—the very individual responsible for rigging elections, neglecting infrastructure, and fueling the original $13 million lawsuit—proving that the same political machine is still driving the agenda to obstruct development and manipulate public perception.\n\nTHE PIVOT:\n- Article 2 (the widget article) provides the historical blueprint proving that current City Council actions regarding the $2.75 million recreation land purchase/farming lease are part of a decades-long pattern of deception, secret backroom deals, and financial mismanagement established under former Mayor Tim Kant. \n- It exposes that the current council's handling of the Triangle property is a direct continuation of the 2014 $8.25 million legal settlement cover-up, proving the city leadership is repeating past corrupt behaviors.\n\nKEY ENTITIES:\n- Tim Kant (aka Can’t)\n- Boone (Councilman)\n- Brown (Councilman)\n- Burrell (Councilman)\n- Ford (Councilman)\n- Cain Orear (Attorney)\n- City of Fairhope\n- Triangle Conservancy\n- Publix\n- Fly Creek Apartments\n- Parker Road and Highway 98"
+    llm_text: Former Mayor Tim Kant and his cronies buried a $13 million legal disaster with secret backroom deals and outright lies about the Triangle property. Read the shocking historical blueprint exposing how today's City Council repeats this exact corruption.
+    text: Former Mayor Tim Kant and his cronies buried a $13 million legal disaster with secret backroom deals and outright lies about the Triangle property. Read the shocking historical blueprint exposing how today's City Council repeats this exact corruption.
+    widget_date: "2019-12-05"
+    generated_at: "2026-11-07T20:23:23.103003Z"
+    model_name: gemini-3.5-flash-lite
+  nail-in-the-coffin:
+    refined_source: 8463583ebfea8d91478500d8f4e4b0d3cfd84ea0e2a98d04bea6704c9e9ddeae
+    brief: |-
+      THE CONFLICT: Fairhope City Council lacked approved 2020 budget for 4 years; Council voted to extend FY2019 budget on Oct 29, 2019.
+      THE DISCOVERY: Council used $2,650,000.00 from Investment CD ($1,065,146.07), Prepay Debt Reserve ($700,285.37), and Impact Fees ($884,568.56) for 114 acres of recreation land.
+      THE PIVOT: The $2.65 million purchase (Article 2) directly delayed planned sewer/capital improvements, linking council inaction on infrastructure (Article 1) to misuse of funds.
+      KEY ENTITIES: Fairhope City Council, Boone Brown, Burrell, Mayor, BP funds, Jack Burrell, ?CATALYST
+    llm_text: Fairhope City Council spent $2.65M on 114 acres of land using reserves instead of funding vital sewer upgrades. See how this budget inaction delayed crucial infrastructure for Fairhope residents.
+    text: The Fairhope City Council spent $2.65 million in reserve funds on land instead of upgrading sewers. See how this bad budget delayed vital repairs for residents.
+    widget_date: "2019-10-30"
+    generated_at: "2026-11-07T20:23:24.803416Z"
+    model_name: plugsky-lite
+  watering-hole:
+    brief: "THE CONFLICT: \n- Three Fairhope councilmen (Boone, Brown, and Jack Burrell) spent $2.75 million on land for recreation without community involvement or public participation.\n- The council failed to develop the land and instead leased the $2.75 million recreation property out for farming.\n- The council ignored Fairhope's sewer infrastructure for years, resulting in sewer spills, while city staff and the mayor had to secure BP funds to address the issue.\n- Bar owner Ronan McSharry accumulated multiple arrests, convictions, and probation status, yet repeatedly \"walked\" free due to connections with local officials.\n- Council President Jack Burrell possessed an undisclosed police report prior to his election and maintained a close friendship with McSharry (including having a sandwich named after him at McSharry's bar).\n\nTHE DISCOVERY: \n- Article 2 (the older widget article, \"WATERING HOLE\") revealed that McSharry’s bar served as the hangout for local judges, attorneys, and Council President Jack Burrell. \n- It exposed a network of \"good ole boys\" where politicians and members of the judiciary drank publicly with McSharry and maintained his back despite his multiple arrests and probation status.\n- It highlighted a system of quid pro quo deals and conflicts of interest involving Municipal, District, and Circuit Court figures in Baldwin County, eliminating any expectation of a fair trial.\n\nTHE PIVOT: \n- Article 2 acts as the smoking gun because it exposes the underlying culture of corruption, conflicts of interest, and \"quid pro quo\" protection networks among Fairhope's leadership (specifically Council President Jack Burrell and the judiciary). \n- This explains *how* the councilmen profiled in Article 1 operate with impunity—acting like an unchecked \"criminal enterprise\" that misuses city funds, ignores critical sewer infrastructure, and escapes accountability.\n\nKEY ENTITIES: \n- Ronan McSharry (Bar owner)\n- Jack Burrell (Council President)\n- Boone (Councilman)\n- Brown (Councilman)\n- McSharry’s (Bar/Watering Hole)\n- Fairhope City Council\n- Baldwin County Courts (Municipal, District, and Circuit Court)"
+    llm_text: Fairhope Council President Jack Burrell and his allies wasted $2.75 million on idle farmland while ignoring failing sewers. Read how Burrell’s cozy tavern ties to local judges shield connected criminals like bar owner Ronan McSharry, proving this good-old-boy network operates with total impunity.
+    text: Fairhope Council President Jack Burrell and his allies wasted $2.75 million on idle farmland while ignoring failing sewers. Read how Burrell’s cozy tavern ties to local judges shield connected criminals like bar owner Ronan McSharry, proving this good-old-boy network operates with total impunity.
+    widget_date: "2019-10-25"
+    generated_at: "2026-11-07T20:23:28.245352Z"
+    model_name: gemini-3.5-flash-lite
+  going-down:
+    refined_source: 2d6beba54970b09ec425e9d0054dfbff5c09e3cc8f4efcf62e076b5b5c04f185
+    brief: |-
+      THE CONFLICT: Baldwin County has regular sewer spills, often ending in the Bay; Baldwin County lacks existing sewer regulations.
+      THE DISCOVERY: Three councilmen (Boone Brown, Burrell) spent $2.75 million on recreation land instead of addressing ignored sewer infrastructure needs.
+      THE PIVOT: Article 2 establishes the existing, unaddressed, critical sewer problem in Baldwin County, providing context for the Main Article's claim that councilmen ignored infrastructure for recreational land spending.
+      KEY ENTITIES: Fairhope, Baldwin County, Boone Brown, Burrell, City Council, Mayor, BP funds, Catalyst Council, Rock Creek
+    llm_text: Baldwin County faces regular sewer spills into the Bay but lacks regulations. Councilmen Boone Brown and Burrell spent $2.75M on recreation land instead of fixing this critical infrastructure issue.
+    text: Baldwin County lets raw sewage spill into the Bay without proper rules. Councilmen Boone Brown and Burrell spent $2.75 million on land instead of fixing pipes.
+    widget_date: "2019-10-18"
+    generated_at: "2026-11-07T20:23:31.657198Z"
+    model_name: plugsky-lite

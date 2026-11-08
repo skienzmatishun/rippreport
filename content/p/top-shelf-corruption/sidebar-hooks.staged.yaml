@@ -5,7 +5,81 @@ metadata:
   main_date: "2022-07-09"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  pot-calling-the-kettle-black:
+    refined_source: 0630fda9ce57469281daaa8b9168f9dcabd779a62e20d0295e2f08a1c6346a67
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000 from B.P. money while acting as a trustee; Baldwin County lost millions due to Pittman's actions.
+      THE DISCOVERY: Tom Albritton, Executive Director of the Alabama Ethics Commission (confirmed March 2015), oversaw a private charitable trust that paid his children $15,000 scholarships in 2015, totaling $105,000 between 2014 and 2018.
+      THE PIVOT: Article 2 establishes historical evidence of high-level political financial corruption (Pittman) and details Albritton's specific financial conflict of interest via the trust, which Article 1 highlights as being ignored by the Ethics Commission, Alabama Bar, and Attorney General Steve Marshall regarding McCallum's transgressions.
+      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Regions Bank, Alabama Ethics Commission, Tripp Pittman, B.P.
+    llm_text: Former Senator Tripp Pittman stole $750,000 from B.P. while a trustee, costing Baldwin County millions through high-level financial corruption. How did Tom Albritton, who oversaw the Alabama Ethics Commission, pay his children $105,000 in private scholarships?
+    text: Former Senator Tripp Pittman took $750,000 from BP while serving as a trustee, costing Baldwin County millions through financial corruption. How did Ethics Director Tom Albritton hand his own children $105,000 in private scholarships without facing charges?
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-06T22:33:11.200449Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  perfect-puzzle:
+    refined_source: faa623a74f45ba5475aa467b25202bf0fa3ca70d7144c59de22940ce1f7daae9
+    brief: |-
+      THE CONFLICT: Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. Between 2014 and 2018, Albritton's children received $105,000 in scholarships from a charitable trust.
+      THE DISCOVERY: Article 2 revealed that the media failed to report on Albritton's children's college tuition paid from a charitable trust, a story that originated from a UA investigation.
+      THE PIVOT: Article 2 establishes the pattern of Albritton's conflict of interest and the systemic media/agency cover-up prior to Article 1, which details the subsequent official approval by Steve Marshall (AG) of an administrative resolution for McCallum, thereby allowing Marshall to punt on a criminal investigation.
+      KEY ENTITIES: Steve Marshall (Attorney General), McCallum, Tom Albritton (Ethics Commission Executive Director), Alabama Ethics Commission, Regions Bank, UA Board of Trustees, Judge Johnny Hardwick.
+    llm_text: Tom Albritton's children received $105,000 in scholarships while he led the Alabama Ethics Commission. Read how this conflict of interest became a systemic cover-up, allowing AG Steve Marshall to punt a criminal investigation.
+    text: Tom Albritton gave his children $105,000 in scholarships while leading the Alabama Ethics Commission. This clear conflict of interest turned into a systemic cover-up that let Attorney General Steve Marshall dodge a criminal investigation.
+    widget_date: "2021-12-08"
+    generated_at: "2026-11-06T22:32:04.664070Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-update:
+    refined_source: 1a3b729c9f361d691e948819a4c85ee85324e894ea44c4541eca74bbff95ac68
+    brief: |-
+      THE CONFLICT: Tom Albritton engaged in "self Dealing" of the Mabel Amos Memorial Fund while serving as a trustee.
+      THE DISCOVERY: Albritton was confirmed as Ethics Commission Executive Director in March 2015; between 2014 and 2018, his children received $105,000 in scholarships from the trust (per 990 records).
+      THE PIVOT: Francis Paul Ripp filed a Writ of Mandamus on October 18th, challenging Albritton's actions; despite this legal action, the Ethics Commission and Attorney General Steve Marshall granted Albritton a pass, failing to impose discipline.
+      KEY ENTITIES: Tom Albritton, Francis Paul Ripp, Steve Marshall, Ethics Commission, Regions Bank, Mabel Amos Memorial Fund, McCallum.
+    llm_text: Tom Albritton funneled $105,000 from the Mabel Amos Memorial Fund into scholarships for his children. Francis Paul Ripp challenged this self-dealing, but Steve Marshall and the Ethics Commission granted Albritton a pass.
+    text: Tom Albritton funneled $105,000 from the Mabel Amos Memorial Fund into scholarships for his own children. Francis Paul Ripp challenged this self-dealing, but Steve Marshall and the Ethics Commission granted Albritton immunity.
+    widget_date: "2021-10-26"
+    generated_at: "2026-11-06T22:29:41.437892Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  this-is-a-test:
+    refined_source: 1f2cb0cfa0ac30e9e45b5c27075361e489e56bd58a868513d9221b78bb46b7fa
+    brief: |-
+      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission (confirmed March 2015), and trustees of the Mabel Amos Memorial Fund engaged in "Self Dealing," enriching themselves via public positions (2014-2017).
+      THE DISCOVERY: Albritton's children received over $120,000 in scholarships from the trust; Covington County Circuit Court Judge Ben Bowden received $45,000 from the trust; Regions Bank benefited $1 million.
+      THE PIVOT: Article 2 establishes Albritton's history of self-dealing via the Mabel Amos Trust, providing context for Article 1 where he receives a "pass" from the Ethics Commission, State Bar, and Attorney General Steve Marshall, despite documented past corruption.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund/Trust, Steve Marshall (Attorney General), McCallum, Ethics Commission, State Bar, Regions Bank, Ben Bowden (Covington County Circuit Court Judge)
+    llm_text: Tom Albritton used the Mabel Amos Trust to enrich himself, giving his children over $120,000 and Judge Ben Bowden $45,000. Despite documented self-dealing, Albritton still received a "pass" from the Ethics Commission and AG Steve Marshall.
+    text: Tom Albritton used the Mabel Amos Trust to enrich his family by $120,000 and Judge Ben Bowden by $45,000. Despite documented self-dealing, the Ethics Commission and Attorney General Steve Marshall gave Albritton a complete pass.
+    widget_date: "2021-10-22"
+    generated_at: "2026-11-06T22:34:17.431513Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ugly:
+    refined_source: f9a0f1a8041974b9d46005e35c218f96d95b1f1c9807e8d1377960b54844117a
+    brief: |-
+      THE CONFLICT: Allegations of white collar crime and political corruption involving the Mabel Amos Memorial Trust, Regions Bank, Tom Albritton, and related lawyers/judges; oversight agencies (Ethics Commission, Judiciary, Bar Association, Attorney General) initially ignored these allegations.
+      THE DISCOVERY: Article 2 revealed that the Mabel Amos Memorial Trust, held at Regions Bank, was linked to the Ethics Director (Tom Albritton), lawyers, and a circuit court Judge, suggesting potential federal charges like money laundering or tax evasion.
+      THE PIVOT: Article 2 established the initial, unaddressed allegations against Tom Albritton; Article 1 demonstrates the resulting impunity, showing Steve Marshall (AG) approved an administrative resolution for McCallum and that Albritton received zero punishment from the Ethics Commission, State Bar, or AG, despite the documented trust and scholarship issues.
+      KEY ENTITIES: Steve Marshall (Attorney General), McCallum, Tom Albritton (Executive Director, confirmed March 2015), Regions Bank, Ethics Commission, State Bar, Mabel Amos Memorial Trust, Tommy Gallion, Leigh Manning.
+      KEY FACTS: Albritton received $105,000 in scholarships for his children (2014-2018) from the trust’s 990 records; Marshall approved an administrative resolution regarding McCallum, resulting in fines but no criminal investigation.
+    llm_text: Ethics Director Tom Albritton used the Mabel Amos Memorial Trust at Regions Bank to fund $105k in scholarships for his children. Despite corruption claims, Albritton received zero punishment while AG Steve Marshall approved resolutions for others.
+    text: Ethics Director Tom Albritton used the Mabel Amos Memorial Trust to fund $105,000 in scholarships for his own children. While corruption claims piled up, Attorney General Steve Marshall approved resolutions for others and left Albritton completely unpunished.
+    widget_date: "2021-09-10"
+    generated_at: "2026-11-06T22:35:21.795859Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  portables-and-prisons:
+    refined_source: 67048e6c4525a9fc77a3238882758edbe379cad4da5e946a46dc8804f0db83e2
+    brief: |-
+      THE CONFLICT: PCI pumped $4.5 million in campaign contributions into Alabama politics since 2013. Senator Elliott received $27,000 from PCI to secure election. The state lottery funds paid off general fund debt dating back to 2013, not education.
+      THE DISCOVERY: Alabama politics is controlled by lobbyists and special interests (PCI, Business Council of Alabama), prioritizing gaming monopoly expansion over education funding.
+      THE PIVOT: Article 2 establishes the historical pattern of political capture by wealthy entities (PCI) since 2013, demonstrating a systemic financial incentive for corruption, which provides the context for subsequent ethical failures involving Marshall, McCallum, and Albritton.
+      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Alabama Ethics Commission, Alabama Bar, Regions Bank, PCI (Poarch Creek Indians), Business Council of Alabama, Senator Elliott.
+    llm_text: PCI pumped $4.5 million into Alabama politics, helping Senator Elliott secure his election with $27,000. Instead of funding education, state lottery funds paid off old debt, proving wealthy interests control state decisions.
+    text: Political committees pumped $4.5 million into Alabama elections to help Senator Chris Elliott secure his seat with $27,000. State lottery funds paid off old debt instead of funding public schools, proving wealthy interests control state decisions.
+    widget_date: "2019-05-08"
+    generated_at: "2026-11-06T22:36:27.773584Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   dirty-underwear:
+    refined_source: b35aecf995f4db1ea0d0de0a877dec9aa38743ee8d9487be04c15bf86b8ad0f7
     brief: |-
       THE CONFLICT:
       *   McCallum was fined $100,000 by the Alabama Ethics Commission for violations.
@@ -29,10 +103,12 @@ hooks:
       *   Alabama Bar
       *   Regions Bank
     llm_text: McCallum faced a $100,000 fine, yet Tom Albritton, Ethics Commission Director, used trust funds for his children ($105k). See how Steve Marshall approved no criminal charges for McCallum while Albritton remains unpunished for self-dealing.
+    text: McCallum faced a heavy $100,000 fine while Ethics Commission Director Tom Albritton used trust funds for his own children. Attorney General Steve Marshall approved no criminal charges for McCallum while Albritton remains safe from self-dealing penalties.
     widget_date: "2022-07-01"
     generated_at: "2026-11-06T22:28:34.705462Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-2:
+    refined_source: 56c50fecb66e9f53fa77e5caa13c9005f4346215994e8a4812aaaa80d5688213
     brief: |-
       THE CONFLICT: Infrastructure problems in Fairhope resulted from neglect during the Tim Kant administration (2000 to 2016). The council during the Wilson administration (2016/2020) later denied needed infrastructure projects, deemed politically motivated.
 
@@ -55,67 +131,7 @@ hooks:
       Fairhope
       University of Texas
     llm_text: Fairhope’s infrastructure neglect, costing over $3 billion in debt, started under Tim Kant. This local self-dealing, involving CATALYST and developers, links directly to state corruption where Tom Albritton evaded the Ethics Commission.
+    text: Fairhope infrastructure neglect built over $3 billion in debt under Tim Kant. This local self-dealing involving CATALYST links directly to state corruption where Tom Albritton avoided the Ethics Commission.
     widget_date: "2022-06-29"
     generated_at: "2026-11-06T22:31:01.126213Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pot-calling-the-kettle-black:
-    brief: |-
-      THE CONFLICT: Former State Senator Tripp Pittman took $750,000 from B.P. money while acting as a trustee; Baldwin County lost millions due to Pittman's actions.
-      THE DISCOVERY: Tom Albritton, Executive Director of the Alabama Ethics Commission (confirmed March 2015), oversaw a private charitable trust that paid his children $15,000 scholarships in 2015, totaling $105,000 between 2014 and 2018.
-      THE PIVOT: Article 2 establishes historical evidence of high-level political financial corruption (Pittman) and details Albritton's specific financial conflict of interest via the trust, which Article 1 highlights as being ignored by the Ethics Commission, Alabama Bar, and Attorney General Steve Marshall regarding McCallum's transgressions.
-      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Regions Bank, Alabama Ethics Commission, Tripp Pittman, B.P.
-    llm_text: Former Senator Tripp Pittman stole $750,000 from B.P. while a trustee, costing Baldwin County millions through high-level financial corruption. How did Tom Albritton, who oversaw the Alabama Ethics Commission, pay his children $105,000 in private scholarships?
-    widget_date: "2022-02-19"
-    generated_at: "2026-11-06T22:33:11.200449Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  perfect-puzzle:
-    brief: |-
-      THE CONFLICT: Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. Between 2014 and 2018, Albritton's children received $105,000 in scholarships from a charitable trust.
-      THE DISCOVERY: Article 2 revealed that the media failed to report on Albritton's children's college tuition paid from a charitable trust, a story that originated from a UA investigation.
-      THE PIVOT: Article 2 establishes the pattern of Albritton's conflict of interest and the systemic media/agency cover-up prior to Article 1, which details the subsequent official approval by Steve Marshall (AG) of an administrative resolution for McCallum, thereby allowing Marshall to punt on a criminal investigation.
-      KEY ENTITIES: Steve Marshall (Attorney General), McCallum, Tom Albritton (Ethics Commission Executive Director), Alabama Ethics Commission, Regions Bank, UA Board of Trustees, Judge Johnny Hardwick.
-    llm_text: Tom Albritton's children received $105,000 in scholarships while he led the Alabama Ethics Commission. Discover how this conflict of interest became a systemic cover-up, allowing AG Steve Marshall to punt a criminal investigation.
-    widget_date: "2021-12-08"
-    generated_at: "2026-11-06T22:32:04.664070Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  writ-of-mandamus-update:
-    brief: |-
-      THE CONFLICT: Tom Albritton engaged in "self Dealing" of the Mabel Amos Memorial Fund while serving as a trustee.
-      THE DISCOVERY: Albritton was confirmed as Ethics Commission Executive Director in March 2015; between 2014 and 2018, his children received $105,000 in scholarships from the trust (per 990 records).
-      THE PIVOT: Francis Paul Ripp filed a Writ of Mandamus on October 18th, challenging Albritton's actions; despite this legal action, the Ethics Commission and Attorney General Steve Marshall granted Albritton a pass, failing to impose discipline.
-      KEY ENTITIES: Tom Albritton, Francis Paul Ripp, Steve Marshall, Ethics Commission, Regions Bank, Mabel Amos Memorial Fund, McCallum.
-    llm_text: Tom Albritton funneled $105,000 from the Mabel Amos Memorial Fund into scholarships for his children. Francis Paul Ripp challenged this self-dealing, but Steve Marshall and the Ethics Commission granted Albritton a pass.
-    widget_date: "2021-10-26"
-    generated_at: "2026-11-06T22:29:41.437892Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  this-is-a-test:
-    brief: |-
-      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission (confirmed March 2015), and trustees of the Mabel Amos Memorial Fund engaged in "Self Dealing," enriching themselves via public positions (2014-2017).
-      THE DISCOVERY: Albritton's children received over $120,000 in scholarships from the trust; Covington County Circuit Court Judge Ben Bowden received $45,000 from the trust; Regions Bank benefited $1 million.
-      THE PIVOT: Article 2 establishes Albritton's history of self-dealing via the Mabel Amos Trust, providing context for Article 1 where he receives a "pass" from the Ethics Commission, State Bar, and Attorney General Steve Marshall, despite documented past corruption.
-      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund/Trust, Steve Marshall (Attorney General), McCallum, Ethics Commission, State Bar, Regions Bank, Ben Bowden (Covington County Circuit Court Judge)
-    llm_text: Tom Albritton used the Mabel Amos Trust to enrich himself, giving his children over $120,000 and Judge Ben Bowden $45,000. Despite documented self-dealing, Albritton still received a "pass" from the Ethics Commission and AG Steve Marshall.
-    widget_date: "2021-10-22"
-    generated_at: "2026-11-06T22:34:17.431513Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ugly:
-    brief: |-
-      THE CONFLICT: Allegations of white collar crime and political corruption involving the Mabel Amos Memorial Trust, Regions Bank, Tom Albritton, and related lawyers/judges; oversight agencies (Ethics Commission, Judiciary, Bar Association, Attorney General) initially ignored these allegations.
-      THE DISCOVERY: Article 2 revealed that the Mabel Amos Memorial Trust, held at Regions Bank, was linked to the Ethics Director (Tom Albritton), lawyers, and a circuit court Judge, suggesting potential federal charges like money laundering or tax evasion.
-      THE PIVOT: Article 2 established the initial, unaddressed allegations against Tom Albritton; Article 1 demonstrates the resulting impunity, showing Steve Marshall (AG) approved an administrative resolution for McCallum and that Albritton received zero punishment from the Ethics Commission, State Bar, or AG, despite the documented trust and scholarship issues.
-      KEY ENTITIES: Steve Marshall (Attorney General), McCallum, Tom Albritton (Executive Director, confirmed March 2015), Regions Bank, Ethics Commission, State Bar, Mabel Amos Memorial Trust, Tommy Gallion, Leigh Manning.
-      KEY FACTS: Albritton received $105,000 in scholarships for his children (2014-2018) from the trust’s 990 records; Marshall approved an administrative resolution regarding McCallum, resulting in fines but no criminal investigation.
-    llm_text: Ethics Director Tom Albritton allegedly used the Mabel Amos Memorial Trust at Regions Bank to fund $105k in scholarships for his children. Despite corruption claims, Albritton received zero punishment while AG Steve Marshall approved resolutions for others.
-    widget_date: "2021-09-10"
-    generated_at: "2026-11-06T22:35:21.795859Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  portables-and-prisons:
-    brief: |-
-      THE CONFLICT: PCI pumped $4.5 million in campaign contributions into Alabama politics since 2013. Senator Elliott received $27,000 from PCI to secure election. The state lottery funds paid off general fund debt dating back to 2013, not education.
-      THE DISCOVERY: Alabama politics is controlled by lobbyists and special interests (PCI, Business Council of Alabama), prioritizing gaming monopoly expansion over education funding.
-      THE PIVOT: Article 2 establishes the historical pattern of political capture by wealthy entities (PCI) since 2013, demonstrating a systemic financial incentive for corruption, which provides the context for subsequent ethical failures involving Marshall, McCallum, and Albritton.
-      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Alabama Ethics Commission, Alabama Bar, Regions Bank, PCI (Poarch Creek Indians), Business Council of Alabama, Senator Elliott.
-    llm_text: PCI pumped $4.5 million into Alabama politics, helping Senator Elliott secure his election with $27,000. Instead of funding education, state lottery funds paid off old debt, proving wealthy interests control state decisions.
-    widget_date: "2019-05-08"
-    generated_at: "2026-11-06T22:36:27.773584Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

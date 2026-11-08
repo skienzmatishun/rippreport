@@ -5,27 +5,44 @@ metadata:
   main_date: "2023-09-17"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  howell-gibbens:
+    refined_source: 8d9e75258bdf6668b0ef2b3f3bfe35bca039a44185d8e24c02e00edf346a8ec9
+    brief: |-
+      THE CONFLICT: Howell Gibbens ran for City Council Place 4; his opponent was Robert Brown.
+      THE DISCOVERY: Article 2 revealed Brown used his office for personal gain, supporting Fly Creek Apartments and developer Angelo Corte, and faced Ethics and Attorney General complaints related to city contracts.
+      THE PIVOT: Article 2 establishes Brown's history of prioritizing developer/personal gain over constituents, directly contrasting with Article 1's claims that current council (including Kevin Boone) is "100% pro development" and supported by developers.
+      KEY ENTITIES: Howell Gibbens, Robert Brown, Kevin Boone, Mayor Sherry Sullivan, Angelo Corte, Cory the Crier, Nancy Lewis, Fauxhope, First Baptist Church.
+    llm_text: Robert Brown used his City Council office for personal gain, backing Angelo Corte's Fly Creek Apartments. See how Brown prioritized developers over constituents, a stark contrast to the current council's claims.
+    text: Robert Brown used his City Council office to back Angelo Corte's Fly Creek Apartments. Brown put developers ahead of the citizens who elected him.
+    widget_date: "2020-08-10"
+    generated_at: "2026-11-06T19:00:50.560530Z"
+    model_name: plugsky-lite
   boss-sheriff:
+    refined_source: 970543c0af223789ae9e11409978be6b8de29e90121a44e04236c7c03a940c93
     brief: |-
       THE CONFLICT: Baldwin County Sheriff Hoss Mack established a pattern of local power where the District Attorney took orders from the "Boss" Mack, and most Judges were put in office by Mack. (Article 2 is older/historical context.)
       THE DISCOVERY: The Baldwin Sheriff Office exhibited a pattern of bad behavior leading to FBI notification regarding citizen concerns.
       THE PIVOT: The established pattern of centralized, powerful control (Hoss Mack's influence over judges/DA) mirrors the current Fauxhope "good ole boy politics" involving Mayor Sherry Sullivan and Councilman Kevin Boone, specifically regarding the control over the Fauxhope Municipal Judge and infrastructure priorities.
       KEY ENTITIES: Hoss Mack, Baldwin County Sheriff Office (BCSO), Mayor Sherry Sullivan, Councilman Kevin Boone, Fauxhope Municipal Judges, Nancy Lewis, First Baptist Church.
     llm_text: Hoss Mack controlled Baldwin County power, influencing DAs and judges. Today, Mayor Sherry Sullivan and Councilman Kevin Boone show similar "good ole boy politics" controlling Fauxhope's Municipal Judge and infrastructure.
+    text: Hoss Mack controlled Baldwin County power and influenced local judges and prosecutors. Mayor Sherry Sullivan and Councilman Kevin Boone now use that same political playbook.
     widget_date: "2023-09-09"
     generated_at: "2026-11-06T19:01:05.206385Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-crier:
+    refined_source: 0e6f27fa82db977747f143d27c203fff7c094619d9dfef5ca6c937ec0b18f938
     brief: |-
       THE CONFLICT: Fauxhope government (Mayor, Council, Municipal Judge, Municipal Attorney) has historically been supported 100% by special interests and developers, resulting in long-term neglect of water and infrastructure issues for 20 to 30 years.
       THE DISCOVERY: Article 2 showed that infrastructure development (e.g., ALDI water line, Municipal Judges project) has been prioritized for commercial projects and that the city has historically ignored or restricted non-resident African American residents.
       THE PIVOT: Article 2 establishes that the prioritization of development over public need and infrastructure neglect is a 20-30 year pattern, not a recent issue, providing historical context for Article 1's discussion of current demolition (Nancy Lewis's home) and development-focused ordinances.
       KEY ENTITIES: Mayor Sherry Sullivan, Councilman Kevin Boone (developer), Cory Martin, Nancy Lewis, Fauxhope City Council, Municipal Judge, Utility Director.
     llm_text: Mayor Sherry Sullivan and Councilman Kevin Boone allowed Fauxhope to neglect water infrastructure for 30 years, prioritizing commercial projects like the ALDI water line. This pattern ignored non-resident African American residents, directly impacting homes like Nancy Lewis's.
+    text: Mayor Sherry Sullivan and Councilman Kevin Boone neglected water infrastructure for 30 years. They favored commercial projects like the ALDI water line while ignoring African American neighborhoods.
     widget_date: "2023-09-05"
     generated_at: "2026-11-06T19:01:51.311551Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bull:
+    refined_source: af34a602585f61992bce15faa7fba2a76acb3bd8822e5d5927ef2adfea68b1ca
     brief: |-
       THE CONFLICT:
       *   Fairhope politics involve a history of "good ole boy" control over city government (Mayor/Utility Director, City Council, City Attorney, Municipal Judge).
@@ -51,10 +68,12 @@ hooks:
       *   First Baptist Church
       *   Fauxhope Municipal Judges east side project
     llm_text: Mayor Karen Wilson limited "good ole boy" cronyism and pushed sewer upgrades, refusing $60k. Now, Mayor Sherry Sullivan and Councilman Kevin Boone prioritize development like the Fauxhope Municipal Judges project, risking historic preservation like Nancy Lewis's demolished home.
+    text: Mayor Karen Wilson limited cronyism and pushed sewer upgrades while refusing extra pay. Mayor Sherry Sullivan and Councilman Kevin Boone now prioritize developer projects over historic preservation.
     widget_date: "2023-08-09"
     generated_at: "2026-11-06T19:03:10.791915Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   all-mouth:
+    refined_source: 90eb10c9a51776a206fffcf5c3f6a6467972891eab0cd33ecbef2ea13c12cb7f
     brief: |-
       THE CONFLICT:
       - 2013: City planned new sewer plant for approximately $20 million.
@@ -80,6 +99,7 @@ hooks:
       - North end of Church Street
       - Gayfer Road roundabout
     llm_text: Mayor Sherry Sullivan pushed for a $100K+ salary by grabbing the Utilities Superintendent role, following past $12M sewer overruns. See how city leaders prioritize development over fixing Fairhope's strained infrastructure.
+    text: Mayor Sherry Sullivan grabbed the Utilities Superintendent role to push for a higher salary after past sewer overruns. City leaders prioritized development over fixing strained infrastructure.
     widget_date: "2023-05-25"
     generated_at: "2026-11-06T19:00:32.923082Z"
     model_name: plugsky-lite
@@ -129,36 +149,31 @@ hooks:
       - City Attorney
       - Municipal Judge
     llm_text: Mayor Sherry Sullivan's Fauxhope council rubber-stamped developer Haymes Snedeker's judicial appointment without public debate, even as historic preservation burns through their pro-development agenda. The good ol' boys handed developers total control.
+    text: Mayor Sherry Sullivan's Fauxhope council rubber-stamped developer Haymes Snedeker's judicial appointment without public debate, even as historic preservation burns through their pro-development agenda. The good ol' boys handed developers total control.
     widget_date: "2023-05-23"
     generated_at: "2026-11-06T19:01:14.220146Z"
     model_name: recursive/flint-v1.0:free
   fauxhope-tunnel:
+    refined_source: 48428343bf55293ba2b78941247ca27e7dd191c3bbb4621e010ee2b8b115da6b
     brief: |-
       THE CONFLICT: Fauxhope lost a two-decade lawsuit related to "the triangle," costing the city $8.25 million plus $3 million in legal fees.
       THE DISCOVERY: Article 2 reveals prior council actions, including support from Burrell and Boone, in the lost lawsuit; it also shows the city was willing to give away 102 acres of the triangle (valued at $20 million) via conservation easement on May 29th.
       THE PIVOT: Article 2 establishes the historical pattern of council/developer alignment (e.g., Burrell/Boone supporting the lost lawsuit) that predates and informs the current pro-development stance detailed in Article 1 (e.g., Councilman Kevin Boone being a developer).
       KEY ENTITIES: Mayor Sherry Sullivan, Councilman Kevin Boone, Burrell, Boone, Nancy Lewis, Cory the Crier, Scott Hutchinson, Triangle (102 acres), Municipal Judge, First Baptist Church, Mayor Can't
     llm_text: Council members Burrell and Boone backed Fauxhope's $11.25M loss over the Triangle, yet the city offered 102 acres for $20M. See how this past alignment informs today's pro-development push.
+    text: Council members Burrell and Boone backed Fairhope's $11.25M loss over the Triangle property. The city later offered 102 acres for $20M, continuing a long pro-development push.
     widget_date: "2023-05-09"
     generated_at: "2026-11-06T19:00:39.091606Z"
     model_name: plugsky-lite
   mouthpiece:
+    refined_source: f9866069d4fbcf092645679a6c0ff83aec8c496b74eb1523130577ed512b79dd
     brief: |-
       THE CONFLICT: Jack Burrell was on the council for 10 years, promising no federal money and no tolls regarding the Toll Bridge/Bayway project.
       THE DISCOVERY: Article 2 revealed Jack Burrell supported tolls and increased county population growth via the Toll Bridge/Bayway project due to infrastructure failures.
       THE PIVOT: Article 2 establishes a pattern of broken promises (no tolls/no federal money) by Burrell, setting a precedent of prioritizing development/infrastructure fixes (like tolls) over constituent needs, which mirrors the development focus and historic demolition criticized in Article 1.
       KEY ENTITIES: Jack Burrell, Toll Bridge, Fauxhope, Mayor Sherry Sullivan, Councilman Kevin Boone, Nancy Lewis, First Baptist Church
     llm_text: Jack Burrell promised no tolls on the Toll Bridge, yet Article 2 reveals he backed tolls for Fauxhope. See how his broken promises clash with community needs, mirroring past development issues.
+    text: Jack Burrell promised no tolls on the bridge, but records show he backed them for Fairhope. His broken promises clash with basic community needs.
     widget_date: "2022-08-20"
     generated_at: "2026-11-06T19:00:44.621192Z"
-    model_name: plugsky-lite
-  howell-gibbens:
-    brief: |-
-      THE CONFLICT: Howell Gibbens ran for City Council Place 4; his opponent was Robert Brown.
-      THE DISCOVERY: Article 2 revealed Brown used his office for personal gain, supporting Fly Creek Apartments and developer Angelo Corte, and faced Ethics and Attorney General complaints related to city contracts.
-      THE PIVOT: Article 2 establishes Brown's history of prioritizing developer/personal gain over constituents, directly contrasting with Article 1's claims that current council (including Kevin Boone) is "100% pro development" and supported by developers.
-      KEY ENTITIES: Howell Gibbens, Robert Brown, Kevin Boone, Mayor Sherry Sullivan, Angelo Corte, Cory the Crier, Nancy Lewis, Fauxhope, First Baptist Church.
-    llm_text: Robert Brown used his City Council office for personal gain, backing Angelo Corte's Fly Creek Apartments. See how Brown prioritized developers over constituents, a stark contrast to the current council's claims.
-    widget_date: "2020-08-10"
-    generated_at: "2026-11-06T19:00:50.560530Z"
     model_name: plugsky-lite

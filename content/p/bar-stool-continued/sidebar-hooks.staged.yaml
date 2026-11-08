@@ -1,0 +1,205 @@
+metadata:
+  generated_at: "2026-11-07T20:16:19.040922Z"
+  generator_version: 1.0.0
+  post_slug: bar-stool-continued
+  main_date: "2020-01-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-2:
+    refined_source: 883b47a8913b6155443c72cb86a56ffc2c97dd9259d8dea7064bc6908f60cb39
+    brief: |-
+      THE CONFLICT:
+      *   An assault case involving McSherry, who has multiple convictions, is delayed.
+      *   The incident occurred approximately 15 months ago.
+      *   Fairhope Municipal Court and the City Attorney are alleged to have caused obstruction or hidden the case.
+      *   McSherry is on probation with a 180-day jail sentence pending.
+      *   McSherry's attorney, James Pittman, is challenging the state’s Shield Law.
+      *   McSherry was due in court on Monday January 27 (future date from Article 1).
+
+      THE DISCOVERY:
+      *   In 2020, The Ripp Report/Backstory Podcast planned to cover elections focusing on elected officials ignoring corruption.
+      *   The media group’s main purpose is to educate the public on the corruption existing in Baldwin County.
+      *   The organization specifically calls out corrupt politicians, Judges, or Attorneys.
+
+      THE PIVOT:
+      *   Article 2 establishes the mission of The Ripp Report/Backstory Podcast as a non-profit consumer organization dedicated to monitoring and exposing corruption within Baldwin County, providing the institutional context for Article 1’s allegations of judicial/attorney obstruction in Fairhope.
+
+      KEY ENTITIES:
+      *   McSherry
+      *   James Pittman
+      *   Fairhope Municipal Court
+      *   City Attorney
+      *   The Ripp Report
+      *   Backwoods Media LLC / Backstory Podcast
+      *   Baldwin County
+      *   Fairhope
+    llm_text: Is Fairhope Municipal Court hiding McSherry's assault case? James Pittman challenges the state’s Shield Law, exposing alleged obstruction by the City Attorney—a core focus of The Ripp Report's fight against Baldwin County corruption.
+    text: James Pittman challenges the state Shield Law and exposes alleged obstruction by the City Attorney. Is Fairhope Municipal Court hiding McSherry's assault case?
+    widget_date: "2020-01-17"
+    generated_at: "2026-11-07T20:16:06.054735Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  criminal-enterprise:
+    refined_source: 94b373e975508795e3d23f613a5564a1bb1e08784c9db6bdacd4ea4e8d5f3601
+    brief: |-
+      THE CONFLICT: Incident occurred; McSherry has multiple convictions and an 180 day jail sentence.
+      THE DISCOVERY: Widget Article suggests Fairhope is operating as a Criminal Enterprise.
+      THE PIVOT: Widget Article provides context supporting claims of systemic obstruction/failure of justice cited in Article 1 regarding McSherry's case.
+      KEY ENTITIES: McSherry, James Pittman, Fairhope Municipal Court, City Attorney, Circuit Court
+    llm_text: McSherry faces an 180-day sentence, but is Fairhope a criminal enterprise? This piece shows how systemic failure might obstruct justice in McSherry's case.
+    text: McSherry faces a possible prison sentence while systemic failures stall the local justice system. Does Fairhope operate as a criminal enterprise that blocks fair trials?
+    widget_date: "2019-12-27"
+    generated_at: "2026-11-07T20:13:54.740035Z"
+    model_name: plugsky-lite
+  combat:
+    brief: |-
+      THE CONFLICT:
+      - Main Article, “BAR STOOL ‘CONTINUED’”: Reported an incident that should have been resolved in 6 months, 15 months prior.
+      - Main Article: Incident involved an assault case involving McSherry.
+      - Main Article: McSherry has multiple convictions, is on probation, and has a 180-day jail sentence hanging over his head.
+      - Main Article: McSherry continued to avoid justice.
+      - Main Article: Fairhope Municipal Court and City Attorney dropped the ball, or hid the ball.
+      - Main Article: Case moved to Circuit Court.
+      - Main Article: McSherry’s attorney is James Pittman.
+      - Main Article: Circuit Judge involved.
+      - Main Article: State Shield Law involved.
+      - Main Article: Whole incident is on video tape.
+      - Main Article: Monday January 27 McSherry was due in court over criminal issue.
+      - Main Article: McSherry’s attorney James Pittman wants to float conspiracy theories and challenge State Shield Law.
+      - Main Article: Pittman is blaming everyone else, except McSherry.
+      - Main Article: Case is about an assault case, plain and simple.
+
+      - Widget Article, “COMBAT”: Author’s first visit to Veterans Hospital in Birmingham, Alabama was December 1968, 51 years ago.
+      - Widget Article: Author had 14 shoulder operations and a kidney removed as result of Vietnam tour of duty as young Marine.
+      - Widget Article: Today author reports to same hospital for 15th operation, complete reverse left shoulder replacement.
+      - Widget Article: March 1968, during Tet Offensive, author was Marine combat engineer stationed in Dong Ha, Vietnam, not far from DMZ.
+      - Widget Article: Base was hit so often that “incoming” was heard every day.
+      - Widget Article: One day author was the one to yell “incoming.”
+      - Widget Article: Later learned incoming North Vietnamese rocket just barely overshot location and hit an ammo dump.
+      - Widget Article: Secondary explosion was far worse than initial blast.
+      - Widget Article: Author went for the ground but did not quite make it when concussion from blast reached body.
+      - Widget Article: Combat buddies told author he was thrown about length of a football field, landing against bunker twisted like a pretzel.
+      - Widget Article: They thought author was dead; author did too; however, it was a severe body concussion.
+      - Widget Article: Next thing author was in underground Air Force field hospital in Dong Ha.
+      - Widget Article: Woke to total confusion, ears ringing so loud could hardly hear, yelling and crying took oxygen in room.
+      - Widget Article: Took a while to come around and realize had all body parts.
+      - Widget Article: In hospital next to author, a Marine lost his arm.
+      - Widget Article: Marine on other stretcher had multiple shrapnel wounds.
+      - Widget Article: Author wanted to leave; outside passed several body bags.
+      - Widget Article: Author made one of biggest mistakes of life by refusing Purple Heart.
+      - Widget Article: Refusal resulted in Veterans Claim that has lasted 51 years and still pending.
+
+      THE DISCOVERY:
+      - Article 2, “COMBAT,” provided background/historical context.
+      - Article 2 revealed author’s personal military and VA hospital history.
+      - Article 2 revealed author’s pain and surgeries.
+      - Article 2 revealed author’s refusal of Purple Heart.
+      - Article 2 revealed pending Veterans Claim.
+      - Article 2 revealed author’s 2010 classification as 100% disabled.
+      - Article 2 revealed author formed The Ripp Report in 2010 as nonprofit consumer organization focusing on political corruption, specifically Fairhope.
+      - Article 2 revealed The Ripp Report reported on Fairhope politics for over 10 years.
+      - Article 2 revealed The Ripp Report recently began covering Baldwin County.
+      - Article 2 revealed Fairhope had a very dark secret: political corruption.
+      - Article 2 revealed corruption cost taxpayers millions.
+      - Article 2 revealed current City Council who appoints Municipal Judge and Municipal Attorney are all corrupt.
+      - Article 2 revealed City Council pretended to be friends and public servants while fleecing taxpayers.
+      - Article 2 revealed every thief used office for personal gain.
+      - Article 2 revealed Elect a new City Council and they will appoint new Judge and Municipal attorney.
+      - Article 2 revealed Mayor Wilson was public servant and stumbling block preventing overthrow of Fairhope government.
+      - Article 2 revealed in 2020 CATALYST, the good ole boys plan on using every means possible to gain control of Fairhope City Hall.
+      - Article 2 revealed if successful, say goodbye to Fairhope and property values.
+      - Article 2 revealed The Ripp Report, Baldwin County Legal Eagle, and Backstory Podcast going to do everything possible to expose crooks.
+      - Article 2 revealed Fairhope fate is on the line.
+      - Article 2 revealed author was ready for COMBAT in 2020.
+
+      THE PIVOT:
+      - Article 2 is key context/smoking gun for Article 1 because it frames personal, military, VA, and political background behind The Ripp Report’s focus on Fairhope corruption.
+      - Article 2 connects author’s combat/VA experience to passion for Constitution of the United States and good government.
+      - Article 2 connects author’s personal pain to exposing political corruption and silent tax.
+      - Article 1’s McSherry case is set in Fairhope Municipal Court, City Attorney, Circuit Court, Circuit Judge, Shield Law, video tape, James Pittman.
+      - Article 2’s Fairhope political corruption context makes Article 1’s assault/obstruction case background/context for The Ripp Report’s COMBAT coverage.
+
+      KEY ENTITIES:
+      - McSherry
+      - James Pittman
+      - Fairhope Municipal Court
+      - Fairhope City Attorney
+      - Circuit Court
+      - Circuit Judge
+      - Shield Law
+      - Video tape
+      - Monday January 27
+      - Assault case
+      - Multiple convictions
+      - Probation
+      - 180-day jail sentence
+      - Ripp Report
+      - Veterans Hospital Birmingham Alabama
+      - Marine
+      - Vietnam
+      - Dong Ha
+      - DMZ
+      - Tet Offensive
+      - North Vietnamese
+      - Air Force field hospital
+      - Purple Heart
+      - Veterans Claim
+      - Constitution of the United States
+      - Political corruption
+      - Silent tax
+      - Fairhope
+      - Baldwin County
+      - City Council
+      - Municipal Judge
+      - Municipal Attorney
+      - Mayor Wilson
+      - CATALYST
+      - Fairhope City Hall
+      - Baldwin County Legal Eagle
+      - Backstory Podcast
+      - COMBAT
+      - 2020
+      - Lowery
+      - Wilters
+    llm_text: Marine McSherry’s Fairhope assault kept slipping through the cracks, but his Vietnam-era pain at Birmingham’s Veterans Hospital fuels The Ripp Report’s corruption fight. Now that Marine refused his Purple Heart and fought 51 years of Veterans Claims, Fairhope’s corrupt City Council and Mayor Wilson are in the crosshairs.
+    text: Marine McSherry’s Fairhope assault kept slipping through the cracks, but his Vietnam-era pain at Birmingham’s Veterans Hospital fuels The Ripp Report’s corruption fight. Now that Marine refused his Purple Heart and fought 51 years of Veterans Claims, Fairhope’s corrupt City Council and Mayor Wilson are in the crosshairs.
+    widget_date: "2019-12-06"
+    generated_at: "2026-11-07T20:14:43.610107Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-11:
+    brief: "THE CONFLICT: An assault case involving McSherry (represented by attorney James Pittman) has been dragged out for 15 months instead of being resolved in 6 months. McSherry has multiple convictions, is on probation, and has a 180-day jail sentence hanging over their head. The entire incident is caught on videotape. Fairhope Municipal Court and the City Attorney dropped or hid the ball, and the case moved to Circuit Court, where a Circuit Judge has acted questionably. Pittman has floated conspiracy theories, challenged the state's Shield Law, and blamed everyone except McSherry. A criminal court date was scheduled for Monday, January 27, which was predicted to be delayed.\n\nTHE DISCOVERY: Backstory Podcast #11, posted on Friday, November 15, 2019 (acting as historical background), publicly tracked \"The McSharry lawsuit continues\" alongside other regional issues like Gulf Shores developments, the Fairhope Klump PUD development, a $6 million increase to the Baldwin County Sheriff's Office budget since 2011, and the state of the Baldwin County Bar. \n\nTHE PIVOT: Article 2 (Backstory Podcast #11 from November 15, 2019) serves as key historical context proving that the McSherry/McSharry legal saga has been dragging on indefinitely for a prolonged period, establishing a documented track record of systemic delays, obstruction, and legal maneuvers by the defense that the current article highlights.\n\nKEY ENTITIES:\n- McSherry (or McSharry)\n- James Pittman (Attorney for McSherry)\n- Fairhope Municipal Court\n- City Attorney\n- Circuit Court / Circuit Judge\n- Baldwin County Sheriff's Office\n- Coastal Alabama Community College"
+    llm_text: 'Attorney James Pittman keeps dodging accountability for McSherry''s videotaped assault case through endless legal theater. Listen to Backstory Podcast #11 to uncover why this 15-month delay proves the local justice system completely failed.'
+    text: 'Attorney James Pittman keeps dodging accountability for McSherry''s videotaped assault case through endless legal theater. Listen to Backstory Podcast #11 to uncover why this 15-month delay proves the local justice system completely failed.'
+    widget_date: "2019-11-15"
+    generated_at: "2026-11-07T20:13:52.053987Z"
+    model_name: gemini-3.5-flash-lite
+  conflict-on-interest:
+    brief: "THE CONFLICT: \n- An assault case involving McSherry, who has multiple convictions, is on probation, and faces a 180-day jail sentence.\n- The case was mishandled or delayed by the Fairhope Municipal Court and City Attorney for over 15 months (with a total timeline spanning back through prior delays).\n- The case moved to Circuit Court, where McSherry's attorney, James Pittman, pushed conspiracy theories, challenged the state's Shield Law, and sought further obstructions.\n- An upcoming court date was scheduled for Monday, January 27, regarding the criminal issue.\n- The entire assault incident is captured on videotape.\n\nTHE DISCOVERY (Background/Context from Article 2 - Nov. 8, 2019):\n- The Fairhope City Council approved the largest development in Fairhope.\n- The Municipal Judge who was appointed by the same City Council was also the developer of this massive project.\n- This posed a direct conflict of interest, raising questions about which city council members held a vested personal interest in the project.\n\nTHE PIVOT:\n- Article 2 serves as the foundational \"smoking gun\" exposing systemic corruption, conflicts of interest, and the influence of the \"good ole boys\" network within Fairhope's municipal government and judiciary. \n- This historical context explains *why* the justice system protects individuals like McSherry in Article 1: if judges and city officials are entangled in major development conflicts of interest, manipulating or stalling criminal cases (like McSherry's 15-month delay) is part of a broader pattern of institutional corruption and obstruction of justice.\n\nKEY ENTITIES:\n- McSherry (Defendant)\n- James Pittman (McSherry's Attorney)\n- Fairhope Municipal Court\n- City Attorney\n- Fairhope City Council\n- The Ripp Report"
+    llm_text: Why did Fairhope officials stall McSherry’s assault case for 15 months? Read how developer-tied judges and the City Council shield violent offenders to protect their own corrupt network.
+    text: Why did Fairhope officials stall McSherry’s assault case for 15 months? Read how developer-tied judges and the City Council shield violent offenders to protect their own corrupt network.
+    widget_date: "2019-11-09"
+    generated_at: "2026-11-07T20:13:58.035818Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-alabama-the-ripp-report-podcast-5:
+    refined_source: 25f7738333e329f2356b96f9c735be1a7336c458d6f0d77bc9f1e4687579f4dc
+    brief: |-
+      THE CONFLICT: Assault case involving McSherry; original expected resolution within 6 months, now 15 months later.
+      THE DISCOVERY: Article 2 context is not provided; Widget Article is older, but no specific details about past convictions, dates, or events are present in the provided Widget Article content.
+      THE PIVOT: Widget Article is prior context but lacks specific details to serve as a 'smoking gun' for Article 1's claims of obstruction by Fairhope Municipal Court/City Attorney.
+      KEY ENTITIES: McSherry, James Pittman, Fairhope Municipal Court, City Attorney, Circuit Court
+    llm_text: McSherry's assault case drags past 15 months, not the original six. See how the Fairhope Municipal Court and City Attorney handle this long delay.
+    text: McSherry's assault case drags past fifteen months instead of the original six. Watch how the Fairhope Municipal Court and City Attorney handle this long delay.
+    widget_date: "2019-10-05"
+    generated_at: "2026-11-07T20:14:02.577969Z"
+    model_name: plugsky-lite
+  congressional-catalyst:
+    refined_source: 8632211e3b4417664990f3518ed8b6caf22ea21940b7c5dd3ca2d00e2acffd41
+    brief: |-
+      THE CONFLICT: Assault case involving McSherry has been delayed for 15 months, despite having multiple convictions, probation, and a 180-day jail sentence pending; the case moved from Fairhope Municipal Court to Circuit Court, with a court date set for Monday January 27.
+      THE DISCOVERY: In 2018, CATALYST, led by Bill Hightower, established control over Fairhope City Council, Fairhope City Attorney, and Fairhope Municipal Judge (Snedeker), which the article claims operates as a criminal enterprise.
+      THE PIVOT: Article 2 provides historical context showing that key judicial and municipal figures (Fairhope Municipal Judge, City Attorney) are tied to the CATALYST network, which is also associated with McSherry’s attorney, BP Boom Boom Pittman, providing the structural basis for the obstruction of justice alleged in Article 1.
+      KEY ENTITIES: McSherry, James Pittman, Bill Hightower, CATALYST, Snedeker (Fairhope Municipal Judge/developer), BP Boom Boom Pittman (former State Senator), Fairhope Municipal Court, Fairhope City Attorney, Circuit Judge.
+    llm_text: McSherry faces a delayed assault case, but institutional corruption is the real story. Bill Hightower's CATALYST network controlled Fairhope officials, including Judge Snedeker and the City Attorney, tying in McSherry's attorney, BP Boom Boom Pittman.
+    text: Bill Hightower's CATALYST network controlled Fairhope officials, including Judge Snedeker and the City Attorney. See how these political connections tie into McSherry's delayed assault case.
+    widget_date: "2020-01-22"
+    generated_at: "2026-11-07T20:14:42.693542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

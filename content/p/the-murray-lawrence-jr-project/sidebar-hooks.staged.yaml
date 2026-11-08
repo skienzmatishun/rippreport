@@ -5,201 +5,8 @@ metadata:
   main_date: "2023-10-08"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      *   Murray Lawrence Jr. was convicted of the murder of Brandon Hastings in 2003 (disappeared from Foley, AL, found near Guitier/Vancleave, MS).
-      *   Conviction was based on the word of a co-conspirator ("Deal With The Devil") by Baldwin County District Attorney David Whetstone circa 2003.
-      *   Current Baldwin County officials include Sheriff Huey Mack (5th term) and District Attorney Robert Wilters (2nd term).
-
-      THE DISCOVERY:
-      *   Article 2 highlights systemic corruption in Alabama, referencing a hospice business with shady ties to a judge in Clarke County.
-      *   Article 2 confirms that Alabama politics involves a "good old boy" system where power and money impact regular people.
-      *   Article 2 details political instability, including Governor Kay Ivey firing Admiral Kent Davis and veterans' program chaos.
-
-      THE PIVOT:
-      *   Article 2 provides contemporary evidence of the deep-rooted "good old boy" and systemic political corruption within Alabama, which provides the context for the questionable 2003 conviction (Article 1) and the ongoing effort to free Lawrence Jr.
-      *   The political environment described in Article 2 reinforces the theme of institutional injustice seen in the Lawrence Jr. case.
-
-      KEY ENTITIES:
-      *   Murray Lawrence Jr.
-      *   Brandon Hastings
-      *   Huey Mack (Baldwin County Sheriff)
-      *   Robert Wilters (District Attorney)
-      *   David Whetstone
-      *   The Maxwell- Tillman Law Firm
-      *   Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County (location of corruption exposure)
-    llm_text: Murray Lawrence Jr. challenges his 2003 murder conviction for Brandon Hastings. Does Alabama's deep "good old boy" corruption, involving officials like Sheriff Huey Mack and DA Robert Wilters, fuel institutional injustice?
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T18:50:28.269625Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Brandon Hastings disappeared from Foley, Alabama during Spring Break of 2003; Murray "Bubba" Lawrence Jr. was convicted of the murder, relying on the word of a co-conspirator (per David Whetstone, Baldwin County District Attorney circa 2003).
-      THE DISCOVERY: Murray Lawrence Jr. is pursuing a new trial based on newly discovered Brady Evidence, and recent Baldwin County developments show companies with political ties securing million-dollar contracts while law enforcement faces scrutiny for its own mishaps.
-      THE PIVOT: Article 2 provides current evidence of systemic corruption and lack of accountability within Baldwin County law enforcement and political structures, offering context to the questionable 2003 conviction and the ongoing effort to free Lawrence Jr.
-      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Lt. Huey Mack (now 5th term Sheriff of Baldwin County), David Whetstone, The Maxwell- Tillman Law Firm, Baldwin County District Attorney building.
-    llm_text: Murray Lawrence Jr. seeks a new trial for the 2003 murder of Brandon Hastings. Discover how Baldwin County's systemic corruption compromised his original conviction, linking the past case to current political ties and law enforcement scrutiny.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T18:51:30.742702Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      - Murray "Bubba" Lawrence Jr. was convicted of murdering Brandon Hastings in 2003; Hastings disappeared during Spring Break 2003 and his body was found near Guitier/Vancleave, Mississippi a week later.
-      - The conviction relied solely on the testimony of a co-conspirator, described by then-District Attorney David Whetstone as a "Deal With The Devil."
-      - Key personnel from the original investigation/prosecution have since held or currently hold Baldwin County offices: Lt. Huey Mack was the Lead Detective (now 5th term Sheriff) and Judge Robert Wilters was the presiding Judge (now Baldwin County District Attorney).
-      - Murray Lawrence Jr. had Harry Still as his Attorney of Record, but a petition for a new trial has been filed based on newly discovered Brady Evidence.
-
-      THE DISCOVERY:
-      - Two autopsies, ordered by Sheriff Mack's father (who was Coroner of Baldwin County in 2005), were conducted but never disclosed to the defense, constituting a Brady violation.
-      - The Maxwell-Tillman Law Firm in Birmingham, Alabama is currently handling the petition for a new trial based on this newly discovered evidence.
-      - The Alabama Court of Civil Appeals recently released a decision (released today) regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
-
-      THE PIVOT:
-      - The discovery of the undisclosed autopsies ordered by the Coroner (Sheriff Mack's father) provides the concrete Brady violation evidence necessary to challenge the conviction, which previously relied only on the co-conspirator testimony.
-      - This new evidence pivots the case from a reliance on questionable witness testimony to a documented suppression of forensic evidence by the state.
-
-      KEY ENTITIES:
-      - Murray "Bubba" Lawrence Jr.
-      - Brandon Hastings
-      - David Whetstone (Baldwin County District Attorney circa 2003)
-      - Huey Mack (Lt. Lead Detective, now Baldwin County Sheriff)
-      - Robert Wilters (Judge, now Baldwin County District Attorney)
-      - Harry Still (Former Attorney of Record)
-      - The Maxwell-Tillman Law Firm
-      - Alabama Court of Civil Appeals
-      - Rule 32 Petition
-    llm_text: Murray "Bubba" Lawrence Jr. could get a new trial after the Alabama Court of Civil Appeals released a decision on his Rule 32 Petition today. Two undisclosed autopsies ordered by Sheriff Huey Mack's father prove prosecutors hid forensic evidence from the defense.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T18:49:44.657210Z"
-    model_name: plugsky-lite
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT:
-      *   2003: Murray "Bubba" Lawrence Jr. was convicted of the murder of Brandon Hastings.
-      *   Event: Hastings disappeared from Foley, Alabama, during Spring Break 2003; body found near Guitier/Vancleave, Mississippi, one week later.
-      *   Conviction Basis: Word of a co-conspirator, deemed a "Deal With The Devil" by Baldwin County District Attorney David Whetstone circa 2003.
-      *   Past Officials: Lead Detective was Lt. Huey Mack.
-
-      THE DISCOVERY:
-      *   Article 2 (Widget) does not provide a specific legal update regarding the Lawrence Jr. case or the Brady Evidence petition.
-      *   Article 2 discusses general allegations of misconduct, wrongful arrests, and First Amendment issues related to local government corruption.
-
-      THE PIVOT:
-      *   Article 2 provides broad context on local government corruption and wrongful arrests, thematically aligning with the alleged miscarriage of justice (conviction based on a co-conspirator's word) detailed in Article 1, but is not a direct update or 'smoking gun' evidence for the specific case.
-
-      KEY ENTITIES:
-      *   Murray Lawrence Jr.
-      *   Brandon Hastings
-      *   Lt. Huey Mack (Current 5th term Sheriff of Baldwin County)
-      *   David Whetstone (Baldwin County District Attorney circa 2003)
-      *   Robert Wilters (Current second term District Attorney)
-      *   Harry Still (No longer Attorney of Record)
-      *   The Maxwell- Tillman Law Firm (Handling new trial petition)
-      *   Baldwin County (Location)
-      *   Foley, Alabama / Guitier/Vancleave, Mississippi (Locations)
-    llm_text: Bubba Lawrence Jr. was convicted of the Brandon Hastings murder in 2003, relying solely on a co-conspirator's word. Discover how broad Baldwin County corruption and misconduct might fuel this potential miscarriage of justice.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T18:52:45.987527Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT:
-      - Murray "Bubba" Lawrence Jr. convicted of murder of Brandon Hastings.
-      - Brandon Hastings disappeared from Foley, Alabama during Spring Break of 2003.
-      - Body found about a week later near Guitier/Vancleave, Mississippi.
-      - State convicted Lawrence on the word of a co-conspirator.
-      - David Whetstone Baldwin County District Attorney, circa 2003, called it a "Deal With The Devil."
-      - Lt. Huey Mack was Lead Detective; now 5th term Sheriff of Baldwin County.
-      - Judge in case Robert Wilters now serving second term as District Attorney after 22-year stretch on bench.
-      - Harry Still was no longer Attorney of Record for Murray Lawrence Jr.
-      - Petition for new trial handled by The Maxwell-Tillman Law Firm in Birmingham, Alabama.
-      - Petition based on newly discovered Brady Evidence.
-      - Lagniappe newspaper cover featuring Murray Lawrence Jr., headline "Digging Deep" about missing autopsy evidence, overlaid with Baldwin County and...
-      - "A Verbal Lynching In Alabama" copyrighted by Nancy Koerner, shared by Backstory Podcast with permission.
-
-      THE DISCOVERY:
-      - Article 2 is Backstory Podcast No. 186.
-      - Content includes discussions on 2024 US Presidential election results, Trump Cabinet 2.0, government spending on misinformation, impact of war in Ukraine, and Alabama news stories, including closing of rural hospitals and changes to hunting seasons.
-      - Content includes legal and political issues, including antitrust lawsuits against Google and proposed constitutional amendments in Alabama.
-      - Content includes input from Veterans/Consumer Advocate, journalist, and attorney.
-      - Article 2 is newer than Article 1 and frames as an update.
-      - Supplied content does not show new Brady Evidence or new proof in Murray Lawrence Jr. case.
-
-      THE PIVOT:
-      - Article 2 is newer update.
-      - Article 2's Alabama legal/political coverage is key context for Article 1's Brady Evidence/new trial narrative.
-      - Newly discovered Brady Evidence is the smoking gun; Article 2 is key context/update.
-
-      THE KEY ENTITIES:
-      - Murray Lawrence Jr.
-      - Brandon Hastings
-      - Foley, Alabama
-      - Spring Break 2003
-      - Guitier/Vancleave, Mississippi
-      - Co-conspirator
-      - David Whetstone Baldwin County District Attorney
-      - Lt. Huey Mack
-      - Baldwin County
-      - Robert Wilters
-      - District Attorney
-      - Harry Still
-      - The Maxwell-Tillman Law Firm
-      - Birmingham, Alabama
-      - Brady Evidence
-      - Lagniappe Mobile Newspaper
-      - Nancy Koerner
-      - Backstory Podcast
-      - Backstory Podcast No. 186
-      - Veterans/Consumer Advocate
-      - Journalist
-      - Attorney
-      - Alabama
-      - 2024 US Presidential election results
-      - Trump Cabinet 2.0
-      - Government spending on misinformation
-      - War in Ukraine
-      - Rural hospitals
-      - Hunting seasons
-      - Antitrust lawsuits against Google
-      - Proposed constitutional amendments in Alabama
-      - Lowery — flagged in instruction as entity to mention; no supplied detail.
-    llm_text: Murray 'Bubba' Lawrence Jr. grabbed a murder conviction in 2003 from a co-conspirator's word, and now The Maxwell-Tillman Law Firm fights for a new trial with Brady Evidence. The Backstory Podcast's No. 186 puts this Alabama legal fight beside the 2024 election, Trump Cabinet, and misinformation fights you should care about.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T18:50:19.266004Z"
-    model_name: recursive/flint-v1.0:free
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      Murray "Bubba" Lawrence Jr convicted of murder of Brandon Hastings in Foley, Alabama during Spring Break 2003. Body found near Guitier/Vancleave, Mississippi, a week later. Conviction based on a co-conspirator's word, per Baldwin County District Attorney David Whetstone circa 2003. Lt. Huey Mack was Lead Detective in 2003.
-
-      THE DISCOVERY:
-      Baldwin County is approving thousands of residential lots; City of Bay Minette is being sued by OJ French Jr's family regarding death by BMPD Officer Brandon Thompson.
-
-      THE PIVOT:
-      None. Article 2 does not directly update the evidence or status of the Murray Lawrence Jr. case regarding the Brady Evidence or new trial petition.
-
-      KEY ENTITIES:
-      Murray Lawrence Jr.
-      Brandon Hastings
-      David Whetstone
-      Huey Mack
-      Robert Wilters
-      Harry Still
-      The Maxwell-Tillman Law Firm
-      OJ French Jr
-      Brandon Thompson
-      Andy Ruten
-      Bob Wills
-      Baldwin County
-    llm_text: Lawrence sits on death row for a 2003 Spring Break murder while Baldwin County approves thousands of new homes—and the family of OJ French Jr. demands answers in a separate police shooting.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T18:49:59.594969Z"
-    model_name: plugsky-lite
   the-pete-rose:
+    refined_source: 09e35a374b5df2131ca42a82e6c5a96a9642cc64281bcbe3bfe06bc8e5de7105
     brief: |-
       THE CONFLICT:
       - Brandon Hastings disappeared from Foley, Alabama during Spring Break 2003.
@@ -231,10 +38,119 @@ hooks:
       - Orange Beach, Alabama
       - Baldwin County, Alabama
     llm_text: Lt. Huey Mack hunted Brandon Hastings' killer in 2003, now Baldwin County Sheriff; Robert Wilters prosecuted Murray "Bubba" Lawrence Jr., now District Attorney. The Maxwell-Tillman Law Firm fights for Lawrence's new trial as a reward surfaces for Danny Williams Jr.'s 2022 death.
+    text: Lt. Huey Mack investigated Brandon Hastings in 2003 and now serves as sheriff, while Robert Wilters prosecuted Murray Lawrence Jr. and now serves as district attorney. Can the Maxwell-Tillman Law Firm win a new trial for Lawrence?
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T18:50:10.964180Z"
     model_name: plugsky-lite
+  the-crime-of-the-century:
+    refined_source: 1a88b5b18044f4f1236669b36fc8f48d472d00af6107c4b80221e2152bcf32a2
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was convicted of the murder of Brandon Hastings in 2003 (disappeared from Foley, AL, found near Guitier/Vancleave, MS).
+      *   Conviction was based on the word of a co-conspirator ("Deal With The Devil") by Baldwin County District Attorney David Whetstone circa 2003.
+      *   Current Baldwin County officials include Sheriff Huey Mack (5th term) and District Attorney Robert Wilters (2nd term).
+
+      THE DISCOVERY:
+      *   Article 2 highlights systemic corruption in Alabama, referencing a hospice business with shady ties to a judge in Clarke County.
+      *   Article 2 confirms that Alabama politics involves a "good old boy" system where power and money impact regular people.
+      *   Article 2 details political instability, including Governor Kay Ivey firing Admiral Kent Davis and veterans' program chaos.
+
+      THE PIVOT:
+      *   Article 2 provides contemporary evidence of the deep-rooted "good old boy" and systemic political corruption within Alabama, which provides the context for the questionable 2003 conviction (Article 1) and the ongoing effort to free Lawrence Jr.
+      *   The political environment described in Article 2 reinforces the theme of institutional injustice seen in the Lawrence Jr. case.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Brandon Hastings
+      *   Huey Mack (Baldwin County Sheriff)
+      *   Robert Wilters (District Attorney)
+      *   David Whetstone
+      *   The Maxwell- Tillman Law Firm
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County (location of corruption exposure)
+    llm_text: Murray Lawrence Jr. challenges his 2003 murder conviction for Brandon Hastings. Does Alabama's deep "good old boy" corruption, involving officials like Sheriff Huey Mack and DA Robert Wilters, fuel institutional injustice?
+    text: Murray Lawrence Jr. challenges his 2003 murder conviction for Brandon Hastings. Do officials like Sheriff Huey Mack and District Attorney Robert Wilters support institutional injustice?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T18:50:28.269625Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 2420c65c325203932bea567c1371c5cb622dd5531b3f0113e10002ff1a603d64
+    brief: |-
+      THE CONFLICT: Brandon Hastings disappeared from Foley, Alabama during Spring Break of 2003; Murray "Bubba" Lawrence Jr. was convicted of the murder, relying on the word of a co-conspirator (per David Whetstone, Baldwin County District Attorney circa 2003).
+      THE DISCOVERY: Murray Lawrence Jr. is pursuing a new trial based on newly discovered Brady Evidence, and recent Baldwin County developments show companies with political ties securing million-dollar contracts while law enforcement faces scrutiny for its own mishaps.
+      THE PIVOT: Article 2 provides current evidence of systemic corruption and lack of accountability within Baldwin County law enforcement and political structures, offering context to the questionable 2003 conviction and the ongoing effort to free Lawrence Jr.
+      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Lt. Huey Mack (now 5th term Sheriff of Baldwin County), David Whetstone, The Maxwell- Tillman Law Firm, Baldwin County District Attorney building.
+    llm_text: Murray Lawrence Jr. seeks a new trial for the 2003 murder of Brandon Hastings. Read how Baldwin County's systemic corruption compromised his original conviction, linking the past case to current political ties and law enforcement scrutiny.
+    text: Murray Lawrence Jr. wants a new trial for the 2003 murder of Brandon Hastings. Did systemic corruption in Baldwin County compromise his original conviction?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T18:51:30.742702Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 6fa527c560f3b052657d32f7b5014ee9632903f4d3886c727ed060b4ecc1c313
+    brief: |-
+      THE CONFLICT:
+      - Murray "Bubba" Lawrence Jr. was convicted of murdering Brandon Hastings in 2003; Hastings disappeared during Spring Break 2003 and his body was found near Guitier/Vancleave, Mississippi a week later.
+      - The conviction relied solely on the testimony of a co-conspirator, described by then-District Attorney David Whetstone as a "Deal With The Devil."
+      - Key personnel from the original investigation/prosecution have since held or currently hold Baldwin County offices: Lt. Huey Mack was the Lead Detective (now 5th term Sheriff) and Judge Robert Wilters was the presiding Judge (now Baldwin County District Attorney).
+      - Murray Lawrence Jr. had Harry Still as his Attorney of Record, but a petition for a new trial has been filed based on newly discovered Brady Evidence.
+
+      THE DISCOVERY:
+      - Two autopsies, ordered by Sheriff Mack's father (who was Coroner of Baldwin County in 2005), were conducted but never disclosed to the defense, constituting a Brady violation.
+      - The Maxwell-Tillman Law Firm in Birmingham, Alabama is currently handling the petition for a new trial based on this newly discovered evidence.
+      - The Alabama Court of Civil Appeals recently released a decision (released today) regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
+
+      THE PIVOT:
+      - The discovery of the undisclosed autopsies ordered by the Coroner (Sheriff Mack's father) provides the concrete Brady violation evidence necessary to challenge the conviction, which previously relied only on the co-conspirator testimony.
+      - This new evidence pivots the case from a reliance on questionable witness testimony to a documented suppression of forensic evidence by the state.
+
+      KEY ENTITIES:
+      - Murray "Bubba" Lawrence Jr.
+      - Brandon Hastings
+      - David Whetstone (Baldwin County District Attorney circa 2003)
+      - Huey Mack (Lt. Lead Detective, now Baldwin County Sheriff)
+      - Robert Wilters (Judge, now Baldwin County District Attorney)
+      - Harry Still (Former Attorney of Record)
+      - The Maxwell-Tillman Law Firm
+      - Alabama Court of Civil Appeals
+      - Rule 32 Petition
+    llm_text: Murray "Bubba" Lawrence Jr. could get a new trial after the Alabama Court of Civil Appeals released a decision on his Rule 32 Petition today. Two undisclosed autopsies ordered by Sheriff Huey Mack's father prove prosecutors hid forensic evidence from the defense.
+    text: Murray Lawrence Jr. might get a new trial after a Rule 32 petition decision. Did Sheriff Huey Mack's father hide two secret autopsies from the defense?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T18:49:44.657210Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: 76411565b7a779777ca226c682fdec0787643932c3ff04e2231c0433f01c9492
+    brief: |-
+      THE CONFLICT:
+      Murray "Bubba" Lawrence Jr convicted of murder of Brandon Hastings in Foley, Alabama during Spring Break 2003. Body found near Guitier/Vancleave, Mississippi, a week later. Conviction based on a co-conspirator's word, per Baldwin County District Attorney David Whetstone circa 2003. Lt. Huey Mack was Lead Detective in 2003.
+
+      THE DISCOVERY:
+      Baldwin County is approving thousands of residential lots; City of Bay Minette is being sued by OJ French Jr's family regarding death by BMPD Officer Brandon Thompson.
+
+      THE PIVOT:
+      None. Article 2 does not directly update the evidence or status of the Murray Lawrence Jr. case regarding the Brady Evidence or new trial petition.
+
+      KEY ENTITIES:
+      Murray Lawrence Jr.
+      Brandon Hastings
+      David Whetstone
+      Huey Mack
+      Robert Wilters
+      Harry Still
+      The Maxwell-Tillman Law Firm
+      OJ French Jr
+      Brandon Thompson
+      Andy Ruten
+      Bob Wills
+      Baldwin County
+    llm_text: Lawrence sits on death row for a 2003 Spring Break murder while Baldwin County approves thousands of new homes—and the family of OJ French Jr. demands answers in a separate police shooting.
+    text: Murray Lawrence Jr. sits in prison for a Spring Break murder as Baldwin County approves thousands of new homes. Why does the family of OJ French Jr. still demand answers?
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T18:49:59.594969Z"
+    model_name: plugsky-lite
   hatians-eating-cats:
+    refined_source: 4e566791a4b790cea471c6e9f97494b9a0cdebb6ddf62584c79113f7d731da23
     brief: |-
       THE CONFLICT:
       - Murray "Bubba" Lawrence Jr. was convicted in 2003 for the murder of Brandon Hastings, who disappeared during Spring Break in Foley, Alabama.
@@ -261,38 +177,9 @@ hooks:
       - Foley, Alabama
       - Guitier/Vancleave, Mississippi
     llm_text: Murray "Bubba" Lawrence Jr. sits in prison based on testimony a prosecutor once called a "Deal With The Devil," while the lead detective now serves as Baldwin County Sheriff and the trial judge is the current District Attorney. The Maxwell-Tillman Law Firm has uncovered Brady Evidence that could finally blow the case wide open after 22 years.
+    text: Murray Lawrence Jr. sits in prison on testimony once called a deal with the devil. Can the Maxwell-Tillman Law Firm use new Brady evidence to free him after twenty-two years?
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T18:50:22.740421Z"
-    model_name: plugsky-lite
-  the-180:
-    brief: |-
-      THE CONFLICT:
-      - Murray "Bubba" Lawrence Jr. was convicted in 2003 for the murder of Brandon Hastings, who disappeared during Spring Break in Foley, Alabama.
-      - The conviction relied solely on the testimony of a co-conspirator, referred to by then-Baldwin County District Attorney David Whetstone as a "Deal With The Devil."
-      - Key state figures from the original case: Lead Detective Lt. Huey Mack (now 5th term Sheriff of Baldwin County) and Judge Robert Wilters (now Baldwin County District Attorney, after a 22-year stint on the bench).
-      - Harry Still was the original Attorney of Record for Lawrence; he is no longer representing the case.
-      - A petition for a new trial has been filed based on newly discovered Brady Evidence (evidence favorable to the defendant suppressed by the prosecution).
-
-      THE DISCOVERY:
-      - The Maxwell-Tillman Law Firm in Birmingham, Alabama is now handling Lawrence's petition for a new trial.
-      - The basis for the new trial request is "newly discovered Brady Evidence" that was not available or presented during the original 2003 trial.
-
-      THE PIVOT:
-      - Article 2 (The 180) confirms the passage of time and institutional continuity: Sheriff Mack (Huey Mack) is in his final week of office, and the Governor is selecting a replacement, signaling a potential shift in Baldwin County leadership.
-      - The involvement of The Maxwell-Tillman Law Firm and the reference to "Brady Evidence" provides the modern legal mechanism to challenge the 2003 conviction that relied on a coerced or unreliable co-conspirator testimony.
-
-      KEY ENTITIES:
-      - Murray "Bubba" Lawrence Jr.
-      - Brandon Hastings (Victim)
-      - David Whetstone (Baldwin County District Attorney, 2003)
-      - Lt. Huey Mack (Lead Detective, now Sheriff)
-      - Robert Wilters (Judge, now District Attorney)
-      - Harry Still (Original Attorney of Record)
-      - The Maxwell-Tillman Law Firm (Current legal counsel)
-      - Nancy Koerner (Author of "A Verbal Lynching In Alabama")
-    llm_text: The Maxwell-Tillman Law Firm challenges Murray "Bubba" Lawrence Jr.'s 2003 murder conviction using new Brady Evidence. See how this legal fight impacts Baldwin County leaders like Sheriff Huey Mack.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T18:50:33.902002Z"
     model_name: plugsky-lite
   sheriff-mack-out-oj-french-lawsuit-in:
     brief: |-
@@ -366,6 +253,137 @@ hooks:
       - BOSS HOGG
       - Major Crimes Unit of Baldwin County
     llm_text: Murray 'Bubba' Lawrence Jr. got a murder conviction from a 'Deal With The Devil,' and now Brady evidence may get him a new trial. Sheriff Huey Mack is resigning, so Alabama's Baldwin County justice mess just got a whole lot hotter.
+    text: Murray 'Bubba' Lawrence Jr. got a murder conviction from a 'Deal With The Devil,' and now Brady evidence may get him a new trial. Sheriff Huey Mack is resigning, so Alabama's Baldwin County justice mess just got a whole lot hotter.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T18:51:26.299477Z"
+    model_name: recursive/flint-v1.0:free
+  the-180:
+    refined_source: 285a0436313dc4dbf73c898b568963e73f97c4fd4f6453ee19d0f7f2a27e79d3
+    brief: |-
+      THE CONFLICT:
+      - Murray "Bubba" Lawrence Jr. was convicted in 2003 for the murder of Brandon Hastings, who disappeared during Spring Break in Foley, Alabama.
+      - The conviction relied solely on the testimony of a co-conspirator, referred to by then-Baldwin County District Attorney David Whetstone as a "Deal With The Devil."
+      - Key state figures from the original case: Lead Detective Lt. Huey Mack (now 5th term Sheriff of Baldwin County) and Judge Robert Wilters (now Baldwin County District Attorney, after a 22-year stint on the bench).
+      - Harry Still was the original Attorney of Record for Lawrence; he is no longer representing the case.
+      - A petition for a new trial has been filed based on newly discovered Brady Evidence (evidence favorable to the defendant suppressed by the prosecution).
+
+      THE DISCOVERY:
+      - The Maxwell-Tillman Law Firm in Birmingham, Alabama is now handling Lawrence's petition for a new trial.
+      - The basis for the new trial request is "newly discovered Brady Evidence" that was not available or presented during the original 2003 trial.
+
+      THE PIVOT:
+      - Article 2 (The 180) confirms the passage of time and institutional continuity: Sheriff Mack (Huey Mack) is in his final week of office, and the Governor is selecting a replacement, signaling a potential shift in Baldwin County leadership.
+      - The involvement of The Maxwell-Tillman Law Firm and the reference to "Brady Evidence" provides the modern legal mechanism to challenge the 2003 conviction that relied on a coerced or unreliable co-conspirator testimony.
+
+      KEY ENTITIES:
+      - Murray "Bubba" Lawrence Jr.
+      - Brandon Hastings (Victim)
+      - David Whetstone (Baldwin County District Attorney, 2003)
+      - Lt. Huey Mack (Lead Detective, now Sheriff)
+      - Robert Wilters (Judge, now District Attorney)
+      - Harry Still (Original Attorney of Record)
+      - The Maxwell-Tillman Law Firm (Current legal counsel)
+      - Nancy Koerner (Author of "A Verbal Lynching In Alabama")
+    llm_text: The Maxwell-Tillman Law Firm challenges Murray "Bubba" Lawrence Jr.'s 2003 murder conviction using new Brady Evidence. See how this legal fight impacts Baldwin County leaders like Sheriff Huey Mack.
+    text: The Maxwell-Tillman Law Firm challenges Murray Lawrence Jr.'s 2003 murder conviction with new Brady evidence. How does this legal battle affect leaders like Sheriff Huey Mack?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T18:50:33.902002Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-187-the-pardon:
+    refined_source: a86373b15367870ed7d59b0f5f36e0c14a6e1011a52376968e17fbf6c0916f57
+    brief: |-
+      THE CONFLICT:
+      *   2003: Murray "Bubba" Lawrence Jr. was convicted of the murder of Brandon Hastings.
+      *   Event: Hastings disappeared from Foley, Alabama, during Spring Break 2003; body found near Guitier/Vancleave, Mississippi, one week later.
+      *   Conviction Basis: Word of a co-conspirator, deemed a "Deal With The Devil" by Baldwin County District Attorney David Whetstone circa 2003.
+      *   Past Officials: Lead Detective was Lt. Huey Mack.
+
+      THE DISCOVERY:
+      *   Article 2 (Widget) does not provide a specific legal update regarding the Lawrence Jr. case or the Brady Evidence petition.
+      *   Article 2 discusses general allegations of misconduct, wrongful arrests, and First Amendment issues related to local government corruption.
+
+      THE PIVOT:
+      *   Article 2 provides broad context on local government corruption and wrongful arrests, thematically aligning with the alleged miscarriage of justice (conviction based on a co-conspirator's word) detailed in Article 1, but is not a direct update or 'smoking gun' evidence for the specific case.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Brandon Hastings
+      *   Lt. Huey Mack (Current 5th term Sheriff of Baldwin County)
+      *   David Whetstone (Baldwin County District Attorney circa 2003)
+      *   Robert Wilters (Current second term District Attorney)
+      *   Harry Still (No longer Attorney of Record)
+      *   The Maxwell- Tillman Law Firm (Handling new trial petition)
+      *   Baldwin County (Location)
+      *   Foley, Alabama / Guitier/Vancleave, Mississippi (Locations)
+    llm_text: Bubba Lawrence Jr. was convicted of the Brandon Hastings murder in 2003, relying solely on a co-conspirator's word. Read how broad Baldwin County corruption and misconduct might fuel this potential miscarriage of justice.
+    text: Bubba Lawrence Jr. was convicted of the Brandon Hastings murder in 2003 using only a co-conspirator's word. Did Baldwin County corruption cause a wrongful conviction?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T18:52:45.987527Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT:
+      - Murray "Bubba" Lawrence Jr. convicted of murder of Brandon Hastings.
+      - Brandon Hastings disappeared from Foley, Alabama during Spring Break of 2003.
+      - Body found about a week later near Guitier/Vancleave, Mississippi.
+      - State convicted Lawrence on the word of a co-conspirator.
+      - David Whetstone Baldwin County District Attorney, circa 2003, called it a "Deal With The Devil."
+      - Lt. Huey Mack was Lead Detective; now 5th term Sheriff of Baldwin County.
+      - Judge in case Robert Wilters now serving second term as District Attorney after 22-year stretch on bench.
+      - Harry Still was no longer Attorney of Record for Murray Lawrence Jr.
+      - Petition for new trial handled by The Maxwell-Tillman Law Firm in Birmingham, Alabama.
+      - Petition based on newly discovered Brady Evidence.
+      - Lagniappe newspaper cover featuring Murray Lawrence Jr., headline "Digging Deep" about missing autopsy evidence, overlaid with Baldwin County and...
+      - "A Verbal Lynching In Alabama" copyrighted by Nancy Koerner, shared by Backstory Podcast with permission.
+
+      THE DISCOVERY:
+      - Article 2 is Backstory Podcast No. 186.
+      - Content includes discussions on 2024 US Presidential election results, Trump Cabinet 2.0, government spending on misinformation, impact of war in Ukraine, and Alabama news stories, including closing of rural hospitals and changes to hunting seasons.
+      - Content includes legal and political issues, including antitrust lawsuits against Google and proposed constitutional amendments in Alabama.
+      - Content includes input from Veterans/Consumer Advocate, journalist, and attorney.
+      - Article 2 is newer than Article 1 and frames as an update.
+      - Supplied content does not show new Brady Evidence or new proof in Murray Lawrence Jr. case.
+
+      THE PIVOT:
+      - Article 2 is newer update.
+      - Article 2's Alabama legal/political coverage is key context for Article 1's Brady Evidence/new trial narrative.
+      - Newly discovered Brady Evidence is the smoking gun; Article 2 is key context/update.
+
+      THE KEY ENTITIES:
+      - Murray Lawrence Jr.
+      - Brandon Hastings
+      - Foley, Alabama
+      - Spring Break 2003
+      - Guitier/Vancleave, Mississippi
+      - Co-conspirator
+      - David Whetstone Baldwin County District Attorney
+      - Lt. Huey Mack
+      - Baldwin County
+      - Robert Wilters
+      - District Attorney
+      - Harry Still
+      - The Maxwell-Tillman Law Firm
+      - Birmingham, Alabama
+      - Brady Evidence
+      - Lagniappe Mobile Newspaper
+      - Nancy Koerner
+      - Backstory Podcast
+      - Backstory Podcast No. 186
+      - Veterans/Consumer Advocate
+      - Journalist
+      - Attorney
+      - Alabama
+      - 2024 US Presidential election results
+      - Trump Cabinet 2.0
+      - Government spending on misinformation
+      - War in Ukraine
+      - Rural hospitals
+      - Hunting seasons
+      - Antitrust lawsuits against Google
+      - Proposed constitutional amendments in Alabama
+      - Lowery — flagged in instruction as entity to mention; no supplied detail.
+    llm_text: Murray 'Bubba' Lawrence Jr. grabbed a murder conviction in 2003 from a co-conspirator's word, and now The Maxwell-Tillman Law Firm fights for a new trial with Brady Evidence. The Backstory Podcast's No. 186 puts this Alabama legal fight beside the 2024 election, Trump Cabinet, and misinformation fights you should care about.
+    text: Murray 'Bubba' Lawrence Jr. grabbed a murder conviction in 2003 from a co-conspirator's word, and now The Maxwell-Tillman Law Firm fights for a new trial with Brady Evidence. The Backstory Podcast's No. 186 puts this Alabama legal fight beside the 2024 election, Trump Cabinet, and misinformation fights you should care about.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T18:50:19.266004Z"
     model_name: recursive/flint-v1.0:free

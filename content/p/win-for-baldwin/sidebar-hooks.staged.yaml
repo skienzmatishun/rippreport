@@ -5,58 +5,69 @@ metadata:
   main_date: "2022-06-22"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  primary-election-may-24th:
-    brief: |-
-      THE CONFLICT: Jerry Carl defeated CATALYST's Lowtower in the Republican House Race.
-      THE DISCOVERY: Article 2 highlighted voter dissatisfaction with the status quo, specifically targeting Steve Marshall (a former Democrat/Don Siegleman appointee) during the May 24th primary preview.
-      THE PIVOT: Article 2 establishes a historical anti-status quo sentiment in Baldwin County, which directly contextualizes the later rejection of the two-payroll-check candidate and the success of Matt McKenzie, a candidate backed by BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA).
-      KEY ENTITIES: Matt McKenzie, Jerry Carl, CATALYST, Scott Boone Consulting, Lowtower, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA), Steve Marshall, Don Siegleman, Robert Craft, Baldwin County.
-    llm_text: Jerry Carl beat Lowtower in the Republican House Race. Baldwin County voters reject the status quo, a trend proven by Carl's win and Matt McKenzie's success against figures like Steve Marshall.
-    widget_date: "2022-05-23"
-    generated_at: "2026-11-06T22:54:02.263053Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  last-chance:
+  roll-of-the-dice:
+    refined_source: cd7061ea6f707c669b709ca450d9912c4a72fc232f61ff5aa59de0cb702c140a
     brief: |-
       THE CONFLICT:
-      Past loss for CATALYST: Jerry Carl beat CATALYST’s Lowtower in the Republican House Race.
-      Historical issues: Baldwin County Judiciary and 14 municipal governments face common corruption (fixed bids, fraud lawsuits, judicial shenanigans).
+      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race.
 
       THE DISCOVERY:
-      Article 2 revealed that Baldwin County has a "good ole boy mentality" costing taxpayers millions.
-      Article 2 specifically criticized Johnathan Armstrong for receiving two county payroll checks and benefits, highlighting a conflict of interest.
-      Article 2 positioned Matt McKenzie as the non-Catalyst, low-baggage choice receiving only one check.
+      *   For over 20 years, Alabama has discussed a state lottery.
+      *   The Legislative Services Agency estimated the lottery would bring $272 million to $358 million annually.
+      *   A December 2020 report projected gaming could boost state revenue by $710 million per year (lottery, casinos, sportsbook).
 
       THE PIVOT:
-      Article 2 established the existence of deep-seated corruption and named Johnathan Armstrong as a conflicted candidate.
-      Article 1 confirms the outcome of the election in County Commission District 2: Matt McKenzie won, resulting in the rejection of both the conflicted candidate (Armstrong) and the CATALYST candidate.
+      *   The recent rejection of the CATALYST candidate in Baldwin County (Article 1) reflects a broader citizen demand for accountability regarding long-term state financial failures, such as the loss of potential lottery revenue detailed in the older Article 2.
 
       KEY ENTITIES:
-      Matt McKenzie (Winner, County Commission District 2)
-      Johnathan Armstrong
-      Steve Carey (Catalyst candidate)
-      Jerry Carl
-      Lowtower
-      Scott Boone Consulting (CATALYST)
-      Tucker Dorsey
-      Jeb Ball
-      BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-      Baldwin County
-      Joe Faust
-    llm_text: Johnathan Armstrong received two county payroll checks, revealing deep Baldwin County corruption and a "good ole boy mentality." Matt McKenzie won District 2, offering taxpayers a clean, low-baggage alternative to the conflicted candidates.
-    widget_date: "2022-05-23"
-    generated_at: "2026-11-06T22:56:19.793551Z"
+      *   Matt McKenzie
+      *   Baldwin County
+      *   Jerry Carl
+      *   Lowtower
+      *   CATALYST (Scott Boone Consulting)
+      *   BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+      *   Legislative Services Agency
+    llm_text: Jerry Carl defeated Lowtower in the Republican House Race, reflecting a Baldwin County demand for accountability. Citizens now push lawmakers to address long-term state failures, including the lost $272M-$358M potential from the Alabama lottery.
+    text: Jerry Carl defeated Lowtower in the Republican House race. Will lawmakers address the lost millions from the unpassed Alabama lottery?
+    widget_date: "2022-03-04"
+    generated_at: "2026-11-06T22:55:11.474338Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  talking-heads:
+  wrong-ball:
+    refined_source: 55355e05bd3c9c7eaab0c1cac06bf055af80748673765fd931a6e5af59de0002
     brief: |-
-      THE CONFLICT: Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two, allowing them to fire staff who reported Sen. Trip Pittman taking BP contracts during the 2010 oil spill.
-      THE DISCOVERY: Baldwin County has a population exceeding 250,000 but only 4 commissioners, creating a high probability of deadlock and block voting.
-      THE PIVOT: Article 2 established the pattern of corrupt, deadlock-forming block votes (Elliott/Dorsey; projected Ball/Armstrong), providing the context for Article 1, where voters rejected candidates (CATALYST) associated with this block-vote mentality, leading to Matt McKenzie's election.
-      KEY ENTITIES: Matt McKenzie, Baldwin County Citizens For Government Accountability (CGA), Jerry Carl, Lowtower, CATALYST, Chris Elliott, Tucker Dorsey, Sen. Trip Pittman, Jeb Ball, Johnathan Armstrong, Steve Carey
-    llm_text: Chris Elliott and Tucker Dorsey used block votes to fire staff reporting Sen. Trip Pittman's BP contracts. See how voters rejected this corruption mentality, electing Matt McKenzie to demand accountability in Baldwin County.
-    widget_date: "2022-05-18"
-    generated_at: "2026-11-06T22:58:39.299243Z"
+      THE CONFLICT:
+      *   Frank Burt held the County Commissioner position in District 1 since 1988 (29 years).
+      *   Catalyst attempted to unseat Burt by recruiting Jeb Ball as a candidate.
+      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race (first major loss for CATALYST).
+      *   Baldwin County citizens rejected the candidate receiving two payroll checks, marking CATALYST’s second major loss.
+
+      THE DISCOVERY:
+      *   BCSA, which provides court-ordered drug/alcohol courses, was founded by judges and lawyers, including Judge Michelle Hart (aka Thomason).
+      *   BCSA functions as a "money scheme" allowing payment to clear convictions, collecting fees and urine tests in CASH.
+      *   Jeb Ball was viewed as representing Catalyst interests, not Baldwin County, due to potential conflicts of interest holding both a Commissioner seat and BCSA Director.
+
+      THE PIVOT:
+      *   Article 2 established the fundamental conflict of interest (BCSA money scheme/Ball representing Catalyst) and the public desire for change against entrenched power (Burt).
+      *   Article 1 confirms the public rejection of the Catalyst agenda and its candidates (the rejection of the "two payroll checks" candidate), validating the earlier concerns about Catalyst's lack of connection to Baldwin County.
+
+      KEY ENTITIES:
+      *   Matt McKenzie (County Commission District 2 winner)
+      *   Baldwin County Citizens For Government Accountability (CGA)
+      *   Jerry Carl
+      *   Lowtower
+      *   Frank Burt
+      *   Jeb Ball
+      *   Judge Michelle Hart (aka Thomason)
+      *   Baldwin County Substance Abuse Services (BCSA)
+      *   Catalyst (Scott Boone Consulting)
+      *   Baldwin County (location)
+    llm_text: Baldwin County citizens rejected Catalyst's agenda, confirming skepticism about outside interests like Jeb Ball. Learn how BCSA's "money scheme," linked to Judge Michelle Hart, fuels the conflict against Frank Burt's 29-year reign.
+    text: Baldwin County citizens rejected the political agenda of CATALYST and Jeb Ball. How does a money scheme involving Judge Michelle Hart fuel local conflicts?
+    widget_date: "2018-03-09"
+    generated_at: "2026-11-06T23:03:52.713220Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shooting-yourself-in-the-foot:
+    refined_source: 839f9f707cbbbf9deaa7825e0f755a01128ac7e87ebf045dff4767a437c25fe2
     brief: |-
       THE CONFLICT:
       *   2007: Baldwin Substance Abuse Services Inc. (BSAS) was founded through the District Attorney’s office.
@@ -85,76 +96,24 @@ hooks:
       *   Baldwin Substance Abuse Services Inc. (BSAS)
       *   Baldwin County
     llm_text: CATALYST (Scott Boone Consulting) maintains a "strangle hold" on Baldwin County politics through BSAS. Find out how Jeb Ball and Jonathan Armstrong could receive double pay amid deep conflicts involving BSAS and Judge Michell Thomason.
+    text: Scott Boone Consulting maintains control over Baldwin County politics. Why do officials like Jeb Ball and Jonathan Armstrong receive double pay?
     widget_date: "2022-05-17"
     generated_at: "2026-11-06T22:57:33.270698Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  roll-of-the-dice:
-    brief: |-
-      THE CONFLICT:
-      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race.
-
-      THE DISCOVERY:
-      *   For over 20 years, Alabama has discussed a state lottery.
-      *   The Legislative Services Agency estimated the lottery would bring $272 million to $358 million annually.
-      *   A December 2020 report projected gaming could boost state revenue by $710 million per year (lottery, casinos, sportsbook).
-
-      THE PIVOT:
-      *   The recent rejection of the CATALYST candidate in Baldwin County (Article 1) reflects a broader citizen demand for accountability regarding long-term state financial failures, such as the loss of potential lottery revenue detailed in the older Article 2.
-
-      KEY ENTITIES:
-      *   Matt McKenzie
-      *   Baldwin County
-      *   Jerry Carl
-      *   Lowtower
-      *   CATALYST (Scott Boone Consulting)
-      *   BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-      *   Legislative Services Agency
-    llm_text: Jerry Carl defeated Lowtower in the Republican House Race, reflecting a Baldwin County demand for accountability. Citizens now push lawmakers to address long-term state failures, including the lost $272M-$358M potential from the Alabama lottery.
-    widget_date: "2022-03-04"
-    generated_at: "2026-11-06T22:55:11.474338Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-yes-today:
+    refined_source: 5e8f7e239487eea7e8d2b4c1e28885ad4a4f5f0faab755c14c24a1c510097d44
     brief: |-
       THE CONFLICT: Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race.
       THE DISCOVERY: Article 2 references local voter focus on District Zoning and Vote 8.
       THE PIVOT: Article 2 provides the local context (zoning/local ballot issues) within Baldwin County that aligns with the anti-establishment sentiment leading to Matt McKenzie’s victory over the CATALYST candidate.
       KEY ENTITIES: Matt McKenzie, Baldwin County, Jerry Carl, CATALYST (Scott Boone Consulting), Lowtower, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-    llm_text: Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race, proving Baldwin County voters prioritize local issues. Discover how District Zoning and Vote 8 shaped this anti-establishment victory for Matt McKenzie and what it means for your community.
+    llm_text: Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race, proving Baldwin County voters prioritize local issues. Read how District Zoning and Vote 8 shaped this anti-establishment victory for Matt McKenzie and what it means for your community.
+    text: Jerry Carl defeated the CATALYST candidate in the Republican primary. What does this anti-establishment victory mean for Baldwin County?
     widget_date: "2022-02-15"
     generated_at: "2026-11-06T22:59:39.085046Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  make-8-great:
-    brief: |-
-      THE CONFLICT:
-      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race.
-      *   Fairhope historically avoided annexing the African American community by requiring property owner requests for annexation.
-      *   Jack Burrell, Burrell Boone, and Brown pushed the purchase of farmland for recreation despite citizen opposition (including Clarice Hall Black).
-
-      THE DISCOVERY:
-      *   Fairhope's policy of restricted annexation demonstrates a history of ignoring and treating the African American community poorly.
-      *   Fairhope spent $2.6 million on farmland for recreation, then rented it for $9000 a year.
-
-      THE PIVOT:
-      *   Article 2 demonstrates historical local government failures (discriminatory policy, misuse of public funds) in Fairhope, which provides context for the demand for "Government Accountability" supported by CGA in Article 1.
-      *   The shared name "Boone" links the historical land push (Article 2) to the political entity CATALYST/Scott Boone Consulting (Article 1).
-
-      KEY ENTITIES:
-      *   Matt McKenzie (County Commission District 2)
-      *   Baldwin County
-      *   BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-      *   CATALYST / Scott Boone Consulting
-      *   Jerry Carl
-      *   Lowtower
-      *   Clarice Hall Black
-      *   Jack Burrell
-      *   Fairhope
-      *   Planning District 8
-      *   Boone (linked to land purchase and consulting)
-    llm_text: Fairhope historically ignored the African American community through restricted annexation, a fact Clarice Hall Black highlighted. See how the city misused $2.6 million on rented farmland, fueling demands for CGA government accountability.
-    widget_date: "2021-10-16"
-    generated_at: "2026-11-06T23:00:48.130548Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-alabama-values:
+    refined_source: 7f048a565e579507098a2c2d01aec7ff242f6cfdd46590fd9df385205c25867f
     brief: |-
       THE CONFLICT:
       Chris Elliott was appointed to the Baldwin County Commission by Governor Robert Bentley.
@@ -179,10 +138,12 @@ hooks:
       Tim Russell (Baldwin County Probate Judge)
       Tucker Dorsey
     llm_text: Chris Elliott and Catalyst engaged in corrupt, self-serving practices, including $8 million tax hikes and approving the Baldwin County Sewer right-of-way. Despite Tripp Pittman's $750,000 BP payout, citizens rejected this machine when Matt McKenzie won the election.
+    text: Chris Elliott and CATALYST backed tax hikes and Baldwin County sewer projects. Why did voters reject Tripp Pittman and elect Matt McKenzie?
     widget_date: "2018-05-18"
     generated_at: "2026-11-06T23:01:49.428809Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   cooking-for-the-judge:
+    refined_source: 237b5e45ba9f84e65ecb27712e29d9320c7fdff488a4a483ec8a2a252fe61d4a
     brief: |-
       THE CONFLICT:
       *   Catalyst sought total control over Baldwin County Government (County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney, State Senate seat).
@@ -212,38 +173,97 @@ hooks:
       *   Stacy
       *   Sen Trip Pittman
     llm_text: Catalyst sought total control of Baldwin County offices, leveraging influence from Sheriff Mack and Sen Trip Pittman. Citizens rejected the primary candidate, electing Matt McKenzie and stopping Catalyst's systemic power grab.
+    text: CATALYST wanted total control of Baldwin County offices with help from Sheriff Mack and Tripp Pittman. How did voters stop this political power grab by electing Matt McKenzie?
     widget_date: "2018-05-14"
     generated_at: "2026-11-06T23:02:49.430890Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  wrong-ball:
+  primary-election-may-24th:
+    refined_source: d9a1523524c693647aa6184af7f9fbca0cc99fa52d791bfe2d894d89ac690f25
+    brief: |-
+      THE CONFLICT: Jerry Carl defeated CATALYST's Lowtower in the Republican House Race.
+      THE DISCOVERY: Article 2 highlighted voter dissatisfaction with the status quo, specifically targeting Steve Marshall (a former Democrat/Don Siegleman appointee) during the May 24th primary preview.
+      THE PIVOT: Article 2 establishes a historical anti-status quo sentiment in Baldwin County, which directly contextualizes the later rejection of the two-payroll-check candidate and the success of Matt McKenzie, a candidate backed by BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA).
+      KEY ENTITIES: Matt McKenzie, Jerry Carl, CATALYST, Scott Boone Consulting, Lowtower, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA), Steve Marshall, Don Siegleman, Robert Craft, Baldwin County.
+    llm_text: Jerry Carl beat Lowtower in the Republican House Race. Baldwin County voters reject the status quo, a trend proven by Carl's win and Matt McKenzie's success against figures like Steve Marshall.
+    text: Jerry Carl won the Republican House primary against Lowtower. Do Baldwin County voters reject the political status quo?
+    widget_date: "2022-05-23"
+    generated_at: "2026-11-06T22:54:02.263053Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  talking-heads:
+    refined_source: b5505dc050099990732e31cc07d24da7f6f857cbd2c43b72cb11bb7159f9c75d
+    brief: |-
+      THE CONFLICT: Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two, allowing them to fire staff who reported Sen. Trip Pittman taking BP contracts during the 2010 oil spill.
+      THE DISCOVERY: Baldwin County has a population exceeding 250,000 but only 4 commissioners, creating a high probability of deadlock and block voting.
+      THE PIVOT: Article 2 established the pattern of corrupt, deadlock-forming block votes (Elliott/Dorsey; projected Ball/Armstrong), providing the context for Article 1, where voters rejected candidates (CATALYST) associated with this block-vote mentality, leading to Matt McKenzie's election.
+      KEY ENTITIES: Matt McKenzie, Baldwin County Citizens For Government Accountability (CGA), Jerry Carl, Lowtower, CATALYST, Chris Elliott, Tucker Dorsey, Sen. Trip Pittman, Jeb Ball, Johnathan Armstrong, Steve Carey
+    llm_text: Chris Elliott and Tucker Dorsey used block votes to fire staff reporting Sen. Trip Pittman's BP contracts. See how voters rejected this corruption mentality, electing Matt McKenzie to demand accountability in Baldwin County.
+    text: Chris Elliott and Tucker Dorsey fired staff who reported Tripp Pittman's BP contracts. How did voters reject this corruption by electing Matt McKenzie?
+    widget_date: "2022-05-18"
+    generated_at: "2026-11-06T22:58:39.299243Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  make-8-great:
+    refined_source: 1601cf8dad62d5ffe17c4044e71127a98b3cdee25b53fb1950462f981a8d7550
     brief: |-
       THE CONFLICT:
-      *   Frank Burt held the County Commissioner position in District 1 since 1988 (29 years).
-      *   Catalyst attempted to unseat Burt by recruiting Jeb Ball as a candidate.
-      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race (first major loss for CATALYST).
-      *   Baldwin County citizens rejected the candidate receiving two payroll checks, marking CATALYST’s second major loss.
+      *   Jerry Carl defeated CATALYST’s Lowtower in the Republican House Race.
+      *   Fairhope historically avoided annexing the African American community by requiring property owner requests for annexation.
+      *   Jack Burrell, Burrell Boone, and Brown pushed the purchase of farmland for recreation despite citizen opposition (including Clarice Hall Black).
 
       THE DISCOVERY:
-      *   BCSA, which provides court-ordered drug/alcohol courses, was founded by judges and lawyers, including Judge Michelle Hart (aka Thomason).
-      *   BCSA functions as a "money scheme" allowing payment to clear convictions, collecting fees and urine tests in CASH.
-      *   Jeb Ball was viewed as representing Catalyst interests, not Baldwin County, due to potential conflicts of interest holding both a Commissioner seat and BCSA Director.
+      *   Fairhope's policy of restricted annexation demonstrates a history of ignoring and treating the African American community poorly.
+      *   Fairhope spent $2.6 million on farmland for recreation, then rented it for $9000 a year.
 
       THE PIVOT:
-      *   Article 2 established the fundamental conflict of interest (BCSA money scheme/Ball representing Catalyst) and the public desire for change against entrenched power (Burt).
-      *   Article 1 confirms the public rejection of the Catalyst agenda and its candidates (the rejection of the "two payroll checks" candidate), validating the earlier concerns about Catalyst's lack of connection to Baldwin County.
+      *   Article 2 demonstrates historical local government failures (discriminatory policy, misuse of public funds) in Fairhope, which provides context for the demand for "Government Accountability" supported by CGA in Article 1.
+      *   The shared name "Boone" links the historical land push (Article 2) to the political entity CATALYST/Scott Boone Consulting (Article 1).
 
       KEY ENTITIES:
-      *   Matt McKenzie (County Commission District 2 winner)
-      *   Baldwin County Citizens For Government Accountability (CGA)
+      *   Matt McKenzie (County Commission District 2)
+      *   Baldwin County
+      *   BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+      *   CATALYST / Scott Boone Consulting
       *   Jerry Carl
       *   Lowtower
-      *   Frank Burt
-      *   Jeb Ball
-      *   Judge Michelle Hart (aka Thomason)
-      *   Baldwin County Substance Abuse Services (BCSA)
-      *   Catalyst (Scott Boone Consulting)
-      *   Baldwin County (location)
-    llm_text: Baldwin County citizens rejected Catalyst's agenda, confirming skepticism about outside interests like Jeb Ball. Learn how BCSA's "money scheme," linked to Judge Michelle Hart, fuels the conflict against Frank Burt's 29-year reign.
-    widget_date: "2018-03-09"
-    generated_at: "2026-11-06T23:03:52.713220Z"
+      *   Clarice Hall Black
+      *   Jack Burrell
+      *   Fairhope
+      *   Planning District 8
+      *   Boone (linked to land purchase and consulting)
+    llm_text: Fairhope historically ignored the African American community through restricted annexation, a fact Clarice Hall Black highlighted. See how the city misused $2.6 million on rented farmland, fueling demands for CGA government accountability.
+    text: Fairhope historically ignored the Black community through restricted annexation. Why did the city spend $2.6 million on rented farmland?
+    widget_date: "2021-10-16"
+    generated_at: "2026-11-06T23:00:48.130548Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  last-chance:
+    refined_source: ca65a3cc5985559170a146e66c2858fa707a0a64707707bae11b93348d250a5d
+    brief: |-
+      THE CONFLICT:
+      Past loss for CATALYST: Jerry Carl beat CATALYST’s Lowtower in the Republican House Race.
+      Historical issues: Baldwin County Judiciary and 14 municipal governments face common corruption (fixed bids, fraud lawsuits, judicial shenanigans).
+
+      THE DISCOVERY:
+      Article 2 revealed that Baldwin County has a "good ole boy mentality" costing taxpayers millions.
+      Article 2 specifically criticized Johnathan Armstrong for receiving two county payroll checks and benefits, highlighting a conflict of interest.
+      Article 2 positioned Matt McKenzie as the non-Catalyst, low-baggage choice receiving only one check.
+
+      THE PIVOT:
+      Article 2 established the existence of deep-seated corruption and named Johnathan Armstrong as a conflicted candidate.
+      Article 1 confirms the outcome of the election in County Commission District 2: Matt McKenzie won, resulting in the rejection of both the conflicted candidate (Armstrong) and the CATALYST candidate.
+
+      KEY ENTITIES:
+      Matt McKenzie (Winner, County Commission District 2)
+      Johnathan Armstrong
+      Steve Carey (Catalyst candidate)
+      Jerry Carl
+      Lowtower
+      Scott Boone Consulting (CATALYST)
+      Tucker Dorsey
+      Jeb Ball
+      BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+      Baldwin County
+      Joe Faust
+    llm_text: Johnathan Armstrong received two county payroll checks, revealing deep Baldwin County corruption and a "good ole boy mentality." Matt McKenzie won District 2, offering taxpayers a clean, low-baggage alternative to the conflicted candidates.
+    text: Johnathan Armstrong received two county paychecks in a sign of local corruption. Why did voters choose Matt McKenzie as a clean alternative?
+    widget_date: "2022-05-23"
+    generated_at: "2026-11-06T22:56:19.793551Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

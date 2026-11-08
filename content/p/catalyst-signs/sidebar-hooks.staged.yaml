@@ -1,0 +1,225 @@
+metadata:
+  generated_at: "2026-11-07T16:28:37.225596Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-signs
+  main_date: "2020-08-07"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  catalyst-aka-scott-boone-consulting:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County political group CATALYST rebranded to Scott Boone Consulting (CSB) after the CATALYST name became "politically toxic"; rebrand followed elected officials under the CATALYST banner disassociating from the brand.
+      - CSB operates like the Club for Growth PAC: helps elect candidates who are thereafter "owned" by CSB; CSB candidates support each other, share gratuities, and form a political alliance spanning the county.
+      - CSB candidates' signs all identical PVC framed; CSB uses signs as its number one election tool; CSB placed hundreds of signs overnight in Fairhope, Daphne, Spanish Fort, and Bay Minette; Bay Minette is CSB's new home.
+      - Municipal Judge: devout CSB supporter; city council voted in favor of the judge multiple times; Burrell placed himself on the bid committee that awarded the judge a prime location for a jet airplane hangar.
+      - Jerry Carl (Club for Growth candidate) defeated CATALYST/SCOTT BOONE in the First Congressional Race (recent timeframe).
+      - In the 2016 Fairhope election, a man was caught with a pickup truck full of signs, all opposing the status quo.
+
+      THE DISCOVERY:
+      - Article 2 (Widget: "CATALYST AKA SCOTT BOONE CONSULTING") — older/background context — revealed for newcomers: CATALYST was the "good ole boys" until it became toxic; recently changed name to Scott Boone Consulting; same individual (Scott Boone) hiding under a new name.
+      - CATALYST/SCOTT BOONE Consulting financed by developers, land owners, and groups profiting from unbridled development; opposed regulations, impact fees, infrastructure needs; spent little on schools.
+      - Good ole Boys clique (CATALYST/SCOTT BOONE): felt entitled to inside deals; did not recognize conflicts of interest, ethics, transparency, or accountability; used inside information to secure municipal/public contracts while in office; hid behind Christianity, per article.
+      - CATALYST compared to modified Strawman land fraud defendants: formed integral part of intricate web of multiple concentric layers of LLCs intended to conceal interrelationships and insulate principal actors from liability.
+      - Strawman series (Lagniappe): exposed small segment of corruption; players include Scott Boone, his father Fairhope councilman Kevin Boone, Baldwin County sewer, past County Commissioner Tucker Dorsey.
+      - CATALYST associates operate similar to a criminal enterprise; FBI defines criminal enterprise as a group with identified hierarchy or comparable structure engaged in significant criminal activity.
+      - CATALYST recently lost the First Congressional Race to Jerry Carl.
+
+      THE PIVOT:
+      - Article 2 is older and frames as background/historical context; Article 1 (Main: "CATALYST SIGNS") is newer/current coverage.
+      - Article 2 is the smoking gun for Article 1 because it provides the underlying profile of CATALYST/SCOTT BOONE Consulting — financing, Strawman legal context, election loss, "good ole boys" structure — against which Article 1's sign-focused allegations are read.
+      - Article 2's description of CSB as Club for Growth-like, inside-deal operators, and criminal-enterprise parallels gives context that makes Article 1's coordinated CSB sign claims and Municipal Judge/CSB alignment coherent.
+
+      THE KEY ENTITIES:
+      - Scott Boone / Scott Boone Consulting (CSB)
+      - Kevin Boone — Scott Boone's father, Fairhope councilman
+      - Sherry Snodeker — BBB
+      - Burrell — bid committee member who awarded Municipal Judge jet hangar location
+      - Jerry Carl — Club for Growth; defeated CATALYST/SCOTT BOONE in First Congressional Race
+      - Tucker Dorsey — past Baldwin County Commissioner
+      - Municipal Judge — CSB supporter; city council voted in favor multiple times
+      - Mayor of Daphne — aligned with CSB
+      - Fairhope, Daphne, Spanish Fort, Bay Minette, Baldwin County, Lagniappe
+      - Club for Growth; candidate "Lowtower"
+    llm_text: Baldwin County's Scott Boone Consulting spent hundreds of identical PVC signs overnight across Fairhope and Daphne, then its pick helped elect a judge who backed it. That old CATALYST story now ties to CSB, Jerry Carl's loss, and a political machine playing like the Club for Growth.
+    text: Baldwin County's Scott Boone Consulting spent hundreds of identical PVC signs overnight across Fairhope and Daphne, then its pick helped elect a judge who backed it. That old CATALYST story now ties to CSB, Jerry Carl's loss, and a political machine playing like the Club for Growth.
+    widget_date: "2020-08-05"
+    generated_at: "2026-11-07T16:25:31.516240Z"
+    model_name: recursive/flint-v1.0:free
+  scary:
+    refined_source: 392119830efac7e1b831bd84d8fbec5b7616e1579ecceb7c24b60cb5c38f5a70
+    brief: |-
+      THE CONFLICT:
+      *   Sherry Snedeker and two co-workers assisted the CATALYST council to undermine Mayor Karin Wilson from the start of her term.
+      *   This conflict occurred in Fairhope following the BP Oil Slick incident.
+      *   The previous Mayor served 16 years, contrasted with Mayor Wilson's 3.5 years.
+      *   A previous Utility manager position paid $60,000 annually, totaling $240,000 over 4 years.
+      *   CATALYST/Scott Boone Consulting was involved in the previous administration; Jerry Carl defeated CATALYST/Scott Boone in 2016.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Sherry Snedeker was a fired, disgruntled employee who sued the city and only had a high school education.
+      *   Article 2 established Mayor Karin Wilson possessed a college degree in finance and 25 years of business experience.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context for the conflict between CATALYST/Boone and Mayor Wilson, showing that the opposition is based on long-standing claims of corruption and power struggles, not just current political disagreements.
+      *   This historical conflict sets the stage for the current campaign strategy (Article 1), where CSB uses uniform PVC signs in multiple municipalities (Fairhope, Daphne, Spanish Fort, Bay Minette) to reclaim power lost in 2016.
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   CSB (Club for Growth style PAC)
+      *   Sherry Snedeker (BBB)
+      *   Karin Wilson
+      *   Jack Burrell
+      *   Municipal Judge
+      *   Jerry Carl
+      *   Fairhope, Daphne, Spanish Fort, Bay Minette
+      *   August 25th (Election Date)
+    llm_text: Fired employee Sherry Snedeker and Scott Boone used old corruption claims to undermine Mayor Karin Wilson in Fairhope. Wilson brings 25 years of business experience against an opposition rooted in long-standing power struggles.
+    text: Sherry Snedeker and Scott Boone used old claims to undermine Mayor Karin Wilson in Fairhope. Wilson brings business experience against an opposition rooted in power struggles.
+    widget_date: "2020-08-01"
+    generated_at: "2026-11-07T16:25:56.115376Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  oil-slick:
+    refined_source: 077fbd79b74fe870cb95d2e99e128c542cbc5ae813c0270c3899283481bde4e4
+    brief: |-
+      THE CONFLICT: BP caused the greatest environmental disaster in US history, involving the Deepwater Horizon oil spill and the use of nearly 2 million gallons of Corexit dispersant; this resulted in a massive Gulf Coast health crisis.
+      THE DISCOVERY: A former BP executive, who oversaw the cleanup, is now running for Fairhope Mayor and promoting the restrictive "Good Vibes" Pledge, which discourages discussing past bad acts or BP history.
+      THE PIVOT: Article 2 establishes a historical pattern of cover-ups (BP negligence/fraud) and political maneuvering (Good Vibes Pledge restricting free speech) within Fairhope, providing context that the current CSB/Catalyst campaign (Article 1) is fighting against a deeply entrenched, corrupt status quo.
+      KEY ENTITIES: Scott Boone; Catalyst; CSB; Sherry Snedeker; Municipal Judge; Burrell; Brown; Boone (father of Scott Boone); John Manelos; Karin Wilson; Sherry Sullivan; BP; Fairhope; Daphne; Spanish Fort; Bay Minette; July 28 (date of Widget Article).
+    llm_text: Former BP executive Scott Boone pushes the "Good Vibes" Pledge in Fairhope, actively discouraging talk about the Deepwater Horizon disaster and Corexit use. Fight this historical cover-up; your voice matters in holding Fairhope accountable for the Gulf Coast health crisis.
+    text: Former BP executive Scott Boone pushes the Good Vibes Pledge to discourage talk about the Deepwater Horizon disaster. Fight this cover-up and hold local leaders accountable.
+    widget_date: "2020-07-29"
+    generated_at: "2026-11-07T16:27:10.275994Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-last-stand:
+    refined_source: 3f26331abcecad204ed3e9e191427e9c4066e4bc46baa2a6084258d24d7253b1
+    brief: |-
+      THE CONFLICT:
+      *   The "three B's"—Jack Burrell, Kevin Boone, and Robert Brown—were councilmen in Baldwin County, misusing their offices for personal gain and supporting the CATALYST political machine for four years.
+      *   This period led to costs for taxpayers totaling millions.
+      *   Sherry Sullivan, who was the Mistress of propaganda for then Mayor Cant, lied and helped cover up BP fraud and infrastructure issues.
+      *   The CATALYST/Scott Boone brand lost power in the 2016 Fairhope election, which Jerry Carl defeated.
+
+      THE DISCOVERY:
+      *   The older article established that Mayor Wilson secured $18 million in BP RESTORE Act funds and $6.2 million for the Waterfront, while also stopping corrupt politician deals (like those benefiting Senator Pittman) and achieving fiscal self-reliance, reducing an annual $6 million deficit.
+      *   It confirmed that Kevin Boone had multiple LLCs linking him to developers and that Robert Brown had a pending Attorney General Complaint and Ethics complaint.
+
+      THE PIVOT:
+      *   The older article (Widget) documented the specific, provable corruption and fiscal mismanagement under the CATALYST regime (e.g., the "three B's" and Sullivan's role in the BP cover-up).
+      *   The newer article (Main) demonstrates that despite the 2016 electoral defeat and the exposure of past corruption, the CATALYST entity has not dissolved but has rebranded as Scott Boone Consulting (CSB) and is executing a highly coordinated, saturated electoral campaign using uniform PVC signs across multiple municipalities (Fairhope, Daphne, Spanish Fort, Bay Minette) to reclaim power.
+
+      KEY ENTITIES:
+      *   Scott Boone / CSB
+      *   Sherry Sullivan
+      *   Jack Burrell
+      *   Kevin Boone
+      *   Robert Brown
+      *   Jimmy Conyers
+      *   Cory Martin
+      *   Mayor Wilson
+      *   BP
+      *   Cant
+      *   Pittman
+      *   Fairhope
+      *   Daphne
+      *   Spanish Fort
+      *   Bay Minette
+    llm_text: Jack Burrell, Kevin Boone, and Robert Brown faced exposure for misusing power under Mayor Cant's CATALYST regime. Now rebranded as Scott Boone Consulting, they are saturating Fairhope and Daphne with PVC signs to reclaim the power they lost in 2016.
+    text: Jack Burrell, Kevin Boone, and Robert Brown misused power under Mayor Cant. Now rebranded as Scott Boone Consulting, they flood Fairhope with signs to reclaim lost power.
+    widget_date: "2020-07-22"
+    generated_at: "2026-11-07T16:28:21.431601Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  history-repeating-itself:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County/Fairhope political election and Fairhope waterfront grant conflict.
+      - Catalyst became Scott Boone Consulting; CATALYST/SCOTT BOONE/CSB are one and the same.
+      - CSB operates like Club for Growth PAC; helps elect candidates but owns them; supports each other; shares gratuities; forms political alliance spanning county.
+      - 2016 Fairhope election: CSB/Status Quo candidates lost; core group of past administration wanted back power.
+      - In 2016 Fairhope election, man caught with pickup full of signs, all were signs of those opposing the status quo.
+      - Main article: Sherry hugged up to Boone signs; Boone Brown and Burrell accompanying; cocktail of candidates 100% CSB; voting for these four going backwards and handing Fairhope over to developers and corrupt politicians.
+      - Municipal judge devout supporter of CSB; city council voted in favor of judge multiple times; Burrell arranged himself on bid committee that awarded judge prime location for jet airplane hangar.
+      - Last month: judge had Club for Growth candidate “Lowtower” signs on property, provided by CSB; Jerry Carl defeated CATALYST/SCOTT BOONE and sent “Lowtower” into shadows.
+      - Daphne: CSB candidates signs shoulder to shoulder; unit not individuals; Catalyst/Scott Boone and current Mayor of Daphne picking next Mayor and City Council; do not vote for any CSB candidates.
+      - Spanish Fort and Bay Minette: signs same style PVC framed CATALYST/Scott Boone signs, manufactured at same place.
+      - CSB put signs up in Fairhope, Daphne, Spanish Fort and Bay Minette overnight, hundreds of signs, all supporting CSB candidates; signs all same PVC framed.
+      - Fairhope: sign disappearance perfected; in next two weeks hear of signs missing/destroyed/damaged, none CSB; in 2016 Fairhope election man caught with pickup full of signs, all opposing status quo.
+      - VOTE AUG 25th.
+
+      THE DISCOVERY:
+      - Article 2 is older, posted Jul 15, 2020 by Francis Paul Ripp, Letter to Editor responding to Mr. Howell Raines’ op-ed and follow-up Ltr, referencing Fairhope waterfront.
+      - Article 2 proves/argues Raines’ commentary was strictly political, not waterfront; by peppering commentary with political comments and voicing conclusion, Raines made issue political.
+      - In 2003, Raines and New York Times parted ways after scandal that resulted in dismissal; now commentary on waterfront grant in Fairhope looks like may be up to old tricks.
+      - Ripp says project not mayor’s plan; it’s citizens’ plan; burden on worst council to ever sit in Fairhope’s council chambers.
+      - Ripp says flyer by Raines is political vehicle with several flat tires; bluff not going to be graded away; assertion beach area will not work false; Grand Hotel has beach design by same engineers; Raines at 77 didn’t want beach, but families/kids disagree.
+      - Ripp says Raines shows no compassion for ADA requirements; concern would prevent additional parking on Scenic 98 parallel to park, access point for wheelchairs; residents along bluff did not want more tourists/locals; Raines may represent them, not citizens of Fairhope.
+      - Ripp says Raines did not mention first infrastructure project on waterfront in 50 years; claims historic bluff destroyed pure fantasy; Ecor Rouge Bluffs about two miles north in Montrose; Raines’ historic bluff is cutback after lower park built; unusable property covered with kudzu; proposed is 5 percent grade, ADA compliant walkway, safe for disabled veterans/citizens to reach lower park.
+      - Raines admitted six weeks late even reading about project and never went to meeting; never addressed City Council; never responded to survey that 570 Fairhope citizens participated in; never said a word to Alabama Gulf Coast Recovery Council; never spoke to Alabama Department of Conservation and Natural Resources; never said a word to Department of Treasury.
+      - Raines wrote poison pen letter with political intent of satisfying status quo; alluded ink drying on contract for waterfront project, false; Mayor Wilson pledged citizen engagement will continue and everyone will have opportunity to participate in waterfront plan.
+      - Ripp: Mr. Raines, please attend meetings so you can understand what is really happening. And check your sources. This has been serious problem for you in past.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and frames as background/historical context for Article 1.
+      - Article 2 documents political manipulation/false statements re Fairhope waterfront by Howell Raines; Ripp’s response is older context.
+      - Article 1 uses CSB signs/elections to expose political alliance/status quo in Baldwin County/Fairhope.
+      - Smoking gun/key context: Article 2 proves Raines used political vehicle/false statements to create political issue; Article 1 shows CSB signs as tool of political alliance/status quo. Both involve political deception/status quo manipulation.
+      - Article 2’s facts (Raines did not attend meetings, did not respond to survey, etc.) parallel Article 1’s call to watch signs/use brain.
+
+      KEY ENTITIES:
+      - Scott Boone, Scott Boone Consulting (CSB), Catalyst, Club for Growth, Sherry Sneed/Snedeker, Boone Brown, Burrell, Jerry Carl, Lowtower, Municipal Judge, Fairhope City Council, Mayor Wilson, Fairhope, Baldwin County, Daphne, Spanish Fort, Bay Minette, Howell Raines, Francis Paul Ripp, Paul Ripp, The Ripp Report, Backstory Podcast, Alabama Gulf Coast Recovery Council, Alabama Department of Conservation and Natural Resources, Department of the Treasury, Grand Hotel, Ecor Rouge Bluffs, Montrose, Scenic 98, ADA, 570 Fairhope citizens, 50 years, 5 percent grade, 77 years old, 2003, Jul 15, 2020, 2016, Aug 25, 2020.
+      - Lowery, Wilters.
+    llm_text: Scott Boone's CSB hid behind Club for Growth signs to pull Fairhope's status quo back into power, and now Jerry Carl crushed 'Lowtower' last month. The same political deception reaches the waterfront fight when Howell Raines pushed false claims instead of facing City Council or the 570 citizen survey.
+    text: Scott Boone's CSB hid behind Club for Growth signs to pull Fairhope's status quo back into power, and now Jerry Carl crushed 'Lowtower' last month. The same political deception reaches the waterfront fight when Howell Raines pushed false claims instead of facing City Council or the 570 citizen survey.
+    widget_date: "2020-07-15"
+    generated_at: "2026-11-07T16:26:49.315519Z"
+    model_name: recursive/flint-v1.0:free
+  vote-jerry-carl-today:
+    refined_source: c490903b14ed9e0954984ec392dfc049eb9a0c7ebdc2b10dee969e4fb956e0f4
+    brief: |-
+      THE CONFLICT:
+      A political alliance known as CATALYST (now rebranded as Scott Boone Consulting or CSB) operates a coordinated campaign machine to control elected officials across Baldwin County. The group uses uniform, PVC-framed signage to saturate municipalities including Fairhope, Daphne, Spanish Fort, and Bay Minette. The alliance, which lost power in 2016, is currently attempting to reclaim influence through a slate of candidates including Sherry Snedeker, Boone Brown, and Burrell. The group is accused of "owning" officials through mutual gratuities and controlling local decisions, such as the Municipal Judge's property and jet hangar location.
+
+      THE DISCOVERY:
+      Article 2 documents the political campaign and rise of Jerry Carl.
+
+      THE PIVOT:
+      Article 2 provides the historical context of the political shift that disrupted the CSB machine. Article 1 identifies Jerry Carl's victory as the specific event that defeated the CATALYST-backed candidate "Lowtower," serving as the primary evidence that the CSB/Scott Boone influence can be defeated.
+
+      KEY ENTITIES:
+      - Scott Boone (Scott Boone Consulting / CSB)
+      - Jerry Carl
+      - "Lowtower" (CSB/Club for Growth candidate)
+      - Sherry Snedeker
+      - Boone Brown
+      - Burrell
+      - Municipal Judge (Fairhope)
+      - Mayor of Daphne
+      - Locations: Fairhope, Daphne, Spanish Fort, Bay Minette
+    llm_text: Scott Boone Consulting is mobilizing a coordinated machine of candidates like Sherry Snedeker and Boone Brown to reclaim its grip on Baldwin County. Jerry Carl’s victory over the CSB-backed Lowtower provides the blueprint for how voters can shatter this political powerhouse.
+    text: Scott Boone Consulting mobilizes candidates like Sherry Snedeker to reclaim Baldwin County. Jerry Carl's victory provides a blueprint for voters to shatter this political machine.
+    widget_date: "2020-07-14"
+    generated_at: "2026-11-07T16:26:53.737614Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  nappi-award:
+    refined_source: 15b0e54caa96836c971cf01ae1d4c79beb2ce9e28602a6e4cd0d61db2f948ca8
+    brief: |-
+      THE CONFLICT: A power struggle exists between the administration of Mayor Karin Wilson and a political alliance known as CSB (formerly CATALYST/Scott Boone Consulting). CSB, led by Scott Boone, lost political control in 2016 and is currently attempting to reclaim municipal power in Fairhope, Daphne, Spanish Fort, and Bay Minette through a coordinated, high-saturation sign campaign targeting the upcoming August 25th election.
+
+      THE DISCOVERY: During her four-year term, Mayor Karin Wilson has been in direct, "tooth and nail" conflict with the Fairhope City Council. Her administration focused on reversing a $6 million annual deficit, investing $14 million in utility upgrades, and securing $18 million in RESTORE funds for sewer systems.
+
+      THE PIVOT: Article 2 establishes that the "status quo" the CSB group is attempting to overthrow is a specific, fiscally-focused administration that has been systematically blocked by the City Council. This identifies the Council and its allies—specifically the "cocktail of candidates" mentioned in Article 1—as the primary vehicle for CSB to retake the power they lost in 2016.
+
+      KEY ENTITIES:
+      - Karin Wilson (Mayor, Fairhope)
+      - Scott Boone (Scott Boone Consulting/CATALYST)
+      - Sherry Snedeker
+      - Boone Brown
+      - Burrell
+      - "Lowtower" (Candidate)
+      - Jerry Carl
+      - CSB (Catalyst/Scott Boone Consulting)
+      - Fairhope City Council
+    llm_text: Scott Boone and his CSB alliance are flooding the streets with signs to reclaim the municipal power they lost in 2016. Read how this coordinated push targets Mayor Karin Wilson’s fiscal-focused administration and threatens to reshape leadership across Fairhope and the surrounding cities.
+    text: Scott Boone and his alliance flood the streets with signs to reclaim municipal power. This coordinated push targets Mayor Karin Wilson and threatens leadership across Fairhope.
+    widget_date: "2020-08-06"
+    generated_at: "2026-11-07T16:25:37.039531Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'

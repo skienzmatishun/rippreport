@@ -1,0 +1,156 @@
+metadata:
+  generated_at: "2026-11-08T01:51:41.762993Z"
+  generator_version: 1.0.0
+  post_slug: alabama-national-news
+  main_date: "2019-05-15"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  dog-and-pony-show-2:
+    brief: |-
+      THE CONFLICT:
+      - Main Article metadata: Title: ALABAMA NATIONAL NEWS. Image Context: map of Alabama overlaid with central gold medal featuring red ribbons and text LAST PLACE. Key Topics: alabama.
+      - Main Article content: Today’s National news, Alabama is capturing the headlines. First: conditions of the Alabama Prison System. Second: Alabama’s National ranking in Education with sad but not surprising results: DEAD LAST.
+      - Main Article content: Education is a sham in Alabama; blame for the deplorable state of Alabama’s education system lies squarely on politicians and voters. For twenty years Alabama has talked about an education lottery but what happens when finally given the chance? There is not one word about nor one dime toward education.
+      - Main Article content: Politicians have ignored education through lies and manipulation, instead convincing voters that salvation lies in self-imposed property taxes. Teachers donate time and money in fundraisers for school supplies while parents are constantly asked to financially chip in. Baldwin County “portable” campuses will be a norm.
+      - Main Article content: Third Alabama headline is Abortion. Alabama is last in education and first in worst prison system in the U.S., and now wants to also be first in its opposition to Abortion. Even incest and rape or being a minor are not considered as factors for abortion if a woman has the misfortune to be a victim in Alabama.
+      - Main Article content: “Alabama is better than this”. But are we? Governor Kay Ivey will bear the burden of the decision to sign the bill or veto it. Most likely she will celebrate signing the bill into law.
+      - Widget Article metadata: Title: DOG AND PONY SHOW. Key Topics: burrell, catalyst, city-council, Triangle Lawsuit, Fly Creek, Kevin Boone, Triangle Lawsuit, wilson.
+      - Widget content: Jack uses “special meetings” to eliminate public participation and by passing council meetings. Monday night is a council meeting however Jack did not want any public input.
+      - Widget content: Today’s “special” meeting, May 10 @ 3:30, was a true dog and pony show. Capt. Jack of course commanded the meeting with his typical bulling style. Jack wants to be Mayor and he says he needs to have all the finance people close to each other so he can find them.
+      - Widget content: Jack Burrell should be the very last one to trust with any type of accounting. He claims to be working as an engineer but cannot prove it. He never has explained HIS police report.
+      - Widget content: Please remember it was Jack Burrell and Kevin Boone who approved the Fly Creek Apartments and accepted the “gift” from the developer.
+      - Widget content: Let’s not forget the raiding of the utility fund as a slush fund, it cost us 3 million for the Triangle lawsuit from utilities. Jack and Kevin want you to believe the 11.25 million dollar legal settlement was actually a purchase for a “park” which is an outright lie.
+      - Widget content: The council has not delivered one city budget on time. They failed with K-1.
+      - Widget content: This council has not accomplished one significant issue in 3 years, except to follow Jack like puppies.
+      - Widget content: Jack Burrell has been Council President for 7 years, not one other council person has been President. They are followers and all need to be replaced. Fairhope needs public servants and fresh candidates for the council in 2020.
+      - Widget content: This is about micro managing city employees and the 2020 election. Fairhope better wake up. CATALYST has plans to steal Fairhope. It is a CATALYST City Council and they all have dirty hands. Watch for yourself how the council follows Jack.
+
+      THE DISCOVERY:
+      - Article 2 revealed the Dog and Pony Show at today’s special meeting, May 10 @ 3:30.
+      - Article 2 revealed Jack uses “special meetings” to eliminate public participation.
+      - Article 2 revealed Monday night council meeting had no public input because Jack did not want any.
+      - Article 2 revealed Capt. Jack commanded meeting with typical bulling style.
+      - Article 2 revealed Jack wants to be Mayor and says he needs all finance people close to each other so he can find them.
+      - Article 2 revealed Jack Burrell should be the last one to trust with any type of accounting.
+      - Article 2 revealed Jack Burrell claims to be working as an engineer but cannot prove it.
+      - Article 2 revealed Jack Burrell never explained his police report.
+      - Article 2 revealed Jack Burrell and Kevin Boone approved Fly Creek Apartments and accepted the “gift” from the developer.
+      - Article 2 revealed utility fund was raided as a slush fund, costing 3 million for the Triangle lawsuit from utilities.
+      - Article 2 revealed Jack and Kevin want you to believe the 11.25 million dollar legal settlement was a purchase for a “park”, which is an outright lie.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and should be framed as background/historical context.
+      - Article 2 is the smoking gun/key context for Article 1 because it contains local facts: Jack Burrell, Kevin Boone, Fairhope, CATALYST, City Council, Fly Creek Apartments, utility fund slush fund, Triangle lawsuit, special meetings, no public input, council failures, 2020 election.
+      - Article 2 connects local council actions to Article 1’s Alabama headlines: education, prison, abortion, politicians/voters, Governor Kay Ivey, accountability.
+      - Article 2’s local facts serve as background for Article 1’s current Alabama national news.
+
+      KEY ENTITIES:
+      - Names: Jack Burrell, Kevin Boone, Capt. Jack, Kay Ivey, Wilson.
+      - Organizations: Alabama Prison System, City Council, CATALYST, Utilities, Triangle Lawsuit.
+      - Locations: Alabama, Baldwin County, Fairhope, Fly Creek.
+      - Titles: Governor Kay Ivey, Council President, Mayor, Capt. Jack.
+      - Dollar amounts: 3 million, 11.25 million.
+      - Dates: May 10 @ 3:30, 2020, 7 years, 20 years, 3 years.
+      - Lowery/Wilters: not present in provided source material.
+    llm_text: Jack Burrell bullied Fairhope’s City Council into a secret “special” meeting on May 10, shutting down public input while he chased his Mayor comeback. This local dog-and-pony show hides the same accountability crisis making Alabama last in education and first in prisons.
+    widget_date: "2019-05-10"
+    generated_at: "2026-11-08T01:49:34.169047Z"
+    model_name: recursive/flint-v1.0:free
+  dog-and-pony-show:
+    brief: |-
+      THE CONFLICT:
+      1. The City of Fairhope operated at a ~$6M deficit prior to structural reform.
+      2. Mayor Karin Wilson consolidated roles (Treasurer/Finance Director) in October 2018.
+      3. Fairhope projected to be debt-free in June 2019.
+      4. The Catalyst Council opposed Mayor Wilson’s goals, including her immediate, no-tax education plan, favoring a self-imposed $3M tax.
+
+      THE DISCOVERY:
+      1. Mayor Karin Wilson successfully turned around the City of Fairhope financially without borrowing money.
+      2. The Catalyst Council was responsible for the Apartments at Fly Creek, a project the Mayor opposed.
+
+      THE PIVOT:
+      1. Article 2 shows that local political opposition (Catalyst Council) rejected effective, tax-free solutions (Mayor Wilson’s education plan).
+      2. This local failure mirrors the state-wide political failure criticized in Article 1, where Alabama is ranked "DEAD LAST" in education despite calls for funding.
+
+      KEY ENTITIES:
+      1. Karin Wilson
+      2. Fairhope
+      3. Catalyst Council
+      4. Governor Kay Ivey
+      5. Baldwin County
+    llm_text: Mayor Karin Wilson successfully turned around Fairhope's $6M deficit without raising taxes. Yet, the Catalyst Council rejected her effective plan, mirroring why Alabama remains dead last in education.
+    widget_date: "2019-05-10"
+    generated_at: "2026-11-08T01:49:31.319195Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blood-in-the-water:
+    brief: |-
+      THE CONFLICT:
+      *   Moore/Jones Senate runoff took place in December 2017.
+      *   Judge Moore was noted for violating an oath once in office.
+      *   Tripp Pittman and Big Luther are cited as history.
+
+      THE DISCOVERY:
+      *   Democrats in Alabama (Doug Jones) were gaining traction against the Tea Party/Republican establishment (Moore).
+      *   Voter turnout was low (14.39% overall, 451,161 voters from 3,134,166 registered voters).
+      *   Republican tolerance for political corruption held Alabama back from progress.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that despite the deep-seated political corruption and issues highlighted in Article 1 (poor education, prison system conditions), a political challenge (Jones' rise) was possible, indicating systemic vulnerability to change.
+      *   The entrenched political failure and corruption described in Article 2 are the root cause of the "DEAD LAST" education ranking and the poor prison system conditions discussed in Article 1.
+
+      KEY ENTITIES:
+      *   Doug Jones
+      *   Judge Moore
+      *   Tripp Pittman
+      *   Big Luther
+      *   Governor Kay Ivey
+      *   Alabama
+      *   Baldwin County
+      *   Jefferson County
+      *   Mobile County
+      *   Montgomery County
+      *   Shelby County
+    llm_text: Judge Moore's oath violation fueled Alabama's political corruption, blocking progress despite Doug Jones' rise. See how this entrenched failure drives poor education and prison conditions across the state.
+    widget_date: "2017-09-27"
+    generated_at: "2026-11-08T01:50:30.432970Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-guardrails:
+    brief: |-
+      THE CONFLICT: Matt Hart, public corruption prosecutor, resigned from the Alabama Attorney General’s Office on Monday morning, November 19, 2018.
+      THE DISCOVERY: Alabama is ranked number 1 in political corruption, and the Attorney General’s Office has a diminished ability to combat this due to the removal of a key prosecutor.
+      THE PIVOT: The removal of Matt Hart highlights a lack of effective "guardrails" against political corruption, providing context for contemporary negative findings regarding Alabama, specifically its "DEAD LAST" national ranking in Education and its prison system issues.
+      KEY ENTITIES: Alabama AG, Ethics Commission, Steve Marshall (Attorney General), Matt Hart, Mike Hubbard (former, convicted Speaker of the House), Kay Ivey (Governor)
+    llm_text: 'Matt Hart resigned from the Alabama AG''s Office, worsening the state''s #1 political corruption ranking. See how this loss impacts Alabama''s "DEAD LAST" education scores and prison issues.'
+    widget_date: "2018-11-23"
+    generated_at: "2026-11-08T01:48:46.297301Z"
+    model_name: plugsky-lite
+  insanity:
+    brief: |-
+      THE CONFLICT: Chris Elliott ran for State Senate Seat 32, spending in excess of $600,000; his campaign was allegedly leveraged by Sheriff Eddie Tyler, Baldwin County School Superintendent, Mayor Craft, Mayor Kennon, and Mayor Gumbo.
+      THE DISCOVERY: Article 2 revealed localized political corruption and undue influence controlling local and state-level elections in Alabama.
+      THE PIVOT: The corruption and systemic political entanglement described in Article 2 (local control of officials/campaigns) provides context for the state-wide systemic failures highlighted in Article 1 (education ranking DEAD LAST; poor prison conditions).
+      KEY ENTITIES: Kay Ivey, Chris Elliott, Jason Fisher, Sheriff Eddie Tyler, Baldwin County School Superintendent, Craft, Kennon, Gumbo
+    llm_text: Chris Elliott's $600k campaign allegedly leveraged Sheriff Eddie Tyler, Mayor Craft, Mayor Kennon, and Mayor Gumbo. This local corruption reveals how undue influence drives Alabama's systemic failures, from dead-last education to poor prison conditions.
+    widget_date: "2018-10-10"
+    generated_at: "2026-11-08T01:51:26.955928Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-senate-seat-district-32-bombs-away:
+    brief: |-
+      THE CONFLICT: Boom Boom Pittman skimmed $750,000 of BP money for a personal tractor company; Baldwin County received only over $100 million out of a $1 billion BP spill settlement.
+      THE DISCOVERY: Article 1 details Alabama's "DEAD LAST" ranking in Education, first in worst prison system, and strong opposition to abortion, with Governor Kay Ivey facing a decision on related legislation.
+      THE PIVOT: Article 2 provides historical context on local political corruption (Pittman/BP funds) within Baldwin County, which is relevant to understanding the political climate and local power dynamics referenced generally in Article 1 (e.g., politicians ignoring education/issues).
+      KEY ENTITIES: Boom Boom Pittman, Baldwin County, BP, David Northcutt, Chris Elliott, Jeff Boyd, Bill Roberts, Jason Fisher, Governor Kay Ivey
+    llm_text: Boom Boom Pittman skimmed $750k of BP money from Baldwin County, linking local corruption to Alabama's "DEAD LAST" education ranking. See how this political history shapes Governor Kay Ivey's tough decisions now.
+    widget_date: "2018-05-21"
+    generated_at: "2026-11-08T01:48:53.873920Z"
+    model_name: plugsky-lite
+  alabama-sec-of-state-the-only-one:
+    brief: |-
+      THE CONFLICT: Complaints filed in Baldwin County related to possible election tampering; complaints against Judges Michelle Thomason and Buddy Bracken; complaints against attorneys including Steven Johnson; ethics complaints involving elected officials like Sen. Trip Pittman who kept $750,000 from BP.
+      THE DISCOVERY: John Merrill, Alabama Secretary of State, took action by having the 2016 Fairhope election monitored by his office following complaints submitted by The Ripp Report; Karin Wilson won the Fairhope mayoral election (facing a 16-year incumbent with four times the money) by approximately 600 votes.
+      THE PIVOT: Article 2 establishes John Merrill's role as the only state official in Baldwin County who acted on constituent complaints, contrasting this proactive role against the inaction of the Judiciary, Bar Association, and Baldwin County DA's office, providing a specific example of effective oversight in a region where political failings (mentioned in Article 1) are highlighted.
+      KEY ENTITIES: John Merrill, Baldwin County, Fairhope, Karin Wilson, Michelle Thomason, Buddy Bracken, Steven Johnson, Sen. Trip Pittman, Kay Ivey, Alabama Secretary of State, The Ripp Report.
+    llm_text: John Merrill acted on Baldwin County complaints, monitoring Fairhope after Ripp Report alerts. See how Karin Wilson won against big money, contrasting Merrill's action with local official inaction.
+    widget_date: "2018-04-11"
+    generated_at: "2026-11-08T01:49:00.493623Z"
+    model_name: plugsky-lite

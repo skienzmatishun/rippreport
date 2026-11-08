@@ -5,71 +5,8 @@ metadata:
   main_date: "2022-05-20"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  stinky-business:
-    brief: |-
-      THE CONFLICT:
-      Jennifer Fidler and Sherry Sullivan were fired from Fairhope city posts by Mayor Karen Wilson in 2017.
-      Five years later, Fidler and Sullivan became top policy makers.
-      Councilman Kevin Boone and Jack Burrell publicly bullied Mayor Wilson at city council meetings.
-
-      THE DISCOVERY:
-      Baldwin County Sewer (BCSS) is a private, unregulated sewer utility in Alabama.
-      The County commission has refused to regulate BCSS.
-      BCSS has been involved in lawsuits involving land and business fraud.
-
-      THE PIVOT:
-      BCSS demonstrates a pattern of unchecked, systemic corruption (unregulated utility, fraud, rate hikes at will) within Baldwin County, providing context for the political corruption and double dipping highlighted by CATALYST/Fidler/Sullivan in Fairhope.
-
-      KEY ENTITIES:
-      Jennifer Fidler
-      Sherry Sullivan
-      Karen Wilson
-      Kevin Boone
-      Jack Burrell
-      CATALYST / Scott Boone Consulting
-      Baldwin County Sewer Services (BCSS)
-      Fairhope
-      Johnathan Armstrong
-      Joe Faust
-    llm_text: Jennifer Fidler and Sherry Sullivan navigated political conflict after Mayor Karen Wilson fired them in 2017. Baldwin County Sewer (BCSS) shows the same unchecked corruption, proving systemic fraud and rate hikes exist beyond Fairhope.
-    widget_date: "2022-05-19"
-    generated_at: "2026-11-06T23:24:11.723241Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  talking-heads:
-    brief: |-
-      THE CONFLICT:
-      2010: Sen. Trip Pittman took BP contracts during the oil spill; Chris Elliott and Tucker Dorsey covered for him.
-      Past: Chris Elliott and Tucker Dorsey formed a block vote of two as commissioners.
-      2017: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan from their Fairhope city posts.
-
-      THE DISCOVERY:
-      Baldwin County has only four commissioners representing a population topping 250,000, leading to a high chance of deadlocks and split votes.
-      Tucker Dorsey and Steve Carey are linked to the political group CATALYST.
-      Johnathan Armstrong and Jeb Ball are candidates for the county commission.
-
-      THE PIVOT:
-      Article 2 establishes the history of block voting and corruption within the four-commissioner Baldwin County structure (Elliott/Dorsey), setting the context for how CATALYST-aligned candidates (Steve Carey/Tucker Dorsey) operate within this system, which Article 1 then shows resulted in the successful political rise of Fidler and Sullivan five years after their 2017 firings.
-
-      KEY ENTITIES:
-      Jennifer Fidler
-      Sherry Sullivan
-      Karen Wilson (Former Mayor, Fairhope)
-      Kevin Boone
-      Jack Burrell
-      CATALYST (also Scott Boone Consulting)
-      Chris Elliott
-      Tucker Dorsey
-      Sen. Trip Pittman
-      Jeb Ball
-      Johnathan Armstrong
-      Steve Carey
-      Matt McKenzie
-      Mayor Sullivan (Fairhope)
-    llm_text: Baldwin County's four commissioners create deadlocks, linking Tucker Dorsey and Chris Elliott to past corruption. Their block voting history influenced Karen Wilson's 2017 firing of Jennifer Fidler and Sherry Sullivan.
-    widget_date: "2022-05-18"
-    generated_at: "2026-11-06T23:26:07.587755Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   threesome:
+    refined_source: 2ee909f7bc69f6791251cfc3ad78073ccc663b151b6839bc0e7c0fa7c38b6244
     brief: |-
       THE CONFLICT:
       2017: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan from their Fairhope city posts.
@@ -106,10 +43,12 @@ hooks:
       Fairhope (Fauxhope)
       Baldwin County
     llm_text: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan in 2017, yet they became top policy makers five years later. This isn't local drama; Baldwin County features systemic corruption involving Councilman Kevin Boone and Jack Burrell across 14 municipalities.
+    text: Mayor Karen Wilson fired two officials in 2017, yet they became top policy makers later. Baldwin County features systemic corruption involving Kevin Boone and Jack Burrell.
     widget_date: "2022-02-25"
     generated_at: "2026-11-06T23:27:32.644124Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   happy-days:
+    refined_source: 5ab4d23257cbfb280646dd403753575a48b183d4c8d64fb4240501a307d1c4aa
     brief: |-
       THE CONFLICT:
       *   In 2017, Jennifer Fidler and Sherry Sullivan were fired from their longtime Fairhope city posts by then-Mayor Karen Wilson.
@@ -136,46 +75,123 @@ hooks:
       *   State Senator Elliott
       *   Joe Faust
     llm_text: Karen Wilson fired Jennifer Fidler and Sherry Sullivan in 2017, but that action reveals deeper systemic corruption in Fairhope. Accountability mechanisms fail across Baldwin County, from Tom Albritton’s skimming to the misuse of 65 million for the Hoss Mack Judicial Center.
+    text: Karen Wilson fired two officials in 2017, revealing deeper systemic corruption in Fairhope. Accountability mechanisms fail across Baldwin County, from skimming to the judicial center.
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T23:28:40.683727Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mcsharry-madness:
+    refined_source: 2d56c59f1ebf915597feb073f028c405a3a344b351c02dc6afb7513760e45da9
     brief: |-
       THE CONFLICT: Ronan McSharry assaulted Paula DiNardi at the Little Whiskey Christmas Club; Fairhope Municipal Judge Haymes Snedeker found him guilty of assault and sentenced him to 180 days.
       THE DISCOVERY: Article 2 revealed systemic judicial failure where Baldwin County Circuit Judge Clark Stankoski dismissed the serious assault charge despite video evidence, while Council President Jack Burrell was linked to McSharry’s bar and possessed undisclosed police reports.
       THE PIVOT: Article 2 establishes the history of judicial and municipal collusion (e.g., Judge Stankoski's actions; Council President Burrell's ties) which provides the background for the later critique in Article 1 regarding Council and City Attorney complicity in maintaining corrupt power structures that rewarded CATALYST figures like Sherry Sullivan (receiving a raise and second utility check).
       KEY ENTITIES: Ronan McSharry, Paula DiNardi, Haymes Snedeker (Fairhope Municipal Judge), Clark Stankoski (Baldwin County Circuit Judge), Marcus McDowell (Fairhope City Attorney), Jack Burrell (Council President), Karen Wilson (then-Mayor), Jennifer Fidler, Sherry Sullivan, Kevin Boone, CATALYST/Scott Boone Consulting.
     llm_text: Judge Clark Stankoski dismissed Ronan McSharry’s assault charge against Paula DiNardi despite video evidence. Council President Jack Burrell tied to McSharry further reveals systemic municipal failure in Fairhope.
+    text: Judge Clark Stankoski dismissed an assault charge against Paula DiNardi despite video evidence. Council President Jack Burrell is tied to this municipal failure in Fairhope.
     widget_date: "2021-11-26"
     generated_at: "2026-11-06T23:25:12.756868Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   get-zoned-or-get-screwed:
+    refined_source: c17fa5697d99bac9b6bb6c9a6ba3de76744557b3bed7df575438975e97caa843
     brief: |-
       THE CONFLICT: Jennifer Fidler and Sherry Sullivan were fired from Fairhope city posts by then-Mayor Karen Wilson in 2017.
       THE DISCOVERY: Developers are actively seeking un-zoned properties (e.g., Proposed District 8 and District 37) within Fairhope and the 5-mile county line, exploiting a lack of local zoning and representation.
       THE PIVOT: The CATALYST political group, identified as a developers' party, gained political control (Fidler and Sullivan became top policy makers) which enables the exploitation of these un-zoned areas, solidifying control over Baldwin County.
       KEY ENTITIES: Fairhope, Karen Wilson, Jennifer Fidler, Sherry Sullivan, CATALYST, Kevin Boone, Jack Burrell, Mayor Sullivan, Joe Faust, Elizabeth Gabel Wilso, RSA development, Proposed District 8, Proposed District 37.
     llm_text: After Karen Wilson fired Jennifer Fidler and Sherry Sullivan, developers used the CATALYST group to seize power in Fairhope. See how they are exploiting un-zoned lands like Proposed District 8 and 37 within Baldwin County.
+    text: Developers used the CATALYST group to seize power in Fairhope after firings occurred. They are exploiting un-zoned lands like Proposed District 8 and 37 within Baldwin County.
     widget_date: "2021-11-19"
     generated_at: "2026-11-06T23:29:43.000288Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   black-cloud:
+    refined_source: 524e2d9d10aa31315c913870f2d7e992f584b77a351266ac21139e007a417cf9
     brief: |-
       THE CONFLICT: Baldwin County exhibits a lack of Transparency and Accountability, evidenced by land fraud (Bass vs. Burke/Delaney Ponzi scheme), voter disenfranchisement (Judge Thomason/Burdick), and ethics violations (Tom Albritton self-dealing).
       THE DISCOVERY: Article 2 revealed systemic corruption across Baldwin County, including judicial overreach, self-dealing by the Executive Director of Alabama Ethics Commission, and the concealment of evidence by the Baldwin County Sheriff Office (Boss Mack).
       THE PIVOT: Article 2 establishes the overarching culture of corruption ("The Machine") in Baldwin County, providing the necessary context for the specific political conflict in Article 1: the 2017 firing of Jennifer Fidler and Sherry Sullivan by Mayor Karen Wilson, which later led to alleged double dipping and political battles involving CATALYST.
       KEY ENTITIES: Jennifer Fidler, Sherry Sullivan, Mayor Karen Wilson, Kevin Boone, Jack Burrell, CATALYST, Scott Boone Consulting, Tom Albritton, Judge Thomason, Bass, Burke, Delaney, Boss Mack, Tom Parker, Baldwin County, Fairhope, Joe Faust.
-    llm_text: Baldwin County faces systemic corruption, from Tom Albritton's self-dealing to Boss Mack's evidence concealment. Discover how this "Machine" impacted Jennifer Fidler and Mayor Karen Wilson's political battles over CATALYST.
+    llm_text: Baldwin County faces systemic corruption, from Tom Albritton's self-dealing to Boss Mack's evidence concealment. Read how this "Machine" impacted Jennifer Fidler and Mayor Karen Wilson's political battles over CATALYST.
+    text: Baldwin County faces systemic corruption from self-dealing to evidence concealment. This machine impacted Jennifer Fidler and Mayor Karen Wilson's political battles.
     widget_date: "2021-10-08"
     generated_at: "2026-11-06T23:30:53.004425Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-the-three-bs-and-chuckee-cheeze:
+    refined_source: 76fca352a51ca3623ca86556557d7438a9dd3a7ed1bca6dfa127b3b2f31456b4
     brief: |-
       THE CONFLICT: 2017: Jennifer Fidler and Sherry Sullivan were fired from their Fairhope city posts by then-Mayor Karen Wilson.
       THE DISCOVERY: Catalyst is an entrenched political organization in Baldwin County, originally Stacy Elliott and Haygood, that hand-picks candidates (from probate judge to State Senate) to maintain control.
       THE PIVOT: Article 2 establishes that Catalyst, led by Scott Boone (son of Kevin Boone), is a long-standing, organized, and financed (by Prebble-Rish) system that uses intimidation and bully tactics, providing the structural context for the conflict described in Article 1.
       KEY ENTITIES: Jennifer Fidler, Sherry Sullivan, Karen Wilson, Kevin Boone, Scott Boone, Jack Burrell, Chuckee Cheeze (Gulf Coast News), Stacy Elliott, Haygood, Prebble-Rish, Fairhope, Baldwin County, Johnathan Armstrong, Steve Carey, Tucker Dorsey.
-    llm_text: Jennifer Fidler and Sherry Sullivan were fired by Mayor Karen Wilson in Fairhope. Discover how Catalyst, funded by Prebble-Rish and led by Scott Boone, uses intimidation to control Baldwin County politics.
+    llm_text: Jennifer Fidler and Sherry Sullivan were fired by Mayor Karen Wilson in Fairhope. Read how Catalyst, funded by Prebble-Rish and led by Scott Boone, uses intimidation to control Baldwin County politics.
+    text: Jennifer Fidler and Sherry Sullivan were fired by Mayor Karen Wilson in Fairhope. Catalyst uses intimidation funded by Prebble-Rish to control Baldwin County politics.
     widget_date: "2018-03-07"
     generated_at: "2026-11-06T23:32:03.229604Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stinky-business:
+    refined_source: 5910e4418f686e156c576bded489cd4ae77b40f8b5a976976438a4234a5db37e
+    brief: |-
+      THE CONFLICT:
+      Jennifer Fidler and Sherry Sullivan were fired from Fairhope city posts by Mayor Karen Wilson in 2017.
+      Five years later, Fidler and Sullivan became top policy makers.
+      Councilman Kevin Boone and Jack Burrell publicly bullied Mayor Wilson at city council meetings.
+
+      THE DISCOVERY:
+      Baldwin County Sewer (BCSS) is a private, unregulated sewer utility in Alabama.
+      The County commission has refused to regulate BCSS.
+      BCSS has been involved in lawsuits involving land and business fraud.
+
+      THE PIVOT:
+      BCSS demonstrates a pattern of unchecked, systemic corruption (unregulated utility, fraud, rate hikes at will) within Baldwin County, providing context for the political corruption and double dipping highlighted by CATALYST/Fidler/Sullivan in Fairhope.
+
+      KEY ENTITIES:
+      Jennifer Fidler
+      Sherry Sullivan
+      Karen Wilson
+      Kevin Boone
+      Jack Burrell
+      CATALYST / Scott Boone Consulting
+      Baldwin County Sewer Services (BCSS)
+      Fairhope
+      Johnathan Armstrong
+      Joe Faust
+    llm_text: Jennifer Fidler and Sherry Sullivan navigated political conflict after Mayor Karen Wilson fired them in 2017. Baldwin County Sewer (BCSS) shows the same unchecked corruption, proving systemic fraud and rate hikes exist beyond Fairhope.
+    text: Jennifer Fidler and Sherry Sullivan navigated political conflict after being fired. Baldwin County Sewer shows unchecked corruption, proving systemic fraud and rate hikes exist.
+    widget_date: "2022-05-19"
+    generated_at: "2026-11-06T23:24:11.723241Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  talking-heads:
+    refined_source: b732285a77a75cee6377b30d11387a2bc9f18049af7af1287c4d007c0f4dafc4
+    brief: |-
+      THE CONFLICT:
+      2010: Sen. Trip Pittman took BP contracts during the oil spill; Chris Elliott and Tucker Dorsey covered for him.
+      Past: Chris Elliott and Tucker Dorsey formed a block vote of two as commissioners.
+      2017: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan from their Fairhope city posts.
+
+      THE DISCOVERY:
+      Baldwin County has only four commissioners representing a population topping 250,000, leading to a high chance of deadlocks and split votes.
+      Tucker Dorsey and Steve Carey are linked to the political group CATALYST.
+      Johnathan Armstrong and Jeb Ball are candidates for the county commission.
+
+      THE PIVOT:
+      Article 2 establishes the history of block voting and corruption within the four-commissioner Baldwin County structure (Elliott/Dorsey), setting the context for how CATALYST-aligned candidates (Steve Carey/Tucker Dorsey) operate within this system, which Article 1 then shows resulted in the successful political rise of Fidler and Sullivan five years after their 2017 firings.
+
+      KEY ENTITIES:
+      Jennifer Fidler
+      Sherry Sullivan
+      Karen Wilson (Former Mayor, Fairhope)
+      Kevin Boone
+      Jack Burrell
+      CATALYST (also Scott Boone Consulting)
+      Chris Elliott
+      Tucker Dorsey
+      Sen. Trip Pittman
+      Jeb Ball
+      Johnathan Armstrong
+      Steve Carey
+      Matt McKenzie
+      Mayor Sullivan (Fairhope)
+    llm_text: Baldwin County's four commissioners create deadlocks, linking Tucker Dorsey and Chris Elliott to past corruption. Their block voting history influenced Karen Wilson's 2017 firing of Jennifer Fidler and Sherry Sullivan.
+    text: Baldwin County commissioners create deadlocks, linking Tucker Dorsey and Chris Elliott to corruption. Their block voting influenced the firing of Jennifer Fidler and Sherry Sullivan.
+    widget_date: "2022-05-18"
+    generated_at: "2026-11-06T23:26:07.587755Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

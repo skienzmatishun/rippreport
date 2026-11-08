@@ -1,0 +1,186 @@
+metadata:
+  generated_at: "2026-11-07T20:11:06.333469Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-state-of-the-city
+  main_date: "2020-02-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  read-and-listen:
+    brief: |-
+      THE CONFLICT:
+      - Catalyst City Council rejected a piece of land that was the first choice of the State Park Board, the citizens of the community, city staff, and Mayor Karin Wilson.
+      - The council ordered the appraisal before the citizens knew; the appraisal was dated June 28, 2019.
+      - The appraisal was highly questionable and described as the brain child of councilmen Burrell, Brown and Boone.
+      - The council members had made up their minds in June 2019 but strung out the citizens for months, using the line “we are only getting an appraisal.”
+      - The 3B’s moved to close on the property without any public input on the proposed property.
+      - In December, they paid 2.65 million for the farmland using tax dollars; the money was not allocated or budgeted for recreation land.
+      - The council purchased the K1 center and Nix building for over 5 million, which needs roof repairs.
+      - Main City Hall needs a new roof; recreation upgrades within the city are needed.
+      - Millions of dollars are now not available for city infrastructure projects; those projects are being held up for lack of budgeted funds.
+
+      THE DISCOVERY:
+      - In January 2020, the City Council declared the same 2.65 million dollar property surplus and not needed for public or municipal purposes in response to an offer to lease the property yearly from January 1 through December 31 for one year with four one-year options.
+      - Within 60 days of purchase, the property was designated “surplus and not needed for public or municipal purposes.”
+      - The property was leased for 9,000.00 per year.
+      - The main article states: “This is no joke. They have no money to develop the property???”
+      - The main article asks who got the “commission check”: Burrell, Brown or Boone? Or all three?
+
+      THE PIVOT:
+      - Article 2 is older and should be framed as background/historical context for Article 1.
+      - The widget article states: “The Fairhope City Council is really showing their colors.”
+      - The widget article states: “No ethics, No transparency, No accountability, No good.”
+      - The widget article directs listeners to the podcast on Freaky Friday’s around noon, Backstory Podcast.
+      - The Backstory Podcast is titled: “Your Voice and The Court of Public Opinion.”
+      - Article 2 is positioned as key context/smoking gun for Article 1 because it frames the council’s conduct around ethics, transparency, and accountability before or alongside the main article’s details on the 2.65 million property deal.
+
+      KEY ENTITIES:
+      - Mayor Karin Wilson
+      - Catalyst City Council
+      - Councilmen Burrell, Brown and Boone
+      - Fairhope City Council
+      - State Park Board
+      - Fairhope citizens
+      - City staff
+      - Public works
+      - K1 center
+      - Nix building
+      - City Hall
+      - Fairhope Civic Center
+      - Fairhope
+      - 105 Farmable Acres
+      - January 2020
+      - June 28, 2019
+      - December
+      - 2.65 million
+      - 9,000.00
+      - 5 million
+      - Backstory Podcast
+      - Freaky Friday
+      - Your Voice and The Court of Public Opinion
+      - Lowery
+      - Wilters
+    llm_text: Mayor Karin Wilson and Catalyst City Council spent $2.65 million on farmland in December 2019, then called it surplus in January 2020. Councilmen Burrell, Brown and Boone got an appraisal before the public knew, and Fairhope’s podcast asks who took the commission check.
+    text: Mayor Karin Wilson and Catalyst City Council spent $2.65 million on farmland in December 2019, then called it surplus in January 2020. Councilmen Burrell, Brown and Boone got an appraisal before the public knew, and Fairhope’s podcast asks who took the commission check.
+    widget_date: "2019-11-21"
+    generated_at: "2026-11-07T20:08:50.367901Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-colors:
+    brief: "THE CONFLICT: \n- Fairhope City Councilmen Burrell, Brown, and Boone (the \"3 B's\") pushed through a $2.65 million unbudgeted land purchase of 105 farmable acres for recreation without public input or National Park Service approval.\n- Appraisal ordered by the council was dated June 28, 2019.\n- Property sale closed on Friday, November 1, 2019, just days before the November 7, 2019 Connectivity Master Plan Workshop.\n- In January 2020, the City Council declared the newly purchased $2.65 million property as \"surplus\" and leased it out for $9,000 a year.\n- The unbudgeted purchase drained city accounts, resulting in delayed infrastructure projects, past-due city budgets, and potential police/employee cuts.\n- The entire City Council voted themselves a hidden, full family insurance package valued at $17,000 a year, which no other part-time city employee receives.\n- Councilman Robert Brown faced an Attorney General complaint regarding the Eastern Shore Art Center for using his office for personal gain.\n- The City Council appointed a Municipal Judge who is also the developer of the largest housing development in Fairhope, requiring approval from the very council that appointed him.\n\nTHE DISCOVERY: \n- Article 2 (the widget article, serving as historical context) establishes the timeline and mechanics of how the 3 B's bullied the $2.65 million land purchase through with lighting speed right before the November 2019 Park Service workshop, despite knowing it lacked National Park Service approval.\n- It exposes how the council drained multiple city accounts, jeopardized infrastructure and sewer repairs, and hid their $17,000-a-year family insurance benefits from the public until exposed by Mayor Karin Wilson.\n- It uncovers deep conflicts of interest, including an Attorney General complaint against Councilman Robert Brown and the appointment of a Municipal Judge who acts as a major commercial developer needing council approval.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it details the exact financial manipulation, hidden perks (family insurance), and premeditated land deals orchestrated by the \"Catalyst Council\" (Burrell, Brown, and Boone) that directly set up the governance crisis, infrastructure stagnation, and surplus declarations addressed in Article 1. \n\nKEY ENTITIES: \n- Mayor Karin Wilson\n- Councilman Jack Burrell (Captain Jack Burrell)\n- Councilman Robert Brown (\"The Jester\", Robert Brown For Our Hometown)\n- Councilman Kevin Boone (LLC Kevin Boone)\n- The 3 B's (Burrell, Brown, and Boone)\n- Fairhope City Council\n- State Park Board / National Park Service\n- Eastern Shore Art Center\n- Fairhope Civic Center"
+    llm_text: Fairhope Councilmen Jack Burrell, Robert Brown, and Kevin Boone rammed through a secret $2.65 million land deal that drained city funds and choked local infrastructure. Read how this reckless Catalyst Council manufactured a governance crisis while voting themselves hidden $17,000 family insurance perks.
+    text: Fairhope Councilmen Jack Burrell, Robert Brown, and Kevin Boone rammed through a secret $2.65 million land deal that drained city funds and choked local infrastructure. Read how this reckless Catalyst Council manufactured a governance crisis while voting themselves hidden $17,000 family insurance perks.
+    widget_date: "2019-11-07"
+    generated_at: "2026-11-07T20:08:29.012015Z"
+    model_name: gemini-3.5-flash-lite
+  honey-bees:
+    refined_source: 4ff9c2bac3d0e7e086420281f150bc45784f603b314d3a23355d7e83da712fa9
+    brief: |-
+      THE CONFLICT:
+      May 29th council meeting saw Mayor begging council to reconsider conservation easement (102 acres, $20 million) and proposed purchase of property on Hwy 13 (2.6 million). Burrell and Boone supported the lawsuit they lost, resulting in an $8.25 million settlement plus $3 million in attorney fees. September saw the 3 B's pass resolution to purchase 2.6 million property without public participation.
+
+      THE DISCOVERY:
+      The 2.65 million farmland purchase and subsequent designation of 105 Farmable Acres as surplus/leased for $9000.00 annually occurred in December and January 2020. An appraisal dated June 28, 2019, preceded the purchase decisions.
+
+      THE PIVOT:
+      Article 2 (older) establishes the history: the Council (3 B's) pushed for the purchase despite Mayor's pleas, despite a failed conservation easement fight, and the purchase was preceded by a questionable appraisal (May/September timeframe). Article 1 details the fallout: the purchase happened (December 2019), leading to millions unavailable for city infrastructure (roofs, recreation) and the property being declared surplus in January 2020.
+
+      KEY ENTITIES:
+      Karin Wilson (Mayor)
+      Burrell (Councilman)
+      Boone (Councilman)
+      Brown (Councilman)
+      Fairhope Council
+      Fairhope Civic Center
+      State Park Board
+      Hwy 13
+    llm_text: Mayor Karin Wilson begged the council to reconsider the $2.6M Hwy 13 purchase, but Councilmen Burrell and Boone pushed it through despite a questionable 2019 appraisal. See how this decision now leaves millions unavailable for Fairhope's critical city infrastructure.
+    text: Mayor Karin Wilson opposed the purchase of Highway 13 property, but Councilmen Jack Burrell and Kevin Boone forced the deal through using an outdated appraisal. This decision drained millions from vital city infrastructure funds.
+    widget_date: "2019-10-10"
+    generated_at: "2026-11-07T20:08:30.957866Z"
+    model_name: plugsky-lite
+  catalyst-central:
+    refined_source: af88c9bcc8b1cc29c18fd6872a1a814fddc5816d096f04cc5205536a4ff3a299
+    brief: |-
+      THE CONFLICT:
+      *   Councilmen Burrell, Brown, and Boone (the 3B's) ordered a questionable appraisal dated June 28, 2019.
+      *   The 3B's purchased 105 Farmable Acres (first choice of State Park Board and citizens) for $2.65 million in December 2019.
+      *   The property was subsequently declared "surplus and not needed" in January 2020 and leased for $9000.00 annually.
+      *   This action prevented millions of dollars from being allocated to city infrastructure projects (e.g., City Hall roof repair, recreation upgrades).
+
+      THE DISCOVERY:
+      *   In January 2020, the Ripp Report documented that the Fairhope City Council was controlled by a self-serving political faction called CATALYST.
+      *   CATALYST’s goal was to obstruct Fairhope government and drive the Mayor out of office before 2020.
+      *   Councilman Kevin Boone served as the official conduit for CATALYST, feeding information to his son, Scott Boone, who managed CATALYST.
+      *   County Commissioners Joe Davis and Jeb Ball voted against the public will regarding the Savannah Estates project.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context that the land purchase and surplus declaration in Article 1 were not isolated budgetary failures but calculated actions by the CATALYST bloc.
+      *   The actions of the 3B's align with CATALYST's established pattern of self-dealing, obstructing public interest, and prioritizing political control over municipal needs.
+
+      KEY ENTITIES:
+      *   Mayor Karin Wilson
+      *   Councilmen Burrell, Brown, Boone
+      *   CATALYST
+      *   Kevin Boone
+      *   Scott Boone
+      *   Joe Davis
+      *   Jeb Ball
+      *   Fairhope Civic Center
+      *   105 Farmable Acres
+      *   $2.65 million
+      *   $9000.00
+    llm_text: Councilmen Burrell, Brown, and Boone used a questionable $2.65 million purchase of 105 Farmable Acres to block crucial city infrastructure projects. Learn how the self-serving CATALYST bloc manipulated Fairhope politics to prioritize power over public needs.
+    text: Councilmen Jack Burrell, Robert Brown, and Kevin Boone spent $2.65 million on 105 farmable acres to block city infrastructure projects. The self-serving CATALYST bloc manipulated Fairhope politics to grab power over public needs.
+    widget_date: "2020-02-01"
+    generated_at: "2026-11-07T20:09:38.078289Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bar-stool-continued:
+    refined_source: 0b9343ed8e6b6a3a785482ede0d73aaa2562efca3e339a030d77b977194ebbaf
+    brief: |-
+      THE CONFLICT:
+      Councilmen Burrell, Brown, and Boone purchased 105 Farmable Acres for $2.65 million in December 2019.
+      This purchase was made despite the land being the State Park Board's first choice and was not budgeted for recreation land.
+
+      THE DISCOVERY:
+      The Widget Article documented a high-profile assault case involving McSherry, facing legal delays in Fairhope Municipal Court and Circuit Court.
+      McSherry's attorney is James Pittman.
+
+      THE PIVOT:
+      The two articles discuss separate issues (municipal finance/land misuse and criminal justice/assault case) with no factual connection provided in the texts.
+
+      KEY ENTITIES:
+      Karin Wilson (Mayor of Fairhope)
+      Burrell
+      Brown
+      Boone
+      McSherry
+      James Pittman
+      Fairhope Civic Center
+      Fairhope Municipal Court
+      Fairhope City Council
+      105 Farmable Acres
+      $2.65 million
+      $9000.00 (annual lease)
+    llm_text: Councilmen Burrell, Brown, and Boone spent $2.65 million on 105 Farmable Acres despite State Park Board preference. See why McSherry faces legal delays in Fairhope Municipal Court and how local politics affects justice.
+    text: Councilmen Jack Burrell, Robert Brown, and Kevin Boone spent $2.65 million on 105 farmable acres against State Park Board wishes. McSherry faces legal delays in Fairhope Municipal Court as local politics corrupt justice.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T20:10:47.060498Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  marble-mouth:
+    refined_source: d746e55051ecb0d2bebbbba481fb6a7ca9c7c29a47b003a3db0cfb9e3a734051
+    brief: |-
+      THE CONFLICT: City Council aligned with Council President Burrell for over 3 years; Council voted as a block 95% of the time; Councilmen Brown used office for personal gain (complaint pending with Alabama Attorney General); Mr Bowers accused Council of blackmail regarding the Boutique Hotel purchase.
+      THE DISCOVERY: City Council designated 105 Farmable Acres as surplus and not needed for public/municipal purposes in January 2020, leasing it yearly for $9000.00.
+      THE PIVOT: Article 2 (11/11/16) established the historical pattern of obstruction by Burrell and the council; it shows the pattern of questionable spending ($525,000 for <1000 sq ft), which sets context for the later 2.65 million purchase and immediate designation as surplus in Article 1.
+      KEY ENTITIES: Jay Robinson, Karin Wilson, Burrell, Brown, Boone, Councilmen Brown, Burrell, Mr Bowers, Alabama Attorney General
+    llm_text: Councilmen Brown and Burrell repeatedly aligned for three years, including Brown's personal gain claims. See how the council designated 105 Farmable Acres as surplus for a mere $9,000 yearly lease.
+    text: Councilmen Robert Brown and Jack Burrell voted together for three years while facing personal gain allegations. The council designated 105 farmable acres as surplus land for a yearly lease of only nine thousand dollars.
+    widget_date: "2020-01-15"
+    generated_at: "2026-11-07T20:08:24.011902Z"
+    model_name: plugsky-lite
+  malfunction-junction:
+    brief: "THE CONFLICT: \n- In June 2019, Fairhope City Council members Burrell, Brown, and Boone (the \"3B's\") ordered a questionable appraisal for a 105-acre farmland parcel (dated June 28, 2019).\n- Despite hiding the plan from citizens, claiming they were \"only getting an appraisal,\" the council used unbudgeted taxpayer funds to purchase the farmland for $2.65 million in December 2019. \n- In January 2020, within 60 days of purchase, the council declared the $2.65 million property \"surplus and not needed for public or municipal purposes,\" leasing it out for a mere $9,000 a year.\n- Mayor Karin Wilson and citizens wanted the land for a State Park Board initiative, but the council bypassed public input while millions were drained from needed city infrastructure, roof repairs, and recreation projects (on top of over $5 million already spent on the K1 center and Nix building).\n- In a separate background conflict (\"Malfunction Junction\"), the City Council backed developers over a dangerous intersection at Highway 98 and Parker Road, approving massive density (apartments and 48 additional units on Parker Road) that would dump 400+ cars and 1,000+ daily trips into the hazardous area.\n\nTHE DISCOVERY: \n- Article 2 (the widget article, framed as background/historical context written almost a year prior) established a pattern of behavior regarding the City Council (\"Catalyst Council\" / \"good ole boys\"). It revealed that the council routinely prioritized developer interests over public safety at the Highway 98 and Parker Road intersection (\"Malfunction Junction\"), paving the way for unchecked growth that impacts every citizen.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it establishes the Council's established modus operandi: a \"good ole boy deal\" network that systematically ignores public welfare and safety (as seen at Malfunction Junction) to benefit outside interests. This directly contextualizes the backroom land-deal exposed in Article 1, proving that the $2.65 million farmland purchase and subsequent \"surplus\" lease-out was part of a consistent pattern of corrupt, anti-citizen governance by the Catalyst Council leading up to the August 25, 2020 municipal elections.\n\nKEY ENTITIES: \n- Mayor Karin Wilson\n- Councilman Burrell\n- Councilman Brown\n- Councilman Boone\n- Fairhope City Council (Catalyst Council)\n- State Park Board\n- Highway 98 and Parker Road (\"Malfunction Junction\")\n- K1 Center\n- Nix Building"
+    llm_text: Backroom land deals and developer handouts didn't happen by accident. See how the Catalyst Council systematically bypassed Mayor Karin Wilson and your safety at Malfunction Junction to enrich insiders.
+    text: Backroom land deals and developer handouts didn't happen by accident. See how the Catalyst Council systematically bypassed Mayor Karin Wilson and your safety at Malfunction Junction to enrich insiders.
+    widget_date: "2020-01-08"
+    generated_at: "2026-11-07T20:08:22.998878Z"
+    model_name: gemini-3.5-flash-lite

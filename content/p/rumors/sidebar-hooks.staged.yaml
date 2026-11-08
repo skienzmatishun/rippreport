@@ -5,7 +5,32 @@ metadata:
   main_date: "2022-10-15"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  your-rights-your-money:
+    refined_source: 243b35aab65d949f8acc18125ba07f37c43761895378756041534d2888523428
+    brief: |-
+      THE CONFLICT: 2017 fatal shooting of motorist Jonathan Victor; Alabama Supreme Court ruled against Lagniappe Mobile seeking records from BCSO.
+      THE DISCOVERY: Alabama Supreme Court ruling upheld Baldwin County exemption from open records law regarding investigative material (video/documentary evidence).
+      THE PIVOT: The 2017 ruling established legal precedent for BCSO to withhold evidence, undermining transparency efforts like the $662,597 camera expenditure mentioned in the older article, which mirrors the lack of transparency in the 2024 O.J. French case.
+      KEY ENTITIES: Huey Mack, BCSO, Alabama Supreme Court, Jonathan Victor, Lagniappe Mobile, Hoss Mack, Albritton
+    llm_text: The Alabama Supreme Court upheld BCSO's right to withhold Jonathan Victor's 2017 evidence, blocking Lagniappe Mobile. See how this precedent impacts transparency in the 2024 O.J. French case.
+    text: The Alabama Supreme Court let the Baldwin County Sheriff's Office hide evidence from the 2017 Jonathan Victor shooting. How does that old secrecy block justice in the 2024 O.J. French investigation?
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-06T20:35:24.299848Z"
+    model_name: plugsky-lite
+  non-lethal:
+    refined_source: 2e84932c9f7cc37c44cad32ca4944e24d8a89e29062b756301149dc5d952cb05
+    brief: |-
+      THE CONFLICT: Jonathan Victor was shot four times by a sheriff deputy in April 2021 during an incident investigated by the Baldwin County Sheriff’s Office (BCSO).
+      THE DISCOVERY: The Widget Article (January 19 2021) detailed BCSO’s lack of non-lethal weaponry and crisis intervention training around May 2017, predating the Victor incident.
+      THE PIVOT: The historical lack of non-lethal training and equipment (highlighted in the older article) provides context to the BCSO’s reported lack of appropriate response and the subsequent denial of qualified immunity in the Victor case, which frames the current transparency issues in the French case.
+      KEY ENTITIES: Jonathan Victor, April 2021, Sheriff Hoss Mack, Baldwin County Sheriff’s Office (BCSO), Bay Minette Police, Lagniappe, May 2017
+    llm_text: Before Jonathan Victor was shot four times by a BCSO deputy in April 2021, the office lacked non-lethal training since May 2017. See how this history shapes current transparency issues in the French case.
+    text: Before Jonathan Victor took four bullets from a BCSO deputy in April 2021, the office went four years without non-lethal training. This exact failure shapes the lack of transparency in the French case today.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-06T20:35:30.750407Z"
+    model_name: plugsky-lite
   wrongful-conviction:
+    refined_source: c0b7d1806f81f5e9f7e0397f6837feb3a3b909bd96980ed31245600c459d8a20
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted of murder and has been in jail since 2005.
@@ -40,10 +65,12 @@ hooks:
       *   David Carpenter (Daphne Police Chief)
       *   Thurston Bullock (Foley Police Chief)
     llm_text: BCSO systematically covered up the wrongful conviction of Murray Lawrence Jr. and the Jonathan Victor shooting, hiding key footage. Don't trust the BCMCU on the recent O.J. French shooting; Hoss Mack's history reveals a pattern of institutional misconduct.
+    text: The Baldwin County Sheriff's Office covered up the wrongful conviction of Murray Lawrence Jr. and the shooting of Jonathan Victor. What does Sheriff Hoss Mack have to hide in the O.J. French case?
     widget_date: "2022-10-05"
     generated_at: "2026-11-06T20:36:04.611962Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   biased-investigation:
+    refined_source: 15074dfe9f02a2f1300283e28568a1ec75a9fd76af13e6307fdd7e9f57f07e32
     brief: |-
       THE CONFLICT:
       *   Jonathan Victor was shot four times by deputy Hunady in 2017.
@@ -72,20 +99,24 @@ hooks:
       *   Mayor Bob Wills
       *   Alabama Supreme Court
     llm_text: O.J. French died in Bay Minette after a traffic stop, but Baldwin County Sheriff Hoss Mack and BCMCU still refuse to release footage. This denial mirrors systemic cover-ups seen in Jonathan Victor's 2017 shooting and Judge William Cassady's ruling.
+    text: O.J. French died after a traffic stop in Bay Minette, but Sheriff Hoss Mack refuses to release the video. That cover-up matches the tactics used after the 2017 shooting of Jonathan Victor.
     widget_date: "2022-09-24"
     generated_at: "2026-11-06T20:37:24.512522Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lethal-force:
+    refined_source: 397b9870a876dc3b5738805baa40ffdc8ea5110814b576b0ece3069fb3129387
     brief: |-
       THE CONFLICT: 2017 shooting of motorist Jonathan Victor; Judge William Cassady denied Hunady (sheriff deputy) and Sheriff Mack qualified immunity.
       THE DISCOVERY: Article 2 established the pattern of escalating excessive force incidents in Baldwin County dating back over 5 years, totaling 7 lives before O.J. French's death (totaling 8 lives).
       THE PIVOT: Article 2 established the pattern of systemic failure and lack of external accountability (citing 7 previous cases) which provides necessary context for the current lack of transparency surrounding O.J. French's death in Article 1.
       KEY ENTITIES: O.J. French; BCSO; Bay Minette; BCSCU; Alabama Supreme Court; Jonathan Victor; Sheriff Huey “Hoss” Mack; BCMCU; Al Tolbert; Brad Kendrick; Edward Delmore; David Carpenter; Thurston Bullock; Tamara French; The Rev. Sam White; Judge William Cassady; Mayor Wills
     llm_text: Judge Cassady denied immunity for Sheriff Mack and deputy Hunady in the Jonathan Victor shooting. See how a five-year pattern of excessive force in Baldwin County puts O.J. French's death in critical context.
+    text: Judge Cassady denied immunity to Sheriff Hoss Mack and deputy Hunady for shooting Jonathan Victor. Years of excessive force in Baldwin County put the death of O.J. French into clear focus.
     widget_date: "2022-09-10"
     generated_at: "2026-11-06T20:35:18.974620Z"
     model_name: plugsky-lite
   sheriff-huey-boss-mack-secret-police:
+    refined_source: ec1408e0287d7d362c3d624a01312bc31d31b0e6d5b24d9b38ee0d0cb53a3854
     brief: |-
       THE CONFLICT:
       1. Jonathan Victor was shot by Sheriff deputy Hunady on May 2017, an unarmed man.
@@ -122,26 +153,7 @@ hooks:
       14. Tamara French
       15. Rev. Sam White
     llm_text: Hoss Mack’s BCSO suppressed evidence in cases like Jonathan Victor’s shooting, setting a precedent that denied footage in the Lagniappe Mobile case. Don't trust the BCMCU denial about O.J. French; Mack’s long pattern of conflict and lack of training shows why transparency is impossible.
+    text: Sheriff Hoss Mack’s office hid key evidence in the Jonathan Victor shooting. Why should anyone trust the BCMCU denial about O.J. French when Mack has a long record of blocking public records?
     widget_date: "2021-10-01"
     generated_at: "2026-11-06T20:38:35.637901Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  your-rights-your-money:
-    brief: |-
-      THE CONFLICT: 2017 fatal shooting of motorist Jonathan Victor; Alabama Supreme Court ruled against Lagniappe Mobile seeking records from BCSO.
-      THE DISCOVERY: Alabama Supreme Court ruling upheld Baldwin County exemption from open records law regarding investigative material (video/documentary evidence).
-      THE PIVOT: The 2017 ruling established legal precedent for BCSO to withhold evidence, undermining transparency efforts like the $662,597 camera expenditure mentioned in the older article, which mirrors the lack of transparency in the 2024 O.J. French case.
-      KEY ENTITIES: Huey Mack, BCSO, Alabama Supreme Court, Jonathan Victor, Lagniappe Mobile, Hoss Mack, Albritton
-    llm_text: The Alabama Supreme Court upheld BCSO's right to withhold Jonathan Victor's 2017 evidence, blocking Lagniappe Mobile. See how this precedent impacts transparency in the 2024 O.J. French case.
-    widget_date: "2021-09-27"
-    generated_at: "2026-11-06T20:35:24.299848Z"
-    model_name: plugsky-lite
-  non-lethal:
-    brief: |-
-      THE CONFLICT: Jonathan Victor was shot four times by a sheriff deputy in April 2021 during an incident investigated by the Baldwin County Sheriff’s Office (BCSO).
-      THE DISCOVERY: The Widget Article (January 19 2021) detailed BCSO’s lack of non-lethal weaponry and crisis intervention training around May 2017, predating the Victor incident.
-      THE PIVOT: The historical lack of non-lethal training and equipment (highlighted in the older article) provides context to the BCSO’s reported lack of appropriate response and the subsequent denial of qualified immunity in the Victor case, which frames the current transparency issues in the French case.
-      KEY ENTITIES: Jonathan Victor, April 2021, Sheriff Hoss Mack, Baldwin County Sheriff’s Office (BCSO), Bay Minette Police, Lagniappe, May 2017
-    llm_text: Before Jonathan Victor was shot four times by a BCSO deputy in April 2021, the office lacked non-lethal training since May 2017. See how this history shapes current transparency issues in the French case.
-    widget_date: "2021-02-13"
-    generated_at: "2026-11-06T20:35:30.750407Z"
-    model_name: plugsky-lite

@@ -1,0 +1,113 @@
+metadata:
+  generated_at: "2026-11-08T14:00:19.465653Z"
+  generator_version: 1.0.0
+  post_slug: elliotttuckercatalyst-selling-your-soul
+  main_date: "2018-05-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  police-report:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell, City Liaison to the Airport Authority Board and City Council President in Fairhope, faced allegations of escaping several legal incidents using good connections.
+      *   Burrell failed to disclose a police record.
+      *   The Fairhope City Council was aware of the police report weeks prior but chose to ignore it.
+
+      THE DISCOVERY:
+      *   A police report concerning Jack Burrell in Fairhope was requested via an attorney in Birmingham (January of this year).
+      *   Burrell's legal defense successfully scrubbed an ethics complaint filed by the Airport Authority.
+      *   Judge Michelle Thomason is mentioned as a friend of Jack Burrell.
+
+      THE PIVOT:
+      *   Article 2 establishes the "Catalyst mindset"—a pattern of political impunity, lack of transparency, and disregard for ethics in Fairhope (Burrell controlling the Airport Authority/City Council).
+      *   Article 1 connects this mindset to current candidates (Elliott/Tucker) who are pursuing "good ole boy deals" (e.g., the $35 million mega-site) and using county funds for self-promotion, reinforcing the theme of "Selling their Soul."
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Catalyst
+      *   Boom Boom Pittman
+      *   Baldwin County
+      *   Fairhope
+      *   Judge Michelle Thomason
+      *   Robert Brown
+      *   Clarence Burke
+      *   BP
+      *   Orange Beach
+    llm_text: Jack Burrell hid a police record, and the Fairhope City Council ignored it, proving a pattern of political impunity. This "Catalyst mindset" now influences current candidates like Chris Elliott and Tucker Dorsey pursuing "good ole boy deals" like the $35 million mega-site.
+    widget_date: "2018-05-23"
+    generated_at: "2026-11-08T13:56:27.046579Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-senate-seat-district-32-bombs-away:
+    brief: |-
+      THE CONFLICT: Boom Boom Pittman held the State Senate Seat for District 32; he skimmed $750,000 of BP money for his personal tractor company.
+
+      THE DISCOVERY: Pittman failed to secure the full $1 Billion in BP spill funds for Baldwin County, which ultimately received just over $100 million.
+
+      THE PIVOT: Article 2 establishes Pittman’s financial corruption and the failure of the Baldwin County delegation to secure adequate BP funds, setting the context for Article 1’s revelation that Elliott and Dorsey spent County Reserves on the $35 million mega-site (a "good ole boy deal") rather than using BP money for county infrastructure repair.
+
+      KEY ENTITIES:
+      Chris Elliott (Catalyst candidate)
+      Tucker Dorsey
+      Boom Boom Pittman
+      David Northcutt
+      Jeff Boyd
+      Bill Roberts
+      Jason Fisher
+      Baldwin County
+      $35 million (mega-site cost)
+      $750,000 (Pittman skim)
+      $100 million (BP funds received by Baldwin County)
+      June 5 (primary election date mentioned in context)
+      Clarence Burke
+      Catalyst
+    llm_text: Boom Boom Pittman skimmed $750,000 of BP money, failing to secure the $1 billion spill funds for Baldwin County. Meanwhile, Elliott and Dorsey spent $35 million in County Reserves on a mega-site instead of using BP funds for vital infrastructure repair.
+    widget_date: "2018-05-21"
+    generated_at: "2026-11-08T13:57:30.029616Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-alabama-values:
+    brief: |-
+      THE CONFLICT:
+      *   Former Senator Tripp Pittman took $750,000 of BP money while maintaining municipal contracts with Fairhope during his tenure.
+      *   Chris Elliott was appointed to the Baldwin County Commission by Governor Robert Bentley.
+      *   The Catalyst group (involving Elliott, Elliott Haygood, and Stacy) formed to gain total control of the Baldwin County Commission and all 14 municipal Mayor seats.
+
+      THE DISCOVERY:
+      *   Chris Elliott's initial position was not earned, but was "placed" by the political shadow group Catalyst to serve its interests, not public service.
+      *   Catalyst's initial plan for total county control was challenged by Mayor Karin Wilson of Fairhope, who dug in on ethics transparency.
+      *   Elliott later distanced himself from Catalyst but maintained under-the-table affiliation while seeking office.
+
+      THE PIVOT:
+      *   Article 2 establishes that Elliott's political ambition (including his early appointment and later Senate bid) is fundamentally tied to the "good ole boy club," Catalyst, a network of developers and dark money seeking institutional control.
+      *   This context explains the high-dollar donations (tens of thousands) from developers and Catalyst cited in Article 1, proving the current campaign is not about public good but about securing power for Catalyst.
+      *   The "Alabama Values" slogan used by Elliott and Tucker Dorsey in Article 1 is framed by Article 2 as a deceptive tactic of a self-serving politician.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Tripp Pittman
+      *   Governor Robert Bentley
+      *   Catalyst
+      *   Elliott Haygood
+      *   Stacy
+      *   Karin Wilson
+      *   Clarence Burke (Baldwin County Sewer)
+      *   Tim Russell (Baldwin County Probate Judge)
+      *   $35 million (mega-site cost)
+      *   $750,000 (Pittman BP money)
+      *   2012 (penny tax renewal)
+      *   2015 ($8 mil Build Baldwin Now tax)
+    llm_text: Chris Elliott's appointment wasn't public service; the Catalyst group engineered it to seize total control of Baldwin County. Discover how developer dark money, like the $750k Tripp Pittman took from BP, fuels Elliott's power grab against leaders like Karin Wilson.
+    widget_date: "2018-05-18"
+    generated_at: "2026-11-08T13:58:55.198602Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-a-city-owned-by-outside-interests-and-good-ole-boys:
+    brief: |-
+      THE CONFLICT: Mayor Kant and Arthur Corte oversaw corrupt decisions in Fairhope, including the Fly Creek Apartments approval, a $11.25 million Triangle lawsuit settlement (involving $5.25M borrowed and $3M utility reserve loss), and 2016 contributions where over 50% of donors did not live in Fairhope.
+      THE DISCOVERY: Article 2 established a pattern of local government (Fairhope) prioritizing outside interests and "good ole boy" deals over public participation and resident needs (e.g., Triangle Nature Trail Park, soccer complex costs).
+      THE PIVOT: Article 2 provides historical local context within Baldwin County (Fairhope) demonstrating that outside interests and non-resident influence (Kant's contributions) drive corrupt deals, framing the later accusations in Article 1 (Elliott/Tucker's mega-site/Catalyst funding) as a continuation of this systemic "good ole boy" behavior at the county level.
+      KEY ENTITIES: Mayor Kant, Arthur Corte, Chris Elliott, Tucker Dorsey, Boom Boom Pittman, Catalyst, Pittman, Diana Brewer, Mueller, Boone, Jack Burrell, Sandy Ford, Baldwin County, Fairhope.
+    llm_text: Mayor Kant and Arthur Corte oversaw corrupt Fairhope decisions, including the $11.25 million Triangle lawsuit settlement. This pattern reveals local government prioritizes outside interests over residents; read how this systemic "good ole boy" behavior continues.
+    widget_date: "2016-05-27"
+    generated_at: "2026-11-08T14:00:03.062523Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

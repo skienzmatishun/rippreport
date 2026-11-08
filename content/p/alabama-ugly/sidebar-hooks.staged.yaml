@@ -1,0 +1,178 @@
+metadata:
+  generated_at: "2026-11-07T05:20:16.305711Z"
+  generator_version: 1.0.0
+  post_slug: alabama-ugly
+  main_date: "2021-09-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  court-of-public-opinion-2:
+    refined_source: 7fcf1d1fbd5a94b5fa453ddf141945f3c418d30320aafed2e08ec7dd0b658609
+    brief: |-
+      THE CONFLICT:
+      Tom Albritton, Executive Director of the Alabama Ethics Commission, self-dealed with his family $120,000.00 using the Mabel Amos Memorial Trust. The Ripp Report filed an Alabama Bar complaint against him.
+
+      THE DISCOVERY:
+      The Mabel Amos Memorial Trust contains strict language against "self-dealing" (defined in section 4941(d) and 5489), which Albritton violated.
+
+      THE PIVOT:
+      Article 2 established Albritton's specific self-dealing violation; Article 1 reveals the trust is a larger "secret piggy bank," harboring millions at Regions Bank, involving other trustees (John Bell, Rick Clifton), and suggests potential federal charges (money laundering, tax evasion, wire fraud) due to the failure of oversight bodies (Ethics Commission, Judiciary, AG).
+
+      KEY ENTITIES:
+      Tom Albritton
+      Mabel Amos Memorial Trust
+      Regions Bank
+      John Bell
+      Rick Clifton
+      Tommy Gallion
+      Leigh Manning
+      Alabama Ethics Commission
+    llm_text: Alabama Ethics Commission ED Tom Albritton self-dealed $120,000 from the Mabel Amos Memorial Trust. This multi-million dollar "secret piggy bank" at Regions Bank involves John Bell and Rick Clifton, raising serious federal fraud and money laundering questions.
+    text: Ethics Commission Director Tom Albritton self-dealt $120,000 from the Mabel Amos Memorial Trust. This secret fund at Regions Bank involved John Bell and Rick Clifton, raising federal fraud questions.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-07T05:15:48.898169Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  license-to-steal:
+    refined_source: 472fe8122d34f090e8ccef8e65e21b47348b3d370ebe8759deee590292f42e1e
+    brief: |-
+      THE CONFLICT:
+      *   March 15, 2018: Alabama Attorney General Steve Marshall declared corruption would not be tolerated in Alabama.
+      *   March 20, 2018: Steve Marshall committed to prosecuting those abusing public positions for illegal personal gain.
+      *   March 27, 2018: Steve Marshall publicly stated his highest priority was ensuring integrity in Alabama public service.
+      *   2020-0337 & 0361: Columbia Mayor Rhonda Freeman had a pending case before the Alabama Ethics Commission (AEC).
+      *   August 4, 2021: Hearing was scheduled for Rhonda Freeman's case at the RSA Building, Montgomery, Alabama.
+      *   July 28, 2021: Mike Blakely's corruption trial was recapped (State lawmaker testified for defense; 1 of 11 charges dropped).
+
+      THE DISCOVERY:
+      *   The AEC Director, Tom Albritton, was questioned regarding receiving over $100,000 for his children's college tuition while overseeing a private charitable trust.
+      *   John Plunk, AEC Vice Chair, was accused of helping a sheriff (Mike Blakely) disguise political money flowing to a Republican campaign consultant.
+
+      THE PIVOT:
+      *   Article 2 (2018-2021) establishes that the AEC leadership (Albritton and Plunk) was compromised by conflicts of interest and political entanglement, undermining the commission's credibility and ability to enforce ethical standards, which is the core argument of Article 1.
+
+      KEY ENTITIES:
+      *   Steve Marshall (Alabama Attorney General)
+      *   Tom Albritton (Ethics Commission Director)
+      *   John Plunk (Ethics Commission Vice Chair)
+      *   Mabel Amos Memorial Trust
+      *   Regions Bank
+      *   Tommy Gallion (Montgomery attorney)
+      *   Leigh Manning
+      *   Mike Blakely (Sheriff)
+      *   Rhonda Freeman (Columbia Mayor)
+    llm_text: AG Steve Marshall promised Alabama integrity, but AEC Director Tom Albritton received over $100,000 for college tuition. John Plunk also helped Sheriff Mike Blakely disguise political money, proving the ethics commission failed its mission.
+    text: Attorney General Steve Marshall promised state integrity while Ethics Commission Director Tom Albritton collected over $100,000 for tuition. John Plunk helped hide political money, proving the ethics system failed.
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-07T05:17:04.316900Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  striking-oil:
+    refined_source: ac8cd7553c85b3fa56048a0af36f182b0d327563035f85b905bd720e8fd244ad
+    brief: |-
+      THE CONFLICT:
+      Tom Albritton and Regions Bank struck oil in Conecuh County around 2010.
+      Between 2002 and 2018, Regions Bank managed the Mabel Amos Memorial Trust and brought in over $1 million.
+      Tom Albritton awarded his daughters $105,000 from the trust.
+
+      THE DISCOVERY:
+      The Mabel Amos Memorial Trust, its millions, and its funds are harbored at Regions Bank, creating potential federal charges (money laundering, tax evasion, wire fraud, conspiracy).
+      Leigh Manning (relative of Mabel Amos) retained attorney Thomas Gallion to investigate the handling of the trust.
+
+      THE PIVOT:
+      Article 2 establishes the historical financial relationship (2002-2018) between Tom Albritton, Regions Bank, and the Mabel Amos Memorial Trust, specifically linking the oil strike to the period of trust management and financial gain, providing context for the current allegations of political corruption and white collar crime in Article 1.
+
+      KEY ENTITIES:
+      Tom Albritton (Ethics Commission Director/Circuit Court Judge)
+      Regions Bank
+      Mabel Amos Memorial Trust
+      Leigh Manning (grandniece of Mabel Amos, Former Sec of State)
+      Thomas Gallion (Montgomery attorney)
+      John Bell (trustee contact since 1999)
+      Conecuh County
+    llm_text: Tom Albritton and Regions Bank managed the Mabel Amos Memorial Trust, earning over $1 million while Albritton gave his daughters $105,000. Leigh Manning now investigates this history, uncovering potential federal charges like money laundering.
+    text: Tom Albritton and Regions Bank earned over $1 million managing the Mabel Amos Memorial Trust while Albritton gave his daughters $105,000 in scholarship funds.
+    widget_date: "2021-07-24"
+    generated_at: "2026-11-07T05:19:02.653791Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-to-the-alabama-attorney-general:
+    refined_source: 97746e7658edd2662530cb9a96262f4e12714f86cd63147a8b9649ad5dc886d1
+    brief: |-
+      THE CONFLICT:
+      Past corruption allegations in Baldwin County involving a Fairhope councilman using board position for personal enrichment.
+      The Alabama Ethics Commission failed to investigate this complaint and dismissed it, despite correspondence from The Ripp Report.
+
+      THE DISCOVERY:
+      Tom Albritton, Director of the Alabama Ethics Commission, was accused of self-dealing and IRS code violations.
+      Albritton was one of three trustees of the Mabel Amos Memorial Fund, which awarded his daughters $105,000 in scholarships to the University of Texas.
+      Albritton and the Ethics Commission dismissed several complaints, including the Fairhope Councilman case.
+
+      THE PIVOT:
+      The Widget Article established Albritton's specific conflict of interest (self-dealing/trusteeship) and the Ethics Commission's inaction.
+      The Main Article confirms the Mabel Amos Memorial Trust holds millions at Regions Bank, linking the trust, Albritton, lawyers, and a circuit court Judge to potential federal charges (money laundering, tax evasion, wire fraud).
+      The Main Article also introduces Tommy Gallion (hired by Leigh Manning, relative of Mabel Amos) and focuses on the potential litigation.
+
+      KEY ENTITIES:
+      Tom Albritton (Director of Ethics Commission)
+      Steve Marshall (Alabama Attorney General)
+      Francis Paul Ripp (The Ripp Report)
+      Tommy Gallion (Montgomery attorney)
+      Leigh Manning (relative of Mabel Amos)
+      Mabel Amos Memorial Trust
+      Regions Bank
+      Alabama Ethics Commission
+      Fairhope Councilman
+      Alabama Attorney General
+      University of Texas
+    llm_text: Ethics Commission Director Tom Albritton dismissed Fairhope Councilman corruption but secretly awarded his daughters $105K from the Mabel Amos Memorial Fund. Millions held at Regions Bank link Albritton, lawyers, and a Circuit Judge to potential federal money laundering charges.
+    text: Ethics Commission Director Tom Albritton dismissed Fairhope corruption complaints while awarding his daughters $105,000 from trust funds. Millions held at Regions Bank link Albritton to federal money laundering questions.
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-07T05:18:01.747627Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-and-bar-complaint:
+    refined_source: 483bcfb0b43d6d04767e7d897dba298872d8057ee2b4a0f94e670617843ddbe5
+    brief: |-
+      THE CONFLICT: Tom Albritton, Alabama Ethics Director and trustee of the Mabel Amos Memorial Fund, paid scholarships totaling $105,000 to his children from the fund (self-dealing). This conflict was documented by The Ripp Report on July 2, 2021, leading to an ethics complaint, a Writ of Mandamus, and an Alabama Bar Complaint against Albritton.
+      THE DISCOVERY: Article 2 revealed Tom Albritton's conflict of interest regarding the Mabel Amos Memorial Fund. Article 1 escalated this into allegations of larger political corruption, white collar crime, and the use of the trust as a "secret piggy bank" holding millions at Regions Bank.
+      THE PIVOT: Article 2 established Albritton's initial ethical breach and the focus on the Mabel Amos Memorial Trust; Article 1 demonstrates this initial conflict is tied to potential federal crimes (money laundering, tax evasion, wire fraud) involving the trust's millions and the involvement of Regions Bank, lawyers, and a circuit court Judge.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Trust, Regions Bank, Leigh Manning, Tommy Gallion, Alabama Ethics Commission, Alabama Bar Association, Circuit Court Judge
+    llm_text: Alabama Ethics Director Tom Albritton used the Mabel Amos Memorial Fund to pay $105,000 in scholarships to his children. This self-dealing ties to potential federal crimes involving millions at Regions Bank and a Circuit Court Judge.
+    text: Alabama Ethics Director Tom Albritton used the Mabel Amos Memorial Fund to pay $105,000 to his children, tying self-dealing to potential federal crimes at Regions Bank.
+    widget_date: "2021-07-15"
+    generated_at: "2026-11-07T05:14:39.833954Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  self-dealing-self-stealing:
+    refined_source: 8bc32424e88d1f722f226a50a46c847b6d36b6b7da0fd0880ea80ff657fb2d8a
+    brief: |-
+      THE CONFLICT:
+      *   July 2, 2021: Alabama was identified as the number one state in political corruption.
+      *   The corruption involved self-dealing/self-stealing by Tom Albritton, Director of the Alabama Ethics Commission, and Regions Bank.
+
+      THE DISCOVERY:
+      *   The initial complaint revealed that Tom Albritton's children received more scholarship money than relatives of the Mabel Amos Trust.
+
+      THE PIVOT:
+      *   The 2021 article established the pattern of self-dealing and corruption by Tom Albritton and the Ethics Commission, providing the historical context for the later investigation into the Mabel Amos Memorial Trust's millions held at Regions Bank, which raised potential federal charges (money laundering, tax evasion, etc.).
+
+      KEY ENTITIES:
+      *   Tom Albritton (Director of Alabama Ethics Commission, now circuit court Judge)
+      *   Regions Bank
+      *   Mabel Amos Memorial Trust
+      *   Tommy Gallion (Montgomery attorney)
+      *   Leigh Manning (relative of Mabel Amos)
+      *   Alabama Ethics Commission
+      *   Alabama (state identified as most corrupt)
+    llm_text: Tom Albritton, the former Director of the Alabama Ethics Commission, used his power with Regions Bank. His children received more scholarship money than Mabel Amos Trust relatives, revealing deep state corruption.
+    text: Former Alabama Ethics Commission Director Tom Albritton directed Regions Bank funds to his own children. His family received more money than Mabel Amos Trust relatives.
+    widget_date: "2021-07-09"
+    generated_at: "2026-11-07T05:19:59.729834Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-98-ethical-abortion:
+    refined_source: 6c411990384726dbf5e8a4ba29104b0488e071fd71390591f52570a8959cb7f1
+    brief: |-
+      THE CONFLICT: Alabama Ethics Director Tom Albritton was subject to complaints from Mr. Ripp regarding his role in the Mabel Amos Scholarship Trust and apparent benefits to his family.
+      THE DISCOVERY: In the time of the widget article, the Alabama Ethics Commission and the General Counsel of the Alabama State Bar officially responded to Mr. Ripp's complaints against Tom Albritton.
+      THE PIVOT: The widget article established the initial allegations against Albritton related to the Mabel Amos Scholarship Trust; the main article confirms this corruption is widespread, involving Regions Bank, lawyers, and a Circuit Court Judge, potentially constituting federal charges (money laundering, wire fraud) and leading to the hiring of Tommy Gallion by Leigh Manning.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Trust, Regions Bank, Tommy Gallion, Leigh Manning, Alabama Ethics Commission, General Counsel of the Alabama State Bar, Circuit Court Judge, Mr. Ripp
+    llm_text: Tom Albritton faced ethics complaints about the Mabel Amos Scholarship Trust. This corruption now involves Regions Bank, a Circuit Court Judge, and potentially federal wire fraud; Leigh Manning hired Tommy Gallion to investigate.
+    text: Tom Albritton faced ethics complaints over the Mabel Amos Scholarship Trust. Leigh Manning hired Tommy Gallion to investigate Regions Bank and potential federal crimes.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-07T05:13:30.535440Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

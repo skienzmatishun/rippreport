@@ -1,0 +1,189 @@
+metadata:
+  generated_at: "2026-11-07T17:39:06.888821Z"
+  generator_version: 1.0.0
+  post_slug: howling-rains
+  main_date: "2020-07-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-stacking-the-deck:
+    refined_source: 10d899dea0b42e5e2504a148e3fa0e52da3bd9fe72e08d203e9c35197351efeb
+    brief: "THE CONFLICT: \n- Long-term political control of Fairhope/Baldwin County by \"Catalyst\" and Scott Boone Consulting.\n- Suspected rigging of 2008 and 2012 Fairhope municipal elections.\n- 2016 Alabama Secretary of State intervention in Fairhope elections.\n- Alleged corruption by former Mayor Tim Cant involving airport corruption, FEMA fund misuse, and the Triangle Park lawsuit.\n- Financial mismanagement by the City Council: $11.25 million spent on Triangle Park; $2.65 million purchase of farmland resulting in a $1.2 million deficit; and $17,500 annual raises/insurance for council members.\n\nTHE DISCOVERY: \n- CATALYST is a multi-layered corporate web designed to conceal interrelationships and insulate individuals from liability.\n- The organization utilizes \"stacking the deck\" tactics (running multiple candidates to force runoffs) and \"faux candidates\" who claim independence while serving the machine.\n- Specific family/business connections: Kevin Boone (Councilman) and Scott Boone (Consultant) are linked; Joshua Gammon is running for Kevin Boone’s seat.\n\nTHE PIVOT: \n- Article 2 establishes the operational blueprint of CATALYST as a deceptive \"criminal enterprise\" that uses proxy actors to maintain power.\n- This provides the necessary context to validate the accusation in Article 1 that Howling Rains is not an independent journalist, but a \"Catalyst HACK\" and \"replacement\" for political operative \"Chuckie Cheeze.\"\n- It transforms the critique of Rains' Waterfront Grant op-ed from a simple personality clash into evidence of a coordinated CATALYST campaign to protect the \"status quo\" and undermine Mayor Karin Wilson.\n\nKEY ENTITIES:\n- Howling Rains (Journalist/Op-ed writer)\n- \"Chuckie Cheeze\" (Aid De Camp, Baldwin County legislative delegation)\n- Scott Boone (Scott Boone Consulting/CATALYST)\n- Kevin Boone (Fairhope City Councilman)\n- Tim Cant (Former Mayor)\n- Karin Wilson (Mayor of Fairhope)\n- Joshua Gammon (Candidate for City Council Place 5)\n- CATALYST (Political organization/Corporate web)\n- Fairhope Waterfront (Site of $6.2 million Restore Act grant)\n- Triangle Park (Site of $11.25 million expenditure)"
+    llm_text: CATALYST uses a deceptive web of shell companies and "faux candidates" to rig elections and maintain a political stranglehold on Fairhope. Read how journalist Howling Rains acts as a coordinated political hack to protect Scott Boone’s machine and sabotage Mayor Karin Wilson.
+    text: Catalyst uses shell companies and fake candidates to rig elections in Fairhope. This political machine protects power and targets Mayor Karin Wilson.
+    widget_date: "2020-07-03"
+    generated_at: "2026-11-07T17:30:26.373107Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  fairhope-catalyst-a-dirty-little-secret:
+    refined_source: d0be7c6b9166e540cc0b4807521f0f6f662a85f4e8a89063a017d77dbb98e259
+    brief: |-
+      THE CONFLICT: In 2018, the Fairhope City Council, hand-picked by former Mayor Tim Kant and linked to the Catalyst machine, attempted to use a Special Meeting to seek a Temporary Restraining Order to cancel the October 2, 2018 referendum aiming to change government form to Council-Manager/districts.
+      THE DISCOVERY: The Council was actively working to prevent the transition from an "At Large" system to a district-based system, despite public support (over 1000 petition signatures) led by Fresh Start Fairhope.
+      THE PIVOT: Article 2 establishes that the current Catalyst Council’s opposition to systemic change (districts/Council-Manager) is not a recent political maneuver but a long-standing, institutional effort to preserve the "At Large" power structure, which explains the current obstruction (2016-present) against Mayor Karin Wilson's initiatives (e.g., the $6.2 million Fairhope Waterfront Grant).
+      KEY ENTITIES: Karin Wilson (Mayor), Tim Kant (Former Mayor), Chuckie Cheeze, Howling Rains, Catalyst (or Scott Boone Consulting), Jay Robinson, Jack Burrell, Fresh Start Fairhope, Baldwin County, 2016, 2018, Fairhope Waterfront Grant ($6.2 million), $11.25 million (Triangle Park cost), $2.65 million (farmland purchase).
+    llm_text: The Catalyst Council, backed by Tim Kant, tried to block the 2018 move to districts despite Fresh Start Fairhope support. This institutional push to preserve "At Large" power now obstructs Mayor Karin Wilson's $6.2 million Fairhope Waterfront Grant.
+    text: The Catalyst Council and Tim Kant tried to block the move to city districts in 2018. This group now tries to block Mayor Karin Wilson's Waterfront Grant.
+    widget_date: "2018-09-21"
+    generated_at: "2026-11-07T17:33:35.801548Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-party:
+    refined_source: 7a0e3f98a56d7041b09636f422a35e5e4872486fc19bece7824feb0d704c6dc1
+    brief: |-
+      THE CONFLICT: 2008 and 2012 municipal elections in Fairhope were suspected of being rigged; in 2016, Mayor Karin Wilson won against a 16-year corrupt incumbent, following intervention by the Alabama Secretary Of State.
+      THE DISCOVERY: The City Council, led by Jack Burrell, previously executed transactions including the purchase of 2.65 million in farmland for recreation, leased back for 9 thousand a year, and planned a triangle conservation easement.
+      THE PIVOT: Article 2 provides specific, documented evidence of the questionable governance (land deals, Council self-interest, lack of public participation during COVID-19) that Article 1 uses to frame the current political battle against the Status Quo/Catalyst.
+      KEY ENTITIES: Fairhope; Baldwin County; Karin Wilson; Chuckie Cheeze; Howling Rains; Jack Burrell; Scott Boone Consulting; 2008; 2012; 2016; Alabama Secretary Of State; 2.65 million; 9 thousand; $6.2 million (Waterfront Grant); Sherry Sullivan; Mr. Brown; Sen Tripp Pittman; Restore Act grant.
+    llm_text: Karin Wilson secured her 2016 victory over a corrupt incumbent following Alabama Secretary of State intervention, but the rot runs deeper than voting. Jack Burrell’s City Council executed questionable deals, including buying 2.65 million in farmland and leasing it back for only $9k.
+    text: Karin Wilson won the 2016 election after the Alabama Secretary of State intervened. Jack Burrell’s City Council executed questionable deals, including buying expensive farmland.
+    widget_date: "2020-04-16"
+    generated_at: "2026-11-07T17:34:58.469427Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  money-on-the-table:
+    refined_source: 290e78bd14d9b6350532e02a1ca927cb51df313c750afaedcc86baceb92444c7
+    brief: |-
+      THE CONFLICT:
+      *   2008 and 2012 municipal elections in Fairhope were suspected of being rigged.
+      *   In 2016, Mayor Karin Wilson (Fairhope’s first female Mayor) beat a 16-year incumbent after the Alabama Secretary Of State supervised the election.
+      *   The City Council has obstructed, bullied, and conspired against Mayor Wilson since the 2016 administration.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council (described as CATALYST) historically opposed or delayed Mayor Wilson’s proposals, including a $65,000 Marketing plan for Covid-19 recovery.
+      *   The council supported a $3,000,000 school tax despite Mayor Wilson's plan to finance it without a tax.
+      *   Councilman Burrell, Robert Brown, and Kevin Boone purchased 2.65 million for recreation land and leased it for $9,000 annually.
+      *   The council repeatedly attempted to give away the Triangle property, which cost taxpayers 13 million in a legal settlement.
+      *   The council directed $35,000 annual donation to the Baldwin County Economic Development Alliance (BCEDA), an entity run by Lee Lawson (brother-in-law to Mayor Dane Haygood).
+
+      THE PIVOT:
+      *   The Widget Article establishes the historical pattern of council obstruction, self-interest, and prioritizing BCEDA/council benefits over local business needs, providing the context for the current political crisis.
+      *   The Main Article shows this established pattern is ongoing, evidenced by the council's vote for a $17,500 annual raise and the current political attack by Howling Rains against the $6.2 million Waterfront Grant, which was previously planned and endorsed by the council.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Chuckie Cheeze
+      *   Howling Rains
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Councilman Burrell
+      *   Robert Brown
+      *   Kevin Boone
+      *   Mayor Dane Haygood
+      *   Lee Lawson
+      *   Fairhope Waterfront Grant ($6.2 million Restore Act grant)
+      *   Triangle Property ($13 million legal settlement)
+    llm_text: Karin Wilson fights a self-interested City Council in Fairhope that previously wasted $13 million on the Triangle Property and funneled money to Lee Lawson’s BCEDA. See how this pattern of obstruction fuels Howling Rains' attack on the $6.2 million Waterfront Grant.
+    text: Mayor Karin Wilson fights a City Council that wasted millions on the Triangle Property. This pattern of waste fuels attacks on the Fairhope Waterfront Grant.
+    widget_date: "2020-04-29"
+    generated_at: "2026-11-07T17:36:53.605323Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shadow-government:
+    refined_source: 25ace72b1391ab585ed2f34f17efd277643c5298b6e0d0663a995fda789c95ac
+    brief: |-
+      THE CONFLICT: 2016 Fairhope municipal election resulted in Mayor Karin Wilson, Fairhope's first female Mayor, defeating a 16-year incumbent. Prior Fairhope municipal elections (2008 and 2012) were suspected of being rigged; the 2016 election was supervised by the Alabama Secretary Of State.
+      THE DISCOVERY: In 2018, a Baldwin County shadow government, referred to as Catalyst/Gumbo, was actively manipulating local politics, influencing decisions (e.g., convincing Jeff Boyd to throw David Northcutt under the bus) and attempting to remove the Mayor via obstruction and rumor.
+      THE PIVOT: Article 2 establishes the historical pattern of Catalyst as a manipulative "shadow government" in Fairhope. Article 1 demonstrates this pattern continuing under the guise of the Status Quo (Scott Boone Consulting/Catalyst) through figures like Chuckie Cheeze and his replacement, Howling Rains, who actively undermines Mayor Wilson's $6.2 million Fairhope Waterfront Grant.
+      KEY ENTITIES: Karin Wilson (Mayor), Howling Rains (Howling), Chuckie Cheeze (Aid De Camp), Scott Boone Consulting (Catalyst), Fairhope Waterfront Grant ($6.2 million), Alabama Secretary Of State, Jeff Boyd, David Northcutt, Robert Bentley, Baldwin County, Triangle Park ($11.25 million).
+    llm_text: Mayor Karin Wilson faces a decades-long shadow government effort in Fairhope, continuing the pattern of past electoral manipulation. Howling Rains and Chuckie Cheeze actively undermine her $6.2 million Waterfront Grant through Scott Boone Consulting.
+    text: Mayor Karin Wilson faces a shadow government effort in Fairhope. Political opponents actively undermine her Waterfront Grant through Scott Boone Consulting.
+    widget_date: "2018-08-03"
+    generated_at: "2026-11-07T17:32:05.385981Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-candidates-⁠-excess-baggage:
+    refined_source: 169685a576b45f409d97888a5ba59e6b409b38ef06d82de96a3f9357971bb88d
+    brief: |-
+      THE CONFLICT:
+      - The CATALYST political organization (Scott Boone Consulting) has maintained a "status quo" grip on Baldwin County politics through figures like "Chuckie Cheeze" (now Aid De Camp for the Baldwin County legislative delegation).
+      - Former Mayor Tim Cant's administration was marked by involvement in the BP scandal, Fly Creek Publix project, airport, and soccer field issues.
+      - Council President Jack Burrell led a $2.65 million farmland purchase that was leased back for $9,000 per year, contributing to a budget shift from a $1.7 million surplus to a $1.2 million deficit.
+      - Following the 2016 election, the Fairhope City Council (led by Burrell) obstructed the administration of the newly elected Mayor, Karin Wilson.
+      - Sherry Sullivan-Cant, a former employee under Cant, was fired for insubordination against Mayor Wilson.
+
+      THE DISCOVERY:
+      - Article 2 revealed that CATALYST is actively running a coordinated slate of candidates for the August 25 Fairhope Municipal Election to regain power.
+      - The organization is backing Jack Burrell and Sherry Sullivan-Cant (linked to Tim Cant) to maintain the previous administration's influence.
+      - The group is also involved in federal politics, running Bill Hightower for Congress.
+
+      THE PIVOT:
+      - Article 2 establishes the "CATALYST" playbook of using specific individuals to protect the status quo and obstruct Mayor Wilson. This provides the necessary context to identify Howling Rains's recent attacks on the $6.2 million Waterfront Grant not as independent journalism, but as a coordinated effort by CATALYST to protect the interests of the Burrell/Cant/Sullivan-Cant faction.
+
+      KEY ENTITIES:
+      - Howling Rains (Raines)
+      - Chuckie Cheeze
+      - CATALYST (Scott Boone Consulting)
+      - Jack Burrell
+      - Sherry Sullivan-Cant
+      - Tim Cant
+      - Karin Wilson
+      - Bill Hightower
+      - Jerry Carl
+    llm_text: Don't mistake the Howling Rains attacks on the $6.2 million Waterfront Grant for independent journalism. We expose how Scott Boone’s CATALYST organization orchestrates these strikes to protect the Burrell, Cant, and Sullivan-Cant faction's stranglehold on Fairhope politics.
+    text: Scott Boone's Catalyst organization orchestrates attacks on the Waterfront Grant. These strikes protect the Burrell, Kant, and Sullivan faction in Fairhope.
+    widget_date: "2020-05-13"
+    generated_at: "2026-11-07T17:32:13.576405Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  comment-are-you-surprised-at-all:
+    refined_source: 23e6c49781e2c41af325ba43a287a7b5b1bff20a8d68f678ee2c5facb897fc08
+    brief: |-
+      THE CONFLICT:
+      *   2008 and 2012 Fairhope municipal elections were suspected of being rigged.
+      *   In 2016, the Alabama Secretary of State supervised the Fairhope election, where Mayor Karin Wilson defeated a 16-year incumbent.
+      *   Between 2014, 2015, and 2016, the Mobile Area Boy Scout Council incurred over $750,000 in losses.
+
+      THE DISCOVERY:
+      *   The Mobile Area Boy Scout Council lost an average of over $250,000 annually during 2014, 2015, and 2016.
+      *   In early 2016, 1/3 of the Maubila camp land was sold, netting nearly $300,000.
+      *   The executive director, Michael Hartigan, received a salary and benefits exceeding $150,000 annually since January 2009.
+      *   Bradley Byrne, Tripp Pittman, and Tucker Dorsey were aware of this mismanagement for over 2 years but took no action.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a documented history of financial mismanagement and political inaction (Byrne, Pittman, Dorsey) within Baldwin County (Boy Scouts), providing context for the broader allegations of "Status Quo" corruption and betrayal of citizens noted in Article 1 (Fairhope City Council).
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor, Fairhope)
+      *   Chuckie Cheeze (Aid De Camp, Baldwin County legislative delegation)
+      *   Howling Rains
+      *   Catalyst / Scott Boone Consulting
+      *   Fairhope Waterfront Grant ($6.2 million, funded by 2010 BP Deepwater Horizon Restore Act grant)
+      *   Triangle Park ($11.25 million cost to taxpayers)
+      *   Bradley Byrne
+      *   Tripp Pittman
+      *   Tucker Dorsey
+      *   Phil Webb (Boy Scout Board President, Fairhope Rotarian)
+      *   Michael Hartigan (Executive Director, Mobile Area Boy Scout Council)
+      *   Mike Box (Treasurer, Mobile Area Boy Scout Council)
+      *   Russell, Thompson, Butler and Houston, LLC (Auditing firm)
+      *   Fairhope (City)
+      *   Baldwin County (Location)
+    llm_text: Michael Hartigan ran the Mobile Area Boy Scout Council, losing over $750,000 while executives Bradley Byrne, Tripp Pittman, and Tucker Dorsey ignored the crisis. This Baldwin County financial mismanagement connects directly to the political stakes facing Fairhope Mayor Karin Wilson.
+    text: Michael Hartigan lost over $750,000 running the Mobile Area Boy Scout Council. Executives Bradley Byrne, Tripp Pittman, and Tucker Dorsey ignored the financial crisis.
+    widget_date: "2017-04-30"
+    generated_at: "2026-11-07T17:38:40.987106Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-43-mee-maw-and-the-extenders:
+    refined_source: 6e82c4bfaa5147744ab50412d3829f398ad052241d2a77ef008342d95b57b136
+    brief: |-
+      THE CONFLICT:
+      2008 and 2012 municipal elections in Fairhope were suspected of being rigged.
+      In 2016, Mayor Karin Wilson became Fairhope’s first female Mayor after defeating a 16-year incumbent, with the Alabama Secretary Of State supervising the election.
+      The City Council planned for total control of Fairhope, leading to obstruction of the Mayor's proposals.
+
+      THE DISCOVERY:
+      Article 2 (Backstory Podcast #43 Mee-Maw and the Extenders) provided historical background regarding Fairhope political dynamics. (Specific content details are unavailable in the provided text).
+
+      THE PIVOT:
+      Article 2 establishes the deep, 16-year historical context of Fairhope politics, providing necessary background for understanding the current conflict involving Chuckie Cheeze’s replacement, Howling Rains, and the political faction CATALYST.
+
+      KEY ENTITIES:
+      Fairhope
+      Baldwin County
+      Chuckie Cheeze
+      Howling Rains
+      Mayor Karin Wilson
+      CATALYST
+      Scott Boone Consulting
+      2016
+      $6.2 million (Fairhope Waterfront Grant, Restore Act grant money)
+      $11.25 million (cost of "Triangle Park")
+      $17,500.00 (annual council raise/insurance)
+    llm_text: Fairhope politics aren't new—suspicions of rigged 2008 and 2012 elections set the stage for Mayor Karin Wilson's 2016 victory. Understand this 16-year history to see why factions like CATALYST resist Howling Rains' replacement of Chuckie Cheeze.
+    text: Fairhope politics include suspicions of rigged elections before Mayor Karin Wilson won in 2016. Factions still resist change in local government today.
+    widget_date: "2020-07-04"
+    generated_at: "2026-11-07T17:30:39.200350Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

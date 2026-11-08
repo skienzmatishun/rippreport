@@ -1,0 +1,108 @@
+metadata:
+  generated_at: "2026-11-08T00:25:27.389678Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast
+  main_date: "2019-09-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  transparency:
+    brief: |-
+      THE CONFLICT: Fairhope City Council failed to approve a single Fairhope City Budget in the last three years prior to September 2, 2019. In 2020, the Council was targeted for removal due to lack of transparency and accountability.
+      THE DISCOVERY: On September 2, 2019, Mayor Karin Wilson announced the first ever self-sustaining 2020 City Budget proposal, emphasizing that the Council had avoided open process for the last three budget cycles, contrary to State Statute.
+      THE PIVOT: The 2019 budget failure provides historical context, demonstrating a chronic pattern of lack of accountability and failure to adhere to state statutes, reinforcing the 2020 claims regarding the Council's lack of transparency before they voted on self-health insurance coverage and Mayor's salary, ignoring an Auburn Study.
+      KEY ENTITIES: Fairhope City Council; Mayor Karin Wilson; Francis Paul Ripp; Ripp Report; Backwoods Media, LLC; Baldwin County, Alabama; September 2, 2019; September 9, 2020; 2020; Auburn Study.
+    llm_text: Before voting on self-health insurance and Mayor's salary, the Fairhope City Council ignored an Auburn Study. Mayor Karin Wilson revealed in 2019 they failed to approve a budget for three years, proving a chronic lack of transparency contrary to state statutes.
+    widget_date: "2019-09-04"
+    generated_at: "2026-11-08T00:23:48.164580Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ripp-report-podcast:
+    brief: |-
+      THE CONFLICT: Fairhope City Council scheduled a vote on Monday, September 9, 2020, to give themselves free health insurance coverage and to set the Mayor's salary while ignoring an Auburn Study meant to guide these decisions. The council faced widespread accusations of lacking leadership, transparency, and accountability, operating as part of an entrenched "good ole boy" system in Baldwin County.
+
+      THE DISCOVERY: Historical context reveals that the Fairhope City Council has long operated out of touch with its constituents, maintaining a powerful hold on the local system despite shrinking numbers, while resisting standardized guidance like the Auburn Study.
+
+      THE PIVOT: This background serves as the foundational proof for the Ripp Report's ongoing investigation into local political corruption, showing that the council's pattern of self-serving financial decisions (such as voting for free health insurance) is part of a systemic disregard for transparency that necessitated the launch of the Backstory Podcast.
+
+      KEY ENTITIES:
+      - Francis Paul Ripp (U.S.M.C. combat veteran, Ripp Report, Baldwin County Legal Eagle)
+      - Harry Still, III (Backwoods Southern Lawyer, former ICMA Credentialed Manager, Economic Developer, City Planner, County Manager, attorney)
+      - Fairhope City Council
+      - Backwoods Media, LLC
+      - Baldwin County, Alabama
+    llm_text: Fairhope councilmen ignored the Auburn Study to vote themselves free health insurance. Francis Paul Ripp and Harry Still expose this entrenched "good ole boy" system and why we launched the Backstory Podcast to fight local corruption.
+    widget_date: "2019-09-02"
+    generated_at: "2026-11-08T00:23:07.502275Z"
+    model_name: gemini-3.5-flash-lite
+  timeline:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County, Alabama, has 14 municipalities; Fairhope City Council stands alone among them for lack of leadership, transparency, and accountability.
+      - Fairhope City Council voted themselves free health insurance coverage (Monday night).
+      - Fairhope City Council additionally set the Mayor’s salary, ignoring an Auburn Study that was supposed to give guidance to these issues.
+      - Exposure and the Court of Public Opinion would lead to the council’s removal in 2020.
+
+      THE DISCOVERY:
+      - Article 2 (Widget: TIMELINE / Ripp Report received comment) described Fairhope City Council obstruction in infrastructure repairs.
+      - Sewer issue finally awakened Fairhope citizens.
+      - City Hall received numerous calls from irate citizens blaming the Mayor and City Staff for problems that squarely rested on the Council’s shoulders.
+      - Article 2 questioned: Where is the TIMELINE of the City Council? Citizens should be raising hell, but raise hell at the responsible party. — Call the City Council and ask for a timeline.
+      - Article 2: If the sewer issue pisses you off, how about three of the same Council using their elected office for personal gain? While the other two Council members turned a blind eye.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 revealed council obstruction in sewer infrastructure repairs; Article 1 (Backstory Podcast) uses that as context for the political corruption narrative in Baldwin County.
+      - Article 1 announced future podcasts will focus on political corruption in Baldwin County; exposing the good ole boy system entrenched since the first pecan tree was planted.
+      - Exposure and the Court of Public Opinion lead to council removal in 2020.
+
+      KEY ENTITIES:
+      - Francis Paul Ripp - U.S.M.C. combat veteran; of the Ripp Report (www.rippreport.com) non-profit/consumer advocacy organization; Facebook pages: The Ripp Report and Baldwin County Legal Eagle.
+      - Harry Still, III - The Backwoods Southern Lawyer; former ICMA Credentialed Manager, Economic Developer, City Planner and County Manager; currently attorney in private practice; Backwoods Media, LLC - Alabama Domestic Limited Liability Company located in Baldwin County, Alabama.
+      - Fairhope City Council - voted themselves free health insurance coverage; set Mayor’s salary; three Council members used elected office for personal gain; two turned a blind eye; blamed by citizens for sewer/infrastructure problems.
+      - Mayor - salary set by Council; Council ignored Auburn Study.
+      - Auburn Study - supposed to give guidance to health insurance/Mayor salary issues.
+      - Fairhope citizens - irate; blamed Mayor and City Staff; sewer issue awakened them.
+      - City staff - blamed by citizens; problems rested on Council.
+      - Baldwin County - good ole boy system entrenched since first pecan tree planted; judicial system hold.
+      - Fairhope - one of 14 municipalities; council stands alone.
+      - Locations: Baldwin County, Alabama; Fairhope, Alabama.
+      - Names to mention: Lowery, Wilters, etc.
+    llm_text: Fairhope City Council gave itself free health insurance and set the Mayor’s pay while ignoring the Auburn Study. Now The Ripp Report wants that sewer repair timeline before Baldwin County’s good old boy system puts the whole council on trial.
+    widget_date: "2019-08-10"
+    generated_at: "2026-11-08T00:23:40.634645Z"
+    model_name: recursive/flint-v1.0:free
+  for-the-record-mega-money:
+    brief: |-
+      THE CONFLICT: Promotion of a 3000-Acre Certified South Alabama Mega-Site in Baldwin County spanning 7 to 8 years.
+      THE DISCOVERY: On July 25th, a County Commission special meeting authorized $7 million in infrastructure for the Mega-Site, despite no contract or letter of intent being present.
+      THE PIVOT: Article 2 provides historical evidence of opaque, unfulfilled, and potentially self-serving economic deals (Mega-Site/Alliance) within Baldwin County, contextualizing the broader political lack of transparency and accountability highlighted by the Fairhope City Council issues in Article 1.
+      KEY ENTITIES: Baldwin County, Fairhope City Council, Baldwin County Economic Development Alliance, Francis Paul Ripp, Harry Still, III, Mega-Site, Auburn Study.
+    llm_text: Baldwin County authorized $7 million in infrastructure for the 3000-acre Mega-Site on July 25th, even without a contract. This opaque deal echoes past Baldwin County Alliance issues, forcing us to question local political transparency and accountability.
+    widget_date: "2019-08-02"
+    generated_at: "2026-11-08T00:24:59.265649Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mega-mistake:
+    brief: |-
+      THE CONFLICT: Baldwin County Mega-Site spending (32 million spent over 7 years) resulted in a vacant site; Baldwin County Economic Development Alliance (BCEDA) under Lee Lawson failed to find a tenant, leading to a proposed transfer of the ~50 million site to BCEDA on July 25th.
+      THE DISCOVERY: Article 1 predicts Fairhope City Council will vote for free health insurance and set Mayor's salary on Sept. 9, 2020, and anticipates council removal in 2020 due to lack of transparency.
+      THE PIVOT: Article 2 establishes a history of questionable land/municipal transfers (e.g., 20 million acres in Weeks Bay, 106 acres in Fairhope) and past failures by Lee Lawson (K-1 center, Jack Burrell International) which casts doubt on Fairhope City Council's transparency and competence mentioned in Article 1.
+      KEY ENTITIES: Baldwin County, Fairhope City Council, Backwoods Media, LLC, Francis Paul Ripp, Harry Still, III, Lee Lawson, Baldwin County Economic Development Alliance (BCEDA), Weeks Bay, Auburn Study, July 25th, Sept. 9, 2020
+    llm_text: Lee Lawson's BCEDA failed to place a 50 million dollar Baldwin County site. See how past land deals raise serious questions about Fairhope City Council's upcoming Sept. 9 vote.
+    widget_date: "2019-07-20"
+    generated_at: "2026-11-08T00:23:09.404168Z"
+    model_name: plugsky-lite
+  fairhope-un-armed-robbery:
+    brief: "THE CONFLICT: Fairhope City Council attempted to push through a conservation easement transferring control of 106 acres of city property valued at $20 million to the Weeks Bay Foundation in perpetuity, without public participation or transparency. Council members Burrell, Brown, and Boone allegedly used their office for personal gain, backed by Council President Burrell, City Attorney Marcus McDowell, and Weeks Bay Director Diana Brewer, with an anonymous donor suspected of ties to Arthur Corte.\n\nTHE DISCOVERY: The older widget article documented a deliberate, clandestine land grab and backroom dealing between the Fairhope City Council and outside entities like the Weeks Bay Foundation, proving a long-standing pattern of shutting out citizen input and ignoring professional guidance (such as the Auburn Study mentioned in the main text).\n\nTHE PIVOT: The historical record of the Weeks Bay land grab serves as the smoking gun because it establishes the exact playbook of systemic corruption, lack of transparency, and collusion by the \"good ole boy\" network that the Back backstory Podcast and Ripp Report are now targeting for the 2020 council removal.\n\nKEY ENTITIES: \n- Francis Paul Ripp\n- Harry Still III\n- Diana Brewer\n- Council President Burrell\n- Council Member Brown\n- Council Member Boone\n- Marcus McDowell\n- Arthur Corte\n- Weeks Bay Foundation\n- Fairhope City Council\n- Backwoods Media, LLC"
+    llm_text: Council President Burrell and Diana Brewer tried quietly handing 106 acres over to the Weeks Bay Foundation. This backroom land grab exposes the exact corruption the Ripp Report targets today.
+    widget_date: "2019-06-21"
+    generated_at: "2026-11-08T00:23:13.560598Z"
+    model_name: gemini-3.5-flash-lite
+  three-strikes:
+    brief: |-
+      THE CONFLICT: Fairhope City Council met on May 29th, witnessing dysfunctional council actions regarding three major issues, including the Dyas/Triangle property conservation easement.
+      THE DISCOVERY: The May 29th meeting showed the Fairhope City Council was acting against staff/Mayor recommendations and prioritizing political agendas over citizen/city interests.
+      THE PIVOT: The past actions detailed in the May 29th meeting (Triangle Lawsuit context, Burrell's role, Brewer's agenda) provide historical evidence of the entrenched "good ole boy system" and lack of transparency that the 2020 removal effort mentioned in the later article targets.
+      KEY ENTITIES: Fairhope City Council, Council President Burrell, Diana Brewer, Councilman Boone, Councilman Brown, Arthur Corte, Weeks Bay Foundation, Dyas/Triangle property, Robert Brown, Jay Robinson, Backwoods Media, LLC, Francis Paul Ripp.
+    llm_text: Fairhope City Council ignored staff advice on the Dyas/Triangle easement, prioritizing political agendas over citizen interests. See how this May 29th action reveals the "good ole boy system" the 2020 removal effort targets.
+    widget_date: "2019-06-01"
+    generated_at: "2026-11-08T00:23:15.271442Z"
+    model_name: plugsky-lite

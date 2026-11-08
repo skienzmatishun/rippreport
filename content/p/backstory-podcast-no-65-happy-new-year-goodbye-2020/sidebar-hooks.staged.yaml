@@ -1,0 +1,362 @@
+metadata:
+  generated_at: "2026-11-07T12:37:04.312873Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  main_date: "2021-01-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    refined_source: 33b3848ca6fdcbf9912c17acc75202e6a6058c791369fa897b431e0c1304e21a
+    brief: |-
+      THE CONFLICT:
+      *   83,718,625 SARS-COV-2 cases worldwide recorded.
+      *   USA recorded over 30 Million cases and 350,000 deaths.
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+      *   Georgia Senate runoff occurred on January 6, 2021.
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+      *   Dr. Robert Bentley received the vaccine.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey was reported firing Admiral Kent Davis.
+      *   Ivey is under fire for attempting to control the veterans’ board.
+      *   A court case prohibits suing over a wrong SWAT raid, questioning police accountability.
+      *   A Clarke County true crime story exposed shady ties between a hospice business and a judge.
+      *   Podcast analysis covers Biden’s pardons for family and allies.
+
+      THE PIVOT:
+      *   Article 2 shifts the focus from past national political events (Trump veto, Georgia runoff) and pandemic data to current state-level power struggles (Alabama/Ivey) and localized corruption (Clarke County), illustrating how systemic power affects regular people at both the national and local levels.
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Dr. Robert Bentley
+      *   Trump
+      *   Biden
+      *   Kamala Harris
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Howell Heflin
+      *   Clarke County
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, facing fire for trying to control the veterans' board. Clarke County exposed shady ties between a hospice business and a local judge; see how local corruption impacts regular people.
+    text: Governor Kay Ivey fired Admiral Kent Davis after disputes over the state veterans board. In Clarke County, investigators uncovered shady financial ties between a local judge and a hospice business.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T12:27:08.693784Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 3d523e7d51531ca4bff61d30ca9bb8f88fbed5bb7d268341ab1bc4d2c2f02784
+    brief: |-
+      THE CONFLICT:
+      *   2020/2021: USA saw 30 Million SARS-COV-2 cases and 350,000 deaths.
+      *   2021: US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+      *   2021: Justice Lyn Stuart received the Howell Heflin Award.
+      *   Past events referenced include the Nashville Christmas Day bombing (5G).
+
+      THE DISCOVERY:
+      *   July 31, 2024: OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson.
+      *   The lawsuit alleges Officer Thompson lacked probable cause for the stop and escalated the situation, leading to a shooting that killed Mr. French.
+      *   Sheriff Mack announced his resignation mid-July, intending to leave mid-August.
+      *   Governor Ivey is considering appointing Chief Deputy Anthony Lowery or County Commissioner Matt McKenzie to fill the vacancy.
+
+      THE PIVOT:
+      *   The 2024 lawsuit demonstrates ongoing legal and political conflicts regarding local law enforcement actions (Officer Brandon Thompson) and municipal governance (Mayor Robert Bob Wills), providing a modern, concrete example of legal scrutiny within Baldwin County, Alabama, which continues the themes of justice and political accountability touched upon in the earlier articles.
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Robert Bentley
+      *   Trump
+      *   Governor Ivey
+      *   OJ French Jr.
+      *   Officer Brandon Thompson
+      *   Mayor Robert Bob Wills
+      *   Sheriff Mack
+      *   Deputy Anthony Lowery
+      *   Matt McKenzie
+      *   Bay Minette
+      *   Baldwin County
+    llm_text: OJ French Jr.’s family sued Bay Minette, alleging Officer Brandon Thompson lacked probable cause for the fatal stop. As Sheriff Mack resigns, Governor Ivey must appoint Lowery or McKenzie to tackle accountability in Baldwin County.
+    text: The family of OJ French Jr. is suing the city of Bay Minette over a fatal police stop. As Sheriff Mack prepares to resign, Governor Kay Ivey faces pressure to choose a replacement who ensures accountability.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T12:36:47.193733Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 5162a9874cd76f14e7436e4863c69f5b612e4ed990c6883ae13b0adf95cf21d4
+    brief: |-
+      THE CONFLICT:
+      *   Trump pardoned 50+ individuals (details of 'worst' pardons discussed).
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill (NDAB).
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+      *   Georgia Senate runoff occurred on January 6, 2021.
+      *   Robert Bentley received the vaccine.
+      *   Nashville Christmas Day bombing tragedy referenced.
+
+      THE DISCOVERY:
+      *   A damning report details the US government's COVID-19 response.
+      *   President Biden pardoned his son, Hunter.
+      *   Allegations of misconduct exist against various officials.
+      *   The podcast covers the murder of a healthcare CEO.
+      *   Wrongful arrests of individuals exposing local school district corruption and First Amendment issues.
+
+      THE PIVOT:
+      *   Article 2 provides current evidence (Biden's actions, local corruption arrests, misconduct allegations) that updates the historical context of government malfeasance, pardons, and poor COVID-19 handling initially referenced in Article 1 (Trump pardons, COVID stats).
+
+      KEY ENTITIES:
+      *   Trump
+      *   Justice Lyn Stuart
+      *   Robert Bentley
+      *   President Biden
+      *   Hunter Biden
+      *   Nashville
+      *   Howell Heflin
+      *   SARS-COV-2
+      *   National Defense Appropriation Bill (NDAB)
+    llm_text: Trump pardoned over 50 individuals, yet government malfeasance continues. New evidence shows President Biden pardoned his son, Hunter, while a damning report exposes the US COVID-19 response.
+    text: President Biden pardoned his son, Hunter. Meanwhile, a new report exposes major failures in the federal COVID-19 response.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T12:30:17.623204Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: d6eeb10e7072203565d8a586a9526fe3ae0aa01c8eccb6b54de5234149a6ae97
+    brief: |-
+      THE CONFLICT:
+      *   January 6, 2021: Georgia Senate runoff.
+      *   Late 2020/Early 2021: US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+      *   2021: Justice Lyn Stuart received the Howell Heflin Award.
+      *   2021: Dr. Robert Bentley received the vaccine.
+      *   2020: Nashville Christmas Day bombing tragedy occurred (linked to 5G).
+
+      THE DISCOVERY:
+      *   May 27, 2022: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama.
+      *   May 29, 2022: Williams Jr. body recovered.
+      *   2022: Pete Rose passed away.
+      *   2022: Investigation active for Williams Jr. with a reward offered.
+      *   2022: MS-13 Operations noted in Baldwin County, Alabama.
+      *   2022: Montgomery Alabama Mayor's travel records noted.
+
+      THE PIVOT:
+      *   Article 2 (2022) shows localized crime, drug trafficking (Gulf Coast High Intensity Drug Trafficking Area Program), and political instability (Rescue the Republic Rally, Katie Britt) continuing and evolving from the national political and health crises documented in Article 1 (2020/2021).
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Howell Heflin
+      *   Dr. Robert Bentley
+      *   Trump
+      *   Thomas Daniel "Danny" Williams Jr
+      *   Pete Rose
+      *   Orange Beach, Alabama
+      *   Baldwin County, Alabama
+      *   Katie Britt
+      *   Adm. Kent Davis
+      *   Montgomery Alabama
+      *   Gulf Coast High Intensity Drug Trafficking Area Program
+    llm_text: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama, and police investigate his death amid MS-13 operations in Baldwin County. Read how Gulf Coast drug trafficking and political instability link this local tragedy to the 2020/2021 national crises.
+    text: Thomas Daniel Williams Jr. died in Orange Beach, Alabama, and police are investigating the case. Local law enforcement also tracks MS-13 operations across Baldwin County.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T12:33:33.751462Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 1de65e6ec24cc0a03b07ad63f743cf4b8c47b1ad6388c0dd6a24019039f1a451
+    brief: |-
+      THE CONFLICT:
+      *   January 6, 2021: Georgia Senate runoff occurred.
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+      *   Dr. Robert Bentley received the vaccine.
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+      *   Nashville Christmas Day bombing tragedy occurred (linked to 5G).
+
+      THE DISCOVERY:
+      *   Alabama is dealing with the "Haitian Immigrant Eating Cats" debate in Sylacauga.
+      *   Kent David, Former Real Admiral and Jag Officer and Alabama Veterans Affairs Commissioner, is leaving the State due to a whistleblower Ethics Complaint.
+      *   Donald Trump had a food fight with Taylor Swift.
+      *   A rally is scheduled for September 29, 2024, in DC featuring RFK Jr, Tulsi Gabbards, and Russell Brand.
+
+      THE PIVOT:
+      *   Article 1 documents key 2021 political and health events (COVID-19, Trump veto, Stuart/Bentley vaccine) that established political turmoil.
+      *   Article 2 updates this context by showing the continued political instability, specifically in Alabama (Kent David's departure, local debates) and the ongoing political influence of Trump and related figures (Taylor Swift food fight, 2024 DC rally).
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Dr. Robert Bentley
+      *   Donald Trump
+      *   Kent David
+      *   Taylor Swift
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+      *   RFK Jr
+      *   Tulsi Gabbards
+      *   Russell Brand
+      *   Sylacauga Alabama
+      *   Baldwin County
+      *   National Defense Appropriation Bill
+    llm_text: Justice Lyn Stuart navigated 2021 political turmoil, but instability persists today. Kent David is leaving Alabama amid a whistleblower complaint, and Donald Trump is planning a massive RFK Jr, Tulsi Gabbard rally in DC.
+    text: Kent David leaves Alabama amid a whistleblower complaint. At the same time, Donald Trump plans a large rally in Washington, D.C., with Robert F. Kennedy Jr. and Tulsi Gabbard.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T12:34:52.154944Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 92418c677db60ecb72ac20f4c125e21f943c672f55f4354bbf304bd6b48a808b
+    brief: |-
+      THE CONFLICT:
+      *   Nashville Christmas Day bombing tragedy (5G linked).
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+      *   Georgia Senate runoff occurred on January 6, 2021.
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+
+      THE DISCOVERY:
+      *   Companies with political ties score million-dollar contracts (e.g., Baldwin County District Attorney building construction bid award).
+      *   Law enforcement investigates its own mishaps with no accountability.
+      *   State leaders are pushing to strip local control, allowing state leaders to handpick police chiefs.
+
+      THE PIVOT:
+      *   The articles shift focus from high-profile, isolated events (veto overrides, bombing) to systemic local corruption and lack of accountability within state and local governance.
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Dr. Robert Bentley
+      *   Nashville
+      *   Baldwin County
+      *   Howell Heflin Award
+    llm_text: Justice Lyn Stuart earned the Howell Heflin Award, but local corruption hides in Baldwin County, not just in Nashville tragedies. State leaders push to strip local control, allowing political ties to score million-dollar contracts.
+    text: Justice Lyn Stuart received the Howell Heflin Award. Yet local leaders in Baldwin County continue to push for control that awards million-dollar contracts to politically connected insiders.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T12:32:13.132202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 48f151bd27abbee46d32763d08900af4a2f7cf6611c16ace06d080affd3bf9cd
+    brief: |-
+      THE CONFLICT:
+      *   COVID-19 reached 83,718,625 SARS-COV-2 cases worldwide; USA exceeded 30 Million cases with 350,000 deaths (circa 2020/2021).
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill (date unspecified).
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+      *   Georgia Senate runoff occurred on January 6, 2021.
+      *   Dr. Robert Bentley received the vaccine.
+      *   The Nashville Christmas Day bombing tragedy (linked to 5G) occurred.
+
+      THE DISCOVERY:
+      *   Article 2 (Backstory Podcast No. 186) discusses the 2024 US Presidential election results.
+      *   Article 2 covers current political topics, including the Trump Cabinet 2.0 and government spending on misinformation.
+      *   Article 2 reports on recent Alabama news, including the closing of rural hospitals and changes to hunting seasons.
+      *   Article 2 features discussions on antitrust lawsuits against Google and proposed constitutional amendments in Alabama.
+
+      THE PIVOT:
+      *   Article 2 updates the political timeline from the 2021 election/Trump veto (Article 1) to the 2024 election context.
+      *   Article 2 shows ongoing political activity (Trump Cabinet 2.0) and legislative focus (Alabama constitutional amendments, Google antitrust) following the events described in Article 1.
+      *   Article 2 shifts focus from 2020/2021 national crises (COVID, Nashville bombing) to current state-level and international issues (Alabama, Ukraine war).
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Howell Heflin
+      *   Dr. Robert Bentley
+      *   Trump
+      *   US Senate
+      *   Alabama
+      *   Google
+      *   Ukraine
+      *   2024 US Presidential election
+    llm_text: The US Senate overrode Trump's veto, but the political timeline continues toward the 2024 election. See how Alabama constitutional amendments and Google antitrust lawsuits shape the nation's current policy landscape.
+    text: The United States Senate overrode a presidential veto as the 2024 election approached. State constitutional amendments and federal lawsuits continue to reshape public policy.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T12:31:08.436953Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: a9a6b3762bf908785603ced508e3bf5c9a81a50cb0b8c62ae711132fe55e75b6
+    brief: |-
+      THE CONFLICT:
+      *   Late 2020/Early 2021: USA reported over 30 Million SARS-COV-2 cases and 350,000 deaths.
+      *   Early 2021: US Senate overrode Trump's veto of the National Defense Appropriation Bill.
+      *   Early 2021: Justice Lyn Stuart received the Howell Heflin Award.
+      *   January 6, 2021: Georgia Senate runoff occurred.
+      *   Early 2021: Dr. Robert Bentley received a vaccine.
+      *   Past event: Nashville Christmas Day bombing tragedy (5G mentioned).
+
+      THE DISCOVERY:
+      *   Current (Newer): Vice President Kamala Harris is viewed as a shift from democratic party "scourge" to "darling savior."
+      *   Current: RFK Jr removed his name from battleground ballots, competing against Candidate Trump.
+      *   Current: Sheriff Mack is leaving office in Baldwin County, Alabama, with the Governor selecting a replacement.
+      *   Current: Finebaum claims the University of Alabama Football Dynasty is over.
+
+      THE PIVOT:
+      *   Article 2 provides updated political dynamics (Harris, RFK Jr/Trump) and local context (Baldwin County, Alabama) that follows the national political shifts (Trump veto, Georgia runoff) and personal events (Lyn Stuart, Bentley vaccine) reported in Article 1.
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Howell Heflin
+      *   Robert Bentley
+      *   Trump
+      *   Kamala Harris (VP)
+      *   RFK Jr
+      *   Sheriff Mack
+      *   Baldwin County, Alabama
+      *   Finebaum
+      *   University of Alabama
+    llm_text: Kamala Harris shifts from "scourge" to "savior" while RFK Jr challenges Trump; how does this national dynamic affect local power in Baldwin County, Alabama? Sheriff Mack is leaving office, and Finebaum claims the University of Alabama dynasty is over.
+    text: Sheriff Mack steps down from office in Baldwin County. Meanwhile, sports commentator Paul Finebaum declares that the University of Alabama football dynasty is over.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T12:35:43.494354Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: b291cc75b8b3cf170a2b4c937f66ade531db534f76ed60710d44fd38fe1ff0ae
+    brief: |-
+      THE CONFLICT:
+      *   January 6, 2021, runoff in Georgia (as goes Georgia so goes the Senate).
+      *   The Nashville Christmas Day bombing tragedy (mentioned in 2020 context).
+      *   The US Senate voted to override Trump's veto of the National Defense Appropriation Bill.
+      *   Justice Lyn Stuart received the Howell Heflin Award.
+
+      THE DISCOVERY:
+      *   Arrest of Luigi Manjone for murdering a United Healthcare CEO.
+      *   Allegations of corruption in Alabama's legal/political systems (Dothan Summer Feeding Scandal).
+      *   Alabama Court of Civil Appeals decision regarding the Mack vs Hadley case.
+      *   Discovery of undisclosed autopsies (Brady Violation) in the Mack vs Hadley case (ordered in 2005).
+
+      THE PIVOT:
+      *   Article 2 updates the broader theme of institutional and political corruption hinted at in Article 1 (e.g., National Defense Appropriation Bill, Trump's actions) by detailing specific, localized legal failures and judicial corruption within Alabama (Mark Fuller, Dothan scandal).
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Dr. Robert Bentley
+      *   Trump
+      *   Luigi Manjone
+      *   United Healthcare CEO
+      *   Mark Fuller (Alabama Federal Judge)
+      *   Baldwin County Sheriff's Department
+      *   Mack vs Hadley
+      *   Murray Lawrence Jr.
+    llm_text: Don't get distracted by the Senate's defense of Trump or Georgia runoff results. The arrest of Luigi Manjone for murdering a United Healthcare CEO exposes deep corruption, linking directly to the shocking Mack vs Hadley Brady violation in Alabama.
+    text: Luigi Mangione faces murder charges for killing a UnitedHealthcare CEO. That arrest links directly to a federal court case involving a Brady violation in Alabama.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T12:29:22.761175Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 1a227c444eb66b37bdef3310da141c86a72f77afd90337c1758fa83049f28b52
+    brief: |-
+      THE CONFLICT:
+      *   Nashville Christmas Day bombing tragedy (mentioned in 2020 context)
+      *   US Senate voted to override Trump's veto of the National Defense Appropriation Bill
+      *   Justice Lyn Stuart received the Howell Heflin Award
+      *   Georgia Senate runoff occurred January 6, 2021
+
+      THE DISCOVERY:
+      *   Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama
+      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids
+      *   The City of Bay Minette is being sued by the family of OJ French Jr
+      *   BMPD Officer Brandon Thompson is involved in the Bay Minette lawsuit
+      *   Mobile Attorney Andy Ruten is representing the City of Bay Minette
+      *   Bay Minette Mayor Bob Wills is facing a malpractice lawsuit through Ruten's firm
+
+      THE PIVOT:
+      *   Article 1 frames national crises (COVID-19, Trump politics, Nashville bombing); Article 2 shows ongoing, localized governance and legal fallout within Alabama (FEMA inability to supply Superdome, specific county/city lawsuits) post-2021.
+
+      KEY ENTITIES:
+      *   Justice Lyn Stuart
+      *   Dr. Robert Bentley
+      *   Trump
+      *   Governor Ivey
+      *   Baldwin County
+      *   City of Bay Minette
+      *   OJ French Jr
+      *   BMPD Officer Brandon Thompson
+      *   Andy Ruten
+      *   Bob Wills
+    llm_text: While national crises loom, Alabama politics remain deeply local. Mayor Bob Wills of Bay Minette now faces a malpractice lawsuit through Andy Ruten, involving BMPD Officer Brandon Thompson and the OJ French Jr family.
+    text: Mayor Bob Wills of Bay Minette faces a malpractice lawsuit handled by attorney Andy Ruten. The legal action stems from actions taken by police officer Brandon Thompson against the OJ French Jr. family.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T12:28:16.037438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

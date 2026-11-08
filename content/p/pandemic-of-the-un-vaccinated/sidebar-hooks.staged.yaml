@@ -1,0 +1,189 @@
+metadata:
+  generated_at: "2026-11-07T05:55:18.693140Z"
+  generator_version: 1.0.0
+  post_slug: pandemic-of-the-un-vaccinated
+  main_date: "2021-08-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  where-is-the-media:
+    refined_source: 6a40849e53c924dcc461b1f872626ac80089fa3349e02fcf0db7af34bb38c7d2
+    brief: |-
+      THE CONFLICT: Tom Albritton, Alabama Ethics Commission Director, used the Mabel Amos Memorial Fund trust to finance his children’s education. (Reported August 7, 2021)
+      THE DISCOVERY: Alabama is cited as the most corrupt state in the US; Regions Bank has issues with fiduciary responsibility; 60 to 80 million dollars of oil discovered in Conecuh County in 2010 was not reported to citizens.
+      THE PIVOT: Article 2 establishes a context of systemic corruption and ethical violations within Alabama government (Ethics Commission/Regions Bank) predating and framing the questions of fiscal conservatism and leadership failure raised in Article 1 regarding Fairhope’s COVID protocols.
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Regions Bank, Fairhope City Council, Mayor Karen Wilson, Sherry Sullivan, Jack Burrell, Stephanie Durnin, Stephanie Hannon, Mabel Amos Memorial Fund.
+    llm_text: Tom Albritton, Alabama Ethics Commission Director, used the Mabel Amos Memorial Fund to finance his children’s education. This systemic corruption, alongside Regions Bank issues, forces us to question local leadership like Fairhope's COVID protocols.
+    text: Tom Albritton used the Mabel Amos Memorial Fund to pay for his children's schooling. This self-dealing at the Alabama Ethics Commission raises hard questions about local leaders in Fairhope.
+    widget_date: "2021-08-06"
+    generated_at: "2026-11-07T05:50:07.281258Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-quit:
+    refined_source: 2cf458ac43d2d89abd801a2216591de9e5619ed5b13efff13dd0ffe20621654d
+    brief: |-
+      THE CONFLICT:
+      Robert Brown quit the Fairhope City Council after serving only 5 months (2016/2020 cycle).
+      Council President Jack Burrell announced the resignation immediately, admitting prior knowledge of Brown's potential departure.
+      Brown resigned and recommended Jay Robinson, who had not run for re-election.
+      Speculation exists that this appointment was hatched under the direction of CSB/CATALYST SCOTT BOONE CONSULTING.
+
+      THE DISCOVERY:
+      The Fairhope City Council was perceived as the least productive in recent memory, using public office for personal gain and prioritizing "embracing development" at the behest of developers and CSB.
+
+      THE PIVOT:
+      The council's documented susceptibility to external influence (CSB, developers) and lack of principled governance (Article 2) provides context for their later policy flip-flop in the COVID-19 pandemic (Article 1), where they abandoned stated fiscal conservatism to accept and spend federal American Rescue Plan money for vaccination incentives, despite prior health and fiscal warnings.
+
+      KEY ENTITIES:
+      Fairhope City Council
+      Robert Brown
+      Jack Burrell
+      Jay Robinson
+      CSB (CATALYST SCOTT BOONE CONSULTING)
+      Sherry Sullivan
+      Mayor Karen Wilson
+      Stephanie Durnin
+      Stephanie Hannon
+      American Rescue Plan
+    llm_text: Robert Brown quit the Fairhope City Council quickly, recommending Jay Robinson. Did CSB/Scott Boone Consulting influence this move? Read how developer pressure compromised Council governance, leading to controversial American Rescue Plan spending.
+    text: Robert Brown left the Fairhope City Council fast and pushed for Jay Robinson to take his seat. Did Scott Boone Consulting push this change to grab American Rescue Plan funds?
+    widget_date: "2021-02-26"
+    generated_at: "2026-11-07T05:51:17.216832Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mega-lost-opportunity:
+    refined_source: 0a36ff6372907eb37c4f537d22899458b3367162bfb28cb93fca5e8cbe94cce2
+    brief: |-
+      THE CONFLICT: Baldwin County purchased 3,009 acre Mega Site for $32 million in 2012, leading to 10 years of wasted investment and ongoing debt, despite claims of being "shovel ready" since 2011.
+
+      THE DISCOVERY: The Mega Site project has accumulated $23,775,798 in remaining debt and lacked basic infrastructure (sign, gate, rail, water, power) for years, despite BCEDA's false claims of readiness.
+
+      THE PIVOT: The Mega Site article establishes a pattern of local leadership (Baldwin County Commission/BCEDA) prioritizing external funding (tax credits, county funds) over sound fiscal conservatism and long-term planning, which mirrors the Fairhope Council/Mayor's shift from fiscal caution to accepting federal pandemic money (American Rescue Plan) to incentivize vaccination.
+
+      KEY ENTITIES: Baldwin County, Fairhope City Council, Mayor Karen Wilson, Council President Jack Burrell, Lee Lawson (BCEDA), Ron Cink (Baldwin County Budget Director), Stephanie Durnin, Stephanie Hannon, Crosby Trust, Catawba Land Company LLC, American Rescue Plan.
+    llm_text: Baldwin County wasted $32 million on the Mega Site, leaving $23.7M in debt despite false readiness claims. Did local leaders like Mayor Karen Wilson sacrifice fiscal caution for fast federal money via the American Rescue Plan?
+    text: Baldwin County spent thirty-two million dollars on the Mega Site and left twenty-three million in debt. Did Mayor Karen Wilson rush to grab federal American Rescue Plan money despite bad planning?
+    widget_date: "2021-07-30"
+    generated_at: "2026-11-07T05:52:16.750305Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  live-like-a-coward-die-like-a-coward:
+    refined_source: fad502df1d6e8c7e1648360225c3970911192b39e370f58e15dffa3e69f8689c
+    brief: |-
+      THE CONFLICT:
+      *   2011: John McAfee orchestrated the murder of a Belizian man due to an incident involving underage girls and boyfriends who disagreed.
+      *   2011: McAfee committed his second murder, the execution of Gregory Faull in Belize.
+      *   2010/2011: McAfee fled the U.S. to Belize to avoid a wrongful death lawsuit in Arizona.
+      *   2020: Fairhope City Council and Mayor Karen Wilson debated COVID-19 protocols (e.g., Arts and Craft show, Christmas parade), initially resisting mandates and characterizing it as a political issue.
+      *   Current (post-2020): Fairhope leadership changed policy, incentivizing vaccination with federal American Rescue Plan funds ($500 for full-time, $250 for part-time, $125 for seasonal).
+
+      THE DISCOVERY:
+      *   Article 2 (McAfee) is older (starting 2010/2011) than Article 1 (Fairhope COVID events starting 2020).
+      *   Article 2 details McAfee’s criminal history, including two orchestrated murders in Belize.
+      *   Article 1 details Fairhope's shift from fiscal conservatism to accepting federal COVID-19 vaccination incentives due to available funds.
+
+      THE PIVOT:
+      *   No factual or thematic connection exists between John McAfee's criminal history in Belize and the Fairhope City Council's policy changes regarding COVID-19 vaccination incentives funded by the American Rescue Plan.
+
+      KEY ENTITIES:
+      *   John McAfee
+      *   Tom Mangar
+      *   Gregory Faull
+      *   Nanette Burnstein
+      *   Fairhope City Council
+      *   Mayor Karen Wilson
+      *   Jack Burrell
+      *   Sherry Sullivan
+      *   Stephanie Durnin
+      *   Stephanie Hannon
+      *   Belize
+      *   American Rescue Plan
+    llm_text: John McAfee orchestrated two murders in Belize in 2011. Contrast that with Mayor Karen Wilson's Fairhope City Council, which recently used American Rescue Plan funds to offer residents $500+ for COVID vaccinations.
+    text: John McAfee faced murder charges in Belize in 2011. In Fairhope, Mayor Karen Wilson and the City Council used American Rescue Plan money to pay residents to get COVID shots.
+    widget_date: "2021-06-25"
+    generated_at: "2026-11-07T05:53:45.189269Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-red-flags-faux-hope:
+    refined_source: b55769cd84b6ecff6d1cf32a1d48e79c8a45ad3d52b5c5861b320412d7b7c423
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell has an infamous reputation for bid rigging involving the Fairhope Airport Authority.
+      *   The Airport Authority stopped video taping meetings for the public since February.
+      *   In April, the city bought 2.9 acres in Hawthorn Glenn for $40,000 (below the $290,000 list price) in an alleged "political payback" for seller Kathy Hoffren.
+      *   On May 24, the council unanimously approved a 25-year lease for the K-1 center to FEEF at $1 per year, despite seeking $7 million/3.5 million grants.
+
+      THE DISCOVERY:
+      *   Article 2 reveals a pattern of financial opacity, questionable real estate deals (K-1, Airport, Hawthorn Glenn), and non-transparent governance under Jack Burrell.
+      *   This pattern includes raising the Airport Authority board membership criteria to include feeder pattern members instead of corporate limits.
+
+      THE PIVOT:
+      *   Article 2 establishes that Fairhope leadership (led by Jack Burrell) operates through non-transparent, politically driven, and financially questionable methods (e.g., low-cost real estate purchases, opaque Airport Authority).
+      *   Article 1 demonstrates the same financial opportunism—the council and Mayor changed their fiscally conservative stance on COVID mandates and incentives only after receiving federal American Rescue Plan money, suggesting financial motivation over public health principle.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Jack Burrell (Council President)
+      *   Mayor Karen Wilson
+      *   Sherry Sullivan
+      *   Lee Lawson
+      *   Stephanie Durnin
+      *   Stephanie Hannon
+      *   Paul Ripp
+      *   Kathy Hoffren
+      *   Fairhope Airport Authority
+      *   FEEF
+      *   Alabama (39% vaccination rate)
+    llm_text: Jack Burrell runs Fairhope leadership through financial opacity, including the $40,000 Hawthorn Glenn purchase for Kathy Hoffren. Read how Burrell pushed through a $1/year K-1 lease and shielded the Airport Authority from public view.
+    text: Jack Burrell used secret financial deals to buy the Hawthorn Glenn property for Kathy Hoffren for forty thousand dollars. He also leased a K-1 site for one dollar a year and hid the Airport Authority.
+    widget_date: "2021-06-18"
+    generated_at: "2026-11-07T05:48:43.243792Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  weasel-contractor:
+    refined_source: 7eccc31cf6bce0dc3174f8c32447df3ccaaca435bcd00e90d7bbcd15a51d5802
+    brief: |-
+      THE CONFLICT: Chris Elliott, previously a Baldwin County commissioner (Stacy Elliott/Haygood/Catalyst), was denied eligibility from the Strengthen Alabama Homes program in 2016 after attempting to gain confidential bidding information. Elliott copped a guilty plea in city court after being exposed to COVID-19.
+
+      THE DISCOVERY: Article 2 reveals Elliott's history as a contractor facing scrutiny for attempted profiling and unethical behavior in 2016, demonstrating a pattern of questionable conduct despite holding political office.
+
+      THE PIVOT: Article 2 provides historical context regarding the conduct of a key entity (Chris Elliott) concerning COVID exposure and legal issues, mirroring the political hypocrisy and lack of clear leadership displayed by Fairhope officials (Mayor Karen Wilson and Council President Jack Burrell) in their handling of the pandemic and subsequent acceptance of federal funds.
+
+      KEY ENTITIES: Chris Elliott, Mayor Karen Wilson, Jack Burrell, Sherry Sullivan, Stephanie Durnin, Stephanie Hannon, Tripp Boom Boom Pittman, Michelle Thomasson, Tucker Dorsey, Lynn Stacy, Scott Boone, Robert Wilters, Elliott Builders Inc., Baldwin County, Fairhope City Council.
+    llm_text: Chris Elliott faced scrutiny in 2016 for unethical conduct, denying him eligibility for Strengthen Alabama Homes. How does this history compare to Mayor Karen Wilson and Council President Jack Burrell's handling of the COVID-19 pandemic in Fairhope?
+    text: Chris Elliott faced ethics scrutiny in 2016 and missed out on Strengthen Alabama Homes help. Mayor Karen Wilson and Jack Burrell faced similar questions over their COVID-19 rules in Fairhope.
+    widget_date: "2021-05-14"
+    generated_at: "2026-11-07T05:55:03.950335Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-94-alabamas-ethical-decay-and-delta:
+    refined_source: da3b8b006f4206131e3e6e02184d50776919e2214eec172abfd305225dcf8c88
+    brief: |-
+      THE CONFLICT:
+      *   During last Spring Break, Sheriff Huey Mack had a breakthrough SARS-COV-2 case despite vaccinations and refusal to enforce the Stay At Home order.
+      *   Eddie Tyler announced a mask mandate for all staff, teachers, visitors, and students 2nd grade and up at the Baldwin County School Board meeting.
+      *   A bridge battle involves the Baldwin Bridge Company, Gulf Shores, and Orange Beach, tied to the Taxman Elliott's Police Jurisdiction Law.
+
+      THE DISCOVERY:
+      *   The USA reported 35.4 Million SARS-COV-2 infections and 615,000 deaths, with the Delta variant straining Gulf Coastal Hospitals.
+      *   The local jurisdiction issues include the conflict between Taxman Elliott's Police Jurisdiction Law and Fairhope's wetlands protection ordinance.
+
+      THE PIVOT:
+      *   Article 2 establishes the high severity of the Delta pandemic and the existence of mandated health measures (masking, Stay At Home) in Baldwin County.
+      *   Article 1 details how Fairhope leadership (Mayor Sullivan, Jack Burrell) initially politicized the pandemic (e.g., 2020 Arts and Craft show, Christmas parade) and ignored health guidance, leading them to compromise their fiscal conservatism and accept federal funds (American Rescue Plan) to incentivize vaccination, reversing their earlier stance.
+
+      KEY ENTITIES:
+      *   Sheriff Huey Mack
+      *   Eddie Tyler
+      *   Mayor Karen Wilson
+      *   Sherry Sullivan
+      *   Jack Burrell
+      *   Stephanie Durnin
+      *   Stephanie Hannon
+      *   Steve Russo-Frank
+      *   Burt
+      *   Tim James
+      *   Baldwin County School Board
+      *   Baldwin Bridge Company
+      *   Taxman Elliott
+      *   Limestone County Sheriff Mike Blakley
+      *   Fairhope City Council
+      *   American Rescue Plan
+    llm_text: Mayor Sullivan and Jack Burrell initially politicized the pandemic, ignoring guidance despite Sheriff Huey Mack's SARS-COV-2 case. Now, they compromise fiscal conservatism, accepting the American Rescue Plan to support Eddie Tyler's Baldwin County mask mandate.
+    text: Mayor Sullivan and Jack Burrell ignored COVID safety rules until Sheriff Huey Mack caught the virus. They then took American Rescue Plan cash to back Eddie Tyler's Baldwin County mask mandate.
+    widget_date: "2021-08-07"
+    generated_at: "2026-11-07T05:47:14.361282Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

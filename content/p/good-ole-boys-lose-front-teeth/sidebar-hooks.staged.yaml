@@ -5,63 +5,20 @@ metadata:
   main_date: "2025-08-27"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  end-the-good-ole-boy-culture-in-baldwin-county:
-    brief: |-
-      THE CONFLICT:
-      *   Past GOB culture in Baldwin County was driven by figures like Lynn Stacy, Hoss Mack (former Sheriff), and Chris Elliott (County Commissioner).
-      *   The system involved long-term incumbency (15, 20, or 30+ years), such as Summerdale's 33-year Mayor.
-      *   The group evolved from Stacy, Elliot, and Haygood (Mayor of Daphne) to Catalyst, and currently operates under Scott Boone Consulting.
-      *   Anthony Lowery succeeded Hoss Mack as Sheriff, maintaining GOB connections.
-
-      THE DISCOVERY:
-      *   Article 2 established that the GOB system (Catalyst/Scott Boone Consulting) was a long-standing, shadowy cabal facilitating political control and corruption in Baldwin County.
-      *   Article 2 identified Bay Minette as a municipality needing a new Mayor due to systemic issues.
-      *   Article 2 noted Brad Bass was a candidate for Mayor of Spanish Fort.
-
-      THE PIVOT:
-      *   Article 2 defines the GOB system (e.g., via Catalyst/Scott Boone Consulting) that Article 1 reports losing influence from during the recent election.
-      *   Article 2 provides the historical context for the anti-corruption sentiment that led to specific election upsets in Article 1 (e.g., in Spanish Fort and Bay Minette).
-
-      KEY ENTITIES:
-      *   Lynn Stacy
-      *   Hoss Mack
-      *   Chris Elliott
-      *   Haygood (Mayor of Daphne)
-      *   Catalyst
-      *   Scott Boone Consulting
-      *   Anthony Lowery
-      *   Brad Bass
-      *   Bob Willis
-      *   Joshua Brown
-      *   Charlie Murphy
-      *   Randy Farris
-      *   Ruthie Campbell
-      *   Russell Johnson
-    llm_text: The GOB cabal—including Lynn Stacy and Hoss Mack—controlled Baldwin County for decades via Catalyst and Scott Boone Consulting. Discover how this system is finally losing influence, driving major anti-corruption upsets in Spanish Fort and Bay Minette.
-    widget_date: "2025-08-25"
-    generated_at: "2026-11-06T11:54:41.444584Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  newsletter:
-    brief: |-
-      THE CONFLICT: High level of political corruption in Baldwin County due to low civic participation (estimated 10% involvement).
-      THE DISCOVERY: The Ripp Report, a non-profit consumer group, was actively covering Baldwin County elections to expose corruption and encourage citizen involvement.
-      THE PIVOT: Article 2 established the foundational problem (corruption/low participation); Article 1 details the successful electoral shift away from the "good ole boy" (GOB) culture, demonstrating that citizen action is leading to political change.
-      KEY ENTITIES: Baldwin County, The Ripp Report, Catalyst (Scott Boone Consulting), Bob Willis (ex-Mayor of Bay Minette), Joshua Brown, Brad Bass (Mayor of Spanish Fort), Charlie Murphy (8-term incumbent Mayor of Robertsdale), Ruthie Campbell, Russell Johnson, Randy Farris (Mayor of Summerdale), Bay Minette, Spanish Fort, Robertsdale, Summerdale.
-    llm_text: Baldwin County corruption thrived on low civic participation and old "good ole boy" culture, like that of former Mayor Bob Willis. The Ripp Report shows how local action created a successful electoral shift in Spanish Fort and Robertsdale, proving citizen involvement drives real political change.
-    widget_date: "2025-08-25"
-    generated_at: "2026-11-06T11:56:31.422770Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
+    refined_source: 875759be705cd901fa2401109f94b0cc5e5c21c8a4b52036f8f75412c15567c0
     brief: |-
       THE CONFLICT: Jack Burrell was the key player in Fairhope's Good Ole Boy Club, leading to questionable actions, conflicts of interest, and mismanagement under the previous administrations (e.g., Mayor Wilson, 5 years ago).
       THE DISCOVERY: Article 2 details specific past incidents, including the waterfront project ballooning from $6.3 million to $10 million, the double-dipping of the Mayor into utilities, and ignored constituent complaints (Library issue).
       THE PIVOT: Article 2 provides the detailed, documented evidence of long-standing GOB corruption in Fairhope, justifying the shift away from GOB culture reported in Article 1's current elections (e.g., Brad Bass winning over Mike).
       KEY ENTITIES: Jack Burrell, Mayor Wilson, Ronan McSharry, Kevin Boone, Andrea Faust, Publix, Fairhope Art Center, Troy Vickers, Catalyst (Scott Boone Consulting), Brad Bass, Mike, Bob Willis, Joshua Brown.
     llm_text: Jack Burrell’s Good Ole Boy Club caused chaos, ballooning the waterfront project from $6.3 million to $10 million. See documented evidence of this GOB corruption, including Mayor Wilson’s double-dipping, before you vote in Fairhope.
+    text: Jack Burrell and Mayor Karin Wilson inflated the Fairhope waterfront project cost from $6.3 million to $10 million. Examine the financial records before you vote in Fairhope.
     widget_date: "2025-08-24"
     generated_at: "2026-11-06T11:57:27.161739Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   qualified-daphne-district-6-city-council:
+    refined_source: ff75a0c50aa162b8889c7b8351222959cd8ddc9376d68de8ef84ab90eb268aba
     brief: |-
       THE CONFLICT:
       *   Baldwin County is shifting from "good ole boy" (GOB) culture to transparent/accountable government.
@@ -97,10 +54,12 @@ hooks:
       *   Summerdale
       *   Robertsdale
     llm_text: Baldwin County is ditching "good ole boy" culture, evidenced by Joshua Brown defeating Bob Willis and Brad Bass winning in Spanish Fort. See how Dr. Byrian Ramsey is challenging the status quo in Daphne District 6, fighting for "Lake Forest First" against issues like flooding and commercial park conversions.
+    text: Voters replaced Bob Willis in Spanish Fort and elected Brad Bass. Dr. Byrian Ramsey now challenges the political status quo in Daphne District 6 to address local flooding.
     widget_date: "2025-08-23"
     generated_at: "2026-11-06T11:58:37.166739Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bay-minette-vote-out-mayor-wills-remember-oj-french:
+    refined_source: 07f1e77a8da6fa2fecd0eb67a7375031f27111a6a9f2dcf692b00f201e1ffa59
     brief: |-
       THE CONFLICT:
       *   Mayor Bob Wills lied to the O. J. French family and community regarding the circumstances surrounding his son's death.
@@ -126,10 +85,12 @@ hooks:
       *   Catalyst (Scott Boone Consulting)
       *   Baldwin County
     llm_text: Mayor Bob Wills lied to the O. J. French family regarding his son's death, using his position for corrupt GOB gain in Baldwin County. His history of ethical misconduct, including ethics complaints, explains exactly why he lost to Joshua Brown.
+    text: Mayor Bob Wills misled the OJ French family about his son's death while using his office for GOB gain. Did this long history of ethical misconduct cause his election loss to Joshua Brown?
     widget_date: "2025-08-23"
     generated_at: "2026-11-06T11:55:24.289634Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   last-chance-fauxhope-or-fairhope:
+    refined_source: 0acbd391fddd82d6bcf5875de8360d8a2011cf35a10e497918786d002bf3127b
     brief: |-
       THE CONFLICT:
       Past GOB culture in Fairhope, Baldwin County, was defined by systemic corruption, conflicts of interest, and lack of transparency, led primarily by Councilman Jack Burrell.
@@ -160,16 +121,69 @@ hooks:
       Bay Minette
       Spanish Fort
     llm_text: Jack Burrell led Fairhope's corrupt "Good Ole Boy Club," taking $500 from Jade Consulting and inflating the waterfront project. New election wins by Joshua Brown and Brad Bass confirm this crony culture is finally losing influence.
+    text: Jack Burrell led Fairhope's GOB club while taking $500 from Jade Consulting and inflating waterfront costs. Do election wins by Joshua Brown and Brad Bass finally end this crony culture?
     widget_date: "2025-08-22"
     generated_at: "2026-11-06T11:59:36.020588Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   two-questions-decide-fairhopes-future:
+    refined_source: 04962c6a39ed01d5966304ededd979bbe9c4d71e92351f19a62b3fe68f3c79d9
     brief: |-
       THE CONFLICT: Bob Willis, ex-Mayor of Bay Minette, lost to Joshua Brown; Brad Bass won in Spanish Fort; Charlie Murphy (8-term incumbent) finished third in Robertsdale; Karin Wolff Wilson initially refused a second salary and used funds for a professional engineer in Fairhope.
       THE DISCOVERY: In Fairhope, Mayor Sherry Sullivan fired the utilities engineer, took the second salary, and replaced professional management with a high school graduate, despite $40 million in BP utility funding.
       THE PIVOT: Article 2 provides a concrete example of the specific systemic corruption—misuse of public funds and protection of special interests via at-large council seats—that Article 1 identifies as the root cause of the "good ole boy, GOB" culture losing elections across Baldwin County.
       KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Scott Boone Consulting (Catalyst), Bob Willis, Joshua Brown, Brad Bass, Charlie Murphy, Ruthie Campbell, Russell Johnson, Randy Farris, BP, Bay Minette, Spanish Fort, Robertsdale, Fairhope, Baldwin County.
     llm_text: Sherry Sullivan misused $40 million in BP utility funds in Fairhope, taking a second salary after firing the utilities engineer. This corruption, seen across Baldwin County, explains why the "GOB" culture is finally losing elections.
+    text: Fairhope Mayor Sherry Sullivan misused $40 million in utility funds and took a second salary after firing the utilities engineer. This spending drove public backlash.
     widget_date: "2025-08-21"
     generated_at: "2026-11-06T12:00:44.144875Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  end-the-good-ole-boy-culture-in-baldwin-county:
+    refined_source: 15d03e750d31c2ef020568746622363062a05679303e11c4b480ae5c503183a7
+    brief: |-
+      THE CONFLICT:
+      *   Past GOB culture in Baldwin County was driven by figures like Lynn Stacy, Hoss Mack (former Sheriff), and Chris Elliott (County Commissioner).
+      *   The system involved long-term incumbency (15, 20, or 30+ years), such as Summerdale's 33-year Mayor.
+      *   The group evolved from Stacy, Elliot, and Haygood (Mayor of Daphne) to Catalyst, and currently operates under Scott Boone Consulting.
+      *   Anthony Lowery succeeded Hoss Mack as Sheriff, maintaining GOB connections.
+
+      THE DISCOVERY:
+      *   Article 2 established that the GOB system (Catalyst/Scott Boone Consulting) was a long-standing, shadowy cabal facilitating political control and corruption in Baldwin County.
+      *   Article 2 identified Bay Minette as a municipality needing a new Mayor due to systemic issues.
+      *   Article 2 noted Brad Bass was a candidate for Mayor of Spanish Fort.
+
+      THE PIVOT:
+      *   Article 2 defines the GOB system (e.g., via Catalyst/Scott Boone Consulting) that Article 1 reports losing influence from during the recent election.
+      *   Article 2 provides the historical context for the anti-corruption sentiment that led to specific election upsets in Article 1 (e.g., in Spanish Fort and Bay Minette).
+
+      KEY ENTITIES:
+      *   Lynn Stacy
+      *   Hoss Mack
+      *   Chris Elliott
+      *   Haygood (Mayor of Daphne)
+      *   Catalyst
+      *   Scott Boone Consulting
+      *   Anthony Lowery
+      *   Brad Bass
+      *   Bob Willis
+      *   Joshua Brown
+      *   Charlie Murphy
+      *   Randy Farris
+      *   Ruthie Campbell
+      *   Russell Johnson
+    llm_text: The GOB cabal—including Lynn Stacy and Hoss Mack—controlled Baldwin County for decades via Catalyst and Scott Boone Consulting. Read how this system is finally losing influence, driving major anti-corruption upsets in Spanish Fort and Bay Minette.
+    text: Lynn Stacy and Hoss Mack controlled Baldwin County for decades using Catalyst and Scott Boone Consulting. Why are anti-corruption upsets in Spanish Fort and Bay Minette breaking their grip?
+    widget_date: "2025-08-25"
+    generated_at: "2026-11-06T11:54:41.444584Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  newsletter:
+    refined_source: 9a7d4df2143a3e54242f64506fddde7207c89f0ce8ef6927481cb9b8bbc8b789
+    brief: |-
+      THE CONFLICT: High level of political corruption in Baldwin County due to low civic participation (estimated 10% involvement).
+      THE DISCOVERY: The Ripp Report, a non-profit consumer group, was actively covering Baldwin County elections to expose corruption and encourage citizen involvement.
+      THE PIVOT: Article 2 established the foundational problem (corruption/low participation); Article 1 details the successful electoral shift away from the "good ole boy" (GOB) culture, demonstrating that citizen action is leading to political change.
+      KEY ENTITIES: Baldwin County, The Ripp Report, Catalyst (Scott Boone Consulting), Bob Willis (ex-Mayor of Bay Minette), Joshua Brown, Brad Bass (Mayor of Spanish Fort), Charlie Murphy (8-term incumbent Mayor of Robertsdale), Ruthie Campbell, Russell Johnson, Randy Farris (Mayor of Summerdale), Bay Minette, Spanish Fort, Robertsdale, Summerdale.
+    llm_text: Baldwin County corruption thrived on low civic participation and old "good ole boy" culture, like that of former Mayor Bob Willis. The Ripp Report shows how local action created a successful electoral shift in Spanish Fort and Robertsdale, proving citizen involvement drives real political change.
+    text: Low voter turnout sustained old political networks in Baldwin County, including former Mayor Bob Willis. Local action shifted election results in Spanish Fort and Robertsdale.
+    widget_date: "2025-08-25"
+    generated_at: "2026-11-06T11:56:31.422770Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

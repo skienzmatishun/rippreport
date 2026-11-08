@@ -77,7 +77,7 @@ related_articles:
 summary: In our election coverage of the Baldwin County Commission District 2 race,
   we celebrate Matt McKenzie defeating CATALYST. Baldwin County voters
   rejected double-dipping insiders and beat the Good Ole Boys who control local
-  government with backroom cash. This big win proves that voters can break the good
+  government with backroom cash. This big win shows that voters can break the good
   ole boy network and demand real integrity in office.
 ---
 Baldwin County citizens are the winners. The election of Matt McKenzie, County Commission District 2, is one of the best decisions Baldwin voters have made in a long time. Matt and his family fought hard and covered the county, getting his message out.

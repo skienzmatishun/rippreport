@@ -1,0 +1,194 @@
+metadata:
+  generated_at: "2026-11-07T04:05:08.423691Z"
+  generator_version: 1.0.0
+  post_slug: vote-yes-today
+  main_date: "2022-02-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  i-quit:
+    refined_source: 9f9ff786ae7226233725b1e777d0c24a8db520ca1a5a8388a329854e863a3ee2
+    brief: |-
+      THE CONFLICT: Fairhope City Council served 2016/2020; Robert Brown served only 5 months and subsequently quit immediately without notice.
+      THE DISCOVERY: Article 2 reveals the 2016/2020 council was unproductive and many members used public office for personal gain.
+      THE PIVOT: Article 2 establishes a pattern of alleged corruption and undue influence (CSB involvement) within the council structure that frames current zoning issues (District Zoning 8) referenced in Article 1.
+      KEY ENTITIES: Robert Brown, Jack Burrell, Jay Robinson, Sherry Sullivan, CSB, Fairhope City Council, District Zoning 8
+    llm_text: Robert Brown quit the Fairhope City Council after just five months amid a pattern of alleged corruption involving CSB. See how past council issues now shape the critical District Zoning 8 decisions impacting you.
+    text: Robert Brown quit the Fairhope City Council after five months amid corruption claims involving CSB. Past council issues now shape critical District Zoning 8 decisions.
+    widget_date: "2021-02-26"
+    generated_at: "2026-11-07T04:03:01.817634Z"
+    model_name: plugsky-lite
+  shadow-government-southern-style:
+    refined_source: 3e6ce8dad5fe5b66522adeca772f58a4d5cca623cd38ee0db21915fc3d8e2fce
+    brief: |-
+      THE CONFLICT: Political prosecution of former Democratic Gov. Don Siegelman and former HealthSouth CEO Richard Scrushy.
+      THE DISCOVERY: Thomas T. Gallion III's book, "Shadow Government, Southern Style" (2020), alleges the prosecution was a ploy by Rob Riley, Rob Campbell, and Doug Jones to gain control over Scrushy's financial clout and void his retirement policy, not solely to limit Siegelman's political clout.
+      THE PIVOT: Article 2 provides historical context (2018 events detailed in the book) regarding deep-south political corruption, which frames the contemporary local issue mentioned in Article 1 (District Zoning vote in District 8).
+      KEY ENTITIES: Thomas T. Gallion III, Don Siegelman, Richard Scrushy, Rob Riley, Rob Campbell, Doug Jones, Baldwin County, District 8, Fairhope
+    llm_text: Thomas T. Gallion III alleges Rob Riley and others used the Don Siegelman/Richard Scrushy prosecution to control Scrushy's finances, not just limit politics. See how this deep-south corruption history affects today's District 8 zoning vote in Fairhope.
+    text: Thomas T. Gallion III alleges Rob Riley used the Don Siegelman and Richard Scrushy prosecution to control Scrushy's finances. This history of corruption affects today's District 8 zoning vote in Fairhope.
+    widget_date: "2020-09-11"
+    generated_at: "2026-11-07T04:03:07.450178Z"
+    model_name: plugsky-lite
+  baldwin-county:
+    refined_source: 243cb0a33a977d8c55e16ce8746cfef80349a5638f1db7fd2021fa014dd37593
+    brief: |-
+      THE CONFLICT:
+      - Jonathan Victor was killed in a single-vehicle accident on Interstate 10.
+      - BCSO Sgt. Matt Hunady shot Victor with his service rifle.
+      - Incident occurred in 2017.
+
+      THE DISCOVERY:
+      - BCSO has rarely released body-cam footage to the public.
+      - Attorneys met at the Alabama Supreme Court to argue if the 2017 body-cam footage was a public record.
+
+      THE PIVOT:
+      - Article 2 establishes a pattern of BCSO withholding critical video evidence, contradicting the recent $662,567.00 County Commission approval for 129 body cameras in Article 1.
+
+      KEY ENTITIES:
+      - Sheriff Hoss Mack
+      - Jonathan Victor
+      - Sgt. Matt Hunady
+      - Alabama Supreme Court
+      - BCSO
+      - County Commission
+      - Interstate 10
+    llm_text: Did BCSO hide the 2017 body-cam footage of Jonathan Victor's death? See how this withholding contradicts the County Commission's $662k approval for new cameras.
+    text: Did the Baldwin County Sheriff's Office hide the 2017 body-cam footage of Jonathan Victor's death? This withholding contradicts the County Commission's $662,000 approval for new cameras.
+    widget_date: "2020-09-04"
+    generated_at: "2026-11-07T04:03:14.413004Z"
+    model_name: plugsky-lite
+  happy-days:
+    refined_source: 73e5ea294cf84db090cd0210ea2f9a5262c103fbae1f7b71d688591fea173e37
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County, AL, is described as politically corrupt, with a system lacking accountability.
+      *   Attorney General used PAC funds to get elected, which was reported as clearly illegal.
+      *   Ethics Executive Director Tom Albritton was accused of self-serving himself and friends by skimming entrusted funds.
+      *   Fairhope taxpayers spent millions on stalled, unnecessary, or pet projects supported by developers.
+      *   Sheriff Hoss Mack was qualified for the position by former State Senator Tripp Pittman, legislatively eliminating competition.
+      *   Sheriff Mack’s Major Crimes Division investigations have never resulted in an officer being found guilty.
+
+      THE DISCOVERY:
+      *   Baldwin County corruption is systemic, involving developers, local officials (Fairhope council, municipal attorney, municipal judge), and compromised oversight bodies (Ethics Commission, Attorney General's office).
+      *   A new 900+ bed jail, the Hoss Mack Judicial Center, is planned for Bay Minette at a cost of 65 million dollars.
+
+      THE PIVOT:
+      *   Article 2 establishes the foundation of deep, entrenched political corruption and developer influence in Baldwin County, which directly informs the political landscape surrounding local decisions like District Zoning 8 (Article 1).
+      *   The systemic lack of transparency and accountability detailed in Article 2 is the context for the local zoning decision referenced in Article 1 ("Vote YES Today!").
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Fairhope
+      *   Mobile Bay
+      *   Tom Albritton (Ethics Executive Director)
+      *   Attorney General
+      *   Hoss Mack (Sheriff)
+      *   Tripp Pittman (Former State Senator)
+      *   State Senator Elliott
+      *   District Zoning 8
+      *   Bay Minette
+      *   Berry Steam Plant
+    llm_text: Baldwin County corruption is systemic, involving Tom Albritton and Sheriff Hoss Mack, not just District Zoning 8. Read how developer influence and illegal PAC funds shape every decision in Fairhope and Bay Minette.
+    text: Tom Albritton and Sheriff Hoss Mack drive systemic corruption in Baldwin County beyond District Zoning 8. Developer influence and illegal PAC funds shape decisions in Fairhope and Bay Minette.
+    widget_date: "2022-02-11"
+    generated_at: "2026-11-07T04:03:45.183945Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  press-release:
+    brief: |-
+      THE CONFLICT:
+      - Harry Still, III, Attorney At Law, issued PRESS RELEASE announcing his campaign for Alabama Attorney General; requested Republican Primary vote on May 24th.
+      - Harry Still: "I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General."
+      - Harry Still: will protect Alabama citizens from violent crime by keeping criminals locked up in Alabama prisons, not walking streets in exchange for a few dollars or freed by federal oversight.
+      - Harry Still: waged tireless fight against corruption in Alabama his entire adult life; for three decades served from hallways of city and county governments and in many of the Courthouses throughout Alabama.
+      - Mike Hubbard, former Speaker of the Alabama House of Representatives, attempted to influence legislators to shorten his prison sentence.
+      - Mike Hubbard's calls attempting to influence legislators were made on a State telephone in a County Jail subject to recording; he was advised of this fact (per Harry Still's press release).
+      - Harry Still campaign promise 3: To release all recordings of former Speaker Mike Hubbard attempting to influence legislators to shorten his prison sentence.
+
+      THE DISCOVERY:
+      - PRESS RELEASE (Article 2) revealed Harry Still's campaign promises:
+        - 1. Take a Leadership Role in Prison Construction and Improvements.
+        - 2. Reform law enforcement from the top down:
+          - Reorganize The Alabama Police Officers Standards and Training Commission (APOST).
+          - "Sensory training" Statewide.
+          - Non-lethal equipment provided to all departments in the State.
+          - Designate a Go-Team to investigate every single officer-involved shooting in Alabama; no more Major Crime Units or Internal Affairs Unit investigating shootings within their own department.
+          - Bolster the Public Integrity Unit.
+            - Review every complaint filed with the Alabama Ethics Commission since 2015.
+            - Review all new complaints filed with the Alabama Ethics Commission; jurisdictions are concurrent.
+            - Investigation into the use of software called a "Master Name Index" by local law enforcement that may violate the Constitutional Rights of our Citizens.
+        - 3. To release all recordings of former Speaker Mike Hubbard attempting to influence legislators to shorten his prison sentence. Calls made on a State telephone in a County Jail subject to recording; Hubbard was advised of this fact.
+        - 4. Take a Leadership Position on Medical Cannabis Licensing.
+        - 5. If the People of Alabama decide to permit gaming or a lottery, ensure a Gaming Commission with respectable appointed officials.
+        - 6. Take a leadership role in replacing the State Constitution; Home Rule for County Government; Reform the Court of the Judiciary.
+        - 7. Investigate unregulated private sewer utilities in Alabama.
+        - 8. Champion the Alabama Accountability and Transparency Act.
+        - 9. Review all no-bid contracts with the State of Alabama.
+        - 10. Support the Right of Citizens to carry a firearm concealed if not prohibited by law, without a permit from your local Sheriff.
+
+      THE PIVOT:
+      - Article 2 (PRESS RELEASE) is older than Article 1 ("Vote YES Today"); Article 2 framed as background/historical context.
+      - Article 2's Harry Still press release provides the named candidate, platform, and specific promises — including releasing Mike Hubbard's recordings — that give factual content to Article 1's "Vote YES Today" directive.
+      - Article 1 image context: White A-frame sign on pavement displaying "Vote YES Today!" with "District Zoning and the number 8"; the number 8 may correspond to campaign promise 8 (Alabama Accountability and Transparency Act) or a district zoning reference.
+
+      KEY ENTITIES:
+      - Harry Still, III — Attorney At Law; PO Box 2435, Daphne, Alabama 36526; 251-202-3234; candidate for Alabama Attorney General.
+      - Mike Hubbard — former Speaker of the Alabama House of Representatives.
+      - Alabama Ethics Commission.
+      - Alabama Police Officers Standards and Training Commission (APOST).
+      - Public Integrity Unit.
+      - Alabama State Legislature / Alabama House of Representatives.
+      - Alabama Attorney General.
+      - Alabama Republican Primary — May 24th.
+      - District Zoning / number 8 — from Article 1 image context.
+    llm_text: Harry Still III is betting his Alabama Attorney General campaign on releasing Mike Hubbard's secret jail recordings that could shorten his prison sentence. Alabama voters should care because this corruption fight hits the Republican Primary on May 24th.
+    text: Harry Still III is betting his Alabama Attorney General campaign on releasing Mike Hubbard's secret jail recordings that could shorten his prison sentence. Alabama voters should care because this corruption fight hits the Republican Primary on May 24th.
+    widget_date: "2022-01-29"
+    generated_at: "2026-11-07T04:03:24.965689Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-2:
+    refined_source: 1cbab0fe0e5fd9aefa02caabbdc852ef231b7502750a70a3d01210393f818730
+    brief: |-
+      THE CONFLICT: No specific conflict or past event detailed in provided content.
+      THE DISCOVERY: No specific discovery detailed in provided content.
+      THE PIVOT: Cannot determine the 'smoking gun' connection without content from both articles.
+      KEY ENTITIES: District Zoning, Number 8
+    llm_text: District Zoning officials are scrutinizing Number 8 development. See how this local decision impacts your neighborhood today.
+    text: District Zoning officials scrutinize the Number 8 development. Read how this local decision impacts your neighborhood right now.
+    widget_date: "2020-03-13"
+    generated_at: "2026-11-07T04:02:52.806218Z"
+    model_name: plugsky-lite
+  make-8-great:
+    refined_source: 22ca877e07d374ba2bc129f63f61df57d529c3437dbde2ef89b820f6526248fc
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope historically maintained an annexation policy requiring property owner request.
+      *   This policy was used to avoid annexation of the African American community.
+      *   Fairhope spent $2.6 million on farmland for recreation.
+      *   This farmland was later rented for farming at $9,000 per year.
+      *   Burrell Boone and Brown pushed the farmland purchase, which was opposed by citizens because the land was near the airport.
+      *   The African American neighbor received $0 for the park/recreation land.
+      *   Unzoned areas have faced uncontrolled development (fast food/nightclubs) for 20 years.
+
+      THE DISCOVERY:
+      *   The historical annexation policy was deliberately used to exclude the African American community.
+      *   Past decisions (e.g., the $2.6M purchase) favored specific interests (Jack Burrell) over equitable community benefit.
+
+      THE PIVOT:
+      *   The current District 8 zoning option is presented as a necessary step toward control and preventing further exploitation or lack of community input, given Fairhope's history of ignoring neighbors.
+      *   The current call to action (Vote YES Today) addresses the 20-year issue of uncontrolled zoning and historical inequity.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   District Zoning 8
+      *   Jack Burrell
+      *   Burrell Boone
+      *   Brown
+      *   Clarice Hall Black
+      *   Twin Beech Rd & Section St
+      *   $2.6 million
+      *   $9,000
+    llm_text: Fairhope's historic annexation policy deliberately excluded the African American community, even as Jack Burrell pushed a $2.6 million farmland purchase. Vote YES on District Zoning 8 today to finally stop 20 years of uncontrolled development and ensure neighborhood input.
+    text: Fairhope's annexation policy excluded the African American community while Jack Burrell pushed a $2.6 million farmland purchase. Vote on District Zoning 8 to stop 20 years of uncontrolled development.
+    widget_date: "2021-10-16"
+    generated_at: "2026-11-07T04:04:49.701631Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

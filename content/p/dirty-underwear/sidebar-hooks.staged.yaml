@@ -5,48 +5,8 @@ metadata:
   main_date: "2022-07-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  fauxhope-2:
-    brief: |-
-      THE CONFLICT:
-      *   Fairhope infrastructure problems (electrical/water shortages) resulted from neglect during the Tim Kant administration (2000 to 2016).
-      *   State-level corruption involves the Attorney General, Ethics Commission, and Alabama Bar protecting politicians from complaints.
-      *   Ethics Commission Executive Director Tom Albritton was confirmed in March 2015.
-      *   McCallum was fined $100,000 by the Alabama Ethics Commission but faced no criminal prosecution from the Attorney General’s Office (August 2021).
-
-      THE DISCOVERY:
-      *   The local political structure in Fairhope, led by Council President Jack Burrell and supported by CATALYST and developers, demonstrated long-term, politically motivated denial of infrastructure projects (2016-2020).
-      *   Albritton received over $105,000 in scholarships for his children between 2014 and 2018 from a trust where he was a trustee, violating IRS Section 4941(d) on self-dealing.
-
-      THE PIVOT:
-      *   Article 2 (FAUXHOPE, 2000-2020) provides historical context of local political failure and neglect driven by political motivation (e.g., Burrell/Catalyst), mirroring the state-level systemic failure and lack of accountability seen in Article 1 (DIRTY UNDERWEAR), where the AG, Bar, and Ethics Commission shield culpable politicians.
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   McCallum
-      *   Attorney General
-      *   Alabama Bar
-      *   Alabama Ethics Commission
-      *   Jack Burrell (Council President, Fairhope)
-      *   Tim Kant
-      *   Cory Martin
-      *   Sherry Sullivan
-      *   CATALYST
-      *   Fairhope City Council
-    llm_text: Fairhope endured infrastructure neglect under Tim Kant, yet state corruption shields powerful politicians. Ethics Commission Director Tom Albritton secretly took over $105,000 in scholarships while serving, proving accountability fails across Alabama.
-    widget_date: "2022-06-29"
-    generated_at: "2026-11-06T22:37:58.198192Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  win-for-baldwin:
-    brief: |-
-      THE CONFLICT: Jerry Carl beat CATALYST’s Lowtower in the Republican House Race.
-      THE DISCOVERY: Matt McKenzie was elected County Commission District 2 in Baldwin County.
-      THE PIVOT: The Baldwin County victory, supported by BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA), demonstrates that citizens are "waking up" and rejecting candidates associated with established political groups (CATALYST) and potential corruption, paralleling the systemic failures detailed in Article 1.
-      KEY ENTITIES: Matt McKenzie, Jerry Carl, Lowtower, CATALYST, Scott Boone Consulting, Baldwin County, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA).
-    llm_text: Matt McKenzie won Baldwin County Commission District 2, proving citizens are rejecting established groups like CATALYST. Jerry Carl also beat Lowtower in the House race, signaling a powerful local push for accountability that mirrors the systemic failures detailed in Article 1.
-    widget_date: "2022-06-22"
-    generated_at: "2026-11-06T22:40:26.120817Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pot-calling-the-kettle-black:
+    refined_source: 0f81dc73e7a5461f667de1723712fae50fe48da42096b6d6f165bb8c415c5033
     brief: |-
       THE CONFLICT:
       - Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as a trustee of the funds.
@@ -73,10 +33,12 @@ hooks:
       - B.P. (Source of $750,000)
       - Lagniappe (Publication)
     llm_text: Tom Albritton, Ethics Commission Director, used a private trust to pay over $100,000 for his children's college tuition. This self-dealing mirrors the massive $750,000 B.P. scandal involving former Senator Tripp Pittman, showing systemic corruption in Alabama.
+    text: Ethics director Tom Albritton used a private trust to pay over $100,000 for his children's college costs. This self-dealing matches the massive B.P. scandal involving Tripp Pittman.
     widget_date: "2022-02-19"
     generated_at: "2026-11-06T22:41:28.860841Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   perfect-puzzle:
+    refined_source: 49cd7fbda0acabfad6e4612db049f3027162f181641088d31ef5ad8c9915d4ed
     brief: |-
       THE CONFLICT:
       - Alabama is characterized as the most politically corrupt state in the U.S.
@@ -103,10 +65,12 @@ hooks:
       - Chief Justice Tom Parker
       - Alabama Legislature
     llm_text: Alabama’s political corruption runs deep; Ethics Commission director Tom Albritton used a trust to pay his children's college tuition. The Alabama Bar Association paid McCallum $37,437 after his resignation, proving institutional protections shield culpability.
+    text: Ethics director Tom Albritton used a public trust to pay for his children's college bills. The Alabama Bar Association then paid McCallum thousands after his resignation.
     widget_date: "2021-12-08"
     generated_at: "2026-11-06T22:42:36.936024Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   writ-of-mandamus-update:
+    refined_source: de313b48d6a683b5ccc8d33868eb52d8a228c218176d8130b397efd2109e93a5
     brief: |-
       THE CONFLICT:
       *   Tom Albritton was confirmed by the State Senate as Executive Director of the Alabama Ethics Commission in March 2015.
@@ -137,10 +101,12 @@ hooks:
       *   McCallum
       *   Tom Parker (Chief Justice)
     llm_text: Tom Albritton used his trustee role in the Mabel Amos Memorial Fund to give his children $105,000. Francis Paul Ripp now files a Writ of Mandamus and a civil suit against Regions Bank to expose this "self-dealing" and hold powerful institutions accountable.
+    text: Tom Albritton used his trustee role to give his children $105,000 from a memorial fund. Francis Paul Ripp filed a lawsuit against Regions Bank to hold these leaders accountable.
     widget_date: "2021-10-26"
     generated_at: "2026-11-06T22:39:14.363266Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   this-is-a-test:
+    refined_source: a7cfee6e1177aa4939f713fe8d1086667e86284ffe662ece88f12495da7a79e2
     brief: |-
       THE CONFLICT:
       *   Prior to 2010, campaign finance tracking in Alabama was nearly impossible due to shifting money between political action committees (PACs).
@@ -171,16 +137,64 @@ hooks:
       *   Regions Bank
       *   Alabama (State/Location)
     llm_text: Ethics Commission Director Tom Albritton funneled over $120,000 from the Mabel Amos Memorial Fund to his children and Judge Ben Bowden. The Ripp Report filed a Writ of Mandamus, exposing how the Alabama Ethics Commission and Attorney General protect this systemic self-dealing.
+    text: Ethics director Tom Albritton took over $120,000 from a memorial fund for his family and Judge Ben Bowden. The Ripp Report filed a court writ to expose this ongoing theft.
     widget_date: "2021-10-22"
     generated_at: "2026-11-06T22:43:51.506683Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-ugly:
+    refined_source: 7cdb5e3fca7de76f426dd63e5c26a69ae1044f6fdc9af08c2ec9d6ed0bb89020
     brief: |-
       THE CONFLICT: Initial allegations of white collar/political corruption in Alabama involving Ethics Commission Director Tom Albritton, the Mabel Amos Memorial Trust, and Regions Bank.
       THE DISCOVERY: The Mabel Amos Memorial Trust, holding millions, was harbored at Regions Bank, leading to concerns about potential federal charges including money laundering, tax evasion, wire fraud, and conspiracy (Widget Article).
       THE PIVOT: Article 2 established Albritton's link to the Trust and Regions Bank; Article 1 provides specific evidence of institutional cover-up (AG/Ethics/Bar protecting politicians), documents Albritton's self-dealing (receiving $105,000 for children's scholarships 2014-2018, violating IRS Section 4941(d)), and details the failure to prosecute (McCallum fined $100,000 but faced no criminal charges from the Attorney General’s Office).
       KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Alabama Bar, Attorney General, Mabel Amos Memorial Trust, Regions Bank, Leigh Manning, Tommy Gallion, McCallum, State Senate, 2015, 2014-2018, August 2021
     llm_text: Tom Albritton received $105,000 from the Mabel Amos Memorial Trust, which was harbored at Regions Bank. Discover the Alabama institutional cover-up linking the Ethics Commission to potential federal charges like money laundering.
+    text: Tom Albritton took $105,000 from the Mabel Amos Memorial Trust held at Regions Bank. State officials built a cover-up to hide these shady money deals from the public.
     widget_date: "2021-09-10"
     generated_at: "2026-11-06T22:45:03.563633Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-2:
+    refined_source: 2da47dc0aef0b463cd9efa32e80c03a89d7ad67b17a6a8b2073b345c1afef64d
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope infrastructure problems (electrical/water shortages) resulted from neglect during the Tim Kant administration (2000 to 2016).
+      *   State-level corruption involves the Attorney General, Ethics Commission, and Alabama Bar protecting politicians from complaints.
+      *   Ethics Commission Executive Director Tom Albritton was confirmed in March 2015.
+      *   McCallum was fined $100,000 by the Alabama Ethics Commission but faced no criminal prosecution from the Attorney General’s Office (August 2021).
+
+      THE DISCOVERY:
+      *   The local political structure in Fairhope, led by Council President Jack Burrell and supported by CATALYST and developers, demonstrated long-term, politically motivated denial of infrastructure projects (2016-2020).
+      *   Albritton received over $105,000 in scholarships for his children between 2014 and 2018 from a trust where he was a trustee, violating IRS Section 4941(d) on self-dealing.
+
+      THE PIVOT:
+      *   Article 2 (FAUXHOPE, 2000-2020) provides historical context of local political failure and neglect driven by political motivation (e.g., Burrell/Catalyst), mirroring the state-level systemic failure and lack of accountability seen in Article 1 (DIRTY UNDERWEAR), where the AG, Bar, and Ethics Commission shield culpable politicians.
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   McCallum
+      *   Attorney General
+      *   Alabama Bar
+      *   Alabama Ethics Commission
+      *   Jack Burrell (Council President, Fairhope)
+      *   Tim Kant
+      *   Cory Martin
+      *   Sherry Sullivan
+      *   CATALYST
+      *   Fairhope City Council
+    llm_text: Fairhope endured infrastructure neglect under Tim Kant, yet state corruption shields powerful politicians. Ethics Commission Director Tom Albritton secretly took over $105,000 in scholarships while serving, proving accountability fails across Alabama.
+    text: Fairhope suffered under Tim Kant while state leaders protected their own. Ethics chief Tom Albritton secretly took over $105,000 in scholarships while in office.
+    widget_date: "2022-06-29"
+    generated_at: "2026-11-06T22:37:58.198192Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  win-for-baldwin:
+    refined_source: e79eeb9fe25c04e8e23c20cb84ee660326b9aaf8c5e1c27b66dc236796cb95d6
+    brief: |-
+      THE CONFLICT: Jerry Carl beat CATALYST’s Lowtower in the Republican House Race.
+      THE DISCOVERY: Matt McKenzie was elected County Commission District 2 in Baldwin County.
+      THE PIVOT: The Baldwin County victory, supported by BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA), demonstrates that citizens are "waking up" and rejecting candidates associated with established political groups (CATALYST) and potential corruption, paralleling the systemic failures detailed in Article 1.
+      KEY ENTITIES: Matt McKenzie, Jerry Carl, Lowtower, CATALYST, Scott Boone Consulting, Baldwin County, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA).
+    llm_text: Matt McKenzie won Baldwin County Commission District 2, proving citizens are rejecting established groups like CATALYST. Jerry Carl also beat Lowtower in the House race, signaling a powerful local push for accountability that mirrors the systemic failures detailed in Article 1.
+    text: Matt McKenzie won Baldwin County Commission District 2 as voters rejected the CATALYST group. Jerry Carl also won his house race, demanding new accountability from leaders.
+    widget_date: "2022-06-22"
+    generated_at: "2026-11-06T22:40:26.120817Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

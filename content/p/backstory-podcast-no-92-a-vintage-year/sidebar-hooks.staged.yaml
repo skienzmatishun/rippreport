@@ -1,0 +1,329 @@
+metadata:
+  generated_at: "2026-11-07T07:08:51.305622Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-92-a-vintage-year
+  main_date: "2021-07-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-180:
+    refined_source: eeec5a54babf390dfa143add30bcc486964fbb6f021ae07c65f325ca93821614
+    brief: |-
+      THE CONFLICT:
+      *   Governor Ivey expressed dissatisfaction regarding unvaccinated populations due to Delta Variant rise (Article 1).
+      *   Thomas Gallion III represents the Trust of Mabel Amos, which is administered by Alabama Ethics Commission Director Thomas Albritton (Article 1).
+      *   A Federal Lawsuit (Ripps Writ of Mandamus) alleged State Officials violated Civil Rights by allowing a District Judge to sit as a Circuit Judge in "Family Court" (Article 1).
+
+      THE DISCOVERY:
+      *   VP Kamala Harris transitioned from being a "scourge" to a "darling savior" (Article 2).
+      *   In Baldwin County, Alabama, Sheriff Mack has one week remaining in office (Article 2).
+      *   The Governor is currently selecting a replacement for Sheriff Mack (Article 2).
+
+      THE PIVOT:
+      *   Article 2 establishes the immediate political and governance context (Sheriff Mack replacement/Harris's political shift) in Baldwin County, Alabama, which provides the timely update to the ongoing local legal and political issues detailed in Article 1 (e.g., Trust of Mabel Amos, Civil Rights lawsuits, local judicial structure).
+
+      KEY ENTITIES:
+      *   Governor Ivey
+      *   Thomas Gallion III
+      *   Thomas Albritton (Alabama Ethics Commission Director)
+      *   Ripps
+      *   Baldwin County, Alabama
+      *   Sheriff Mack
+      *   VP Kamala Harris
+      *   Lance LaCour (former Baldwin County Economic Development Alliance Director)
+      *   Lee Lawson (current Alliance Director)
+      *   $32M (Megasite Purchase Price)
+    llm_text: Governor Ivey addresses Delta concerns and the Ripps Writ of Mandamus, but Baldwin County moves faster. Sheriff Mack leaves next week, shifting local governance while VP Kamala Harris transitions from "scourge" to "savior."
+    text: Governor Ivey addresses Delta concerns and the Ripp Writ of Mandamus in Baldwin County. Sheriff Mack leaves next week as local governance shifts.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T07:07:06.952026Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 8be77fdcb902af38072b21df15e288fbe30152ffb74984e85499b6ca486c11fb
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Bob Wills was mentioned in connection with shootings and stabbings in Bay Minette (Article 1).
+
+      THE DISCOVERY:
+      *   On July 31, 2024, the family of OJ French Jr. filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson.
+      *   Mayor Robert Bob Wills lied when he claimed he spoke for the family and that they were "ok with the outcome" of the investigation.
+      *   The lawsuit alleges Officer Thompson lacked probable cause and shot OJ French Jr.
+
+      THE PIVOT:
+      *   Article 2 provides specific details and a recent high-profile legal conflict involving Mayor Robert Bob Wills in Bay Minette, turning the general mention of local crime (Article 1) into a documented political and civil rights dispute.
+
+      KEY ENTITIES:
+      *   Mayor Robert Bob Wills
+      *   OJ French Jr.
+      *   Officer Brandon Thompson
+      *   Governor Ivey
+      *   Anthony Lowery (Chief Deputy)
+      *   Matt McKenzie (County Commissioner)
+      *   City of Bay Minette
+      *   July 31, 2024
+    llm_text: Mayor Robert Bob Wills lied, claiming the French family was "ok" with the investigation into OJ French Jr.'s shooting. The family filed a July 31, 2024, lawsuit against the City of Bay Minette and Officer Brandon Thompson, documenting a major local legal dispute.
+    text: Mayor Robert Bob Wills lied, claiming the French family supported the investigation into the shooting of OJ French Jr. The family filed a lawsuit against Bay Minette.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T07:08:30.785276Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: b453d6531a2910757aeb82192a31615ab6278a69a8dce9010a830f3fcf08f1ef
+    brief: |-
+      THE CONFLICT:
+      *   Thomas Albritton, Alabama Ethics Commission Director, administered the Trust of Mabel Amos.
+      *   Thomas Gallion III represented the Amos family in the legal dispute.
+      *   A Federal Lawsuit was filed alleging State Officials violated Civil Rights by allowing a District Judge to sit as a Circuit Judge in Baldwin County.
+      *   Baldwin County Commissioners purchased the Megasite property for $32M but held it for ten years.
+      *   Lance LaCour, former Baldwin County Economic Development Alliance Director, witnessed the Cross-Delta fishing trip.
+
+      THE DISCOVERY:
+      *   Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+      *   Companies with political ties are scoring million-dollar contracts, highlighting systemic corruption.
+      *   Courts are investigating scandals where scholarships meant for the public went to insiders.
+      *   Law enforcement is investigating its own mishaps without accountability.
+
+      THE PIVOT:
+      *   The alleged violation of Civil Rights and the decade-long holding of the $32M Megasite property demonstrates the specific instance of the broader systemic corruption and lack of local control outlined in the update.
+
+      KEY ENTITIES:
+      *   Thomas Albritton (Alabama Ethics Commission Director)
+      *   Thomas Gallion III
+      *   Mabel Amos (Trust)
+      *   Lance LaCour (former Baldwin County Economic Development Alliance Director)
+      *   Lee Lawson (current Alliance Director)
+      *   Baldwin County
+      *   Judge Pam Baschab (ret)
+      *   Mayor Bob Wills (Bay Minette)
+      *   Jim Ziggler
+      *   Rusty Glover
+      *   Governor Ivey
+      *   The Ripp Report
+    llm_text: Alabama Ethics Commission Director Thomas Albritton administered the Mabel Amos Trust amid a civil rights lawsuit over Judge Pam Baschab. This specific conflict exposes systemic corruption where state leaders strip local control and tied companies score millions from deals like the $32M Megasite purchase.
+    text: Alabama Ethics Commission Director Thomas Albritton administered the Mabel Amos Trust amid a civil rights lawsuit. State leaders strip local control while tied companies score millions.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T06:59:14.742523Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: fef8747b290bf36a372b673984247a3938c779300239b572fa4ca4cd33a4f8e4
+    brief: |-
+      THE CONFLICT:
+      *   Trust of Mabel Amos is administered by Alabama Ethics Commission Director Thomas Albritton.
+      *   Thomas Gallion III represents the Amos family in a Federal Lawsuit assisted by Mr. Ripp/The Ripp Report, represented by Mr. Still.
+      *   The suit alleges State Officials violated Civil Rights by allowing District Judges (Thomas or Sculley) to sit as Circuit Judges in Family Court (Baldwin County).
+      *   192,939,490 SARS-COV-2 cases confirmed worldwide, with 34,316,321 cases and 610,387 deaths in the USA.
+      *   Governor Ivey expressed dissatisfaction with unvaccinated individuals due to the Delta Variant rise.
+
+      THE DISCOVERY:
+      *   Article 2 (newer) covers a damning report on the US government's COVID-19 response.
+      *   Article 2 highlights President Biden's pardon of his son Hunter as an example of political controversy.
+      *   Article 2 includes discussions on the First Amendment and wrongful arrests of individuals who exposed corruption in a local school district.
+
+      THE PIVOT:
+      *   Article 2 frames the Civil Rights allegations and official misconduct in Article 1 as part of a broader pattern of governmental overreach, political appointments controversies, and suppression of whistleblowers.
+      *   The Biden/Hunter pardon discussion provides wider political context to the specific allegations against Thomas Albritton and other state officials.
+
+      KEY ENTITIES:
+      *   Thomas Albritton
+      *   Thomas Gallion III
+      *   Mr. Ripp
+      *   Mr. Still
+      *   Governor Ivey
+      *   Lance LaCour
+      *   Lee Lawson
+      *   Lance LaFlour
+      *   Judge Pam Baschab (ret)
+      *   Bob Wills (Mayor, Bay Minette)
+      *   Mabel Amos Trust
+      *   Baldwin County
+      *   Katy, TX (EDA Director)
+      *   President Biden
+      *   Hunter (Biden's son)
+    llm_text: Thomas Gallion III alleges Thomas Albritton and state officials violated Civil Rights managing the Mabel Amos Trust in Baldwin County. This local fight exposes a broader pattern of governmental overreach, connecting to political controversies like the Biden/Hunter pardon.
+    text: Thomas Gallion III alleges Thomas Albritton violated civil rights managing the Mabel Amos Trust. This local fight exposes a broader pattern of governmental overreach.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T07:02:01.951479Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: a8c209806bea715046e4f8ff004ee82227008211e54e21e03f8b82fd3ea67078
+    brief: |-
+      THE CONFLICT:
+      *   Trust of Mabel Amos administered by Alabama Ethics Commission Director Thomas Albritton.
+      *   Mr. Ripps filed a Writ of Mandamus regarding the Trust administration.
+      *   A Federal Lawsuit was filed alleging State Officials violated Civil Rights by allowing District Judge Thomas or Judge Sculley to hear Family Court cases in Baldwin County.
+      *   The trial of the Limestone County Sheriff was ongoing with Judge Pam Baschab (ret) presiding.
+      *   Mayor Bob Wills was cited in relation to shootings and stabbings in Bay Minette.
+
+      THE DISCOVERY:
+      *   The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+      *   Mobile Attorney Andy Ruten represents the City but his firm is simultaneously being sued for Malpractice by Mayor Bob Wills.
+      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      *   The Sheriff is still pursuing the Duke Boys around the Courthouse.
+
+      THE PIVOT:
+      *   Article 2 shows Mayor Bob Wills is not just a figure related to Bay Minette incidents (Article 1), but is currently embroiled in a complex dual legal situation, representing the City while facing a malpractice suit from his own firm.
+
+      KEY ENTITIES:
+      *   Thomas Gallion III
+      *   Thomas Albritton
+      *   Mr. Ripps
+      *   Judge Bosch
+      *   Lance LaCour
+      *   Lee Lawson
+      *   Mayor Bob Wills
+      *   Andy Ruten
+      *   OJ French Jr
+      *   BMPD Officer Brandon Thompson
+      *   Judge Pam Baschab (ret)
+      *   Baldwin County
+      *   Bay Minette
+    llm_text: Mayor Bob Wills faces a dual legal crisis in Bay Minette. He defends the city against the OJ French Jr family while simultaneously battling a malpractice suit from his own firm, represented by Andy Ruten.
+    text: Mayor Bob Wills faces a dual legal crisis in Bay Minette. He defends the city against the OJ French Jr. family while battling a malpractice suit from his own firm.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T06:57:59.634298Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 5670cc5513bd84134884c6d5e6f215c631b4e1cdc5178dee365bb9934a0fab88
+    brief: |-
+      THE CONFLICT:
+      *   Trust of Mabel Amos is administered by Alabama Ethics Commission Director Thomas Albritton.
+      *   Mr. Ripp's Writ of Mandamus was filed regarding the Trust.
+      *   A Federal Lawsuit, advocated for by Mr. Ripp and represented by Mr. Still, alleges State Officials violated Civil Rights by allowing a District Judge to sit as a Circuit Judge in "Family Court" in Baldwin County.
+      *   Governor Ivey expressed dissatisfaction with unvaccinated individuals amidst the Delta Variant rise.
+      *   Former Baldwin County EDA Director Lance LaCour witnessed a Cross-Delta fishing trip last Thursday.
+      *   County Commissioners purchased Megasite property for $32M, subsequently held for a decade before it moved to the Alliance, and access is currently denied by Lee Lawson.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis and is attempting to control the veterans’ board, which is upsetting Republican veterans.
+      *   A court case ruled that individuals cannot sue over a wrong SWAT raid, raising police accountability questions.
+      *   A true crime story in Clarke County revealed a hospice business had shady ties to a judge, exposing Alabama’s "good old boy" system.
+
+      THE PIVOT:
+      *   The Clarke County case (Article 2) validates the systemic judicial and political corruption (the "good old boy" system) referenced by the legal challenges involving the Amos Trust and the District/Circuit Judge conflict (Article 1).
+      *   The firing of Admiral Kent Davis and subsequent chaos in veterans’ programs (Article 2) provides updated context to Ivey’s political actions and the state’s handling of public services referenced in Article 1.
+
+      KEY ENTITIES:
+      *   Thomas Albritton
+      *   Thomas Gallion III
+      *   Mr. Ripp
+      *   Mr. Still
+      *   Judge Thomas
+      *   Judge Sculley
+      *   Judge Bosch
+      *   Lance LaCour
+      *   Lee Lawson
+      *   Lance LaFlour
+      *   Mayor Bob Wills
+      *   Jim Ziggler
+      *   Rusty Glover
+      *   Judge Pam Baschab (ret)
+      *   Timothy Obi
+      *   Capt Rushin
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Alabama Ethics Commission
+      *   Baldwin County
+      *   Clarke County
+    llm_text: Clarke County exposed a judge’s shady hospice ties, validating Alabama’s "good old boy" system. This corruption links to Thomas Albritton's trust oversight and Governor Kay Ivey's chaotic handling of Admiral Kent Davis.
+    text: Clarke County exposed a judge's hospice ties, validating Alabama's good old boy system. This corruption links to Thomas Albritton and Governor Kay Ivey.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T06:56:45.432148Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: c480db455862d80b96cf1277e7eef9f89d76a6b4afc129ff84cabd05a494ee76
+    brief: |-
+      THE CONFLICT: Mabel Amos Trust administered by Alabama Ethics Commission Director Thomas Albritton; Federal Lawsuit filed by Plaintiff (advocated for by Mr. Ripp) alleging State Officials violated Civil Rights by allowing District Judges Thomas or Sculley to hear "Family Court" cases in Baldwin County.
+      THE DISCOVERY: A reward is offered for information concerning the death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama, on May 27, 2022; body recovered May 29, 2022.
+      THE PIVOT: The articles are separate news roundups lacking a factual narrative connection; Article 2 provides a distinct, dated mystery (Williams Jr. death) unrelated to the ongoing legal/trust conflicts detailed in Article 1.
+      KEY ENTITIES: Thomas Albritton; Thomas Gallion III; Mr. Ripp; Mr. Still; Thomas Daniel "Danny" Williams Jr.; Governor Ivey; Lance LaCour; Lee Lawson.
+    llm_text: Alabama Ethics Commission Director Thomas Albritton faces a federal civil rights lawsuit over judges hearing Family Court cases in Baldwin County. Track how state officials violated civil rights and follow the ongoing conflict with Mr. Ripp.
+    text: Alabama Ethics Commission Director Thomas Albritton faces a federal civil rights lawsuit over judges hearing Family Court cases. Track the ongoing conflict with Mr. Ripp.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T07:04:45.433676Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 9283777a05a6da5f25058bead86ae21774b636d9839148b3321778835306de67
+    brief: |-
+      THE CONFLICT: Trust of Mabel Amos administered by Alabama Ethics Commission Director Thomas Albritton; Federal Lawsuit filed by Plaintiff (assisted by Mr. Ripps, represented by Mr. Still) alleging State Officials violated Civil Rights by allowing District Judge to sit as Circuit Judge in Baldwin County.
+      THE DISCOVERY: Alabama Court of Civil Appeals released a decision on the Mack vs Hadley case (theft of a 1968 Camaro by Baldwin County Sheriff's Department); Murray Lawrence Jr. filed a Rule 32 Petition for a new trial citing undisclosed 2005 autopsies (Brady Violation).
+      THE PIVOT: Article 2 provides evidence of systemic corruption within Alabama's legal and political systems (Dothan Summer Feeding Scandal, Baldwin County Sheriff's Dept theft, Judge Mark Fuller biography) which contextualizes the initial allegations of official malfeasance surrounding the Trust of Mabel Amos (Article 1).
+      KEY ENTITIES: Thomas Albritton; Thomas Gallion III; Mr. Ripps; Mr. Still; Mabel Amos; Baldwin County Sheriff's Department; Mack vs Hadley; Alabama Court of Civil Appeals; Judge Mark Fuller; Judge Pam Baschab (ret); Dothan Summer Feeding Scandal.
+    llm_text: Thomas Albritton faces a federal lawsuit regarding the Mabel Amos Trust, alleging Civil Rights violations. Read how the Baldwin County Sheriff's Department theft in the Mack vs Hadley case confirms systemic corruption across Alabama's legal system.
+    text: Thomas Albritton faces a federal lawsuit regarding the Mabel Amos Trust. The Baldwin County Sheriff's Department theft in the Mack versus Hadley case confirms systemic corruption.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T07:00:25.729076Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: ab01b01d13d22d069dc96c4e7977f6c1e453b4587439377685ad1c59c4c86ed6
+    brief: |-
+      THE CONFLICT:
+      1. Trust of Mabel Amos was administered by Alabama Ethics Commission Director Thomas Albritton.
+      2. Mr. Ripps Writ of Mandamus was filed due to Trust revelations.
+      3. Federal Lawsuit was filed by a Plaintiff advocated by Mr. Ripp and represented by Mr. Still.
+      4. Suit alleges State Officials violated Civil Rights by allowing District Judge Thomas or District Court Judge Sculley to sit as Circuit Judge in Family Court.
+      5. Judge Bosch is the only Circuit Judge in Baldwin County regularly hearing Domestic Relations cases.
+      6. County Commissioners purchased the Megasite for $32M a decade ago.
+      7. Lance LaCour (former Baldwin County EDA Director) witnessed a Cross-Delta fishing trip last Thursday.
+
+      THE DISCOVERY:
+      1. Backstory Podcast No. 186 covered 2024 US Presidential election results and proposed constitutional amendments in Alabama.
+      2. Podcast discussed the closing of rural hospitals and changes to hunting seasons in Alabama.
+      3. Podcast featured input from a Veterans/Consumer Advocate, a journalist, and an attorney.
+
+      THE PIVOT:
+      1. Article 2 provides broader political and legal context (e.g., constitutional amendments, rural hospital closures, antitrust lawsuits against Google) for Alabama's political landscape, but does not contain specific factual updates regarding the Mabel Amos Trust or the judge civil rights lawsuit from Article 1.
+
+      KEY ENTITIES:
+      1. Thomas Gallion III
+      2. Thomas Albritton
+      3. Mr. Ripp
+      4. Mr. Still
+      5. District Judge Thomas
+      6. District Court Judge Sculley
+      7. Judge Bosch
+      8. Lance LaCour
+      9. Lee Lawson
+      10. Lance LaFlour
+      11. Mayor Bob Wills
+      12. Jim Ziggler
+      13. Rusty Glover
+      14. Judge Pam Baschab (ret)
+      15. Backstory Podcast No. 186
+    llm_text: Mr. Ripp filed a federal suit alleging state officials violated civil rights by using District Judges Thomas or Sculley as Circuit Judges. Get the broader context on Alabama's political landscape, including rural hospital closures and constitutional amendments, on Backstory Podcast No. 186.
+    text: Mr. Ripp filed a federal suit alleging state officials violated civil rights using District Judges Thomas or Sculley. Hear the backstory on Alabama's political landscape.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T07:03:19.587940Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: b4fe52eddedd3668880e3d686cdf3760e26dd69264835b60e1879e8ffba599fd
+    brief: |-
+      THE CONFLICT:
+      *   Trust of Mabel Amos administered by Alabama Ethics Commission Director Thomas Albritton.
+      *   Federal Lawsuit filed by Plaintiff (advocated by Mr. Ripp, represented by Mr. Still) alleging State Officials violated Civil Rights by allowing a District Judge to sit as a Circuit Judge in "Family Court" cases in Baldwin County.
+      *   Baldwin County Commissioners purchased the Megasite property for $32M after Lance LaCour's departure, subsequently denying access to the Alliance via Director Lee Lawson.
+      *   Limestone County Sheriff trial ongoing, presided over by Judge Pam Baschab (ret) of Baldwin County, halted over a State’s Witness sweetheart deal.
+
+      THE DISCOVERY:
+      *   Kent David, former Real Admiral and Jag Officer and Alabama Veterans Affairs Commissioner, is leaving due to a whistleblower Ethics Complaint.
+      *   The Renaissance School in Baldwin County for special needs kids was robbed, possibly an inside job.
+      *   The Sheriff Department of Baldwin County has a new Command Staff.
+      *   The most corrupt judge award was given to Texas Federal Bankruptcy Judge David R. Jones.
+
+      THE PIVOT:
+      *   Article 2 confirms the active political and ethical scrutiny within Alabama, exemplified by the departure of Kent David due to a whistleblower Ethics Complaint, which mirrors the ongoing ethical and legal issues surrounding the Trust of Mabel Amos and the judicial conduct in Baldwin County detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Thomas Gallion III
+      *   Thomas Albritton
+      *   Mr. Ripp
+      *   Mr. Still
+      *   Lance LaCour
+      *   Lee Lawson
+      *   Judge Pam Baschab (ret)
+      *   Kent David
+      *   Baldwin County
+      *   Alabama Veterans Affairs Commissioner
+      *   Renaissance School
+    llm_text: Thomas Albritton oversees the Mabel Amos Trust amidst ongoing scrutiny, mirroring why Kent David left as Alabama Veterans Affairs Commissioner due to a whistleblower complaint. Baldwin County’s judicial issues, including Judge Pam Baschab's trial, prove ethical rot runs deep across the state.
+    text: Thomas Albritton oversees the Mabel Amos Trust while Kent David leaves his post. Baldwin County judicial issues prove ethical rot runs deep across Alabama.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T07:05:47.292798Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

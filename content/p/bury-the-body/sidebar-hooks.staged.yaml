@@ -1,0 +1,161 @@
+metadata:
+  generated_at: "2026-11-08T08:00:18.187762Z"
+  generator_version: 1.0.0
+  post_slug: bury-the-body
+  main_date: "2018-10-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-council-shows-its-colors:
+    brief: |-
+      THE CONFLICT: Proposed special election for Council-Manager form of government was scheduled for October 2, 2018, based on a petition signed by over 800 Fairhope citizens, triggering a 90-day election period under Alabama Constitution.
+      THE DISCOVERY: The election was legally triggered by the Alabama petition process (800+ signatures accepted by probate judge) and a revised July 2018 statute, not solely by the Council's outdated opinion.
+      THE PIVOT: The Council's subsequent instruction to the City Attorney to find loopholes to delay the October 2, 2018, vote (leading to the Nov 6, 2018, vote) was an attempt to circumvent a legally mandated, citizen-driven democratic process.
+      KEY ENTITIES: Fairhope City Council, Mayor Karin Wilson, City Attorney, Catalyst, Probate Judge, November 6, 2018, October 2, 2018, July 2018.
+    llm_text: Fairhope citizens signed over 800 petitions, legally triggering an October 2, 2018, Council-Manager election. Mayor Karin Wilson and the City Council attempted to delay this democratic process, pushing the vote to November 6, 2018.
+    widget_date: "2018-09-28"
+    generated_at: "2026-11-08T07:53:38.119269Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-panic-and-confusion:
+    brief: |-
+      THE CONFLICT:
+      *   Attempted change of government in Fairhope, including an election scheduled for Oct. 2, 2018.
+      *   Fairhope City Council later used legal means to delay the vote, resulting in the election moving to Nov. 6, 2018.
+
+      THE DISCOVERY:
+      *   Article 2 showed the Catalyst Fairhope Council was "asleep at the wheel" regarding legal ramifications of the government change.
+      *   The Council only reacted after the Attorney General weighed in with a negative opinion.
+      *   Article 2 highlighted the Council's obstructionism and lack of public forums regarding the change of government.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Council was aware of the legal and civic necessity for the change *before* they instructed the City Attorney to find a loophole to obstruct the Oct. 2 election (Article 1).
+      *   It proves their initial reluctance and fear, contradicting their later public stance of confusion or necessity for the delay.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   City Attorney (Council Attorney)
+      *   Mayor
+      *   Attorney General
+      *   Catalyst
+      *   Nov. 6, 2018
+      *   Oct. 2, 2018
+    llm_text: Fairhope City Council knew the legal necessity for change before asking the City Attorney for a loophole to obstruct the Oct 2, 2018 election. They only reacted after the Attorney General weighed in, contradicting their public stance of confusion.
+    widget_date: "2018-09-26"
+    generated_at: "2026-11-08T07:55:44.971524Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-blast-from-the-past:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council members (Jack Burrell, Kevin Boone, Robert Brown) obstructed government change for years under the "at large" system.
+      *   Jack Burrell faced an Airport Scandal and was alleged to have threatened the owner of McSherry’s while drunk.
+      *   Kevin Boone (grandpa Catalyst) maintained connections with John Avant of Prebble Rish and accumulated multiple LLCs.
+      *   Robert Brown was accused of self-enrichment by awarding a sweetheart contract for the Art Center to himself and Cliff Pittman, leading to Ethics charges.
+      *   The Council attempted to stop the Oct. 2, 2018, vote to change government, instructing the City Attorney to find a loophole, ultimately delaying the vote to Nov. 6, 2018.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the composition of the "blast from the past" movement (former Council persons, fired/quit employees, Zunk the Skunk).
+      *   It established that the existing "at large" structure allowed Council members to avoid accountability and enable Catalyst to slate candidates.
+      *   It documented specific instances of financial and ethical misconduct by key Council leaders (Burrell, Boone, Brown) over a period of at least 18 months.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context and established pattern of self-interest and obstruction by the "three bees" (Burrell, Boone, Brown).
+      *   This pattern explains the Council’s calculated attempt (detailed in Article 1) to use legal loopholes to prevent the Council/Manager form of government, which would reduce their unchecked power.
+
+      KEY ENTITIES:
+      *   Jack Burrell (King bee Councilman)
+      *   Kevin Boone (grandpa Catalyst)
+      *   Robert Brown (The Jester)
+      *   Cliff Pittman (Director of Single Tax)
+      *   Scott Boone (head of the snake/Catalyst)
+      *   John Avant
+      *   Prebble Rish
+      *   Mayor Wilson
+      *   Fairhope City Council
+      *   Catalyst
+      *   Nov. 6, 2018
+      *   Oct. 2, 2018
+    llm_text: Jack Burrell, Kevin Boone, and Robert Brown used their "at large" power for self-enrichment, from the Airport Scandal to sweetheart contracts. Discover how they blocked the 2018 government change to maintain their unchecked control in Fairhope.
+    widget_date: "2018-06-27"
+    generated_at: "2026-11-08T07:58:11.345946Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hell-yea:
+    brief: |-
+      THE CONFLICT:
+      The Fairhope City Council, an "at large" body rooted in Catalyst, resisted a change of government (moving to 3 district council persons plus Mayor and one at large).
+      Mayor Wilson posted support for Fresh Start Fairhope on June 21st.
+      On July 10th, Chuckee Cheeze (Courier editor) reported on Kevin Boone filing a complaint against Mayor Wilson's efforts to clarify confusion.
+      The initial election date for the change of government was Oct. 2, 2018, supported by Chuck Zunk.
+      The Fairhope City Council ultimately instructed the City Attorney to find a loophole, resulting in the election delay to Nov. 6th, 2018.
+
+      THE DISCOVERY:
+      The Fairhope City Council demonstrated a pattern of intimidation and censorship, linking its power to Catalyst/The Good Ole Boys, and attempting to suppress dissent.
+      Ripp filed a suit in the US District Court, Southern District, alleging Burrell denied First and 14th Amendment rights.
+      The Council refused to accept blame for actions, despite accusations of being a "free speech censor."
+
+      THE PIVOT:
+      Article 2 establishes the Council's history of resistance, alleged censorship, and political intimidation (via Kevin Boone/Catalyst) leading up to July 2018. This history provides the context for Article 1, which details the Council's calculated decision to deliberately interfere with the Oct. 2, 2018 election to protect its existing "at large" power base.
+
+      KEY ENTITIES:
+      Fairhope City Council
+      Catalyst / King Kant Kingdom
+      Mayor Wilson
+      Kevin Boone
+      Chuckee Cheeze (Courier editor)
+      Chuck Zunk
+      The Ripp Report
+      City Attorney / City Clerk
+      Nov. 6th, 2018
+      Oct. 2, 2018
+    llm_text: The Fairhope City Council used legal loopholes and intimidation, involving Kevin Boone and Catalyst, to block the Oct 2, 2018 election. The Ripp Report found they censored dissent to protect their "at large" power base, demanding accountability from Mayor Wilson.
+    widget_date: "2018-09-24"
+    generated_at: "2026-11-08T07:56:59.601858Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ask-chris-elliott-catalyst-red-flags:
+    brief: |-
+      THE CONFLICT: Fairhope City Council attempted to delay the Oct 2, 2018, vote to change the Fairhope Government by instructing the City Attorney to find a loophole; the vote was rescheduled to Nov 6, 2018.
+      THE DISCOVERY: Mr. Elliott and his wife purchased waterfront property in Elberta on Key Hole Rd on Jan 3, 2018, for $49,725.20 (valued at $290,000), utilizing a $100,000 purchase money mortgage from Trustee National Bank in Daphne.
+      THE PIVOT: The Jan 3, 2018, property transaction involving Mr. Elliott provides financial context preceding the Oct/Nov 2018 political maneuvering, linking a key individual to the economic interests of the entrenched Fairhope City Council (Catalyst).
+      KEY ENTITIES: Mr. Elliott, Fairhope City Council, Catalyst, Oct 2, 2018, Nov 6, 2018, Elberta, Key Hole Rd, Trustee National Bank, City Attorney.
+    llm_text: Fairhope City Council delayed its government vote from Oct 2 to Nov 6, 2018. Mr. Elliott bought Elberta waterfront property on Jan 3, 2018, linking his $100k mortgage to the Council's financial interests.
+    widget_date: "2018-07-16"
+    generated_at: "2026-11-08T07:59:19.951187Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-sold-to-the-highest-bidder:
+    brief: |-
+      THE CONFLICT:
+      *   David Northcutt and Chris Elliott contested a July 17th run-off election for a State Senate Seat.
+      *   The Fairhope City Council attempted to delay an October 2, 2018 vote to change government in Fairhope, moving the vote to November 6, 2018.
+
+      THE DISCOVERY:
+      *   Chris Elliott collected almost $500,000 in campaign funds, potentially reaching $750,000 for the State Senate Seat ($42,000 salary).
+      *   Elliott secured the Education 1% tax without a public vote and skimmed money from it for county infrastructure, despite a $40 million "Black Hole" mega-site expenditure.
+      *   Elliott utilized political alliances including Hoss Mack (Sheriff), Eddie Tyler (Superintendent of Education), and Stragtegy (managed by Jon Gray), who collected $140,951.80 for the campaign.
+
+      THE PIVOT:
+      *   Article 2 reveals that the Fairhope City Council is composed of individuals with "deep roots within Catalyst," the powerful political entity that supports Chris Elliott, Hoss Mack, and Eddie Tyler.
+      *   This context explains the Council's self-serving actions (delaying the election) to protect the established power structure ("King Kant Kingdom" / "The Good Ole Boys") detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   David Northcutt
+      *   Hoss Mack
+      *   Eddie Tyler
+      *   Catalyst
+      *   Jon Gray
+      *   Stragtegy
+      *   Fairhope City Council
+      *   Doug Jones
+      *   Pittman
+    llm_text: Chris Elliott raised nearly $500,000, skimming Education 1% tax funds while relying on allies like Hoss Mack and Eddie Tyler. The Fairhope City Council delayed the vote to protect this established Catalyst power structure.
+    widget_date: "2018-07-09"
+    generated_at: "2026-11-08T07:54:40.751092Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-has-lost-its-moral-compass:
+    brief: |-
+      THE CONFLICT: Council, Police Chief, and former employees orchestrated an "ambush" special meeting to attack the Mayor.
+      THE DISCOVERY: The Fairhope City Council, led by President Jack Burrell, exhibited a lack of moral compass, engaging in alleged misconduct (e.g., accepting free plane transportation from Airport bidders) and lying about a police record.
+      THE PIVOT: Article 2 establishes the pattern of misconduct and conflict (Council vs. Mayor/Burrell's corruption) which provides the historical context and motivation for the Council's subsequent action to delay the October 2, 2018 vote and change the government on November 6, 2018.
+      KEY ENTITIES: Jack Burrell, Mayor (Wilson), Fairhope City Council, City Attorney (Council Attorney), Police Chief, Fairhope Airport Authority, Catalyst, Fairhope
+    llm_text: Jack Burrell and the Fairhope City Council engaged in alleged misconduct, like accepting free plane transportation and lying about police records. This corruption fueled their "ambush" meeting, attacking Mayor Wilson and driving recent city changes.
+    widget_date: "2018-06-11"
+    generated_at: "2026-11-08T08:00:03.996569Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

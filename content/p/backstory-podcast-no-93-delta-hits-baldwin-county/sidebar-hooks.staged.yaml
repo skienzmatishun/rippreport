@@ -1,0 +1,194 @@
+metadata:
+  generated_at: "2026-11-07T06:28:26.899507Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  main_date: "2021-08-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    refined_source: 6cc8549206e918c73760309731d9bfbb0f72f819dcf757c8358f3cf2411578af
+    brief: |-
+      THE CONFLICT: Tim James called out Gov Ivey for scalding the unvaccinated regarding health issues in Baldwin County.
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and is attempting to control the veterans’ board, leading to veteran unrest in Alabama.
+      THE PIVOT: Article 2 details Ivey’s specific administrative actions (firing Davis, controlling veterans board) that provide context to the broader political environment and public health disputes (unvaccinated criticism) highlighted in Article 1.
+      KEY ENTITIES: Gov Kay Ivey, Tim James, Admiral Kent Davis, Baldwin County School System, UAB
+    llm_text: Tim James called out Gov Kay Ivey for criticizing unvaccinated residents in Baldwin County. Meanwhile, Ivey fired Admiral Kent Davis and is actively seizing control of the veterans’ board, fueling veteran unrest across Alabama.
+    text: Tim James called out Governor Kay Ivey for criticizing unvaccinated residents in Baldwin County. Ivey fired Admiral Kent Davis and seized control of the veterans board.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T06:18:51.358215Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 2348f8f1742d70b509e0fc296605a6ab93bcf5563a6783464e50e1024acfff29
+    brief: |-
+      THE CONFLICT: Trial of Limestone County Sheriff Mike Blakely ongoing since 1983 regarding legal irregularities; Tim James called out Gov Ivey for "scalding the unvaccinated"; shooting death suspect in Spanish Fort occurred last week, involving approximately 80 rounds; Baldwin County School System required masking for 2nd-12th graders and staff.
+      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts; law enforcement is investigating its own mishaps with no accountability; scholarships meant for the public were given to insiders; lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+      THE PIVOT: Article 2 shifts focus from isolated legal irregularities (Blakely trial) and localized crises (Delta variant) to systemic corruption, political maneuvering (governor health rumors), and a failure of accountability within state and local governance.
+      KEY ENTITIES: Mike Blakely; Gov Ivey; Tim James; Alabama Ethics Commission; Baldwin County; Spanish Fort; Bay Minette; AG Marshall; Mobile Civic Center; Limestone County.
+    llm_text: Law enforcement investigates its own mishaps, but who is truly accountable? We reveal how political ties grant million-dollar contracts and allow state leaders to handpick police chiefs, overriding Limestone County control.
+    text: Law enforcement investigates its own mishaps, but who is truly accountable? Political ties grant million-dollar contracts and override local control in Limestone County.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T06:20:43.576008Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: b3c04c8a077588dee693378bfb0b7582804cf5789e4500d65b40e7ff88d14e8b
+    brief: |-
+      THE CONFLICT:
+      *   Mike Blakely (Limestone County Sheriff) trial ongoing since 1983 regarding legal irregularities.
+      *   Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022 (Memorial Day Weekend).
+      *   Delta variant hit Baldwin County, leading to a local business owner being life flighted to UAB.
+
+      THE DISCOVERY:
+      *   Article 2, the newer report, identifies MS-13 Operations as an ongoing issue within Baldwin County.
+
+      THE PIVOT:
+      *   Article 2 provides context on organized criminal activity (MS-13) in Baldwin County, a geographic area where Article 1 details public health crises (Delta/UAB) and local law enforcement actions (Spanish Fort shooting, Bay Minette suspect).
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Mike Blakely
+      *   UAB
+      *   Gov Ivey
+      *   Thomas Daniel "Danny" Williams Jr
+      *   Orange Beach
+      *   MS-13
+    llm_text: Baldwin County faces more than just Delta health crises and the ongoing Mike Blakely trial. New reporting confirms MS-13 organized crime remains an active threat right here in the community.
+    text: Baldwin County faces more than just Delta health crises and ongoing court battles. New reporting confirms MS-13 organized crime remains an active threat in the community.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T06:25:10.626989Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 5c261b970e11ec620e4072f3b0be45d22edd08d15bd4ef46187fec3275a4ab3d
+    brief: |-
+      THE CONFLICT: Shooting death of a suspect in Spanish Fort last week (as reported in Article 1); The victim was identified as OJ French Jr.
+      THE DISCOVERY: On July 31, 2024, OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson; The Sheriff announced his resignation mid-August, intending Chief Deputy Anthony Lowery to fill the term, though County Commissioner Matt McKenzie is also a candidate.
+      THE PIVOT: Article 2 provides the specific legal details and named parties for the shooting death referenced in Article 1, clarifying that Officer Thompson did not have probable cause and that Mayor Robert Bob Wills misrepresented the family’s acceptance of the investigation's outcome.
+      KEY ENTITIES: OJ French Jr, Brandon Thompson, Mayor Robert Bob Wills, Sheriff, Anthony Lowery, Matt McKenzie, Bay Minette Justice League, May Jung LLC
+    llm_text: OJ French Jr's family is suing Bay Minette over his shooting death. Article 2 proves Officer Brandon Thompson lacked probable cause, and Mayor Robert Bob Wills misrepresented the investigation—see how this legal battle shapes the city's leadership fight between Anthony Lowery and Matt McKenzie.
+    text: The family of OJ French Jr. is suing Bay Minette over his shooting death. Officer Brandon Thompson lacked probable cause and Mayor Robert Bob Wills misrepresented the facts.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T06:28:00.615516Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 4bdd82f78cfa1402a6bc25bb2404aaf17410829c9c99ff752dd9fd457d661c9d
+    brief: |-
+      THE CONFLICT: Delta variant hit Baldwin County resulting in a non-vaccinated local business owner being life flighted to UAB; Limestone County Sheriff Mike Blakely has had a trial since 1983 regarding legal irregularities.
+      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has only one week left in office, and the Governor is currently selecting a replacement.
+      THE PIVOT: Article 2 provides immediate political context and a leadership transition update for Baldwin County, linking to the regional governmental issues (like the response to the Delta crisis and political commentary by Tim James) detailed in Article 1.
+      KEY ENTITIES: Baldwin County, UAB, Mike Blakely, Limestone County, Sheriff Mack, Governor Ivey, Tim James, Rob Holbert, Kamala Harris, Baldwin County School System
+    llm_text: 'Baldwin County faces a leadership crunch: Sheriff Mack has only one week left in office as Governor Ivey selects a replacement. Read how this transition plays out amid the Delta variant crisis and Mike Blakely''s ongoing 1983 trial.'
+    text: Sheriff Mack has only one week left in office as Governor Ivey selects a replacement. This transition plays out amid the Delta variant crisis.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T06:27:02.964774Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 8c18b670752defcee3213e8bc16887b2bdc6429ad6df80fed22b86aa8f855fa6
+    brief: |-
+      THE CONFLICT: Delta variant of Covid-19 hit Baldwin County; unvaccinated local business owner was life-flighted to UAB; Baldwin County School System mandated masking for 2nd-12th graders and all staff.
+      THE DISCOVERY: Renaissance School in Baldwin County (for special needs kids) was robbed, possibly an inside job, potentially shuttering the school; Baldwin County Sheriff Department has a new Command Staff.
+      THE PIVOT: Article 2 updates the ongoing localized crises in Baldwin County following the initial severe public health and safety events reported in Article 1.
+      KEY ENTITIES: Baldwin County, UAB, Baldwin County School System, Renaissance School, Baldwin County Sheriff Department
+    llm_text: 'Baldwin County faces dual crises: Delta variant impact led an unvaccinated owner to UAB, while Renaissance School faces closure after a possible inside robbery. See how the Baldwin County Sheriff Department''s new Command Staff is tackling these urgent local safety challenges.'
+    text: Baldwin County faces dual crises with the Delta variant and a Renaissance School closure. The Sheriff Department Command Staff tackles these urgent local safety challenges.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T06:26:11.013498Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: dd5151abffadc758ce8c7930604b1b6706827131de70c0761eb3933319a4931f
+    brief: |-
+      THE CONFLICT:
+      *   2005: Two autopsies were ordered by Sheriff Mack's father (Coroner of Baldwin County) related to the Mack vs Hadley case.
+      *   The defense was not disclosed these autopsies, constituting a Brady Violation.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a decision today (at 1pm) regarding the Rule 32 Petition for Murray Lawrence Jr.
+
+      THE PIVOT:
+      *   Article 2 details the specific legal corruption involving the Baldwin County Sheriff's Department (BCSD) in the Mack vs Hadley theft of a 1968 Camaro, providing concrete context to the legal irregularities mentioned in Article 1 (e.g., the Mike Blakely trial and BCSO involvement).
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   BCSD
+      *   Sheriff Mack
+      *   Murray Lawrence Jr.
+      *   Alabama Court of Civil Appeals
+      *   Mark Fuller (corrupt Alabama Federal Judge from Mobile)
+      *   Mike Blakely (Limestone County Sheriff, trial since '83)
+    llm_text: The Alabama Court of Civil Appeals released a key decision for Murray Lawrence Jr., addressing the Mack vs Hadley case. This ruling shines a light on deep BCSD corruption involving Sheriff Mack and a 1968 Camaro theft.
+    text: The Alabama Court of Civil Appeals released a key decision for Murray Lawrence Jr. This ruling shines a light on deep department corruption involving Sheriff Mack.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T06:22:01.621889Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 968a2f5d22c822db9eb5e55e7b4d37d64c2251f1d200a36472f4e19d2199e325
+    brief: |-
+      THE CONFLICT:
+      Delta variant hit Baldwin County; an unvaccinated local business owner was life flighted to UAB.
+      Baldwin County School System required masking for 2nd-12th graders and staff.
+      Trial of Limestone County Sheriff Mike Blakely ongoing since 1983, involving legal irregularities.
+
+      THE DISCOVERY:
+      A podcast report details allegations of misconduct against various officials and discusses wrongful arrests of individuals who exposed corruption in a local school district.
+      President Biden granted a pardon to his son, Hunter Biden, amidst discussions on US government COVID-19 response.
+
+      THE PIVOT:
+      The local backlash against the Baldwin County School System mask mandates and health advisories (Article 1) is contextually linked to broader issues of local corruption and the suppression of free speech/wrongful arrests concerning school district exposure (Article 2).
+
+      KEY ENTITIES:
+      Baldwin County
+      UAB
+      Baldwin County School System
+      Mike Blakely
+      Gov Ivey
+      President Biden
+      Hunter Biden
+      Limestone County
+    llm_text: Delta hit Baldwin County, sending an unvaccinated owner to UAB. Read how local corruption—including the Mike Blakely trial and school district cover-ups—threatens free speech and accountability.
+    text: Delta hit Baldwin County, sending an unvaccinated owner to UAB hospital. Local corruption threatens free speech and public accountability across the state.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T06:23:02.865151Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 45b614d62f02ae427397962f848ffa7495e145d7360c2ecc1b46d9bb420aeabf
+    brief: |-
+      THE CONFLICT:
+      *   Delta variant of Covid-19 impacted Baldwin County.
+      *   An unvaccinated local business owner was hospitalized and life-flighted to UAB.
+      *   Baldwin County School System mandated masking for 2nd-12th graders and all staff.
+      *   Tim James called out Gov Ivey for scalding the unvaccinated.
+      *   Trial of Limestone County Sheriff Mike Blakely has been ongoing since 1983.
+
+      THE DISCOVERY:
+      *   Backstory Podcast No. 186 is a newer discussion covering contemporary Alabama issues.
+      *   Discussions include the closing of rural hospitals and proposed constitutional amendments in Alabama.
+      *   The podcast also addressed the 2024 US Presidential election results.
+
+      THE PIVOT:
+      *   Article 2 frames the specific public health conflict (A1) within a broader, ongoing context of political, healthcare, and legal instability in Alabama (rural hospital closures, constitutional amendments).
+      *   It updates the narrative from a singular health event to a systemic regional challenge.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   UAB
+      *   Gov Ivey
+      *   Tim James
+      *   Mike Blakely
+      *   Alabama Ethics Commission
+      *   Backstory Podcast No. 186
+      *   2024 US Presidential election
+    llm_text: Delta variant hospitalized an unvaccinated business owner in Baldwin County, fueling debate between Gov Ivey and Tim James. Read how this local health crisis links to Alabama's larger instability, including rural hospital closures and the ongoing Mike Blakely trial.
+    text: Delta hospitalized an unvaccinated business owner in Baldwin County, fueling a debate between Governor Ivey and Tim James. Rural hospital closures compound the instability.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T06:24:09.806718Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: b47383d8f4e9b5a3b76213baf94d216b8d59083f8deab948237fab182c5aa977
+    brief: |-
+      THE CONFLICT: Delta variant of Covid-19 hit Baldwin County; local business owner was not vaccinated, was life flighted to UAB. Limestone County Sheriff Mike Blakely's trial has been ongoing since '83, facing legal irregularities.
+      THE DISCOVERY: Baldwin County approved thousands of residential lots recently, alongside a $9.5M pier remodel in Fairhope and a sales tax cut on hearing aids. The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+      THE PIVOT: Article 2 confirms recent local governmental actions (lot approvals, tax cuts) within Baldwin County, providing a current local governance context to the earlier report on the Delta variant outbreak and local law enforcement issues (Bay Minette/Spanish Fort).
+      KEY ENTITIES: Baldwin County; UAB; Mike Blakely; Gov Ivey; BMPD Officer Brandon Thompson; OJ French Jr; Andy Ruten; Bob Wills; Bay Minette; Fairhope
+    llm_text: Delta struck Baldwin County, sending a non-vaccinated local owner to UAB. See how Baldwin County approved thousands of lots and cut sales tax while Mike Blakely's trial continues.
+    text: Delta struck Baldwin County, sending a local business owner to UAB hospital. Baldwin County approved thousands of lots and cut sales tax during the ongoing trial.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T06:19:35.326785Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

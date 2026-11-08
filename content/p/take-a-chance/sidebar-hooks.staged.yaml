@@ -1,0 +1,220 @@
+metadata:
+  generated_at: "2026-11-07T13:38:36.947669Z"
+  generator_version: 1.0.0
+  post_slug: take-a-chance
+  main_date: "2020-11-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  american-citizen:
+    refined_source: a447810339a96131aa732a27c922af7628d5d5f06455b15f750e2da6d63b5a24
+    brief: |-
+      THE CONFLICT:
+      *   Paula Dinardi, an American Citizen, was assaulted by Ronan McSharry (a Green Card holder from Ireland) in November 2018 in Fairhope.
+      *   McSharry was arrested but escaped prosecution because Municipal Judge Stankowski ruled the charging document was defective (lacked the wording "Did cause physical injury to another").
+      *   The City Attorney and Municipal Judge were appointed by the City Council.
+
+      THE DISCOVERY:
+      *   The McSharry assault case (November 2018) exposed "Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure."
+      *   The City Council, which appointed the City Attorney and Municipal Judge, facilitated a miscarriage of justice that favored McSharry over Dinardi.
+
+      THE PIVOT:
+      *   Article 2 establishes that Council President Jack Burrell (A2) has historically leveraged political influence (via council appointments) to affect legal outcomes.
+      *   This historical pattern provides context for Article 1, where Jack Burrell and Sherry Sullivan (A1) are overriding explicit Baldwin County Doctors/Nurses and Mayor Wilson's precautions to hold a large public COVID-19 gathering on November 19th (2020), demonstrating a consistent pattern of prioritizing non-standard public events over public safety guidelines.
+
+      KEY ENTITIES:
+      *   Paula Dinardi (American Citizen)
+      *   Ronan McSharry (Green Card holder from Ireland)
+      *   Jack Burrell (Council President/Associate Mayor)
+      *   Sherry Sullivan (Mayor, former show coordinator)
+      *   Robert Brown (Councilman supporter)
+      *   Mayor Wilson (previous Mayor)
+      *   Marcus McDowell (Fairhope City prosecutor)
+      *   Municipal Judge Stankowski/Snedeker
+      *   Baldwin County (Location)
+      *   Fairhope (Location)
+      *   American Legion (Organization)
+      *   2018 (Assault date)
+      *   November 19th (Planned gathering date)
+      *   2020 (COVID context year)
+    llm_text: Jack Burrell leveraged political influence to let Ronan McSharry escape justice after the 2018 assault in Fairhope. He now overrides public safety warnings to push a large November 19 COVID gathering, proving a pattern of local corruption.
+    text: Jack Burrell used his political influence to help Ronan McSharry avoid justice after a 2018 assault in Fairhope. He now ignores public safety warnings to push a large COVID gathering, proving a long pattern of corruption.
+    widget_date: "2020-04-22"
+    generated_at: "2026-11-07T13:38:18.842079Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-the-46th-president-of-the-united-states:
+    refined_source: c0b5971d53a2415c35d850ae5e5ffefde8a20d67c1fec545e76cf6dd1c1f34b4
+    brief: |-
+      THE CONFLICT:
+      1. 2020 Presidential Election involved Joseph Robinette Biden Jr. and Trump. (Widget Article)
+      2. 2020 Arts and Crafts Show in Baldwin County was initially canceled by Mayor Wilson due to Covid-19. (Main Article)
+
+      THE DISCOVERY:
+      1. The Widget Article revealed ongoing state-level counts and transition politics regarding the 2020 election. (Widget Article)
+
+      THE PIVOT:
+      1. Article 2 (Election context) provides the overarching national political backdrop for the time period in which Article 1 (Local health/governance decisions) occurred, but it does not serve as a factual 'smoking gun' for the local public health debate.
+
+      KEY ENTITIES:
+      1. Sherry Sullivan (Current Mayor)
+      2. Jack Burrell (Associate Mayor/Council President)
+      3. Robert Brown (Councilman)
+      4. Mayor Wilson
+      5. Baldwin County
+      6. Covid-19 (1701 deaths in one day, 250,000 total U.S. deaths)
+      7. Joseph Robinette Biden Jr.
+      8. Trump
+      9. November 19th (Tree lighting event)
+    llm_text: Mayor Wilson canceled the 2020 Baldwin County Arts and Crafts Show because of Covid-19. See how the national transition politics between Biden and Trump shaped this key local governance decision.
+    text: Mayor Wilson canceled the 2020 Baldwin County Arts and Crafts Show due to COVID-19 risks. National political transitions between Biden and Trump shaped how local leaders handled this public health decision.
+    widget_date: "2020-11-08"
+    generated_at: "2026-11-07T13:31:04.491697Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  queen-bee:
+    refined_source: 058de105b116dead93541d92a98c3b9530f37e47ec1f4b87e3376660c0e1e26d
+    brief: |-
+      THE CONFLICT:
+      *   The City of Fairhope was involved in the "Triangle Lawsuit."
+      *   In the past, Cain O’Rear stood up at a council meeting and promised the City of Fairhope would not pay attorney fees for the Triangle Lawsuit.
+      *   Hand Arendall, who took this promise, ultimately took home $3 million despite the city losing the lawsuit.
+      *   The court settlement ordered Fairhope to purchase the property for $8.25 million, plus the $3 million in attorney fees.
+      *   Jack Burrell initiated his last term through "bid rigging" involving the municipal Judge.
+
+      THE DISCOVERY:
+      *   Sherry Sullivan was elected Mayor as "Queen Bee Sullivan" (Nov 2 swearing-in).
+      *   She received a salary boost, resulting in a total gross salary and benefits of $640,000.00 over four years (a $112,000 annual boost above former Mayor Wilson’s salary).
+      *   The "three B's" (Boone, Brown, Burrell) ensured Sullivan received this reward.
+      *   Councilman Brown used his elected office/appointed board to secure contracts, racking in hundreds of thousands of dollars for personal gain.
+      *   Jack Burrell intended to appoint Hand Arendall (his personal attorney firm) as the city's litigation attorneys, despite their history with the Triangle Lawsuit loss.
+
+      THE PIVOT:
+      *   Article 2 establishes that Sullivan and Burrell are part of a system of past corruption (Triangle Lawsuit, bid rigging, personal financial gain) and poor governance.
+      *   Article 1 shows that despite the local medical community advising against large gatherings due to Covid-19 risks (2020), Mayor Sullivan and Associate Mayor Burrell are still willing to "take a chance" on large public gatherings (Arts and Crafts Show, Nov 19th, 2020) despite state/federal guidelines.
+      *   Article 2 provides the context that their decisions in Article 1 are not just public health errors, but symptomatic of their established pattern of prioritizing personal/political gain over ethical governance and constituent safety.
+
+      KEY ENTITIES:
+      *   Sherry Sullivan (Queen Bee Sullivan, Mayor)
+      *   Jack Burrell (Associate Mayor, Council President)
+      *   Robert Brown (Councilman, involved in contract gain)
+      *   Scott Boone (Councilman, involved in "Strawman" land fraud)
+      *   Hand Arendall (Law firm)
+      *   Cain O’Rear (Individual involved in Triangle Lawsuit promise)
+      *   Mayor Wilson (Former Mayor, finance degree)
+      *   Fairhope (Location)
+      *   Triangle Lawsuit
+      *   Baldwin County
+    llm_text: Sherry Sullivan and Jack Burrell built their power on past Fairhope corruption, including the Triangle Lawsuit loss. They now earn a $640,000 salary while Councilman Brown racks up hundreds of thousands through rigged contracts.
+    text: Sherry Sullivan and Jack Burrell built their power on past Fairhope corruption scandals like the Triangle Lawsuit. They now collect a $640,000 salary while Councilman Brown makes hundreds of thousands through rigged contracts.
+    widget_date: "2020-10-31"
+    generated_at: "2026-11-07T13:33:19.342798Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-attack:
+    refined_source: 6d39e1e6a9d9e1234d3fd1ae6659cd4144f0276859dc4be58634cd6bbefed500
+    brief: |-
+      THE CONFLICT:
+      1. In 2018, CATALYST/CSB attempted and failed to take over the entire Baldwin County administration (commissioners, probate judge).
+      2. Kevin Boone (Fairhope councilman) and his son, Scott Boone, are implicated in the land fraud known as "Strawman."
+      3. Scott Boone acts as the money distributor/bank for CATALYST candidates, involving over $1 million in funding.
+      4. CATALYST/CSB uses tactics like vote dilution (Daphne closing minority precincts in 2016) and intimidation against opponents.
+
+      THE DISCOVERY:
+      1. CATALYST/CSB is a profit-making political group representing developers (Prebble, DR Horton, Columbia Southern, Truland, Corte, Cox) rather than citizens of Baldwin County.
+      2. CSB candidates are organized to follow a "good ole boy creed" and are linked to county-wide threats across Fairhope, Daphne, Spanish Fort, and Bay Minette.
+
+      THE PIVOT:
+      1. Article 2 establishes that the local political landscape in Baldwin County (CSB/CATALYST) is rooted in corruption and developer interests, not public welfare.
+      2. Article 1 details Mayor Sherry Sullivan and Associate Mayor Jack Burrell's decision to disregard public health guidelines (COVID-19) to hold the 2020 Arts and Crafts Show (November 19th), despite advice from Baldwin County doctors and Mayor Wilson.
+      3. The historical context (Article 2) suggests the actions in Article 1 are part of a pattern of politically motivated disregard for constituent well-being.
+
+      KEY ENTITIES:
+      1. Sherry Sullivan (Current Mayor, former show coordinator)
+      2. Jack Burrell (Associate Mayor, Council President)
+      3. Robert Brown (Councilman, supporter of the show)
+      4. Kevin Boone (Fairhope councilman)
+      5. Scott Boone (Money distributor for CSB)
+      6. CATALYST (Original political group)
+      7. CSB (Scott Boone Consulting)
+      8. Baldwin County
+      9. Fairhope
+      10. Daphne
+      11. Spanish Fort
+      12. Bay Minette
+      13. Mayor Wilson (Former Mayor who canceled the 2020 show)
+      14. Prebble
+      15. DR Horton
+      16. Columbia Southern
+      17. Truland
+      18. Corte
+      19. Cox
+    llm_text: Scott Boone funnels over $1 million for developer-backed CSB candidates in Baldwin County, rooted in land fraud and intimidation. Did Mayor Sherry Sullivan and Jack Burrell disregard health advice for the 2020 Arts and Crafts Show, fitting a pattern of political corruption?
+    text: Scott Boone funnels over $1 million to developer-backed candidates in Baldwin County using land fraud and intimidation. Mayor Sherry Sullivan and Jack Burrell ignored health advice to hold the 2020 Arts and Crafts Show.
+    widget_date: "2020-08-12"
+    generated_at: "2026-11-07T13:34:34.994786Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wear-a-mask:
+    refined_source: fd2e6ec7131a697caa653f57eed314372fd1a83c5ca3c41e16239af964512af4
+    brief: |-
+      THE CONFLICT:
+      2020 Arts and Crafts Show was canceled as a precaution to public health by Mayor Wilson.
+      Sherry Sullivan and Jack Burrell later advocated to hold the show, despite local medical advice.
+
+      THE DISCOVERY:
+      Widget Article (Jani Handwerger Mobile) revealed widespread public fear and urgent warnings about the dangers of non-mask wearing and large gatherings during the COVID-19 spike, specifically noting the risk to the older generation.
+
+      THE PIVOT:
+      Widget Article established the severe, pre-existing public health context and widespread community concern regarding COVID-19 risk, proving that the decision by Sullivan and Burrell in Article 1 to proceed with the November 19th public gathering was a direct defiance of established community health warnings, not merely a risk calculation.
+
+      KEY ENTITIES:
+      Sherry Sullivan (Mayor), Jack Burrell (Associate Mayor/Council President), Robert Brown (Councilman), Mayor Wilson, Jani Handwerger Mobile
+    llm_text: Jani Handwerger Mobile shows urgent warnings about COVID-19 risk and community fear existed before the 2020 Arts and Crafts Show. Did Sherry Sullivan and Jack Burrell defy established health advice when they pushed to hold the gathering despite Mayor Wilson’s cancellation?
+    text: Jani Handwerger warned Mobile about high COVID-19 risks before the 2020 Arts and Crafts Show. Sherry Sullivan and Jack Burrell ignored these warnings and held the event despite Mayor Wilson's cancellation.
+    widget_date: "2020-07-08"
+    generated_at: "2026-11-07T13:35:42.724850Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dark-wednesday:
+    refined_source: 269e5c77fe6c4919f2d33a7ef1accd9a404e11fb973fdb7c5026f545fa46ae9e
+    brief: |-
+      THE CONFLICT: 2020 Arts and Crafts Show was canceled by then Mayor Wilson as a precaution due to public health concerns (Covid-19).
+      THE DISCOVERY: Widget Article established high Covid-19 mortality (100,000 deaths in 111 days) and rising cases in Alabama (50% increase).
+      THE PIVOT: Widget Article provides historical, factual context of severe Covid-19 risk, validating the initial cancellation decision, making the subsequent decision to hold a large gathering (November 19th) highly contradictory to public health mandates.
+      KEY ENTITIES: Sherry Sullivan, Jack Burrell, Robert Brown, Mayor Wilson, Baldwin County, Fairhope, November 19th, 2020 Arts and Crafts Show
+    llm_text: Mayor Wilson canceled the 2020 Arts and Crafts Show due to Covid-19 risk. Given Alabama's 50% case increase and high mortality, did holding the November 19th gathering contradict public health mandates?
+    text: Mayor Wilson canceled the 2020 Arts and Crafts Show to protect citizens from COVID-19. Alabama cases jumped by 50 percent, raising serious questions about why leaders held the November 19 gathering anyway.
+    widget_date: "2020-05-27"
+    generated_at: "2026-11-07T13:36:50.127333Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  money-on-the-table:
+    refined_source: 33c174b3a0a97bf0e91772cc829f7ba50bcccbdbb64940269c3ff8f85fa4b6cc
+    brief: |-
+      THE CONFLICT:
+      *   The Fairhope City Council (CATALYST) opposed the Mayor's proposals, including the $65,000 marketing plan for businesses during the Covid-19 Pandemic.
+      *   The Council rejected the Mayor's tax-free plan for a $3,000,000 school tax, instead endorsing a tax.
+      *   Councilman Burrell, Brown, and Boone purchased $2.65 million in recreation land and leased it for $9,000 annually.
+      *   The Council opposed Mayor Wilson's decision to close the Quail Creek Golf Course due to public health concerns.
+      *   The 2020 Arts and Crafts Show was canceled by Mayor Wilson due to public health precautions.
+
+      THE DISCOVERY:
+      *   The Council demonstrated a consistent pattern of prioritizing political and financial interests (e.g., supporting BCEDA appropriations of $35,000, high council salaries of $125,000, land deals) over economic development and public health during the pandemic.
+      *   The Council actively resisted the Mayor's public health decisions, such as closing the golf course.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Council's opposition to the Mayor was rooted in political/financial interests, not public health, providing the historical context for their subsequent defiance in Article 1 (holding a large public gathering against medical advice).
+      *   The Council's past actions (rejecting health-focused plans, prioritizing non-public health expenditures) contextualizes the decision by Jack Burrell and Sherry Sullivan to hold the November 19th Arts and Crafts Show despite Covid guidelines.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President/Associate Mayor/CATALYST)
+      *   Sherry Sullivan (Show coordinator/Mayor)
+      *   Robert Brown (Councilman/CATALYST)
+      *   Kevin Boone (Councilman/CATALYST)
+      *   Mayor Wilson (Former Mayor)
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Lee Lawson (BCEDA representative/brother-in-law to Mayor Dane Haygood)
+      *   Fairhope City Council (CATALYST)
+      *   November 19th (Arts and Crafts Show date)
+      *   $6.2 million (Waterfront Project)
+      *   $65,000 (Marketing plan)
+      *   $35,000 (BCEDA annual donation)
+    llm_text: Jack Burrell, Robert Brown, and Kevin Boone repeatedly prioritized $35,000 BCEDA donations and $2.65M land deals over Mayor Wilson’s public health calls. Read how their financial focus fueled the November 19 Arts and Crafts Show defiance despite COVID guidelines.
+    text: Jack Burrell, Robert Brown, and Kevin Boone spent money on BCEDA donations and land deals instead of supporting Mayor Wilson's public health calls. Their financial focus drove the decision to hold the November 19 Arts and Crafts Show against COVID guidelines.
+    widget_date: "2020-04-29"
+    generated_at: "2026-11-07T13:32:17.096752Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

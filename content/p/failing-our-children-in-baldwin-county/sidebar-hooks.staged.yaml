@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   go-to-hell-veterans:
+    refined_source: 77117727ae09b4b228b5131955cabf6a6aa5af73389bd4ab4235cb7b57179bf9
     brief: |-
       THE CONFLICT:
       *   2020 showdown occurred between Ed Oliver (Tallapoosa County’s State Rep, Military and Veterans Affairs Committee chairman) and Kent Davis (ADVA Commissioner) regarding COVID-era protocol at the Bill Nichols State Veterans Home in Alexander City.
@@ -48,10 +49,12 @@ hooks:
       *   Andrew Jones (State Sen., Cherokee County)
       *   $7 million (ARPA funds diverted)
     llm_text: Ed Oliver and Kent Davis fought over $7 million ARPA funds in 2020, exposing systemic financial mismanagement in Alabama agencies. This institutional failure explains current critical neglect within Baldwin County's child protection system.
+    text: Ed Oliver and Kent Davis fought over ARPA funds, exposing financial mismanagement in state agencies. This failure explains current neglect in child protection.
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T14:29:07.197049Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: 5bb35fb4db0e1be30f63fd22623313abdb8d7e524ceac2ae3cf5f1d6932edd9e
     brief: |-
       THE CONFLICT:
       *   O.J. French of Bay Minette was killed during a traffic stop.
@@ -85,10 +88,12 @@ hooks:
       *   Case #230 700 147
       *   Case #DR-2017-900956.03
     llm_text: 'Baldwin County’s Major Crimes Unit covered up injustices like the killing of O.J. French and the wrongful conviction of Murray Lawrence. This systemic failure, fueled by Robert Wilters, shows why current neglect in Case #230 700 147 endangers children today.'
+    text: The Baldwin County Major Crimes Unit covered up the killing of O.J. French and a wrongful conviction. This systemic failure shows why child welfare cases are neglected.
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T14:30:37.312238Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
+    refined_source: a9fae3db7d25eba0b25bbe686cff83dd3b5844177d8ce4fe4c0048e28e8560a9
     brief: |-
       THE CONFLICT:
       Jonathan Victor was shot to death by BCSO on May 2017.
@@ -123,16 +128,19 @@ hooks:
       Alta Pointe Health
       Baldwin County, Alabama
     llm_text: Sheriff Huey Mack's BCSO shot Jonathan Victor and Robert Yates, yet the office lacks necessary de-escalation training. Despite $65M+ in funding, Mack's office restricts public records, revealing unchecked power and systemic failure in Baldwin County.
+    text: Sheriff Huey Mack's deputies shot two men, yet the office lacks de-escalation training. Despite heavy funding, the office restricts records and avoids oversight.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T14:32:03.711130Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   moma-bear:
+    refined_source: d4fcbebc42ccbf74c788700c2bfe6a8dde817f2f53cc93791adcfebce3bd5386
     brief: |-
-      THE CONFLICT: Judge Michelle Thomason is criticized for allegedly telling attorneys in Baldwin County Family Court, "Your Honor she is crazy" (2023).
+      THE CONFLICT: Judge Michelle Thomason is criticized for telling attorneys in Baldwin County Family Court, "Your Honor she is crazy" (2023).
       THE DISCOVERY: Article 2 highlights judicial injustice where victimized women are scrutinized and judged, framing maternal instinct as a natural, non-logical defense against judicial oppression.
       THE PIVOT: Article 2 provides historical context of alleged judicial bias and mistreatment within the Baldwin County Family Court system, linking to the current case where the GAL exhibited troubling behavior and the father's case was dismissed by the presiding judge (CASE #DR-2017-900956.03).
       KEY ENTITIES: Judge Michelle Thomason, Nancy R. Koerner, Baldwin County Family Court, Concerned Father, Detective Trey Kraynak (Daphne Police Department), Daphne Police Department, Loxley Police Department, DHR, Baldwin County Sheriff Department, Baldwin County Child Advocacy Center, GAL, CASE #230 700 147, CASE #DR-2017-900956.03, January 10, 2024, May 9, 2024.
-    llm_text: 'Judge Michelle Thomason allegedly told Baldwin County Family Court attorneys, "Your Honor she is crazy." Discover how this judicial bias impacted the Concerned Father in CASE #DR-2017-900956.03 and why women face scrutiny within the system.'
+    llm_text: 'Judge Michelle Thomason told Baldwin County Family Court attorneys, "Your Honor she is crazy." Read how this judicial bias impacted the Concerned Father in CASE #DR-2017-900956.03 and why women face scrutiny within the system.'
+    text: Judge Michelle Thomason made harsh remarks to attorneys in Baldwin County Family Court. Read how this bias impacted a father in a custody case.
     widget_date: "2023-07-12"
     generated_at: "2026-11-06T14:33:07.318679Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

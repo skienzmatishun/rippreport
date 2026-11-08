@@ -5,7 +5,58 @@ metadata:
   main_date: "2026-05-25"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  eddie-tyler-exits-stage-left:
+    refined_source: 45f9e8cd0fc4393f98008e379668a29e7dae1969ee910e83ed5a5d5e2c8bddb8
+    brief: |-
+      THE CONFLICT: 20-year Baldwin County Sheriff's Deputy resigned citing "Ungodly men" running the department. $16.3 Million was allocated for the Golden Triangle project (bridge over Fish River/boulevard) for a single developer.
+      THE DISCOVERY: Article 2 revealed historical issues regarding development spending and internal corruption within the Baldwin County Sheriff's Office, preceding current legal events.
+      THE PIVOT: Article 2 establishes a pattern of financial and institutional corruption within the Baldwin County Sheriff's Office (where Al Tolbert transitioned from Bay Minette Chief of Police to Corporal) that directly contextualizes the allegations of political machine control and perjury detailed in Article 1.
+      KEY ENTITIES: Harry Still III, Matthew J Franklin, Danielle Duggar, Robert Wilters, Al Tolbert, Scott Taylor, Kristi Haygood, Vincent Bellucci, Eddie Tyler, Mrs. Tom Bradley Jr, Fish River, Bay Minette.
+    llm_text: A deputy resigned citing "Ungodly men" after $16.3 million funded the Golden Triangle project for one developer. Read how historical corruption, involving figures like Al Tolbert, shows a deep pattern of financial control within the Baldwin County Sheriff's Office.
+    text: One deputy quit and blamed ungodly men after millions funded the Golden Triangle project. Where did all that public money go?
+    widget_date: "2026-03-27"
+    generated_at: "2026-11-06T06:50:52.149772Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  faux-pas:
+    refined_source: 83dd0bd588a148a4459767590061cbf03051985cc2c4bdc471fa21dc7bab2956
+    brief: |-
+      THE CONFLICT:
+      *   Harry Still III was found NOT GUILTY by a Baldwin County Jury on Thursday in Bay Minette for assaulting Bay Minette City Council Member Matthew J Franklin.
+      *   Danielle Duggar (Republican Candidate Elect) defeated Rep Matt Simpson by a couple of votes.
+      *   In the past (historical context), the "Catalyst Cabal" political event occurred in Summerdale, involving Rep Donna Givens ("FAUX PAS").
+
+      THE DISCOVERY:
+      *   Article 2 revealed the existence of the "Catalyst Cabal" and the ongoing dirty politics in Summerdale.
+      *   Article 2 noted that Huey Mack was the only person on the microphone during the "FAUX PAS" event.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical precedent of political manipulation and corruption in Summerdale, providing context for Harry Still III's later claims of a "corrupt political machine" and miscarriages of justice in Bay Minette.
+      *   The shared theme is the exploitation of political and judicial avenues for control, linking Summerdale's "dirty politics" to the Bay Minette judicial proceedings (e.g., the NOT GUILTY verdict).
+
+      KEY ENTITIES:
+      *   Harry Still III
+      *   Danielle Duggar
+      *   Matt Simpson
+      *   Matthew J Franklin
+      *   Al Tolbert
+      *   Robert Wilters
+      *   Scott Taylor
+      *   Kristi Haygood
+      *   Vincent Bellucci
+      *   Kevin Brock
+      *   Brandon Moseley
+      *   Richard Cox
+      *   Donna Givens
+      *   Whitney Scapecchi
+      *   Bay Minette
+      *   Summerdale
+    llm_text: Harry Still III was found NOT GUILTY for assaulting Council Member Matthew J Franklin. This verdict fits a pattern of political exploitation dating back to the "Catalyst Cabal" dirty politics in Summerdale.
+    text: Harry Still III walked away NOT GUILTY of assaulting Council Member Matthew J Franklin. This verdict exposes the same dirty Catalyst political tricks we have fought for years.
+    widget_date: "2026-01-26"
+    generated_at: "2026-11-06T06:52:04.768030Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-2026:
+    refined_source: b80cea591a7ed303d6b8d43d221cfccce04bc9272abce5358b8cc6d8920be7a7
     brief: |-
       THE CONFLICT:
       Baldwin County primary elections occurred on May 19, involving candidates for Sheriff (Matt McKenzie), County Commissioner (Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill), Circuit Court Judge (Jeremiah Giles, Grant Blackburn), and various legislative positions, including House District 96 (Danielle Duggar).
@@ -39,28 +90,32 @@ hooks:
       Joe Freeman
       Baldwin County
       28th Judicial District
-    llm_text: Baldwin County primary candidates like Matt McKenzie and Danielle Duggar race amidst concerns over PAC influence and the "GOB" machine. Discover how these forces challenge local integrity, even after Harry Still's NOT GUILTY verdict.
+    llm_text: Baldwin County primary candidates like Matt McKenzie and Danielle Duggar race amidst concerns over PAC influence and the "GOB" machine. Read how these forces challenge local integrity, even after Harry Still's NOT GUILTY verdict.
+    text: Matt McKenzie and Danielle Duggar run for office while dark money groups push political control. Can local candidates beat the machine?
     widget_date: "2026-05-18"
     generated_at: "2026-11-06T06:44:53.268826Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   letter-to-ag-elections:
+    refined_source: e9c13ba5144802e79133c53d5d01083812287c1a7e914970ce2fae109ba5aa31
     brief: |-
       THE CONFLICT: Suspected and strongly alleged reports of election fixing occurred in Baldwin County over a period of 20 years; the current Baldwin County Sheriff was appointed by the Governor following the resignation of the elected sheriff.
       THE DISCOVERY: Article 2 established that Baldwin County had a 20-year culture of BCSO non-transparency and lack of accountability, described as a "Good Ole Boy culture."
       THE PIVOT: Article 2 provides the historical context of systemic lack of transparency within Baldwin County's political structure (specifically BCSO/elections) that underpins the specific contemporary allegations of political control, misuse of power, and judicial corruption detailed in Article 1 (e.g., actions by Al Tolbert, control of the 28th Judicial District).
       KEY ENTITIES: Francis Paul Ripp, Wes Allen (Secretary of State), Jeff Elrod (Director of Elections), Baldwin County, BCSO, Harry Still III, Danielle Duggar, Matt Franklin (Bay Minette City Council Member), Robert Wilters (District Attorney), Scott Taylor (Judge), Al Tolbert, Vincent Bellucci, Mayor Wills, Kristi Haygood, Mark Frenette, MADD Investments LLC, David Tate.
-    llm_text: For two decades, Baldwin County operated under a "Good Ole Boy culture" enabling suspected election fixing and BCSO non-transparency. Discover how systemic issues, from the BCSO to Al Tolbert's control of the 28th Judicial District, undermined local justice.
+    llm_text: For two decades, Baldwin County operated under a "Good Ole Boy culture" enabling suspected election fixing and BCSO non-transparency. Read how systemic issues, from the BCSO to Al Tolbert's control of the 28th Judicial District, undermined local justice.
+    text: Al Tolbert and local leaders ran the 28th Judicial District for twenty years. Did this network fix elections and hide police records?
     widget_date: "2026-05-17"
     generated_at: "2026-11-06T06:47:13.847684Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   not-qualified:
+    refined_source: eb25986356e62e0daddb027733ce39851ddd91a1e5b3d0bb8f0ee86b0174c72b
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr's conviction and Rule 32 Response (Background/Historical context established in Article 2).
       *   Bay Minette v Harry Still III for assaulting Bay Minette City Council Member Matthew J Franklin (Verdict on Thursday, Article 1).
 
       THE DISCOVERY:
-      *   Kristi Hagood (Baldwin County Assistant District Attorney) allegedly used AI which "hallucinated" in the Rule 32 Response concerning Murray Lawrence Jr. (Article 2).
+      *   Kristi Hagood (Baldwin County Assistant District Attorney) used AI which "hallucinated" in the Rule 32 Response concerning Murray Lawrence Jr. (Article 2).
       *   DA Robert Wilters was the Circuit Judge who presided over the trial of Murray Lawrence Jr. (Article 2).
 
       THE PIVOT:
@@ -81,11 +136,13 @@ hooks:
       *   Kevin Brock (Former Chief of Police in Summerdale)
       *   Bay Minette
       *   Baldwin County
-    llm_text: Harry Still III won his verdict, but Kristi Hagood allegedly used AI that hallucinated in the Murray Lawrence Jr. case. See how questionable conduct by DA Kristi Hagood and former Judge Robert Wilters compromises the integrity of the 28th Judicial District.
+    llm_text: Harry Still III won his verdict, but Kristi Hagood used AI that hallucinated in the Murray Lawrence Jr. case. See how questionable conduct by DA Kristi Hagood and former Judge Robert Wilters compromises the integrity of the 28th Judicial District.
+    text: Harry Still III won his court case, but DA Kristi Hagood used false AI data in the Murray Lawrence Jr file. Who checks this misconduct?
     widget_date: "2026-05-09"
     generated_at: "2026-11-06T06:48:41.590120Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   gambling-money-run-amok:
+    refined_source: 32fedd8842a02dfc31eca3a70638bf3fb32b3651daedba1d7ab216ceef6b72de
     brief: |-
       THE CONFLICT: Steve Raby, The Speaker's lobbyist, distributed out-of-state gambling interest money to support certain Alabama legislators, including Rep Elliott and Rep Simpson (House District 60), aiming to counter Speaker Ledbetter's influence.
 
@@ -95,10 +152,12 @@ hooks:
 
       KEY ENTITIES: Steve Raby, Juandalynn Givan, Rep Matt Simpson, Chris Elliott, Albritton, Holk Jones, Danielle Duggar, Harry Still III, Matthew J Franklin, Robert Wilters, Al Tolbert, Mayor Wills, Vincent Bellucci, Kristi Haygood, Scott Taylor, Brandon Moseley, Bay Minette.
     llm_text: Steve Raby used out-of-state gambling money to sway Alabama legislators, including Rep Matt Simpson and Chris Elliott, fighting Speaker Ledbetter. Learn how this external funding reveals systemic local political corruption involving these key figures.
+    text: Steve Raby used out-of-state gambling cash to buy off Alabama legislators like Matt Simpson and Chris Elliott. Follow the dark money straight to systemic local corruption.
     widget_date: "2026-04-16"
     generated_at: "2026-11-06T06:49:53.576151Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   by-appointment-only:
+    refined_source: 1ce60e8ca707e36c16ea5483c54f16ce1fc5176366ef914494ec95bdc2863b66
     brief: |-
       THE CONFLICT:
       A cabal controls the Baldwin County bench via political influence, coordinating with the State Executive Branch, independent of any specific political party.
@@ -126,52 +185,7 @@ hooks:
       Kristi Haygood
       Matt Simpson, Esq
     llm_text: Baldwin County bench control isn't about parties; a non-aligned cabal influenced the Alabama Gaming Commission. Robert Wilters and Scott Taylor faced scrutiny after Draft Kings backed pro-gaming laws for years, linking local judges to PCI Gaming.
+    text: A non-aligned cabal controls the Baldwin County bench and the Alabama Gaming Commission. Robert Wilters and Scott Taylor answered to Draft Kings while protecting PCI Gaming.
     widget_date: "2026-04-10"
     generated_at: "2026-11-06T06:45:53.089647Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  eddie-tyler-exits-stage-left:
-    brief: |-
-      THE CONFLICT: 20-year Baldwin County Sheriff's Deputy resigned citing "Ungodly men" running the department. $16.3 Million was allocated for the Golden Triangle project (bridge over Fish River/boulevard) for a single developer.
-      THE DISCOVERY: Article 2 revealed historical issues regarding development spending and internal corruption within the Baldwin County Sheriff's Office, preceding current legal events.
-      THE PIVOT: Article 2 establishes a pattern of financial and institutional corruption within the Baldwin County Sheriff's Office (where Al Tolbert transitioned from Bay Minette Chief of Police to Corporal) that directly contextualizes the allegations of political machine control and perjury detailed in Article 1.
-      KEY ENTITIES: Harry Still III, Matthew J Franklin, Danielle Duggar, Robert Wilters, Al Tolbert, Scott Taylor, Kristi Haygood, Vincent Bellucci, Eddie Tyler, Mrs. Tom Bradley Jr, Fish River, Bay Minette.
-    llm_text: A deputy resigned citing "Ungodly men" after $16.3 million funded the Golden Triangle project for one developer. Discover how historical corruption, involving figures like Al Tolbert, shows a deep pattern of financial control within the Baldwin County Sheriff's Office.
-    widget_date: "2026-03-27"
-    generated_at: "2026-11-06T06:50:52.149772Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  faux-pas:
-    brief: |-
-      THE CONFLICT:
-      *   Harry Still III was found NOT GUILTY by a Baldwin County Jury on Thursday in Bay Minette for assaulting Bay Minette City Council Member Matthew J Franklin.
-      *   Danielle Duggar (Republican Candidate Elect) defeated Rep Matt Simpson by a couple of votes.
-      *   In the past (historical context), the "Catalyst Cabal" political event occurred in Summerdale, involving Rep Donna Givens ("FAUX PAS").
-
-      THE DISCOVERY:
-      *   Article 2 revealed the existence of the "Catalyst Cabal" and the ongoing dirty politics in Summerdale.
-      *   Article 2 noted that Huey Mack was the only person on the microphone during the "FAUX PAS" event.
-
-      THE PIVOT:
-      *   Article 2 establishes a historical precedent of political manipulation and corruption in Summerdale, providing context for Harry Still III's later claims of a "corrupt political machine" and miscarriages of justice in Bay Minette.
-      *   The shared theme is the exploitation of political and judicial avenues for control, linking Summerdale's "dirty politics" to the Bay Minette judicial proceedings (e.g., the NOT GUILTY verdict).
-
-      KEY ENTITIES:
-      *   Harry Still III
-      *   Danielle Duggar
-      *   Matt Simpson
-      *   Matthew J Franklin
-      *   Al Tolbert
-      *   Robert Wilters
-      *   Scott Taylor
-      *   Kristi Haygood
-      *   Vincent Bellucci
-      *   Kevin Brock
-      *   Brandon Moseley
-      *   Richard Cox
-      *   Donna Givens
-      *   Whitney Scapecchi
-      *   Bay Minette
-      *   Summerdale
-    llm_text: Harry Still III was found NOT GUILTY for assaulting Council Member Matthew J Franklin. This verdict fits a pattern of political exploitation dating back to the "Catalyst Cabal" dirty politics in Summerdale.
-    widget_date: "2026-01-26"
-    generated_at: "2026-11-06T06:52:04.768030Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,57 +5,8 @@ metadata:
   main_date: "2022-04-17"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT: Baldwin County is planning a new County Jail (near 1,000 beds) with a 5-year hiring plan (6 Deputy Sheriffs and 6 Correction Officers annually); Baldwin County Sewer Service (Fort Morgan Road) is required by ADEM to hold a public hearing on expansion (May 19).
-      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis, leading to chaos in veterans’ programs and political maneuvering over the veterans’ board; a court case limits lawsuits over wrong SWAT raids, questioning police accountability.
-      THE PIVOT: Article 2 demonstrates systemic political instability and lack of accountability at the state level (Ivey/Davis/Clarke County corruption), providing context for the local inability of the Baldwin County Commission to regulate private utilities (Baldwin County Sewer Service) due to constitutional amendments.
-      KEY ENTITIES: Baldwin County; Fort Morgan Road; ADEM; Governor Kay Ivey; Admiral Kent Davis; Clarke County; County Commission; Brookside Alabama Police Department; Brooks/Britt/Durant; Alabama Public Service Commission
-    llm_text: Baldwin County plans a 1,000-bed jail and must hold a sewer hearing on Fort Morgan Road. State instability—from Kay Ivey firing Admiral Kent Davis to police accountability cases—prevents local commissions from regulating private utilities.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-07T00:25:25.225482Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Examiners Of Public Accounts investigation showed multiple irregularities in the Brookside Alabama Police Department.
-      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts, and law enforcement is investigating its own mishaps without accountability.
-      THE PIVOT: Article 2 proves that the irregularities noted in Article 1 are part of a wider systemic failure involving corruption, political influence, and lack of accountability in local governance.
-      KEY ENTITIES: Baldwin County, Baldwin County Sewer Service, Fort Morgan Road, ADEM, County Commission, Brookside Alabama Police Department
-    llm_text: Examiners uncovered multiple irregularities within the Brookside Alabama Police Department in Baldwin County. Political ties let companies score million-dollar contracts, proving local governance lacks accountability for these systemic failures.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-07T00:27:53.677335Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County approved a new County Jail (near 1,000 beds).
-      *   Hiring plan included 6 new Deputy Sheriffs and 6 new Correction Officers annually for 5 years.
-      *   Baldwin County Sewer Service required ADEM to hold a public hearing on treatment plant expansion at Fort Morgan Road.
-      *   Public hearing for treatment plant was scheduled for May 19.
-      *   Examiners Of Public Accounts investigation showed multiple irregularities in Brookside Alabama Police Department.
-
-      THE DISCOVERY:
-      *   Mack vs Hadley case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-      *   In 2005, two autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County were never disclosed to the Defense (a Brady Violation).
-      *   The Alabama Court of Civil Appeals released a decision on the Rule 32 Petition for a new trial for Murray Lawrence Jr. today (at 1pm).
-
-      THE PIVOT:
-      *   Article 2 provides a specific, legally documented instance (1968 Camaro theft, 2005 non-disclosure) of corruption within the Baldwin County law enforcement structure (Sheriff's Department), substantiating the general "multiple irregularities" cited in the Brookside Alabama Police Department investigation in Article 1.
-
-      KEY ENTITIES:
-      *   Baldwin County
-      *   Fort Morgan Road
-      *   Baldwin Court Services
-      *   Sheriff Mack
-      *   Brookside Alabama Police Department
-      *   Alabama Court of Civil Appeals
-      *   Mark Fuller (Alabama Federal Judge)
-      *   Murray Lawrence Jr.
-    llm_text: Sheriff Mack's department stole a 1968 Camaro and violated Brady rules by hiding 2005 autopsies. See how this proven corruption links to Baldwin County's new jail and police irregularities.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-07T00:29:09.886017Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: 4f143791cad92c0e4f00cef1f4690a627c5c63823091a23f0ab63a63c747badb
     brief: |-
       THE CONFLICT:
       *   Baldwin County planned a new County Jail (nearly 1,000 beds).
@@ -81,10 +32,12 @@ hooks:
       *   Hunter [Biden]
       *   Alabama Public Service Commission
     llm_text: Baldwin County plans a 1,000-bed jail and needs ADEM approval for the Fort Morgan Road sewer plant. Don't view the Brookside Police irregularities as isolated; local power struggles connect to wider patterns of political misconduct and whistleblower suppression.
+    text: Baldwin County plans a 1,000-bed jail and needs ADEM approval for the Fort Morgan Road sewer plant. Local power struggles connect to wider patterns of political misconduct and whistleblower suppression.
     widget_date: "2024-12-07"
     generated_at: "2026-11-07T00:30:15.922137Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 1f33fd250e520b421f07d8740b5f63bd1030e1fcd3618d5067d1e4c8edc66689
     brief: |-
       THE CONFLICT:
       *   Baldwin County planned a new County Jail (approx. 1,000 beds) with a hiring plan of 6 new Deputy Sheriffs and 6 new Correction Officers annually for 5 years.
@@ -106,11 +59,61 @@ hooks:
       *   Examiners Of Public Accounts
       *   Alabama Public Service Commission (unregulated by Constitutional Amendment)
       *   Podcast No. 186
-    llm_text: Baldwin County faces a 1,000-bed jail plan and sewer expansion hearings on Fort Morgan Road. Discover how these local governance struggles link to Brookside Police irregularities and the statewide crisis of rural hospital closures and proposed constitutional amendments.
+    llm_text: Baldwin County faces a 1,000-bed jail plan and sewer expansion hearings on Fort Morgan Road. Read how these local governance struggles link to Brookside Police irregularities and the statewide crisis of rural hospital closures and proposed constitutional amendments.
+    text: Baldwin County faces a 1,000-bed jail plan and sewer expansion hearings on Fort Morgan Road. Read how these local governance struggles link to Brookside Police irregularities and rural hospital closures.
     widget_date: "2024-11-27"
     generated_at: "2026-11-07T00:26:46.528456Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: f9b49316abd6278195094dcdb7940cdc9ee36af752284fdcfc62103abcf7e755
+    brief: |-
+      THE CONFLICT: OJ French Jr. family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson following a fatal shooting.
+      THE DISCOVERY: On July 31, 2024, the French family revealed that Mayor Robert Bob Wills misrepresented the family's stance on the investigation, and the Sheriff announced a mid-July resignation, leading to a power contest for the Sheriff post between Chief Deputy Anthony Lowery and County Commissioner Matt McKenzie.
+      THE PIVOT: The French lawsuit and subsequent police/mayoral controversy (Article 2) provide specific evidence of local law enforcement and municipal instability in Baldwin County, contrasting the County Commission's focus on large infrastructure needs (Fort Morgan sewer expansion/new jail) detailed in the earlier article.
+      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, Baldwin County, City of Bay Minette, Fort Morgan Road (sewer plant), May 19 (public hearing date).
+    llm_text: OJ French Jr. sued the City of Bay Minette and Officer Brandon Thompson after a fatal shooting, revealing deep local instability. Mayor Robert Bob Wills misrepresented the family's stance, igniting a Sheriff power contest between Anthony Lowery and Matt McKenzie in Baldwin County.
+    text: OJ French Jr. sued the City of Bay Minette and Officer Brandon Thompson after a fatal shooting, revealing deep local instability. Mayor Robert Bob Wills misrepresented the family's stance.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T00:36:08.181800Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 2fddda3a3fd4b80aef101e8bee020495632b3d7b4cbe4c09243e4b156d3f9509
+    brief: |-
+      THE CONFLICT: Baldwin County, Alabama, planned a new County Jail (1,000 beds) with a hiring plan of 6 new Deputy Sheriffs and 6 new Correction Officers per year for 5 years; Baldwin County Sewer Service was required by ADEM to hold a public hearing on treatment plant expansion on Fort Morgan Road on May 19.
+      THE DISCOVERY: Renaissance School in Baldwin County for special needs kids was robbed (possibly an inside job); the Baldwin County Sheriff Department has a new Command Staff.
+      THE PIVOT: Article 2 updates the local context in Baldwin County, showing recent security and resource issues (school robbery, personnel shifts) following the significant infrastructure and law enforcement expansion plans detailed in Article 1.
+      KEY ENTITIES: Baldwin County, ADEM, Fort Morgan Road, Renaissance School, Baldwin County Sheriff Department, Brooks, Britt, Durant.
+    llm_text: Baldwin County plans a massive 1,000-bed jail and Fort Morgan Road sewer expansion. Yet, following the Renaissance School robbery and Sheriff Department shifts, local security questions demand immediate attention.
+    text: Baldwin County plans a massive 1,000-bed jail and Fort Morgan Road sewer expansion. Yet, following the Renaissance School robbery and Sheriff Department shifts, local security questions demand immediate attention.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T00:33:59.507887Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: dcf23d0a998a92a75492c33e0360a1d0a49f41812b742e67aba3d905b8a14f0a
+    brief: |-
+      THE CONFLICT: Baldwin County planned a new County Jail (near 1,000 beds) supported by the County Commission, including a five-year hiring plan for 6 new Deputy Sheriffs and 6 new Correction Officers annually.
+      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has one week left in office, and the Governor is currently selecting his replacement.
+      THE PIVOT: The transition of Sheriff Mack and the selection of his replacement directly affects the immediate continuity and implementation of the County Commission's planned jail expansion and associated hiring requirements.
+      KEY ENTITIES: Baldwin County, Alabama, Fort Morgan Road, ADEM, County Commission, Sheriff Mack, Governor
+    llm_text: Sheriff Mack has only one week left, and the Governor selects his replacement now. This transition immediately affects Baldwin County’s planned 1,000-bed jail expansion and the hiring of 12 new Deputy Sheriffs and Correction Officers.
+    text: Sheriff Mack has only one week left, and the Governor selects his replacement now. This transition immediately affects Baldwin County’s planned 1,000-bed jail expansion and the hiring of new officers.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T00:34:58.117359Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: ea80168fedf38e8af1b2b0c740167e552ded1a6f0434a6162d5f1bfffd2b09ed
+    brief: |-
+      THE CONFLICT: Examiners Of Public Accounts investigation showed multiple irregularities in the Brookside Alabama Police Department.
+      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts, and law enforcement is investigating its own mishaps without accountability.
+      THE PIVOT: Article 2 shows that the irregularities noted in Article 1 are part of a wider systemic failure involving corruption, political influence, and lack of accountability in local governance.
+      KEY ENTITIES: Baldwin County, Baldwin County Sewer Service, Fort Morgan Road, ADEM, County Commission, Brookside Alabama Police Department
+    llm_text: Examiners uncovered multiple irregularities within the Brookside Alabama Police Department in Baldwin County. Political ties let companies score million-dollar contracts, proving local governance lacks accountability for these systemic failures.
+    text: Examiners uncovered multiple irregularities within the Brookside Alabama Police Department in Baldwin County. Political ties let companies score million-dollar contracts, proving local governance lacks accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T00:27:53.677335Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: a2452336a5441a036f277f4f029d8e818ed5fe9bf3089dcb1678a012051b0fc1
     brief: |-
       THE CONFLICT:
       *   Baldwin County approved a new County Jail (nearly 1,000 beds) with a plan to hire 6 new Deputy Sheriffs and 6 new Correction Officers annually for 5 years.
@@ -140,10 +143,12 @@ hooks:
       *   Sheriff
       *   Duke Boys
     llm_text: The Bay Minette lawsuit over OJ French Jr's death involving BMPD Officer Brandon Thompson highlights intense local legal battles. Meanwhile, Baldwin County approved a massive new jail while investigators probe irregularities in the Brookside Police Department.
+    text: The Bay Minette lawsuit over OJ French Jr's death involving BMPD Officer Brandon Thompson highlights intense local legal battles. Meanwhile, Baldwin County approved a massive new jail.
     widget_date: "2024-10-18"
     generated_at: "2026-11-07T00:31:36.970302Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: 722dfeb0beacdbdb7fd690eb85e711e987d73a6a2ba153bd24c1a0738cb91ac9
     brief: |-
       THE CONFLICT:
       *   Baldwin County planned a new County Jail (near 1,000 beds) with a hiring plan for 6 new Deputy Sheriffs and 6 new Correction Officers annually for 5 years.
@@ -168,36 +173,51 @@ hooks:
       *   MS-13
       *   Orange Beach, Alabama
     llm_text: Baldwin County plans a 1,000-bed jail despite Brookside Police Department irregularities and MS-13 operations. The tragic death of Thomas Daniel "Danny" Williams Jr. in Orange Beach spotlights the danger within this high-crime environment.
+    text: Baldwin County plans a 1,000-bed jail despite Brookside Police Department irregularities and MS-13 operations. The tragic death of Thomas Daniel Williams Jr. in Orange Beach spotlights the danger.
     widget_date: "2024-10-04"
     generated_at: "2026-11-07T00:32:45.301574Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hatians-eating-cats:
+  the-crime-of-the-century:
+    refined_source: 9e1b6b03a2d5f3a924da0160aae76438eec6ff350955f30c1998168ae9c34f69
     brief: |-
-      THE CONFLICT: Baldwin County, Alabama, planned a new County Jail (1,000 beds) with a hiring plan of 6 new Deputy Sheriffs and 6 new Correction Officers per year for 5 years; Baldwin County Sewer Service was required by ADEM to hold a public hearing on treatment plant expansion on Fort Morgan Road on May 19.
-      THE DISCOVERY: Renaissance School in Baldwin County for special needs kids was robbed (possibly an inside job); the Baldwin County Sheriff Department has a new Command Staff.
-      THE PIVOT: Article 2 updates the local context in Baldwin County, showing recent security and resource issues (school robbery, personnel shifts) following the significant infrastructure and law enforcement expansion plans detailed in Article 1.
-      KEY ENTITIES: Baldwin County, ADEM, Fort Morgan Road, Renaissance School, Baldwin County Sheriff Department, Brooks, Britt, Durant.
-    llm_text: Baldwin County plans a massive 1,000-bed jail and Fort Morgan Road sewer expansion. Yet, following the Renaissance School robbery and Sheriff Department shifts, local security questions demand immediate attention.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-07T00:33:59.507887Z"
+      THE CONFLICT: Baldwin County is planning a new County Jail (near 1,000 beds) with a 5-year hiring plan (6 Deputy Sheriffs and 6 Correction Officers annually); Baldwin County Sewer Service (Fort Morgan Road) is required by ADEM to hold a public hearing on expansion (May 19).
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis, leading to chaos in veterans’ programs and political maneuvering over the veterans’ board; a court case limits lawsuits over wrong SWAT raids, questioning police accountability.
+      THE PIVOT: Article 2 demonstrates systemic political instability and lack of accountability at the state level (Ivey/Davis/Clarke County corruption), providing context for the local inability of the Baldwin County Commission to regulate private utilities (Baldwin County Sewer Service) due to constitutional amendments.
+      KEY ENTITIES: Baldwin County; Fort Morgan Road; ADEM; Governor Kay Ivey; Admiral Kent Davis; Clarke County; County Commission; Brookside Alabama Police Department; Brooks/Britt/Durant; Alabama Public Service Commission
+    llm_text: Baldwin County plans a 1,000-bed jail and must hold a sewer hearing on Fort Morgan Road. State instability—from Kay Ivey firing Admiral Kent Davis to police accountability cases—prevents local commissions from regulating private utilities.
+    text: Baldwin County plans a 1,000-bed jail and must hold a sewer hearing on Fort Morgan Road. State instability prevents local commissions from regulating private utilities.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T00:25:25.225482Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-180:
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: fe8fc5c600607d34f361ced900d45beb5f7fab0a72c6e999115f67bbc447a6ef
     brief: |-
-      THE CONFLICT: Baldwin County planned a new County Jail (near 1,000 beds) supported by the County Commission, including a five-year hiring plan for 6 new Deputy Sheriffs and 6 new Correction Officers annually.
-      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has one week left in office, and the Governor is currently selecting his replacement.
-      THE PIVOT: The transition of Sheriff Mack and the selection of his replacement directly affects the immediate continuity and implementation of the County Commission's planned jail expansion and associated hiring requirements.
-      KEY ENTITIES: Baldwin County, Alabama, Fort Morgan Road, ADEM, County Commission, Sheriff Mack, Governor
-    llm_text: Sheriff Mack has only one week left, and the Governor selects his replacement now. This transition immediately affects Baldwin County’s planned 1,000-bed jail expansion and the hiring of 12 new Deputy Sheriffs and Correction Officers.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-07T00:34:58.117359Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT: OJ French Jr. family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson following a fatal shooting.
-      THE DISCOVERY: On July 31, 2024, the French family revealed that Mayor Robert Bob Wills misrepresented the family's stance on the investigation, and the Sheriff announced a mid-July resignation, leading to a power contest for the Sheriff post between Chief Deputy Anthony Lowery and County Commissioner Matt McKenzie.
-      THE PIVOT: The French lawsuit and subsequent police/mayoral controversy (Article 2) provide specific evidence of local law enforcement and municipal instability in Baldwin County, contrasting the County Commission's focus on large infrastructure needs (Fort Morgan sewer expansion/new jail) detailed in the earlier article.
-      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, Baldwin County, City of Bay Minette, Fort Morgan Road (sewer plant), May 19 (public hearing date).
-    llm_text: OJ French Jr. sued the City of Bay Minette and Officer Brandon Thompson after a fatal shooting, revealing deep local instability. Mayor Robert Bob Wills misrepresented the family's stance, igniting a Sheriff power contest between Anthony Lowery and Matt McKenzie in Baldwin County.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-07T00:36:08.181800Z"
+      THE CONFLICT:
+      *   Baldwin County approved a new County Jail (near 1,000 beds).
+      *   Hiring plan included 6 new Deputy Sheriffs and 6 new Correction Officers annually for 5 years.
+      *   Baldwin County Sewer Service required ADEM to hold a public hearing on treatment plant expansion at Fort Morgan Road.
+      *   Public hearing for treatment plant was scheduled for May 19.
+      *   Examiners Of Public Accounts investigation showed multiple irregularities in Brookside Alabama Police Department.
+
+      THE DISCOVERY:
+      *   Mack vs Hadley case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      *   In 2005, two autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County were never disclosed to the Defense (a Brady Violation).
+      *   The Alabama Court of Civil Appeals released a decision on the Rule 32 Petition for a new trial for Murray Lawrence Jr. today (at 1pm).
+
+      THE PIVOT:
+      *   Article 2 provides a specific, legally documented instance (1968 Camaro theft, 2005 non-disclosure) of corruption within the Baldwin County law enforcement structure (Sheriff's Department), substantiating the general "multiple irregularities" cited in the Brookside Alabama Police Department investigation in Article 1.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Fort Morgan Road
+      *   Baldwin Court Services
+      *   Sheriff Mack
+      *   Brookside Alabama Police Department
+      *   Alabama Court of Civil Appeals
+      *   Mark Fuller (Alabama Federal Judge)
+      *   Murray Lawrence Jr.
+    llm_text: Sheriff Mack's department stole a 1968 Camaro and violated Brady rules by hiding 2005 autopsies. See how this proven corruption links to Baldwin County's new jail and police irregularities.
+    text: Sheriff Mack's department stole a 1968 Camaro and violated Brady rules by hiding 2005 autopsies. See how this proven corruption links to Baldwin County's new jail and police irregularities.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T00:29:09.886017Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -6,16 +6,19 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   war:
+    refined_source: f916bc08740e7d975a9cc78212b337986449aa5271ed5878712b2d9952c90475
     brief: |-
       THE CONFLICT: Governor "poison Ivy" used "supreme executive power" to remove ADVA director Admiral Kent Davis, in retaliation against the current veterans board.
       THE DISCOVERY: The state of Alabama is attempting to strip veterans of their current representation by changing the veterans board to an advisory position subordinate to a cabinet member.
       THE PIVOT: The removal of Admiral Kent Davis by the Governor (background event in Article 2) established the political tension that drives the current opposition and the planned VETERANS RALLY (Article 1) against the proposed legislative change.
       KEY ENTITIES: Governor "poison Ivy," Admiral Kent Davis, Alabama Department of Veterans Affairs (ADVA), Montgomery, Alabama State House, February 25th (rally date).
     llm_text: Governor "poison Ivy" retaliated against veterans by removing ADVA Director Admiral Kent Davis. Alabama is trying to strip veterans of their board power; join the VETERANS RALLY in Montgomery on February 25th to fight back.
+    text: Governor Ivey removed ADVA Director Admiral Kent Davis. Alabama attempts to strip veterans of board power; join the VETERANS RALLY in Montgomery on February 25th to fight back.
     widget_date: "2025-02-22"
     generated_at: "2026-11-06T14:56:16.055891Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: 2fae9223be08e457ce550860785ce32d5b0e9bc232c141020d9a412d291a15f8
     brief: |-
       THE CONFLICT:
       1. On February 11, 2025, Governor Kay Ivey fired Veterans Commissioner Kent Davis after Davis filed an ethics complaint with Alabama Ethics Commissioner Kim Boswell.
@@ -38,10 +41,12 @@ hooks:
       8. Ed Oliver (Representative, SB67 Sponsor in House)
       9. Veterans Board
     llm_text: Governor Kay Ivey fired Veterans Commissioner Kent Davis after an ethics complaint, setting the stage for Senate Bill 67. Sponsored by Andrew Jones, this bill strips the Veterans Board of policy authority, giving Ivey sole control over veterans' services.
+    text: Governor Kay Ivey fired Veterans Commissioner Kent Davis after an ethics complaint. Sponsored by Andrew Jones, Senate Bill 67 strips the Veterans Board of authority, giving Ivey control.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:57:22.365845Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: 0ee94239e743a5c5f08b8fd7e242dbdc67e0cdccb784a0fdbade750a0fbc1808
     brief: |-
       THE CONFLICT:
       May 17, 2021, the State of Alabama approved the Compassion Act, a medical cannabis bill allowing qualified patients to receive medical cannabis upon doctor recommendation, driven by the crisis of opioid overdoses and patient suffering.
@@ -62,6 +67,7 @@ hooks:
       Katie Britt (U.S. Senator)
       Chey Garrigan (Founder/President, Alabama Cannabis Industry Association)
     llm_text: Alabama's 2021 Compassion Act was designed to help patients fight opioid overdoses with medical cannabis. Despite its patient-focused intent, bureaucratic failures mean qualified patients still face a legal morass four years later, delaying crucial relief.
+    text: Alabama's 2021 Compassion Act was designed to help patients with medical cannabis. Bureaucratic failures mean qualified patients still face a legal morass four years later.
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T14:58:28.184308Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

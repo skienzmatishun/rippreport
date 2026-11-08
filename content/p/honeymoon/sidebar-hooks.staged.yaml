@@ -1,0 +1,149 @@
+metadata:
+  generated_at: "2026-11-07T10:47:49.910273Z"
+  generator_version: 1.0.0
+  post_slug: honeymoon
+  main_date: "2021-03-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  super-bowl-lv:
+    refined_source: 6d370bc567af3d0d26b9149d677e7630c95aaabafefebc3e7e8e582bf2ea9254
+    brief: |-
+      THE CONFLICT: Robert Brown purchased a "family" property in July 2020 (appraised at 1.6 million, probate filing 1845773). Robert Brown later quit the City Council without notice.
+      THE DISCOVERY: Article 2 addressed the 2020 Presidential election, Super Bowl LV, and the observation of an "insurrection" in the nation's Capital, framing the political climate as highly contested and divided.
+      THE PIVOT: Article 2 establishes the national backdrop of political division and claims of contested elections (2020) which parallels and potentially enables the local political selection process (selection not election) and the undisclosed, timely property transaction by Robert Brown (July 2020) within Fairhope, dominated by CSB interests.
+      KEY ENTITIES: Robert Brown, Jack Burrell, Sherry Sullivan, Kevin Boone, Jay Marblemouth Robinson, CSB, Fairhope, City-Council, Lisa Hanks
+    llm_text: Robert Brown bought a $1.6 million property in Fairhope in July 2020 before suddenly quitting City Council. Does national political division—fueled by 2020 claims—influence this undisclosed deal within CSB-dominated Fairhope?
+    text: Robert Brown bought a $1.6 million property in Fairhope before he quit the City Council. Did national political division influence this undisclosed deal?
+    widget_date: "2021-02-05"
+    generated_at: "2026-11-07T10:45:12.064603Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-big-lie:
+    refined_source: 56acc2c03ed178eda102c4c2833ae014ebae4793be4291853ae76b71b46f43ba
+    brief: |-
+      THE CONFLICT: Vietnam War (1968) cost 55,000 American lives; politicians were lying to veterans and the public regarding the war.
+      THE DISCOVERY: Politicians have a systemic "DNA" for lying, establishing a historical precedent for public deception.
+      THE PIVOT: Article 2 establishes a historical context of pervasive governmental lies, framing the local allegations in Article 1—that Fairhope is being manipulated by CSB—as part of a larger, recurring political pattern rather than an isolated incident.
+      KEY ENTITIES: Robert Brown (purchased property in July 2020 for $1.6 million, probate filing 1845773), Jack Burrell, Jay Marblemouth Robinson, Sherry Sullivan, Kevin Boone, CSB, Fairhope, Baldwin County.
+    llm_text: Did politicians lie about the Vietnam War? They do it again in Fairhope. See how CSB manipulation—like Robert Brown’s $1.6M property purchase—fits a historical pattern of systemic government deception.
+    text: Politicians lied about the Vietnam War and now they hide facts in Fairhope. Scott Boone Consulting and Robert Brown fit this history of government deception.
+    widget_date: "2021-01-15"
+    generated_at: "2026-11-07T10:46:24.355707Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dollars-and-lives:
+    refined_source: 2c2f47201f435717a858cd3772527f810f3dababbd87b076dc02b944f3bf0f8d
+    brief: |-
+      THE CONFLICT: Robert Brown purchased a "family" property in July 2020 for $1.6 million (appraised value) during the municipal elections.
+      THE DISCOVERY: The City of Fairhope's $6.2 million waterfront project was a political issue during the last municipal election, originating with the Wilson administration.
+      THE PIVOT: The waterfront project demonstrates the high-stakes political conflict and potential manipulation (CSB dominance) that Article 1 critiques, showing the underlying issues fueling the current "honeymoon" period and political selection process.
+      KEY ENTITIES: Robert Brown, Jack Burrell, Sherry Sullivan, Jay Robinson, Kevin Boone, CSB, Wilson, Howing Rains
+    llm_text: Robert Brown bought a $1.6 million "family" property in July 2020 amid the highly contested $6.2 million Fairhope waterfront project. See how CSB dominance and political maneuvering fuel the city's current landscape.
+    text: Robert Brown bought a $1.6 million property in July 2020 during the Fairhope waterfront project. Scott Boone Consulting and political networks shape this city landscape.
+    widget_date: "2020-12-05"
+    generated_at: "2026-11-07T10:41:47.158162Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  slap-in-the-face:
+    refined_source: 9f7e219c0999842dce3246af6543467bcb0bf9e6ca125848de9df9478e51de21
+    brief: |-
+      THE CONFLICT: Systemic corruption and official misconduct were observed in Baldwin County, Alabama, around October 2020. Specific historical events included Tripp Pittman and the BP fraud, Chris Elliott's DUI, FEMA fraud in Fairhope, and the McSherry case, where Fairhope municipal attorney Marcus McDowell failed to file charges.
+      THE DISCOVERY: Article 2 (2020-10-17) revealed that the Baldwin County judicial system and elected officials were implicated in widespread corruption, leading to the perception that Alabama is number one in corruption.
+      THE PIVOT: Article 2 established the pre-existing pattern of political corruption and self-interest within Fairhope/Baldwin County (e.g., FEMA fraud, official negligence by Marcus McDowell). This context supports Article 1's claim that the Fairhope political infrastructure is dominated by CSB for self-interest, exemplified by Robert Brown's $1.6 million property purchase in July 2020 during elections.
+      KEY ENTITIES: Robert Brown, Jay Marblemouth Robinson, Jack Burrell, Sherry Sullivan, Kevin Boone, CSB, Fairhope, Baldwin County, Marcus McDowell, Tripp Pittman, Chris Elliott
+    llm_text: Baldwin County officials displayed systemic corruption, from Tripp Pittman’s BP fraud to Marcus McDowell’s failure to file charges. See how Robert Brown used his $1.6 million property purchase to benefit CSB during elections, proving local politics serve self-interest.
+    text: Tripp Pittman faced accusations of fraud, and Marcus McDowell failed to file charges. Robert Brown used his property purchase to help political allies during elections.
+    widget_date: "2020-10-17"
+    generated_at: "2026-11-07T10:47:21.801973Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-quit:
+    refined_source: a60fed2fa661069852893535a110a10dc9a0c707cf66a89d2a88847df8d66401
+    brief: |-
+      THE CONFLICT: Robert Brown quit Fairhope City Council without notice, effective immediately, after serving only 5 months during the 2016/2020 cycle.
+      THE DISCOVERY: The 2016/2020 council was deemed unproductive, with most members (the 3 B's) using public office for personal gain. Council President Jack Burrell admitted he knew Brown might leave for several months.
+      THE PIVOT: Article 2 established that Brown's immediate quit and the subsequent recommendation of Jay Marblemouth Robinson (who did not run for re-election) was seen by observers as a pre-planned "fix" under the direction of CSB, setting the precedent for current "selection not election" tactics detailed in Article 1.
+      KEY ENTITIES:
+      Robert Brown
+      Jack Burrell
+      Jay Marblemouth Robinson
+      Sherry Sullivan
+      Kevin Boone
+      Scott Boone Consulting (CSB)
+      Catalyst
+      Lisa Hanks (City Clerk)
+      July 2020
+      1.6 million (appraised value of property)
+      1845773 (probate filing number)
+    llm_text: Robert Brown quit Fairhope City Council without notice, but observers believe Scott Boone Consulting orchestrated this sudden move. This "selection not election" fix, known by Jack Burrell, sets a dangerous precedent for how local power operates today.
+    text: Robert Brown left the Fairhope City Council without notice. Scott Boone Consulting orchestrated this move, and Jack Burrell knew about the plan.
+    widget_date: "2021-02-26"
+    generated_at: "2026-11-07T10:40:52.348655Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity-2:
+    refined_source: f9a9c422394d119f2ef8b97eb3944bb11d562238e70b9f2e98f82e6e278337ce
+    brief: |-
+      THE CONFLICT:
+      Alabama Republican Governors prioritized political motives and profit over citizen welfare; specifically, Governor Bentley left $3 BILLION on the table in 2015, and Governor Ivy pursued a $3 Billion "private Partnership" prison plan in 2021, resisting Medicaid Expansion.
+
+      THE DISCOVERY:
+      Article 2 revealed systemic state-level financial negligence (potential $15 Billion to $20 Billion lost in Medicaid revenue) resulting from the refusal to expand Medicaid, leading to hospital closures and healthcare neglect in Alabama.
+
+      THE PIVOT:
+      Article 2 provides historical context demonstrating a pattern of political leaders (state and local) using office for self-interest and prioritizing non-public profit over public good, directly mirroring the local control exerted by CSB in Fairhope and the alleged manipulation by the council and mayor.
+
+      KEY ENTITIES:
+      Governor Bentley (2015)
+      Governor Ivy (2021)
+      Alabama Medicaid Program
+      Catalyst/Scott Boone Consulting (CSB)
+      Robert Brown
+      Jay Marblemouth Robinson
+      Jack Burrell
+      Sherry Sullivan
+      Kevin Boone
+      City Clerk Lisa Hanks
+      Fairhope
+      Baldwin County
+      July 2020
+      $1.6 million (appraised value of Brown's property)
+      Probate filing number 1845773
+    llm_text: Alabama Governors Bentley and Ivy lost over $15 billion by blocking Medicaid expansion, prioritizing profit over citizens. Read how this pattern of self-interest mirrors local control issues in Fairhope involving CSB and Robert Brown.
+    text: Governors Bentley and Ivey lost over $15 billion by blocking Medicaid expansion. This pattern of self-interest mirrors local control issues in Fairhope.
+    widget_date: "2021-02-19"
+    generated_at: "2026-11-07T10:44:06.069901Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  secret-society:
+    refined_source: 39b8ebfd7674e439fae4782875b9335a84b2b85d92ce2946e522f178a2da1715
+    brief: |-
+      THE CONFLICT:
+      *   A political cabal in Baldwin County/Fairhope operated under CATALYST, later renamed Scott Boone Consulting (SBC) during the 2020 election cycle.
+      *   SBC successfully elected a Mayor and four councilmen in Fairhope.
+      *   SBC appointed a Municipal Judge (a major developer) and a city attorney loyal to SBC.
+      *   The law firm Hand Anderall Sale was involved in the Triangle Lawsuit, costing taxpayers $3 million in legal fees.
+      *   SBC removed the certified Fairhope Utilities Director and gave the position, plus salary increase, to the Mayor (who lacked engineering experience).
+      *   SBC manipulated the Waterfront project and approved the annexation of Parker Road (1.373 feet) on Monday, January 25, 2021.
+
+      THE DISCOVERY:
+      *   SBC functions as a political cabal controlling Fairhope's city operations and policy through appointments, contracts, and zoning changes, rather than through standard democratic election processes.
+      *   The cabal used political muscle to benefit major developers (e.g., Fly Creek, Publix).
+
+      THE PIVOT:
+      *   Article 2 provides the historical foundation (2020-2021) showing how SBC established total political and financial control in Fairhope via appointments, contracts, and zoning changes, making the current "honeymoon" (Article 1) a continuation of an established system of self-interest and political control, not a spontaneous political maneuver.
+
+      KEY ENTITIES:
+      *   Scott Boone Consulting (CSB/SBC)
+      *   Kevin Boone (Councilman)
+      *   Sherry Sullivan
+      *   Jack Burrell (Mayor)
+      *   Robert Brown (Former City Councilman)
+      *   Jay Marblemouth Robinson
+      *   Hand Anderall Sale
+      *   Fairhope / Baldwin County
+      *   Triangle Lawsuit
+      *   Parker Road / U.S. Highway 98
+      *   Fly Creek / Publix
+      *   July 2020 (Robert Brown property purchase, appraised value $1.6 million)
+      *   Probate filing number 1845773
+      *   January 25, 2021 (Parker Road annexation date)
+    llm_text: Scott Boone Consulting used the 2020 election to install loyalists and manipulate Fairhope zoning, benefiting developers like Publix. See how this political cabal used appointments and the January 25, 2021 Parker Road annexation to secure total self-interest.
+    text: Scott Boone Consulting used the 2020 election to place loyalists in power and change zoning for developers like Publix. This political group secured land through the Parker Road annexation.
+    widget_date: "2021-01-27"
+    generated_at: "2026-11-07T10:42:56.469973Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,147 @@
+metadata:
+  generated_at: "2026-11-07T02:12:05.251335Z"
+  generator_version: 1.0.0
+  post_slug: pot-calling-the-kettle-black
+  main_date: "2022-02-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  happy-days:
+    refined_source: c6ad207ac17e58722887fd001ad9ba8eb16d2b4ea017b2f46bdc92af678efa9e
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000 from B.P. money while serving as trustee, causing Baldwin County to lose millions of B.P. money.
+      THE DISCOVERY: Systemic corruption in Baldwin County includes the Attorney General using illegal PAC funds, Tom Albritton (Ethics Executive Director) skimming entrusted trust funds, and political maneuvering (Pittman enabling Sheriff Hoss Mack, Elliott/Mack connection) leading to the $65 million Hoss Mack Judicial Center jail in Bay Minette.
+      THE PIVOT: Article 2 establishes that corruption is deeply systemic and involves the abuse of accountability agencies (like the Ethics Commission and AG's office), providing crucial context for Article 1’s specific allegations against Tripp Pittman and the ethical conflict concerning Tom Albritton.
+      KEY ENTITIES: Tripp Pittman, Tom Albritton, Sheriff Hoss Mack, State Senator Elliott, B.P., Jeff Poor show, Alabama Political Reporter, Fairhope, Baldwin County.
+    llm_text: Former State Senator Tripp Pittman took $750,000 from B.P. money while a trustee, costing Baldwin County millions. This specific betrayal reveals deeper systemic corruption involving Tom Albritton and Sheriff Hoss Mack across Baldwin County.
+    text: Tripp Pittman took $750,000 in B.P. money while serving as a trustee. This betrayal links to Tom Albritton and Sheriff Hoss Mack.
+    widget_date: "2022-02-11"
+    generated_at: "2026-11-07T02:07:25.295111Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  perfect-puzzle:
+    refined_source: d708eb94f0f90e56a7a5f866110f81af756b0bce8a50d41c79c9b383ddac8fbf
+    brief: |-
+      THE CONFLICT:
+      *   Judge Johnny Hardwick (Montgomery Circuit Judge) was selected by Chief Justice Tom Parker to preside over ethics cases on November 1st.
+      *   Judge Hardwick recused himself due to a potential conflict of interest.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed systemic corruption in Alabama, including $4.3 million spent on a party house at St. John's, misuse of RSA payments, and land fraud.
+      *   It specifically highlighted that the Director of the Alabama Ethics Commission, Tom Albritton, paid for his children’s college tuition from a charitable trust of which he was a board member.
+
+      THE PIVOT:
+      *   Article 2 established Tom Albritton's ethical breach as a foundational example of compromised oversight.
+      *   Article 1 uses Albritton's established conflict to argue that media ignores high-level corruption (e.g., former Senator Tripp Pittman taking $750,000.00 of B.P. money) because the state's ethical enforcement body is already compromised.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Director, Alabama Ethics Commission)
+      *   Tripp Pittman (Former State Senator)
+      *   Judge Johnny Hardwick
+      *   Chief Justice Tom Parker
+      *   B.P.
+      *   Mabel Amos Trust
+      *   St. John's
+      *   Baldwin County
+      *   Alabama Ethics Commission
+    llm_text: Director Tom Albritton used a board trust to pay his children’s college tuition—a clear ethics breach. This compromise explains how Alabama ignores high-level corruption, like Tripp Pittman taking $750,000 of B.P. money.
+    text: Director Tom Albritton used a board trust to pay college tuition. This ethics breach explains why Alabama ignores high-level corruption.
+    widget_date: "2021-12-08"
+    generated_at: "2026-11-07T02:08:42.920915Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-update:
+    refined_source: 42ccff7b4f7ed5222609363a450e4221fe983e0847ee0b57aa7a313612ccf5d4
+    brief: |-
+      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission, was accused of "self dealing" as a trustee of the Mabel Amos Memorial Fund. This led to Francis Paul Ripp filing a Writ of Mandamus on October 18th.
+      THE DISCOVERY: The Writ of Mandamus targeted Albritton's actions as a trustee and argued he should immediately resign from the Ethics Commission.
+      THE PIVOT: The Writ of Mandamus established the specific ethical conflict (self-dealing/trust mismanagement) that the main article later referenced, adding that Albritton's oversight of a private charitable trust that paid over $100,000 for his kids’ college tuition raises questions about his principles.
+      KEY ENTITIES: Tom Albritton, Francis Paul Ripp, Alabama Ethics Commission, Regions Bank, Mabel Amos Memorial Fund, Judge Johnny Hardwick
+    llm_text: Tom Albritton faced a Writ of Mandamus from Francis Paul Ripp over self-dealing with the Mabel Amos Memorial Fund. Did his $100,000 trust mismanagement for his kids' college warrant his resignation from the Alabama Ethics Commission?
+    text: Francis Paul Ripp filed a Writ of Mandamus against Tom Albritton. Did trust mismanagement for his kids' college warrant his resignation?
+    widget_date: "2021-10-26"
+    generated_at: "2026-11-07T02:09:34.504592Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  this-is-a-test:
+    refined_source: bb5398b8bfb9dae9cd7c62c6dfc47a6c37dcfb32e5a458e52e3b7f7a305de111
+    brief: |-
+      THE CONFLICT:
+      *   Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as trustee, causing Baldwin County to lose millions of B.P. money.
+      *   Tom Albritton, Director of the Alabama Ethics Commission and an attorney, engaged in "Self Dealing" the Mabel Amos Memorial Fund.
+      *   The Ripp Report filed a Writ of Mandamus on October 18th (Article 2 date).
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Albritton received more than $120,000 for his children’s college tuition from the Mabel Amos Memorial Fund, a trust he helped oversee.
+      *   Article 2 also documented that Covington County Circuit Court Judge Ben Bowden benefited $45,000 (2014–2017) from the trust.
+      *   Regions Bank benefited $1 million from the Mabel Amos Memorial Fund.
+
+      THE PIVOT:
+      *   Article 2 provides the concrete, dated evidence of Albritton’s specific self-dealing and financial conflicts of interest, which serves as the factual basis for the broader questions of hypocrisy and ethical breaches raised in Article 1 regarding Albritton’s private charitable trust paying over $100,000 for his children’s college tuition.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Ethics Commission Director)
+      *   Tripp Pittman (Former State Senator)
+      *   Mabel Amos Memorial Fund/Trust
+      *   Judge Ben Bowden (Covington County Circuit Court)
+      *   Judge Michelle Thomasson (Baldwin County Family Court)
+      *   Regions Bank
+      *   Lagniappe
+      *   Rob Holbert
+      *   B.P.
+    llm_text: Ethics Director Tom Albritton used the Mabel Amos Memorial Fund to pay over $120,000 for his children's college tuition. See the concrete evidence of his self-dealing, which also benefited Judge Ben Bowden and Regions Bank, in our latest report.
+    text: Tom Albritton used the Mabel Amos Memorial Fund for tuition payments. Judge Ben Bowden and Regions Bank also benefited from this self-dealing.
+    widget_date: "2021-10-22"
+    generated_at: "2026-11-07T02:06:18.624720Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ugly:
+    refined_source: 6e49b22268fd33f07629f80ec23bf8e52f99bb6e27d9b6c86310aae27d23cd16
+    brief: |-
+      THE CONFLICT: Tom Albritton, Director of the Alabama Ethics Commission, held a private charitable trust which helped pay over $100,000 for his children’s college tuition.
+      THE DISCOVERY: Article 2 established the Mabel Amos Memorial Trust, held at Regions Bank, involved Tom Albritton, and suggested potential federal charges like money laundering, tax evasion, wire fraud, and conspiracy due to oversight failures by the Ethics Commission, Judiciary, and Attorney General.
+      THE PIVOT: Article 2 provided the historical context of Albritton's conflicted trust and the failure of oversight agencies to act, setting the precedent for the hypocrisy and high-level corruption discussed in Article 1, which specifically cited Albritton's trust as a breach of his principles.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Trust, Regions Bank, Tripp Pittman, Jeff Poor, Tommy Gallion, Leigh Manning, Baldwin County, Alabama Ethics Commission
+    llm_text: Tom Albritton, Alabama Ethics Commission Director, used the Mabel Amos Memorial Trust to pay over $100,000 for his children’s tuition. This oversight failure now risks federal charges like money laundering, exposing high-level corruption within Alabama government.
+    text: Tom Albritton used the Mabel Amos Trust to pay over $100,000 in tuition. This oversight failure now risks federal money laundering charges.
+    widget_date: "2021-09-10"
+    generated_at: "2026-11-07T02:10:34.503613Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion-2:
+    refined_source: 8c044cf85f1aba477b36110fb9aeaf07426aa801b8d922b66bac5e7132940593
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, engaged in self-dealing using Mabel Amos’s charitable trust.
+      *   The self-dealing amounted to $120,000.00, violating strict language against self-dealing (section 4941(d) and section 5489) in the trust documentation.
+      *   The Ripp Report filed an Alabama Bar complaint against Albritton.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Albritton's documented financial misconduct and the subsequent Bar complaint.
+      *   The other trustees were John Bell (Regions Bank) and Rick Clifton.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of financial and ethical misconduct by Tom Albritton, providing context for Article 1’s concerns that he is using his position (Ethics Director) to oversee a private charitable trust that pays over $100,000 for his kids’ college tuition.
+      *   This context highlights hypocrisy, as Albritton oversees the ethics system while being accused of personal financial breaches.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
+      *   Mabel Amos (Trustor)
+      *   Tripp Pittman (Former State Senator)
+      *   John Bell (Regions Bank, Trustee)
+      *   Rick Clifton (Trustee)
+      *   B.P. (Source of $750,000.00 funds)
+      *   The Ripp Report (Investigative publication)
+      *   Alabama Ethics Commission
+      *   Alabama Bar
+    llm_text: Ethics Director Tom Albritton engaged in $120,000 self-dealing using Mabel Amos’s charitable trust. The Ripp Report filed an Alabama Bar complaint, exposing how he oversees ethics while committing personal financial breaches.
+    text: Tom Albritton engaged in self-dealing with Mabel Amos trust funds. The Ripp Report filed a bar complaint against him for financial breaches.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-07T02:11:48.108592Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-yes-today:
+    refined_source: 4d4510b3da297036949bddfda1f59b7dc67c9d14ce35b4e52a66da0f381c2074
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while acting as trustee; Baldwin County lost millions of B.P. money due to Pittman and a worthless legislative delegation.
+      THE DISCOVERY: The second article is a local appeal to "Vote YES Today" regarding District Zoning and the number 8.
+      THE PIVOT: Article 2 provides no factual context or evidence related to the political corruption, $1.5 million fraud, or the ethics issues detailed in Article 1.
+      KEY ENTITIES: Tripp Pittman, Tom Albritton (Director of Alabama Ethics Commission), B.P., Jeff Poor show, Alabama Political Reporter, District Zoning and the number 8
+    llm_text: Former State Senator Tripp Pittman stole $750,000 of B.P. money in a multi-million dollar fraud. Before you vote YES on District Zoning and the number 8, understand the deep corruption Pittman created in Baldwin County.
+    text: Tripp Pittman took $750,000 of B.P. money in a large fraud scheme. Voters must understand the deep corruption Pittman created in Baldwin County.
+    widget_date: "2022-02-15"
+    generated_at: "2026-11-07T02:04:44.869579Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

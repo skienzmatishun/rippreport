@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   schools-and-taxes:
+    refined_source: 5bb4080be887ed6eed2e24b941d76a60e0e2b087e23b068c1f7f634670d16dee
     brief: |-
       THE CONFLICT:
       *   2017 incident: McSharry harassed artist Nall Hollis; convicted of "breach of peace" and received 12-month probation.
@@ -44,20 +45,24 @@ hooks:
       *   August 2022 (FY22)
       *   Baldwin County
     llm_text: Senator Trip Pittman misused $750,000 from BP grants while Sheriff Hoss Mack faces immunity issues. Despite collecting $140M+ in local taxes, the BCBOE prioritizes $91k+ supervisor salaries instead of adequate teacher funding.
+    text: Sheriff Hoss Mack holds total immunity while former Senator Trip Pittman misuses $750,000 in BP grant funds. Why does the Baldwin County Board of Education prioritize massive supervisor salaries over school funding?
     widget_date: "2022-08-15"
     generated_at: "2026-11-06T21:01:31.312280Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stinking-ticking-time-bomb:
+    refined_source: e0b9e797401c7add8b092664c59241e9a0001b6def4c402aa8dbba9591bb3418
     brief: |-
       THE CONFLICT: Bass sued Burke and Delaney regarding a Ponzi scheme. The civil trial occurred in Judge Jody Bishop's courtroom.
       THE DISCOVERY: Baldwin County Sewer Service (BCSS) is a privately operated, unregulated entity using county right of ways for free, leading to uncontrolled sprawl and rate hikes.
       THE PIVOT: The Strawman case (mentioned in Article 2) revealed business and political connections between major Baldwin County development players, linking the corrupt development issues detailed in Article 2 to the claims of impunity and "Get Out of Jail Cards" detailed in Article 1.
       KEY ENTITIES: Baldwin County Sewer Service (BCSS), Clarence Burke, Delaney, Judge Jody Bishop, Bass, Bellaton Property Owners Association (BPOA), DR Horton, Nall Hollis, McSharry, Ben Reynolds, Chris Elliott, Paula DiNardi, Mayor Mike McMillan, City Magistrate Lyndsey Cooper, Senator Trip Pittman, Steve McMillan, Gov. Bob Riley, Sheriff Hoss Mack, U.S. District Court Judge William Cassady.
     llm_text: Bass sued Burke and Delaney over a Ponzi scheme in Judge Jody Bishop's court, but BCSS's unregulated sprawl shows deeper Baldwin County corruption. See how development players connect to those "Get Out of Jail Cards."
+    text: Brad Bass sued Burke and Delaney over a Ponzi scheme in Judge Jody Bishop's court. How does this financial scandal tie into rampant Baldwin County development?
     widget_date: "2022-08-12"
     generated_at: "2026-11-06T20:59:48.386321Z"
     model_name: plugsky-lite
   howling-rains:
+    refined_source: 32424ef8cbbf7ef080b0380447ea50b77f0a10a4bbedbdd2f9a9c6126e6196c7
     brief: |-
       THE CONFLICT:
       2008 and 2012 municipal elections in Fairhope were suspected of being rigged.
@@ -95,6 +100,7 @@ hooks:
       Ben Reynolds
       Chris Elliott
     llm_text: Senator Trip Pittman took $750,000 from a BP grant for himself. In Baldwin County, officials like McSharry use "Get Out of Jail Cards," proving a systemic lack of accountability.
+    text: Former Senator Trip Pittman took $750,000 from a BP grant for personal use. How do local officials like Ronan McSharry escape accountability in Baldwin County?
     widget_date: "2020-07-06"
     generated_at: "2026-11-06T21:03:04.099280Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

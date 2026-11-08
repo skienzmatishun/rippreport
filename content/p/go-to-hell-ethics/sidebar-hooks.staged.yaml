@@ -5,33 +5,81 @@ metadata:
   main_date: "2023-01-28"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  license-to-steal:
+    refined_source: 3ddfa4730ea63bb8440b954107ccc55551120c80b2c137b061081add547dc36f
+    brief: |-
+      THE CONFLICT:
+      Steve Marshall stated commitment to fighting corruption on March 15, 2018, and March 20, 2018.
+      Columbia Mayor Rhonda Freeman case (2020-0337 & 0361) was set for August 4, 2021.
+      Sheriff Mike Blakely corruption trial occurred around July 28, 2021.
+
+      THE DISCOVERY:
+      Article 2 reveals past high-profile corruption allegations against Alabama Ethics Commission Director Tom Allbritton (private charitable trust/college tuition) and Vice Chair John Plunk (helping sheriff/disguising political money).
+      Article 2 established that the Ethics Commission itself was under scrutiny for conflicts of interest prior to the Mayor Bob Wills situation.
+
+      THE PIVOT:
+      Article 2 provides historical evidence of systemic integrity failures within the Alabama Ethics Commission (director/vice chair accused of conflicts) which undermines the credibility of Brad Hicks' assertion (in Article 1) that the current arrangement involving Mayor Bob Wills and the Baldwin County Legislative Delegation is not unethical, by showing the oversight body itself has faced serious ethical questions.
+
+      KEY ENTITIES:
+      Mayor Bob Wills
+      Brad Hicks
+      Baldwin County Legislative Delegation
+      Alabama Ethics Commission
+      Steve Marshall
+      Tom Allbritton
+      John Plunk
+      Mayor Rhonda Freeman
+      Alabama Attorney General
+    llm_text: Tom Allbritton and John Plunk faced ethics scrutiny before Mayor Wills' case; this history questions Brad Hicks' claims about Baldwin County. See how Alabama's own Ethics Commission struggled with conflicts.
+    text: Tom Allbritton and John Plunk faced ethics scrutiny long before the Mayor Bob Wills case. Why did the Alabama Ethics Commission struggle so long with basic conflicts of interest?
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-06T20:09:24.703034Z"
+    model_name: plugsky-lite
+  writ-of-mandamus-and-bar-complaint:
+    refined_source: 64a0c5a7f4db66c7d0c0e335d578b368c95ae2ae758759f3472a563569f9647e
+    brief: |-
+      THE CONFLICT: Tom Albritton, Ethics Director, oversaw Mabel Amos Memorial Fund; Albritton's children received scholarships valued at $105,000.
+      THE DISCOVERY: Tom Albritton (Ethics Director) faced complaints (Ethics, Writ of Mandamus, Bar Complaint) regarding self-dealing related to the Mabel Amos Trust in June/July 2021.
+      THE PIVOT: Article 2 establishes a pattern of potential self-dealing and lack of impartiality within the Ethics Commission, casting doubt on Brad Hicks' dismissal of ethics concerns regarding Mayor Bob Wills' lease arrangement in Article 1.
+      KEY ENTITIES: Tom Albritton, Greg Albritton, Mabel Amos Memorial Fund, Brad Hicks, Mayor Bob Wills, Baldwin County Legislative Delegation, Alabama Ethics Commission
+    llm_text: Ethics Director Tom Albritton's children got $105k from the Mabel Amos Fund. This self-dealing raises serious questions about Brad Hicks' handling of Mayor Bob Wills' ethics concerns.
+    text: Ethics Director Tom Albritton's children received $105,000 from the Mabel Amos Fund. How does Brad Hicks handle this blatant self-dealing regarding Mayor Bob Wills?
+    widget_date: "2021-07-15"
+    generated_at: "2026-11-06T20:09:29.956654Z"
+    model_name: plugsky-lite
   stephen-nodine:
+    refined_source: 8496de3dbd8454aba6b5eb6967784acd6a7ad7fed677e01b94e2427e9435dfa1
     brief: |-
       THE CONFLICT: Political prosecution of former Mobile County Commissioner Stephen Nodine for murder in Baldwin County, Alabama (reported around January 28, 2023).
       THE DISCOVERY: Stephen Nodine was involved in a high-profile murder case within the "Bosom of Justice" (Baldwin County).
       THE PIVOT: The history of significant legal and political scandal (Nodine's prosecution) in Baldwin County provides necessary context for subsequent ethical concerns regarding the reduced rent agreement and potential conflicts of interest involving Mayor Bob Wills and the Legislative Delegation.
       KEY ENTITIES: Mayor Bob Wills, Brad Hicks (Baldwin Commission Attorney), Baldwin County Legislative Delegation, Stephen Nodine, 125 D’Olive Street.
     llm_text: Stephen Nodine's murder prosecution in Baldwin County provides a stark history of legal scandal. Readers need this context to understand current ethical concerns involving Mayor Bob Wills and the Legislative Delegation's reduced rent agreement at 125 D'Olive Street.
+    text: Stephen Nodine's murder prosecution exposed deep legal scandals inside Baldwin County. Why do current leaders repeat these ethical failures with Mayor Bob Wills and the legislative rent deal?
     widget_date: "2023-01-27"
     generated_at: "2026-11-06T20:09:56.983209Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mcsharrys-old-flower-handshake:
+    refined_source: 0283e7049c3725c15db97613f596ef0a9fa04357d9f6d4ecec7f51669187ec06
     brief: |-
       THE CONFLICT: Ronan McSharry faced repeated domestic abuse charges, including beating Jennifer Blackwood, in Fairhope; City Attorney Marcus McDowell failed to investigate these charges despite municipal judge Haymes Snedeker ruling he could not convict based on McDowell's evidence.
       THE DISCOVERY: The Widget Article revealed allegations of political and judicial corruption in Fairhope, including Councilman Jack Burrell's friendship with McSharry, Mayor Sullivan's silence on assaults, and surveillance tactics used by John Beck.
       THE PIVOT: The two articles do not share a factual connection; they independently document different instances of local governmental ethical failure—Article 2 detailing judicial/domestic abuse corruption in Fairhope, and Article 1 detailing a potential conflict of interest regarding rent reduction involving Mayor Bob Wills and the Baldwin County Legislative Delegation in Bay Minette.
       KEY ENTITIES: Ronan McSharry, Mayor Bob Wills, Brad Hicks, Baldwin County Legislative Delegation, Marcus McDowell, Mayor Sullivan (Fairhope), John Beck, Jennifer Blackwood, Paula Dinardi, Municipal Judge Haymes Snedeker, Councilman Jack Burrell, 125 D’Olive Street.
     llm_text: Mayor Bob Wills gained rent reductions from the Baldwin County Legislative Delegation. See how this conflict of interest mirrors the deep ethical failures involving Ronan McSharry and Marcus McDowell in Fairhope.
+    text: Mayor Bob Wills secured rent reductions from the Baldwin County Legislative Delegation. Does this cozy conflict mirror ethical failures involving Ronan McSharry and Marcus McDowell?
     widget_date: "2023-01-23"
     generated_at: "2026-11-06T20:11:19.362716Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-black-hole:
+    refined_source: 1a1babe77bc2ba4fe21b663344c9c3d78e595c19ab6ef6f464f0ce04546000cf
     brief: |-
       THE CONFLICT: Complaint filed July 16 2021 by Francis Paul Ripp against Ethics Executive Director Tom Albritton; original complaints implicated Lawyers, a Judge, Council President, councilman, and a mayor.
       THE DISCOVERY: Article 2 details allegations of self-dealing involving Tom Albritton as trustee of the Mabel Amos trust (established after 2010 oil discovery on Mabel Amos land); specific instances include Circuit Judge Ben Bowden receiving $45,000 for his children's scholarships and Albritton failing to disclose his trustee role and enjoying $120,000 in spared family expenses.
       THE PIVOT: Article 2 establishes a historical pattern of unethical behavior and systemic cover-ups by Ethics Commission figures (Albritton/Cynthia Raulston) and the Alabama Bar, providing context for the current situation where Brad Hicks (Baldwin Commission Attorney) dismisses ethics concerns regarding Mayor Bob Wills' lease arrangement, suggesting a culture of impunity in Baldwin County.
       KEY ENTITIES: Brad Hicks, Mayor Bob Wills, Baldwin County Legislative Delegation, Tom Albritton, Cynthia Raulston, Francis Paul Ripp, Clark Morris, Mabel Amos, Steve Marshall, Alabama Ethics Commission, Alabama Bar, 125 D’Olive Street, 2015, 2021, 2027
     llm_text: Francis Paul Ripp sued Tom Albritton over self-dealing involving the Mabel Amos trust, including $45k to Judge Ben Bowden. See how this history of cover-ups shows a culture of impunity in Baldwin County.
+    text: Francis Paul Ripp sued Tom Albritton over self-dealing involving the Mabel Amos trust and payments to Judge Ben Bowden. What does this deep cover-up reveal about Baldwin County impunity?
     widget_date: "2022-10-21"
     generated_at: "2026-11-06T20:09:11.832181Z"
     model_name: plugsky-lite
@@ -82,54 +130,19 @@ hooks:
       - Lagniappe.
       - 125 D’Olive Street / D’Olive Street.
     llm_text: Brad Hicks says Baldwin County saw no ethics violation as Mayor Bob Wills rented office space to the legislative delegation. Days later, the delegation cut that taxpayer-funded rent from $4,090 to $1,750, and Francis Ripp calls the suspicious move a dangerous precedent.
+    text: Brad Hicks says Baldwin County saw no ethics violation as Mayor Bob Wills rented office space to the legislative delegation. Days later, the delegation cut that taxpayer-funded rent from $4,090 to $1,750, and Francis Ripp calls the suspicious move a dangerous precedent.
     widget_date: "2021-10-26"
     generated_at: "2026-11-06T20:10:19.525746Z"
     model_name: recursive/flint-v1.0:free
   your-rights-your-money:
+    refined_source: 1bd71f7ad287055bdf926630ff080552676bf2aa8583fa435951552b2f20b45f
     brief: |-
       THE CONFLICT: 2017 traffic stop and fatal shooting in Baldwin County; Alabama Supreme Court rejected Lagniappe request for public release of details regarding the 2017 shooting.
       THE DISCOVERY: BCSO received $662,597.00 for 129 body cameras approved by County Commission, intended for transparency.
       THE PIVOT: Article 2 establishes historical lack of accountability/transparency within BCSO under Sheriff Mack, providing context for current scrutiny of local officials like Mayor Bob Wills.
       KEY ENTITIES: Baldwin County, BCSO, Huey Mack (Hoss Mack), Alabama Supreme Court, Lagniappe, Bob Wills, Brad Hicks, Mayor Bob Wills, Alabama Ethics Commission, Tom Albritton, Covington County Circuit Court Judge Ben Bowden, State Senator Tripp Pittman.
     llm_text: The Alabama Supreme Court blocked details from the 2017 Baldwin County shooting, despite BCSO receiving nearly $663K for body cameras. See how this lack of transparency under Sheriff Mack connects to current scrutiny of Mayor Bob Wills.
+    text: The Alabama Supreme Court blocked details from a 2017 Baldwin County shooting despite the Sheriff's Office receiving $663,000 for body cameras. Where is the transparency under Sheriff Hoss Mack?
     widget_date: "2021-09-27"
     generated_at: "2026-11-06T20:09:17.565956Z"
-    model_name: plugsky-lite
-  license-to-steal:
-    brief: |-
-      THE CONFLICT:
-      Steve Marshall stated commitment to fighting corruption on March 15, 2018, and March 20, 2018.
-      Columbia Mayor Rhonda Freeman case (2020-0337 & 0361) was set for August 4, 2021.
-      Sheriff Mike Blakely corruption trial occurred around July 28, 2021.
-
-      THE DISCOVERY:
-      Article 2 reveals past high-profile corruption allegations against Alabama Ethics Commission Director Tom Allbritton (private charitable trust/college tuition) and Vice Chair John Plunk (helping sheriff/disguising political money).
-      Article 2 established that the Ethics Commission itself was under scrutiny for conflicts of interest prior to the Mayor Bob Wills situation.
-
-      THE PIVOT:
-      Article 2 provides historical evidence of systemic integrity failures within the Alabama Ethics Commission (director/vice chair accused of conflicts) which undermines the credibility of Brad Hicks' assertion (in Article 1) that the current arrangement involving Mayor Bob Wills and the Baldwin County Legislative Delegation is not unethical, by showing the oversight body itself has faced serious ethical questions.
-
-      KEY ENTITIES:
-      Mayor Bob Wills
-      Brad Hicks
-      Baldwin County Legislative Delegation
-      Alabama Ethics Commission
-      Steve Marshall
-      Tom Allbritton
-      John Plunk
-      Mayor Rhonda Freeman
-      Alabama Attorney General
-    llm_text: Tom Allbritton and John Plunk faced ethics scrutiny before Mayor Wills' case; this history questions Brad Hicks' claims about Baldwin County. See how Alabama's own Ethics Commission struggled with conflicts.
-    widget_date: "2021-07-28"
-    generated_at: "2026-11-06T20:09:24.703034Z"
-    model_name: plugsky-lite
-  writ-of-mandamus-and-bar-complaint:
-    brief: |-
-      THE CONFLICT: Tom Albritton, Ethics Director, oversaw Mabel Amos Memorial Fund; Albritton's children received scholarships valued at $105,000.
-      THE DISCOVERY: Tom Albritton (Ethics Director) faced complaints (Ethics, Writ of Mandamus, Bar Complaint) regarding self-dealing related to the Mabel Amos Trust in June/July 2021.
-      THE PIVOT: Article 2 establishes a pattern of potential self-dealing and lack of impartiality within the Ethics Commission, casting doubt on Brad Hicks' dismissal of ethics concerns regarding Mayor Bob Wills' lease arrangement in Article 1.
-      KEY ENTITIES: Tom Albritton, Greg Albritton, Mabel Amos Memorial Fund, Brad Hicks, Mayor Bob Wills, Baldwin County Legislative Delegation, Alabama Ethics Commission
-    llm_text: Ethics Director Tom Albritton's children got $105k from the Mabel Amos Fund. This self-dealing raises serious questions about Brad Hicks' handling of Mayor Bob Wills' ethics concerns.
-    widget_date: "2021-07-15"
-    generated_at: "2026-11-06T20:09:29.956654Z"
     model_name: plugsky-lite

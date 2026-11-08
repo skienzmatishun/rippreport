@@ -1,0 +1,148 @@
+metadata:
+  generated_at: "2026-11-07T12:15:25.839095Z"
+  generator_version: 1.0.0
+  post_slug: alabama-suicide
+  main_date: "2021-01-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature:
+    refined_source: 2e3400587984320a09d5d769d538f18c5fe569d0a4e3279fec0d6057b68191be
+    brief: |-
+      THE CONFLICT: January 6th assault on the U.S. Capital following President Trump’s rally; Electoral College confirmed Biden/Harris win despite the insurrection.
+      THE DISCOVERY: The Medical Marijuana Bill (from the older Widget Article) represented prior legislative focus in Alabama.
+      THE PIVOT: The older legislative activity (Medical Marijuana Bill) provides historical context on Alabama's political priorities and focus before the January 6th crisis, highlighting a pattern of local political activity preceding the national political fallout.
+      KEY ENTITIES: Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, Tommy Tuberville, Richard Shelby, Mitch McConnell, President Trump, Rudy Giuliani, Alabama.
+    llm_text: Alabama prioritized a Medical Marijuana Bill, not just national drama. This local focus offers critical context on Alabama's political priorities before the January 6th crisis.
+    text: Alabama prioritized a medical marijuana bill ahead of national political dramas. This local legislative push offers critical context on state priorities before the January 6th crisis unfolded.
+    widget_date: "2020-02-19"
+    generated_at: "2026-11-07T12:14:08.008337Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  puzzle-pieces:
+    refined_source: 334b8f296a77577a241523e7b7ca8cc095225742086cde06e511f0be280c1523
+    brief: |-
+      THE CONFLICT:
+      *   In 2006, Governor Bob Riley reportedly turned down or shelved a United Arab Emirates (UAE) deal regarding a container terminal in the Port of Mobile.
+      *   Currently, Governor Kay Ivey is pushing for high taxes and a toll bridge (I-10 Bayway) financed by a 2.1 billion dollar P3 partnership scheme.
+      *   The underlying suspicion is a 20+ year conspiracy to secretly lease the Port of Mobile to the UAE, similar to "Project Pelican" (Port Canaveral, Florida) and a 50-year lease in Wilmington, Delaware.
+
+      THE DISCOVERY:
+      *   Article 2 reveals historical precedents (2006, Florida, Delaware) suggesting Alabama politicians may be facilitating a long-term, secretive port lease to the UAE via Gulftainer, rather than just managing an infrastructure project.
+      *   The I-10 bridge project is potentially a mechanism to facilitate massive container ships (over 1000 feet long) and is tied to the state's gas tax revenue.
+
+      THE PIVOT:
+      *   Article 1 criticizes Alabama politicians (Tuberville, Moore, Rogers, Carl, Aderholt, Palmer) for political self-sabotage following the Jan 6th insurrection.
+      *   Article 2 provides context that the state's political actions (e.g., Ivey's tax/toll legislation, focus on the I-10 bridge) may not be purely political posturing, but rather part of a massive, secretive economic conspiracy involving foreign entities (UAE/Gulftainer) that risks the long-term economic sovereignty of Alabama.
+
+      KEY ENTITIES:
+      *   Bob Riley (Governor, 2006)
+      *   Kay Ivey (Governor)
+      *   Gulftainer (UAE company, owned by Dubai royal family)
+      *   Tommy Tuberville (Senator)
+      *   Barry Moore (Congressman)
+      *   Mike Rogers (Congressman)
+      *   Jerry Carl (Senator)
+      *   Robert Aderholt (Congressman)
+      *   Gary Palmer (Senator)
+      *   I-10 Toll Bridge / I-10 Bayway
+      *   Port of Mobile / Choctaw Point
+      *   United Arab Emirates (UAE)
+      *   Project Pelican (Florida/Port Canaveral)
+      *   Richard Shelby
+      *   Mitch McConnell
+      *   Richard Clark (Deputy Director, Alabama Port Authority)
+    llm_text: Bob Riley shelved a 2006 UAE port deal, but Governor Kay Ivey now pushes the $2.1B I-10 Bayway toll bridge. Investigators suggest this massive infrastructure push facilitates a secret, long-term lease of the Port of Mobile to the UAE via Gulftainer.
+    text: Bob Riley blocked a UAE port deal in 2006, but Governor Kay Ivey pushed a $2.1 billion Bayway toll bridge. Investigators suggest this infrastructure project facilitates a lease of the Port of Mobile.
+    widget_date: "2019-08-24"
+    generated_at: "2026-11-07T12:09:31.250904Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  poison-ivy-bridge:
+    refined_source: 04f8aa0cb67514d064a2835997e12857fbbcd97e287ce548634aab559cde4db9
+    brief: |-
+      THE CONFLICT: Mobile River Bridge toll controversy and the misuse of the BP settlement.
+      THE DISCOVERY: The State of Alabama misused the billion+ dollar BP settlement funds for Goat Hill mistakes, a Hotel, and refurbishing the Governor’s Beach House, instead of investing in Mobile and Baldwin County infrastructure.
+      THE PIVOT: Article 2 establishes a historical pattern of political corruption, poor strategic planning, and lack of accountability within Alabama leadership, providing context for the lack of foresight and self-destructive political choices made by Congressmen and Senator Tuberville regarding the January 6th insurrection and Electoral College contest.
+      KEY ENTITIES: Mayor Karin Wilson, State Senator Chris Elliott, State Senator Pittman, Tommy Tuberville, Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, Richard Shelby, Mitch McConnell, President Trump.
+    llm_text: Alabama leadership misused the billion-dollar BP settlement, funding hotels and a beach house instead of fixing the Mobile River Bridge. This pattern of corruption reveals deep flaws in state planning, linking local graft to major political failures like Tommy Tuberville’s actions.
+    text: Alabama leaders spent a billion-dollar BP settlement on hotels and a beach house instead of fixing the Mobile River Bridge. This graft links local spending failures to national political figures.
+    widget_date: "2019-08-16"
+    generated_at: "2026-11-07T12:15:11.792307Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-65-happy-new-year-goodbye-2020:
+    refined_source: 2c5114d02c65b5acd4c4e2e1a855cea5b9084d8cc7d963816b48e700adf0afa5
+    brief: |-
+      THE CONFLICT:
+      1. January 6th involved a rally by President Trump, where participants were incited by Trump and Rudy Giuliani to "Take it to the State House."
+      2. The assault on the Capitol delayed the Electoral College confirmation of the Biden/Harris win.
+      3. Alabama politicians, including Tommy Tuberville, Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, and Gary Palmer, raised their hands to contest the Electoral College.
+      4. A Georgia Senate runoff occurred on January 6, 2021.
+
+      THE DISCOVERY:
+      1. The US had topped 30 million SARS-COV-2 cases and suffered 350,000 deaths.
+      2. The US Senate voted to override Trump's veto of the National Defense Appropriation Bill, limiting his withdrawal powers.
+      3. Justice Lyn Stuart received the Howell Heflin Award.
+      4. Dr. Robert Bentley received the vaccine.
+
+      THE PIVOT:
+      1. Article 2 establishes the concurrent national crisis (COVID-19 health crisis and political/military actions like the appropriation bill override) that provided the volatile backdrop for the January 6th insurrection and the ensuing political instability detailed in Article 1.
+      2. The Georgia Senate runoff noted in Article 2 confirms the immediate political shift mentioned in Article 1 (Georgia electing two Democrats).
+
+      KEY ENTITIES:
+      1. Barry Moore
+      2. Mike Rogers
+      3. Jerry Carl
+      4. Robert Aderholt
+      5. Gary Palmer
+      6. Tommy Tuberville
+      7. Justice Lyn Stuart
+      8. Dr. Robert Bentley
+      9. Trump
+      10. Rudy Giuliani
+      11. Biden/Harris
+      12. Georgia
+      13. SARS-COV-2
+      14. Howell Heflin Award
+      15. National Defense Appropriation Bill
+    llm_text: Trump and Rudy Giuliani incited the January 6th assault on the Capitol, which Alabama politicians like Tommy Tuberville contested. How did the concurrent SARS-COV-2 crisis and the Senate overriding the National Defense Appropriation Bill fuel this massive political instability?
+    text: Donald Trump and Rudy Giuliani faced scrutiny over the January 6th Capitol riot that Alabama politicians like Tommy Tuberville contested. The SARS-COV-2 crisis fueled widespread political instability.
+    widget_date: "2021-01-02"
+    generated_at: "2026-11-07T12:07:57.608403Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  columbia-questions-and-documents:
+    refined_source: 23ff8d47d0c4498c32842c9527eae2afa423bc8d6154e7de0ed59c3ee36ee6a5
+    brief: |-
+      THE CONFLICT: Municipal corruption in Columbia, Alabama, involved allegations of bid rigging, FEMA fraud, fraudulent bids, and misuse of town funds (e.g., purchasing flowers/gift baskets) by the Columbia City Council, Mayor, Police Chief, and City Attorney.
+      THE DISCOVERY: Supporting documents and witnesses existed (held by James Whitehead) detailing these felonies, but they were ignored by the Mayor, City Council, Alabama Attorney General, and press.
+      THE PIVOT: Article 2 establishes a historical pattern of unaccountability and political corruption within Alabama local government, validating Article 1's assertion that Alabama lacks transparency and is "the most politically corrupt state in the United States," providing context for the recent actions of Alabama politicians.
+      KEY ENTITIES: Columbia, Alabama; Fairhope; James Whitehead; Columbia City Council; Mayor; Police Chief; Alabama Attorney General; Barry Moore; Mike Rogers; Jerry Carl; Robert Aderholt; Gary Palmer; Tommy Tuberville; Richard Shelby; Mitch McConnell; President Trump; Rudy Giuliani.
+    llm_text: Columbia, Alabama, officials—including the Mayor and City Council—allegedly committed bid rigging and FEMA fraud. James Whitehead held the evidence, revealing a pattern of unaccountability that proves Alabama lacks local government transparency.
+    text: Columbia, Alabama, officials committed bid rigging and FEMA fraud according to local records. James Whitehead preserved the evidence, exposing a complete lack of transparency in local government.
+    widget_date: "2020-12-23"
+    generated_at: "2026-11-07T12:10:47.934342Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-corruption-insurance:
+    refined_source: 599c4c18144de772806f83668ff854c919e29f6aad478121de8d8b1481a80bfa
+    brief: |-
+      THE CONFLICT: Alleged corruption in Columbia, Alabama (Mayor and Chief of Police); State Representative Mike Ball proposed AL HB179 to mandate Alabama Ethics Commission approval for prosecutors; Political corruption is noted in Fairhope, Mobile, Jefferson County, and Bay Minette.
+
+      THE DISCOVERY: Alabama Corruption Insurance is a free mechanism available to all elected officials (Sheriff, City Council, Judges, Mayors) provided by the Governor, Attorney General, Judiciary, Bar Association, and Alabama Ethics Commission.
+
+      THE PIVOT: The pre-existing institutional immunity (Alabama Corruption Insurance) and lack of transparency/accountability (A2) explain the inability of Alabama politicians to be held accountable for their actions during the January 6th insurrection and contestation of the Electoral College (A1).
+
+      KEY ENTITIES: Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, Tommy Tuberville, Richard Shelby, Mitch McConnell, Rudy Giuliani, Mo Brooks, President Trump, Biden/Harris, Alabama Ethics Commission, Mike Ball, Columbia, Fairhope, Alabama Bar Association, Alabama Attorney General.
+    llm_text: Alleged corruption hits Columbia, Alabama, involving the Mayor and Chief of Police. Read how free Alabama Corruption Insurance shields officials, blocking the accountability Rep. Mike Ball demands across the state.
+    text: Alleged corruption involves the Mayor and Chief of Police in Columbia, Alabama. State immunity shields local officials and blocks the public accountability demanded by Representative Mike Ball.
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-07T12:13:06.141364Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  first-congressional-district:
+    refined_source: 2a574296ee935837b3f127928326295c9688990dd4c6a252690bdf90a14a006d
+    brief: |-
+      THE CONFLICT: January 6th resulted in an assault on the Capital and the Electoral College confirmed the Biden/Harris win.
+      THE DISCOVERY: In July 2020, the AL-1 Congressional District race featured Jerry Carl against "Lowtower" (Catalyst), reflecting a split between the activist and business wings of the Republican Party.
+      THE PIVOT: Article 2 establishes Jerry Carl's political backing (Business Council of Alabama, Alabama Farmers Federation) and pre-existing political identity *before* the January 6th insurrection, providing context for his later decision (in Article 1) to contest the Electoral College.
+      KEY ENTITIES: Jerry Carl, Tommy Tuberville, Barry Moore, Mike Rogers, Robert Aderholt, Gary Palmer, Richard Shelby, Mitch McConnell, Business Council of Alabama, Alabama Farmers Federation, Byrne, Catalyst, Lowtower
+    llm_text: Jerry Carl already represented the business wing of the GOP in 2020, backed by the Business Council of Alabama. Read how this pre-January 6th identity shaped his later Electoral College challenge.
+    text: Jerry Carl represented the business wing of the Republican Party in 2020 with backing from the Business Council of Alabama. This political alignment shaped his later Electoral College challenges.
+    widget_date: "2020-07-02"
+    generated_at: "2026-11-07T12:11:53.785852Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,147 @@
+metadata:
+  generated_at: "2026-11-07T15:58:57.555284Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-missing-in-action
+  main_date: "2020-08-22"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  catalyst-bullies:
+    brief: |-
+      THE CONFLICT: Over the previous four years (leading up to the local elections), Mayor Karin Wilson battled a hostile city council faction known as the "3 B’s" (Councilmen Burrell, Boone, and Brown) and a political consulting group called CATALYST / Scott Boone Consulting (CSB), run by Councilman Boone's son, Scott Boone. This faction pushed back against the Mayor, backed special interests (developers, Baldwin County Sewer, dark money), and used City Attorney Marcus McDowell to protect allies—such as failing to file assault charges against Ronan McSharry to let the statute of limitations expire. Meanwhile, Councilman Boone's son improperly accessed confidential city executive committee details, and the faction aligned to support mayoral candidate Sherry Sullivan to unseat Mayor Wilson and regain control of Fairhope's local government.
+
+      THE DISCOVERY: Article 2 exposed the shadow network of special interests, political operatives, and compromised municipal officials (specifically naming CSB, Scott Boone, City Attorney Marcus McDowell, and Ronan McSharry) orchestrating a coordinated opposition against Mayor Karin Wilson over a four-year term to reinstall a pro-corruption rubber stamp on the city.
+
+      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it unmasks the exact political machinery—the "CATALYST" network of Burrell, Boone, Brown, Marcus McDowell, and Scott Boone—that mayoral candidate Sherry Sullivan is tied to. While Article 1 critiques Sullivan's poor COVID-19 judgment and her evasion of public forums, Article 2 proves she is the handpicked proxy of this corrupt special-interest group working to defeat Mayor Wilson.
+
+      KEY ENTITIES:
+      - Karin Wilson (Mayor of Fairhope)
+      - Sherry Sullivan (Mayoral Candidate)
+      - Burrell (City Councilman / "3 B's")
+      - Boone (City Councilman / "3 B's")
+      - Brown (City Councilman / "3 B's")
+      - Scott Boone (Head of CATALYST / Scott Boone Consulting / Councilman Boone's son)
+      - Marcus McDowell (City Attorney / CATALYST supporter)
+      - Ronan McSharry (Burrell's best friend)
+      - Tim Cant (Former corrupt rubber stamp official, 16-year tenure)
+      - Common Sense Campaign (Political forum host)
+    llm_text: Mayor Karin Wilson’s foes—the "3 B's" and consultant Scott Boone—spent four years weaponizing City Attorney Marcus McDowell to protect allies and attack her administration. Read how this exact corrupt CATALYST network handpicked Sherry Sullivan to seize City Hall and defeat Wilson.
+    text: Mayor Karin Wilson’s foes—the "3 B's" and consultant Scott Boone—spent four years weaponizing City Attorney Marcus McDowell to protect allies and attack her administration. Read how this exact corrupt CATALYST network handpicked Sherry Sullivan to seize City Hall and defeat Wilson.
+    widget_date: "2020-08-15"
+    generated_at: "2026-11-07T15:57:00.800914Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-ass-whoopin:
+    brief: |-
+      THE CONFLICT: In the past (leading up to the July 23 candidate qualifying deadline), the political faction known as CATALYST (operating as Scott Boone Consulting) suffered a major defeat when their endorsed First Congressional Seat candidate, Carl Hightower ("Lowtower"), lost the runoff election to Jerry Carl by 3,873 votes, driven by a massive voter shift of roughly 2,000 to 2,500 Baldwin County votes away from Catalyst. Concurrently, CATALYST scrambled to field candidates for the upcoming Fairhope municipal elections, turning to Sherry Sullivan to run for Mayor after discarding plans to back John Melones, while incumbent Mayor Karin Wilson clashed with CATALYST-aligned council members (specifically the "Three B's": Boone, Brown, and Burrell) over public safety decisions like the 200,000-attendee Arts and Crafts Festival during the COVID-19 pandemic.
+
+      THE DISCOVERY: Article 2 revealed that the political group CATALYST was actively orchestrating local elections behind the scenes, pressuring figures like Sherry Sullivan to "fall on the sword" as their mayoral proxy to protect the status quo and the interests of Scott Boone Consulting, despite her initial hesitation and existing baggage.
+
+      THE PIVOT: Article 2 serves as the smoking gun because it exposes Sherry Sullivan not as an independent candidate, but as a recruited operative for the defeated political machine CATALYST/Scott Boone Consulting—directly explaining the poor judgment, avoidance of public forums, and reckless COVID-19 policies (such as promoting the Arts and Crafts Show and handing out unmasked football fans) criticized in Article 1 as a continuation of CATALYST's self-serving agenda over citizen safety.
+
+      KEY ENTITIES:
+      - Sherry Sullivan (Fairhope Mayoral Candidate)
+      - Karin Wilson (Incumbent Fairhope Mayor)
+      - Jerry Carl (Congressman-elect)
+      - Carl Hightower / "Lowtower" (Former Congressional Candidate)
+      - Scott Boone / Scott Boone Consultant (SBC)
+      - Burrell (City Council Member / One of the "Three B's")
+      - Brown (City Council Member / One of the "Three B's")
+      - Boone (City Council Member / One of the "Three B's")
+      - Jay Robinson (City Council Member)
+      - Jimmy Conyers (City Council Member)
+      - Kant / Cant (Former Mayor)
+      - John Melones (Potential Mayoral Candidate)
+      - Chief Pettis
+      - Common Sense Campaign
+      - Baldwin County Citizens for Government Accountability (CGA)
+    llm_text: Did Scott Boone Consulting really force Sherry Sullivan into the Fairhope mayoral race as a proxy after their crushing congressional defeat? Read how the secretive CATALYST machine orchestrated local elections to protect their own agenda over public safety during the pandemic.
+    text: Did Scott Boone Consulting really force Sherry Sullivan into the Fairhope mayoral race as a proxy after their crushing congressional defeat? Read how the secretive CATALYST machine orchestrated local elections to protect their own agenda over public safety during the pandemic.
+    widget_date: "2020-07-17"
+    generated_at: "2026-11-07T15:57:07.864492Z"
+    model_name: gemini-3.5-flash-lite
+  freaky-fairhope:
+    refined_source: 7b680f4833050e08fe2381764e0a6ddc5abb838a743ebd6199aae185b9673700
+    brief: |-
+      THE CONFLICT: Sherry Sullivan, a mayoral candidate, skipped the Fairhope political forum hosted by Common Sense Campaign while attending the Spanish Fort vs Fairhope high school football game where she distributed fans to unmasked, non-social-distancing attendees. The football event occurred "last night" with "stands full" and "social distancing impossible," violating pandemic protocols.
+
+      THE DISCOVERY: The Widget Article reveals a 2020 municipal scandal where State Senator Boom Boom Pittman and Mayor Cant orchestrated $639,000 BP fraud in Fairhope in 2010, with the current BP-linked candidate ("HOWLING RAINS" via CATALYST/Scott Boone Consulting) exploiting this history to distract from corruption.
+
+      THE PIVOT: Article 2 proves Sullivan's current behavior mirrors past corruption patterns - while Mayor Wilson canceled the dangerous Arts and Crafts Show ($1.7M city surplus) for public safety, Sullivan promoted unvetted events (Arts and Crafts Show attracting 200,000 people) against medical advice, demonstrating consistent prioritization of profit over citizen health.
+
+      KEY ENTITIES: Sherry Sullivan, Mayor Wilson, Common Sense Campaign, Spanish Fort, Fairhope High School, State Senator Boom Boom Pittman, Mayor Cant, BP, CATALYST, Scott Boone Consulting, Howling Rains, Boone, Brown, Burrell
+    llm_text: Mayoral candidate Sherry Sullivan skipped the Common Sense Campaign forum to hand out fans at a crowded Spanish Fort vs Fairhope football game, ignoring pandemic protocols and social distancing rules. While Mayor Wilson canceled the Arts and Crafts Show to protect public health, Sullivan promoted unvetted events drawing 200,000 people—showing a dangerous pattern of putting profit before citizen safety.
+    text: Sherry Sullivan skipped a public forum to hand out fans at a crowded football game, ignoring health rules. She put crowd events before citizen safety during a pandemic.
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T15:57:13.593640Z"
+    model_name: plugsky-lite
+  fairhope-voters-guide:
+    brief: |-
+      THE CONFLICT:
+      - 2016 Fairhope municipal election: Incumbent Mayor Timothy Kant defeated by a 400-plus vote margin by Karin Wilson, Fairhope's first female mayor, after the Alabama Secretary of State's Office Elections Division sent a legal representative to oversee voting and vote counting due to numerous complaints of election tampering during the 2008 and 2012 voting cycles.
+      - Post-2016: Mayor Karin Wilson, a political novice at the time, lacked a single friend on the city council; the council was made up of five individuals selected by the previous mayor; described as "good ole boys" aligned with CATALYST; council thwarted mayor's efforts to improve planning, growth management, and wastewater/storm water infrastructure.
+      - Sherry Sullivan was part of the corrupt administration voted out in 2016; the CATALYST candidate for Mayor was a fired disgruntled employee who sued the city, with limited experience, no accomplishments, a high school education, and sponsored by CATALYST/Scott Boone and Kevin Boone.
+
+      THE DISCOVERY:
+      - Article 2 (Fairhope Voters Guide) revealed background context: the 2016 election was chaperoned by the Alabama Secretary of State; complaints of election tampering during 2008 and 2012 were received; the incumbent mayor of 16 years was defeated by the city's first woman head of state.
+      - Article 2 detailed alleged CATALYST corruption: Airport, bid rigging, Triangle lawsuit, voting himself full family insurance, purchase of 2.65 million in farmland as recreational property and leasing it back to farmers for 9,000 a year; Burrell's trail of corruption.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/context for Article 1 because it establishes the 2016 election tampering background and the CATALYST political machine behind Sherry Sullivan, framing Article 1's criticisms of Sullivan's judgment (skipping the Common Sense Campaign forum, suggesting Mayor Wilson handled scheduling, promoting the Arts and Craft Show with over 200,000 attendees despite doctors from Thomas advising against it, "take a chance" comment with Burrell and Boone, mask/social distancing enforcement failure at Spanish Fort vs. Fairhope football game) as part of a prior pattern of bad decisions.
+      - Article 2's disclosure of Sullivan's 2016 corrupt administration supports Article 1's claim of a "consistent pattern of bad decisions" and Sullivan's lack of "Mayor material."
+
+      KEY ENTITIES:
+      - Sherry Sullivan
+      - Karin Wilson
+      - Timothy Kant
+      - Jack Burrell
+      - Deb Hopkins
+      - Kevin Boone
+      - Scott Boone
+      - Joshua Gammon
+      - Robert Brown
+      - Howell Gibbens
+      - Common Sense Campaign
+      - CATALYST
+      - Baldwin County
+      - Alabama Secretary of State Elections Division
+      - Fairhope City Council
+      - Spanish Fort
+      - Fairhope High School
+      - Thomas (Doctors)
+      - August 25 (mayoral election day referenced in Article 2)
+    llm_text: Fairhope's first female mayor, Karin Wilson, ousted Mayor Timothy Kant in 2016 after the Alabama Secretary of State oversaw a vote count rocked by tampering complaints. A widget article ties those CATALYST allegations to Sherry Sullivan's bad calls, exposing a pattern before voters trust her again.
+    text: Fairhope's first female mayor, Karin Wilson, ousted Mayor Timothy Kant in 2016 after the Alabama Secretary of State oversaw a vote count rocked by tampering complaints. A widget article ties those CATALYST allegations to Sherry Sullivan's bad calls, exposing a pattern before voters trust her again.
+    widget_date: "2020-08-20"
+    generated_at: "2026-11-07T15:57:19.701683Z"
+    model_name: recursive/flint-v1.0:free
+  fairhope-going-backwards:
+    refined_source: ee50a992e6f2722c45896b9ddb5b00e424aaac26a771b39d819e3efa9968dc1f
+    brief: "THE CONFLICT:\n- In 2020, a political struggle emerged in Fairhope regarding the influence of \"CATALYST,\" an organization run by Councilman Kevin Boone’s son, Scott Boone.\n- The \"Three B's\"—incumbent City Council members Jack Burrell, Kevin Boone, and Robert Brown—were accused of using their offices for personal gain and seeking a \"CATALYST block vote.\"\n- Sherry Sullivan was identified as a CATALYST-sponsored candidate working in tandem with the \"Three B's\" to challenge Mayor Karin Wilson.\n\nTHE DISCOVERY:\n- Article 2 revealed that Sherry Sullivan’s candidacy was not independent but was a coordinated effort by the CATALYST group to regain control of the City Council.\n- The article established a pattern of behavior regarding the CATALYST faction, alleging they prioritize \"taking chances\" and personal/political control over the safety and fiscal health of Fairhope citizens.\n\nTHE PIVOT:\n- Article 2 provides the motive for the \"poor judgment\" displayed in Article 1. \n- Sullivan’s recent actions—missing a mandatory political forum, ignoring social distancing at a high school football game, and pushing for the high-risk Arts and Craft Show despite medical warnings—align with the \"CATALYST\" pattern of prioritizing profit and political momentum over public safety and accountability.\n- The \"bad decisions\" reported in Article 1 are the practical application of the CATALYST political agenda described in Article 2.\n\nKEY ENTITIES:\n- Sherry Sullivan (Candidate)\n- Karin Wilson (Mayor)\n- Jack Burrell (City Councilman)\n- Kevin Boone (City Councilman)\n- Robert Brown (City Councilman)\n- Scott Boone (CATALYST)\n- CATALYST (Political Organization)\n- Common Sense Campaign (Forum Host)\n- Fairhope City Council"
+    llm_text: Sherry Sullivan’s recent disregard for public safety isn't just a series of mistakes. It reveals a calculated pattern where Scott Boone’s CATALYST group and the "Three B's" prioritize political dominance and personal gain over the well-being of Fairhope citizens.
+    text: Sherry Sullivan ignored public safety rules during a crisis. Scott Boone and the CATALYST group consistently prioritize personal political gain over Fairhope citizens.
+    widget_date: "2020-08-19"
+    generated_at: "2026-11-07T15:57:25.579747Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  fairhope-catalyst-a-dirty-little-secret:
+    refined_source: ac56c1510bda99e7dfd8b7338152b290de57fadb9520c82370984b531f41162c
+    brief: |-
+      THE CONFLICT: In 2018, the Catalyst City Council, a slate hand-picked by former Mayor Tim Kant, attempted to prevent a public referendum on October 2, 2018, to change Fairhope’s government from "At Large" to "Council-Manager/Districts."
+      THE DISCOVERY: The Catalyst Council was engaged in a sustained effort to deny citizens a vote on government reform, using Special Meetings and legal attempts (e.g., seeking a Temporary Restraining Order) to block the referendum, despite public petitions (over 1000 signatures) and the support of Fresh Start Fairhope.
+      THE PIVOT: The historical pattern of the Catalyst Council (2018) demonstrating self-serving political control, lack of transparency, and resistance to public will provides context for current allegations against candidates like Sherry Sullivan regarding poor judgment, lack of accountability, and political maneuvering during recent City Council elections.
+      KEY ENTITIES: Sherry Sullivan, Mayor Wilson (Karin Wilson), Tim Kant, Jay Robinson, Jack Burrell, Common Sense Campaign, Fresh Start Fairhope, Catalyst City Council, October 2, 2018, September 19, 2018, Spanish Fort, Fairhope.
+    llm_text: In 2018, Tim Kant's Catalyst City Council blocked a Fairhope government reform referendum despite over 1000 public signatures. This history of self-serving control provides critical context for current accountability concerns regarding Sherry Sullivan and City Council candidates.
+    text: In 2018, Tim Kant and the CATALYST council blocked a government reform vote despite one thousand public signatures. This self-serving control explains current accountability issues.
+    widget_date: "2018-09-21"
+    generated_at: "2026-11-07T15:57:50.704248Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  questions-for-fairhope:
+    refined_source: f54ee54913714321ccfc1d1096aae6a32161e853fbdc4745fdd3c61ca3243f73
+    brief: |-
+      THE CONFLICT: Sherry Sullivan missed a scheduled Fairhope political forum hosted by Common Sense Campaign on election-related topics, while simultaneously appearing at a Spanish Fort vs Fairhope football game where masked attendees were not socially distancing, and promoted mask distribution to unmasked crowd members.
+      THE DISCOVERY: The Widget Article reveals Sherry Sullivan’s CATALYST/Scott Boone Consulting campaign is backed by "developers and profiteers" who "label themselves as a political group" and are linked to a fired city employee who sued the city, exposing her potential conflicts of interest and ethical violations.
+      THE PIVOT: Article 2 provides concrete evidence of Sullivan’s pattern of poor judgment (football game mask promotion) and ethical risks (CATALYST ties to sued employee), directly contradicting Article 1’s claim that Mayor Wilson alone made the right call on Arts & Crafts cancellations while Sullivan’s actions endangered public health.
+      KEY ENTITIES: Sherry Sullivan, Mayor Wilson, Common Sense Campaign, CATALYST, Scott Boone Consulting, developers, profiteers, Thomas doctors, Burrell, Brown, Boone
+    llm_text: Sherry Sullivan skipped a Common Sense Campaign forum to push masks at a Spanish Fort vs. Fairhope football game without social distancing. Her CATALYST and Scott Boone Consulting campaign, backed by developers and tied to a sued city employee, exposes dangerous conflicts of interest.
+    text: Sherry Sullivan skipped a forum to push maskless crowds at a football game. Her campaign ties to developers and CATALYST expose severe conflicts of interest.
+    widget_date: "2020-08-17"
+    generated_at: "2026-11-07T15:57:04.381097Z"
+    model_name: plugsky-lite

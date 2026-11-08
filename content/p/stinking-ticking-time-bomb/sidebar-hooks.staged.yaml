@@ -5,82 +5,8 @@ metadata:
   main_date: "2022-08-12"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  boycott-mcsharry:
-    brief: |-
-      THE CONFLICT: Ronan McSharry was accused of harassing artist Nall Hollis on March 19, 2017, resulting in 12 months probation.
-      THE DISCOVERY: Fairhope municipal court and City Attorney Marcus McDowell failed to adequately hold McSharry accountable, despite 9 arrests and subsequent appeals, allowing him to continue operating McSharry’s Irish Pub.
-      THE PIVOT: Both articles highlight systemic failures in local Baldwin County governance—McDowell’s failure in Fairhope law enforcement/prosecution parallels the Baldwin County Commission’s refusal to regulate the private, unregulated Baldwin County Sewer Service (BCSS), enabling development sprawl and pollution.
-      KEY ENTITIES: Ronan McSharry, Nall Hollis, Marcus McDowell, Jack Burrell, Karin Wilson, Clarence Burke, Bass, Delaney, Judge Jody Bishop, Judge Clark Stankoski, DR Horton, LLPS, Baldwin County Sewer Service (BCSS).
-    llm_text: Ronan McSharry's 12-month probation after harassing Nall Hollis reveals critical local governance failure. Just as City Attorney Marcus McDowell failed to hold him accountable, the Baldwin County Commission ignores the unregulated BCSS, fueling sprawl and pollution.
-    widget_date: "2022-08-05"
-    generated_at: "2026-11-06T21:07:29.077879Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-mcsharry-will-out:
-    brief: |-
-      THE CONFLICT: Ronin McSharry charged with Domestic Violence; Alabama Legislature killed a law providing VA coverage for veterans exposed to toxic burn pits. (Date not specified, but predates Main Article).
-      THE DISCOVERY: Article 2 revealed legislative failures and political corruption concerning state projects (Mobile Bayway, Novell facility) in Baldwin County.
-      THE PIVOT: Article 2 establishes a historical context of political questionable dealings in Baldwin County (e.g., incentives for Novell, involvement of figures like Chris Elliott and Jack Burrell) prior to the contemporary issues of unregulated sewer services and developer misconduct highlighted in Article 1.
-      KEY ENTITIES: Ronin McSharry, Fairhope, Alabama State Legislature, Chris Elliott, Jack Burrell, Novell, Baldwin County Mega Site, Steve Marshall, Clarence Burke, Baldwin County Sewer Service (BCSS), LLPS, Bass, Delaney, Judge Jody Bishop, DR Horton.
-    llm_text: Ronin McSharry faces domestic violence charges while the Alabama Legislature gutted VA burn pit coverage. See how past corruption involving Chris Elliott and Jack Burrell set the stage for today's Baldwin County issues.
-    widget_date: "2022-08-01"
-    generated_at: "2026-11-06T21:06:45.635054Z"
-    model_name: plugsky-lite
-  development-chaos:
-    brief: |-
-      THE CONFLICT:
-      *   For decades, communities in Fairhope, Daphne, and Spanish Fort ignored infrastructure needs and promoted development in Baldwin County.
-      *   This neglect led to current development moratoriums and infrastructure failures, including schools at full occupancy with portable classrooms.
-
-      THE DISCOVERY:
-      *   Baldwin County is the only county in Alabama with an unregulated sewer system, which is entirely dependent on Baldwin County Sewer Service (BCSS).
-      *   BCSS is a privately operated utility, not a county entity, yet it uses county right-of-ways at no charge.
-
-      THE PIVOT:
-      *   Article 2 established the foundational, unregulated nature of BCSS; Article 1 details the direct, present-day consequences of this lack of regulation, including rate increases, unchecked sprawl, and high-profile legal conflicts (e.g., the Straw-man case).
-      *   The unregulated status allows BCSS principle Mr. Clarence Burke to operate while residing in Costa Rica, minimizing local accountability.
-
-      KEY ENTITIES:
-      *   Baldwin County Sewer Service (BCSS)
-      *   Baldwin County Commission
-      *   Clarence Burke (BCSS principle/developer)
-      *   Delaney (prominent South Alabama lender)
-      *   Little Lagoon Preservation Society (LLPS)
-      *   DR Horton (assumed Bellaton Property Owners Association (BPOA) in 2012; built over 4000 homes)
-      *   Judge Jody Bishop
-      *   Bass
-      *   Fairhope and Magnolia Springs (major contributors to Bay pollution)
-    llm_text: Baldwin County’s unregulated BCSS uses county land for its sewer system, ignoring infrastructure needs in Fairhope and Daphne. BCSS principle Clarence Burke operates from Costa Rica, avoiding local accountability while residents face rate hikes and sprawl.
-    widget_date: "2022-01-08"
-    generated_at: "2026-11-06T21:09:56.203403Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-roller-coaster:
-    brief: |-
-      THE CONFLICT:
-      Past waterfront project in Fairhope (18+ months ago) required an ADA compliant switchback walkway; city council delayed this for one year, resulting in the proposal of an open car on rails for handicapped transport, costing $6 million.
-      Baldwin County Sewer Service (BCSS) is an unregulated, privately operated utility in Alabama, using county right of ways free, and raising rates at will, fueling county sprawl by converting farmland.
-
-      THE DISCOVERY:
-      Article 2 showed the specific financial and logistical mismanagement ($6 million cost/ADA avoidance) within the Fairhope waterfront development project.
-
-      THE PIVOT:
-      Article 2 provides evidence of pattern of costly, unregulated, and poorly executed local development within Fairhope, mirroring the systemic issues (unregulated use of county resources, development sprawl, lack of permits) driven by BCSS under Mr. Burke described in Article 1, which imports sewage to the Fort Morgan facility from Fairhope.
-
-      KEY ENTITIES:
-      Baldwin County Sewer Service (BCSS)
-      Clarence Burke (BCSS President, developer)
-      Fairhope
-      Magnolia Springs
-      Fort Morgan facility
-      Baldwin County Commission
-      Delaney (prominent South Alabama lender)
-      Straw-man case
-      Judge Jody Bishop
-      Little Lagoon Preservation Society (LLPS)
-    llm_text: Clarence Burke and BCSS are fueling sprawl and costly local failures, like the $6 million ADA avoidance in Fairhope. Discover how this unregulated utility uses county resources while raising rates and importing sewage to Fort Morgan.
-    widget_date: "2022-04-12"
-    generated_at: "2026-11-06T21:11:06.153347Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   trolls-for-tolls:
+    refined_source: bac1cf6dbabd854e5b290430d93dc1f1160d8c26bf61f63ab6fd703d39a30168
     brief: |-
       THE CONFLICT:
       1. Bayway Bridge project started years ago.
@@ -117,10 +43,12 @@ hooks:
       15. David Peterson
       16. Crystal Clean (Mascot entity)
     llm_text: Jack Burrell pushes tolls on the Bayway Bridge while Baldwin County Sewer Service, run by developer Clarence Burke, raises rates unchecked with no County Commission oversight—both illustrate unchecked local power at taxpayer expense.
+    text: Jack Burrell demands tolls on the Bayway Bridge while the Baldwin County Sewer Service raises rates without oversight. Why do taxpayers pay the price for unchecked local monopolies?
     widget_date: "2022-01-28"
     generated_at: "2026-11-06T21:06:56.868741Z"
     model_name: plugsky-lite
   lego-rocket-scientist:
+    refined_source: 5416fa9f70da2b1ca3ef57516bf9627b85ec86e91f9c716b01de5554dbe53a0d
     brief: |-
       THE CONFLICT:
       *   Jack Burrell served as President of the Fairhope Council for nearly 9 years.
@@ -154,11 +82,13 @@ hooks:
       *   DR Horton
       *   Bellaton Property Owners Association (BPOA)
       *   Catalyst (Scott Boone Consulting)
-    llm_text: Jack Burrell, whose nine-year Fairhope Council presidency involved bid rigging and self-motivated chaos, drove local politics. Discover how his deep ties to developers connect to unregulated Baldwin County Sewer Service (BCSS) and the Bay Bridge toll debate.
+    llm_text: Jack Burrell, whose nine-year Fairhope Council presidency involved bid rigging and self-motivated chaos, drove local politics. Read how his deep ties to developers connect to unregulated Baldwin County Sewer Service (BCSS) and the Bay Bridge toll debate.
+    text: Jack Burrell spent nine years running the Fairhope City Council through bid rigging and chaos. How do his developer ties connect to the unregulated Baldwin County Sewer Service?
     widget_date: "2022-01-13"
     generated_at: "2026-11-06T21:11:59.900724Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pied-piper:
+    refined_source: c057d9765ed70c6e56b7aa5917179558151b279a3b7b4714ca4819b8cbeb9d41
     brief: |-
       THE CONFLICT:
       *   Compliance issues related to Fairhope waterfront triggered in 1992 but addressed in 2021 (Widget Article).
@@ -191,10 +121,12 @@ hooks:
       *   LLPS (Little Lagoon Preservation Society)
       *   Judge Jody Bishop
     llm_text: Jack Burrell manipulated $6.2M Fairhope waterfront plans for special interests. Now, BCSS Principal Clarence Burke runs Alabama's unregulated sewer utility, exploiting county rights-of-way for sprawl.
+    text: Jack Burrell altered waterfront plans in Fairhope to benefit private developers. How does Sewer Service principal Clarence Burke profit from public right-of-way exploitation?
     widget_date: "2021-06-04"
     generated_at: "2026-11-06T21:08:50.722668Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-open-letter-to-baldwin-county-district-attorney:
+    refined_source: 86c97798fe14aaf624c7d680d3fcd826c9490cc2e2ce7e28eb1db412eb67a157
     brief: |-
       THE CONFLICT:
       Allegations of corruption against Fairhope government were raised, specifically concerning Mayor Wilson, City Councilman Kevin Boone, John Avant, Jack Burrell, and Robert Brown.
@@ -224,6 +156,90 @@ hooks:
       DR Horton
       Baldwin County Commission
     llm_text: Fairhope corruption involving Mayor Wilson and Councilman Kevin Boone wasn't just old news. Now, developer Clarence Burke drives BCSS, unchecked by the same system the old reports exposed, threatening Magnolia Springs with Fairhope sewage.
+    text: Developer Clarence Burke directs the unregulated Baldwin County Sewer Service without local oversight. Will Magnolia Springs residents foot the bill for Fairhope sewage?
     widget_date: "2018-08-10"
     generated_at: "2026-11-06T21:13:10.951186Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boycott-mcsharry:
+    refined_source: b2736f59f5a2af858f745632d33b3ff1031c24aa0311a6f14220580f5d15014f
+    brief: |-
+      THE CONFLICT: Ronan McSharry was accused of harassing artist Nall Hollis on March 19, 2017, resulting in 12 months probation.
+      THE DISCOVERY: Fairhope municipal court and City Attorney Marcus McDowell failed to adequately hold McSharry accountable, despite 9 arrests and subsequent appeals, allowing him to continue operating McSharry’s Irish Pub.
+      THE PIVOT: Both articles highlight systemic failures in local Baldwin County governance—McDowell’s failure in Fairhope law enforcement/prosecution parallels the Baldwin County Commission’s refusal to regulate the private, unregulated Baldwin County Sewer Service (BCSS), enabling development sprawl and pollution.
+      KEY ENTITIES: Ronan McSharry, Nall Hollis, Marcus McDowell, Jack Burrell, Karin Wilson, Clarence Burke, Bass, Delaney, Judge Jody Bishop, Judge Clark Stankoski, DR Horton, LLPS, Baldwin County Sewer Service (BCSS).
+    llm_text: Ronan McSharry's 12-month probation after harassing Nall Hollis reveals critical local governance failure. Just as City Attorney Marcus McDowell failed to hold him accountable, the Baldwin County Commission ignores the unregulated BCSS, fueling sprawl and pollution.
+    text: Ronan McSharry received twelve months of probation after a harassment arrest involving Nall Hollis. Why did City Attorney Marcus McDowell refuse to hold local offenders accountable?
+    widget_date: "2022-08-05"
+    generated_at: "2026-11-06T21:07:29.077879Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-mcsharry-will-out:
+    refined_source: 201e8c8b1f6f2c794a9b9a63e253ea8ac9314f43c5d4205c1130806e8b3262a1
+    brief: |-
+      THE CONFLICT: Ronin McSharry charged with Domestic Violence; Alabama Legislature killed a law providing VA coverage for veterans exposed to toxic burn pits. (Date not specified, but predates Main Article).
+      THE DISCOVERY: Article 2 revealed legislative failures and political corruption concerning state projects (Mobile Bayway, Novell facility) in Baldwin County.
+      THE PIVOT: Article 2 establishes a historical context of political questionable dealings in Baldwin County (e.g., incentives for Novell, involvement of figures like Chris Elliott and Jack Burrell) prior to the contemporary issues of unregulated sewer services and developer misconduct highlighted in Article 1.
+      KEY ENTITIES: Ronin McSharry, Fairhope, Alabama State Legislature, Chris Elliott, Jack Burrell, Novell, Baldwin County Mega Site, Steve Marshall, Clarence Burke, Baldwin County Sewer Service (BCSS), LLPS, Bass, Delaney, Judge Jody Bishop, DR Horton.
+    llm_text: Ronin McSharry faces domestic violence charges while the Alabama Legislature gutted VA burn pit coverage. See how past corruption involving Chris Elliott and Jack Burrell set the stage for today's Baldwin County issues.
+    text: Ronan McSharry faces domestic violence charges while the state legislature cuts veteran health benefits. Do politicians like Chris Elliott and Jack Burrell share blame for broken public systems?
+    widget_date: "2022-08-01"
+    generated_at: "2026-11-06T21:06:45.635054Z"
+    model_name: plugsky-lite
+  development-chaos:
+    refined_source: 476e1c5ab542f2b6bf14dfb4b4be84a37cdbe9d2215ed6068cfe75357d619170
+    brief: |-
+      THE CONFLICT:
+      *   For decades, communities in Fairhope, Daphne, and Spanish Fort ignored infrastructure needs and promoted development in Baldwin County.
+      *   This neglect led to current development moratoriums and infrastructure failures, including schools at full occupancy with portable classrooms.
+
+      THE DISCOVERY:
+      *   Baldwin County is the only county in Alabama with an unregulated sewer system, which is entirely dependent on Baldwin County Sewer Service (BCSS).
+      *   BCSS is a privately operated utility, not a county entity, yet it uses county right-of-ways at no charge.
+
+      THE PIVOT:
+      *   Article 2 established the foundational, unregulated nature of BCSS; Article 1 details the direct, present-day consequences of this lack of regulation, including rate increases, unchecked sprawl, and high-profile legal conflicts (e.g., the Straw-man case).
+      *   The unregulated status allows BCSS principle Mr. Clarence Burke to operate while residing in Costa Rica, minimizing local accountability.
+
+      KEY ENTITIES:
+      *   Baldwin County Sewer Service (BCSS)
+      *   Baldwin County Commission
+      *   Clarence Burke (BCSS principle/developer)
+      *   Delaney (prominent South Alabama lender)
+      *   Little Lagoon Preservation Society (LLPS)
+      *   DR Horton (assumed Bellaton Property Owners Association (BPOA) in 2012; built over 4000 homes)
+      *   Judge Jody Bishop
+      *   Bass
+      *   Fairhope and Magnolia Springs (major contributors to Bay pollution)
+    llm_text: Baldwin County’s unregulated BCSS uses county land for its sewer system, ignoring infrastructure needs in Fairhope and Daphne. BCSS principle Clarence Burke operates from Costa Rica, avoiding local accountability while residents face rate hikes and sprawl.
+    text: Clarence Burke operates the Baldwin County Sewer Service from Costa Rica while local residents face rate hikes. Who protects an absentee utility owner from state regulators?
+    widget_date: "2022-01-08"
+    generated_at: "2026-11-06T21:09:56.203403Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-roller-coaster:
+    refined_source: 25c9dab4b0df17a3ae3c9be0f91d993ca9989304d1da07530f3ef53dd277c5e7
+    brief: |-
+      THE CONFLICT:
+      Past waterfront project in Fairhope (18+ months ago) required an ADA compliant switchback walkway; city council delayed this for one year, resulting in the proposal of an open car on rails for handicapped transport, costing $6 million.
+      Baldwin County Sewer Service (BCSS) is an unregulated, privately operated utility in Alabama, using county right of ways free, and raising rates at will, fueling county sprawl by converting farmland.
+
+      THE DISCOVERY:
+      Article 2 showed the specific financial and logistical mismanagement ($6 million cost/ADA avoidance) within the Fairhope waterfront development project.
+
+      THE PIVOT:
+      Article 2 provides evidence of pattern of costly, unregulated, and poorly executed local development within Fairhope, mirroring the systemic issues (unregulated use of county resources, development sprawl, lack of permits) driven by BCSS under Mr. Burke described in Article 1, which imports sewage to the Fort Morgan facility from Fairhope.
+
+      KEY ENTITIES:
+      Baldwin County Sewer Service (BCSS)
+      Clarence Burke (BCSS President, developer)
+      Fairhope
+      Magnolia Springs
+      Fort Morgan facility
+      Baldwin County Commission
+      Delaney (prominent South Alabama lender)
+      Straw-man case
+      Judge Jody Bishop
+      Little Lagoon Preservation Society (LLPS)
+    llm_text: Clarence Burke and BCSS are fueling sprawl and costly local failures, like the $6 million ADA avoidance in Fairhope. Read how this unregulated utility uses county resources while raising rates and importing sewage to Fort Morgan.
+    text: Clarence Burke and the Baldwin County Sewer Service avoid accountability while importing sewage to Fort Morgan. Why do local commissioners let private utilities fleece taxpayers?
+    widget_date: "2022-04-12"
+    generated_at: "2026-11-06T21:11:06.153347Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

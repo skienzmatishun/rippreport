@@ -1,0 +1,158 @@
+metadata:
+  generated_at: "2026-11-08T01:48:41.550990Z"
+  generator_version: 1.0.0
+  post_slug: tax-tax-and-re-tax
+  main_date: "2019-05-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-national-news:
+    brief: |-
+      THE CONFLICT: For twenty years, Alabama politicians have discussed an "education lottery" without dedicating any funds toward education.
+      THE DISCOVERY: Article 2 revealed Alabama's national ranking in Education was "DEAD LAST."
+      THE PIVOT: The national failure of the Alabama education system (Article 2) provides the critical context for the local funding crisis in Baldwin County, where taxpayers bear the burden of lack of developer impact fees and proposed state funding mechanisms (Article 1).
+      KEY ENTITIES: Baldwin County, Governor Ivy (Kay Ivey), burrell, wilson, Fairhope City Council, State School Board.
+    llm_text: Alabama education ranks "DEAD LAST" nationally, yet politicians discussed an unfunded "education lottery" for two decades. Baldwin County taxpayers now feel the pain, facing funding gaps because developers never paid necessary impact fees.
+    widget_date: "2019-05-15"
+    generated_at: "2026-11-08T01:46:20.107077Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dog-and-pony-show-2:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell served as Council President for 7 years.
+      *   Jack Burrell and Kevin Boone approved Fly Creek Apartments.
+      *   They accepted a "gift" from the developer.
+      *   Utility fund was raided as a slush fund.
+      *   The Triangle Lawsuit cost $3 million from utilities.
+      *   A $11.25 million legal settlement was misrepresented as a "park" purchase.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council (led by Jack Burrell) engaged in financial mismanagement, including accepting developer gifts and misrepresenting legal settlements.
+      *   The council lacked timely budget delivery and showed a history of following Jack Burrell.
+
+      THE PIVOT:
+      *   The historical evidence of local financial corruption and misuse of funds (A2) provides context for the current failure of local government to implement equitable developer impact fees (A1).
+      *   This historical failure necessitates increased reliance on taxpayer funds (school tax, lottery) in Baldwin County, despite local council members stating they "want out of any School business."
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Kevin Boone
+      *   Fairhope City Council
+      *   Baldwin County
+      *   wilson
+      *   Governor Ivy
+      *   CATALYST
+    llm_text: Jack Burrell and Kevin Boone misused $11.25 million from Fairhope utilities, falsely labeling the funds as a "park" purchase. This local council corruption explains why Baldwin County now strains taxpayer money instead of securing equitable developer impact fees.
+    widget_date: "2019-05-10"
+    generated_at: "2026-11-08T01:47:30.521470Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  liar-liar-pants-on-fire:
+    brief: |-
+      THE CONFLICT: Baldwin County legislators engaged in practices involving economic development "incentives" that grant cover for influence buying, enabling lawmakers to hide benefactor identities.
+      THE DISCOVERY: The Ethics Commission is toothless and controlled by legislators, providing "protection from prosecution" for elected officials accused of ethics violations, particularly those in the Republican party.
+      THE PIVOT: The current financial crisis in Baldwin County (lack of developer impact fees, low school funding, proposed education lottery to pay back State General Fund dating to 2013) is a result of the systemic corruption and lack of accountability revealed by the compromised Ethics Commission and the protection afforded to self-serving interests.
+      KEY ENTITIES: Baldwin County, Governor Ivy, State Senator Elliott, Sheriff Hoss Mack, Ethics Commission, burrell, wilson
+    llm_text: Baldwin County lawmakers used "incentives" to hide influence buying, shielding benefactors like burrell and wilson. A compromised Ethics Commission protects these officials, directly causing the county's low school funding and financial crisis.
+    widget_date: "2019-04-18"
+    generated_at: "2026-11-08T01:48:25.656446Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  legal-corruption:
+    brief: |-
+      THE CONFLICT: Tripp Pittman, former Baldwin County State Senator, was appointed trustee of BP funds and awarded $750,000.00 in contracts from Fairhope with Mayor assistance. Baldwin County replaced the "BP thief" with a former County Commissioner who imposed a school tax without a vote. Senator Chris Elliott supports a gas tax without a citizens vote.
+      THE DISCOVERY: Baldwin County leads the list of most corrupt counties in Alabama; elected officials ignore Ethics Commission/AG/FBI.
+      THE PIVOT: Article 2 established a history of unvoted/corrupt local tax imposition (school tax) by former commissioners, setting the context for the current debate over mandatory school taxes and lottery funding in Article 1.
+      KEY ENTITIES: Baldwin County, Tripp Pittman, Chris Elliott, Fairhope, Councilman Burrell, Councilman Boone, Councilman Robinson, Councilman Conyers, Commissioner (former), Governor Ivy, Wilson, Burrell.
+    llm_text: Tripp Pittman got $750k from BP in Fairhope, but Baldwin County remains corrupt. See how officials like Chris Elliott push unvoted taxes after ignoring ethics rules.
+    widget_date: "2019-04-12"
+    generated_at: "2026-11-08T01:45:47.754567Z"
+    model_name: plugsky-lite
+  shut-up-2:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County, Alabama - described as fastest growing county in the state.
+      - Developers in Baldwin County pay no or little impact fee for projects; lack of developer impact fees ends up costing the taxpayer to make up difference in cost of Schools, Streets/Transportation and Education.
+      - Baldwin County School System negatively impacted the most due to lack of long-term planning from the Baldwin County School Board.
+      - Governor Ivy (Kay Ivey) - wants more control over failing education system, by appointing State School Board Members rather than electing them.
+      - Bill introduced to end election of state school board members.
+      - Proposed lottery - for the last 20 years referred to as an "education lottery"; proposed lottery has NO money for education; politicians wish to use lottery to pay back State General Fund, as far back as 2013; Alabama politicians supporting lottery to pay back State General Fund money politicians already stole or misappropriated.
+      - Proposed amendment to lottery bill would give education 25%, a far cry from 100%.
+      - In Fairhope - special school tax was favored by the City Council over the Mayor's proposal pushing for impact fees and making contribution more equitable.
+      - City Council President statement: "the City Council wants out of any School business."
+      - Teachers supposed to TEACH not fund-raise.
+
+      THE DISCOVERY:
+      - Baldwin County legal system relies too much on shutting people up; criminal acts, political misconduct, court proceedings and civil litigation are "sealed" or confidentiality agreements are required to settle issues.
+      - Money is an ingredient to grease the wheel while keeping everything out of the eye of the public domain.
+      - Three former employees brought lawsuits against the City of Fairhope; all three made allegations against the City and the Mayor.
+      - One case pending; other two settled and had their cases sealed.
+      - All allegations went unanswered because both former employees took the money then signed confidentiality agreements; pending case will most likely end the same way; they get taxpayer dollars and never have to explain anything to the taxpayer.
+      - Ripp Report following two criminal cases and three civil cases; common denominator is that attorneys want everything sealed.
+      - Common practice: victim of criminal case gets offer to settle prior to court for a sum of money, accompanied by a confidential agreement; guilty party silently walks away.
+
+      THE PIVOT:
+      - Article 2 ("SHUT UP") is the older/background article and frames the legal and political context.
+      - Article 2 revealed how Baldwin County legal system uses sealed/confidentiality agreements and money to settle disputes, allowing guilty parties to avoid accountability.
+      - This is the smoking gun/key context for Article 1 ("TAX TAX AND RE-TAX") because it explains the pattern of silencing, sealed cases, and lack of transparency that parallels the Main Article's conflict over developer impact fees, taxpayer-funded schools/streets/transportation/education, Governor Ivy's push to appoint State School Board members, and the proposed education lottery.
+
+      KEY ENTITIES:
+      - Jack Burrell - President of the Fairhope City Council; hauled into Federal Court for refusing a citizen and veteran from exercising free speech; case settled WITHOUT any confidentiality agreement; public police record with several incidents sealed, how convenient; failed to mention police record the last time he ran for office.
+      - Ivy - Governor of Alabama.
+      - Baldwin County - Baldwin County School System, Baldwin County School Board, Baldwin County legal system, fastest growing county in the state.
+      - City of Fairhope - Mayor, City Council, Council President.
+      - Three former employees - lawsuits against City of Fairhope.
+      - Attorneys - want everything sealed.
+      - State General Fund - referenced for lottery payback as far back as 2013.
+      - Developers - pay no or little impact fee.
+      - Taxpayers - make up difference in costs.
+      - Teachers - demand Baldwin County School Board address basic needs of schools.
+      - Fairhope City Council - favored special school tax over Mayor's impact fee proposal.
+      - Federal Court - case involving Jack Burrell.
+      - Citizens/veteran - free speech case.
+      - Police record - public record, incidents sealed.
+      - Lowery - name to mention in context of broader Ripp Report investigation.
+      - Wilters - name to mention in context of broader Ripp Report investigation.
+    llm_text: A Baldwin County developer dodges impact fees, so taxpayers foot school and road costs. Fairhope's Jack Burrell clashed with a citizen, but lawyers pushed the legal fight into secrecy—while Governor Ivy pushes to control Alabama schools.
+    widget_date: "2019-03-29"
+    generated_at: "2026-11-08T01:46:06.434449Z"
+    model_name: recursive/flint-v1.0:free
+  laugh-out-loud-baldwin:
+    brief: |-
+      THE CONFLICT:
+      1. Eddie Tyler filed a lawsuit against Baldwin County Superintendent over Tyler breaking a promise to abide by the State Board of Education decision regarding Gulf Shores and Baldwin County.
+      2. Chris Elliott, State Senator, was involved in covering for Tyler regarding this lawsuit.
+      3. Elliott was also involved in a penny tax that no one could vote on.
+
+      THE DISCOVERY:
+      1. The Main Article states that developers pay little or no impact fees, forcing taxpayers to cover costs for Schools, Streets/Transportation and Education in Baldwin County.
+      2. The Main Article reports Governor Ivy wants to appoint State School Board Members instead of electing them.
+      3. The Main Article notes a special school tax was favored by the Fairhope City Council over a Mayor's impact fee proposal.
+
+      THE PIVOT:
+      1. Article 2 establishes that a history of broken promises (Tyler/State Board) and questionable tax/development practices (Elliott/CATALYST) exists in Baldwin County.
+      2. This historical context directly supports Article 1's claim that current tax issues (developer fee avoidance, need for school tax) stem from poor planning and political maneuvering in Baldwin County.
+
+      KEY ENTITIES:
+      1. Chris Elliott
+      2. Eddie Tyler
+      3. Jack Burrell
+      4. Sherry Sullivan
+      5. Jack (Burrell)
+      6. Fairhope City Council
+      7. Baldwin County School System
+      8. Governor Ivy
+      9. Wilson
+      10. burrell
+      11. wilson
+    llm_text: Eddie Tyler sued the Baldwin County Superintendent over broken promises, while Chris Elliott pushed a non-voted penny tax. See how these past moves fuel today's taxpayer burden from developer fee avoidance.
+    widget_date: "2019-03-22"
+    generated_at: "2026-11-08T01:45:54.807949Z"
+    model_name: plugsky-lite
+  captain-jack-at-the-controls:
+    brief: |-
+      THE CONFLICT: Leases of hangers at the Fairhope Airport Authority were handled suspiciously; Captain Jack was receiving free air miles and golf vacations from a board member; this occurred after the defeat of former Fairhope Mayor Can’t in 2016.
+      THE DISCOVERY: The Fairhope Airport Authority, under Fairhope Council President Jack Burrell, is subsidized by the City of Fairhope but refuses the City title to the Airport; the Authority's financial handling (7 cents on the dollar fuel income) lacks records and transparency.
+      THE PIVOT: Article 2 establishes Burrell's and the Airport Authority's history of financial opacity and self-interest in Fairhope, providing context to Article 1's discussion of local tax burden (special school tax favored over impact fees) in Baldwin County.
+      KEY ENTITIES: Jack Burrell, Fairhope Airport Authority, Joe McEnerney, Can’t, Baldwin County School System, Governor Ivy
+    llm_text: Captain Jack received free golf trips from a board member while Fairhope Airport Authority under Jack Burrell hides finances. See how this opaque spending impacts your local tax burden in Baldwin County.
+    widget_date: "2019-03-15"
+    generated_at: "2026-11-08T01:46:00.713835Z"
+    model_name: plugsky-lite

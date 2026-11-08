@@ -1,0 +1,273 @@
+metadata:
+  generated_at: "2026-11-07T17:05:08.924865Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-ass-whoopin
+  main_date: "2020-07-17"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  pissed-on-or-pissed-off:
+    brief: |-
+      THE CONFLICT:
+      - Jerry Carl defeated CATALYST-affiliated candidate "Lowtower" (Scott Boone Consultant) in the First Congressional Seat district race; Mobile pushed Carl over the top to win by 3,873 votes.
+      - Statistical analysis of the First Congressional Seat district: as much as 2,500 votes shifted from CATALYST Lowtower to Carl, from primary to runoff.
+      - Baldwin County analysis: swing of 2,652 Catalyst votes from Lowtower to Carl; Fairhope-area Catalyst losses to Carl around 1,118; estimated 2,000–2,500 gained votes for Carl from CATALYST in Baldwin County helped Carl from some votes lost in rural counties.
+
+      THE DISCOVERY:
+      - Article 2 ("PISSED ON OR PISSED OFF") revealed Fairhope City Council was the most corrupt and inept council to ever serve Fairhope; council cost Fairhope millions; Burrell at helm; council in Federal Court for refusing to let a USMC combat veteran speak at a council meeting, they lost; council paid Burrell's attorney fees to extract his foot from his mouth; Burrell used taxpayer money to derail allegations of his involvement in bid-rigging while on Airport Board; Burrell used Airport Authority and tax dollars to hire lawyers to investigate whistleblower, never supplied report; Burrell had police record with two sealed juvenile charges never exposed prior to last election; Councilman Brown enjoyed lucrative contracts via elected position for personal gain; Brown had pending complaint on Alabama Attorney General desk; Council Boone had more LLCs than a red head has freckles; Scott Boone is Kevin Boone's son who runs CATALYST; family connection fueled CATALYST attempt to political control Fairhope and Baldwin County; Three B's spent $2.65 million for recreation land that "only they" wanted, then leased it for $9 thousand/year for farmland; city's first analysis of budget cuts due to coronavirus is $2.65 million; council voted themselves a raise and FULL FAMILY insurance that no city employees enjoy; council politicized coronavirus; curfew 10pm–5am adopted across state, including Mobile; Article 2 directed readers to go back to 2016 and read forward month by month.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun for Article 1 because its background on the CATALYST-aligned council's corruption and ineptitude provides context for CATALYST's loss to Jerry Carl; the corruption reporting frames the voter shift from CATALYST Lowtower to Carl, including Baldwin County voters preventing a CATALYST candidate from going to "the swamp."
+
+      THE KEY ENTITIES:
+      - Jerry Carl
+      - Lowtower / Scott Boone Consultant / Scott Boone
+      - CATALYST / Scott Boone Consulting (SBC)
+      - Kevin Boone
+      - Boone Brown
+      - Burrell
+      - Jimmy Conyers
+      - Jay Robinson
+      - Sherry Sullivan
+      - Cant
+      - John Melones
+      - Chief Pettis
+      - Mobile
+      - Baldwin County
+      - Fairhope
+      - USMC combat veteran
+      - Alabama Attorney General
+      - CGA (Baldwin County Citizens for Government Accountability)
+      - Backstory Podcast
+      - BP
+    llm_text: Jerry Carl beat CATALYST's Lowtower by 3,873 votes in the First Congressional Seat race, and new analysis says up to 2,500 votes flipped from Lowtower to Carl. Now read how Fairhope's corrupt council, Burrell, and the Three B's helped push CATALYST toward defeat.
+    text: Jerry Carl beat CATALYST's Lowtower by 3,873 votes in the First Congressional Seat race, and new analysis says up to 2,500 votes flipped from Lowtower to Carl. Now read how Fairhope's corrupt council, Burrell, and the Three B's helped push CATALYST toward defeat.
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T17:03:17.873751Z"
+    model_name: recursive/flint-v1.0:free
+  history-repeating-itself:
+    refined_source: 6c626c890c778028635fc1929ac149a59e57cc035b65d807209efad077e080d6
+    brief: |-
+      THE CONFLICT: In July 2020, a political dispute occurred in Fairhope regarding a waterfront infrastructure project. Howell Raines used op-eds and flyers to oppose the project, making claims about the destruction of a "historic bluff" and loss of beach access. These actions were characterized as political maneuvers intended to protect the "status quo" and satisfy specific resident interests by stalling a citizen-led plan.
+
+      THE DISCOVERY: Article 2 revealed that political actors in Fairhope had a history of using "poison pen" letters, misinformation, and manufactured political issues to obstruct public works and influence local governance.
+
+      THE PIVOT: Article 2 establishes the historical precedent of using political manipulation to maintain the "status quo" in Fairhope; this provides the strategic context for Article 1’s report on CATALYST’s aggressive, "scurrying" attempts to regain control of the local council and Mayor’s office following their significant electoral loss to Jerry Carl.
+
+      KEY ENTITIES:
+      - Jerry Carl (Congressional winner)
+      - Scott Boone / CATALYST / Scott Boone Consulting (SBC)
+      - "Lowtower" (Carl's opponent)
+      - John Melones (Potential mayoral candidate)
+      - Sherry Sullivan (Potential mayoral candidate)
+      - Cant (Former Mayor)
+      - Jay Robinson (Council candidate)
+      - Jimmy Conyers (Council candidate)
+      - Chief Pettis
+      - Boone, Brown, and Burrell (CATALYST members)
+      - Howell Raines (Political commentator/opponent)
+      - Mayor Wilson
+      - Francis Paul Ripp (The Ripp Report)
+      - Baldwin County Citizens For Government Accountability (CGA)
+    llm_text: Howell Raines once weaponized "poison pen" letters and manufactured outrage to stall vital Fairhope waterfront projects. This same playbook of political manipulation explains why CATALYST is now scurrying to reclaim control of the council after their crushing defeat to Jerry Carl.
+    text: Howell Raines once weaponized letters and manufactured outrage to stall vital Fairhope waterfront projects. Political manipulators scrambled to reclaim council control after suffering a crushing defeat.
+    widget_date: "2020-07-15"
+    generated_at: "2026-11-07T17:01:26.027421Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  sting:
+    brief: |-
+      THE CONFLICT:
+      - Jerry Carl won the First Congressional District.
+      - Mobile pushed Carl over the top to win by 3,873.
+      - Carl’s opponent was CATALYST candidate “Lowtower.”
+      - Lowtower made a major mistake by hooking up with CATALYST, aka Scott Boone Consultant.
+      - Statistical analysis of the First Congressional Seat district, Jerry Carl, showed as much as 2,500 votes shifted from CATALYST Lowtower to Carl from the primary to the runoff.
+      - Baldwin County, for both races, showed a swing of 2,652 Catalyst votes from Lowtower to Carl.
+      - In Fairhope, same elections, CATALYST lost votes to Carl, around 1,118.
+      - Estimate of gained votes for Carl from CATALYST in Baldwin County was approximately 2,000 to 2,500.
+      - Those gained votes helped Carl, from some votes he lost in the rural counties.
+      - CATALYST group was licking their wounds after the election of Jerry Carl.
+      - Major shift in voting away from CATALYST candidates.
+      - CATALYST can change its name to Scott Boone Consulting but Baldwin County voters awakened to the fact that nothing good comes from CATALYST or SBC.
+      - Fairhope, home base of CATALYST, was reeling from the loss of the congressional seat and worried about the CATALYST council not being re-elected.
+
+      THE DISCOVERY:
+      - Second article is older than the first; frame it as background/historical context.
+      - Fairhope municipal election qualifications had 7 days left, July 21.
+      - Fairhope municipal election qualifications close 5pm July 23; Monday and Tuesday were going to be interesting.
+      - Two very important seats had yet to be challenged, Jack Burrell and Robert Brown.
+      - People were considering running against them, however, they had not committed as yet.
+      - In the best interest of Fairhope the 3 B’s need to go.
+      - Kevin Boone, grandfather CATALYST, was being challenged by Joshua Gammon.
+      - Fairhope City Council president Jack Burrell acknowledged tonight that he and two other members of his household tested positive for COVID-19, leading him to quarantine for the past two weeks.
+      - At the council work session prior to the meeting, the council at large expressed no interest in passing a mask mandate.
+      - Councilman Brown had been very vocal about not wearing a mask; he and Captain Jack both wanted to “take a chance with Arts and Crafts.”
+      - A vote for Councilman Brown is a vote for corruption; Mr. Brown had used his office for personal gain and was asking voters for their vote so he could continue using his office to personally enrich himself.
+      - If NO candidates challenge Brown or Burrell, Fairhope will be stung again by the B’s.
+
+      THE PIVOT:
+      - Why Article 2 is the smoking gun/key context for Article 1: Article 2 is older and frames background/historical context for Article 1.
+      - Article 2 provides facts around Fairhope municipal election, Jack Burrell, Robert Brown, Kevin Boone, the 3 B’s, COVID-19, mask mandate, and qualifications.
+      - Article 1 references the same B’s: Boone Brown and Burrell look like they will have opponents; the B’s should be top priority to vote OUT.
+      - Article 1 post-dates Jerry Carl’s election loss and discusses CATALYST council, Sherry Sullivan, Cant, Jay Robinson, Jimmy Conyers, John Melones, Chief Pettis.
+      - Article 2’s B-STING, COVID-19, mask, and corruption context connects to Article 1’s CATALYST loss and Fairhope political fallout.
+
+      KEY ENTITIES:
+      - Jerry Carl
+      - CATALYST
+      - Scott Boone
+      - Scott Boone Consulting
+      - Lowtower
+      - Baldwin County
+      - Baldwin County Citizens For Government Accountability (CGA)
+      - CGA Facebook
+      - Fairhope
+      - Sherry Sullivan
+      - Cant
+      - Jay Robinson
+      - Jimmy Conyers
+      - John Melones
+      - Chief Pettis
+      - Boone Brown
+      - Robert Brown
+      - Jack Burrell
+      - Kevin Boone
+      - Joshua Gammon
+      - Councilman Brown
+      - Captain Jack
+      - The Jester
+      - Mobile
+      - First Congressional District
+      - City Council
+      - Mayor
+      - COVID-19
+      - Mask mandate
+      - Arts and Crafts
+      - B-STING
+    llm_text: Jerry Carl’s 3,873-vote upset over CATALYST’s Lowtower in Alabama’s First Congressional District flipped about 2,000 Baldwin County votes. Now Fairhope’s fight over the “B’s”—Boone Brown, Jack Burrell, and Kevin Boone—heads to the July 21 municipal qualifications deadline.
+    text: Jerry Carl’s 3,873-vote upset over CATALYST’s Lowtower in Alabama’s First Congressional District flipped about 2,000 Baldwin County votes. Now Fairhope’s fight over the “B’s”—Boone Brown, Jack Burrell, and Kevin Boone—heads to the July 21 municipal qualifications deadline.
+    widget_date: "2020-07-14"
+    generated_at: "2026-11-07T17:02:11.489476Z"
+    model_name: recursive/flint-v1.0:free
+  freaky-fairhope:
+    refined_source: 882fcfe2da1227c2602cc8914b995944d59e9036db3e7fa3e383730afaba38af
+    brief: |-
+      THE CONFLICT:
+      *   2010: State Senator Boom Boom Pittman and Mayor Cant orchestrated major fraud of BP funds totaling $639,000.00 in Fairhope.
+      *   Historical: The three B’s (Boone, Brown, Burrell) used their council office for personal gain, estimated at $17,500 in insurance packages, and mismanaged a city surplus of $1.7 million, driving it to a $1.2 million deficit by purchasing farmland and leasing it back for $9000 per year.
+
+      THE DISCOVERY:
+      *   Baldwin County/Fairhope politics is characterized by systemic corruption and white collar crime, described as the worst the area has seen in 50 years.
+      *   CATALYST/Scott Boone Consulting historically funded political distraction, exemplified by a $6.3 million grant from BP to "Howling Rains."
+
+      THE PIVOT:
+      *   Article 2 establishes that CATALYST and local leadership (e.g., Mayor Cant) are tied to historical corruption (BP fraud, financial mismanagement), validating the sentiment in Article 1 that "nothing good comes from CATALYST or SBC," providing context for the recent shift against CATALYST candidates (e.g., Lowtower losing votes to Jerry Carl).
+
+      KEY ENTITIES:
+      *   Jerry Carl
+      *   Lowtower
+      *   CATALYST / Scott Boone Consulting (SBC)
+      *   Fairhope
+      *   Baldwin County
+      *   Mayor Cant
+      *   Boom Boom Pittman
+      *   John Melones
+      *   Sherry Sullivan
+      *   Jay Robinson
+      *   Jimmy Conyers
+      *   BP
+      *   Boone, Brown, Burrell (The three B’s)
+    llm_text: Mayor Cant and Boom Boom Pittman orchestrated $639k BP fraud in Fairhope. Read how this historical corruption from The three B’s and CATALYST influences today's races, like Lowtower losing votes to Jerry Carl.
+    text: Mayor Cant and other officials orchestrated a $639,000 BP fraud scheme in Fairhope. Historical corruption from the city council influences today's local races and candidate outcomes.
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T17:01:34.502533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-stacking-the-deck:
+    refined_source: dae9021a36eb175ec161134f1a3121c57748e904c35a37057705894c5c83f9a0
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Tim Cant supported developers (Fly Creek Apartments, BP Fraud, misuse of FEMA funds, Triangle lawsuit, Airport corruption) and neglected Fairhope infrastructure.
+      *   Fairhope and Baldwin County were historically involved in "Fixing" elections, "Faux candidates," and "Stacking the deck."
+      *   Kevin Boone, serving 8 years on the Fairhope City Council, had undisclosed conflicts of interest (numerous LLCs).
+      *   CATALYST transitioned to the Scott Boone Consulting banner, described as an intricate web designed to conceal relationships and insulate from liability.
+
+      THE DISCOVERY:
+      *   CATALYST's structure (Scott Boone Consulting) was identified as a self-serving, liability-insulating criminal enterprise structure, not just a political group.
+      *   The tactics of stacking the deck and faux candidates were documented historical methods used by the CATALYST Council.
+      *   Joshua Gammon challenged Kevin Boone for Council Place 5.
+
+      THE PIVOT:
+      *   Article 2 established that CATALYST was a structurally problematic, corrupt, and manipulative organization (Scott Boone Consulting).
+      *   Article 1 shows the direct political consequence of this structure: a major shift of 2000 to 2500 votes away from CATALYST Lowtower to Jerry Carl in Baldwin County, signaling voter rejection of the CATALYST status quo.
+      *   CATALYST's current struggles (losing Congressional seat, worrying about council re-election) are rooted in the historical corruption and manipulation documented in Article 2.
+
+      KEY ENTITIES:
+      *   Jerry Carl
+      *   Lowtower
+      *   Scott Boone Consulting / CATALYST
+      *   Kevin Boone
+      *   Joshua Gammon
+      *   Tim Cant
+      *   Jay Robinson
+      *   Jimmy Conyers
+      *   Sherry Sullivan
+      *   John Melones
+      *   BP (reference to BP Fraud)
+      *   Fairhope Airport
+      *   Baldwin County
+      *   Mobile (county/city)
+    llm_text: Kevin Boone’s Scott Boone Consulting hid conflicts related to Tim Cant’s corruption in Fairhope. Voters rejected this history, causing a major shift toward Jerry Carl and challenging the CATALYST status quo.
+    text: Kevin Boone’s consulting firm hid conflicts related to Tim Cant’s corruption in Fairhope. Voters rejected this history and supported Jerry Carl, challenging the status quo.
+    widget_date: "2020-07-03"
+    generated_at: "2026-11-07T17:03:45.832904Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-train-wreck:
+    refined_source: 1b791ed9f851137a3365c4ba2e23b4697944e8c387e128f7061dffe7a86faa29
+    brief: |-
+      THE CONFLICT: In Fairhope, the McSharry case involved corruption, where the City Attorney failed to defend the victim, leading to calls for the City Attorney to be fired. Councilman Boone publicly criticized the Mayor, which Councilman Burrell subsequently enforced by adjourning the City Council meeting.
+      THE DISCOVERY: Article 2 revealed that the City Attorney and Municipal Judge are appointed by the City Council, meaning the Council can replace them with non-CATALYST appointees.
+      THE PIVOT: Article 2 establishes the historical corruption and poor conduct of the CATALYST council (including Boone and Burrell) regarding the McSharry case, providing context for the later electoral backlash where Baldwin County voters shifted 2000-2500 votes away from CATALYST candidates (Lowtower) toward Jerry Carl.
+      KEY ENTITIES: Fairhope, CATALYST, Ronan McSharry, Councilman Boone, Councilman Burrell, City Attorney, Municipal Judge, Jerry Carl, Lowtower (Scott Boone Consultant), Jay Robinson, Jimmy Conyers, John Melones, Sherry Sullivan, Scott Boone, bp, Carl-Hightower.
+    llm_text: Fairhope's McSharry corruption saw the City Attorney fail Ronan McSharry. Councilman Burrell enforced adjournments, but the CATALYST council controls the City Attorney and Municipal Judge, giving voters real power.
+    text: Fairhope officials failed Ronan McSharry during local corruption proceedings. Councilman Burrell enforced adjournments while the council controlled the city attorney and municipal judge.
+    widget_date: "2020-05-29"
+    generated_at: "2026-11-07T17:04:41.688963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-players:
+    refined_source: a00b9dcf72b6c8b06dcd2e6b682ef40bd6636476641427edc14e109aa63bd56c
+    brief: |-
+      THE CONFLICT:
+      *   2016 Fairhope Municipal Elections saw a full slate of CATALYST candidates.
+      *   Mayor Cant (former corrupt mayor) led the CATALYST council.
+      *   CATALYST influenced appointments of the city attorney and Municipal Judge, who were also affiliated with CATALYST.
+      *   In 2018 mid-term elections, CATALYST ran candidates for almost every Baldwin County race, nearly achieving full control.
+      *   CATALYST previously targeted Washington through a Congressional candidate.
+
+      THE DISCOVERY:
+      *   CATALYST is a powerful, mostly secret political group in Baldwin County representing the Status Quo/good ole boys.
+      *   CATALYST operates as a coordinated political entity controlling city council, legal staff, and key municipal positions (e.g., Municipal Judge being a large developer).
+      *   The council was viewed as the "body of the CATALYST snake."
+
+      THE PIVOT:
+      *   Article 2 establishes CATALYST's long-term history of corruption and attempts at control (2016/2018), proving their power and deceit were not new.
+      *   This historical context explains why the 2022 election loss (Jerry Carl's victory) was a major shift, as voters were "awakened" to CATALYST's previous actions and lack of integrity, validating the shift away from them.
+
+      KEY ENTITIES:
+      *   CATALYST
+      *   Baldwin County
+      *   Fairhope
+      *   Mayor Cant
+      *   Jerry Carl
+      *   Lowtower (Scott Boone Consultant)
+      *   Ronan McSharry
+      *   Chris Elliott
+      *   Jay Robinson
+      *   Jimmy Conyers
+      *   Sherry Sullivan
+      *   John Melones
+      *   BP
+      *   Scott Boone Consultant
+    llm_text: CATALYST, the secret group that held power in Fairhope under Mayor Cant, influenced everything from the city attorney to the Municipal Judge. Voters recognized their long-term corruption, validating Jerry Carl’s 2022 win and proving a major shift away from the "good ole boys."
+    text: A secret group held power in Fairhope under Mayor Cant, influencing everything from the city attorney to the municipal judge. Voters recognized this long-term corruption and backed Jerry Carl in 2022.
+    widget_date: "2020-05-15"
+    generated_at: "2026-11-07T17:02:36.822092Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

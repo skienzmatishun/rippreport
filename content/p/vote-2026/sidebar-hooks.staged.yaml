@@ -5,27 +5,60 @@ metadata:
   main_date: "2026-05-18"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  letter-to-ag-elections:
+  say-goodbye-incumbents:
+    refined_source: 23adb375e56d54395d286a4f47a0ca4a4222e728071b2d6937d28a48de4b479d
     brief: |-
-      THE CONFLICT: Suspected fixed elections, lack of transparency, and a 20-year "Good Ole Boy" culture in Baldwin County, focusing on the Sheriff's race and BCSO reputation (May 17, 2026).
-      THE DISCOVERY: A letter sent by Francis Paul Ripp to Wes Allen (Secretary of State) and Jeff Elrod (Director of Elections) confirmed historical and ongoing allegations of electoral fixing and lack of accountability in Baldwin County.
-      THE PIVOT: The historical allegations of rigged elections and GOB influence documented in the 2026 letter provide the foundational evidence supporting the current May 19 primary campaign's demand for change against career politicians and status quo corruption.
-      KEY ENTITIES: Francis Paul Ripp, Wes Allen (Secretary of State), Jeff Elrod (Director of Elections), Matt McKenzie (Sheriff), Richard Cox (County Commissioner D1), Angelo Fermo (County Commissioner D2), Kevin Brock (County Commissioner D3), Tracey Gambill (County Commissioner D4), Jeremiah Giles (Circuit Court Judge), Grant Blackburn (County District Court Judge), Whitney Scapecchi (School District 5), Terry Waters (Senate D22), Mike Van (Senate D32), Danielle Dugger (House D96), Joe Freeman (House D95)
-    llm_text: Francis Paul Ripp's letter to Wes Allen and Jeff Elrod confirms Baldwin County's 20-year "Good Ole Boy" culture involved fixed elections. See how this historical evidence fuels the current primary demand for change against career politicians like Matt McKenzie and the County Commissioners.
-    widget_date: "2026-05-17"
-    generated_at: "2026-11-06T06:53:19.381202Z"
+      THE CONFLICT:
+      Four Baldwin County Commissioners saddled the county with a 35 million dollar+ mega site, financed on the back of county employees, due to long-term entrenched political power of the "good ole boys" (GOB).
+
+      THE DISCOVERY:
+      Article 2 revealed the influence of figures like Tucker Dorsey (connected to Catalyst and Summitt Construction) and Frank Burt (political dinosaur/architect of the mega site) and identified challengers such as Billy Joe Underwood and Jeb Ball.
+
+      THE PIVOT:
+      Article 2 establishes the historical context of corruption and entrenched interests (e.g., the mega site and GOB control) that Article 1 references when calling for term limits against "career politicians" and exposing the influence of PACs and lobbyists in the current May 19 primary elections.
+
+      KEY ENTITIES:
+      Billy Joe Underwood
+      Chris Elliott
+      Tucker Dorsey
+      Trip Pittman
+      Clarence Burke
+      Frank Burt
+      Jeb Ball
+      Charles Gruber
+      Christopher Callaghan
+      John Lake
+      Matt McKenzie
+      Richard Cox
+      Angelo Fermo
+      Kevin Brock
+      Tracey Gambill
+      Jeremiah Giles
+      Grant Blackburn
+      Whitney Scapecchi
+      Terry Waters
+      Mike Van
+      Danielle Dugger
+      Joe Freeman
+    llm_text: Baldwin County's $35M+ mega site, engineered by Frank Burt and influenced by Tucker Dorsey, shows how the "good ole boys" rule. See how challengers like Billy Joe Underwood and Jeb Ball are fighting entrenched power in the May 19 primary.
+    text: Baldwin County's mega site, engineered by Frank Burt, shows how political insiders rule. Challengers like Billy Joe Underwood and Jeb Ball fight entrenched power in the May 19 primary.
+    widget_date: "2017-11-03"
+    generated_at: "2026-11-06T07:01:53.269233Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   kristy-haygood-is-not-qualified-2:
+    refined_source: a85e38ea315b9a51ba9508c60778e9e958d92e4cb0910ab413f91b6bd4efa388
     brief: |-
       THE CONFLICT: Murray Lawrence incarcerated for over 20 years on bogus charges due to actions by Assistant District Attorney Kristi Hagood and her colleagues.
       THE DISCOVERY: Kristi Hagood is not qualified to be a sitting judge because she and associates committed a clear Brady violation by withholding favorable evidence from the defense.
       THE PIVOT: Article 2 provides the specific legal and ethical justification (Brady violation/wrongful conviction) for Article 1's recommendation to vote for Jeremiah Giles over his unqualified challenger, Kristi Hagood.
       KEY ENTITIES: Kristi Hagood, Jeremiah Giles, Murray Lawrence, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Baldwin County, 28th Judicial Circuit.
     llm_text: Murray Lawrence served over 20 years on bogus charges caused by ADA Kristi Hagood and her team. Because Hagood committed a Brady violation, she is unqualified to be a judge; vote for Jeremiah Giles in Baldwin County instead.
+    text: Murray Lawrence served over 20 years on charges caused by ADA Kristi Hagood. Because Hagood committed a violation, she is unqualified; vote for Jeremiah Giles in Baldwin County.
     widget_date: "2026-05-14"
     generated_at: "2026-11-06T06:55:15.448813Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   end-the-good-ole-boy-culture-in-baldwin-county:
+    refined_source: d1ca3ea2b1aa5a0a76eaaa408dca7e759ce137e1ce9e89d50ecb72a7e8483d96
     brief: |-
       THE CONFLICT:
       *   The "Good Ole Boy" system established in Baldwin County through figures like Lynn Stacy and former Sheriff Hoss Mack.
@@ -60,24 +93,28 @@ hooks:
       *   Joe Freeman (House District 95)
       *   Whitney Scapecchi (Baldwin County School District 5)
     llm_text: Lynn Stacy and Hoss Mack built a decades-long "Good Ole Boy" system in Baldwin County, now maintained by Anthony Lowery and Scott Boone Consulting. Use the May 19 primary to vote out entrenched incumbents and finally dismantle this powerful network.
+    text: Lynn Stacy and Hoss Mack built a decades-long system in Baldwin County, now maintained by Anthony Lowery. Use the May 19 primary to vote out entrenched incumbents.
     widget_date: "2025-08-25"
     generated_at: "2026-11-06T06:56:33.603722Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  lowery-puts-campaign-first-immigration-enforcement:
+  letter-to-ag-elections:
+    refined_source: 846435961fb1ed5515e97c9203fb32ad46b629a265a498e97e81cee2b2d20b28
     brief: |-
-      THE CONFLICT: Allegations surfaced regarding Baldwin County Sheriff Anthony Lowery quietly stepping back from active cooperation with federal immigration enforcement, potentially connected to the current election cycle, prior to May 19th.
-      THE DISCOVERY: Article 2 showed that citizens were concerned Lowery might prioritize political standing over the public safety and security of Baldwin County.
-      THE PIVOT: Article 2 provides specific evidence of a public trust breach regarding law enforcement conduct, which Article 1 uses to argue the necessity of change in the Sheriff's office, supporting Matt McKenzie to "clean up a sheriff department riddled with internal issues."
-      KEY ENTITIES: Anthony Lowery, Matt McKenzie, Baldwin County Sheriff's Office (BCSO), May 19th, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill.
-    llm_text: Anthony Lowery allegedly prioritized politics over public safety by stepping back from federal immigration cooperation before May 19th. See how citizens are pushing for change, supporting Matt McKenzie to clean up the Baldwin County Sheriff's Office.
-    widget_date: "2026-05-11"
-    generated_at: "2026-11-06T06:57:34.268248Z"
+      THE CONFLICT: Suspected fixed elections, lack of transparency, and a 20-year "Good Ole Boy" culture in Baldwin County, focusing on the Sheriff's race and BCSO reputation (May 17, 2026).
+      THE DISCOVERY: A letter sent by Francis Paul Ripp to Wes Allen (Secretary of State) and Jeff Elrod (Director of Elections) confirmed historical and ongoing allegations of electoral fixing and lack of accountability in Baldwin County.
+      THE PIVOT: The historical allegations of rigged elections and GOB influence documented in the 2026 letter provide the foundational evidence supporting the current May 19 primary campaign's demand for change against career politicians and status quo corruption.
+      KEY ENTITIES: Francis Paul Ripp, Wes Allen (Secretary of State), Jeff Elrod (Director of Elections), Matt McKenzie (Sheriff), Richard Cox (County Commissioner D1), Angelo Fermo (County Commissioner D2), Kevin Brock (County Commissioner D3), Tracey Gambill (County Commissioner D4), Jeremiah Giles (Circuit Court Judge), Grant Blackburn (County District Court Judge), Whitney Scapecchi (School District 5), Terry Waters (Senate D22), Mike Van (Senate D32), Danielle Dugger (House D96), Joe Freeman (House D95)
+    llm_text: Francis Paul Ripp's letter to Wes Allen and Jeff Elrod confirms Baldwin County's 20-year "Good Ole Boy" culture involved fixed elections. See how this historical evidence fuels the current primary demand for change against career politicians like Matt McKenzie and the County Commissioners.
+    text: Francis Paul Ripp's letter to Wes Allen and Jeff Elrod confirms Baldwin County fixed elections. Historical evidence fuels the primary demand for change against career politicians.
+    widget_date: "2026-05-17"
+    generated_at: "2026-11-06T06:53:19.381202Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   anonymous-bb:
+    refined_source: 1606c1c82e01453d1c0e86b7335353c1fb88a8b5622ca36de6c03b6ad2bf66a7
     brief: |-
       THE CONFLICT:
       *   BCSO culture under Hoss Mack and Anthony Lowery has been alleged to be corrupt for almost 20 years.
-      *   Incidents include the alleged murder of Robert Yeats by SWAT team members (deputy Justin Correa), the death of Johnathan Victor (where DA Robert Wilters allegedly lied about ketamine), the wrongful conviction of Murray Lawrence Jr., and the death of O J French during a police stop.
+      *   Incidents include the alleged murder of Robert Yeats by SWAT team members (deputy Justin Correa), the death of Johnathan Victor (where DA Robert Wilters lied about ketamine), the wrongful conviction of Murray Lawrence Jr., and the death of O J French during a police stop.
       *   A deadly interstate crash on I-10 resulted in five deaths, with Sheriff Hoss Mack commenting, "that’s what happens when you run from the law."
       *   A federal lawsuit is pending regarding the I-10 crash and the O J French death.
 
@@ -114,31 +151,25 @@ hooks:
       *   Baldwin County
       *   BCSO (Baldwin County Sheriff Office)
       *   GOB (Group of Boys)
-    llm_text: Hoss Mack and Anthony Lowery's BCSO culture has allegedly covered up crimes for 20 years, including the deaths of Robert Yeats and O J French. Vote May 19 for Matt McKenzie to end this corruption and force term limits in Baldwin County.
+    llm_text: Hoss Mack and Anthony Lowery's BCSO culture has covered up crimes for 20 years, including the deaths of Robert Yeats and O J French. Vote May 19 for Matt McKenzie to end this corruption and force term limits in Baldwin County.
+    text: Hoss Mack and Anthony Lowery's BCSO culture covered up crimes for 20 years, including two deaths. Vote May 19 for Matt McKenzie to end this corruption and force term limits.
     widget_date: "2026-05-10"
     generated_at: "2026-11-06T06:54:23.643754Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  kristy-haygood-is-not-qualified:
-    brief: |-
-      THE CONFLICT: Lawrence's 2005 trial for Hastings' murder in Mississippi; prosecution (led by District Attorney David Whetstone and investigator Anthony Lowery) used testimony from Jarius McNeil (who pleaded guilty) without sufficient physical evidence (no DNA, ballistics, etc.).
-      THE DISCOVERY: Kristi Hagood, running for a judicial position, made inaccurate and false claims regarding the 2005 case, specifically arguing the failure to disclose the second autopsy did not constitute a Brady violation.
-      THE PIVOT: The historical legal failures and documented factual errors made by Hagood (Article 2) establish her lack of qualification, which is the reason the Main Article urges constituents to VOTE for Jeremiah Giles over his challenger.
-      KEY ENTITIES: Kristi Hagood, Jeremiah Giles, Lawrence, Jarius McNeil, Anthony Lowery, David Whetstone, Baldwin County, 28th Judicial Circuit, May 19 (Election date)
-    llm_text: Kristi Hagood made false claims about the 2005 Lawrence murder trial, ignoring the lack of DNA evidence in the Hastings case. Her documented errors show she lacks qualification; vote Jeremiah Giles over his challenger on May 19.
-    widget_date: "2026-05-07"
-    generated_at: "2026-11-06T06:58:23.633799Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   oust-elliott:
+    refined_source: 77cfcb152f8d0840169729ec49a920d3742addc351fac847fb7f24633b7def66
     brief: |-
       THE CONFLICT: Mike Vandenheuvel (Mike Van) challenged State Senator Chris Elliott; Elliott is associated with Catalyst and the "good ole Boys, GOB, of Baldwin."
       THE DISCOVERY: Chris Elliott knew about the solar fields a very long time ago.
       THE PIVOT: Article 2 establishes Elliott's past ties to the GOB and his foreknowledge of the solar fields, providing the historical context for Article 1's call to "REMEMBER THE SOLAR FARM" and its criticism of the incumbent in Baldwin County Senate District 32 for over 20 years of disappointing leadership.
       KEY ENTITIES: Chris Elliott, Mike Van, Catalyst, GOB, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Matt McKenzie, Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Danielle Dugger, Joe Freeman, Baldwin County, May 19.
     llm_text: Mike Van challenged State Senator Chris Elliott, but his opponent knew about the Baldwin solar fields long before the campaign started. Learn how Elliott’s past ties to the GOB explain two decades of disappointing leadership in Baldwin County Senate District 32.
+    text: Mike Van challenged State Senator Chris Elliott, but his opponent knew about the Baldwin solar fields. Elliott’s past ties explain two decades of disappointing leadership.
     widget_date: "2026-04-13"
     generated_at: "2026-11-06T06:59:28.522431Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   missed-the-boat:
+    refined_source: 89f0e49ead07621c82b58b915de0be536330915a128dbf0fd34f3b0a16aafe07
     brief: |-
       THE CONFLICT:
       Previous Baldwin County primary election results led to a July 17th runoff date.
@@ -181,44 +212,31 @@ hooks:
       Doug Jones
       David Peterson
     llm_text: Baldwin County's 24% voter turnout means over 3,500 Republican votes vanished, potentially swinging the July 17th runoff. Catalyst warns these unverified primary results leave the county vulnerable to political corruption and manipulation.
+    text: Baldwin County's 24% voter turnout means over 3,500 Republican votes vanished, swinging the July 17th runoff. Catalyst warns these unverified results leave the county vulnerable to corruption.
     widget_date: "2018-06-13"
     generated_at: "2026-11-06T07:00:40.082274Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  say-goodbye-incumbents:
+  lowery-puts-campaign-first-immigration-enforcement:
+    refined_source: 891ffabae375d8dd20a08fb1475620f6e2783752d30e34518813422e77d1bd10
     brief: |-
-      THE CONFLICT:
-      Four Baldwin County Commissioners saddled the county with a 35 million dollar+ mega site, financed on the back of county employees, due to long-term entrenched political power of the "good ole boys" (GOB).
-
-      THE DISCOVERY:
-      Article 2 revealed the influence of figures like Tucker Dorsey (connected to Catalyst and Summitt Construction) and Frank Burt (political dinosaur/architect of the mega site) and identified challengers such as Billy Joe Underwood and Jeb Ball.
-
-      THE PIVOT:
-      Article 2 establishes the historical context of corruption and entrenched interests (e.g., the mega site and GOB control) that Article 1 references when calling for term limits against "career politicians" and exposing the influence of PACs and lobbyists in the current May 19 primary elections.
-
-      KEY ENTITIES:
-      Billy Joe Underwood
-      Chris Elliott
-      Tucker Dorsey
-      Trip Pittman
-      Clarence Burke
-      Frank Burt
-      Jeb Ball
-      Charles Gruber
-      Christopher Callaghan
-      John Lake
-      Matt McKenzie
-      Richard Cox
-      Angelo Fermo
-      Kevin Brock
-      Tracey Gambill
-      Jeremiah Giles
-      Grant Blackburn
-      Whitney Scapecchi
-      Terry Waters
-      Mike Van
-      Danielle Dugger
-      Joe Freeman
-    llm_text: Baldwin County's $35M+ mega site, engineered by Frank Burt and influenced by Tucker Dorsey, shows how the "good ole boys" rule. See how challengers like Billy Joe Underwood and Jeb Ball are fighting entrenched power in the May 19 primary.
-    widget_date: "2017-11-03"
-    generated_at: "2026-11-06T07:01:53.269233Z"
+      THE CONFLICT: Allegations surfaced regarding Baldwin County Sheriff Anthony Lowery quietly stepping back from active cooperation with federal immigration enforcement, potentially connected to the current election cycle, prior to May 19th.
+      THE DISCOVERY: Article 2 showed that citizens were concerned Lowery might prioritize political standing over the public safety and security of Baldwin County.
+      THE PIVOT: Article 2 provides specific evidence of a public trust breach regarding law enforcement conduct, which Article 1 uses to argue the necessity of change in the Sheriff's office, supporting Matt McKenzie to "clean up a sheriff department riddled with internal issues."
+      KEY ENTITIES: Anthony Lowery, Matt McKenzie, Baldwin County Sheriff's Office (BCSO), May 19th, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill.
+    llm_text: Anthony Lowery prioritized politics over public safety by stepping back from federal immigration cooperation before May 19th. See how citizens are pushing for change, supporting Matt McKenzie to clean up the Baldwin County Sheriff's Office.
+    text: Anthony Lowery stepped back from federal immigration cooperation before May 19th. Citizens are pushing for change, supporting Matt McKenzie to clean up the Sheriff's Office.
+    widget_date: "2026-05-11"
+    generated_at: "2026-11-06T06:57:34.268248Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  kristy-haygood-is-not-qualified:
+    refined_source: 9c0d116c67f3ad200a38aede8005a8f2fbacfaf1f30dbc32e49795f75db438c7
+    brief: |-
+      THE CONFLICT: Lawrence's 2005 trial for Hastings' murder in Mississippi; prosecution (led by District Attorney David Whetstone and investigator Anthony Lowery) used testimony from Jarius McNeil (who pleaded guilty) without sufficient physical evidence (no DNA, ballistics, etc.).
+      THE DISCOVERY: Kristi Hagood, running for a judicial position, made inaccurate and false claims regarding the 2005 case, specifically arguing the failure to disclose the second autopsy did not constitute a Brady violation.
+      THE PIVOT: The historical legal failures and documented factual errors made by Hagood (Article 2) establish her lack of qualification, which is the reason the Main Article urges constituents to VOTE for Jeremiah Giles over his challenger.
+      KEY ENTITIES: Kristi Hagood, Jeremiah Giles, Lawrence, Jarius McNeil, Anthony Lowery, David Whetstone, Baldwin County, 28th Judicial Circuit, May 19 (Election date)
+    llm_text: Kristi Hagood made false claims about the 2005 Lawrence murder trial, ignoring the lack of DNA evidence in the Hastings case. Her documented errors show she lacks qualification; vote Jeremiah Giles over his challenger on May 19.
+    text: Kristi Hagood made false claims about the 2005 Lawrence murder trial and ignored DNA evidence. Her documented errors show she lacks qualification; vote for Jeremiah Giles on May 19.
+    widget_date: "2026-05-07"
+    generated_at: "2026-11-06T06:58:23.633799Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

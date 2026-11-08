@@ -1,0 +1,69 @@
+metadata:
+  generated_at: "2026-11-08T08:50:32.856916Z"
+  generator_version: 1.0.0
+  post_slug: re-run-doing-nothing
+  main_date: "2018-09-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  cross-the-line:
+    brief: |-
+      THE CONFLICT: Mid-Term election for State Senate Seat 32 in Baldwin County; Chris Elliott defeated David Northcutt by 742 votes.
+      THE DISCOVERY: Chris Elliott's victory was achieved using "dirty tricks" and is linked to the Catalyst political entity, amid concerns over a "behind closed door penny tax."
+      THE PIVOT: The past ineffective representation in State Senate Seat 32 (Article 2) establishes a pattern of political failure in Baldwin County, contextualizing the later critique (Article 1) of the City Council for "doing nothing."
+      KEY ENTITIES: Chris Elliott, David Northcutt, Jason Fisher, Catalyst, Baldwin County, State Senate Seat 32, City Council
+    llm_text: Chris Elliott beat David Northcutt for Baldwin County State Senate Seat 32 by 742 votes, but his victory used "dirty tricks" linked to Catalyst. Discover how this political failure mirrors City Council inaction and threatens residents with a "behind closed door penny tax."
+    widget_date: "2018-09-12"
+    generated_at: "2026-11-08T08:48:23.297244Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  full-plate:
+    brief: |-
+      THE CONFLICT:
+      *   Council President's previous vision cost $11.25 million in a legal settlement, leaving the triangle land idle.
+      *   Pending lawsuit against the Council and the Council President.
+      *   Incident where over 40 kids were caught, identified, and questioned out of over 100.
+
+      THE DISCOVERY:
+      *   The K-1 school site has been closed and idle for years, becoming a controversy.
+      *   The Board of Education is selling the K-1 property and stated it will not be used for new schools.
+      *   Mayor endorsed the Hatch program a year ago, but initial endorsement did not include using the entire K-1 site.
+      *   Lee Lawson, president and CEO of the Baldwin County Economic Alliance (EDA), projected Hatch would provide 266 new jobs (estimated $16.8 million payroll) and $33.65 million in revenue for Fairhope over five years.
+      *   Dean Mosher, a concerned citizen, proposed a Boutique Hotel and parking concept, not the Mayor.
+
+      THE PIVOT:
+      *   Article 2 established the historical context of the K-1 site controversy, the failed vision, and the pending lawsuit against the Council/Council President.
+      *   Article 2 noted the Council would not acknowledge the feasibility of locating the Hotel, facade, education, Hatch program, and performing art center all on the site.
+      *   Article 1 demands accountability from the City Council regarding their inaction ("DOING NOTHING") and lack of public statement concerning the recent incident involving the 40+ kids, building directly upon the pending lawsuit context from Article 2.
+
+      KEY ENTITIES:
+      *   K-1 school site
+      *   Fairhope City Council
+      *   Council President
+      *   Baldwin County School System
+      *   Baldwin County Economic Alliance (EDA)
+      *   Lee Lawson (president and CEO of EDA)
+      *   Dean Mosher
+      *   Mayor
+      *   University of Alabama (source of economic impact analysis)
+    llm_text: Council President's $11.25M vision failed, leaving the K-1 site idle amid a pending lawsuit. Can Mayor/Council finally move past inaction, supporting Dean Mosher's Boutique Hotel concept to deliver 266 new jobs via the Hatch program?
+    widget_date: "2018-09-07"
+    generated_at: "2026-11-08T08:49:14.016709Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-vs-the-people:
+    brief: |-
+      THE CONFLICT:
+      *   No specific conflict, names, or dates provided in the article content.
+
+      THE DISCOVERY:
+      *   Article 2 (Widget) is a promotional link to "FREAKY FRIDAY" and reveals no specific discovery or context.
+
+      THE PIVOT:
+      *   Article 2 does not provide the 'smoking gun' context for Article 1; Article 1 is a general call to action ("ASK THE CITY COUNCIL WHY THEY DID NOTHING").
+
+      KEY ENTITIES:
+      *   City Council
+      *   FREAKY FRIDAY
+      *   No specific names (Lowery, Wilters, etc.) are present in the provided text.
+    llm_text: The City Council ignored FREAKY FRIDAY and did nothing to stop the issue. Ask them why they failed the community and demand answers today.
+    widget_date: "2018-05-30"
+    generated_at: "2026-11-08T08:50:06.683109Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,150 @@
+metadata:
+  generated_at: "2026-11-07T20:37:47.869243Z"
+  generator_version: 1.0.0
+  post_slug: combat
+  main_date: "2019-12-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  recovery:
+    brief: "THE CONFLICT:\n- In December 1968, the author (a young Marine combat engineer in Vietnam) visited the Veterans Hospital in Birmingham, Alabama for the first time.\n- In March 1968, during the Tet Offensive in Dong Ha, Vietnam (near the DMZ), the author was thrown the length of a football field by a severe body concussion from a secondary explosion after a North Vietnamese rocket hit an ammo dump.\n- The author refused the Purple Heart that day, which resulted in a Veterans Claim that has remained pending for 51 years.\n- In 2010, the author was classified 100% disabled and founded The Ripp Report, a non-profit consumer organization targeting political corruption in Fairhope and Baldwin County.\n\nTHE DISCOVERY:\n- The background context (Article 2/WIDGET ARTICLE) reveals that the author recently underwent a right total reverse shoulder revision at the Birmingham V.A. Hospital (ranked the number one V.A. hospital in the U.S.).\n- The background context establishes that the author has endured 14 total operations at the Birmingham V.A. (including the removal of a kidney and multiple shoulder procedures) as a result of his Vietnam tour.\n- The background context notes that the author is facing yet another total reverse shoulder operation on his left side scheduled for December.\n\nTHE PIVOT:\n- Article 2 serves as the ongoing physical background and timeline marker showing the author's relentless cycle of major surgeries (14 operations and counting) stemming from his 1968 Vietnam service. \n- It bridges his 51-year medical and veterans' claim struggle directly into his current 2020 crusade against Fairhope political corruption (\"CATALYST\" and the city council), framing his physical recovery and combat resilience as the exact mindset he is bringing to the upcoming political \"COMBAT.\"\n\nKEY ENTITIES:\n- Mayor Wilson\n- CATALYST (good ole boys plan)\n- The Ripp Report\n- Baldwin County Legal Eagle\n- Backstory Podcast\n- Birmingham V.A. Hospital\n- Fairhope City Council"
+    llm_text: A 1968 Vietnam rocket blast started a 51-year disability fight and landed me in the Birmingham V.A. for 14 surgeries. Now, I am bringing that exact combat resilience straight to Fairhope to dismantle Mayor Wilson and the CATALYST good ole boys plan.
+    text: A 1968 Vietnam rocket blast started a 51-year disability fight and landed me in the Birmingham V.A. for 14 surgeries. Now, I am bringing that exact combat resilience straight to Fairhope to dismantle Mayor Wilson and the CATALYST good ole boys plan.
+    widget_date: "2018-07-25"
+    generated_at: "2026-11-07T20:35:39.618063Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-11:
+    refined_source: f89caecfcb148859b963ba26b89adef0417498c295a3b2f4e2962b401521d8d3
+    brief: |-
+      THE CONFLICT: Marine combat engineer in Dong Ha, Vietnam, March 1968 (Tet Offensive); injury resulted in severe body concussion and subsequent 15 shoulder operations and kidney removal.
+      THE DISCOVERY: November 15, 2019, Podcast #11 documented Gulf Shores developments (Klump PUD at Hwy 181/Fairhope Avenue), a $6 million increase to the Baldwin County Sheriff's Office budget since 2011, and the McSharry lawsuit.
+      THE PIVOT: Article 2 provides specific 2019 local financial and development context (e.g., $6M budget increase, Klump PUD) which supports Article 1's claims of taxpayer exploitation and political corruption in Fairhope.
+      KEY ENTITIES: Veterans Hospital Birmingham Alabama; Dong Ha Vietnam; Marine; Mayor Wilson; CATALYST; Ripp Report; Fairhope; Baldwin County; Klump PUD; Baldwin County Sheriff's Office; Coastal Alabama Community College; McSharry lawsuit.
+    llm_text: A Marine combat engineer survived the 1968 Tet Offensive but still faces local exploitation. Read how Klump PUD and a $6M Baldwin County Sheriff's Office budget increase reveal political corruption in Fairhope.
+    text: A Marine veteran faces local exploitation despite surviving the 1968 Tet Offensive. See how the Klump PUD project and a budget increase for the Baldwin County Sheriff expose local political corruption.
+    widget_date: "2019-11-15"
+    generated_at: "2026-11-07T20:37:21.557740Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-on-interest:
+    refined_source: 7e5116623d47432275f8a82204327b7ce1a776c578a41be87cd9be8dedf80847
+    brief: |-
+      THE CONFLICT: Marine combat engineer injured during Tet Offensive in March 1968 in Dong Ha, Vietnam; initial Purple Heart refused, leading to a Veterans Claim pending for 51 years.
+      THE DISCOVERY: In November 2019, The Ripp Report highlighted a conflict of interest in Fairhope where the Municipal Judge was also a developer seeking approval from the City Council that appointed him.
+      THE PIVOT: The past injury and subsequent 51-year pending Veterans Claim establish the author's long-standing dedication to exposing political corruption and fighting for good government, framing the 2019 Fairhope conflict as an example of the systemic corruption they have been pursuing.
+      KEY ENTITIES: Birmingham Alabama Veterans Hospital; Marine; Dong Ha, Vietnam; March 1968; December 1968; 2010; The Ripp Report; Fairhope; Baldwin County; Mayor Wilson; CATALYST; November 8 2019; November 13; Municipal Judge; City Council.
+    llm_text: A 1968 Marine injury led to a 51-year Veterans Claim, fueling The Ripp Report's fight for good government. See how this dedication exposed a 2019 Fairhope conflict where the Municipal Judge also sought City Council approval.
+    text: A decades-long veterans claim fueled the fight for honest government at The Ripp Report. This dedication exposed a conflict where the Fairhope Municipal Judge sought approval from the City Council.
+    widget_date: "2019-11-09"
+    generated_at: "2026-11-07T20:35:42.769087Z"
+    model_name: plugsky-lite
+  backstory-alabama-the-ripp-report-podcast-5:
+    brief: "THE CONFLICT: In December 1968, the author (a young Marine combat engineer) visited the Veterans Hospital in Birmingham, Alabama, following service in Vietnam. In March 1968, during the Tet Offensive at a base in Dong Ha near the DMZ, an incoming North Vietnamese rocket hit an ammo dump, causing a massive secondary explosion. The author suffered a severe body concussion when the blast's concussion threw him the length of a football field, landing him against a bunker. He was treated at an underground Air Force field hospital in Dong Ha and subsequently refused the Purple Heart, leading to a 51-year pending Veterans Claim. Additionally, the author was classified 100% disabled in 2010.\n\nTHE DISCOVERY: [Note: Widget Article content was empty in the source text. Historical context is derived from the main article's historical timeline.] The historical background establishes the author's 51-year struggle with the VA healthcare system, his military service background, the founding of The Ripp Report as a non-profit consumer organization in 2010, and a decade-plus history of reporting on political corruption in Fairhope and Baldwin County, Alabama.\n\nTHE PIVOT: The author's personal history of enduring physical trauma, fighting a 51-year battle with the VA claims system, and surviving combat serves as the foundational motivation for his 10-year crusade against local political corruption via The Ripp Report. This personal resilience and distrust of corrupt systems provide the direct context for his call to arms (\"COMBAT\") against the Fairhope City Council, Mayor Wilson, and the \"CATALYST\" good ole boys plan in 2020.\n\nKEY ENTITIES: \n- Mayor Wilson\n- CATALYST (good ole boys organization/plan)\n- The Ripp Report\n- Baldwin County Legal Eagle\n- Backstory Podcast\n- Fairhope City Council"
+    llm_text: A 1968 Vietnam rocket blast left me fighting a 51-year VA battle and fueled my crusade against Mayor Wilson and Fairhope’s corrupt "CATALYST" good ole boys. Read how survival forged The Ripp Report's war on local corruption.
+    text: A 1968 Vietnam rocket blast left me fighting a 51-year VA battle and fueled my crusade against Mayor Wilson and Fairhope’s corrupt "CATALYST" good ole boys. Read how survival forged The Ripp Report's war on local corruption.
+    widget_date: "2019-10-05"
+    generated_at: "2026-11-07T20:35:45.396617Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast:
+    refined_source: 972602ffc0af7be4a62947d2855e971e5318df07b5c582f35e6dcb01aed49f14
+    brief: |-
+      THE CONFLICT: Marine combat engineer involved in blast near Dong Ha, Vietnam, March 1968 (Tet Offensive); Marine refused Purple Heart; Veterans Claim has been pending for 51 years.
+      THE DISCOVERY: Backstory Podcast announced focus on political corruption in Baldwin County; identified Fairhope City Council as lacking leadership, transparency, and accountability; mentioned Fairhope City Council vote on Sept. 9 regarding health insurance and Mayor's salary, ignoring Auburn Study.
+      THE PIVOT: Widget Article establishes Francis Paul Ripp's veteran status and the Ripp Report's focus on Baldwin County corruption prior to Main Article's 2010 disability classification and 2020 "COMBAT" prediction, linking historical veteran experience to contemporary local political exposure.
+      KEY ENTITIES: Francis Paul Ripp; Ripp Report; Backstory Podcast; Baldwin County; Fairhope City Council; Mayor Wilson; CATALYST; Backwoods Media, LLC; Harry Still, III; Veterans Hospital, Birmingham Alabama; Vietnam; Dong Ha.
+    llm_text: Francis Paul Ripp, a Vietnam Marine from Dong Ha, now connects his 1968 combat experience to Baldwin County politics. See how his veteran story links to Fairhope City Council's lack of transparency today.
+    text: Vietnam veteran Francis Paul Ripp connects his combat service to his watchdog work in Baldwin County. Discover how his military background links to transparency issues in the Fairhope City Council.
+    widget_date: "2019-09-06"
+    generated_at: "2026-11-07T20:35:50.703241Z"
+    model_name: plugsky-lite
+  hi-jack-ed:
+    brief: "THE CONFLICT: In 2016 (closing out the year), a major political and financial battle erupted in Fairhope, Alabama, over the Fairhope Airport Authority. The City of Fairhope was annually funneling half a million dollars—nearly $200,000 more than the city contributed to education—into the Airport Authority with zero public oversight or questions asked. The conflict intensified when Mayor Kant (the previous mayor) established an authority that operated entirely outside citizens' interests, and newly elected Mayor Karin Wilson attempted to exercise an option in the original loan allowing the city to take back 258 acres of land for $10.00 if the principal was not paid off by 2012. Fairhope City Council President and airport liaison Mr. Burrell mocked Mayor Wilson's focus on the citizens, defended the Airport Authority, and sat on an ad hoc committee overseeing airplane hangar bids despite massive conflicts of interest. \n\nTHE DISCOVERY: Article 2 (from late 2016/early 2017) revealed that the Fairhope Airport Authority was operating as a \"black hole for information\" that consumed 21% of the city's budget while serving 1% or less of the population. It exposed entrenched local corruption, detailing how board members possessed direct personal and financial conflicts of interest, and how City Council President Mr. Burrell actively colluded with the Airport Authority, dismissed transparency, and manipulated newly elected council members to block Mayor Wilson's attempts to reclaim city-owned land and debt service accountability. \n\nTHE PIVOT: Article 2 serves as the ultimate \"smoking gun\" and foundational historical context for Article 1 because it shows that the political corruption, \"good ole boys\" networks, and targeting of Mayor Karin Wilson by the city council are not new developments in 2020, but rather a continuation of a decade-long municipal war. The exact same systemic corruption, self-dealing, and defense of private interests over taxpayers—exemplified by the Airport Authority fight in 2016—are what forced the founder of The Ripp Report to classify Fairhope's local government as \"corrupt as a three dollar bill\" and set the stage for the 2020 \"COMBAT\" against the CATALYST faction.\n\nKEY ENTITIES:\n- Mayor Karin Wilson\n- Mr. Burrell (Fairhope City Council President and Airport Authority liaison)\n- John Sharp (Al.com journalist)\n- Jane Nicholes (Lagniappe journalist)\n- Ron Sivak (Lagniappe journalist)\n- The Ripp Report\n- Fairhope Airport Authority\n- Fairhope City Council\n- CATALYST"
+    llm_text: Read how Mayor Karin Wilson battled a 2016 municipal black hole when the Fairhope Airport Authority devoured 21% of the city budget with zero public oversight. Read how Council President Mr. Burrell defended this corruption, proving today's local political wars are a decade in the making.
+    text: Read how Mayor Karin Wilson battled a 2016 municipal black hole when the Fairhope Airport Authority devoured 21% of the city budget with zero public oversight. Read how Council President Mr. Burrell defended this corruption, proving today's local political wars are a decade in the making.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-07T20:35:52.190484Z"
+    model_name: gemini-3.5-flash-lite
+  triangle-roaches:
+    refined_source: b42208397ea05abfc35415b30ab36ac880122b44917fa76537534593ea92134b
+    brief: |-
+      THE CONFLICT:
+      *   Tim Can't served as Mayor of Fairhope for 16 years (2006 to present).
+      *   The Triangle property dispute dates back to family inheritance in the 80s.
+      *   In February 2014, the Fairhope City Council authorized Mayor Can't to seek a legal settlement regarding the Triangle lawsuit, which was hidden from the public.
+      *   In September 2014, the Mayor announced a "Legal Settlement" of $8.25 million, covering a loss and $3 million in law fees guaranteed by Attorney Cain Orear, but the City did not receive a refund of fees.
+      *   The settlement was presented to the public as a purchase for park land, but was actually a loss of the lawsuit.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed the political nature of the Triangle property (not conservation, but a "political football") and exposed the illegal process used by the City Council and Mayor Can't to settle the lawsuit without public knowledge.
+      *   The Widget Article also linked Mayor Can't to favoring development (Publix and Fly Creek Apartments) over citizens.
+
+      THE PIVOT:
+      *   The Widget Article provides the historical evidence (2014 settlement, 16 years of Mayor Can't's tenure) that establishes the pattern of systemic political corruption in Fairhope, which the Main Article later uses to frame the current political machine and the need to expose "political corruption" in Fairhope.
+
+      KEY ENTITIES:
+      *   Tim Can't (aka Kant)
+      *   Fairhope, Alabama
+      *   Triangle Conservancy
+      *   Cain Orear (City Attorney)
+      *   City Council
+      *   Mayor Wilson
+      *   Ripp Report
+      *   2014 (Feb/Sept)
+      *   2006
+      *   $13 million (lawsuit cost)
+      *   $8.25 million (legal settlement)
+      *   Publix
+      *   Fly Creek Apartments
+    llm_text: Mayor Tim Can't hid a $8.25 million Triangle lawsuit settlement from Fairhope citizens in 2014. This hidden deal, disguised as park land, reveals a pattern of political corruption favoring developers like Publix over community needs.
+    text: Mayor Tim Kant hid a major lawsuit settlement from Fairhope residents in 2014. This secret deal favored developers over community needs under the guise of park land acquisition.
+    widget_date: "2019-12-05"
+    generated_at: "2026-11-07T20:36:17.811171Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-12:
+    brief: |-
+      THE CONFLICT:
+      - March 1968, Tet Offensive: Marine combat engineer stationed in Dong Ha, Vietnam, not far from the DMZ.
+      - Base was hit so often that “incoming” was something heard every day; author was the one to yell “incoming”; later learned a North Vietnamese rocket just barely overshot their location and hit an ammo dump; secondary explosion was far worse than the initial blast.
+      - Author went for the ground but did not quite make it when the concussion from the blast reached his body; severe body concussion.
+      - Combat buddies told him he was thrown about the length of a football field, landing against a bunker twisted like a pretzel; they thought he was dead; he did too; it turned out to be a severe body concussion.
+      - Next thing he knew: underground Air Force field hospital in Dong Ha; woke to total confusion, ears ringing so loud he could hardly hear, yelling and crying took up the oxygen in the room; took a while to come around; realized he had all his body parts.
+      - In the hospital next to him: a Marine lost his arm; the Marine on the other stretcher had multiple shrapnel wounds; all author wanted was to leave; outside he passed several body bags.
+      - Author made one of the biggest mistakes of his life by refusing the Purple Heart; no way could he fill out those papers after what he had seen in that hospital; that mistake resulted in a Veterans Claim that has lasted 51 years and still pending.
+
+      - December 1968: first visit to the Veterans Hospital in Birmingham, Alabama, 51 years ago; since that time he has had 14 shoulder operations and a kidney removed as a result of his tour of duty as a young Marine in Vietnam.
+      - Today: reports to the same hospital for his 15th operation, a complete reverse left shoulder replacement.
+
+      - In 2010: author was classified 100% disabled; that same year decided to form the Ripp Report as a non profit consumer organization focusing on political corruption, specifically Fairhope, where corruption was the oil for the machine.
+      - For over 10 years The Ripp Report has been reporting on Fairhope politics; recently began covering Baldwin County.
+
+      - Fairhope with all its pretty flowers has a very dark secret, political corruption; those smelling the flowers and drinking the wine in Fairhope are ignorant of corruption; that ignorance has cost taxpayers millions.
+
+      - Current City Council who appoint the Municipal Judge and the Municipal Attorney are ALL as corrupt as a three dollar bill; they pretend to be your friends and public servants all the while fleecing the taxpayers for personal gain; everyone of these thieves has used their office for personal gain.
+
+      - Elect a new City Council and they will appoint a new Judge and Municipal attorney.
+
+      - Mayor Wilson, a public servant, has been the stumbling block that has prevented the overthrow of the Fairhope government.
+
+      - In 2020, CATALYST, the good ole boys plan on using every means possible to gain control of Fairhope City Hall; if they are successful, say goodbye to Fairhope and your property values.
+
+      - They better be ready for COMBAT.
+
+      - The Ripp Report, Baldwin County Legal Eagle, and Backstory Podcast is going to do everything possible to expose these crooks for what they are; Fairhope needs public servant candidates for City Council; please consider running for office or support new candidates; Fairhope fate is on the line.
+
+      THE DISCOVERY:
+      - Article 2, BACKSTORY PODCAST #12, image context: aerial view of a residential area overlaid with a white layout, pink and white zones, red property lines, and text requesting PUD ordinance inclusion.
+      - At the time, Article 2 revealed background/context through the Backstory Podcast framing and the PUD ordinance inclusion map.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun or key context for Article 1 because Article 1 (COMBAT) is built on the author’s Vietnam injury, refusal of the Purple Heart, pending Veterans Claim, and passion for the Constitution of the United States and good government, then shifts to exposing political corruption, the silent tax, in Fairhope.
+      - The Backstory Podcast #12 provides backstory/context (PUD ordinance inclusion) that serves as background for the Fairhope political corruption conflict covered in Article 1.
+
+      THE KEY ENTITIES:
+      - Author: Marine combat engineer; Lowery per briefing.
+      - Vietnam; Dong Ha; DMZ; Tet Offensive; March 1968; Air Force field hospital.
+      - Birmingham, Alabama; Veterans Hospital; Purple Heart; Veterans Claim; 100% disabled; 2010; 14 shoulder operations; kidney removed; 15th operation; complete reverse left shoulder replacement.
+      - The Ripp Report; Fairhope; Baldwin County; City Council; Municipal Judge; Municipal Attorney; Mayor Wilson; CATALYST; Backstory Podcast; Baldwin County Legal Eagle; COMBAT; Constitution of the United States; good government; political corruption; silent tax; Fairhope City Hall; property values.
+      - Wilters.
+    llm_text: A Marine combat engineer survived the Tet Offensive in Dong Ha, Vietnam, got a concussion, and refused a Purple Heart, leaving a Veterans Claim pending for 51 years. Now he says Fairhope’s rotten city council is the silent tax, and he’s fighting to expose the political corruption before CATALYST takes over City Hall.
+    text: A Marine combat engineer survived the Tet Offensive in Dong Ha, Vietnam, got a concussion, and refused a Purple Heart, leaving a Veterans Claim pending for 51 years. Now he says Fairhope’s rotten city council is the silent tax, and he’s fighting to expose the political corruption before CATALYST takes over City Hall.
+    widget_date: "2019-11-24"
+    generated_at: "2026-11-07T20:36:12.851425Z"
+    model_name: recursive/flint-v1.0:free

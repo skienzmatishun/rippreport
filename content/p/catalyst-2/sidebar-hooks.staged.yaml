@@ -1,0 +1,119 @@
+metadata:
+  generated_at: "2026-11-07T19:49:19.776927Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-2
+  main_date: "2020-03-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  danger-zone:
+    brief: |-
+      THE CONFLICT:
+      - Past event: Highway 98 and Parker Road intersection described as becoming more dangerous with every passing day.
+      - Named parties: CATALYST Fairhope City Council; former Fairhope Mayor Can’t; property owner Angelo Corte, identified as a CATALYST supporter.
+      - Context: motorists traveling through the intersection affected; attributed to CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and Angelo Corte; cited framing: “politicians and developers in the same bed.”
+      - Dates: no specific dates provided in supplied material.
+
+      THE DISCOVERY:
+      - Article 2, DANGER ZONE: older article; described Highway 98 and Parker Road as becoming more dangerous.
+      - Article 2 claimed/connected danger to CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and Angelo Corte.
+      - Article 2 listed complaints/effects on motorists traveling through the intersection.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1, so framed as background/historical context for Article 1, CATALYST.
+      - Article 2 is the smoking gun/key context for Article 1 because it tied Highway 98/Parker Road danger to CATALYST-affiliated actors.
+      - Article 2 provided earlier danger-zone reporting that contextualizes Article 1’s catalyst/development/political conflict.
+
+      KEY ENTITIES:
+      - Highway 98
+      - Parker Road
+      - CATALYST
+      - CATALYST Fairhope City Council
+      - Former Fairhope Mayor Can’t
+      - Angelo Corte
+      - CATALYST supporter
+      - Fairhope motorists
+      - Lowery
+      - Wilters
+      - Fairhope City Council
+    llm_text: Highway 98 and Parker Road just got more dangerous, and CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and Angelo Corte knew it. The older DANGER ZONE article linked their plans to motorists’ safety risks—now it’s the smoking gun for the fight heating up.
+    text: Highway 98 and Parker Road just got more dangerous, and CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and Angelo Corte knew it. The older DANGER ZONE article linked their plans to motorists’ safety risks—now it’s the smoking gun for the fight heating up.
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T19:47:49.886447Z"
+    model_name: recursive/flint-v1.0:free
+  survey:
+    brief: "THE CONFLICT: \n- City Council purchased 2.65 million dollars worth of farmland for recreation against public outcry during the budget process.\n- Within weeks of the purchase and with zero money allocated for development, the council declared the property \"surplus.\"\n- The council leased the property out for farming at 9,000 dollars a year, an amount that barely covers the interest (\"Good ole Boy deal\").\n- Ongoing political warfare and obstruction between the Mayor/staff and the \"CATALYST\" City Council.\n\nTHE DISCOVERY: \n- Historically (reported in the State of the City / 35-page report), Fairhope's city debt was paid in full by June 2019 under the Mayor, superintendents, and staff.\n- Employee morale was higher than in previous years despite council friction.\n- The past administration/council actions contrasted with executive financial accomplishments, specifically the controversial, value-draining land purchase.\n- Current context reveals a massive shift toward a new initiative: the 6.2 million dollar \"Fairhope Working Waterfront and Green Space Project\" aimed at promoting tourism and recreational fishing at the pier and waterfront.\n\nTHE PIVOT: \n- Article 2 (SURVEY) serves as the historical baseline exposing the council's previous financial recklessness (the 2.65 million dollar farmland blunder leased for a paltry 9,000 dollars) contrasted with the administration's debt-free claims in 2019. \n- It provides the smoking gun context of past council obstruction and poor fiscal management, which directly contrasts with the massive 6.2 million dollar capital investment now being rolled out for the \"Fairhope Working Waterfront and Green Space Project\" in Article 1 (CATALYST).\n\nKEY ENTITIES: \n- Fairhope City Council (CATALYST council)\n- Mayor of Fairhope\n- City of Fairhope\n- Backstory Podcast #21"
+    llm_text: 'Fairhope’s City Council wasted $2.65 million on farmland, then leased it for a paltry $9,000 a year while the Mayor’s team kept the city debt-free. Dive into Backstory Podcast #21 to uncover how this fiscal recklessness threatens the massive $6.2 million waterfront project.'
+    text: 'Fairhope’s City Council wasted $2.65 million on farmland, then leased it for a paltry $9,000 a year while the Mayor’s team kept the city debt-free. Dive into Backstory Podcast #21 to uncover how this fiscal recklessness threatens the massive $6.2 million waterfront project.'
+    widget_date: "2020-02-08"
+    generated_at: "2026-11-07T19:47:34.714810Z"
+    model_name: gemini-3.5-flash-lite
+  bar-stool-continued:
+    refined_source: 68bc74c2244d177691d63e7d5770267e81019803779158d5ac53b4c8f22485b8
+    brief: |-
+      THE CONFLICT: Assault case involving McSherry; initial expected resolution timeline was 6 months; incident video tape exists.
+      THE DISCOVERY: Case delayed 15 months; McSherry faces multiple convictions, probation, and an 180-day jail sentence; current proceedings are in Circuit Court.
+      THE PIVOT: Article 2 established the initial delay and ongoing issues in Fairhope Municipal Court; Article 1 references the current status and impending January 27 court date in Circuit Court.
+      KEY ENTITIES: McSherry, James Pittman, Fairhope Municipal Court, City Attorney, Circuit Court
+    llm_text: McSherry's assault case dragged 15 months past its 6-month mark, leading to multiple convictions and jail time. See why the January 27 Circuit Court date matters now for James Pittman and the ongoing Fairhope Municipal Court issues.
+    text: Ronan McSharry's assault case dragged 15 months past its six-month limit, leading to convictions and jail time. The January 27 Circuit Court date matters now for James Pittman and ongoing Fairhope Municipal Court issues.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T19:47:40.192194Z"
+    model_name: plugsky-lite
+  public-servant:
+    refined_source: 55c694f71879a94b6c7fa9818be560ee9b52bf02a752ce032335ebd880787fe2
+    brief: |-
+      THE CONFLICT:
+      Jerry Carl launched negative attack ads against Bill Hightower during the run-off campaign in the First Congressional District.
+      Bill Hightower publicly responded to Jerry Carl's campaign tactics and associated debt.
+
+      THE DISCOVERY:
+      Bill Hightower stated in a public message that Jerry Carl's campaign was over half a million dollars in debt, with more than $200,000 specifically owed to a local bank.
+
+      THE PIVOT:
+      Article 1 utilizes Hightower's admission of $200,000 debt not as proof of weakness, but as evidence of desperation, arguing that Hightower is funded by larger, opaque out-of-state special interest money, thus justifying Jerry Carl's need to "level the playing field."
+
+      KEY ENTITIES:
+      Jerry Carl
+      Bill Hightower
+      Susan Hightower
+      First Congressional District
+      Baldwin County Citizens for Accountability
+      March 31 (vote date)
+      $200,000 (local bank debt)
+      Over half a million dollars (total campaign debt)
+    llm_text: Jerry Carl attacked Bill Hightower, but Hightower revealed Carl's campaign is over half a million dollars in debt, including $200,000 owed to a local bank. This debt isn't weakness—it shows desperation, proving Hightower is funded by opaque, out-of-state special interests.
+    text: Jerry Carl attacked Bill Hightower, but Hightower revealed Carl's campaign is over half a million dollars in debt. This debt shows desperation and proves outside special interests fund Carl.
+    widget_date: "2020-03-07"
+    generated_at: "2026-11-07T19:48:10.593298Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  runoff:
+    refined_source: a5e0fda51a44559016e8908ba567384dd6745208cce9f4e03820aa4233013bc1
+    brief: |-
+      THE CONFLICT: First Congressional District runoff was held on March 31; candidates were Jerry Carl and Bill Hightower.
+      THE DISCOVERY: CATALYST predicted 10,000 votes but fell short by over 66%; Hightower scored 3126 more votes than Carl in Baldwin County.
+      THE PIVOT: The March 31 runoff results demonstrate CATALYST's regional strength (Baldwin County) versus their overall organizational weakness (failed vote prediction), framing the political threat in the First Congressional District.
+      KEY ENTITIES: Jerry Carl, Bill Hightower, CATALYST, Baldwin County, First Congressional District, Baldwin, Mobile, Monroe, Escambia, Clark County.
+    llm_text: Bill Hightower beat Jerry Carl in the First Congressional District runoff, scoring 3,126 more votes in Baldwin County. See how CATALYST’s local strength contrasts with their failed 10,000-vote prediction and what this means for the future of the district.
+    text: Bill Hightower beat Jerry Carl in the First Congressional District runoff by securing 3,126 more votes in Baldwin County. Local strength contrasted with failed polling predictions for the district.
+    widget_date: "2020-03-05"
+    generated_at: "2026-11-07T19:49:05.371122Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-change-of-government:
+    refined_source: 4e204ef58cd2aaa237ed5da35324d4c17a4f376a8d85e3e3d57cfa17e4c69a40
+    brief: |-
+      THE CONFLICT: No specific conflict detailed in provided text.
+      THE DISCOVERY: A meeting was scheduled, urging a 'YES' vote on November 6th, 2018, concerning Fairhope advancement.
+      THE PIVOT: Article 2 establishes the November 2018 political/civic context for any events discussed in the main 'CATALYST' article.
+      KEY ENTITIES: Fairhope
+    llm_text: Fairhope voters faced a crucial 'YES' vote on November 6, 2018, regarding local advancement. See how that pivotal civic moment shaped the events in our main 'CATALYST' article.
+    text: Fairhope voters faced a crucial vote on November 6, 2018, regarding local advancement. That pivotal civic moment shaped the events in our main investigation.
+    widget_date: "2018-10-24"
+    generated_at: "2026-11-07T19:47:31.780533Z"
+    model_name: plugsky-lite
+  vote-yes-on-nov-6th:
+    brief: "THE CONFLICT: \n- Historical political campaign context leading up to a November 6th election (Vote \"Yes\" on Nov 6th).\n- Content of the older widget article advocates for a specific ballot measure or candidate via a green checkmark endorsement graphic.\n\nTHE DISCOVERY: \n- The older widget article establishes the historical public messaging and voter mobilization efforts deployed during the Nov 6th election cycle.\n- It documents the exact propaganda or promotional stance taken by proponents at that specific point in time.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it provides the documentary baseline of what was promised, promoted, or pushed to voters on November 6th, which can now be cross-examined against the current realities or fallout detailed in Article 1 (\"CATALYST\").\n\nKEY ENTITIES: \n- November 6th (Election Date)\n- The Ripp Report (Publication)"
+    llm_text: See how The Ripp Report exposed the exact promises pushed during the November 6th election cycle. Read this archived piece now to cross-examine those old voter pitches against today's harsh realities.
+    text: See how The Ripp Report exposed the exact promises pushed during the November 6th election cycle. Read this archived piece now to cross-examine those old voter pitches against today's harsh realities.
+    widget_date: "2018-10-30"
+    generated_at: "2026-11-07T19:47:27.846803Z"
+    model_name: gemini-3.5-flash-lite

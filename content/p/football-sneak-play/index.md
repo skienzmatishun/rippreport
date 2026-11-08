@@ -99,7 +99,7 @@ alttags: A brown football with white stripes and black laces rests on a green ba
 summary: Following up on Fairhope's reckless spending habits, local officials quietly
   handed over tens of thousands in taxpayer dollars for exclusive athletic facility
   access. Campaign finance records expose a shady pay-to-play scheme involving Mayor
-  Kant, big-money donors, and blatant council conflicts of interest. Discover how
+  Kant, big-money donors, and blatant council conflicts of interest. Read how
   city insiders run their dirty plays right under our noses.
 ---
 

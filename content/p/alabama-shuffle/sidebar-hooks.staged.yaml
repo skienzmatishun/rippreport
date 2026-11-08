@@ -5,7 +5,114 @@ metadata:
   main_date: "2022-07-27"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  top-shelf-corruption:
+    refined_source: 7b3a7c05d6e9eee1cfb7b6ce340214e8bb16527a7801599d9daa79cbd884aab3
+    brief: |-
+      THE CONFLICT: Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. McCallum engaged in transgressions resulting in fines from the Ethics Commission. Steve Marshall, the Attorney General, approved the forwarding of this case but took no criminal action.
+
+      THE DISCOVERY: The Ethics Commission's Executive Director, Tom Albritton, and his family received $105,000 in scholarships (2014-2018) from the trust, documented in 990 records.
+
+      THE PIVOT: Article 2 establishes a historical pattern of complicity where the Attorney General’s Office (Marshall), Ethics Commission, and State Bar protected McCallum from criminal charges, providing context for Article 1's claim that Marshall is now using the "Alabama Shuffle" to deflect a new complaint against Albritton.
+
+      KEY ENTITIES:
+      Steve Marshall (Attorney General of Alabama)
+      Tom Albritton (Ethics Commission Executive Director)
+      McCallum
+      Ethics Commission
+      State Bar
+      Regions Bank
+    llm_text: Tom Albritton, Ethics Commission Director, received $105,000 in scholarships from the trust. Did Steve Marshall and the State Bar shield McCallum from criminal charges, or is Marshall now using the "Alabama Shuffle" to deflect Albritton's new complaint?
+    text: Ethics Commission Director Tom Albritton collected $105,000 in trust scholarships for his family. Did Steve Marshall and the State Bar shield officials from criminal charges to protect the agency?
+    widget_date: "2022-07-09"
+    generated_at: "2026-11-06T21:45:22.458851Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephants-in-alabama:
+    refined_source: a3a9d17491ce9707dd143a0c8cf3c4dee176ffbf744f2955254bc752b24482e0
+    brief: |-
+      THE CONFLICT:
+      * Tom Albritton served as the Ethics Executive Director of the Ethics Commission.
+      * A civil lawsuit has been filed outlining charges against Tom Albritton and the trustees/bank.
+      * Attorney General Steve Marshall has ignored complaints and covered for the Bar and Ethics, with no criminal charges filed.
+
+      THE DISCOVERY:
+      * Based on state payroll data, "Employee 1" in the Examiners’ report was identified as McCallum.
+      * McCallum was paid salary and continued receiving perks for months after his resignation.
+      * Approximately 10 months after resigning, the State Bar paid McCallum an additional $37,000.
+
+      THE PIVOT:
+      * Article 2 (Widget) provides specific payroll evidence (McCallum, $37,000 payment) proving corruption at the highest level of state government.
+      * This specific evidence contextualizes Article 1 (Main), which details how Attorney General Steve Marshall utilized the "Alabama Shuffle" to ignore complaints related to Tom Albritton and avoid criminal charges.
+
+      KEY ENTITIES:
+      * Steve Marshall (Attorney General of Alabama)
+      * Tom Albritton (Ethics Executive Director)
+      * McCallum (Identified as "Employee 1")
+      * Ethics Commission
+      * State Bar
+      * Alabama
+    llm_text: Tom Albritton faces a civil lawsuit detailing Ethics Commission corruption. See how McCallum, identified as "Employee 1," still received $37,000 from the State Bar months after resigning, proving high-level state misconduct.
+    text: Tom Albritton faces a civil lawsuit detailing corruption inside the Ethics Commission. A state official identified as Employee 1 received $37,000 from the State Bar months after resigning from office.
+    widget_date: "2022-07-14"
+    generated_at: "2026-11-06T21:46:16.241997Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dirty-underwear:
+    refined_source: d5e1acfed4490bb2da9fb5e91d46d86d697ebec064f68341a4860326042178d2
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton was confirmed by the State Senate as Executive Director of the Alabama Ethics Commission in March 2015.
+      *   Between 2014 and 2018, Albritton's children received $105,000 in scholarships from a trust where he was a trustee.
+      *   McCallum was fined $100,000 by the Alabama Ethics Commission but faced no criminal prosecution from the Attorney General’s Office.
+      *   The Bar Association paid McCallum $37,437 in August 2021, approximately 10 months after his resignation.
+
+      THE DISCOVERY:
+      *   The Ethics Commission sugarcoated 17 violations.
+      *   The Alabama Bar, Ethics Commission, and Attorney General protected each other and politicians through a legal shuffle.
+      *   The Bar and AG saw no wrongdoing regarding Albritton's self-dealing, despite IRS Section 4941(d) prohibiting such actions.
+
+      THE PIVOT:
+      *   Article 2 (historical context) established the pattern of institutional protection, where the AG, Ethics Commission, and Bar failed to prosecute self-dealing and violations (e.g., McCallum, Albritton).
+      *   Article 1 (current event) details Steve Marshall's "Alabama Shuffle" regarding a new complaint against Tom Albritton, where the AG’s office dismissed the complaint ("WE cannot... disclose to you any decision") despite the existence of a civil lawsuit.
+      *   The prior failure to act on Albritton's trust violations proves the current inaction is systemic corruption, not merely a procedural dismissal.
+
+      KEY ENTITIES:
+      *   Steve Marshall (Attorney General of Alabama)
+      *   Tom Albritton (Ethics Executive Director)
+      *   Alabama Ethics Commission
+      *   Alabama Bar
+      *   McCallum
+      *   University of Texas
+      *   Alabama Legislature (passed ban in 2010)
+    llm_text: Tom Albritton used his Ethics Director role to funnel $105,000 in scholarships to his children. Now, AG Steve Marshall dismisses a new complaint against him, proving the Alabama Bar and Ethics Commission still protect political self-dealing.
+    text: Tom Albritton used his role as Ethics Director to send $105,000 in trust funds to his children. Attorney General Steve Marshall dismissed the ethics complaint, proving state agencies protect their own.
+    widget_date: "2022-07-01"
+    generated_at: "2026-11-06T21:43:21.405189Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pot-calling-the-kettle-black:
+    refined_source: fc25a8e6a53f68b6408a362243832b71325c1cba8a267f8e702faa7b88ea6d38
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as trustee for the funds in Baldwin County.
+      THE DISCOVERY: Tom Albritton, as Ethics Director, has a private charitable trust that pays over $100,000 for his children's college tuition, raising questions about his ethics. Also, a report cited potential $1.5 million or more in fraud including embezzlement, mail fraud, and wire fraud.
+      THE PIVOT: The historical corruption (Pittman/B.P.) and the established ethical questions regarding Albritton's private trust provide the context for the current civil lawsuit and the complaint filed against him, which AG Steve Marshall attempted to manage via the "Alabama Shuffle."
+      KEY ENTITIES: Steve Marshall (Alabama Attorney General), Tom Albritton (Ethics Director), Tripp Pittman (Former State Senator), B.P., Baldwin County
+    llm_text: Former State Senator Tripp Pittman stole $750k from B.P. Now, Ethics Director Tom Albritton faces scrutiny over his $100k+ college trust. Learn how AG Steve Marshall tried to manage this Baldwin County corruption.
+    text: Former State Senator Tripp Pittman diverted $750,000 in BP funds while Ethics Director Tom Albritton managed a six-figure college trust. Attorney General Steve Marshall worked to contain the fallout.
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-06T21:47:17.167845Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  perfect-puzzle:
+    refined_source: f4d4a157863c34285809d3ea0f09c1ed6c32e4a81eda65b9ac16e598ba43f1c0
+    brief: |-
+      THE CONFLICT: Judge Johnny Hardwick, Montgomery Circuit Judge, recused himself from hearing ethics cases on November 1st due to a potential conflict of interest; Chief Justice Tom Parker selected him for ethics cases.
+      THE DISCOVERY: Tom Albritton, Alabama Ethics Commission Executive Director, utilized a charitable trust (where he is a board member) to pay for his children's college tuition; systemic corruption involved $4.3 million spent on a party house by St. John’s office and misuse of RSA payments.
+      THE PIVOT: Article 2 established Albritton's history of significant ethical and financial misconduct, providing context for the current issue where AG Steve Marshall (Article 1) is accused of protecting Albritton by ignoring a formal complaint regarding his conduct.
+      KEY ENTITIES: Steve Marshall (Attorney General of Alabama), Tom Albritton (Ethics Commission Executive Director), Chief Justice Tom Parker, Judge Johnny Hardwick, Alabama Ethics Commission, St. John’s office.
+    llm_text: Alabama AG Steve Marshall protected Ethics Director Tom Albritton, despite Albritton's history of $4.3M misuse and tuition trust issues. Read how Marshall ignored formal complaints about Albritton's significant ethical misconduct.
+    text: Attorney General Steve Marshall protected Ethics Director Tom Albritton despite millions in mismanaged funds and tuition trust payouts. Marshall ignored formal complaints detailing severe ethical misconduct.
+    widget_date: "2021-12-08"
+    generated_at: "2026-11-06T21:48:26.894178Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bsp-131:
+    refined_source: 2f12d3da2135b255551ddb8f5ec4e42ccae19acdf2cc3ac0cf2d536bdc6804c7
     brief: |-
       THE CONFLICT:
       *   Historical context involved leadership problems within the Ethics Commission, Attorney General’s Office, and Alabama State Bar.
@@ -31,10 +138,12 @@ hooks:
       *   Baldwin County Sewer Service
       *   Little Lagoon
     llm_text: Steve Marshall’s AG Office and the Ethics Commission previously tangled with a "Strawman Lawsuit" concerning Baldwin County sewer issues. This history reveals how deep institutional leadership problems set the stage for the Tom Albritton controversy and the current Alabama Shuffle.
+    text: Steve Marshall's Attorney General Office and the Ethics Commission previously tangled over Baldwin County sewer issues. This history of institutional failure paved the way for the Tom Albritton controversy.
     widget_date: "2022-07-24"
     generated_at: "2026-11-06T21:41:55.583142Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   line-in-the-sand:
+    refined_source: 12188280fd2b04fed2f820ad88b38f2e8f482af6decbe8c5cb9d12dbf05e98bc
     brief: |-
       THE CONFLICT:
       *   Mabel Amos Charitable Trust established after Mabel Amos' death in 1999.
@@ -64,102 +173,7 @@ hooks:
       *   Montgomery County Circuit Court
       *   Alabama Ethics Commission
     llm_text: Tom Albritton faced self-dealing allegations in the Mabel Amos Charitable Trust, involving $120k in family scholarships and $1.2 million in Regions Bank fees. Despite complaints, Alabama Attorney General Steve Marshall ignored these white-collar crimes—the "Alabama Shuffle."
+    text: Tom Albritton faced self-dealing allegations involving $120,000 in family scholarships and $1.2 million in Regions Bank fees. Attorney General Steve Marshall ignored these white-collar crimes.
     widget_date: "2022-07-24"
     generated_at: "2026-11-06T21:44:19.821236Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  top-shelf-corruption:
-    brief: |-
-      THE CONFLICT: Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. McCallum engaged in transgressions resulting in fines from the Ethics Commission. Steve Marshall, the Attorney General, approved the forwarding of this case but took no criminal action.
-
-      THE DISCOVERY: The Ethics Commission's Executive Director, Tom Albritton, and his family received $105,000 in scholarships (2014-2018) from the trust, documented in 990 records.
-
-      THE PIVOT: Article 2 establishes a historical pattern of complicity where the Attorney General’s Office (Marshall), Ethics Commission, and State Bar protected McCallum from criminal charges, providing context for Article 1's claim that Marshall is now using the "Alabama Shuffle" to deflect a new complaint against Albritton.
-
-      KEY ENTITIES:
-      Steve Marshall (Attorney General of Alabama)
-      Tom Albritton (Ethics Commission Executive Director)
-      McCallum
-      Ethics Commission
-      State Bar
-      Regions Bank
-    llm_text: Tom Albritton, Ethics Commission Director, received $105,000 in scholarships from the trust. Did Steve Marshall and the State Bar shield McCallum from criminal charges, or is Marshall now using the "Alabama Shuffle" to deflect Albritton's new complaint?
-    widget_date: "2022-07-09"
-    generated_at: "2026-11-06T21:45:22.458851Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  elephants-in-alabama:
-    brief: |-
-      THE CONFLICT:
-      * Tom Albritton served as the Ethics Executive Director of the Ethics Commission.
-      * A civil lawsuit has been filed outlining charges against Tom Albritton and the trustees/bank.
-      * Attorney General Steve Marshall has allegedly ignored complaints and covered for the Bar and Ethics, with no criminal charges filed.
-
-      THE DISCOVERY:
-      * Based on state payroll data, "Employee 1" in the Examiners’ report was identified as McCallum.
-      * McCallum was paid salary and continued receiving perks for months after his resignation.
-      * Approximately 10 months after resigning, the State Bar paid McCallum an additional $37,000.
-
-      THE PIVOT:
-      * Article 2 (Widget) provides specific payroll evidence (McCallum, $37,000 payment) proving corruption at the highest level of state government.
-      * This specific evidence contextualizes Article 1 (Main), which details how Attorney General Steve Marshall utilized the "Alabama Shuffle" to ignore complaints related to Tom Albritton and avoid criminal charges.
-
-      KEY ENTITIES:
-      * Steve Marshall (Attorney General of Alabama)
-      * Tom Albritton (Ethics Executive Director)
-      * McCallum (Identified as "Employee 1")
-      * Ethics Commission
-      * State Bar
-      * Alabama
-    llm_text: Tom Albritton faces a civil lawsuit detailing Ethics Commission corruption. See how McCallum, identified as "Employee 1," still received $37,000 from the State Bar months after resigning, proving high-level state misconduct.
-    widget_date: "2022-07-14"
-    generated_at: "2026-11-06T21:46:16.241997Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  dirty-underwear:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton was confirmed by the State Senate as Executive Director of the Alabama Ethics Commission in March 2015.
-      *   Between 2014 and 2018, Albritton's children received $105,000 in scholarships from a trust where he was a trustee.
-      *   McCallum was fined $100,000 by the Alabama Ethics Commission but faced no criminal prosecution from the Attorney General’s Office.
-      *   The Bar Association paid McCallum $37,437 in August 2021, approximately 10 months after his resignation.
-
-      THE DISCOVERY:
-      *   The Ethics Commission sugarcoated 17 violations.
-      *   The Alabama Bar, Ethics Commission, and Attorney General protected each other and politicians through a legal shuffle.
-      *   The Bar and AG saw no wrongdoing regarding Albritton's self-dealing, despite IRS Section 4941(d) prohibiting such actions.
-
-      THE PIVOT:
-      *   Article 2 (historical context) established the pattern of institutional protection, where the AG, Ethics Commission, and Bar failed to prosecute self-dealing and violations (e.g., McCallum, Albritton).
-      *   Article 1 (current event) details Steve Marshall's "Alabama Shuffle" regarding a new complaint against Tom Albritton, where the AG’s office dismissed the complaint ("WE cannot... disclose to you any decision") despite the existence of a civil lawsuit.
-      *   The prior failure to act on Albritton's trust violations proves the current inaction is systemic corruption, not merely a procedural dismissal.
-
-      KEY ENTITIES:
-      *   Steve Marshall (Attorney General of Alabama)
-      *   Tom Albritton (Ethics Executive Director)
-      *   Alabama Ethics Commission
-      *   Alabama Bar
-      *   McCallum
-      *   University of Texas
-      *   Alabama Legislature (passed ban in 2010)
-    llm_text: Tom Albritton used his Ethics Director role to funnel $105,000 in scholarships to his children. Now, AG Steve Marshall dismisses a new complaint against him, proving the Alabama Bar and Ethics Commission still protect political self-dealing.
-    widget_date: "2022-07-01"
-    generated_at: "2026-11-06T21:43:21.405189Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pot-calling-the-kettle-black:
-    brief: |-
-      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as trustee for the funds in Baldwin County.
-      THE DISCOVERY: Tom Albritton, as Ethics Director, has a private charitable trust that pays over $100,000 for his children's college tuition, raising questions about his ethics. Also, a report cited potential $1.5 million or more in fraud including embezzlement, mail fraud, and wire fraud.
-      THE PIVOT: The historical corruption (Pittman/B.P.) and the established ethical questions regarding Albritton's private trust provide the context for the current civil lawsuit and the complaint filed against him, which AG Steve Marshall attempted to manage via the "Alabama Shuffle."
-      KEY ENTITIES: Steve Marshall (Alabama Attorney General), Tom Albritton (Ethics Director), Tripp Pittman (Former State Senator), B.P., Baldwin County
-    llm_text: Former State Senator Tripp Pittman stole $750k from B.P. Now, Ethics Director Tom Albritton faces scrutiny over his $100k+ college trust. Learn how AG Steve Marshall tried to manage this Baldwin County corruption.
-    widget_date: "2022-02-19"
-    generated_at: "2026-11-06T21:47:17.167845Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  perfect-puzzle:
-    brief: |-
-      THE CONFLICT: Judge Johnny Hardwick, Montgomery Circuit Judge, recused himself from hearing ethics cases on November 1st due to a potential conflict of interest; Chief Justice Tom Parker selected him for ethics cases.
-      THE DISCOVERY: Tom Albritton, Alabama Ethics Commission Executive Director, utilized a charitable trust (where he is a board member) to pay for his children's college tuition; systemic corruption involved $4.3 million spent on a party house by St. John’s office and misuse of RSA payments.
-      THE PIVOT: Article 2 established Albritton's history of significant ethical and financial misconduct, providing context for the current issue where AG Steve Marshall (Article 1) is accused of protecting Albritton by ignoring a formal complaint regarding his conduct.
-      KEY ENTITIES: Steve Marshall (Attorney General of Alabama), Tom Albritton (Ethics Commission Executive Director), Chief Justice Tom Parker, Judge Johnny Hardwick, Alabama Ethics Commission, St. John’s office.
-    llm_text: Alabama AG Steve Marshall allegedly protected Ethics Director Tom Albritton, despite Albritton's history of $4.3M misuse and tuition trust issues. Discover how Marshall ignored formal complaints about Albritton's significant ethical misconduct.
-    widget_date: "2021-12-08"
-    generated_at: "2026-11-06T21:48:26.894178Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

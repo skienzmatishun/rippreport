@@ -1,0 +1,206 @@
+metadata:
+  generated_at: "2026-11-07T09:11:43.726042Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-81-tan-rested-ready
+  main_date: "2021-05-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: ce86ccc19dc454342a098f7396fb87dbd5ac2475decb6960ccf09c69c55c3e70
+    brief: |-
+      THE CONFLICT:
+      *   Sheriff mayhem lawsuits were occurring (mentioned generally in the Main Article).
+      *   OJ French Jr.'s family contested previous statements by Mayor Robert Bob Wills regarding an investigation outcome.
+
+      THE DISCOVERY:
+      *   On July 31, 2024, the French Family, Bay Minette Justice League, and May Jung LLC filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson.
+      *   The lawsuit alleges Officer Thompson lacked probable cause for the stop and escalated the situation, resulting in his shooting and death.
+      *   The Sheriff announced his resignation mid-August.
+      *   Governor Ivey is considering appointing Chief Deputy Anthony Lowery to fill the remainder of the term, with County Commissioner Matt McKenzie also interested.
+
+      THE PIVOT:
+      *   Article 2 provides the specific lawsuit details (July 31, 2024) and the current leadership transition (Sheriff resignation/Lowery/McKenzie interest) that contextualizes the general "Sheriff mayhem lawsuits" mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   OJ French Jr.
+      *   Officer Brandon Thompson
+      *   Mayor Robert Bob Wills
+      *   Sheriff Mack
+      *   Anthony Lowery
+      *   Matt McKenzie
+      *   Governor Ivey
+      *   May Jung LLC
+      *   City of Bay Minette
+      *   Fairhope Waterfront
+    llm_text: OJ French Jr.'s family sued the City of Bay Minette, alleging Officer Brandon Thompson lacked probable cause and escalated the situation leading to his death. With Sheriff Mack resigning, Governor Ivey is considering Anthony Lowery or Matt McKenzie to fill the leadership gap.
+    text: The family of OJ French Jr. sued Bay Minette, alleging Officer Brandon Thompson escalated the situation. Governor Ivey considers a replacement as Sheriff Mack resigns.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T09:11:29.234278Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 9d5c81e71ad6ecbaf5993c59bd9fc1dd3fa951b9686812ffed06656eaa2c94bb
+    brief: |-
+      THE CONFLICT: Texas reached a milestone of 50,000 deaths contributed to the SARS-COV-2 Pandemic; local issues included gaming flip-flop by Taxman Elliott and Sheriff mayhem lawsuits in Fairhope.
+      THE DISCOVERY: Article 2 details a damning report on the US government's COVID-19 response, President Biden's pardon of his son Hunter, and allegations of misconduct/wrongful arrests of individuals exposing local school district corruption.
+      THE PIVOT: Article 2 provides national context (Biden/US COVID response) that validates the local corruption and misconduct mentioned in Article 1, linking local lawsuits (Fairhope) to broader First Amendment violations and exposure of corruption.
+      KEY ENTITIES: Elliott, Fairhope, Hoss-Mack, State EMA, President Biden, Hunter Biden
+    llm_text: Texas hit 50,000 COVID deaths while Taxman Elliott flipped on gaming and Fairhope faced lawsuit mayhem. A damning report links local corruption to President Biden's flawed COVID response and Hunter's pardon.
+    text: Texas recorded 50,000 COVID deaths while Taxman Elliott flipped on gaming and Fairhope faced lawsuits. A new report links local corruption to federal pandemic responses.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T09:06:19.007263Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: ebf1f5d1d056d302423072113da65a9b0e2976f5237fcd64ef132768ac537a1a
+    brief: |-
+      THE CONFLICT: Alabama Legislature was in session passing the largest General Fund Budget in history amid the SARS-COV-2 Pandemic (Texas reported 50,000 deaths related to the pandemic). Local issues included Sheriff mayhem lawsuits and a gaming flip-flop examined by Taxman Elliott.
+
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and attempted to control the veterans’ board, causing upset among Republican veterans. A true crime story in Clarke County exposed shady ties between a hospice business and a local judge, revealing Alabama's "good old boy" system.
+
+      THE PIVOT: Article 2 provides current political context (Ivey/Davis conflict and police accountability questions regarding SWAT raids) that clarifies the broader issues of local governance and institutional corruption mentioned in Article 1 (Sheriff lawsuits, Taxman Elliott's examination).
+
+      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Taxman Elliott, Clarke County, Alabama Legislature, Fairhope Waterfront
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis while Alabama tackled its largest budget amid the pandemic. Read how Clarke County's hospice ties to a local judge and Taxman Elliott's sheriff lawsuits expose Alabama's "good old boy" corruption.
+    text: Governor Kay Ivey fired Admiral Kent Davis while Alabama tackled its largest budget. Clarke County hospice ties and Taxman Elliott lawsuits expose good old boy corruption.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T09:02:19.427407Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: dece8619b3f5e9315ba9e30598478f27ef9acaa34c023276c80b913383ce6893
+    brief: |-
+      THE CONFLICT: Sheriff Mack's father (Coroner of Baldwin County) ordered two autopsies in 2005 which were never disclosed to the defense in the Mack vs Hadley case (theft of a 1968 Camaro), constituting a Brady Violation.
+      THE DISCOVERY: The Alabama Court of Civil Appeals released its decision today at 1pm regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
+      THE PIVOT: The 2005 undisclosed autopsies provide the specific context and evidence for the "Sheriff mayhem lawsuits" referenced in the earlier article.
+      KEY ENTITIES: Sheriff Mack, Mack vs Hadley, Murray Lawrence Jr., Baldwin County Sheriff's Department, Mark Fuller, Elliott, Fairhope Waterfront
+    llm_text: Did Sheriff Mack's father hide two critical 2005 autopsies in the Mack vs Hadley case? The Alabama Court of Civil Appeals just ruled on Murray Lawrence Jr.'s new trial, connecting these Brady violations to the wider Baldwin County mayhem lawsuits.
+    text: Did Sheriff Mack's father hide two critical 2005 autopsies in the Mack versus Hadley case? The Alabama Court of Civil Appeals just ruled on a new trial for Murray Lawrence Jr.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T09:05:27.029600Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: de264a502efdf449ec1236f6b8677896bca5d7af398a0bee7041d91111607419
+    brief: |-
+      THE CONFLICT:
+      * 50,000 deaths contributed to SARS-COV-2 Pandemic in Texas.
+      * Alabama Legislature was in session passing the largest General Fund Budget in history.
+      * Fairhope Art Fest was scheduled for that weekend.
+      * Gaming flip-flop involving Taxman Elliott was examined.
+
+      THE DISCOVERY:
+      * Kent David (Former Real Admiral/Jag Officer, Alabama Veterans Affairs Commissioner) is leaving the State of Alabama due to a whistleblower Ethics Complaint.
+      * The "Haitian Immigrant Eating Cats" debate is front and center in Sylacauga, Alabama.
+      * Fairhope, Alabama, housing prices are outside middle class ownership.
+
+      THE PIVOT:
+      * Article 2 updates the local narrative from the generalized pandemic response (A1) to specific, ongoing social and political crises within Alabama, including immigration debate and high-profile public servant departures.
+
+      KEY ENTITIES:
+      * Taxman Elliott
+      * Fairhope
+      * Hoss-Mack
+      * SARS-COV-2
+      * Kent David
+      * Sylacauga
+      * Brandon Moseley
+      * David R. Jones (Texas Federal Bankruptcy Judge)
+    llm_text: Kent David is leaving Alabama over a whistleblower ethics complaint, despite the state passing its largest budget during the SARS-COV-2 pandemic. Read how Sylacauga's "Haitian immigrant eating cats" debate and high Fairhope housing prices reflect Alabama's specific crises.
+    text: Kent David left Alabama over a whistleblower ethics complaint while the state passed its largest budget. Sylacauga and Fairhope reflect these deep local crises.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T09:10:02.059729Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 40c9aee1ad7ba6ed4a1a0cb4a42bb5cad65585fbc268b2e1058c98c5abd1576b
+    brief: |-
+      THE CONFLICT:
+      *   Pandemic context included 50,000 deaths in Texas due to SARS-COV-2.
+      *   Alabama Legislature was passing the largest General Fund Budget in history.
+      *   Local issues included Fairhope pier plan details, Art Fest, Sheriff mayhem lawsuits, and gaming flip-flop involving Taxman Elliott.
+
+      THE DISCOVERY:
+      *   Corruption involves companies with political ties receiving million-dollar contracts.
+      *   Courts mishandled a scholarship scandal, diverting public funds to insiders.
+      *   Lawmakers are pushing to strip local control, enabling state leaders to handpick police chiefs.
+      *   The new Baldwin County District Attorney building construction bid award is linked to political corruption.
+
+      THE PIVOT:
+      *   Article 2 reveals the systemic corruption, lack of accountability, and state overreach that fuels the local governance scrutiny mentioned in Article 1 (e.g., Sheriff mayhem lawsuits, Elliott's gaming flip-flop).
+      *   The DA building context in Article 2 demonstrates the scope of the political/financial ties affecting local institutions.
+
+      KEY ENTITIES:
+      *   Taxman Elliott
+      *   Fairhope Waterfront
+      *   Hoss-Mack
+      *   Alabama Legislature
+      *   Baldwin County District Attorney
+      *   Alabama Leaders/Governor
+    llm_text: Taxman Elliott's gaming flip-flop mirrors systemic corruption, linking political ties to million-dollar contracts like the Baldwin County District Attorney building bid. Alabama leaders are stripping local control, allowing state figures to handpick police chiefs and divert public funds.
+    text: Taxman Elliott's gaming flip-flop mirrors systemic corruption tied to million-dollar contracts. Alabama leaders are stripping local control to handpick police chiefs.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T09:04:30.127346Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 462704c2a0df6ee19905642fa69f7c355ebe77d676f91e27f9678481e33ad72f
+    brief: |-
+      THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama, on May 27, 2022, recovered on May 29, 2022.
+      THE DISCOVERY: Article 2 provides an update on the ongoing mystery of Danny Williams Jr.'s death, offering a reward for information.
+      THE PIVOT: Article 2 does not provide specific context or a "smoking gun" for Article 1; Article 1 focuses on COVID-19 pandemic impacts, Art Fest, and gaming flip-flop by Taxman Elliott in Fairhope, Alabama.
+      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr., Orange Beach, Alabama, Elliott, Fairhope Waterfront, Pete Rose, Katie Britt, Adm. Kent Davis, Montgomery Alabama Mayor.
+    llm_text: Thomas Daniel "Danny" Williams Jr.'s death in Orange Beach, Alabama, still haunts the community. The Ripp Report offers a reward—do you have information about his 2022 case?
+    text: The death of Thomas Daniel Williams Jr. in Orange Beach still haunts the community. The Ripp Report offers a reward for information about his 2022 case.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T09:08:31.410434Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 485a9a50f3ac63ff9674335bff32843666d4b6fd292251bf7581e44e94265bba
+    brief: |-
+      THE CONFLICT: Sheriff mayhem lawsuits existed (Article 1); Hoss Mack was in office (Article 1/2).
+      THE DISCOVERY: Sheriff Mack has only one week left in office in Baldwin County, Alabama (Article 2); the Governor is currently selecting a replacement (Article 2).
+      THE PIVOT: The lawsuits/mayhem context (Article 1) is now culminating in a leadership transition for the Baldwin County Sheriff's office (Article 2).
+      KEY ENTITIES: Hoss Mack, Sheriff Mack, Baldwin County, Alabama, Taxman Elliott, Fairhope Waterfront, VP Kamala Harris, RFK Jr, Candidate Trump.
+    llm_text: Sheriff Hoss Mack has just one week left in office in Baldwin County, Alabama, facing ongoing mayhem lawsuits. As the Governor selects his replacement, find out how this local crisis shapes the future leadership of the county.
+    text: Sheriff Hoss Mack has one week left in office in Baldwin County amid ongoing lawsuits. The Governor selects his replacement while local leaders manage the transition.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T09:10:42.448724Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 9233bd4c0ada5c69c42c571458f144fba299def1a736fe3f1b4fad9d40192b55
+    brief: |-
+      THE CONFLICT: Texas reported 50,000 deaths contributed to the SARS-COV-2 Pandemic. Alabama Legislature is in session passing the largest General Fund Budget in history.
+      THE DISCOVERY: Backstory Podcast No. 186 discusses the 2024 US Presidential election results, proposed constitutional amendments in Alabama, and the closing of rural hospitals.
+      THE PIVOT: Article 2 frames Article 1's localized issues (e.g., gaming flip-flop by Elliott) within a broader context of Alabama legal and political issues, including antitrust lawsuits against Google.
+      KEY ENTITIES: Elliott, Hoss-Mack, Ripp, Fairhope Waterfront, Alabama Legislature, SARS-COV-2.
+    llm_text: Texas logged 50,000 SARS-COV-2 deaths, yet the Alabama Legislature pushes through its largest budget ever. Read how Elliott's gaming flip-flop and Google antitrust lawsuits connect to Alabama's crucial political battles.
+    text: Texas recorded 50,000 deaths during the COVID-19 pandemic. Meanwhile, the Alabama Legislature approved the largest state budget in its history.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T09:07:22.446420Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 8afcf6054c75d24a562757f7577925f059d026c57aacf57302cc184e30aefcb8
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope pier plan details and Sheriff mayhem lawsuits were noted in the context of the COVID-19 pandemic winding down in Alabama (Main Article).
+      *   Taxman Elliott's gaming flip-flop was examined (Main Article).
+
+      THE DISCOVERY:
+      *   Fairhope is expanding its $9.5M pier remodel (Widget Article).
+      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids (Widget Article).
+      *   City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson (Widget Article).
+      *   Sheriff is still chasing the Duke Boys (Widget Article).
+
+      THE PIVOT:
+      *   The Widget Article provides specific, updated financial data ($9.5M) and recent local governmental approvals (residential lots, sales tax cuts) that elaborate on the general Fairhope pier plan and local political climate mentioned in the Main Article.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Taxman Elliott
+      *   Sheriff
+      *   Governor Ivey
+      *   Brandon Thompson (BMPD Officer)
+      *   Andy Ruten
+      *   Bob Wills (Bay Minette Mayor)
+      *   Baldwin County
+      *   State EMA
+    llm_text: Fairhope pushes its $9.5M pier remodel while Baldwin County approves thousands of new residential lots. Meanwhile, Bay Minette faces a major lawsuit over the death of OJ French Jr., and the Sheriff still chases the Duke Boys.
+    text: Fairhope pushes a $9.5 million pier remodel while Baldwin County approves thousands of new lots. Bay Minette faces a major lawsuit over the death of OJ French Jr.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T09:03:23.717769Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

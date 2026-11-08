@@ -5,49 +5,6 @@ metadata:
   main_date: "2022-12-31"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      *   2022: Baldwin County Legislative Delegation rented office space from Mayor Robert A Bob Wills.
-      *   Tom Albritton (Alabama Ethics Commission ED/Amos Trust Trustee) was accused of self-dealing in the Mable Amos Trust lawsuit.
-      *   AG Steve Marshall joined the Mable Amos Trust lawsuit, stating the State of Alabama had an interest.
-      *   Former Jefferson County Constable Johnathan Barbee was indicted for felonies despite clearance by a 3-Judge Special Ethics Panel.
-      *   The murder/reputational issues of Blount County Circuit Judge Steven King were reported.
-
-      THE DISCOVERY:
-      *   Governor Kay Ivey fired Admiral Kent Davis.
-      *   Ivey is attempting to control the veterans’ board, causing veteran dissent.
-      *   A true crime case in Clarke County revealed a hospice business had shady ties to a judge, confirming an "good old boy" system.
-      *   Veterans' programs are in chaos following Davis's ouster, turning the role political.
-
-      THE PIVOT:
-      *   Article 2 updates the context of Article 1 by showing that localized corruption (Baldwin County) is part of a wider, ongoing pattern of systemic power abuse and lack of accountability within Alabama state governance (Ivey, police accountability, Clarke County judge ties).
-
-      KEY ENTITIES:
-      *   Robert A Bob Wills
-      *   Mr. Ripp
-      *   AG Steve Marshall
-      *   Tom Albritton
-      *   Johnathan Barbee
-      *   Steven King
-      *   Governor Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County
-      *   Mable Amos Trust
-    llm_text: Baldwin County leaders rented space from Robert A Bob Wills while Tom Albritton faced self-dealing accusations in the Mable Amos Trust lawsuit. Governor Kay Ivey's actions and Clarke County judge ties show localized corruption fuels a wider pattern of systemic power abuse in Alabama.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T20:17:06.325021Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Baldwin County Legislative Delegation renting office space from Mayor of Bay Minette Robert A Bob Wills in 2022. AG Steve Marshall joined the Mable Amos Trust lawsuit. Tom Albritton (Alabama Ethics Commission Executive Director/Amos Trust Trustee) accused of self dealing. Johnathan Barbee (former Jefferson County Constable) indicted despite clearance by 3-Judge Special Ethics Panel.
-      THE DISCOVERY: Companies with political ties score million-dollar contracts; law enforcement investigates its own mishaps with no accountability. Scholarships meant for the public went to insiders.
-      THE PIVOT: Article 2 confirms the pattern of corruption mentioned in Article 1 (politically tied companies scoring contracts/lack of accountability) is ongoing, moving beyond the specific 2022 rental issue to systemic failure.
-      KEY ENTITIES: Robert A Bob Wills, Baldwin County Legislative Delegation, Steve Marshall, Mable Amos Trust, Tom Albritton, Johnathan Barbee, Steven King
-    llm_text: Mayor Robert A Bob Wills rented office space from the Baldwin County Legislative Delegation in 2022; this points to a wider pattern where politically tied companies score contracts and law enforcement faces no accountability. See how this systemic failure impacts public scholarships and local governance.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T20:16:17.720461Z"
-    model_name: plugsky-lite
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
     brief: |-
       THE CONFLICT:
@@ -122,64 +79,36 @@ hooks:
       - Alabama Federal Judge
       - Mobile, Alabama
     llm_text: Baldwin County officials rented office space while Mayor Robert A Bob Wills had a building, and Mr. Ripp says nobody at county or state level gives a damn. Now an NPR Expose ties Yellow Hammer News and Alabama Political Reporter to Matrix LLC, while a Brady Violation over secret autopsies fuels Mack vs. Hadley.
+    text: Baldwin County officials rented office space while Mayor Robert A Bob Wills had a building, and Mr. Ripp says nobody at county or state level gives a damn. Now an NPR Expose ties Yellow Hammer News and Alabama Political Reporter to Matrix LLC, while a Brady Violation over secret autopsies fuels Mack vs. Hadley.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T20:16:32.603319Z"
     model_name: recursive/flint-v1.0:free
   backstory-podcast-no-187-the-pardon:
+    refined_source: 9902a8f05f80d9cc1ac0b7834bfdfb2d27a0d4acd90ad7cf1c5e02db4b77532e
     brief: |-
       THE CONFLICT: 2022. Baldwin County Legislative Delegation rented office space from Bay Minette Mayor Robert A Bob Wills. Tom Albritton (Executive Director, Alabama Ethics Commission; Trustee of Amos Trust) was accused of self dealing regarding the Mable Amos Trust lawsuit, which AG Steve Marshall joined, asserting "The State of Alabama has an interest in the case." Former Jefferson County Constable Johnathan Barbee was indicted despite being cleared by a 3-Judge Special Ethics Panel.
       THE DISCOVERY: The newer discussion includes President Biden's pardon of his son Hunter. It also covers the wrongful arrests of individuals who exposed corruption in a local school district and controversies surrounding political appointments.
       THE PIVOT: Article 2 expands the scope of political misconduct and alleged corruption from specific 2022 local/state cases (e.g., Baldwin County rental, Albritton self-dealing) to include national political actions (Biden pardon) and the suppression of local corruption exposers (First Amendment issues).
       KEY ENTITIES: Robert A Bob Wills, Baldwin County Legislative Delegation, AG Steve Marshall, Mable Amos Trust, Tom Albritton, Johnathan Barbee, Steven King, President Biden, Hunter Biden, Pitman, Elliott, Mack.
     llm_text: Tom Albritton faced ethics scrutiny over the Mable Amos Trust, while AG Steve Marshall investigated local corruption. Does the Biden pardon of Hunter Biden signal a national pattern of political misconduct that suppresses truth?
+    text: Tom Albritton faced ethics questions over the Mable Amos Trust while Attorney General Steve Marshall investigated local corruption. Does political misconduct suppress the truth today?
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T20:18:11.479018Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 752409613cf04a29562940ae1c82ce1dee2e33911c8c2f59eae9330dff21734f
     brief: |-
       THE CONFLICT: Baldwin County Legislative Delegation renting office space from Bay Minette Mayor Robert A Bob Wills in 2022; AG Steve Marshall joined Mable Amos Trust lawsuit; Tom Albritton (Alabama Ethics Commission Executive Director/Amos Trust Trustee) accused of self-dealing; former Jefferson County Constable Johnathan Barbee indicted (despite 3-Judge Special Ethics Panel clearance); murder of Blount County Circuit Judge Steven King referenced.
       THE DISCOVERY: Backstory Podcast No. 186 discusses 2024 US Presidential election results, Trump Cabinet 2.0, government spending on misinformation, rural hospital closures, and antitrust lawsuits against Google in the current context.
       THE PIVOT: Article 2 introduces broader current political and legal themes (e.g., government spending on misinformation, constitutional amendments) that provide contemporary context to the specific allegations of local corruption and legal battles detailed in Article 1.
       KEY ENTITIES: Robert A Bob Wills, Baldwin County Legislative Delegation, Steve Marshall, Mable Amos Trust, Tom Albritton, Johnathan Barbee, Steven King, Bay Minette
     llm_text: Baldwin County officials renting from Bay Minette Mayor Robert A Bob Wills and Tom Albritton's self-dealing raises serious questions. See how local corruption connects to bigger fights like misinformation spending and Google antitrust in our new report.
+    text: Baldwin County officials rent space from Bay Minette Mayor Robert Wills and Tom Albritton. Does this self-dealing connect to wider political spending problems?
     widget_date: "2024-11-27"
     generated_at: "2026-11-06T20:16:27.139171Z"
     model_name: plugsky-lite
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      * Baldwin County Legislative Delegation is renting office space from Mayor of Bay Minette Robert A Bob Wills in 2022.
-      * AG Steve Marshall joined Mable Amos Trust lawsuit in 2022.
-      * Tom Albritton (Alabama Ethics Commission Executive Director and Amos Trust Trustee) accused of self dealing.
-      * Former Jefferson County Constable Johnathan Barbee indicted despite clearance by 3-Judge Special Ethics Panel.
-      * Murder of Blount County Circuit Judge Steven King (reputation noted).
-
-      THE DISCOVERY:
-      * Baldwin County approved thousands of residential lots this week.
-      * Baldwin County cut sales tax on hearing aids this week.
-      * City of Bay Minette is being sued by the family of OJ French Jr (killed by BMPD Officer Brandon Thompson).
-      * Mobile Attorney Andy Ruten's firm hired Bay Minette Mayor Bob Wills to represent them in a malpractice lawsuit.
-
-      THE PIVOT:
-      * Article 2 confirms Mayor Bob Wills is involved in legal action (malpractice lawsuit) related to his city, while Article 1 details the 2022 office rental transaction involving his municipality and the County Delegation.
-
-      KEY ENTITIES:
-      * Robert A Bob Wills
-      * Baldwin County Legislative Delegation
-      * AG Steve Marshall
-      * Mable Amos Trust
-      * Tom Albritton
-      * Johnathan Barbee
-      * Blount County Circuit Judge Steven King
-      * OJ French Jr
-      * BMPD Officer Brandon Thompson
-      * Andy Ruten
-      * Southern Research (Institute)
-    llm_text: Mayor Bob Wills rented space to the Baldwin County Delegation while facing a malpractice suit for OJ French Jr's death. See how these local legal battles connect across Baldwin and Bay Minette.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T20:16:37.792418Z"
-    model_name: plugsky-lite
   the-pete-rose:
+    refined_source: 8456e7428082df161651a9bb35cd79c79996a09a942f4d391663d83e1d7c2498
     brief: |-
       THE CONFLICT:
       * 2022: Baldwin County Legislative Delegation rents office space from Bay Minette Mayor Robert A Bob Wills despite County owning offices in Bay Minette.
@@ -207,44 +136,9 @@ hooks:
       * Bay Minette
       * Orange Beach, Alabama
     llm_text: Did Robert A Bob Wills benefit while Baldwin County rented space? See how the Danny Williams Jr investigation in Orange Beach connects to past Alabama ethics and legal conflicts.
+    text: Did Robert Wills gain personal profit while Baldwin County rented his space? Read how the Danny Williams Jr investigation in Orange Beach connects to past local legal conflicts.
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T20:16:46.086077Z"
-    model_name: plugsky-lite
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT:
-      - 2022: Baldwin County Legislative Delegation is renting office space from Mayor Robert A Bob Wills in Bay Minette.
-      - NPR Expose exposed Yellow Hammer News, Alabama Political Reporter, ECT as part of Matrix LLC Network (fake news).
-      - AG Steve Marshall joined the Mable Amos Trust lawsuit.
-      - Tom Albritton (Alabama Ethics Commission Executive Director/Amos Trust Trustee) accused of self dealing.
-      - Johnathan Barbee (former Jefferson County Constable) indicted by Albritton despite being cleared by a 3-Judge Special Ethics Panel.
-      - Murder of Blount County Circuit Judge Steven King (reputation questioned).
-
-      THE DISCOVERY:
-      - Sylacauga Alabama is currently focusing on the "Haitian Immigrant Eating Cats" debate, covered by 1819 News.
-      - Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the state due to a whistleblower Ethics Complaint.
-      - Renaissance School in Baldwin County for special needs kids was robbed (possible inside job).
-      - Sheriff Department of Baldwin County has a new Command Staff.
-
-      THE PIVOT:
-      - Article 2 demonstrates that local political and media narratives (e.g., immigration debate in Sylacauga, coverage by 1819 News) are profit-motivated and not focused on addressing strain on services, mirroring the scrutiny of localized political entities (like Baldwin County Delegation/Mayor Wills) detailed in Article 1.
-
-      KEY ENTITIES:
-      - Robert A Bob Wills
-      - Steve Marshall (AG)
-      - Tom Albritton
-      - Johnathan Barbee
-      - Steven King
-      - Baldwin County Legislative Delegation
-      - Kent David
-      - 1819 News
-      - Matrix LLC Network
-      - Bay Minette
-      - Sylacauga Alabama
-      - Renaissance School
-    llm_text: Mayor Robert A Bob Wills rents space from the Baldwin County Delegation; see how profit-driven media like 1819 News distracts from real issues like the Renaissance School robbery. Don't miss this look at Alabama's tangled local politics.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T20:16:54.275047Z"
     model_name: plugsky-lite
   the-180:
     brief: |-
@@ -309,16 +203,140 @@ hooks:
       - TIME magazine.
       - Baldwin County seal.
     llm_text: Mayor Robert A Bob Wills reportedly had a Bay Minette building for the Baldwin County Legislative Delegation, but county leaders wouldn’t give a damn. Now The 180 frames Sheriff Mack’s last week and VP Kamala Harris’s Democratic National Convention fallout—and why Alabama football’s Finebaum thinks it matters.
+    text: Mayor Robert A Bob Wills reportedly had a Bay Minette building for the Baldwin County Legislative Delegation, but county leaders wouldn’t give a damn. Now The 180 frames Sheriff Mack’s last week and VP Kamala Harris’s Democratic National Convention fallout—and why Alabama football’s Finebaum thinks it matters.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T20:17:21.209948Z"
     model_name: recursive/flint-v1.0:free
+  stirring-the-pot-bsp:
+    refined_source: 8916cfdefa808c48d7378cc0f0b35a3ceb7f737e92b43aecab9837845dd7aa8f
+    brief: |-
+      THE CONFLICT:
+      * Baldwin County Legislative Delegation is renting office space from Mayor of Bay Minette Robert A Bob Wills in 2022.
+      * AG Steve Marshall joined Mable Amos Trust lawsuit in 2022.
+      * Tom Albritton (Alabama Ethics Commission Executive Director and Amos Trust Trustee) accused of self dealing.
+      * Former Jefferson County Constable Johnathan Barbee indicted despite clearance by 3-Judge Special Ethics Panel.
+      * Murder of Blount County Circuit Judge Steven King (reputation noted).
+
+      THE DISCOVERY:
+      * Baldwin County approved thousands of residential lots this week.
+      * Baldwin County cut sales tax on hearing aids this week.
+      * City of Bay Minette is being sued by the family of OJ French Jr (killed by BMPD Officer Brandon Thompson).
+      * Mobile Attorney Andy Ruten's firm hired Bay Minette Mayor Bob Wills to represent them in a malpractice lawsuit.
+
+      THE PIVOT:
+      * Article 2 confirms Mayor Bob Wills is involved in legal action (malpractice lawsuit) related to his city, while Article 1 details the 2022 office rental transaction involving his municipality and the County Delegation.
+
+      KEY ENTITIES:
+      * Robert A Bob Wills
+      * Baldwin County Legislative Delegation
+      * AG Steve Marshall
+      * Mable Amos Trust
+      * Tom Albritton
+      * Johnathan Barbee
+      * Blount County Circuit Judge Steven King
+      * OJ French Jr
+      * BMPD Officer Brandon Thompson
+      * Andy Ruten
+      * Southern Research (Institute)
+    llm_text: Mayor Bob Wills rented space to the Baldwin County Delegation while facing a malpractice suit for OJ French Jr's death. See how these local legal battles connect across Baldwin and Bay Minette.
+    text: Mayor Bob Wills rented office space to the Baldwin County Delegation while facing a malpractice suit over the death of OJ French Jr. Read how these legal battles connect across Baldwin County.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T20:16:37.792418Z"
+    model_name: plugsky-lite
+  scalped:
+    refined_source: fda467430ab659eeba98f877db9c2cd6b9c4d3490c2ec5d45ec1abe43f1fe203
+    brief: |-
+      THE CONFLICT: Baldwin County Legislative Delegation renting office space from Mayor of Bay Minette Robert A Bob Wills in 2022. AG Steve Marshall joined the Mable Amos Trust lawsuit. Tom Albritton (Alabama Ethics Commission Executive Director/Amos Trust Trustee) accused of self dealing. Johnathan Barbee (former Jefferson County Constable) indicted despite clearance by 3-Judge Special Ethics Panel.
+      THE DISCOVERY: Companies with political ties score million-dollar contracts; law enforcement investigates its own mishaps with no accountability. Scholarships meant for the public went to insiders.
+      THE PIVOT: Article 2 confirms the pattern of corruption mentioned in Article 1 (politically tied companies scoring contracts/lack of accountability) is ongoing, moving beyond the specific 2022 rental issue to systemic failure.
+      KEY ENTITIES: Robert A Bob Wills, Baldwin County Legislative Delegation, Steve Marshall, Mable Amos Trust, Tom Albritton, Johnathan Barbee, Steven King
+    llm_text: Mayor Robert A Bob Wills rented office space from the Baldwin County Legislative Delegation in 2022; this points to a wider pattern where politically tied companies score contracts and law enforcement faces no accountability. See how this systemic failure impacts public scholarships and local governance.
+    text: Mayor Robert Wills rented office space to the Baldwin County Legislative Delegation in 2022. This deal points to a wider pattern where politically connected groups win public contracts without accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T20:16:17.720461Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    refined_source: 46904493a97f12b471439ed19ea939f77e17fff2cbe1e2531da80f80bb76f9bc
+    brief: |-
+      THE CONFLICT:
+      - 2022: Baldwin County Legislative Delegation is renting office space from Mayor Robert A Bob Wills in Bay Minette.
+      - NPR Expose exposed Yellow Hammer News, Alabama Political Reporter, ECT as part of Matrix LLC Network (fake news).
+      - AG Steve Marshall joined the Mable Amos Trust lawsuit.
+      - Tom Albritton (Alabama Ethics Commission Executive Director/Amos Trust Trustee) accused of self dealing.
+      - Johnathan Barbee (former Jefferson County Constable) indicted by Albritton despite being cleared by a 3-Judge Special Ethics Panel.
+      - Murder of Blount County Circuit Judge Steven King (reputation questioned).
+
+      THE DISCOVERY:
+      - Sylacauga Alabama is currently focusing on the "Haitian Immigrant Eating Cats" debate, covered by 1819 News.
+      - Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the state due to a whistleblower Ethics Complaint.
+      - Renaissance School in Baldwin County for special needs kids was robbed (possible inside job).
+      - Sheriff Department of Baldwin County has a new Command Staff.
+
+      THE PIVOT:
+      - Article 2 demonstrates that local political and media narratives (e.g., immigration debate in Sylacauga, coverage by 1819 News) are profit-motivated and not focused on addressing strain on services, mirroring the scrutiny of localized political entities (like Baldwin County Delegation/Mayor Wills) detailed in Article 1.
+
+      KEY ENTITIES:
+      - Robert A Bob Wills
+      - Steve Marshall (AG)
+      - Tom Albritton
+      - Johnathan Barbee
+      - Steven King
+      - Baldwin County Legislative Delegation
+      - Kent David
+      - 1819 News
+      - Matrix LLC Network
+      - Bay Minette
+      - Sylacauga Alabama
+      - Renaissance School
+    llm_text: Mayor Robert A Bob Wills rents space from the Baldwin County Delegation; see how profit-driven media like 1819 News distracts from real issues like the Renaissance School robbery. Don't miss this look at Alabama's tangled local politics.
+    text: Mayor Robert Wills rents office space to the Baldwin County Delegation. Meanwhile, profit-driven media distracts the public from real issues like the Renaissance School robbery.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T20:16:54.275047Z"
+    model_name: plugsky-lite
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: a24e0219444caa00bc1b404fe0e55bd33cecb7e7777109f63aaaf25fbce512e9
     brief: |-
       THE CONFLICT: 2022 - Baldwin County Legislative Delegation was renting office space from Mayor Robert A Bob Wills in Bay Minette. AG Steve Marshall joined the Mable Amos Trust lawsuit. Tom Albritton (Alabama Ethics Commission/Amos Trust Trustee) was accused of self dealing. Johnathan Barbee (former Jefferson County Constable) was indicted but later cleared by a 3-Judge Special Ethics Panel.
       THE DISCOVERY: July 31, 2024 - OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson, alleging no probable cause for the stop and that Thompson shot French during a taser struggle.
       THE PIVOT: Article 2 reveals specific legal action (Federal Court lawsuit against City/Officer Thompson) and Sheriff Mack's resignation/transition plans, directly contextualizing the local political conflicts (Mayor Wills' office rentals, county figures) mentioned in the 2022 report.
       KEY ENTITIES: OJ French Jr, Bay Minette Justice League, May Jung LLC, City of Bay Minette, Officer Brandon Thompson, Robert Bob Wills, Sheriff Mack, Anthony Lowery, Governor Ivey, Matt McKenzie, Tom Albritton, Steve Marshall, Baldwin County Legislative Delegation.
     llm_text: OJ French Jr's family sued the City of Bay Minette over Officer Brandon Thompson's shooting; see how this federal case links to the 2022 Baldwin County office rental conflicts involving Mayor Robert Bob Wills.
+    text: The family of OJ French Jr. sued the City of Bay Minette over a shooting by Officer Brandon Thompson. This federal lawsuit links directly to the 2022 office rental deals involving Mayor Robert Wills.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T20:17:03.081664Z"
     model_name: plugsky-lite
+  the-crime-of-the-century:
+    refined_source: 3a5d663fbede0bde03088668a61e57da68302e5ca76dc4593035949dec521409
+    brief: |-
+      THE CONFLICT:
+      *   2022: Baldwin County Legislative Delegation rented office space from Mayor Robert A Bob Wills.
+      *   Tom Albritton (Alabama Ethics Commission ED/Amos Trust Trustee) was accused of self-dealing in the Mable Amos Trust lawsuit.
+      *   AG Steve Marshall joined the Mable Amos Trust lawsuit, stating the State of Alabama had an interest.
+      *   Former Jefferson County Constable Johnathan Barbee was indicted for felonies despite clearance by a 3-Judge Special Ethics Panel.
+      *   The murder/reputational issues of Blount County Circuit Judge Steven King were reported.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis.
+      *   Ivey is attempting to control the veterans’ board, causing veteran dissent.
+      *   A true crime case in Clarke County revealed a hospice business had shady ties to a judge, confirming an "good old boy" system.
+      *   Veterans' programs are in chaos following Davis's ouster, turning the role political.
+
+      THE PIVOT:
+      *   Article 2 updates the context of Article 1 by showing that localized corruption (Baldwin County) is part of a wider, ongoing pattern of systemic power abuse and lack of accountability within Alabama state governance (Ivey, police accountability, Clarke County judge ties).
+
+      KEY ENTITIES:
+      *   Robert A Bob Wills
+      *   Mr. Ripp
+      *   AG Steve Marshall
+      *   Tom Albritton
+      *   Johnathan Barbee
+      *   Steven King
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+      *   Mable Amos Trust
+    llm_text: Baldwin County leaders rented space from Robert A Bob Wills while Tom Albritton faced self-dealing accusations in the Mable Amos Trust lawsuit. Governor Kay Ivey's actions and Clarke County judge ties show localized corruption fuels a wider pattern of systemic power abuse in Alabama.
+    text: Baldwin County leaders rented space from Robert Wills while Tom Albritton faced self-dealing claims in the Mable Amos Trust case. Governor Kay Ivey and local judges protect this system of power abuse.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T20:17:06.325021Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

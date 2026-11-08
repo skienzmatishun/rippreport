@@ -5,7 +5,36 @@ metadata:
   main_date: "2024-03-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  boss-sheriff:
+    refined_source: d8ca8f2f8eec0242494fadce3948763cbeb3cff663263ec7a024180b4a483202
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County Sheriff Hoss Mack exercises significant influence over local justice.
+      *   The District Attorney takes orders from Hoss Mack.
+      *   Most Judges in Baldwin County were put in office by Hoss Mack.
+
+      THE DISCOVERY:
+      *   Article 2 reveals a documented pattern of centralized power and misconduct within the Baldwin County Sheriff Office under Hoss Mack.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of unchecked, dominant police/judicial authority (Boss Sheriff controlling DA/Judges), providing context for alleged systemic judicial bias within the Lee County Justice Center described in Article 1.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Baldwin County
+      *   Lee County
+      *   Cole Barkley
+      *   Nicole Barkley
+      *   Auburn Police Department
+      *   Judge Tickle (Presiding Judge in Lee County Justice Center)
+      *   Lawrence (Individual from 2005 trial)
+    llm_text: Hoss Mack, Baldwin County Sheriff, controls local justice, appointing most judges and dictating orders to the District Attorney. This pattern of unchecked power links directly to systemic bias within the Lee County Justice Center.
+    text: Sheriff Hoss Mack controls local law enforcement by appointing judges and directing prosecutors. That unchecked authority links directly to systemic bias inside the Justice Center.
+    widget_date: "2023-09-09"
+    generated_at: "2026-11-06T18:01:27.347538Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-march-5th:
+    refined_source: aa536aebcda3a08aec225d5170e74a9714b3f9be3ccd8d451b9476ef1f447352
     brief: |-
       THE CONFLICT:
       Cole Barkley was charged with attempted murder in 2021 after an Auburn Police Department officer fired through his home door without announcing his presence, resulting in a 45-year sentence from Judge Tickle in the Lee County Justice Center.
@@ -28,16 +57,18 @@ hooks:
       2021 (July 25)
       2024 (March 5)
     llm_text: Cole Barkley received a 45-year sentence after the Auburn Police Department fired through his home door in 2021. This incident isn't isolated; it reflects decades of unaccountable control by Baldwin County's GOB cabal, including Sheriff Hoss Mack.
+    text: Cole Barkley received a 45-year prison sentence after police fired shots through his front door. That violent raid reflects decades of unaccountable policing by Sheriff Hoss Mack.
     widget_date: "2024-03-01"
     generated_at: "2026-11-06T17:55:52.237369Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-attorney-general:
+    refined_source: 8a32b1fc8766342dc10cb51677e0f944174f678d7201cf6ea80ec189a37ef4cc
     brief: |-
       THE CONFLICT:
-      - Tom Albritton (Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Memorial Fund) and trustees (including Regions Bank and Rick Clifton) allegedly mismanaged the Mabel Amos Memorial Fund.
+      - Tom Albritton (Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Memorial Fund) and trustees (including Regions Bank and Rick Clifton) mismanaged the Mabel Amos Memorial Fund.
       - Between 2013 and 2021, approximately $3.2 million was awarded to anonymous recipients from the trust.
-      - Albritton allegedly awarded himself $135,000 for his children's education.
-      - Albritton allegedly used his position to dismiss ethics complaints filed against him and the trust.
+      - Albritton awarded himself $135,000 for his children's education.
+      - Albritton used his position to dismiss ethics complaints filed against him and the trust.
 
       THE DISCOVERY:
       - High-ranking Alabama officials possess the power to arbitrarily dismiss investigations and ethical complaints against themselves.
@@ -59,11 +90,13 @@ hooks:
       - Rick Clifton (Trustee)
       - Matt Simpson (State Representative)
       - Francis Paul Ripp (The Ripp Report)
-    llm_text: Tom Albritton allegedly siphoned $135,000 from the $8.2 million Mabel Amos Memorial Fund to pay for his children’s education. This blatant misuse of power proves that Alabama’s powerful officials use the Ethics Commission to shield themselves and hide a culture of systemic corruption.
+    llm_text: Tom Albritton siphoned $135,000 from the $8.2 million Mabel Amos Memorial Fund to pay for his children’s education. This blatant misuse of power shows that Alabama’s powerful officials use the Ethics Commission to shield themselves and hide a culture of systemic corruption.
+    text: Tom Albritton took 135,000 dollars from the Mabel Amos Memorial Fund to pay for his children's education. State officials use the Ethics Commission to shield themselves from public scrutiny.
     widget_date: "2024-02-22"
     generated_at: "2026-11-06T17:55:11.925863Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   no-justice:
+    refined_source: 4e94e6154ad4e5d8c94f944e7d329c9017ae82a84b5135c65a04810be18cf5bd
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. was convicted in 2003 of the murder of Brandon Hastings in Baldwin County, sentenced to life without parole.
@@ -88,10 +121,12 @@ hooks:
       July 25, 2021
       2003 (Lawrence conviction date)
     llm_text: Robert Wilters, who served as both DA and presiding Judge, suppressed key evidence in the 2003 conviction of Murray Lawrence Jr. A second autopsy proved Brandon Hastings died by suffocation, not gunshot—exposing systemic misconduct in the Justice Center environment.
+    text: Robert Wilters served as District Attorney and presiding Judge during a flawed 2003 murder trial. A second autopsy proved the victim died by suffocation, exposing severe legal misconduct.
     widget_date: "2024-01-26"
     generated_at: "2026-11-06T17:58:14.799429Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   rule-32:
+    refined_source: 7ef63556844c5694d2f920022adef40dcb063c17c1dbba360016d47d590a45ae
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted in a 2005 trial and served 20 years in jail.
@@ -115,10 +150,12 @@ hooks:
       *   Lee County
       *   Auburn PD
     llm_text: Murray Lawrence Jr. served 20 years after Sheriff Hoss Mack and DA Robert Wilters suppressed evidence proving his innocence. This Baldwin County corruption suggests the "Police Fraternity" avoids accountability in cases like Cole Barkley's.
+    text: Murray Lawrence Jr. spent twenty years in prison after officials suppressed evidence of his innocence. Police and prosecutors routinely protect their own departments from public accountability.
     widget_date: "2023-12-14"
     generated_at: "2026-11-06T17:59:13.207715Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
+    refined_source: c48e1ba60d5bc5589b6ff771f3bbd09cb3415e78518f6653035b939aeda8aa18
     brief: |-
       THE CONFLICT:
       1. Murry Lawrence Jr. was convicted of capital murder in a 2005 trial based on no physical evidence (no gun, no witness, no DNA).
@@ -148,10 +185,12 @@ hooks:
       10. Lee County Justice Center
       11. Auburn PD
     llm_text: Huey “Hoss” Mack managed $65 million and rigged his term while the BCSO killed Jonathan Victor and Robert Yates. See how this unchecked power enabled the 2021 Cole Barkley case and why accountability demands we expose BCSO's systemic failures.
+    text: Huey Mack managed 65 million dollars while deputies killed Jonathan Victor and Robert Yates. That unchecked police power enabled the 2021 Cole Barkley case and shielded officers from blame.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T17:57:16.039066Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   judge-vs-sheriff:
+    refined_source: f6d074ebbce56a3c3f13f5e960c5a390d74e93213067c91392cb99992cf84462
     brief: |-
       THE CONFLICT:
       1.  In Baldwin County, Senator Trip Pittman sponsored Senate Bill 312 approximately 10 years ago, which established qualifications allowing Sheriff Hoss Mack to secure multiple terms.
@@ -178,32 +217,7 @@ hooks:
       11. Deputy Matt Hunady
       12. Lawrence (2005 wrongful conviction reference)
     llm_text: Hoss Mack's BCSO shields internal records, including Deputy Matt Hunady's bodycam footage. This pattern of secrecy suppressed crucial evidence in the Cole Barkley attempted murder case, fueling his 45-year conviction.
+    text: The Baldwin County Sheriff's Office hides internal records and deputy bodycam footage. That secrecy suppressed crucial evidence in the Cole Barkley attempted murder case.
     widget_date: "2023-09-22"
     generated_at: "2026-11-06T18:00:23.410791Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  boss-sheriff:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County Sheriff Hoss Mack exercises significant influence over local justice.
-      *   The District Attorney takes orders from Hoss Mack.
-      *   Most Judges in Baldwin County were put in office by Hoss Mack.
-
-      THE DISCOVERY:
-      *   Article 2 reveals a documented pattern of centralized power and misconduct within the Baldwin County Sheriff Office under Hoss Mack.
-
-      THE PIVOT:
-      *   Article 2 establishes a historical pattern of unchecked, dominant police/judicial authority (Boss Sheriff controlling DA/Judges), providing context for alleged systemic judicial bias within the Lee County Justice Center described in Article 1.
-
-      KEY ENTITIES:
-      *   Hoss Mack (Baldwin County Sheriff)
-      *   Baldwin County
-      *   Lee County
-      *   Cole Barkley
-      *   Nicole Barkley
-      *   Auburn Police Department
-      *   Judge Tickle (Presiding Judge in Lee County Justice Center)
-      *   Lawrence (Individual from 2005 trial)
-    llm_text: Hoss Mack, Baldwin County Sheriff, controls local justice, appointing most judges and dictating orders to the District Attorney. This pattern of unchecked power links directly to systemic bias within the Lee County Justice Center.
-    widget_date: "2023-09-09"
-    generated_at: "2026-11-06T18:01:27.347538Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,188 @@
+metadata:
+  generated_at: "2026-11-07T02:37:38.705225Z"
+  generator_version: 1.0.0
+  post_slug: press-release
+  main_date: "2022-01-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  Baldwin-County-seeks-public-input-on-land-use-plan:
+    refined_source: aa320aa766758b68b21a337a658d00f8b72e8abb64fe9068171607d029d35db3
+    brief: |-
+      THE CONFLICT:
+      *   Mike Hubbard, former Speaker of the Alabama House of Representatives, attempted to influence legislators to shorten his prison sentence.
+      *   These calls were made on a State telephone in a County Jail subject to recording.
+      *   Harry Still has fought corruption in Alabama for three decades, including reviewing Alabama Ethics Commission complaints filed since 2015.
+
+      THE DISCOVERY:
+      *   Baldwin County Commission’s Planning and Zoning Department and Design Workshop initiated a countywide long-range land use planning process in January (Jan. 24/25).
+      *   The process targeted zoned areas and included public meetings in Robertsdale, Fairhope, and Foley.
+
+      THE PIVOT:
+      *   Article 2 establishes specific, ongoing county government activity (land use planning) within Baldwin County, the same jurisdiction where Harry Still (PO Box 2435 Daphne, Alabama 36526) is campaigning for "Home Rule for County Government."
+
+      KEY ENTITIES:
+      *   Harry Still, III
+      *   Mike Hubbard
+      *   Baldwin County Commission
+      *   Design Workshop
+      *   Alabama Ethics Commission
+      *   Daphne, Alabama 36526
+    llm_text: Former Speaker Mike Hubbard tried influencing legislators from a county jail. Harry Still now fights Alabama corruption and is campaigning for "Home Rule" in Baldwin County, where the Commission is currently managing land use planning.
+    text: Mike Hubbard tried influencing legislators from a county jail. Harry Still fights corruption and campaigns for Home Rule in Baldwin County.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-07T02:33:38.912876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-council-lawsuits:
+    refined_source: 67c46cc71e4dc51c6d2c94371257e96f73f6880658b137b540be14a0d41833d4
+    brief: |-
+      THE CONFLICT:
+      *   City of Fauxhope, Alabama faced multimillion-dollar legal liabilities due to council decisions regarding the Triangle and Breland lawsuits (12+ years ago).
+      *   In the Triangle lawsuit, city attorney Cain O'Rear promised the city no attorney fees; Fauxhope paid his firm $3 million, lost the suit, and settled for $8.25 million.
+      *   Councilman Burrell falsely claimed the Triangle purchase was a voluntary park purchase.
+      *   In the Breland case, Mayor Cant stopped the project, then changed zoning rules.
+      *   Council refusal to negotiate with Mr. Breland (3 years ago) prevented a settlement offering 40 acres/perpetuity in exchange for legal fee coverage.
+
+      THE DISCOVERY:
+      *   Past and present City Councils (Fauxhope) have cost taxpayers millions through poor negotiation and legal decisions (e.g., $11.25 million for Triangle; millions more potentially from Breland).
+      *   The insurance company for Fairhope sued the city, arguing the lawsuits were arbitrary and "co precious."
+
+      THE PIVOT:
+      *   The historical financial mismanagement and corruption at the Fauxhope City Council (A2) directly supports Harry Still's campaign platform (A1) to fight corruption, bolster the Public Integrity Unit, and review complaints filed with the Alabama Ethics Commission since 2015.
+      *   A2 provides a concrete, local example of the "good ole boys circumventing the law at citizens expense" that Still claims to be fighting.
+
+      KEY ENTITIES:
+      *   Harry Still (Attorney At Law, running for Attorney General)
+      *   City of Fauxhope, Alabama
+      *   Cain O'Rear (City attorney for Triangle lawsuit)
+      *   Councilman Burrell (Jack Burrell)
+      *   Mayor Cant
+      *   Mayor Wilson
+      *   Mr. Breland
+      *   Mike Hubbard (Former Speaker of the Alabama House of Representatives)
+      *   Alabama Ethics Commission
+      *   Alabama Police Officers Standards and Training Commission (APOST)
+      *   May 24th (Republican Primary election date)
+    llm_text: Fauxhope taxpayers lost $11.25 million through council decisions, including Councilman Burrell's false claims and Cain O'Rear's failed Triangle negotiation. Harry Still fights this corruption, bolstering the Public Integrity Unit and reviewing Ethics Commission complaints since 2015.
+    text: Fairhope taxpayers lost $11.25 million through bad council decisions. Harry Still fights this corruption and reviews Ethics Commission complaints.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T02:34:56.383784Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  nappi-award:
+    refined_source: aae5e48a85dc3af96275991930a3c5578bcb28909b646d4d10fee2db7a4b6950
+    brief: |-
+      THE CONFLICT:
+      Karin Wilson, Mayor of Fairhope, won four consecutive Nappi Awards (Hardest Working Elected City Official—Eastern Shore).
+      Four years prior to the Wilson campaign timeline, the City of Fairhope ran an annual $6 Million deficit.
+      Wilson promised fiscal self-reliance in 2016.
+
+      THE DISCOVERY:
+      The City of Fairhope invested $14M in utility upgrades without borrowing and obtained over $29M in RESTORE funds ($11M + $18M) for sewer line rehabilitation and an SSO Prevention Plan, with critical upgrades targeted for completion by 2022.
+
+      THE PIVOT:
+      Article 2 (Wilson's success in managing complex utility/sewer systems and fiscal turnaround) provides context for Article 1's (Harry Still's campaign promise to investigate unregulated private sewer utilities in Alabama and review no-bid contracts).
+
+      KEY ENTITIES:
+      Harry Still, III
+      Karin Wilson
+      Fairhope
+      Eastern Shore
+      Alabama Ethics Commission
+      Mike Hubbard (former Speaker of the Alabama House of Representatives)
+      May 24th (Republican Primary)
+      2015
+      2016
+      2022
+      $6 Million (deficit)
+      $14M (utility investment)
+      $29M+ (RESTORE funds)
+    llm_text: Karin Wilson turned Fairhope from a $6 million deficit to a $14M utility investment using $29M+ RESTORE funds. Why does Harry Still investigate unregulated private sewer utilities and no-bid contracts across Alabama?
+    text: Karin Wilson used RESTORE funds for a utility investment in Fairhope. Harry Still investigates unregulated private sewer utilities across Alabama.
+    widget_date: "2020-08-06"
+    generated_at: "2026-11-07T02:31:05.819683Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  attention-baldwin-county:
+    refined_source: f96973c5d9e3ad902c44ca9192bc903bc365228b9831a22fbd61f983483a7d57
+    brief: |-
+      THE CONFLICT:
+      Jerry Carl is a congressional candidate in Baldwin County with an election date of July 14th.
+
+      THE DISCOVERY:
+      Article 2 reveals the local political focus of Baldwin County (Jerry Carl/Congress) as background context.
+
+      THE PIVOT:
+      Article 2 provides no direct context or 'smoking gun' for Article 1; Article 1 focuses on Harry Still's statewide campaign for Attorney General (May 24th) and his promise to investigate the Alabama Ethics Commission and release Mike Hubbard recordings.
+
+      KEY ENTITIES:
+      Harry Still, III, Jerry Carl, Mike Hubbard, Alabama Ethics Commission, Auburn University, Troy State University, Birmingham School of Law, Baldwin County, Alabama.
+    llm_text: Harry Still promises to investigate the Alabama Ethics Commission and release Mike Hubbard recordings during his Attorney General campaign. See how this statewide fight impacts Baldwin County's political landscape with Jerry Carl running July 14th.
+    text: Harry Still promises to investigate the Ethics Commission and release recordings. This campaign impacts the local political landscape in Baldwin County.
+    widget_date: "2020-07-07"
+    generated_at: "2026-11-07T02:35:58.298152Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  countdown:
+    refined_source: 85f1ce3ec8a027667addcf816eba13603a65893d6b942af6bcb2253caef50bc7
+    brief: |-
+      THE CONFLICT: A US Senate primary in Alabama involved 19 candidates (11 Republican, 8 Democrat), including Luther Strange, Roy Moore, and Congressman Mo Brooks, during a period of political contention regarding external figures like US Attorney General Jeff Sessions.
+      THE DISCOVERY: Article 2 established the historical context of a highly contested, diverse Alabama primary (Senate seat) with candidates like Luther Strange, Roy Moore, and Trip Pittman.
+      THE PIVOT: Article 2 provides the background of the "swamp" and career politician environment that Harry Still (Article 1) campaigns against, framing his promise to investigate the Alabama Ethics Commission since 2015 and demand release of recordings involving former Speaker Mike Hubbard as a reform necessary against the established political figures referenced in Article 2.
+      KEY ENTITIES: Harry Still, Mike Hubbard, Luther Strange, Roy Moore, Mo Brooks, Dr. Randy Brinson, Jeff Sessions, Alabama Ethics Commission, Auburn University, May 24th (Republican Primary).
+    llm_text: Harry Still challenges Alabama's entrenched political swamp, taking on giants like Luther Strange and Roy Moore. See how Still demands the Alabama Ethics Commission investigate Mike Hubbard's recordings for necessary reform against the old guard.
+    text: Harry Still challenges entrenched politicians like Luther Strange and Roy Moore. He demands the Ethics Commission investigate Mike Hubbard's recordings.
+    widget_date: "2017-08-04"
+    generated_at: "2026-11-07T02:37:16.752523Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  trolls-for-tolls:
+    refined_source: c928ecb828697c56e0ef3612628a6e18d6927f308959932093ba4e8cbfcbbd6b
+    brief: |-
+      THE CONFLICT:
+      The $2.2 billion Bayway Bridge project faced debate over tolls; Mobile and Baldwin MPO’s unified their front for tolls despite initial public opposition (over 50,000 on Jim Zigler's Facebook).
+      The Discovery:
+      Local political strategy allowed politicians to move past initial public opinion regarding tolls, insulating them from public sentiment.
+      The Pivot:
+      The Bayway Bridge controversy demonstrates a historical instance of local political decisions (toll adoption by Mobile and Baldwin MPOs) driven by funding needs (only $500 million available vs. $2.2 billion cost) that raise issues of transparency and accountability, which Harry Still is campaigning to address via the Alabama Accountability and Transparency Act and reviewing no-bid contracts.
+      KEY ENTITIES:
+      Harry Still
+      Jack Burrell
+      Mike Hubbard
+      Jim Zigler
+      Jon Gray
+      Mobile and Baldwin MPO’s
+      Alabama Ethics Commission
+      ALDOT
+    llm_text: Mobile and Baldwin MPO's pushed through $2.2 billion Bayway Bridge tolls despite over 50,000 public objections from Jim Zigler. Harry Still campaigns to fix this local political loophole with the Alabama Accountability and Transparency Act.
+    text: Jim Zigler noted over 50,000 public objections to Bayway Bridge tolls. Harry Still campaigns to fix this loophole with a new transparency act.
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-07T02:29:49.006648Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  total-darkness:
+    refined_source: ba75c0f750e28ec3b96deecc065ffe3a5d284e340dca60c208b6ba53222831df
+    brief: |-
+      THE CONFLICT:
+      *   January 22, 2021, 2:45 am: Boating accident involving 5 juveniles in Fairhope.
+      *   Past: Fairhope Airport Authority (FAA) has incurred millions in taxpayer debt and mismanagement, including a $2.65 million farm land purchase by the Airport Authority.
+      *   Past: Steve Marshall served as Alabama Attorney General under Governor Bentley (and Love Gov).
+      *   Past: Jack Burrell (Fairhope Councilman) and Mayor Sullivan engaged in actions, such as taking down online FAA meetings, to avoid public scrutiny.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a lack of transparency in Fairhope (blackout committee meetings) and alleged judicial interference by the son of a local Judge in the 2021 boating accident investigation (involving ALEA).
+      *   Article 2 characterized incumbent AG Steve Marshall as lacking transparency ("Always Gone") and ineffective in fighting corruption.
+
+      THE PIVOT:
+      *   Article 2 provides concrete, local examples of corruption, lack of transparency, and potential judicial misconduct in Alabama (Fairhope) that align with Harry Still’s campaign promise to investigate corruption and bolster the Public Integrity Unit.
+      *   Still specifically promised to review every complaint filed with the Alabama Ethics Commission since 2015, addressing the systemic failures noted by Article 2 regarding political darkness and lack of accountability.
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Steve Marshall
+      *   Jack Burrell
+      *   Mayor Sullivan
+      *   Governor Bentley / Love Gov
+      *   Fairhope Airport Authority (FAA)
+      *   Alabama Law Enforcement Agency (ALEA)
+      *   Alabama Ethics Commission
+      *   Mike Hubbard (Former Speaker of the Alabama House of Representatives)
+    llm_text: Fairhope’s FAA debt and the 2021 boating accident investigation reveal serious local corruption and lack of transparency. Harry Still promises to investigate these systemic failures, challenging incumbent AG Steve Marshall's record of inaction.
+    text: Fairhope faced FAA debt and a secret 2021 boating accident probe. Harry Still promises to investigate these systemic local failures.
+    widget_date: "2022-01-26"
+    generated_at: "2026-11-07T02:32:26.289516Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -12,6 +12,7 @@ import (
 )
 
 const (
+	DefaultModel   = "gemini-3.7-flash"
 	defaultBaseURL = "https://generativelanguage.googleapis.com/v1beta"
 	defaultTimeout = 120 * time.Second
 )
@@ -74,12 +75,12 @@ func (c *Client) RefineHooks(ctx context.Context, items []HookItem, model string
 
 // RewriteCollision rewrites only the second hook, keeping the first as context.
 func (c *Client) RewriteCollision(ctx context.Context, first, second HookItem, model string) ([]RefinedHookItem, error) {
-	return c.refineHooks(ctx, []HookItem{first, second}, model, "These two hooks are too similar in structure and metaphor. Rewrite the second one using a completely different angle. Each item contains its current hook in text and the complete source brief in brief. Rewrite the second item's text using its full brief as factual context. Preserve its facts and specific names; do not invent claims. Return ONLY the second hook, with its original slug. The first hook is context only. Any avoid_examples are rejected previous versions: do not repeat their metaphors, structure, or angle. Use a new angle supported by the full brief.")
+	return c.refineHooks(ctx, []HookItem{first, second}, model, "These two hooks are too similar. Rewrite the second one by focusing on a different specific fact from its source brief. Write at a sixth-grade reading level. Use short sentences and common words. No metaphors, similes, analogies, idioms, or figurative comparisons. Each item contains its current hook in text and the complete source brief in brief. Rewrite the second item's text using its full brief as factual context. Preserve its facts and specific names; do not invent claims. Return ONLY the second hook, with its original slug. The first hook is context only. Any avoid_examples are rejected previous versions: do not repeat their wording, structure, or factual focus. Do not replace an old metaphor with a new one. Use a different fact supported by the full brief. Remove references to Article 1, Article 2, the first article, or the second article; describe the actual people, events, and facts instead.")
 }
 
 func (c *Client) refineHooks(ctx context.Context, items []HookItem, model, instruction string) ([]RefinedHookItem, error) {
 	if model == "" {
-		model = "gemini-3.7-flash"
+		model = DefaultModel
 	}
 
 	systemInstruction := `You are the Senior Editorial Writer for The Ripp Report, an independent watchdog publication.
@@ -91,7 +92,7 @@ Your task: Transform raw LLM-generated sidebar hooks into polished, engaging con
 Your writing must be:
 - **Direct and conversational**: Write as though speaking to an informed reader
 - **Skeptical and confrontational**: Challenge official narratives and question convenient coincidences
-- **Irreverent when warranted**: Use dry humor and pointed observations
+- **Factual**: State what happened in plain, literal language. Preserve the source's distinction between allegations and established facts.
 - **Investigative**: Connect dots and identify patterns
 - **Populist**: Emphasize public interest over institutional protection
 
@@ -103,7 +104,7 @@ Favor:
 - Strong opening phrases
 - Specific names and details (use them!)
 - Rhetorical questions that highlight contradictions
-- Memorable expressions
+- Clear statements of what people did and why it matters
 
 Avoid:
 - Academic vocabulary
@@ -117,7 +118,12 @@ Avoid:
 
 - Length: 220-320 characters total
 - Two sentences preferred (can be one if punchy enough)
-- 6th-grade vocabulary
+- Sixth-grade reading level: use common words, short sentences, and simple sentence structure
+- NO metaphors, similes, analogies, idioms, or figurative comparisons
+- Do not compare people or events to treasure hunters, pirates, games, machines, animals, or other unrelated subjects
+- Remove figurative language already present in the input; state the underlying facts directly
+- Do not add people, historical references, or claims absent from the source
+- Do not refer to Article 1, Article 2, the first article, or the second article; name the actual subject instead
 - NO passive voice
 - Must use specific entity names from the source text
 - OUTPUT ONLY THE HOOK TEXT - NO bullet points, NO entity lists, NO extra formatting
@@ -144,7 +150,7 @@ REMEMBER: You're creating a reason to click, not a summary. Make it compelling.`
 		return nil, fmt.Errorf("failed to marshal items: %w", err)
 	}
 
-	userPrompt := fmt.Sprintf("Refine these sidebar hooks. Each 'brief' field contains raw LLM-generated text. Transform them into compelling, varied editorial hooks that match The Ripp Report's voice. Never repeat the same opening structure:\n\n%s", string(itemsJSON))
+	userPrompt := fmt.Sprintf("Refine these sidebar hooks. Each 'brief' field contains raw LLM-generated text. Transform them into compelling, varied editorial hooks that match The Ripp Report's voice. Write at a sixth-grade reading level using short sentences and common words. No metaphors, similes, analogies, idioms, or figurative comparisons. State only source-supported facts. Never repeat the same opening structure:\n\n%s", string(itemsJSON))
 
 	if instruction != "" {
 		userPrompt = instruction + "\n\n" + string(itemsJSON)

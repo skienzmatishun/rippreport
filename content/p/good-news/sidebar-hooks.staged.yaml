@@ -5,17 +5,32 @@ metadata:
   main_date: "2026-03-12"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  catalyst-skunk:
+    refined_source: 5461f2c4bd7f34c3fdcaf2ea7f1353fa1db6468f31dff8eef2c10366fc4647f4
+    brief: |-
+      THE CONFLICT: Tucker Dorsey, Bob James, and Frank Burt formed an alliance immediately upon being sworn in as County Commission, leading to the firing of over 10 county employees, including department heads, lawyers, county manager, and EMA director. Will McDaniel attempted to run over Dorsey in 2014.
+      THE DISCOVERY: Tucker Dorsey used complex labyrinthine business entities and part-time employment to reduce liabilities, a practice noted by County Commissioner Gruber as resulting in the loss of experienced county staff. Catalyst (Scott Boone Consulting) was identified as a political manipulator connected to Dorsey and the Mega "dump" Site acquisition.
+      THE PIVOT: Article 2 provides historical context showing that the GOB network's influence (via Catalyst) is not a recent phenomenon, but a systemic pattern of corruption within Baldwin County, predating the current GOB erosion and demonstrating the long-term nature of the power structure Article 1 critiques.
+      KEY ENTITIES: Tucker Dorsey, Catalyst (Scott Boone Consulting), Billie Joe Underwood, Heather Brown, Will McDaniel, Bob James, Frank Burt, County Commissioner Gruber, Bay Minette, Bob Wills, Harry Still, Hoss Mack, Chris Elliott, Anthony Lowery, Murray Lawrence Jr., Jerry Carl, Pittman, Jon Grey, Baldwin County.
+    llm_text: Tucker Dorsey and his allies fired over 10 county employees using complex entities like Catalyst. See how this systemic corruption, tied to the GOB network, has controlled Baldwin County for years, demonstrating a long-term power structure.
+    text: Tucker Dorsey and his allies fired over 10 county employees using entities like Catalyst. How has this GOB network controlled Baldwin County power structures for years?
+    widget_date: "2018-03-28"
+    generated_at: "2026-11-06T09:19:57.915843Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   listen-closely:
+    refined_source: d314c63ffc04a01e6f7d46ecfa4d278cacf644e9392db579648764edd19e15ff
     brief: |-
       THE CONFLICT: GOB network in Baldwin County (A1) facing pushback, highlighted by Bay Minette voting Bob Wills out; GOB members include Hoss Mack, Chris Elliott, Anthony Lowery, Jerry Carl, and Murray Lawrence Jr. (A1).
       THE DISCOVERY: 2019 filming at Easterling Correctional Facility documented abuse and systemic failures; the six-year investigation focused on the death of Steven Davis and activists Robert Earl Council and Melvin Ray (A2).
       THE PIVOT: No direct factual connection exists; Article 2 establishes the historical context of systemic institutional failure within the Alabama carceral state (2019-2026), contrasting with Article 1's focus on localized political corruption within Baldwin County.
       KEY ENTITIES: Harry Still, Hoss Mack, Chris Elliott, Anthony Lowery, Murray Lawrence Jr., Jerry Carl, Scott Boone Consulting, Jon Grey, Bob Wills, Andrew Jarecki, Charlotte Kaufman, Easterling Correctional Facility, Steven Davis, Sandy Ray, Robert Earl Council, Melvin Ray, Kay Ivey.
     llm_text: Hoss Mack and the GOB network saw Bob Wills pushed out in Bay Minette. But systemic failure runs deeper, as our six-year investigation documented abuse at Easterling Correctional Facility linked to Steven Davis's death.
+    text: Bob Wills lost his seat in Bay Minette as Hoss Mack's GOB network weakens. Why do systemic failures and prisoner deaths persist at Easterling Correctional Facility?
     widget_date: "2026-03-09"
     generated_at: "2026-11-06T09:13:12.427736Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-exposure-mljr:
+    refined_source: 3dec1250f60243ddb424bf276c65f95cf50b36d83c2c091e2b5740d7ed959328
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. involved failures across law enforcement, prosecutors, defense counsel, courts, and the prison system in Baldwin County, Alabama. (Context date: July 2026 update mentioned in Widget Article).
 
@@ -24,41 +39,49 @@ hooks:
       THE PIVOT: The documented corruption surrounding Murray Lawrence Jr.'s wrongful conviction provides evidence of the deep systemic failure and "dirty laundry" within Baldwin County, supporting the Main Article's claims that the "GOB network" is corrupt and eroding.
 
       KEY ENTITIES: Murray Lawrence Jr., BCSO, Anthony Lowery, Jerry Carl, Harry Still, Hoss Mack, Chris Elliott, Bob Wills, Bay Minette, Pittman, Scott Boone Consulting, Jon Grey, Billie Jo Underwood.
-    llm_text: Murray Lawrence Jr.'s wrongful conviction reveals extensive corruption across Baldwin County, Alabama. Discover how documented failures involving the BCSO and local officials prove the "GOB network" is deeply eroding justice.
+    llm_text: Murray Lawrence Jr.'s wrongful conviction reveals extensive corruption across Baldwin County, Alabama. Read how documented failures involving the BCSO and local officials prove the "GOB network" is deeply eroding justice.
+    text: Murray Lawrence Jr.'s wrongful conviction exposed extensive corruption across Baldwin County. How do documented failures by the Sheriff's Office prove the GOB network destroys justice?
     widget_date: "2026-02-20"
     generated_at: "2026-11-06T09:14:59.616218Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   summerdale-sunshine:
+    refined_source: f47be7c2f10ef22cd244164e857532aed2430e181e8d3932b86e923fad394eba
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr.; Kristy Haygood's legal mistakes (Rule 32 filing) in his case; District Robert Wilters' complicity.
       THE DISCOVERY: Scott Boone Consulting (Catalyst) was involved in representing candidates linked to the wrongful conviction case and its subsequent judicial fallout; Jon Gray, Kristy Haygood, and Scott Boone were early political alliances in Baldwin County.
       THE PIVOT: Article 2 establishes the historical foundation of judicial and political corruption (the Lawrence Jr. case), proving the existence of the "cabal of corrupt politicians, judges and lawyers" claimed by Article 1; it confirms Scott Boone/Catalyst as a core political manipulator for the GOB network.
       KEY ENTITIES: Murray Lawrence Jr., Kristy Haygood, District Robert Wilters, Scott Boone, Catalyst, Jon Gray, Jeremiah Giles, Lowery, Harry Still, Hoss Mack, Chris Elliott, Jerry Carl, Anthony Lowery, Bay Minette, Baldwin County, Summerdale.
     llm_text: Murray Lawrence Jr.'s wrongful conviction, tied to Kristy Haygood's legal mistakes and District Robert Wilters' complicity, exposed a Baldwin County cabal. Scott Boone/Catalyst helped shape this corruption, linking Jon Gray and the GOB network to a deep political history you need to know.
+    text: Murray Lawrence Jr.'s wrongful conviction involved legal errors by Kristy Haygood and complicity from prosecutor Robert Wilters. How did Scott Boone and Catalyst help build this corrupt political history?
     widget_date: "2026-01-24"
     generated_at: "2026-11-06T09:15:56.758842Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   CAMPAIGN-KICKOFF-RECEPTION:
+    refined_source: 62fe80aa0fcc9ce94fac99847e5d9aee6ce7e43d1738d66eb4f5178a7d0317cb
     brief: |-
       THE CONFLICT: GOB network in Baldwin County is eroding due to voter pushback; 14 incorporated municipalities flipped 4 GOB municipalities; Bob Wills was ousted as Mayor of Bay Minette; Murray Lawrence was wrongfully convicted; Jerry Carl was elected then voted out.
       THE DISCOVERY: Matt McKenzie held a campaign kickoff reception related to local elections and the BCSO.
       THE PIVOT: Article 2 establishes the ongoing local electoral environment (elections/BCSO) within Baldwin County, providing the backdrop for the political instability and GOB erosion detailed in Article 1.
       KEY ENTITIES: Bay Minette, Harry Still, Hoss Mack, Jerry Carl, Anthony Lowery, Murray Lawrence Jr, Chris Elliott, Pittman, Matt McKenzie, BCSO, Scott Boone, Jon Grey, Billie Jo Underwood.
     llm_text: 'Baldwin County politics are unstable: 14 municipalities flipped 4 GOB areas, leading to Bob Wills’ ouster as Bay Minette Mayor. Matt McKenzie''s recent kickoff reception highlights the shifting local environment, including BCSO issues and Murray Lawrence’s conviction.'
+    text: Fourteen municipalities flipped four GOB areas, leading to Bob Wills losing his seat as Bay Minette Mayor. What do Matt McKenzie's kickoff reception and Murray Lawrence's conviction reveal about local instability?
     widget_date: "2026-01-15"
     generated_at: "2026-11-06T09:16:53.224665Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-no-clones:
+    refined_source: da0e1dbfc6f460977e7eb5aa93839014d40387eda49a650e6eedfc5797bb6f17
     brief: |-
       THE CONFLICT: GOB network dominance and alleged corruption in Baldwin County.
       THE DISCOVERY: Article 2 identified Anthony Lowery as a "clone" of Hoss Mack, inheriting Mack’s "horrible record" in the BCSO race.
       THE PIVOT: Article 2 establishes Lowery's historical linkage to the problematic GOB machine, validating Article 1's claims that the GOB is eroding and that Lowery represents the entrenched, non-reformist element of the network.
       KEY ENTITIES: Hoss Mack, Anthony Lowery, Chris Elliott, Bob Wills, Harry Still, Murray Lawrence Jr., Jerry Carl, Pittman, Scott Boone Consulting (Catalyst), Jon Grey, Matt Mckenzie, Billie Jo Underwood, Bay Minette, Baldwin County.
     llm_text: Anthony Lowery is a "clone" of Hoss Mack, inheriting his horrible BCSO record. This discovery confirms the entrenched GOB machine in Baldwin County remains corrupt, not reforming.
+    text: Anthony Lowery inherited Hoss Mack's terrible Sheriff's Office record. Does this appointment prove the Baldwin County GOB machine refuses to reform?
     widget_date: "2025-09-26"
     generated_at: "2026-11-06T09:14:22.554399Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-ole-boys-lose-front-teeth:
+    refined_source: 5447fdf1c1a629919b5b95aa8b56897fb7cbc578f1f06f946642b6313db01d8a
     brief: |-
       THE CONFLICT:
       *   Baldwin County faced a shift away from the good ole boy (GOB) culture toward transparent and accountable government.
@@ -95,26 +118,19 @@ hooks:
       *   Jon Grey
       *   Baldwin County
     llm_text: The GOB network is losing power in Baldwin County, as seen when Bob Wills lost in Bay Minette and Brad Bass won in Spanish Fort. These shifts signal serious public dissatisfaction with corruption, proving the old ways are finally eroding.
+    text: Bob Wills lost in Bay Minette and Brad Bass won in Spanish Fort as the GOB network loses local power. Do these election upsets signal serious public anger over government corruption?
     widget_date: "2025-08-27"
     generated_at: "2026-11-06T09:17:51.056464Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   end-the-good-ole-boy-culture-in-baldwin-county:
+    refined_source: 511c8c206fc4acbe6e6264640d8c166516f772dde0415fd9c26bc428e47fb8a4
     brief: |-
       THE CONFLICT: Lynn Stacy formed the initial GOB structure with Chris Elliott and Haygood; the group later transitioned to Catalyst and then Scott Boone Consulting; former Sheriff Hoss Mack was the driving force, placing many Judges and Mayors in office; Hoss Mack retired, transferring influence to Anthony Lowery.
       THE DISCOVERY: Article 2 established the long-term, organized nature of the Baldwin County GOB system, noting periods of 15, 20, or 30+ years of entrenched power and identifying the evolution of the cabal's names (Stacy, Elliot and Haygood -> Catalyst -> Scott Boone Consulting).
       THE PIVOT: Article 2 provides the historical foundation for the GOB structure that Article 1 describes as currently eroding and panicking, confirming that the modern GOB (led by figures like Chris Elliott and using Scott Boone Consulting/Catalyst) is not a recent phenomenon but a decades-old system stemming from Hoss Mack's influence.
       KEY ENTITIES: Hoss Mack (former Sheriff), Anthony Lowery, Chris Elliott, Harry Still, Bob Wills (former Bay Minette Mayor), Murray Lawrence Jr., Jerry Carl, Pittman, Brad Brass (Spanish Fort), Catalyst, Scott Boone Consulting, Lynn Stacy.
-    llm_text: Hoss Mack built the decades-long Baldwin County GOB system, initially with Lynn Stacy and Chris Elliott. Discover how power shifted from Mack to Anthony Lowery and current consulting groups like Catalyst.
+    llm_text: Hoss Mack built the decades-long Baldwin County GOB system, initially with Lynn Stacy and Chris Elliott. Read how power shifted from Mack to Anthony Lowery and current consulting groups like Catalyst.
+    text: Hoss Mack built the decades-long Baldwin County GOB system alongside Lynn Stacy and Chris Elliott. How did power shift from Mack to Anthony Lowery and consulting groups like Catalyst?
     widget_date: "2025-08-25"
     generated_at: "2026-11-06T09:18:52.509840Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  catalyst-skunk:
-    brief: |-
-      THE CONFLICT: Tucker Dorsey, Bob James, and Frank Burt formed an alliance immediately upon being sworn in as County Commission, leading to the firing of over 10 county employees, including department heads, lawyers, county manager, and EMA director. Will McDaniel attempted to run over Dorsey in 2014.
-      THE DISCOVERY: Tucker Dorsey used complex labyrinthine business entities and part-time employment to reduce liabilities, a practice noted by County Commissioner Gruber as resulting in the loss of experienced county staff. Catalyst (Scott Boone Consulting) was identified as a political manipulator connected to Dorsey and the Mega "dump" Site acquisition.
-      THE PIVOT: Article 2 provides historical context showing that the GOB network's influence (via Catalyst) is not a recent phenomenon, but a systemic pattern of corruption within Baldwin County, predating the current GOB erosion and demonstrating the long-term nature of the power structure Article 1 critiques.
-      KEY ENTITIES: Tucker Dorsey, Catalyst (Scott Boone Consulting), Billie Joe Underwood, Heather Brown, Will McDaniel, Bob James, Frank Burt, County Commissioner Gruber, Bay Minette, Bob Wills, Harry Still, Hoss Mack, Chris Elliott, Anthony Lowery, Murray Lawrence Jr., Jerry Carl, Pittman, Jon Grey, Baldwin County.
-    llm_text: Tucker Dorsey and his allies fired over 10 county employees using complex entities like Catalyst. See how this systemic corruption, tied to the GOB network, has controlled Baldwin County for years, demonstrating a long-term power structure.
-    widget_date: "2018-03-28"
-    generated_at: "2026-11-06T09:19:57.915843Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

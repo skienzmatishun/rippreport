@@ -5,13 +5,98 @@ metadata:
   main_date: "2023-05-09"
   model_name: plugsky-lite
 hooks:
+  fauxhope-roller-coaster:
+    refined_source: 32f1be56196dbc0c59119619ab573c9f1d9bd48912fb916ff00850b2439ef26e
+    brief: |-
+      THE CONFLICT: City lost two decade lawsuit resulting in 8.25 million settlement and 3 million in legal fees; May 29th council meeting involved reconsidering conservation easement on triangle property.
+      THE DISCOVERY: Waterfront project was 18 months more advanced previously; original plan for ADA compliant walkway was rejected in favor of open car on rails concept.
+      THE PIVOT: Article 2 establishes prior council inaction/delays/mismanagement (e.g., avoiding ADA compliance, delays costing money) providing context for current concerns in Article 1 regarding poor planning and taxpayer cost overruns.
+      KEY ENTITIES: Fauxhope; Triangle; Mayor; City Council; Municipal Judge; Scott Hutchinson; Goodwyn, Mills and Cawood; Burrell; Boone; Robinson; Martin; Publix; Airport; K-1; 102 acres; 20 million (triangle value)
+    llm_text: Fauxhope lost an $8.25M lawsuit due to past city inaction, now facing tough council decisions on the Triangle property. See how poor planning and delays cost taxpayers millions, impacting the 102-acre waterfront.
+    text: Fairhope lost an eight point two five million dollar lawsuit due to past city inaction and now faces tough choices on the Triangle property. Poor planning and delays cost taxpayers millions.
+    widget_date: "2022-04-12"
+    generated_at: "2026-11-06T19:54:28.754387Z"
+    model_name: plugsky-lite
+  trolls-for-tolls:
+    refined_source: 27e61ecde58e4542ce2b97711548558da4fd5b6dbc0fcedc90d7b25fb22e95e8
+    brief: |-
+      THE CONFLICT:
+      - Fairhope lost a two-decade lawsuit regarding the triangle property
+      - City paid $8.25 million settlement plus $3 million in legal fees for the triangle property
+      - Fairhope spent $2.65 million on recreation land near the Airport and now leases it for $9,000 per year
+      - K-1 building purchased for $4 million without a plan; approximately $100,000 spent on temporary roof repairs
+      - City considering buying 2.6 million worth of property on Hwy. 13 while offering to give away 102-acre triangle property worth $20 million via conservation easement
+      - Jack Burrell supported the triangle lawsuit that the city lost
+
+      THE DISCOVERY:
+      - Jack Burrell serves as spokesman for the I-10 Bayway Bridge toll project
+      - Burrell stated: "We don't see money coming from the federal infrastructure bill to pay for the bridge. We don't see (additional) state money coming."
+      - Bayway Bridge price tag is $2.2 billion with only about $500 million available ($250 million state + $125 million federal)
+      - Burrell is involved in controversy at the Fairhope Airport Authority
+      - David Peterson / Baldwin County Citizens for Government Accountability (CGA) questioning whether Alabama has federal authorization to add tolls to interstate
+      - Pennsylvania's Act 44 (2007) to toll I-80 was rejected by U.S. Department of Transportation, leaving $472 million budget hole
+
+      THE PIVOT:
+      - Article 2 establishes Jack Burrell's track record of poor financial decision-making and failed projects (lost triangle lawsuit, Airport Authority controversy)
+      - Article 1 warns "Jack has plans for the Airport" while Article 2 documents Burrell's current role as toll bridge spokesman pushing a $2.2 billion project with insufficient funding
+      - Both articles connect Burrell to Fairhope infrastructure/airport projects where citizens are excluded from planning
+      - Burrell's pattern of supporting losing legal battles and costly projects without viable financing makes him the common thread linking Fairhope's municipal failures to the regional toll bridge push
+
+      KEY ENTITIES:
+      - Jack Burrell (Fairhope councilman, I-10 bridge spokesman, Fairhope Airport Authority)
+      - City of Fairhope / Fairhope City Council
+      - Fairhope Municipal Judge (major developer)
+      - Scott Hutchinson (Goodwyn, Mills and Cawood)
+      - Baldwin County Citizens for Government Accountability (CGA) / David Peterson
+      - Jon Gray (political strategist, Mobile)
+      - Dean Young
+      - ALDOT
+      - Mobile and Baldwin MPOs
+      - Triangle property (102 acres, $20 million value)
+      - Fairhope Airport
+      - K-1 building
+      - Bayway Bridge / I-10 Toll Bridge
+    llm_text: Jack Burrell, Fairhope councilman and toll bridge spokesman, spent $8.25 million losing the triangle lawsuit while championing a $2.2 billion bridge project with only $500 million secured. Now Burrell fronts the I-10 Bayway project as citizens face another costly decision without a plan.
+    text: Jack Burrell spent eight point two five million dollars losing the triangle lawsuit while backing a two point two billion dollar bridge with only five hundred million secured. Citizens face another costly decision.
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-06T19:54:38.574524Z"
+    model_name: plugsky-lite
+  lego-rocket-scientist:
+    refined_source: eaded6e629b58deed0d007ece69c9bab9927d77e7daba87625ab1357990b7da3
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell held the position of President of the Fairhope Council for almost 9 years; he abruptly resigned from the Council Presidency in November (date unspecified in both articles).
+      THE DISCOVERY:
+      Article 2 establishes that Jack Burrell was a "puppet for developers and special interest groups" and was involved in bid rigging and influencing the Fairhope Airport Authority.
+      THE PIVOT:
+      Article 2 provides the historical context establishing Burrell's history of self-motivated chaos, developer ties (including appointing Municipal Judge Haymes Snedeker), and financial misconduct (e.g., $2.65 million on recreation land), which frames the current questionable actions in Article 1 (e.g., the tunnel project, the use of the triangle property, the council structure).
+      KEY ENTITIES:
+      Jack Burrell
+      Fairhope Council
+      Fairhope Airport Authority
+      Haymes Snedeker (Municipal Judge)
+      Triangle property (102 acres, $20 million)
+      $8.25 million (lawsuit settlement)
+      $3 million (legal fees/utilities drain)
+      Scott Hutchinson (Goodwyn, Mills and Cawood)
+      Boone (Scott Boone Consulting)
+      Continental Motors
+      K-1
+      Mayor Can't
+    llm_text: Jack Burrell, who resigned as Fairhope Council President in November, was a developer puppet tied to Haymes Snedeker and $8.25 million in lawsuits, and now he’s pushing a tunnel project and triangle property deals that drain $3 million in legal fees while the mayor stays silent.
+    text: Jack Burrell resigned as Fairhope Council President after ties to Haymes Snedeker and lawsuits costing eight point two five million dollars. Now he pushes a tunnel project while the mayor stays silent.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-06T19:54:54.016025Z"
+    model_name: plugsky-lite
   backstory-154:
+    refined_source: fdb79be2f114c431e5d244ae650ef733ea7c81da6ede93c6aa310cb8a01d7f35
     brief: |-
       THE CONFLICT: No specific past conflict or date is detailed in Article 2, which is a general list of unrelated current and historical news events (Cinco De Mayo, WHO/Covid-19, CIA Director resignation, Epstein calendar revelations, Alabama Legislature sessions, NYC subway incident, Putin/Ukraine claim, Trump deposition, 2023 bank failures, Alabama Crimson Tide betting).
       THE DISCOVERY: Article 2 reveals unrelated, broad political and global events from a general time frame, but provides no factual connection to Fairhope's municipal issues or the Triangle land.
       THE PIVOT: Article 2 does not serve as a 'smoking gun' or key context for Article 1; the two articles cover entirely different subject matters (Fairhope local governance vs. global/national headlines).
       KEY ENTITIES: Fairhope, Triangle, Mayor Can’t, City Attorney, Municipal Judge, Scott Hutchinson (Goodwyn, Mills and Cawood), Burrell, Boone, Robinson, Martin, Publix, Jack, AlDi, Matt Simpson (R)
     llm_text: Fairhope faces local governance questions involving Mayor Can’t and the City Attorney; don't miss how these municipal issues connect to the Triangle land debate.
+    text: Fairhope governance questions involve Mayor Kant and the City Attorney. Read how these municipal issues connect directly to the Triangle land debate.
     widget_date: "2023-05-05"
     generated_at: "2026-11-06T19:54:20.322910Z"
     model_name: plugsky-lite
@@ -64,20 +149,24 @@ hooks:
       - Lowery
       - Wilters
     llm_text: After losing his soul mate and spending $8.25 million on a lost lawsuit, Francis Paul Ripp came back to expose the Fairhope mayor and council. He begged them to save a $20 million conservation easement, but their own attorney and judge had other plans.
+    text: After losing his soul mate and spending $8.25 million on a lost lawsuit, Francis Paul Ripp came back to expose the Fairhope mayor and council. He begged them to save a $20 million conservation easement, but their own attorney and judge had other plans.
     widget_date: "2023-05-04"
     generated_at: "2026-11-06T19:55:32.728800Z"
     model_name: recursive/flint-v1.0:free
   mouthpiece:
+    refined_source: cf60d01b36cfa6b78a2c9ada1a60c4b9c796938b71f94785d143a0bb23503d25
     brief: |-
       THE CONFLICT: Jack Burrell has been on the Fairhope council for 10 years and previously promised no federal money or tolls for infrastructure projects; he now supports tolls and the Toll Bridge/Bayway to boost population and business.
       THE DISCOVERY: Burrell was directly involved in slowing down or not approving necessary infrastructure projects, contributing to Fairhope's infrastructure being 10 years behind.
       THE PIVOT: Burrell's history of misleading the public regarding tolls and delaying infrastructure (Article 2) provides critical context for the current lack of long-range planning, questionable land use (Triangle), and high-cost, unprudent projects (Fauxhope Tunnel, K-1 purchase) described in Article 1.
       KEY ENTITIES: Jack Burrell, Fairhope City Council, Toll Bridge, Triangle (102 acres/$20 million), Mayor of Fairhope, Scott Hutchinson (Goodwyn, Mills and Cawood), Robinson, Martin, Publix, Boone, City Attorney, Municipal Judge.
     llm_text: Jack Burrell promised Fairhope no tolls for infrastructure, yet he now champions the costly Toll Bridge/Bayway. See how his past delays left the city 10 years behind and why you must question the council's planning.
+    text: Jack Burrell promised Fairhope no tolls, yet he now champions the costly toll bridge and Bayway. His past delays left the city ten years behind on essential infrastructure.
     widget_date: "2022-08-20"
     generated_at: "2026-11-06T19:54:43.275892Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stinking-ticking-time-bomb:
+    refined_source: 37eed9e0eee223585556fd794d793739139a69dd3d55baaaabf23c70eb48b1c4
     brief: |-
       THE CONFLICT:
       Clarence Burke, principal of Baldwin County Sewer Service (BCSS), and Delaney were involved in the "Straw-man case," a civil trial in Judge Jody Bishop’s courtroom. This case alleged a conspiracy/Ponzi scheme to defraud Bass, revealing intermingled business and political connections in Baldwin County development over two decades. No criminal charges were filed. Management of Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012.
@@ -107,83 +196,7 @@ hooks:
       May 29th (Council meeting)
       March 14 (Masterplan presentation)
     llm_text: Clarence Burke and the unregulated Baldwin County Sewer Service built a two-decade Ponzi scheme involving Judge Jody Bishop. See how Fairhope's "good ole boys" drain $3M in utilities and hide systemic conflicts of interest on the 102-acre Triangle property.
+    text: Clarence Burke and the Baldwin County Sewer Service operated a two-decade scheme involving Judge Jody Bishop. Watch how Fairhope leaders drain three million in utilities and hide conflicts of interest.
     widget_date: "2022-08-12"
     generated_at: "2026-11-06T19:55:45.400598Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-roller-coaster:
-    brief: |-
-      THE CONFLICT: City lost two decade lawsuit resulting in 8.25 million settlement and 3 million in legal fees; May 29th council meeting involved reconsidering conservation easement on triangle property.
-      THE DISCOVERY: Waterfront project was 18 months more advanced previously; original plan for ADA compliant walkway was rejected in favor of open car on rails concept.
-      THE PIVOT: Article 2 establishes prior council inaction/delays/mismanagement (e.g., avoiding ADA compliance, delays costing money) providing context for current concerns in Article 1 regarding poor planning and taxpayer cost overruns.
-      KEY ENTITIES: Fauxhope; Triangle; Mayor; City Council; Municipal Judge; Scott Hutchinson; Goodwyn, Mills and Cawood; Burrell; Boone; Robinson; Martin; Publix; Airport; K-1; 102 acres; 20 million (triangle value)
-    llm_text: Fauxhope lost an $8.25M lawsuit due to past city inaction, now facing tough council decisions on the Triangle property. See how poor planning and delays cost taxpayers millions, impacting the 102-acre waterfront.
-    widget_date: "2022-04-12"
-    generated_at: "2026-11-06T19:54:28.754387Z"
-    model_name: plugsky-lite
-  trolls-for-tolls:
-    brief: |-
-      THE CONFLICT:
-      - Fairhope lost a two-decade lawsuit regarding the triangle property
-      - City paid $8.25 million settlement plus $3 million in legal fees for the triangle property
-      - Fairhope spent $2.65 million on recreation land near the Airport and now leases it for $9,000 per year
-      - K-1 building purchased for $4 million without a plan; approximately $100,000 spent on temporary roof repairs
-      - City considering buying 2.6 million worth of property on Hwy. 13 while offering to give away 102-acre triangle property worth $20 million via conservation easement
-      - Jack Burrell supported the triangle lawsuit that the city lost
-
-      THE DISCOVERY:
-      - Jack Burrell serves as spokesman for the I-10 Bayway Bridge toll project
-      - Burrell stated: "We don't see money coming from the federal infrastructure bill to pay for the bridge. We don't see (additional) state money coming."
-      - Bayway Bridge price tag is $2.2 billion with only about $500 million available ($250 million state + $125 million federal)
-      - Burrell is involved in controversy at the Fairhope Airport Authority
-      - David Peterson / Baldwin County Citizens for Government Accountability (CGA) questioning whether Alabama has federal authorization to add tolls to interstate
-      - Pennsylvania's Act 44 (2007) to toll I-80 was rejected by U.S. Department of Transportation, leaving $472 million budget hole
-
-      THE PIVOT:
-      - Article 2 establishes Jack Burrell's track record of poor financial decision-making and failed projects (lost triangle lawsuit, Airport Authority controversy)
-      - Article 1 warns "Jack has plans for the Airport" while Article 2 documents Burrell's current role as toll bridge spokesman pushing a $2.2 billion project with insufficient funding
-      - Both articles connect Burrell to Fairhope infrastructure/airport projects where citizens are excluded from planning
-      - Burrell's pattern of supporting losing legal battles and costly projects without viable financing makes him the common thread linking Fairhope's municipal failures to the regional toll bridge push
-
-      KEY ENTITIES:
-      - Jack Burrell (Fairhope councilman, I-10 bridge spokesman, Fairhope Airport Authority)
-      - City of Fairhope / Fairhope City Council
-      - Fairhope Municipal Judge (major developer)
-      - Scott Hutchinson (Goodwyn, Mills and Cawood)
-      - Baldwin County Citizens for Government Accountability (CGA) / David Peterson
-      - Jon Gray (political strategist, Mobile)
-      - Dean Young
-      - ALDOT
-      - Mobile and Baldwin MPOs
-      - Triangle property (102 acres, $20 million value)
-      - Fairhope Airport
-      - K-1 building
-      - Bayway Bridge / I-10 Toll Bridge
-    llm_text: Jack Burrell, Fairhope councilman and toll bridge spokesman, spent $8.25 million losing the triangle lawsuit while championing a $2.2 billion bridge project with only $500 million secured. Now Burrell fronts the I-10 Bayway project as citizens face another costly decision without a plan.
-    widget_date: "2022-01-28"
-    generated_at: "2026-11-06T19:54:38.574524Z"
-    model_name: plugsky-lite
-  lego-rocket-scientist:
-    brief: |-
-      THE CONFLICT:
-      Jack Burrell held the position of President of the Fairhope Council for almost 9 years; he abruptly resigned from the Council Presidency in November (date unspecified in both articles).
-      THE DISCOVERY:
-      Article 2 establishes that Jack Burrell was a "puppet for developers and special interest groups" and was involved in bid rigging and influencing the Fairhope Airport Authority.
-      THE PIVOT:
-      Article 2 provides the historical context establishing Burrell's history of self-motivated chaos, developer ties (including appointing Municipal Judge Haymes Snedeker), and financial misconduct (e.g., $2.65 million on recreation land), which frames the current questionable actions in Article 1 (e.g., the tunnel project, the use of the triangle property, the council structure).
-      KEY ENTITIES:
-      Jack Burrell
-      Fairhope Council
-      Fairhope Airport Authority
-      Haymes Snedeker (Municipal Judge)
-      Triangle property (102 acres, $20 million)
-      $8.25 million (lawsuit settlement)
-      $3 million (legal fees/utilities drain)
-      Scott Hutchinson (Goodwyn, Mills and Cawood)
-      Boone (Scott Boone Consulting)
-      Continental Motors
-      K-1
-      Mayor Can't
-    llm_text: Jack Burrell, who resigned as Fairhope Council President in November, was a developer puppet tied to Haymes Snedeker and $8.25 million in lawsuits, and now he’s pushing a tunnel project and triangle property deals that drain $3 million in legal fees while the mayor stays silent.
-    widget_date: "2022-01-13"
-    generated_at: "2026-11-06T19:54:54.016025Z"
-    model_name: plugsky-lite

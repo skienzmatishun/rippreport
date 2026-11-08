@@ -6,16 +6,19 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   bsp118:
+    refined_source: 32c4aad6e3047f30786fc53a1a35239cf898c78a42a0778b39e48abeef26da6c
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. in Baldwin County; Systemic public corruption highlighted in Alabama politics involving Attorney General Steve Marshall and the Ethics Commission.
       THE DISCOVERY: Article 2 reveals state-level corruption in Alabama, citing Attorney General Steve Marshall taking $725,000.00 from an out-of-state PAC and the Ethics Commission dismissing the complaint in a 3-2 vote.
       THE PIVOT: Article 2 establishes that high-level, institutional corruption exists within Alabama governance (AG office/Ethics Commission), providing the necessary context for the local prosecutorial misconduct (poor investigation, lack of timeline) detailed in Article 1, suggesting local failure is part of a broader, systemic issue in Baldwin County.
       KEY ENTITIES: Murray “Bubba” Lawrence Jr., David Whetstone, Robert Wilters, Willy Huntly, Steve Nodine, Paul McGarry, Hoss Mack, Harry Still, Raines Rushin, Steve Marshall, Troy King, Baldwin County, Alabama Ethics Commission.
     llm_text: Bubba Lawrence Jr.'s wrongful conviction in Baldwin County exposes deep Alabama corruption. Attorney General Steve Marshall took $725k from a PAC while the Ethics Commission dismissed his misconduct 3-2.
+    text: Bubba Lawrence Jr.'s wrongful conviction exposes deep corruption in Alabama. Attorney General Steve Marshall took PAC cash while the Ethics Commission looked away.
     widget_date: "2022-03-09"
     generated_at: "2026-11-07T01:22:19.093745Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   roll-of-the-dice:
+    refined_source: 7c23ded0d1a547ec25bf4b858c03299ca4992be233c9bf7715640a8c4b3be92a
     brief: |-
       THE CONFLICT:
       *   Murray “Bubba” Lawrence was wrongfully convicted in Baldwin County.
@@ -49,10 +52,12 @@ hooks:
       *   December 2, 2010
       *   July 2026
     llm_text: Murray "Bubba" Lawrence was wrongfully convicted in Baldwin County despite objections from Willy Huntly. Retired DA David Whetstone used unethical tactics, revealing deeper judicial misconduct tied to Alabama's financial mismanagement.
+    text: Murray Lawrence went to prison despite objections from Willy Huntly. What unethical tactics did retired DA David Whetstone use in court?
     widget_date: "2022-03-04"
     generated_at: "2026-11-07T01:24:58.694974Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   press-release:
+    refined_source: 872d5429e88247293aeda96e617fb80352ce7e7b1a346ab6cd2f4b5e062f9ca7
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. in Baldwin County. Conviction occurred around December 2, 2010, during the Steve Nodine case. David Whetstone (prosecuting DA) was involved; Robert Wilters was the presiding judge.
 
@@ -62,10 +67,12 @@ hooks:
 
       KEY ENTITIES: Murray “Bubba” Lawrence Jr., David Whetstone, Robert Wilters, Hoss Mack, Willy Huntly, Harry Still, Baldwin County.
     llm_text: Murray “Bubba” Lawrence Jr.'s 2010 Baldwin County conviction, involving David Whetstone and Robert Wilters, exposes deep systemic failure. Harry Still plans to fix this through ethics commission reviews and anti-corruption measures.
+    text: Murray Lawrence Jr.'s 2010 conviction exposes deep systemic failure in Baldwin County. Can ethics commission reviews fix this corruption?
     widget_date: "2022-01-29"
     generated_at: "2026-11-07T01:26:07.664397Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   Baldwin-County-seeks-public-input-on-land-use-plan:
+    refined_source: 91ebe22a90aa57448c214825a18213156adcf008ef8ad1d05688ca6fd8e41111
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. in Baldwin County.
       THE CONFLICT: The conviction occurred when DA David Whetstone was involved in the Steve Nodine case (around 2010).
@@ -74,10 +81,12 @@ hooks:
       THE PIVOT: There is no factual connection or context provided by the land use planning announcement (Article 2) to the historical wrongful conviction of Murray Lawrence (Article 1). The articles address entirely separate administrative and legal issues within Baldwin County.
       KEY ENTITIES: Murray “Bubba” Lawrence Jr., David Whetstone, Robert Wilters, Hoss Mack, Willy Huntly, Paul McGarry, Steve Nodine, Baldwin County.
     llm_text: Murray "Bubba" Lawrence Jr. suffered a wrongful conviction in Baldwin County. DA David Whetstone, Judge Robert Wilters, and Sheriff Hoss Mack oversaw the case that failed his justice.
+    text: Murray Lawrence Jr. suffered a wrongful conviction in Baldwin County. DA David Whetstone, Judge Robert Wilters, and Sheriff Hoss Mack oversaw the failure.
     widget_date: "2022-01-13"
     generated_at: "2026-11-07T01:27:36.163303Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-council-lawsuits:
+    refined_source: e482f23cce2fbcf9810cbb3da640ba940f9fa0bd87976df65b27631973af4a6e
     brief: |-
       THE CONFLICT:
       *   Murray “Bubba” Lawrence Jr. was wrongfully convicted in Baldwin County (approx. 2010).
@@ -106,20 +115,24 @@ hooks:
       *   Triangle Lawsuit
       *   Breland case
     llm_text: Did District Attorney David Whetstone and Judge Robert Wilters wrongfully convict Murray "Bubba" Lawrence Jr.? Meanwhile, Fauxhope City Council lost $8.25 million in the Triangle Lawsuit, revealing systemic financial mismanagement across Baldwin County.
+    text: Did David Whetstone and Robert Wilters frame Murray Lawrence Jr.? Meanwhile, the Fairhope City Council lost millions in a disastrous lawsuit.
     widget_date: "2020-08-22"
     generated_at: "2026-11-07T01:23:37.711866Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   nappi-award:
+    refined_source: d43684c0ebfee98cc5f9c60b59231e152089aa9297b0df5ff7ed8e5f8ee4439a
     brief: |-
       THE CONFLICT: Murray “Bubba” Lawrence was wrongfully convicted in Baldwin County, evidenced by multiple witness alibis found in the 2000+ page trial transcript. The conviction occurred during the Steve Nodine case, with a jury verdict following Paul McGarry's testimony regarding potential shooting.
       THE DISCOVERY: Mayor Karin Wilson of Fairhope received the Nappi Award four years in a row for being the Hardest Working Elected City Official on the Eastern Shore, demonstrating successful fiscal management, including achieving fiscal self-reliance and obtaining $18M in RESTORE funds.
       THE PIVOT: The articles contain no factual or jurisdictional overlap; the wrongful conviction case is in Baldwin County, while the Nappi Award covers municipal governance in Fairhope. Article 2 provides no context for the legal events in Article 1.
       KEY ENTITIES: Murray “Bubba” Lawrence Jr., David Whetstone, Robert Wilters, Hoss Mack, Willy Huntly, Karin Wilson, Fairhope, Baldwin County, Eastern Shore.
     llm_text: Murray "Bubba" Lawrence fights his wrongful conviction in Baldwin County, backed by witness alibis in the 2000+ page transcript. Fairhope Mayor Karin Wilson earns the Nappi Award four years straight, successfully securing $18M in RESTORE funds.
+    text: Murray Lawrence fights his wrongful conviction with an alibi found in the trial transcripts. Did Fairhope Mayor Karin Wilson secure millions in RESTORE funds?
     widget_date: "2020-08-06"
     generated_at: "2026-11-07T01:30:29.181370Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   attention-baldwin-county:
+    refined_source: c622fd0135b3a3fbdfb1c9eb0bd162a5832f357121b3eadeeb31ffae559d65c3
     brief: |-
       THE CONFLICT:
       *   Murray “Bubba” Lawrence Jr. was wrongfully convicted in Baldwin County.
@@ -147,6 +160,7 @@ hooks:
       *   Jerry Carl
       *   Baldwin County
     llm_text: Murray “Bubba” Lawrence Jr. suffered a wrongful conviction in Baldwin County during the 2010 Steve Nodine case. Former DA David Whetstone and Judge Robert Wilters oversaw a trial that ignored key timeline evidence from pathologist Paul McGarry.
+    text: Murray Lawrence Jr. faced a wrongful conviction during the 2010 Steve Nodine case. Why did David Whetstone and Robert Wilters ignore timeline evidence?
     widget_date: "2020-07-07"
     generated_at: "2026-11-07T01:32:33.717577Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,37 +5,20 @@ metadata:
   main_date: "2022-03-04"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  threesome:
-    brief: |-
-      THE CONFLICT: Local corruption in Baldwin County involving municipalities like Spanish Fort, Summerdale, and Fairhope; Mayor David Wilson served for 28 years; specific officials included Municipal Judge Robert Stankowski and Municipal Attorney Spencer Davis.
-      THE DISCOVERY: Article 2 revealed that local legal issues (e.g., Spanish Fort, Fairhope) were often resolved through insurance company settlements or federal court, not through direct city funds.
-      THE PIVOT: The pattern of local systemic failure and lack of accountability (Article 2) provides context for Alabama's 20+ year legislative stagnation regarding a state lottery, causing significant missed revenue (Article 1).
-      KEY ENTITIES: Baldwin County; Spanish Fort; Summerdale; Fairhope; Mayor David Wilson; Municipal Judge Robert Stankowski; Municipal Attorney Spencer Davis; David Conner; Legislative Services Agency.
-    llm_text: Baldwin County corruption, involving Mayor David Wilson and officials like Judge Robert Stankowski, masked deep local systemic failure. This accountability gap explains why Alabama has stalled state lottery revenue for over 20 years.
-    widget_date: "2022-02-25"
-    generated_at: "2026-11-07T01:47:01.606639Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pot-calling-the-kettle-black:
-    brief: |-
-      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as trustee of funds, resulting in millions lost to Baldwin County.
-      THE DISCOVERY: Widget Article revealed high-level political corruption (Pittman) and ethical questions regarding Tom Albritton, Director of the Alabama Ethics Commission, who uses a private charitable trust to pay over $100,000 for his children's college tuition.
-      THE PIVOT: The systemic political corruption and ethical failures documented in the older Widget Article (POT CALLING THE KETTLE BLACK) explain the failure to pass enabling legislation for a state lottery, leading to the loss of projected $272 million to $358 million annually for higher education scholarships, as discussed in the newer Main Article (ROLL OF THE DICE).
-      KEY ENTITIES: Tripp Pittman, Tom Albritton, Alabama Ethics Commission, Legislative Services Agency, Baldwin County, Jeff Poor show, Alabama Political Reporter
-    llm_text: Former State Senator Tripp Pittman stole $750,000 from B.P. funds. Tom Albritton faces ethics questions over using a private trust for his children's tuition, exposing systemic corruption that cost Alabama millions in higher education scholarships.
-    widget_date: "2022-02-19"
-    generated_at: "2026-11-07T01:49:26.164224Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-yes-today:
+    refined_source: 77742a581f47585348d0a3e24d939bf50a973bef9bc6f6d592e18bb47a277500
     brief: |-
       THE CONFLICT: Alabama has debated a state lottery for over 20 years, resulting in lost lottery income estimated in the billions over the last 23 years.
       THE DISCOVERY: Article 2 shows a call to action regarding District Zoning and Vote YES Today, indicating ongoing local electoral activity.
       THE PIVOT: Neither article provides a factual link connecting the state lottery revenue debate to the specific District Zoning vote; the only shared context is the electoral process.
       KEY ENTITIES: Alabama, Legislative Services Agency, District Zoning, Vote YES Today, December 2020
     llm_text: 'Alabama lost billions debating a state lottery for over 23 years. Don''t forget local power: vote YES Today on District Zoning to influence your community.'
+    text: Alabama spent 23 years debating a state lottery while losing billions in revenue. Voters can take back local control by voting yes on district zoning today.
     widget_date: "2022-02-15"
     generated_at: "2026-11-07T01:50:33.891120Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   make-8-great:
+    refined_source: 7d0e55495c63b32c556ac9a22ea8057898b66325a624c4271691bbf6b51317de
     brief: |-
       THE CONFLICT: Fairhope historically avoided annexing the African American community by requiring property owner requests for annexation. (No specific historical date provided for this policy).
 
@@ -45,20 +28,24 @@ hooks:
 
       KEY ENTITIES: Fairhope, Planning District 8, Clarice Hall Black, Jack Burrell, Burrell Boone and Brown, Legislative Services Agency, Alabama.
     llm_text: Fairhope historically blocked African American annexation but spent $2.6 million on farmland pushed by Burrell Boone and Brown. See how this land deal ignored neighbors like Clarice Hall Black and reveals local planning district history.
+    text: Fairhope spent millions on farmland pushed by Burrell, Boone, and Brown while blocking Black families. Clarice Hall Black and other neighbors watched officials ignore local planning rules.
     widget_date: "2021-10-16"
     generated_at: "2026-11-07T01:51:45.323901Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   i-quit:
+    refined_source: d33ca70508bd1e4adabd0287a8693a04a8a459048ac74780ba65fc33608cec32
     brief: |-
       THE CONFLICT: Fairhope City Council (2016/2020 cycle) was unproductive; Robert Brown quit after serving only 5 months; Jack Burrell announced the immediate "resignation" and recommended Jay Robinson, a councilman who did not run for re-election, suggesting pre-election influence by CSB.
       THE DISCOVERY: The Fairhope City Council used public office for personal gain, contrasting with the state-wide need for lottery proceeds ($272 million - $358 million annually, $710 million projected in 2020) to fund higher education scholarships.
       THE PIVOT: Both articles expose how private interests (CSB/developers charging the Mayor, council members seeking personal gain) obstruct public good (state education funding/transparent local governance), indicating a pattern of self-interest superseding civic duty in Alabama.
       KEY ENTITIES: Robert Brown, Jack Burrell, Jay Robinson, Sherry Sullivan, CSB, CATALYST/SCOTT BOONE CONSULTING, Fairhope City Council, Legislative Services Agency, Alabama.
     llm_text: Fairhope City Council members, including those influenced by CSB, used public office for personal gain instead of funding Alabama's $272M-$358M education needs. How did Jack Burrell push Jay Robinson after Robert Brown's short tenure?
+    text: Fairhope council members used public office for personal gain instead of funding schools. Jack Burrell pushed Jay Robinson into power after Robert Brown left office.
     widget_date: "2021-02-26"
     generated_at: "2026-11-07T01:48:11.747033Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shadow-government-southern-style:
+    refined_source: caeb11bc01a639dcc46b9dd8b74c0ca0be4c027e96030b0d3f591c21aa1eaaff
     brief: |-
       THE CONFLICT:
       Former Democratic Gov. Don Siegelman and former HealthSouth CEO Richard Scrushy were involved in a political prosecution.
@@ -67,7 +54,7 @@ hooks:
 
       THE DISCOVERY:
       Thomas T. Gallion III's book, *Shadow Government, Southern Style: A Saga of Political Corruption From D.C. to Dixie* (2020), revealed the political prosecution of Scrushy and Siegelman was designed to gain control over Scrushy's financial clout.
-      The scheme was allegedly orchestrated by Rob Riley, Rob Campbell, and Doug Jones, aiming to make money for Campbell's firm and void Scrushy's retirement policy with HealthSouth.
+      The scheme was orchestrated by Rob Riley, Rob Campbell, and Doug Jones, aiming to make money for Campbell's firm and void Scrushy's retirement policy with HealthSouth.
 
       THE PIVOT:
       The documented systemic corruption and lack of accountability in Alabama (e.g., Baldwin County, Ethics Commission/FBI complaints being ignored) establishes a precedent that state governmental actions (like the discussion of the $272M–$358M state lottery funding higher education) may be compromised by corrupt interests rather than purely serving the public good.
@@ -86,10 +73,12 @@ hooks:
       LEGAL SCHNAUZER
       Page and Palette Book Store (Fairhope, AL)
     llm_text: Thomas T. Gallion III revealed the political prosecution of Don Siegelman and Richard Scrushy was a scheme by Rob Riley, Rob Campbell, and Doug Jones to seize HealthSouth's financial clout. This systemic Alabama corruption proves current state decisions, like the $272M lottery funding, might serve corrupt interests, not the public.
+    text: Thomas T. Gallion III proved the prosecution of Don Siegelman and Richard Scrushy was a rigged scheme. Rob Riley, Rob Campbell, and Doug Jones wanted control of HealthSouth assets.
     widget_date: "2020-09-11"
     generated_at: "2026-11-07T01:52:31.493197Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county:
+    refined_source: acf1317ec5c6db6065f81c72a5a0e6c08988744a7bb7f543a0da1cb9c5b4994f
     brief: |-
       THE CONFLICT:
       *   In Fairhope, the City Attorney failed to properly file an assault charge against Ronan McSharry three times.
@@ -114,6 +103,31 @@ hooks:
       *   City Attorney (Fairhope)
       *   BCSO
     llm_text: Fairhope's City Attorney failed to file an assault charge against Ronan McSharry three times at the Little Whiskey Christmas Club. This legal failure, alongside BCSO's opaque footage policy under Hoss Mack, demonstrates systemic governance failure in Baldwin County.
+    text: Fairhope City Attorney refused to file assault charges against Ronan McSharry after an incident at Little Whiskey Christmas Club. Sheriff Hoss Mack hides video footage, proving local government is broken.
     widget_date: "2020-09-04"
     generated_at: "2026-11-07T01:53:58.525761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  threesome:
+    refined_source: ee8d47bdeb0825d9ba31cf44d157031dd0ce57ace6b68635979702801bda2bca
+    brief: |-
+      THE CONFLICT: Local corruption in Baldwin County involving municipalities like Spanish Fort, Summerdale, and Fairhope; Mayor David Wilson served for 28 years; specific officials included Municipal Judge Robert Stankowski and Municipal Attorney Spencer Davis.
+      THE DISCOVERY: Article 2 revealed that local legal issues (e.g., Spanish Fort, Fairhope) were often resolved through insurance company settlements or federal court, not through direct city funds.
+      THE PIVOT: The pattern of local systemic failure and lack of accountability (Article 2) provides context for Alabama's 20+ year legislative stagnation regarding a state lottery, causing significant missed revenue (Article 1).
+      KEY ENTITIES: Baldwin County; Spanish Fort; Summerdale; Fairhope; Mayor David Wilson; Municipal Judge Robert Stankowski; Municipal Attorney Spencer Davis; David Conner; Legislative Services Agency.
+    llm_text: Baldwin County corruption, involving Mayor David Wilson and officials like Judge Robert Stankowski, masked deep local systemic failure. This accountability gap explains why Alabama has stalled state lottery revenue for over 20 years.
+    text: Mayor David Wilson and Judge Robert Stankowski hid deep systemic corruption in Baldwin County. That lack of accountability explains why Alabama still lacks a state lottery after twenty years.
+    widget_date: "2022-02-25"
+    generated_at: "2026-11-07T01:47:01.606639Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pot-calling-the-kettle-black:
+    refined_source: 72cc14447f6237a02a110d4f99468fb80e6832a7d5ac4e4bcbf3fcf4dbadaf7d
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as trustee of funds, resulting in millions lost to Baldwin County.
+      THE DISCOVERY: Widget Article revealed high-level political corruption (Pittman) and ethical questions regarding Tom Albritton, Director of the Alabama Ethics Commission, who uses a private charitable trust to pay over $100,000 for his children's college tuition.
+      THE PIVOT: The systemic political corruption and ethical failures documented in the older Widget Article (POT CALLING THE KETTLE BLACK) explain the failure to pass enabling legislation for a state lottery, leading to the loss of projected $272 million to $358 million annually for higher education scholarships, as discussed in the newer Main Article (ROLL OF THE DICE).
+      KEY ENTITIES: Tripp Pittman, Tom Albritton, Alabama Ethics Commission, Legislative Services Agency, Baldwin County, Jeff Poor show, Alabama Political Reporter
+    llm_text: Former State Senator Tripp Pittman stole $750,000 from B.P. funds. Tom Albritton faces ethics questions over using a private trust for his children's tuition, exposing systemic corruption that cost Alabama millions in higher education scholarships.
+    text: Former State Senator Tripp Pittman took money from BP oil spill funds. Tom Albritton faces questions over private trust funds for tuition while Alabama schools starve for cash.
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-07T01:49:26.164224Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

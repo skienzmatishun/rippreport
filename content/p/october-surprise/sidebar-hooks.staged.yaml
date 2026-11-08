@@ -5,58 +5,6 @@ metadata:
   main_date: "2026-10-30"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  court-of-public-opinion-3-rerun:
-    brief: |-
-      THE CONFLICT: Hoss Mack (BCSO) and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr. This occurred within Baldwin County, where Mack established total immunity for BCSO officers and blocked the release of camera footage after requesting $600,000 for cameras.
-
-      THE DISCOVERY: Article 2 revealed that the BCSO investigates itself, lacks transparency, and operates with total immunity, suggesting deep-seated corruption in Baldwin County.
-
-      THE PIVOT: Article 2 establishes the history of systemic corruption in Baldwin County; Article 1 references this specific corruption ("Baldwin County Died of overdevelopment and corruption") while tracking the current political landscape, including Tommy Tuberville’s gubernatorial race, which Mack was actively working to secure for ALEA control.
-
-      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr, Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, John Wahl, Baldwin County, BCSO, Alabama State Bar
-    llm_text: Hoss Mack and Anthony Lowery helped secure the wrongful conviction of Murray Lawrence Jr. This BCSO corruption in Baldwin County established total officer immunity, revealing deep systemic flaws that challenge the political landscape, including Tommy Tuberville's race.
-    widget_date: "2026-10-22"
-    generated_at: "2026-11-06T04:51:30.217921Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hut:
-    brief: |-
-      THE CONFLICT: Henry Stuart built the Hermit Hut (a concrete tool shed/tuberculosis isolation ward) in Fairhope (Baldwin County) in the 1920s. The historical conflict involved the local establishment trying to sanctify this structure, leading to its mandated relocation from a private commercial parking lot.
-      THE DISCOVERY: Article 2 revealed that local officials and organizers engineered a scheme where public donations/taxpayer money were used to pay for the removal of a private obstacle, ultimately clearing prime commercial real estate for developer profit.
-      THE PIVOT: This historical instance of public funds subsidizing private commercial real estate development in Fairhope demonstrates the systemic "overdevelopment and corruption" cited in Article 1 regarding Baldwin County, linking specific local maneuvering to the broader contemporary political issues.
-      KEY ENTITIES: Henry Stuart, Fairhope, Baldwin County, Hermit Hut, City Council/Local Organizers, Commercial Real Estate Owner.
-    llm_text: Henry Stuart's Hermit Hut in 1920s Fairhope didn't just move; local officials used taxpayer money to clear prime commercial real estate for developer profit. This history proves Baldwin County's overdevelopment and corruption aren't new.
-    widget_date: "2026-10-14"
-    generated_at: "2026-11-06T04:53:40.820444Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  our-man-in-mar-a-lago:
-    brief: |-
-      THE CONFLICT:
-      - New gubernatorial polling: Tommy Tuberville ahead of Doug Jones, 51% to 40%; Brandon Moseley projects 14-point margin based on traditional voting patterns.
-      - Four statewide constitutional amendments on ballot: lieutenant governor vacancy rules; rural school board consolidations; student-led prayer and Pledge requirements; weekly broadcasts of national anthem.
-      - Prison infrastructure & DOJ lawsuits: $1.25 billion Elmore County site; ballooning costs, blown deadlines; Escambia County facility progress; ongoing federal trial over prison conditions; Thunderdome at Holman Correction Facility during recent Hurricane.
-      - Trent Garmon takes on Alabama State Bar in federal court; high-profile legal advertising clash involving Morgan & Morgan; congrats to Alex Shunnarah and Anna Nicole.
-      - Someone stole Billions in Crypto; Glen Beck says end is near.
-
-      THE DISCOVERY:
-      - Perry Hooper Jr joins to discuss ALGOP strategy in home stretch heading into November elections.
-      - Former Chief of Police Kevin Brock joins to discuss arrest of Baldwin County Alabama Homeland Security Special Agent specializing in child predators, arrested for kiddy diddling.
-      - Francis "Paul" Ripp joins to discuss Mabel Amos Scholarship Trust list of recipients; trust administered by Director of Alabama Ethics Commission, formerly of Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody and Bowden.
-      - Clifton was on Trust Board; everyone for future Judge Bowden to TV Star Bill Alverson were in on cash grab.
-      - No action taken by Sisterhood of the Closeted Homosexuals (SCH) at Alabama State Bar.
-      - Allbritton and Alverson left wives and living as openly gay men; "It's not the gay, it's the lie."
-      - Rob Holbert filed bar complaint against Mississippi attorney CC Marino.
-      - Tommy Gallion, legendary lawyer, law partners with Chief Justice Perry Hooper Sr; villainized by Sisterhood at Alabama State Bar; "No more fig leaves, Heart of Dixie Podcast is going to make you all incompetent sellswords at the State Bar infamous."
-
-      THE PIVOT:
-      - Article 2 is older than Article 1; frame as background/historical context.
-      - Article 2 provided context on State Bar/Sisterhood, ethics commission, legal battles, Perry Hooper Sr/Gallon, Kevin Brock arrest, ALGOP strategy, which is key context for Article 1's legal battles and political shifts.
-
-      KEY ENTITIES:
-      - Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, Alabama State Bar, Morgan & Morgan, Alex Shunnarah, Anna Nicole, Perry Hooper Jr, Kevin Brock, Francis "Paul" Ripp, Mabel Amos Scholarship Trust, Alabama Ethics Commission, Andalusia Alabama Law Firm, Allbritton, Clifton, Alverson, Moody, Bowden, Judge Bowden, Bill Alverson, Sisterhood of the Closeted Homosexuals (SCH), Whitney Scapecchi, Rob Holbert, CC Marino, Tommy Gallion, Perry Hooper Sr, Heart of Dixie Podcast, Baldwin County, Bay Minette, Holman Correction Facility, Elmore County, Escambia County, DOJ, Hurricane, Glen Beck, crypto, Lowery, Wilters.
-    llm_text: Tommy Tuberville leads Doug Jones 51-40 in new polling, while Alabama’s constitutional amendments and prison lawsuits keep the November election wild. Perry Hooper Jr. and Kevin Brock join to unpack the legal chaos, ethics fights, and GOP strategy that could decide it all.
-    widget_date: "2026-09-10"
-    generated_at: "2026-11-06T04:51:24.054883Z"
-    model_name: recursive/flint-v1.0:free
   the-state-of-the-alabama-state-bar:
     brief: |-
       THE CONFLICT:
@@ -118,10 +66,12 @@ hooks:
       - Florida
       - Alabama
     llm_text: Tommy Gallion III says Alabama’s bar let bad actors target him with kickbacks and blackmail, while Harry Still’s 2022 complaints named Roman Shaw and Phillip McCallum. Now Trent Garmon takes on the Alabama State Bar, and The Ripp Report’s deep dive ties it all to older ethics findings.
+    text: Tommy Gallion III says Alabama’s bar let bad actors target him with kickbacks and blackmail, while Harry Still’s 2022 complaints named Roman Shaw and Phillip McCallum. Now Trent Garmon takes on the Alabama State Bar, and The Ripp Report’s deep dive ties it all to older ethics findings.
     widget_date: "2026-09-05"
     generated_at: "2026-11-06T04:52:40.514331Z"
     model_name: recursive/flint-v1.0:free
   august-special-edition:
+    refined_source: f287e9ec337160e7e1443c25a45fa631b95cf8c2f9c27384868b86d41a37403e
     brief: |-
       THE CONFLICT:
       *   Special election held August 11, 2026.
@@ -146,16 +96,19 @@ hooks:
       *   Baldwin County
       *   Bay Minette
     llm_text: Farmers and Cowpokes, led by Sheriff Huey Mack, fought the I-10 Bayway Bridge toll construction in Baldwin County. See how this resistance ties into Baldwin County's history of overdevelopment and corruption.
+    text: Sheriff Huey Mack and local groups fought the I-10 Bayway Bridge toll project. See how this pushback ties into a history of overdevelopment in Baldwin County.
     widget_date: "2026-08-11"
     generated_at: "2026-11-06T04:52:36.492820Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   orange-beach-tyranny:
+    refined_source: 428f85acee22cc8d53f13551b9e42934abf3db340dc47725b3d2b35ae823139c
     brief: |-
       THE CONFLICT: Danny Williams, co-target of a 2016 Federal Drug Investigation, disappeared/died in Perdido Pass on Memorial Day Weekend (2016) in relation to Tony Kennon.
       THE DISCOVERY: The Alabama Law Enforcement Agency (ALEA) ignored subpoenas requested by the Baldwin County Legislative Delegation; attempts to escalate to ALEA’s General Counsel resulted in a lockdown of Orange Beach City Hall.
       THE PIVOT: The documented pattern of malfeasance and failure to investigate in Orange Beach (Widget Article) serves as historical context supporting the claim that "Baldwin County Died of overdevelopment and corruption" (Main Article), linking past local corruption to current political/infrastructure issues.
       KEY ENTITIES: Tony Kennon, Danny Williams, Neeli Faulkner, Whitney Scapecchi, Brandon Moseley, Harry Still, Baldwin County Legislative Delegation, ALEA, Tommy Tuberville, Doug Jones, Trent Garmon, Bay Minette.
     llm_text: Danny Williams disappeared near Tony Kennon in 2016, and ALEA ignored subpoenas, locking down Orange Beach City Hall. This pattern of local malfeasance shows how Baldwin County died of overdevelopment and corruption.
+    text: Danny Williams vanished near Tony Kennon in 2016 while state troopers ignored subpoenas and locked down City Hall. This coverup shows how local government failed the public.
     widget_date: "2026-07-09"
     generated_at: "2026-11-06T04:54:34.189425Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -206,6 +159,64 @@ hooks:
       - Lowery
       - Wilters
     llm_text: Baldwin County Attorney Harry Still got arrested while Councilman Matt Franklin assaulted him, and Orange Beach officials smeared him. Now Article 1 ties that saga to the October Surprise, using Article 2 as the smoking gun for Baldwin County corruption.
+    text: Baldwin County Attorney Harry Still got arrested while Councilman Matt Franklin assaulted him, and Orange Beach officials smeared him. Now Article 1 ties that saga to the October Surprise, using Article 2 as the smoking gun for Baldwin County corruption.
     widget_date: "2026-06-20"
     generated_at: "2026-11-06T04:53:27.300676Z"
+    model_name: recursive/flint-v1.0:free
+  court-of-public-opinion-3-rerun:
+    refined_source: 1a6192964d8b123d2bb744287919245c9d6e18949574d91085938e0683bd0266
+    brief: |-
+      THE CONFLICT: Hoss Mack (BCSO) and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr. This occurred within Baldwin County, where Mack established total immunity for BCSO officers and blocked the release of camera footage after requesting $600,000 for cameras.
+
+      THE DISCOVERY: Article 2 revealed that the BCSO investigates itself, lacks transparency, and operates with total immunity, suggesting deep-seated corruption in Baldwin County.
+
+      THE PIVOT: Article 2 establishes the history of systemic corruption in Baldwin County; Article 1 references this specific corruption ("Baldwin County Died of overdevelopment and corruption") while tracking the current political landscape, including Tommy Tuberville’s gubernatorial race, which Mack was actively working to secure for ALEA control.
+
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr, Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, John Wahl, Baldwin County, BCSO, Alabama State Bar
+    llm_text: Hoss Mack and Anthony Lowery helped secure the wrongful conviction of Murray Lawrence Jr. This BCSO corruption in Baldwin County established total officer immunity, revealing deep systemic flaws that challenge the political landscape, including Tommy Tuberville's race.
+    text: Hoss Mack and Anthony Lowery helped secure the wrongful conviction of Murray Lawrence Jr. This corruption shows deep flaws in the Baldwin County Sheriff's Office.
+    widget_date: "2026-10-22"
+    generated_at: "2026-11-06T04:51:30.217921Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hut:
+    refined_source: cfc4b4e04c6415e3bfebd58c220bbce118acb7874231ebbfdad8c68a41440d25
+    brief: |-
+      THE CONFLICT: Henry Stuart built the Hermit Hut (a concrete tool shed/tuberculosis isolation ward) in Fairhope (Baldwin County) in the 1920s. The historical conflict involved the local establishment trying to sanctify this structure, leading to its mandated relocation from a private commercial parking lot.
+      THE DISCOVERY: Article 2 revealed that local officials and organizers engineered a scheme where public donations/taxpayer money were used to pay for the removal of a private obstacle, ultimately clearing prime commercial real estate for developer profit.
+      THE PIVOT: This historical instance of public funds subsidizing private commercial real estate development in Fairhope demonstrates the systemic "overdevelopment and corruption" cited in Article 1 regarding Baldwin County, linking specific local maneuvering to the broader contemporary political issues.
+      KEY ENTITIES: Henry Stuart, Fairhope, Baldwin County, Hermit Hut, City Council/Local Organizers, Commercial Real Estate Owner.
+    llm_text: Henry Stuart's Hermit Hut in 1920s Fairhope didn't just move; local officials used taxpayer money to clear prime commercial real estate for developer profit. This history proves Baldwin County's overdevelopment and corruption aren't new.
+    text: Officials used taxpayer money to clear Henry Stuart's Hermit Hut for developer profit in 1920s Fairhope. This proves overdevelopment and corruption in Baldwin County run deep.
+    widget_date: "2026-10-14"
+    generated_at: "2026-11-06T04:53:40.820444Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  our-man-in-mar-a-lago:
+    brief: |-
+      THE CONFLICT:
+      - New gubernatorial polling: Tommy Tuberville ahead of Doug Jones, 51% to 40%; Brandon Moseley projects 14-point margin based on traditional voting patterns.
+      - Four statewide constitutional amendments on ballot: lieutenant governor vacancy rules; rural school board consolidations; student-led prayer and Pledge requirements; weekly broadcasts of national anthem.
+      - Prison infrastructure & DOJ lawsuits: $1.25 billion Elmore County site; ballooning costs, blown deadlines; Escambia County facility progress; ongoing federal trial over prison conditions; Thunderdome at Holman Correction Facility during recent Hurricane.
+      - Trent Garmon takes on Alabama State Bar in federal court; high-profile legal advertising clash involving Morgan & Morgan; congrats to Alex Shunnarah and Anna Nicole.
+      - Someone stole Billions in Crypto; Glen Beck says end is near.
+
+      THE DISCOVERY:
+      - Perry Hooper Jr joins to discuss ALGOP strategy in home stretch heading into November elections.
+      - Former Chief of Police Kevin Brock joins to discuss arrest of Baldwin County Alabama Homeland Security Special Agent specializing in child predators, arrested for kiddy diddling.
+      - Francis "Paul" Ripp joins to discuss Mabel Amos Scholarship Trust list of recipients; trust administered by Director of Alabama Ethics Commission, formerly of Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody and Bowden.
+      - Clifton was on Trust Board; everyone for future Judge Bowden to TV Star Bill Alverson were in on cash grab.
+      - No action taken by Sisterhood of the Closeted Homosexuals (SCH) at Alabama State Bar.
+      - Allbritton and Alverson left wives and living as openly gay men; "It's not the gay, it's the lie."
+      - Rob Holbert filed bar complaint against Mississippi attorney CC Marino.
+      - Tommy Gallion, legendary lawyer, law partners with Chief Justice Perry Hooper Sr; villainized by Sisterhood at Alabama State Bar; "No more fig leaves, Heart of Dixie Podcast is going to make you all incompetent sellswords at the State Bar infamous."
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 provided context on State Bar/Sisterhood, ethics commission, legal battles, Perry Hooper Sr/Gallon, Kevin Brock arrest, ALGOP strategy, which is key context for Article 1's legal battles and political shifts.
+
+      KEY ENTITIES:
+      - Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, Alabama State Bar, Morgan & Morgan, Alex Shunnarah, Anna Nicole, Perry Hooper Jr, Kevin Brock, Francis "Paul" Ripp, Mabel Amos Scholarship Trust, Alabama Ethics Commission, Andalusia Alabama Law Firm, Allbritton, Clifton, Alverson, Moody, Bowden, Judge Bowden, Bill Alverson, Sisterhood of the Closeted Homosexuals (SCH), Whitney Scapecchi, Rob Holbert, CC Marino, Tommy Gallion, Perry Hooper Sr, Heart of Dixie Podcast, Baldwin County, Bay Minette, Holman Correction Facility, Elmore County, Escambia County, DOJ, Hurricane, Glen Beck, crypto, Lowery, Wilters.
+    llm_text: Tommy Tuberville leads Doug Jones 51-40 in new polling, while Alabama’s constitutional amendments and prison lawsuits keep the November election wild. Perry Hooper Jr. and Kevin Brock join to unpack the legal chaos, ethics fights, and GOP strategy that could decide it all.
+    text: Tommy Tuberville leads Doug Jones 51-40 in new polling, while Alabama’s constitutional amendments and prison lawsuits keep the November election wild. Perry Hooper Jr. and Kevin Brock join to unpack the legal chaos, ethics fights, and GOP strategy that could decide it all.
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-06T04:51:24.054883Z"
     model_name: recursive/flint-v1.0:free

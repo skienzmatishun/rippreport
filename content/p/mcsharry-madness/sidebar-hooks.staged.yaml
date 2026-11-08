@@ -1,0 +1,251 @@
+metadata:
+  generated_at: "2026-11-07T03:50:28.024576Z"
+  generator_version: 1.0.0
+  post_slug: mcsharry-madness
+  main_date: "2021-11-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  get-zoned-or-get-screwed:
+    refined_source: 9deeed04292ec486bdd489acec8c2fcca480e1de86de6d1d6514e23fb73249e7
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted Paula DiNardi (knocking her off a bar stool) at the Little Whiskey Christmas Club; Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts (180 days) and later Baldwin County Circuit Judge Clark Stankoski dismissed the assault charge and imposed one year unsupervised probation.
+
+      THE DISCOVERY: Un-zoned properties near Fairhope (e.g., proposed District 8, District 37) are exploited by developers, and the City Council (including Mayor Sullivan) prioritizes development over community quality of life and local voice.
+
+      THE PIVOT: The systemic influence of developers and special interests highlighted in the zoning context (Article 2) provides the background for the judicial and political corruption (Snedeker being a developer, City Attorney failure, Council/Mayor entanglement) that allowed Ronan McSharry to evade full accountability in the assault case (Article 1).
+
+      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Haymes Snedeker (Fairhope Municipal Judge), Clark Stankoski (Baldwin County Circuit Judge), Marcus McDowell (Fairhope City Attorney), Mayor Sullivan, Jack Burrell (Council President), District 8, District 37, City of Fairhope.
+    llm_text: Ronan McSharry assaulted Paula DiNardi, but Judge Clark Stankoski only gave him probation. Un-zoned properties and developer influence—like Snedeker’s—show how Fairhope politics let this judicial evasion happen.
+    text: Judge Clark Stankoski gave Ronan McSharry probation after an assault conviction. Unzoned properties and developer influence show how Fairhope politics let offenders evade real justice.
+    widget_date: "2021-11-19"
+    generated_at: "2026-11-07T03:45:10.636985Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-musical-chairs:
+    refined_source: 4553b7b931b9482c8853002dc515378e785c996fc60c762f8220cc72f84db360
+    brief: |-
+      THE CONFLICT: Jack Burrell held the position of Fairhope Council President for 9 years, leading to concerns about council corruption and detrimental development overseen by Mayor and contributors like the Municipal Judge.
+      THE DISCOVERY: Municipal Judge Haymes Snedeker is identified in the older article as a developer, a major contributor to the Mayor, and appointed by Jack Burrell, raising severe conflicts of interest contrary to Judicial Canons.
+      THE PIVOT: Article 2 establishes the systemic conflict of interest—that Judge Haymes Snedeker acts for his personal benefit as a developer, not as an impartial arbiter—which provides the essential context for his role in the McSharry case, where he found Ronan Mc Sharry guilty and imposed a sentence of 180 days.
+      KEY ENTITIES: Ronan Mc Sharry, Paula DiNardi, Fairhope Municipal Judge Haymes Snedeker, Jack Burrell, Marcus McDowell, Baldwin County Circuit Judge Clark Stankoski, James Pittman, Mayor (unnamed in older article), Fairhope City Attorney.
+    llm_text: Fairhope Municipal Judge Haymes Snedeker, a developer and key contributor to the Mayor, held severe conflicts while presiding over the Ronan Mc Sharry case. See how his personal interests influenced his guilty verdict and 180-day sentence.
+    text: Fairhope Municipal Judge Haymes Snedeker held severe conflicts of interest while presiding over Ronan McSharry's case. His personal ties influenced a guilty verdict and a light sentence.
+    widget_date: "2021-11-15"
+    generated_at: "2026-11-07T03:47:25.671471Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-cloud:
+    brief: |-
+      THE CONFLICT:
+      - Ronan McSharry, owner of McSharry’s bar in Fairhope, is central figure.
+      - McSharry knocked Paula DiNardi off a bar stool at Little Whiskey Christmas Club.
+      - McSharry claimed the incident “stemmed from an argument”; content called claim “total bullshit.”
+      - DiNardi accused McSharry; police found McSharry had strong odor of alcohol, slurred speech, intoxicated “couldn’t hardly walk”; surveillance video captured attack.
+      - Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts; imposed sentence of 180 days.
+      - Baldwin County Circuit Judge Clark Stankoski, who “requested” to hear case, dismissed most serious charge, which is on video, of assault; McSharry already pleaded guilty in municipal court.
+      - McSharry was already on probation; city attorney Marcus McDowell reportedly failed to file assault charge, leaving McSharry only facing intoxication charge in circuit court; judicial handoff to Judge Stankowski who “wanted” case.
+      - Judge Stankowski, after one day trial, found McSharry guilty, rendering sentence of one year unsupervised probation, without addressing assault charge or prior 6 months in jail and probation at time of assault.
+      - McSharry’s attorney James Pittman wanted to float conspiracy theories and challenge state’s Shield Law; Pittman blamed everyone else except McSharry.
+      - McSharry’s third-party complaint alleged LWCC’s conduct caused him to suffer damages; LWCC claimed McSharry was not injured in person, property or means of support; only injury LWCC claimed was financial cost of defending himself.
+      - McSharry claimed settlement agreement reached with DiNardi weeks before she filed lawsuit, dismissing all DiNardi claims against McSharry without prejudice; DiNardi refused to abide; McSharry claimed settlement reached, wrong, settlement offered early and DiNardi declined.
+
+      THE DISCOVERY:
+      - Article 2, BLACK CLOUD, is older than Article 1; frame as background/historical context.
+      - Article 2 exposed/listed Baldwin County issues: land fraud, judicial voter disenfranchisement, ethics violations, Baldwin County Sheriff Office lawsuits, nine innocent lives lost; Alabama corruption/silence; U of A culture.
+      - Article 2: Sheriff “Boss” Mack said body cameras needed close to $700k for body cams/car cameras; now says no to public seeing any footage he wishes keep secret; what hiding? Federal Court.
+      - Article 2: Chief Justice Tom Parker quote: statute will hide from public eye any materials related to particular investigation; all items of substantive evidence that existed before investigation began, such as video recordings or documentary evidence relevant to crime.
+      - Article 2: Quote: “Democracy cannot operate in the dark...”
+      - Article 2: Tom Albritton, Executive Director of Alabama Ethics Commission, had private charitable trust he helps oversee pay more than $100k for kids’ college tuition; guilty of self-dealing.
+      - Article 2: Tom Albritton and Regions Bank struck oil in Conecuh County; population around 12,000; citizens kept in dark; how could county commissioners not know?
+      - Article 2: Judge Thomason successive reappointments to hear circuit court cases for more than a decade; Burdick claimed state law limits special court appointments to 180 consecutive days and reappointments > decade blatant voter disenfranchisement.
+      - Article 2: Bass claims Burke, president of Baldwin County Sewer Service and well-known developer, and Delaney, prominent South Alabama lender, conspired to use Ponzi scheme to defraud Bass; sealed records reveal many business/political connections over past two decades; charts entered as exhibits.
+
+      THE PIVOT:
+      - Article 2 is older/background; Article 1 is current.
+      - Article 2’s Black Cloud framing—lack of transparency/accountability, systemic corruption, ethics failures, judicial failures, sheriff secrecy, U of A confidentiality—is key context for Article 1’s Fairhope case.
+      - Article 2 is smoking gun/key context because it documents pattern of hidden information and lack of accountability that frames/explains Article 1’s allegations of judicial failure, video evidence handling, city attorney/council/judge failures.
+      - Article 2’s disclosures of sealed records, ethics self-dealing, judicial voter disenfranchisement, sheriff body cam secrecy, U of A confidential info parallel/frame Article 1’s Fairhope video, judge, city attorney, council issues.
+
+      THE KEY ENTITIES:
+      - Ronan McSharry
+      - Paula DiNardi
+      - Little Whiskey Christmas Club / LWCC
+      - Fairhope Municipal Judge Haymes Snedeker
+      - Baldwin County Circuit Judge Clark Stankoski
+      - Marcus McDowell, Fairhope City Attorney
+      - James Pittman, McSharry’s attorney
+      - Jack Burrell, Fairhope Council President
+      - Fairhope City Council
+      - Fairhope Mayor
+      - Baldwin County
+      - Alabama
+      - Baldwin County Sheriff Office / Sheriff “Boss” Mack
+      - Tom Albritton, Alabama Ethics Commission Executive Director
+      - Regions Bank
+      - Conecuh County
+      - Mabel Amos
+      - Tom Parker, Chief Justice
+      - Judge Thomason
+      - Burdick
+      - Bass
+      - Burke, president Baldwin County Sewer Service
+      - Delaney, South Alabama lender
+      - Boone, Councilman
+      - Lagniappe
+      - U of A / University of Alabama
+      - The Machine
+      - Lowery
+      - Wilters
+    llm_text: Ronan McSharry’s bar brawl in Fairhope landed Judge Haymes Snedeker and Judge Clark Stankoski in legal trouble, and surveillance video made it worse. The Black Cloud article’s pattern of secret records, ethics failures, and sheriff body cam silence now frames why Alabama justice can’t hide behind closed doors.
+    text: Ronan McSharry’s bar brawl in Fairhope landed Judge Haymes Snedeker and Judge Clark Stankoski in legal trouble, and surveillance video made it worse. The Black Cloud article’s pattern of secret records, ethics failures, and sheriff body cam silence now frames why Alabama justice can’t hide behind closed doors.
+    widget_date: "2021-10-08"
+    generated_at: "2026-11-07T03:45:31.810816Z"
+    model_name: recursive/flint-v1.0:free
+  fauxhope:
+    refined_source: 258ca87fbf6b2b1edbf835e986185a549810509d982bb3a8d8e7bf5cab36925e
+    brief: |-
+      THE CONFLICT:
+      Ronan McSharry was accused of assaulting Paula DiNardi at the Little Whiskey Christmas Club; McSharry was found guilty by Fairhope Municipal Judge Haymes Snedeker of assault and intoxication, sentencing him to 180 days.
+      The Fairhope judicial system was criticized for allowing McSharry to evade serious charges, with City Attorney Marcus McDowell failing to file the assault charge, leaving him only with an intoxication charge in circuit court.
+      Baldwin County Circuit Judge Clark Stankoski dismissed the most serious assault charge, despite McSharry pleading guilty in municipal court.
+
+      THE DISCOVERY:
+      Article 2 showed a historical pattern of Fairhope municipal government (Council and Mayor) favoring developers and special interests (e.g., Stewart Speed, Arthur Corti) over public welfare, such as failing to ensure ADA compliance for the $6.2 million waterfront grant and allowing Council President Jack Burrell to eliminate public access features for aesthetic reasons.
+
+      THE PIVOT:
+      The historical evidence of Fairhope officials prioritizing developer interests (Article 2) establishes the political context for the alleged judicial failure in McSharry's case (Article 1), suggesting that the City Attorney and Municipal Judge were acting in alignment with entrenched "good ole boys" and special interests rather than impartial law enforcement.
+
+      KEY ENTITIES:
+      Ronan McSharry
+      Paula DiNardi
+      Marcus McDowell (Fairhope City Attorney)
+      Haymes Snedeker (Fairhope Municipal Judge)
+      Clark Stankoski (Baldwin County Circuit Judge)
+      Jack Burrell (Council President)
+      Mayor Sherry Sullivan
+      Mayor Wilson
+      Councilman Jay Robinson
+      Arthur Corti
+      Stewart "The Liar" Speed
+      Little Whiskey Christmas Club
+      Fairhope, Alabama
+    llm_text: Ronan McSharry assaulted Paula DiNardi, yet Fairhope City Attorney Marcus McDowell failed to charge the assault seriously. This judicial failure fits a pattern where officials like Jack Burrell prioritized developer interests over public welfare.
+    text: Ronan McSharry assaulted Paula DiNardi, but Fairhope City Attorney Marcus McDowell failed to charge the assault seriously. Jack Burrell and other officials prioritized developer interests over public safety.
+    widget_date: "2021-09-24"
+    generated_at: "2026-11-07T03:48:39.598941Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  liar-liar-pants-on-fire-2:
+    refined_source: eccb2ec0216356e51e54e65cc9f915b52d2449a38b6dcbd871c4b677ff54b09b
+    brief: |-
+      THE CONFLICT:
+      Fly Creek apartments (Fairhope Village Apartments at Publix) project caused pollution and drainage issues, resulting in over 5 lawsuits costing taxpayers hundreds of thousands of dollars.
+      Developers, including Stewart “The Liar” Speed of the Leaf River Group, lied to 250-300 citizens regarding the project's luxury status and environmental soundness.
+      Council President Jack Burrell betrayed public trust in relation to the developer.
+
+      THE DISCOVERY:
+      Article 2 exposed a history of blatant corruption and back-door meetings between Fairhope council and developers (e.g., Arthur Corte, Stewart Speed).
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of judicial and council corruption/special interests in Fairhope (involving Jack Burrell) which provides context for the current case where Fairhope Municipal Judge Haymes Snedeker (a large developer) and City Attorney Marcus McDowell favored Ronan McSharry, compromising the legal process regarding the assault claim against Paula DiNardi.
+
+      KEY ENTITIES:
+      Ronan McSharry
+      Paula DiNardi
+      Haymes Snedeker (Fairhope Municipal Judge)
+      Marcus McDowell (Fairhope City Attorney)
+      Jack Burrell (Council President)
+      Arthur Corte
+      Stewart “The Liar” Speed (Leaf River Group)
+      Baldwin County Circuit Judge Clark Stankoski
+      Little Whiskey Christmas Club
+      Fairhope
+    llm_text: Stewart "The Liar" Speed lied to 300 Fairhope citizens over the Fly Creek project. This corruption pattern links Council President Jack Burrell to Judge Haymes Snedeker and City Attorney Marcus McDowell, compromising local justice.
+    text: Stewart Speed misled three hundred Fairhope citizens over the Fly Creek project. Council President Jack Burrell, Judge Haymes Snedeker, and City Attorney Marcus McDowell share ties that compromise local justice.
+    widget_date: "2021-09-17"
+    generated_at: "2026-11-07T03:46:21.026211Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-of-the-un-vaccinated:
+    brief: |-
+      THE CONFLICT:
+      - Ronan McSharry, owner of McSharry’s bar in Fairhope, knocked Paula DiNardi off a bar stool at Little Whiskey Christmas Club.
+      - McSharry claimed the establishment “made him get drunk” and caused him to knock DiNardi off a bar stool; he then would sue the same establishment.
+      - McSharry has never apologized or acknowledged he did anything wrong after multiple incidents.
+      - In McSharry’s third-party complaint, he alleges that because of LWCC’s conduct, he was directly caused to “suffer damages.” A complete reading of the complaint shows McSharry was not injured in person, property or means of support. In fact, the only injury that McSharry seems to have sustained is his financial cost of defending himself,” LWCC claims.
+      - In addition to McSharry’s alleged defenses against LWCC, he claims a settlement agreement was reached with DiNardi just weeks before she filed her lawsuit “whereby all of DiNardi’s claims asserted against McSharry in this lawsuit would be dismissed without prejudice.” DiNardi has refused to abide by the terms of that settlement agreement.
+      - McSharry has never apologized and has claimed that the “knocking her off the bar stool, stemmed from an argument, total bullshit.” McSharry also claims a settlement had been reached, wrong again a settlement was offered early on and DiNardi declined.
+      - But when police were called to the Little Whiskey Christmas Club in response to DiNardi’s assault claim, they found McSharry had a “strong odor of alcohol,” “slurred his speech” and was so intoxicated “he couldn’t hardly walk,” according to officers’ testimony. Plus, the surveillance video that captured the attack was shown to the court.
+      - Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts and imposed a sentence of 180 days.
+      - Baldwin County Circuit Judge Clark Stankoski, who “requested” to hear the case, dismissed the most serious charge, which is on video, of assault, which McSherry already plead guilty to in municipal court.
+      - McSharry’s attorney James Pittman wants to float conspiracy theories and challenge the state’s Shield Law. Pittman is blaming everyone else, except McSharry.
+      - This week the Fauxhope city attorney, Marcus McDowell represented Paula DiNardi in a case that was supposed to be an assault and intoxication charge against Ronan McSharry, owner of McSharry’s bar in Fairhope.
+      - McSharry, already on probation, had help from the city attorney who, conveniently and repeatedly, failed to file the assault charge leaving McSharry with only having to face an intoxication charge in circuit court. The judicial hand off to a Judge that “wanted” the case.
+      - Judge Stankowski, after a one day trial where McSharry was found guilty, rendering a sentence of one year, unsupervised probation, without addressing the assault charge or the fact McSharry had already been sentenced to 6 months in jail and was on probation at the time of the assault on DiNardi.
+
+      THE DISCOVERY:
+      - Article 2: Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.
+      - Remember the 2020 Arts and Craft show, where the city council and then candidate Sherry Sullivan, made Covid a political issue? They wanted to “TAKE A CHANCE” with the communities health and proceed with the scheduled Arts and Craft Show. They pushed the mask debate, defending everyone’s right to do whatever they wanted. How about the Christmas parade, where Mayor Sullivan turned a bind eye to masks, health experts, and the Covid Pandemic.
+      - Mayor Karen Wilson quote: “I raised a possible scenario that this event may need to be canceled or rescheduled to mitigate potential exposure. This scenario is the last thing I’d want for our City. However, as the City’s Chief Executive, I take the health, welfare and safety of every Citizen and Visitor to this City very seriously. If the status of the virus changes within our state and the State Health Officer issued recommendations that such large events are not held, that will become my position as well.”
+      - Widget says: “That was leadership then. Now we have no leadership.”
+      - Widget says: Now it is a different story, the feds have sent Fairhope some money so they will eat their hat and cash the check. NOW the mayor and council see the problem with Covid because Now Fairhope has employees that are sick or not vaccinated. Now we have a pandemic of the UN-vaccinated created by our own lack of leadership and ignorance.
+      - Widget: Where is all that bravado about no masks from Jack Burrell and Mayor Sullivan? What happened to their fiscal conservatism. FREE MONEY that is what happened.
+      - The American Rescue Plan, approved by Congress earlier this year, provided money for municipalities to compensate employees affected by the pandemic. In May, the city awarded its full-time employees $500 for working through the pandemic, but with proof of vaccination they are now eligible for $500 more. Part time employees who get vaccinated may receive $250 and seasonal employees will receive $125.
+      - Widget: What about the employees constitutional rights not to mask or vaccinate? I guess everything is for sale.
+      - Widget: Fairhope’s leadership has now got their ass in a crack, defending masks and paying for vaccinations. They created the problem with their insistence of making Covid a political issue and not recognizing a pandemic is a health issue. They have been, for over a year, chastised by doctors, hospitals and teachers for sending mixed messages to the public.
+      - Widget: Earlier in the meeting, resident Stephanie Durnin said she was disappointed to see the item on the agenda and its approval indicates the council lacks fiscal conservatism. Incentivizing a vaccination with taxpayer funds is unconscionable and will cost a fortune, she said. It doesn’t matter that money came from the federal government, where do you think they got it from? It is not the place of the government to rain money on those who participated in a voluntary medical procedure.
+      - Widget: Another resident, Stephanie Hannon, said the resolution was “wrong,” “bordering on coercion,” and “tantamount to bribery.” She came armed with facts and data gathered about the pandemic, suggesting the incentive may cause a rift between employees and advising caution regarding unapproved vaccines. The emergency use of COVID-19 vaccines come with known and unknown risks, she said. Should our city employees be injured due to taking your offer and submitting to the experimental vaccinations, what will your response be?
+      - Widget: Council President Jack Burrell, who tested positive for corona virus last year, said it’s a personal choice. “Nobody’s going to chastise you if you don’t,” he said, adding that there is no animosity between employees who have been vaccinated and those who haven’t. “I don’t think there is a downside to this.”
+      - Widget: Please remember it was Jack Burrell who boasted that the proposed Bayway Bridge should be built WITHOUT federal money. This was his Christian, fiscal conservatism, talking. Flip flopping Jack, backtracked that statement, when he removed his foot from his mouth and realized that the bridge could not be built WITHOUT federal funding.
+      - Widget: The downside is that the council and mayor never made a clear decision on Fairhope Covid protocol and have, through their own lack of leadership, created the situation they now face. Jack’s quote is typical Jack B.S. And demonstrates that he still cannot make a definitive statement without talking in circles.
+      - Widget: Alabama is at a 39% vaccination, the worst in the United States. Fairhope’s lack of leadership during the pandemic, is an example, why we are “DEAD” last.
+      - Widget: The Fairhope Mayor and City Council have not been taking into consideration, or listening, to our first responders, teachers, nurses, and doctors, that have to deal with Covid on a daily basis. In the past they have ignored them, while politicizing the pandemic.
+      - Widget: Get vaccinated and wear a mask, Covid is no joke. This is now a PANDEMIC OF THE UN-VACCINATED.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and is framed as background/historical context.
+      - Article 2 shows Fairhope City Council and Mayor made Covid a political issue, pushed mask debate, ignored health experts, sent mixed messages, then later accepted federal money and incentivized vaccination.
+      - Article 2 documents Fairhope leadership hypocrisy regarding federal money, fiscal conservatism, masks, vaccines, and public health.
+      - Article 2 is the key context/smoking gun for Article 1 because Article 1 addresses Fairhope City Attorney, City Council, Mayor, Municipal Judge, judicial failures, and McSharry case; Article 2 supplies prior background on Fairhope’s Covid governance and public health response.
+      - Article 2’s pivot from anti-federal/fiscal conservatism/no-mask bravado to cashing federal money and paying vaccination incentives is key context for Article 1’s criticism of Fairhope leadership.
+
+      THE KEY ENTITIES:
+      - Ronan McSharry
+      - Paula DiNardi
+      - Haymes Snedeker
+      - Clark Stankoski
+      - James Pittman
+      - Marcus McDowell
+      - Jack Burrell
+      - Karen Wilson
+      - Sherry Sullivan
+      - Stephanie Durnin
+      - Stephanie Hannon
+      - Baldwin County
+      - Fairhope
+      - Alabama
+      - Little Whiskey Christmas Club
+      - McSharry’s bar
+      - Fairhope City Council
+      - Fairhope Mayor
+      - Fairhope City Attorney
+      - Fairhope Municipal Judge
+      - Baldwin County Circuit Court
+      - Alabama Shield Law
+      - American Rescue Plan
+      - United States
+      - Federal government
+      - First responders, teachers, nurses, doctors
+    llm_text: Ronan McSharry knocked Paula DiNardi off a bar stool, and Fairhope's Mayor Karen Wilson pushed masks before cashing Covid federal cash for vaccine incentives. The city's anti-federal bluster turned into booster shots, and readers should care about the hypocrisy.
+    text: Ronan McSharry knocked Paula DiNardi off a bar stool, and Fairhope's Mayor Karen Wilson pushed masks before cashing Covid federal cash for vaccine incentives. The city's anti-federal bluster turned into booster shots, and readers should care about the hypocrisy.
+    widget_date: "2021-08-13"
+    generated_at: "2026-11-07T03:47:22.626036Z"
+    model_name: recursive/flint-v1.0:free
+  where-is-the-media:
+    refined_source: 79272af8639a02b23fb55b83f03954fdedd8655b9b291851f51c9b19c848a47b
+    brief: |-
+      THE CONFLICT: Tom Albritton, Director of the Alabama Ethics Commission, used the Mabel Amos Memorial Fund to finance his children’s education, ignoring the trust intent. Regions Bank and Albritton failed to disclose 60 to 80 million dollars of oil revenue discovered in Conecuh County in 2010 to citizens.
+      THE DISCOVERY: Article 2 (August 7, 2021) revealed systemic corruption involving the Alabama Ethics Commission and Regions Bank in Conecuh County.
+      THE PIVOT: Article 2 establishes a pattern of high-level ethical and financial corruption within Alabama institutions, providing context for the subsequent report (Article 1) detailing judicial and municipal corruption in Fairhope, AL.
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Regions Bank, Rob Holbert (Lagniappe), Ronan McSharry, Paula DiNardi, Fairhope Municipal Judge Haymes Snedeker, Baldwin County Circuit Judge Clark Stankoski, Marcus McDowell (Fairhope City Attorney), James Pittman, Jack Burrell, Little Whiskey Christmas Club, Fairhope City Attorney, City Council, Mayor.
+    llm_text: Tom Albritton used the Mabel Amos Memorial Fund for his children's education while Regions Bank and he hid $60-80 million in Conecuh County oil revenue. See how this high-level ethical corruption connects to judicial and municipal issues in Fairhope.
+    text: Tom Albritton used the Mabel Amos Memorial Fund for his children's education while hiding oil revenue with Regions Bank. This high-level ethical corruption connects directly to municipal issues in Fairhope.
+    widget_date: "2021-08-06"
+    generated_at: "2026-11-07T03:50:11.583887Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,269 @@
+metadata:
+  generated_at: "2026-11-07T15:21:19.896740Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-9-11-2001-remembered
+  main_date: "2020-09-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-pete-rose:
+    refined_source: c0878d9522a6622edfbf9f503986b417351f906f5b515c0f802bc584f284d32a
+    brief: |-
+      THE CONFLICT:
+      * September 11, 2001, was remembered, referencing tragic events in the country.
+      * Alabama Correctional Facilities were involved in extortion via cell phone and a probable murder/suicide.
+      * Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama, on May 27, 2022; body recovered May 29, 2022.
+
+      THE DISCOVERY:
+      * A reward is currently offered for information regarding the death of Thomas Daniel "Danny" Williams Jr.
+      * The article provides updates on ongoing regional issues, including MS-13 Operations in Baldwin County and a Mobile Cop rape.
+
+      THE PIVOT:
+      * The 2022 death of Thomas Daniel "Danny" Williams Jr confirms ongoing unresolved criminal mysteries and violence in the Orange Beach/Alabama region, linking to the broader concerns raised in Article 1 regarding Alabama Correctional Facilities and local crime in Baldwin County.
+
+      KEY ENTITIES:
+      * Thomas Daniel "Danny" Williams Jr
+      * Orange Beach, Alabama
+      * Governor Ivey
+      * Baldwin County
+      * Weeks Bay Foundation (SALT)
+      * Pete Rose
+      * Nick Saban
+      * Katie Britt
+      * Adm. Kent Davis
+      * Mobile
+      * Gulf Shores, Alabama
+    llm_text: Unresolved violence grips Orange Beach, Alabama. Find out why a reward is offered for Thomas Daniel "Danny" Williams Jr.'s 2022 death, tying to MS-13 operations and Baldwin County's persistent criminal threats.
+    text: Unresolved violence grips Orange Beach, Alabama, following suspicious local deaths. A cash reward is offered for information on the death of Thomas Daniel Williams Jr.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T15:17:25.616888Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 28d1facc5718e8a597c98f393beefb046682fe2aecee7c6ffc3dcc131cb4fafc
+    brief: |-
+      THE CONFLICT:
+      *   September 11, 2001, was remembered as a tragic national day.
+      *   Governor Ivey pursued a prison plan involving Alabama Correctional Facilities, facing extortion allegations and a suicide (possibly related to murder).
+      *   Baldwin County had proposed new zoning districts.
+
+      THE DISCOVERY:
+      *   The new Baldwin County District Attorney building construction bid was awarded to companies with political ties.
+      *   This resulted in million-dollar contracts indicating corruption and a lack of accountability in local law enforcement investigations.
+
+      THE PIVOT:
+      *   The million-dollar contract award for the Baldwin County DA building confirms the local political corruption and financial scandal hinted at by the proposed zoning districts and ongoing legal issues mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Governor Ivey
+      *   Alabama Correctional Facilities
+      *   Baldwin County District Attorney (new building)
+      *   Weeks Bay Foundation / SALT
+      *   Gulf Shores, Alabama
+      *   Nick Saban
+      *   Operation BBQ Relief
+      *   Hurricane Laura
+    llm_text: Governor Ivey's past legal issues connect directly to current corruption in Baldwin County. New DA building contracts went to politically tied companies, exposing a major local financial scandal.
+    text: Governor Ivey's past legal issues connect directly to current corruption in Baldwin County. New DA building contracts went to politically tied companies in a major financial scandal.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T15:12:30.621495Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: e0c12c6329d2558b381c4d0b79796c1818e9d1b6a028b5998c96b639da52cc81
+    brief: |-
+      THE CONFLICT:
+      September 11, 2001, is noted as a tragic day for the Country.
+      Governor Ivey's prison plan and extortion via cell phone from Alabama Correctional Facilities occurred.
+      Hurricane Laura impacted Lake Charles, leading to Operation BBQ Relief activation.
+
+      THE DISCOVERY:
+      Backstory Podcast No. 186 features discussions on the 2024 US Presidential election results, The Trump Cabinet 2.0, and current Alabama issues like the closing of rural hospitals and proposed constitutional amendments.
+
+      THE PIVOT:
+      Article 2 updates the political landscape from the historical events of Article 1, demonstrating the ongoing political and legal conflicts in Alabama (e.g., zoning/legal issues from Article 1) are now framed by 2024 electoral and constitutional debates.
+
+      KEY ENTITIES:
+      Governor Ivey
+      Weeks Bay Foundation
+      SALT
+      Nick Saban
+      Lake Charles
+      Backstory Podcast
+    llm_text: 'Don''t let history fade: Governor Ivey''s legal issues and Lake Charles'' Hurricane Laura impact still shape Alabama politics. Backstory Podcast No. 186 connects these past conflicts to the 2024 election and critical constitutional debates.'
+    text: Governor Ivey's legal issues and Hurricane Laura still shape modern Alabama politics. Backstory Podcast No. 186 connects past conflicts to the 2024 election and free speech debates.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T15:15:50.273594Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 1ef78069a521f2022483423273e8ef196085c3e61341e666ee477c6130061045
+    brief: |-
+      THE CONFLICT: September 11, 2001, was remembered; Alabama faced issues including extortion via cell phone from Alabama Correctional Facilities, Governor Ivey’s prison plan, and proposed zoning districts in Baldwin County.
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis, leading to veterans’ programs chaos and political maneuvering over the veterans’ board. A true crime story in Clarke County exposed a hospice business's shady ties to a judge, highlighting Alabama’s "good old boy" system.
+      THE PIVOT: Article 2 details the current political instability (Ivey/Davis/veterans) and concrete corruption (Clarke County judge) that exemplifies the systemic political issues and questionable governance implied by the discussion of Governor Ivey’s plans and correctional facility issues in Article 1.
+      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Baldwin County, Weeks Bay Foundation (SALT), Clarke County, Nick Saban, Alabama Correctional Facilities.
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, sparking chaos in veterans’ programs. A Clarke County true crime further exposed a judge’s shady ties, revealing Alabama’s deep-rooted "good old boy" system.
+    text: Governor Kay Ivey fired Admiral Kent Davis, sparking chaos in state veterans’ programs. A Clarke County true crime report exposed a judge’s shady ties to local power.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T15:10:14.533999Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: b7f952c0d7f17ab9727d29b48561239887ece394bba9ecc9498dd72d22222e36
+    brief: |-
+      THE CONFLICT:
+      - September 11, 2001: Tragic day for the Country.
+      - Alabama Correctional Facilities: Incident involving extortion via cell phone and a determined suicide.
+      - Hurricane Laura: Operation BBQ Relief activated in Lake Charles, Alabama.
+
+      THE DISCOVERY:
+      - Article 2 details a damning report on the US government's COVID-19 response.
+      - President Biden granted a pardon to his son, Hunter Biden.
+      - Article 2 reports allegations of misconduct against various officials and wrongful arrests of individuals who exposed local school district corruption.
+
+      THE PIVOT:
+      - Article 2 connects the localized issues of misconduct and arrests mentioned in Article 1 (e.g., local government issues, political appointments) to a national context involving the COVID-19 response and high-level political pardons.
+
+      KEY ENTITIES:
+      - Governor Ivey
+      - Weeks Bay Foundation (now "SALT")
+      - President Biden
+      - Hunter Biden
+      - Alabama Correctional Facilities
+      - Nick Saban
+      - Hurricane Laura
+      - Baldwin County
+      - SARS-COV-2 (6,417,146 cases in the USA)
+    llm_text: Local misconduct in Baldwin County links directly to a damning report on the COVID-19 response and the Hunter Biden pardon. See how local corruption connects to national political failures and why you should demand government accountability.
+    text: Local misconduct in Baldwin County links directly to federal COVID-19 response failures. See how local corruption connects to national political scandals and demand government accountability.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T15:14:48.903303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 8ce76133335d3a2e628a11881ba2a2f6a3021d662c8e4713ad04fc3575279a40
+    brief: |-
+      THE CONFLICT: Fatal shooting of OJ French Jr. by Bay Minette Police Officer Brandon Thompson; initial Grand Jury cleared Officer Thompson; Mayor Robert Bob Wills previously stated the family was "ok with the outcome" of the investigation.
+      THE DISCOVERY: The Family of OJ French Jr., through May Jung LLC, filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024, disputing the initial investigation outcome.
+      THE PIVOT: The lawsuit provides concrete evidence of alleged police misconduct (no probable cause, escalation, shooting) and exposes political dishonesty from Mayor Robert Bob Wills, connecting specific local legal failures to the broader governance and political context referenced in the main article (Governor Ivey’s plans, Baldwin County zoning).
+      KEY ENTITIES: OJ French Jr.; Brandon Thompson; Mayor Robert Bob Wills; May Jung LLC; Sheriff Mack; Governor Ivey; Chief Deputy Anthony Lowery; County Commissioner Matt McKenzie; City of Bay Minette; Baldwin County.
+    llm_text: OJ French Jr.'s family filed a lawsuit against Officer Brandon Thompson and the City of Bay Minette, disputing his fatal shooting clearance. This case exposes Mayor Robert Bob Wills' political dishonesty, revealing local misconduct tied to Baldwin County governance.
+    text: The family of OJ French Jr. filed a lawsuit against Officer Brandon Thompson and Bay Minette. This case exposes Mayor Robert Bob Wills and local governance failures.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T15:20:58.516659Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: d543aff00a1c0da3308bada8c6232a3ffde3e5c2719b13c6be0f794a7c2f729e
+    brief: |-
+      THE CONFLICT:
+      - September 11, 2001, is remembered in the context of SARS-COV-2 cases (136,703 in Alabama, 2,333 deaths).
+      - Governor Ivey proposed a prison plan in Alabama.
+      - Baldwin County proposed new zoning districts.
+      - Weeks Bay Foundation became "SALT," related to the Fairhope Triangle.
+
+      THE DISCOVERY:
+      - Governor Ivey recently called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+      - Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      - Fairhope is expanding its $9.5M pier remodel.
+      - The City of Bay Minette, Alabama, is being sued by the family of OJ French Jr.
+      - BMPD Officer Brandon Thompson is involved in the OJ French Jr. case.
+
+      THE PIVOT:
+      - Article 2 provides an update on Governor Ivey's active state government involvement and confirms the current local development and political actions (lot approvals, $9.5M remodel) in Baldwin County, moving beyond the initial proposal of zoning districts and the prison plan mentioned in Article 1.
+
+      KEY ENTITIES:
+      - Governor Ivey
+      - Baldwin County
+      - Fairhope
+      - Bay Minette, Alabama
+      - Andy Ruten (Mobile Attorney)
+      - Bob Wills (Bay Minette Mayor)
+      - OJ French Jr.
+      - Brandon Thompson (BMPD Officer)
+      - Weeks Bay Foundation / SALT
+      - Nick Saban
+      - Hurricane Laura (Lake Charles)
+    llm_text: Governor Ivey demanded the Veteran's Affairs Commissioner resign while Baldwin County approves thousands of new residential lots. Fairhope expands its $9.5M pier remodel, and Bay Minette faces an OJ French Jr. lawsuit involving BMPD Officer Brandon Thompson.
+    text: Governor Ivey demanded a commissioner resign while Baldwin County approves thousands of new lots. Fairhope expands its pier remodel while Bay Minette faces an active lawsuit.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T15:11:25.839635Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 97df44e4c0a51cf779c46f4a3fdcab52ac9f2e7dc95eb1127995cdaf28088c71
+    brief: |-
+      THE CONFLICT:
+      * September 11, 2001 was remembered in the context of national tragedy.
+      * Governor Ivey's prison plan and extortion via cell phone from Alabama Correctional Facilities were reported.
+      * Operation BBQ Relief was active in Lake Charles following Hurricane Laura.
+      * Baldwin County proposed new zoning districts.
+      * SARS-COV-2 confirmed 136,703 cases and 2,333 deaths in Alabama.
+
+      THE DISCOVERY:
+      * Kent David, Alabama Veterans Affairs Commissioner, resigned due to a whistleblower Ethics Complaint.
+      * The Renaissance School in Baldwin County (for special needs kids) was robbed, possibly leading to shuttering.
+      * Brandon Moseley (BamaCarry Inc, Tuscaloosa) discussed five firearms related bills for the 2025 session.
+      * The Sheriff Department of Baldwin County established a new Command Staff.
+      * The "Haitians Eating Cats" debate was front and center in Sylacauga Alabama.
+
+      THE PIVOT:
+      * The ongoing political instability and local corruption issues mentioned in Article 1 (e.g., Baldwin County zoning, prison issues) are evidenced by the current local crises in Article 2, including the theft at Renaissance School and the resignation of Kent David due to an ethics complaint.
+
+      KEY ENTITIES:
+      * Governor Ivey
+      * Alabama Correctional Facilities
+      * Weeks Bay Foundation ("SALT")
+      * Nick Saban
+      * Kent David
+      * Brandon Moseley
+      * David R. Jones (Texas Federal Bankruptcy Judge)
+      * Baldwin County
+      * Sylacauga Alabama
+      * Operation BBQ Relief
+      * RFK Jr
+      * Tulsi Gabbards
+      * Russell Brand
+    llm_text: Kent David resigned over an ethics complaint, proving local corruption is active in Baldwin County. This instability also led to the theft at Renaissance School, jeopardizing special needs kids.
+    text: Kent David resigned over an ethics complaint, proving local corruption active in Baldwin County. This instability also led to the theft at Renaissance School, harming vulnerable students.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T15:18:51.306920Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 7df7b59197f8a4e7b4d75ee16d081ea0e16d868999d418bab616114e7d1fe3de
+    brief: |-
+      THE CONFLICT: September 11, 2001, was remembered as a tragic day; Governor Ivey proposed a prison plan involving Alabama Correctional Facilities; Baldwin County was considering new proposed zoning districts.
+      THE DISCOVERY: Sheriff Mack's term in Baldwin County, Alabama, is ending in one week; Governor is currently selecting a replacement for Sheriff Mack; VP Kamala Harris' political standing has shifted from "scourge" to "darling savior."
+      THE PIVOT: The current political transition (Sheriff Mack's exit and Governor's replacement search) updates the local governance context of the previous article's discussions on Baldwin County zoning and Governor Ivey's policy initiatives.
+      KEY ENTITIES: Governor Ivey, Sheriff Mack, VP Kamala Harris, Nick Saban, Finebaum, Baldwin County, Weeks Bay Foundation.
+    llm_text: Sheriff Mack's term in Baldwin County ends next week, shifting the local political power dynamics. How will the Governor Ivey replacement selection affect his prison plans and Baldwin County zoning decisions?
+    text: Sheriff Mack's term in Baldwin County ends soon, shifting local political power dynamics. How will Governor Ivey's replacement choice affect local prison plans and zoning?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T15:19:55.302070Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 52111612ef1f0f417215449840790f060d742a4e08e40f683ab12deefd37327b
+    brief: |-
+      THE CONFLICT:
+      *   September 11, 2001 was remembered as a tragic day.
+      *   Alabama Correctional Facilities experienced extortion via cell phone and a probable murder determined to be a suicide.
+      *   Baldwin County proposed new zoning districts.
+      *   Governor Ivey had a prison plan.
+      *   Past legal issues included a 2005 incident where two autopsies ordered by the Coroner of Baldwin County were never disclosed to the Defense (Brady Violation).
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a ruling today (at 1pm) concerning the Mack vs Hadley case (theft of a 1968 Camaro by the Baldwin County Sheriff's Department).
+      *   This ruling addressed the Rule 32 Petition for a new trail for Murray Lawrence Jr.
+      *   The articles highlight ongoing allegations of corruption, including the Dothan Summer Feeding Scandal and the actions of corrupt Alabama Federal Judge Mark Fuller from Mobile, Alabama.
+
+      THE PIVOT:
+      *   The court ruling (Article 2 update) provides concrete, recent legal validation of systemic institutional corruption within Alabama's legal and political systems, directly connecting the past claims of facility extortion and local governance issues (Article 1) to documented legal failures (Brady Violation) and corrupt officials (Mark Fuller, Baldwin County Sheriff's Dept).
+
+      KEY ENTITIES:
+      *   Governor Ivey
+      *   Baldwin County
+      *   Alabama Correctional Facilities
+      *   Mark Fuller (Alabama Federal Judge, Mobile)
+      *   Murray Lawrence Jr.
+      *   Mack vs Hadley
+      *   Alabama Court of Civil Appeals
+      *   Luigi Manjone
+      *   Weeks Bay Foundation / SALT
+    llm_text: Alabama Court of Civil Appeals delivered a critical ruling in *Mack vs Hadley*, validating systemic institutional corruption across Alabama. This decision connects past facility extortion and Brady violations involving Mark Fuller and Baldwin County.
+    text: The Alabama Court of Civil Appeals delivered a critical ruling in Mack vs Hadley. This decision validates systemic institutional corruption and highlights past Brady violations.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T15:13:44.231642Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

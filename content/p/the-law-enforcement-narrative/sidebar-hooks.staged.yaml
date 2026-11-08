@@ -5,102 +5,32 @@ metadata:
   main_date: "2022-09-20"
   model_name: plugsky-lite
 hooks:
-  the-crime-of-the-century:
+  the-180:
+    refined_source: 306a192a0d4b9565be1b194fd4966b1840691b2fe116658586963f31d5dcec77
     brief: |-
-      THE CONFLICT: Bay Minette Community member shot to death after 10am traffic stop one month ago; Sheriff Huey Mack is accused of narrative cover-ups.
-      THE DISCOVERY: Backstory Podcast covers Alabama political issues, including Governor Kay Ivey firing Admiral Kent Davis and veteran board chaos.
-      THE PIVOT: Article 2 provides broader context on Alabama power dynamics and legal constraints (wrong SWAT raid ruling) potentially relevant to police accountability issues raised in Article 1.
-      KEY ENTITIES: Bay Minette Community, Sheriff Huey Mack, Scott Johnson, Baldwin County Major Crimes Unit, Governor Kay Ivey, Admiral Kent Davis, Joe Biden, Kamala Harris.
-    llm_text: Sheriff Huey Mack faces cover-up accusations after the Bay Minette shooting; read how Alabama power dynamics, including Governor Kay Ivey's moves, affect police accountability.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T20:45:14.842288Z"
+      THE CONFLICT: Beloved member of Bay Minette Community shot after 10am traffic stop one month ago; Bay Minette Justice League formed; Sheriff Huey Mack faces accusations of cover-ups/disinformation regarding law enforcement narratives (Scott Johnson, Lagniappe Newspaper).
+      THE DISCOVERY: Sheriff Mack has one week left in office in Baldwin County, Alabama; the Governor is selecting a replacement.
+      THE PIVOT: Article 2 establishes immediate political volatility and impending leadership change (Sheriff Mack's term ending) directly relevant to the ongoing narrative disputes raised in Article 1.
+      KEY ENTITIES: Bay Minette Community, Sheriff Huey Mack, Scott Johnson, Baldwin County Major Crimes Unit, Governor, Kamala Harris, Alabama.
+    llm_text: Sheriff Huey Mack faces cover-up claims after the Bay Minette Community shooting; read how his one-week term ends amid a leadership shift in Baldwin County.
+    text: Sheriff Huey Mack faces cover-up claims after the Bay Minette community shooting. How does his tenure end amid a leadership shift in Baldwin County?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T20:45:47.303063Z"
     model_name: plugsky-lite
   scalped:
+    refined_source: a29899291306020eab5844be122447ebf5080b24b6d23504fbd336812b5d2937
     brief: |-
       THE CONFLICT: Death of a Bay Minette community member following a 10 am traffic stop, occurring one month prior to the article's publication. Baldwin County Major Crimes Unit provided a narrative disputed by Scott Johnson, leading to the formation of the Bay Minette Justice League.
       THE DISCOVERY: The new Baldwin County District Attorney building construction bid was awarded to companies with political ties, illustrating a pattern of corruption and lack of accountability in local government.
       THE PIVOT: The documented financial corruption (million-dollar contract awards for the DA building) provides concrete evidence of systemic institutional failure and lack of accountability within Baldwin County, substantiating the claims of cover-ups and disinformation made about the police narrative.
       KEY ENTITIES: Bay Minette; Baldwin County; Sheriff Huey Mack; Scott Johnson; Bay Minette Justice League; Baldwin County District Attorney; Lagniappe Newspaper
     llm_text: Bay Minette Justice League leader Scott Johnson disputed the police narrative after a community member's traffic stop death. New evidence reveals Baldwin County awarded million-dollar DA building contracts to political allies, confirming institutional corruption.
+    text: Scott Johnson disputed the police narrative after a traffic stop death in Bay Minette. Why did Baldwin County award million-dollar district attorney building contracts to political allies?
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T20:45:59.856637Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   A beloved member of the Bay Minette Community was shot dead after a 10am traffic stop one month prior to Article 1 publication.
-      *   The Baldwin County Major Crimes Unit (under Sheriff Huey Mack) presented a narrative described by Scott Johnson as a "fiction" involving a history of cover-ups and disinformation.
-      *   Past alleged incidents of misconduct include the death of Jonathan Victor (on I-10), Robert Yates (Key Largo Villas eviction), Peyton Little (confidential drug informant), five deaths in a wrong way pursuit on I-10, malicious prosecution of Steve Nodine, and the conviction of Forest Bullin (attempted murder of Deputy Michael Walker).
-
-      THE DISCOVERY:
-      *   The Alabama Court of Civil Appeals released a decision regarding the Rule 32 Petition for Murray Lawrence Jr.
-      *   This petition relates to the discovery of two autopsies in 2005, which were ordered by Coroner of Baldwin County (Sheriff Mack's father) but never disclosed to the Defense (a Brady Violation).
-      *   The article also notes the legal case Mack vs Hadley concerning the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-
-      THE PIVOT:
-      *   Article 2 provides concrete, dated evidence (2005 autopsies, Rule 32 Petition, Mack vs Hadley theft) that substantiates the broader claims of institutional cover-ups, disinformation, and legal malfeasance leveled against Sheriff Huey Mack and the Baldwin County legal system in Article 1.
-
-      KEY ENTITIES:
-      *   Huey Mack (Baldwin County Sheriff)
-      *   Scott Johnson
-      *   Bay Minette Community
-      *   Baldwin County Major Crimes Unit
-      *   Jonathan Victor
-      *   Robert Yates
-      *   Peyton Little (19)
-      *   Steve Nodine (Mobile County Commissioner)
-      *   Forest Bullin
-      *   Michael Walker (Baldwin County Sheriff's Deputy)
-      *   Murray Lawrence Jr.
-      *   Mark Fuller (Alabama Federal Judge)
-      *   Mack vs Hadley
-      *   Luigi Manjone
-    llm_text: Scott Johnson called the Baldwin County Major Crimes Unit narrative "fiction." New court rulings prove Sheriff Huey Mack's office hid 2005 autopsies in the Murray Lawrence Jr. case and stole a 1968 Camaro.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T20:47:07.525424Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Death of a Bay Minette Community member after a 10am traffic stop one month ago; Baldwin County Major Crimes Unit presented a contested narrative attributed to Sheriff Huey Mack; Bay Minette Justice League was formed.
-      THE DISCOVERY: The newer article discusses President Biden's pardon of his son Hunter and allegations of misconduct against various officials, including wrongful arrests exposing corruption in a local school district.
-      THE PIVOT: The newer article frames the localized allegations of corruption and official misconduct (Article 1) within a wider national context involving presidential pardons, government response (COVID-19), and First Amendment issues.
-      KEY ENTITIES: Sheriff Huey Mack, Bay Minette Justice League, Scott Johnson, President Biden, Hunter Biden, Baldwin County Major Crimes Unit
-    llm_text: Bay Minette Justice League investigates the death after a traffic stop, challenging Sheriff Huey Mack's narrative. This local misconduct mirrors national corruption, connecting to President Biden's Hunter pardon and wider issues of official accountability.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T20:48:15.436843Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT:
-      - Bay Minette community member was shot during a 10am traffic stop one month prior to Article 1 publication.
-      - Scott Johnson reported on the Baldwin County Major Crimes Unit narrative, alleging Sheriff Huey Mack's disinformation/cover-ups.
-      - Past incidents cited include: Jonathan Victor death (I-10), Robert Yates death (Key Largo Villas), Peyton Little death (confidential drug informant), five deaths in wrong way pursuit (I-10), malicious prosecution of Steve Nodine, and Forest Bullin conviction (attempted murder of Deputy Michael Walker).
-
-      THE DISCOVERY:
-      - Article 2 (Backstory Podcast No. 186) discusses general Alabama news topics including closing rural hospitals and changes to hunting seasons.
-      - Article 2 does not specifically address the Bay Minette incident, Sheriff Mack, or the specific allegations made by Scott Johnson.
-
-      THE PIVOT:
-      - Article 2 provides no direct evidence or context (smoking gun) to validate or refute the specific law enforcement narrative issues raised in Article 1.
-
-      KEY ENTITIES:
-      - Bay Minette Community
-      - Sheriff Huey Mack
-      - Scott Johnson
-      - Baldwin County Major Crimes Unit
-      - Jonathan Victor
-      - Robert Yates
-      - Peyton Little
-      - Steve Nodine
-      - Forest Bullin
-      - Deputy Michael Walker
-      - Baldwin County Courthouse
-      - Lagniappe Newspaper
-    llm_text: Scott Johnson exposed Sheriff Huey Mack's alleged cover-ups after a Bay Minette traffic stop shooting. See the full story detailing past incidents like the Jonathan Victor and Robert Yates deaths.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T20:45:22.218120Z"
-    model_name: plugsky-lite
   stirring-the-pot-bsp:
+    refined_source: 83b71d71931615951d57248b343b8c4e5cd989457c7f688b7abc476c3564f995
     brief: |-
       THE CONFLICT:
       - Beloved member of Bay Minette Community shot dead after 10am traffic stop one month ago.
@@ -133,20 +63,153 @@ hooks:
       - Fairhope
       - Governor Ivey
     llm_text: OJ French Jr's family is suing the City of Bay Minette over his death following a traffic stop involving BMPD Officer Brandon Thompson. Read how Andy Ruten and Bob Wills are defending the city against these serious allegations.
+    text: The family of O.J. French Jr. sued the City of Bay Minette over his death following a traffic stop. How are Andy Ruten and Bob Wills defending the city against these serious allegations?
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T20:45:29.076985Z"
     model_name: plugsky-lite
   the-pete-rose:
+    refined_source: 9b16c9199dfda4fca74f8eda8f2a880c7a41f69c5d7df1f63af79dfd91a4f544
     brief: |-
       THE CONFLICT: Death of a beloved member of the Bay Minette Community after a 10am traffic stop one month prior to Article 1 publication; Sheriff Huey Mack is cited for narrative fiction/cover-ups.
       THE DISCOVERY: Article 2 mentions a reward for information regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022 (body recovered May 29, 2022).
       THE PIVOT: Article 2 provides a specific, dated case (Danny Williams Jr death) in Orange Beach, Alabama, suggesting a pattern of unresolved or hidden deaths/mysteries relevant to the broader allegations in Article 1 (e.g., Peyton Little, traffic stop deaths).
       KEY ENTITIES: Bay Minette Community, Sheriff Huey Mack, Baldwin County Major Crimes Unit, Peyton Little, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Scott Johnson, Bay Minette Justice League
     llm_text: Sheriff Huey Mack faces claims of cover-ups following a Bay Minette traffic stop death, but did he mishandle the 2022 death of Thomas Daniel "Danny" Williams Jr in Orange Beach? See how this Orange Beach case connects to the wider community concerns.
+    text: Sheriff Huey Mack faces claims of cover-ups following a Bay Minette traffic stop death. Did he also mishandle the 2022 death of Thomas Daniel Williams Jr. in Orange Beach?
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T20:45:34.675799Z"
     model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: afc0760abcdf1c8bed0c5a5ac26d5a8149cc3f5c9fd0205b32a8c84080fb1d77
+    brief: |-
+      THE CONFLICT:
+      Death occurred after a 10am traffic stop one month prior to the main article's writing.
+      The Bay Minette Community created the Bay Minette Justice League.
+      Scott Johnson published an article in the Lagniappe Newspaper regarding the Baldwin County Major Crimes Unit narrative, alleging Sheriff Huey Mack's cover-ups.
+      Mentioned past incidents include the death of Jonathan Victor, Robert Yates, Peyton Little, five people in a wrong way pursuit, and the malicious prosecution of Steve Nodine.
+
+      THE DISCOVERY:
+      The French Family, Bay Minette Justice League, and May Jung LLC filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
+      The lawsuit alleges Officer Brandon Thompson lacked probable cause and escalated the situation, resulting in his shooting and death.
+      Sheriff Mack announced his resignation mid-July, with Chief Deputy Anthony Lowery expected to be appointed by Governor Ivey, though County Commissioner Matt McKenzie is also interested.
+
+      THE PIVOT:
+      Article 2 provides specific, dated evidence (July 31, 2024 lawsuit) detailing the circumstances of the death mentioned generally in Article 1, identifying the officer (Brandon Thompson) and the legal action taken against the City of Bay Minette, contradicting prior official narratives.
+
+      KEY ENTITIES:
+      Huey Mack
+      Scott Johnson
+      Bay Minette Justice League
+      OJ French Jr
+      May Jung LLC
+      City of Bay Minette
+      Officer Brandon Thompson
+      Mayor Robert Bob Wills
+      Anthony Lowery
+      Governor Ivey
+      Matt McKenzie
+      Baldwin County Major Crimes Unit
+      Steve Nodine
+    llm_text: The Bay Minette Justice League sued the City of Bay Minette over Officer Brandon Thompson's death, alleging he lacked probable cause during a July 31, 2024 stop. Read how this lawsuit challenges Sheriff Huey Mack's prior narratives about local deaths.
+    text: The Bay Minette Justice League sued the city over Officer Brandon Thompson's use of force during a traffic stop. Did the officer lack probable cause on July 31, 2024?
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T20:45:55.323132Z"
+    model_name: plugsky-lite
+  the-crime-of-the-century:
+    refined_source: 5da7d6d1f1310de9633999ccc88a8e58da503fafaebf4cae2cc86a0548abd0b9
+    brief: |-
+      THE CONFLICT: Bay Minette Community member shot to death after 10am traffic stop one month ago; Sheriff Huey Mack is accused of narrative cover-ups.
+      THE DISCOVERY: Backstory Podcast covers Alabama political issues, including Governor Kay Ivey firing Admiral Kent Davis and veteran board chaos.
+      THE PIVOT: Article 2 provides broader context on Alabama power dynamics and legal constraints (wrong SWAT raid ruling) potentially relevant to police accountability issues raised in Article 1.
+      KEY ENTITIES: Bay Minette Community, Sheriff Huey Mack, Scott Johnson, Baldwin County Major Crimes Unit, Governor Kay Ivey, Admiral Kent Davis, Joe Biden, Kamala Harris.
+    llm_text: Sheriff Huey Mack faces cover-up accusations after the Bay Minette shooting; read how Alabama power dynamics, including Governor Kay Ivey's moves, affect police accountability.
+    text: Sheriff Huey Mack faces cover-up accusations after the Bay Minette shooting. How do Alabama power dynamics and Governor Kay Ivey affect police accountability?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T20:45:14.842288Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: eb154683e9cdddb06d7879610bb2429d94f4b3dd17342baca6e3142c48ef86c5
+    brief: |-
+      THE CONFLICT:
+      *   A beloved member of the Bay Minette Community was shot dead after a 10am traffic stop one month prior to Article 1 publication.
+      *   The Baldwin County Major Crimes Unit (under Sheriff Huey Mack) presented a narrative described by Scott Johnson as a "fiction" involving a history of cover-ups and disinformation.
+      *   Past alleged incidents of misconduct include the death of Jonathan Victor (on I-10), Robert Yates (Key Largo Villas eviction), Peyton Little (confidential drug informant), five deaths in a wrong way pursuit on I-10, malicious prosecution of Steve Nodine, and the conviction of Forest Bullin (attempted murder of Deputy Michael Walker).
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a decision regarding the Rule 32 Petition for Murray Lawrence Jr.
+      *   This petition relates to the discovery of two autopsies in 2005, which were ordered by Coroner of Baldwin County (Sheriff Mack's father) but never disclosed to the Defense (a Brady Violation).
+      *   The article also notes the legal case Mack vs Hadley concerning the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+
+      THE PIVOT:
+      *   Article 2 provides concrete, dated evidence (2005 autopsies, Rule 32 Petition, Mack vs Hadley theft) that substantiates the broader claims of institutional cover-ups, disinformation, and legal malfeasance leveled against Sheriff Huey Mack and the Baldwin County legal system in Article 1.
+
+      KEY ENTITIES:
+      *   Huey Mack (Baldwin County Sheriff)
+      *   Scott Johnson
+      *   Bay Minette Community
+      *   Baldwin County Major Crimes Unit
+      *   Jonathan Victor
+      *   Robert Yates
+      *   Peyton Little (19)
+      *   Steve Nodine (Mobile County Commissioner)
+      *   Forest Bullin
+      *   Michael Walker (Baldwin County Sheriff's Deputy)
+      *   Murray Lawrence Jr.
+      *   Mark Fuller (Alabama Federal Judge)
+      *   Mack vs Hadley
+      *   Luigi Manjone
+    llm_text: Scott Johnson called the Baldwin County Major Crimes Unit narrative "fiction." New court rulings prove Sheriff Huey Mack's office hid 2005 autopsies in the Murray Lawrence Jr. case and stole a 1968 Camaro.
+    text: Scott Johnson called the Baldwin County Major Crimes Unit narrative fiction. Did court rulings prove Sheriff Huey Mack's office hid autopsies in the Murray Lawrence case?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T20:47:07.525424Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: a6bc414bb3fa4c9e2c82a683c2b36ed826ea97434f0652f3ed614fc6d0b7a52d
+    brief: |-
+      THE CONFLICT: Death of a Bay Minette Community member after a 10am traffic stop one month ago; Baldwin County Major Crimes Unit presented a contested narrative attributed to Sheriff Huey Mack; Bay Minette Justice League was formed.
+      THE DISCOVERY: The newer article discusses President Biden's pardon of his son Hunter and allegations of misconduct against various officials, including wrongful arrests exposing corruption in a local school district.
+      THE PIVOT: The newer article frames the localized allegations of corruption and official misconduct (Article 1) within a wider national context involving presidential pardons, government response (COVID-19), and First Amendment issues.
+      KEY ENTITIES: Sheriff Huey Mack, Bay Minette Justice League, Scott Johnson, President Biden, Hunter Biden, Baldwin County Major Crimes Unit
+    llm_text: Bay Minette Justice League investigates the death after a traffic stop, challenging Sheriff Huey Mack's narrative. This local misconduct mirrors national corruption, connecting to President Biden's Hunter pardon and wider issues of official accountability.
+    text: The Bay Minette Justice League investigated a traffic stop death and challenged Sheriff Huey Mack's narrative. How does local police misconduct connect to wider issues of official accountability?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T20:48:15.436843Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: c74e9d7b151f0dadba67d4167f9c709a318d5461e1de3897172097fe76c8d804
+    brief: |-
+      THE CONFLICT:
+      - Bay Minette community member was shot during a 10am traffic stop one month prior to Article 1 publication.
+      - Scott Johnson reported on the Baldwin County Major Crimes Unit narrative, alleging Sheriff Huey Mack's disinformation/cover-ups.
+      - Past incidents cited include: Jonathan Victor death (I-10), Robert Yates death (Key Largo Villas), Peyton Little death (confidential drug informant), five deaths in wrong way pursuit (I-10), malicious prosecution of Steve Nodine, and Forest Bullin conviction (attempted murder of Deputy Michael Walker).
+
+      THE DISCOVERY:
+      - Article 2 (Backstory Podcast No. 186) discusses general Alabama news topics including closing rural hospitals and changes to hunting seasons.
+      - Article 2 does not specifically address the Bay Minette incident, Sheriff Mack, or the specific allegations made by Scott Johnson.
+
+      THE PIVOT:
+      - Article 2 provides no direct evidence or context (smoking gun) to validate or refute the specific law enforcement narrative issues raised in Article 1.
+
+      KEY ENTITIES:
+      - Bay Minette Community
+      - Sheriff Huey Mack
+      - Scott Johnson
+      - Baldwin County Major Crimes Unit
+      - Jonathan Victor
+      - Robert Yates
+      - Peyton Little
+      - Steve Nodine
+      - Forest Bullin
+      - Deputy Michael Walker
+      - Baldwin County Courthouse
+      - Lagniappe Newspaper
+    llm_text: Scott Johnson exposed Sheriff Huey Mack's alleged cover-ups after a Bay Minette traffic stop shooting. See the full story detailing past incidents like the Jonathan Victor and Robert Yates deaths.
+    text: Scott Johnson exposed Sheriff Huey Mack's alleged cover-ups after a traffic stop shooting in Bay Minette. What do past incidents like the Jonathan Victor and Robert Yates deaths reveal?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T20:45:22.218120Z"
+    model_name: plugsky-lite
   hatians-eating-cats:
+    refined_source: 683e0c4464c3667ad99b0cc7a3e83a57655e3110349b49adbd9eaac2ea455394
     brief: |-
       THE CONFLICT:
       * Beloved member of Bay Minette Community shot dead one month ago (date relative to Article 1 publication).
@@ -178,50 +241,7 @@ hooks:
       * Renaissance School
       * Alabama Department of Transportation
     llm_text: Scott Johnson disputes the Baldwin County Major Crimes Unit's story on the Bay Minette Community shooting, challenging Sheriff Huey Mack's record. See how this local misconduct ties into recent Renaissance School robbery and other Alabama news.
+    text: Scott Johnson disputes the police story on the Bay Minette shooting and challenges Sheriff Huey Mack's record. How does this local misconduct tie into recent Alabama news?
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T20:45:42.182747Z"
-    model_name: plugsky-lite
-  the-180:
-    brief: |-
-      THE CONFLICT: Beloved member of Bay Minette Community shot after 10am traffic stop one month ago; Bay Minette Justice League formed; Sheriff Huey Mack faces accusations of cover-ups/disinformation regarding law enforcement narratives (Scott Johnson, Lagniappe Newspaper).
-      THE DISCOVERY: Sheriff Mack has one week left in office in Baldwin County, Alabama; the Governor is selecting a replacement.
-      THE PIVOT: Article 2 establishes immediate political volatility and impending leadership change (Sheriff Mack's term ending) directly relevant to the ongoing narrative disputes raised in Article 1.
-      KEY ENTITIES: Bay Minette Community, Sheriff Huey Mack, Scott Johnson, Baldwin County Major Crimes Unit, Governor, Kamala Harris, Alabama.
-    llm_text: Sheriff Huey Mack faces cover-up claims after the Bay Minette Community shooting; read how his one-week term ends amid a leadership shift in Baldwin County.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T20:45:47.303063Z"
-    model_name: plugsky-lite
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT:
-      Death occurred after a 10am traffic stop one month prior to the main article's writing.
-      The Bay Minette Community created the Bay Minette Justice League.
-      Scott Johnson published an article in the Lagniappe Newspaper regarding the Baldwin County Major Crimes Unit narrative, alleging Sheriff Huey Mack's cover-ups.
-      Mentioned past incidents include the death of Jonathan Victor, Robert Yates, Peyton Little, five people in a wrong way pursuit, and the malicious prosecution of Steve Nodine.
-
-      THE DISCOVERY:
-      The French Family, Bay Minette Justice League, and May Jung LLC filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
-      The lawsuit alleges Officer Brandon Thompson lacked probable cause and escalated the situation, resulting in his shooting and death.
-      Sheriff Mack announced his resignation mid-July, with Chief Deputy Anthony Lowery expected to be appointed by Governor Ivey, though County Commissioner Matt McKenzie is also interested.
-
-      THE PIVOT:
-      Article 2 provides specific, dated evidence (July 31, 2024 lawsuit) detailing the circumstances of the death mentioned generally in Article 1, identifying the officer (Brandon Thompson) and the legal action taken against the City of Bay Minette, contradicting prior official narratives.
-
-      KEY ENTITIES:
-      Huey Mack
-      Scott Johnson
-      Bay Minette Justice League
-      OJ French Jr
-      May Jung LLC
-      City of Bay Minette
-      Officer Brandon Thompson
-      Mayor Robert Bob Wills
-      Anthony Lowery
-      Governor Ivey
-      Matt McKenzie
-      Baldwin County Major Crimes Unit
-      Steve Nodine
-    llm_text: The Bay Minette Justice League sued the City of Bay Minette over Officer Brandon Thompson's death, alleging he lacked probable cause during a July 31, 2024 stop. Read how this lawsuit challenges Sheriff Huey Mack's prior narratives about local deaths.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T20:45:55.323132Z"
     model_name: plugsky-lite

@@ -1,0 +1,296 @@
+metadata:
+  generated_at: "2026-11-07T17:18:09.930830Z"
+  generator_version: 1.0.0
+  post_slug: sting
+  main_date: "2020-07-14"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  beavis-and-butthead:
+    refined_source: 7dd9605e073b3cebf08e5dcf4b8f283b652906df758e9afef09a497482022e55
+    brief: |-
+      THE CONFLICT:
+      *   Councilmen Jack Burrell and Kevin Boone exhibited rude, crude, and bullying conduct toward the newly elected mayor following their election with little opposition.
+      *   Burrell was overheard stating he would "drive the mayor out of office in less than a year."
+
+      THE DISCOVERY:
+      *   Jack Burrell misread the election and ran for city council instead of mayor, fearing he could not beat the previous mayor (who supported him in 2020).
+      *   Kevin Boone is supported by Catalyst, a dark political organization representing self-interests, and celebrated the hiring freeze despite negative community effects.
+
+      THE PIVOT:
+      *   Article 2 establishes Burrell and Boone's pattern of political arrogance and self-serving behavior, setting the historical context for the current allegations (Article 1) that Burrell and Robert Brown are engaging in corruption and disregarding public health, leading to the warning of Fairhope being "stung again by the B’s."
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fairhope City Council president)
+      *   Kevin Boone
+      *   Robert Brown (Councilman)
+      *   Jerry Carl (Candidate for First Congressional District)
+      *   Joshua Gammon
+      *   Catalyst (Political organization)
+      *   Fairhope
+      *   July 21 (Municipal election date)
+      *   2020 (Previous mayor support context)
+    llm_text: Councilmen Jack Burrell and Kevin Boone threatened the new mayor, claiming they would "drive him out." Their history of political arrogance, fueled by Catalyst and self-interest, now links them to current corruption risks for Fairhope.
+    text: Councilmen Jack Burrell and Kevin Boone threatened the new mayor with political exile. How did these elected officials turn city hall into a private club?
+    widget_date: "2017-03-31"
+    generated_at: "2026-11-07T17:17:43.513322Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-fairhope:
+    refined_source: fffa01590e554d11abad4e85514fa1da5719a8dcbfc74d785ae7cce592526007
+    brief: |-
+      THE CONFLICT:
+      - The Fairhope City Council, specifically members known as the "Three B's" (Boone, Brown, and Burrell), has been accused of systemic corruption and financial mismanagement.
+      - Specific historical allegations include:
+          - Turning a $1.7 million city surplus into a $1.2 million deficit overnight.
+          - Purchasing farmland for recreation without public participation, then leasing it back to a farmer for $9,000 per year.
+          - Voting themselves a family insurance package valued at approximately $17,500.
+          - Jack Burrell hiding a police report during a previous election.
+          - Historical mention of a 2010 BP fraud involving State Senator Boom Boom Pittman and Mayor Cant totaling $639,000.
+
+      THE DISCOVERY:
+      - Article 2 identified the "Three B's" as Kevin Boone, Robert Brown, and Jack Burrell.
+      - It established a link between the political entity CATALYST (Scott Boone Consulting) and "Howling Rains," an op-ed writer described as a tool for CATALYST to mislead the public.
+      - It characterized the Fairhope City Council as a "criminal enterprise" and the worst in 50 years.
+
+      THE PIVOT:
+      - Article 2 provides the documented history of corruption and "hidden" information (specifically the police report) that validates the current accusations in Article 1.
+      - The current controversy regarding the "Three B's" refusing mask mandates and potentially mishandling COVID-19 is framed not as an isolated health issue, but as a continuation of the pattern of negligence and self-interest established by the council's history of financial and ethical misconduct.
+
+      KEY ENTITIES:
+      - Jack Burrell (Fairhope City Council President)
+      - Robert Brown (Councilman)
+      - Kevin Boone (CATALYST/Council member)
+      - Jerry Carl (Congressional candidate)
+      - CATALYST / Scott Boone Consulting
+      - "Howling Rains" (Op-ed writer/CATALYST operative)
+      - Joshua Gammon (Challenger to Kevin Boone)
+      - Fairhope City Council
+      - Baldwin County
+    llm_text: The "Three B's" mask their COVID-19 defiance as a fight for liberty, but Jack Burrell, Robert Brown, and Kevin Boone have a much darker track record. From draining city funds to hiding police reports and voting themselves insurance packages, their history proves this council operates like a criminal enterprise.
+    text: Jack Burrell, Robert Brown, and Kevin Boone voted themselves luxury insurance packages while draining city funds. How did this trio turn public service into personal profit?
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T17:13:37.985805Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  wear-a-mask:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope municipal election: 7 days left, deadline July 21; two seats yet to be challenged: Jack Burrell and Robert Brown.
+      - Jerry Carl for the First Congressional District; Mr. Carl's opposition is CATALYST; CATALYST home base is Fairhope.
+      - Kevin Boone, "grandfather CATALYST," is being challenged by Joshua Gammon.
+      - Councilman Robert Brown has been vocal about not wearing a mask; he and Captain Jack both wanted to "take a chance with Arts and Crafts."
+      - Fairhope City Council president Jack Burrell acknowledged that he and two other members of his household tested positive for COVID-19, leading him to quarantine for two weeks.
+      - Council at large expressed no interest in passing a mask mandate at the council work session prior to the meeting.
+      - Mr. Brown has gone out of his way to discredit the seriousness of COVID-19; the Jester has been critical of anyone wearing a mask; rumored he too has been exposed to COVID-19.
+      - A vote for Councilman Brown is a vote for corruption; Mr. Brown used his office for personal gain and asked voters for their vote to continue enriching himself.
+      - If no candidates challenge Brown or Burrell, Fairhope will be "stung again by the B's."
+
+      THE DISCOVERY:
+      - Article 2 ("WEAR A MASK," letter to the editor by Jani Handwerger, Mobile) reveals the writer was mad, worried, and scared over non-mask wearers and party congregating.
+      - Numbers are spiking; the demographic testing positive now is the mask-refusing demographic.
+      - Mask refusers are transmitting COVID-19 to their families; parents at high risk; children who get COVID-19 often show no symptoms but get much sicker.
+      - Older generation worked and saved so younger generation could have childhood memories and enjoy lives; younger generation is "stealing" the older generation's Golden Years.
+      - Writer begs: stop the partying, stop the congregating, start wearing masks in public; "Don't let the world blame you for spreading this insidious disease!"
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and serves as background/historical context.
+      - Article 2 frames mask refusal and party/congregate behavior as selfish, dangerous, and endangering to the writer and at-risk populations.
+      - Article 1 (Main) documents Fairhope City Council president Jack Burrell and Councilman Robert Brown — both non-mask wearers — later testing positive for COVID-19.
+      - Article 2 is the "smoking gun"/key context for Article 1 because it established the medical and moral stakes of mask refusal that Article 1's subjects (the "B's") ignored; the Burrell/Brown COVID-19 diagnoses are presented as the consequence of that refusal.
+
+      KEY ENTITIES:
+      - Jerry Carl (CATALYST candidate, "Lowtower," First Congressional District)
+      - CATALYST (opposition; home base Fairhope)
+      - Fairhope (city; municipal election; CATALYST home base)
+      - Baldwin County
+      - Jack Burrell (Fairhope City Council president; COVID-19 positive; quarantined two weeks)
+      - Robert Brown (Councilman; "the Jester"; mask refusal; rumored COVID exposure; corruption allegations)
+      - Kevin Boone ("grandfather CATALYST"; challenged by Joshua Gammon)
+      - Joshua Gammon (challenger to Kevin Boone)
+      - Jani Handwerger (author of Article 2, Mobile)
+      - COVID-19
+      - Fairhope municipal election (deadline July 21; 7 days left)
+      - Fairhope City Council
+      - First Congressional District
+      - Captain Jack
+      - Arts and Crafts
+      - The "three B's" / B-STING ("Beware of the B-STING")
+    llm_text: Fairhope Council President Jack Burrell and Councilman Robert Brown refused masks, then both got COVID-19. With seven days left until the July 21 election deadline, voters should decide whether corruption and reckless party-going are worth risking their families.
+    text: Fairhope Council President Jack Burrell and Councilman Robert Brown refused masks, then both got COVID-19. With seven days left until the July 21 election deadline, voters should decide whether corruption and reckless party-going are worth risking their families.
+    widget_date: "2020-07-08"
+    generated_at: "2026-11-07T17:13:25.800606Z"
+    model_name: recursive/flint-v1.0:free
+  quid-quo-pro:
+    refined_source: 853ac0875baab6dfacb139dd60c6b96716b19825e678a7d80add16672f71faf6
+    brief: |-
+      THE CONFLICT: Fairhope City Council, including Jack Burrell, Kevin Boone, and Robert Brown, voted 3 to 2 to purchase $2.6 million in recreation property, based on questionable appraisals, leading to accusations of "Quid quo pro" and corruption, including Robert Brown's handling of the Eastern Shore Art Center (ESAC) contract.
+      THE DISCOVERY: The older article (Widget) established a historical pattern of council corruption, specifically naming the $2.6 million property purchase and the ESAC contract dispute involving Robert Brown and Cliff Pittman.
+      THE PIVOT: The older article establishes the pattern of self-enrichment and unethical behavior by the council members (Burrell and Brown) that the newer article (Main) leverages during the July 21 municipal election campaign, framing their current actions (ignoring public health, using office for personal gain) as part of a systemic "B-STING" and corruption.
+      KEY ENTITIES: Karin Wilson (Mayor), Jack Burrell (Council President), Robert Brown (Councilman), Kevin Boone (Councilman), Cliff Pittman, CATALYST, Joshua Gammon, July 21 (Election Date), $2.6 million (Property Purchase).
+    llm_text: Fairhope City Council members, including Jack Burrell and Robert Brown, risked $2.6 million on a property purchase amid "Quid quo pro" corruption accusations. See how this vote connects to a pattern of council self-enrichment fueling the July 21 election.
+    text: Fairhope council members risked millions of taxpayer dollars on a contested property purchase. Did officials trade public funds for private favors ahead of the July election?
+    widget_date: "2019-10-03"
+    generated_at: "2026-11-07T17:13:38.734711Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pissed-on-or-pissed-off:
+    refined_source: 511b227a2026f6d794f8444676f786a9d51939d29f4978726427c3ab4eca272a
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council has a history of corruption, cited as dating back to 2016.
+      *   Council President Jack Burrell used taxpayer money to derail allegations of bid-rigging while serving on the Airport Board; no report was supplied.
+      *   Jack Burrell has a police record with two sealed juvenile charges.
+      *   Councilman Robert Brown acquired lucrative contracts using his elected position and has a pending complaint with the Alabama Attorney General.
+
+      THE DISCOVERY:
+      *   The council (led by Burrell) has mismanaged funds, spending $2.65 million on recreation land that was subsequently leased for $9,000 annually.
+      *   The family connection of Kevin Boone and Scott Boone (CATALYST) is noted as fueling political control in Fairhope and Baldwin County.
+
+      THE PIVOT:
+      *   Article 1 calls for voters to challenge Burrell and Brown due to recent COVID-19 incidents (Burrell positive, Brown anti-mask stance), framing this behavior as "corruption."
+      *   Article 2 provides the historical evidence that Burrell and Brown's current issues are not isolated incidents, but symptoms of chronic, documented, financial and legal corruption predating the recent health crisis.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fairhope City Council President)
+      *   Robert Brown (Fairhope City Councilman)
+      *   Kevin Boone
+      *   Scott Boone (CATALYST)
+      *   Jerry Carl (Candidate for First Congressional District)
+      *   Fairhope
+      *   Alabama Attorney General
+    llm_text: Fairhope Council President Jack Burrell misused $2.65 million, and Councilman Robert Brown faces an Alabama Attorney General complaint over lucrative contracts. Don't let recent incidents distract you; deep corruption involving Burrell and Brown predates the pandemic.
+    text: Fairhope Council President Jack Burrell misused millions while Councilman Robert Brown faced state complaints over lucrative city contracts. Why do voters ignore clear evidence of financial misconduct?
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T17:15:46.768423Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  down-home-fairhope-jester:
+    refined_source: 71e685edbbeefca6b6e045c60b93f1067da4b8c9a3873595a9d4a48ef5683b50
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council was involved in a Federal Court case for violating the right of free speech.
+      *   Ethics Complaint against Councilman Brown concerning the Eastern Shore Art Center (EASC) was filed and in limbo since May 2, 2018.
+      *   Burrell, Boone, and Brown were involved in attempting to purchase 2.6 million in property without public hearing or notice, which was rejected by the Council.
+      *   Councilman Brown received the soccer field clubhouse/bathroom contract over $750,000.
+      *   Burrell has served as Fairhope City Council President for over 7 years.
+
+      THE DISCOVERY:
+      *   The "Catalyst" Council (led by Burrell) is accused of benefiting from an insurance package for a part-time job, exempting them from rules applied to other part-time employees.
+      *   The Council approved a $2.6 million property purchase proposal that lacked public support, despite National Park recommendations.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of alleged corruption, misuse of office for personal gain (contracts, property deals), and ethical violations by Burrell, Boone, and Brown, providing historical context for current political challenges (Article 1).
+      *   Article 1 uses current events (COVID-19, election) to re-frame and reinforce the historical accusations of corruption against Councilman Brown and Jack Burrell.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Robert Brown
+      *   Jack-Burrell
+      *   Kevin Boone
+      *   Councilman Conyers
+      *   Councilman Robinson
+      *   Eastern Shore Art Center (EASC)
+      *   Fairhope City Council
+      *   Joshua Gammon
+      *   Jerry Carl
+      *   CATALYST
+      *   Baldwin County
+    llm_text: Fairhope City Council faced a federal free speech lawsuit while Councilman Robert Brown languished under an ethics complaint since 2018. Jack Burrell, who led the "Catalyst" Council, pushed a rejected $2.6 million property purchase and awarded Brown a $750k contract.
+    text: Fairhope faced a federal free speech lawsuit while Councilman Robert Brown sat under an ethics complaint for years. Why did Jack Burrell award Brown a massive contract after a failed property vote?
+    widget_date: "2019-09-13"
+    generated_at: "2026-11-07T17:16:30.316760Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  chuckee-cheeze:
+    brief: |-
+      THE CONFLICT:
+      - Jerry Carl’s opposition is CATALYST; CATALYST home base is Fairhope.
+      - JERRY CARL for the First Congressional District.
+      - Fairhope three B’s rooting for the CATALYST candidate “Lowtower”; “Don’t get stung” Baldwin County.
+      - Fairhope municipal election qualifications has 7 days left, July 21.
+      - Two very important seats yet to be challenged: Jack Burrell and Robert Brown.
+      - People considering running against them have not committed as yet.
+      - Kevin Boone, grandfather CATALYST, is being challenged by Joshua Gammon.
+      - Fairhope City Council president Jack Burrell acknowledged tonight that he and two other members of his household tested positive for COVID-19, leading him to quarantine for the past two weeks.
+      - Council at large expressed no interest in passing a mask mandate at the prior council work session.
+      - Mr. Brown has been very vocal about not wearing a mask and he and Captain Jack both wanted to “take a chance with Arts and Crafts”.
+      - Mr. Brown has gone out of his way to discredit the seriousness of Covid; The Jester has been critical of anyone wearing a mask; it is rumored he to has been exposed to Covid.
+      - A vote for Councilman Brown is a vote for corruption; Mr. Brown has used his office for personal gain and is asking voters for their vote so he can continue using his office to personally enrich himself.
+      - If NO candidates challenge Brown or Burrell, Fairhope will be stung again by the B’s.
+
+      THE DISCOVERY:
+      - Article 2, CHUCKEE CHEEZE, claimed: “what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting.”
+      - Article 2 claimed the one side is Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.
+      - Article 2 claimed Mr. McCollum, aka Chuckee Cheeze, has single highhandedly taken a historic newspaper, The Fairhope Courier, founded in Fairhope in 1894, and turned it into a political print media source for Catalyst and special interest.
+      - Article 2 claimed The Courier even received an award for a totally bogus story that ended up costing the city thousands of dollars.
+      - Article 2 claimed McCollum won Best In-Depth News Coverage for his series of stories on the alleged assault on Fairhope’s former HR director by Fairhope Mayor Karin Wilson; McCollum previously won the category in 2016; McCollum said he was truly humbled.
+      - Virginia Press Association served as judges for this year’s competition.
+      - Article 2 stated: “THAT IS ALL FAKE NEWS”
+      - Article 2 claimed Chuckee only covered one side of the lawsuits filed by former employees of Fairhope; he also did not cover the fact that the Catalyst Fairhope City Council assisted the former employees in suing the City for the sole purpose of humiliating the Mayor.
+      - Article 2 claimed Chuckee is on call for Catalyst.
+      - Article 2 claimed Chuckee is going to find himself in the same position as the Fairhope Catalyst Council.
+      - Article 2 claimed Chuckee has had many hit pieces on Fairhope, Fairhope Mayor and the Fairhope Government; they have been inaccurate and motivated by political opponents whose only intention is to regain power in Fairhope; the below article is nothing different, one sided hypocritical BULLS---.
+      - Article 2 claimed Councilman Brown is a spokesman for NO? He sure as hell did not say no when he used his elected office and appointed board position to secure, for his construction company, a several hundred thousand dollars contract from the Fairhope Art Center.
+      - Article 2 claimed this Ethics Complaint is not closed and new and material evidence will be forwarded next week to the Ethics Commission and other authorities; Mr. Brown should be held accountable, but as his tag says: Hometown Brown, that means HIS hometown.
+      - Article 2 claimed the Fairhope Catalyst Council has yet to balance the City budget and Mr. Brown wants us to believe it is he who is a genus accountant, he is delusional.
+      - Article 2 claimed Three Bee’s have been stinging Fairhope long enough: It’s YOUR tax dollars.
+      - Article 2 included: ## A NO VOTE SUPPORTS SPECIAL INTEREST CATALYST AND THE GOOD OLE BOYS
+      - Article 2 called readers to contact the owners of the Courier and tell them how their paper is being used by political hacks and the constant negative attention our municipality is receiving is wholly unfair and not at all journalism; cancel subscription and leave paper on stand; may wish to advise them of possibility of lawsuit.
+      - Article 2 included: ## VOTE YES VOTE YES VOTE YES VOTE YES
+      - Article 2 included GCN Owners: graham@theitem.com, kyle@theitem.com, jack@theitem.com.
+      - Article 2 included Vince Johnson, Editor and Publisher: vince@theitem.com, 803-774-1201, 36 West Liberty St. Sumter, S.C. 29150.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 is the smoking gun/key context for Article 1 because it alleged/claimed Chuckee Cheeze/Mr. McCollum was aligned with Catalyst, biased, one-sided, fake news, and on call for Catalyst.
+      - Article 2’s claims about the award, bogus story, lawsuits, Ethics Complaint, and several hundred thousand dollar contract provide background for Article 1’s conflict.
+      - Article 1’s “Beware of the B-Sting” and attacks on Brown/Burrell/CATALYST can be tied to Article 2’s framing of Catalyst/Courier/good ole boys/special interest.
+
+      THE KEY ENTITIES:
+      - Jerry Carl
+      - CATALYST
+      - Fairhope
+      - Jack Burrell
+      - Robert Brown
+      - Kevin Boone
+      - Joshua Gammon
+      - Fairhope Courier
+      - Chuckee Cheeze
+      - Mr. McCollum
+      - Karin Wilson
+      - Fairhope Mayor
+      - Virginia Press Association
+      - Ethics Commission
+      - Vince Johnson
+      - GCN Owners
+      - Captain Jack
+      - The Jester
+      - Arts and Crafts
+      - Fairhope Art Center
+      - City Council
+      - Fairhope City Council
+      - First Congressional District
+      - Baldwin County
+      - Fairhope municipal election
+      - July 21
+      - 1894
+      - 2016
+      - COVID-19
+      - mask mandate
+      - several hundred thousand dollars
+      - thousands of dollars
+    llm_text: Jerry Carl’s CATALYST war in Fairhope just got dirtier. Fairhope’s Lowtower and the good ole boys are fighting over Jack Burrell, Robert Brown and a mask mandate while Chuckee Cheeze’s fake-news claims tie it all to Catalyst.
+    text: Jerry Carl’s CATALYST war in Fairhope just got dirtier. Fairhope’s Lowtower and the good ole boys are fighting over Jack Burrell, Robert Brown and a mask mandate while Chuckee Cheeze’s fake-news claims tie it all to Catalyst.
+    widget_date: "2018-10-30"
+    generated_at: "2026-11-07T17:15:00.863081Z"
+    model_name: recursive/flint-v1.0:free
+  back-stabber:
+    refined_source: f2565aefb289d737976935b40bfe831a78f0fbb641cf9798cc7d334ca8098e05
+    brief: |-
+      THE CONFLICT: Jack Burrell, as Council President, planned a Special Called City Council meeting on September 4, 2018, to authorize a Real Estate Purchase Agreement for properties owned by the Baldwin County Board of Education (BCBE), including the K-1 Center. This action followed a previous "triangle lawsuit" settlement.
+
+      THE DISCOVERY: The August 31, 2018, email showed Burrell moving forward with a major real estate transaction without public input, scheduled just before a three-day Labor Day vacation.
+
+      THE PIVOT: The historical pattern of non-transparent, self-serving decision-making (real estate deals, lack of public hearings) established in 2018 is used in the current election (July 21) to discredit Council President Jack Burrell and Councilman Robert Brown, framing their current actions (e.g., COVID mask stance, alleged corruption) as part of a persistent "B-STING" corruption.
+
+      KEY ENTITIES: Jack Burrell, Robert Brown, Jerry Carl, CATALYST, Karin Wilson (Mayor), Baldwin County Board of Education (BCBE), Fairhope, September 4, 2018.
+    llm_text: Jack Burrell pushed a K-1 Center real estate purchase on September 4, 2018, without public input. This pattern of non-transparent deals fuels the "B-STING" corruption narrative against Burrell and Robert Brown in the current July 21 election.
+    text: Jack Burrell pushed a real estate purchase for the K-1 Center on September 4, 2018, without public input. Does this secret deal explain the B-STING corruption allegations against Burrell and Robert Brown?
+    widget_date: "2018-09-04"
+    generated_at: "2026-11-07T17:14:37.003333Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

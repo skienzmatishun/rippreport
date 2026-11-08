@@ -5,13 +5,84 @@ metadata:
   main_date: "2022-12-18"
   model_name: plugsky-lite
 hooks:
+  last-chance:
+    refined_source: faa2f4064f29d2bfce3512e6371bed5ceda02878ff1bddbd0791aaaf3038753c
+    brief: |-
+      THE CONFLICT:
+      1. Baldwin County has a history of "good ole boy mentality" and corruption in its Judiciary and 14 municipal governments.
+      2. Catalyst/Scott Boone Consulting has been involved in inside contracts, fixed bids, fraud lawsuits, and fixed elections for years.
+
+      THE DISCOVERY:
+      1. Article 2 reveals Catalyst/Scott Boone Consulting is the front man for "good ole boy Christians" who ignore conflicts of interest.
+      2. Article 2 identifies Johnathan Armstrong as a candidate potentially aligned with Catalyst, who already receives two checks from the county plus benefits.
+      3. Article 2 notes Jeb Ball could form an alliance with Johnathan Armstrong to block citizen interests.
+
+      THE PIVOT:
+      1. Article 2 establishes the long-standing pattern of entrenched corruption (Catalyst's influence, ignored Ethics Commission complaints) that enables the specific, current corruption detailed in Article 1 (Mayor Wills leasing office space to the delegation).
+      2. Article 2 links Jeb Ball to a potential corrupt alliance (with Johnathan Armstrong) which frames his support for the lease in Article 1 as part of a systemic pattern, not just a local agreement.
+
+      KEY ENTITIES:
+      1. Catalyst
+      2. Scott Boone Consulting
+      3. Jeb Ball
+      4. Johnathan Armstrong
+      5. Chris Elliott
+      6. Mayor Bob Wills
+      7. Baldwin County Legislative Delegation
+      8. Billie Jo Underwood
+      9. James Ball
+      10. Matt McKenzie
+      11. Steve Carey
+      12. Tucker Dorsey
+      13. Joe Faust
+    llm_text: Catalyst/Scott Boone Consulting fuels Baldwin County's "good ole boy" corruption, linking Johnathan Armstrong to county checks. See how Jeb Ball might block citizen interests through this entrenched system.
+    text: Scott Boone Consulting and the Catalyst group drive Baldwin County corruption while linking Johnathan Armstrong to county checks. Jeb Ball now threatens to block citizen interests through this entrenched system.
+    widget_date: "2022-05-23"
+    generated_at: "2026-11-06T20:21:10.689013Z"
+    model_name: plugsky-lite
+  shooting-yourself-in-the-foot:
+    refined_source: 19a47cf861744f6395545a50f1239f9df54fd476c68af73fa584495ee56edfab
+    brief: |-
+      THE CONFLICT:
+      2007: Jeb Ball started Baldwin Substance Abuse Services Inc. (BSAS).
+      2012: Chris Elliott played a major role in electing Mayor Wills.
+      Past: Stacy, Elliott, and Haygood were a political consultant group that later became Catalyst, then Scott Boone Consulting.
+
+      THE DISCOVERY:
+      Article 2 reveals Catalyst is a shadow political group controlling Baldwin County politics.
+      Article 2 shows Jeb Ball and Johnathan Armstrong have a conflict of interest through BSAS, which was founded by judges in 2007, and Ball receives a double paycheck.
+
+      THE PIVOT:
+      Article 2 establishes the historical link (Catalyst/Elliott/Stacy) that ties into the current political machine (Elliott/Wills) described in Article 1, showing the pattern of "good ole boys" controlling Baldwin County.
+
+      KEY ENTITIES:
+      Jeb Ball
+      Chris Elliott
+      Mayor Bob Wills
+      Catalyst
+      Steve Carney
+      Tucker Dorsey
+      Jonathan Armstrong
+      Baldwin County Legislative Delegation
+      Baldwin Substance Abuse Services Inc. (BSAS)
+      Judge Michell Thomason
+      Commissioner James Ball
+      Baldwin County Commission
+      Bay Minette
+    llm_text: Jeb Ball and Chris Elliott link back to the shadowy Catalyst group controlling Baldwin County politics. See how BSAS conflicts of interest reveal the "good ole boys" running Mayor Wills' machine.
+    text: Jeb Ball and Chris Elliott tie back to the Catalyst group that controls Baldwin County politics. Conflicts of interest at BSAS expose the machine that runs Mayor Wills and local campaigns.
+    widget_date: "2022-05-17"
+    generated_at: "2026-11-06T20:21:17.008166Z"
+    model_name: plugsky-lite
   bayminette:
+    refined_source: 0c08fa030b11fcf335e1c69d9c0f81f474b2fc19a9dbd75f9694d1b77ed898e9
     brief: |-
       THE CONFLICT: Baldwin County Legislative Delegation lease agreement presented to Baldwin County Commission (Date context: prior to Nov. 16, 2022/2023).
       THE DISCOVERY: November 16, 2022, Baldwin County Commission voted to lease D'Olive Street building to delegation for $49,080/year for five years.
       THE PIVOT: Article 2 establishes the initial agreement details (Nov 16, 2022) and the initial cost split proposal, providing the baseline context that Article 1 later details as a corruption escalation ($245,000 total, Mayor Wills' ownership).
       KEY ENTITIES: Mayor Bob Wills, Baldwin County Legislative Delegation, Senator Chris Elliott, Commissioner Billie Jo Underwood, Commissioner James Ball, Jeb Ball, Cliff McCollum, Baldwin County Commission
     llm_text: Mayor Bob Wills’ delegation lease of the D'Olive Street building for $49,080/year raises serious questions. See how this 2022 deal escalated into a potential $245,000 corruption issue.
+    text: Mayor Bob Wills leased the D'Olive Street building for $49,080 per year. This 2022 real estate deal turned into a potential $245,000 corruption issue for the city.
     widget_date: "2022-12-10"
     generated_at: "2026-11-06T20:20:56.800904Z"
     model_name: plugsky-lite
@@ -77,10 +148,12 @@ hooks:
       - Lowery
       - Wilters
     llm_text: Mayor Bob Wills leased office space to the Baldwin County Legislative Delegation, and Senator Chris Elliott backed him. The Fairhope lawsuit and Triangle costs show a pattern of changing rules, good ole boy deals, and taxpayer money going up in smoke.
+    text: Mayor Bob Wills leased office space to the Baldwin County Legislative Delegation, and Senator Chris Elliott backed him. The Fairhope lawsuit and Triangle costs show a pattern of changing rules, good ole boy deals, and taxpayer money going up in smoke.
     widget_date: "2022-11-04"
     generated_at: "2026-11-06T20:22:10.627304Z"
     model_name: recursive/flint-v1.0:free
   get-out-of-jail-card:
+    refined_source: b792bab6b73f27b39d24f4e974b4c4e1c572b2549f25e69cfb4a345959432611
     brief: |-
       THE CONFLICT:
       *   2017 incident involving McSharry (probation for breach of peace).
@@ -117,10 +190,12 @@ hooks:
       *   Sheriff Hoss Mack
       *   Judge William Cassady
     llm_text: Senator Trip Pittman misused $750k, and Chris Elliott avoided DUI consequences because Baldwin County maintains a systemic "Get Out of Jail Card." Sheriff Hoss Mack's department uses sealed documents and Qualified Immunity, proving local officials operate without accountability.
+    text: Senator Trip Pittman misused $750,000, and Chris Elliott avoided DUI consequences in Baldwin County. Sheriff Hoss Mack uses sealed documents and qualified immunity to shield local officials from accountability.
     widget_date: "2022-08-16"
     generated_at: "2026-11-06T20:21:47.806321Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   schools-and-taxes:
+    refined_source: eeb32c74b599f328f3ffb5c85410746f342927a18d3d19abc80cd14d7ae96910
     brief: |-
       THE CONFLICT:
       *   In 2012, Chris Elliott played a major role in electing Mayor Bob Wills.
@@ -151,81 +226,19 @@ hooks:
       *   Catalyst / Scott Boone Consulting
       *   D. Peterson / Jeanne Carney
     llm_text: Chris Elliott advocates for taxes, yet Mayor Bob Wills, who helped Elliott win in 2012, faces ethics complaints while collecting $245k from the delegation. Baldwin County already funds education through BCBOE revenue, negating "The Tax Man's" rhetoric.
+    text: Chris Elliott pushes for new taxes while Mayor Bob Wills collects $245,000 from the delegation. Baldwin County already funds local education through existing revenue, which exposes the claims made by the tax man.
     widget_date: "2022-08-15"
     generated_at: "2026-11-06T20:23:10.207943Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   win-for-baldwin:
+    refined_source: b58a9525bdf8fdb3950d95dbde470ba0186fa58f5287f7433c9f843038985f07
     brief: |-
       THE CONFLICT: Jerry Carl beat CATALYST's Lowtower in the Republican House Race (Date not specified, prior to Widget Article publication).
       THE DISCOVERY: Matt McKenzie was elected to Baldwin County Commission District 2, supported by BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA).
       THE PIVOT: Widget Article shows a rejection of the CATALYST political consulting group, which was involved in electing Mayor Wills (as stated in Main Article, 2012), providing context to the current corruption allegations involving Mayor Wills and Senator Elliott.
       KEY ENTITIES: Matt McKenzie, Catalyst, Jerry Carl, Lowtower, Scott Boone Consulting, Mayor Wills, Chris Elliott, Jeb Ball, Billie Jo Underwood, James Ball, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
     llm_text: Jerry Carl beat CATALYST's Lowtower in the Republican House Race, but Matt McKenzie won Baldwin County Commission District 2 with CGA support. See how rejecting Catalyst now sheds light on Mayor Wills's corruption allegations with Senator Elliott.
+    text: Jerry Carl beat the Catalyst candidate in the Republican House race while Matt McKenzie won District 2 with CGA support. Rejecting Catalyst exposes the ongoing corruption allegations between Mayor Wills and Senator Elliott.
     widget_date: "2022-06-22"
     generated_at: "2026-11-06T20:21:02.700283Z"
-    model_name: plugsky-lite
-  last-chance:
-    brief: |-
-      THE CONFLICT:
-      1. Baldwin County has a history of "good ole boy mentality" and corruption in its Judiciary and 14 municipal governments.
-      2. Catalyst/Scott Boone Consulting has been involved in inside contracts, fixed bids, fraud lawsuits, and fixed elections for years.
-
-      THE DISCOVERY:
-      1. Article 2 reveals Catalyst/Scott Boone Consulting is the front man for "good ole boy Christians" who ignore conflicts of interest.
-      2. Article 2 identifies Johnathan Armstrong as a candidate potentially aligned with Catalyst, who already receives two checks from the county plus benefits.
-      3. Article 2 notes Jeb Ball could form an alliance with Johnathan Armstrong to block citizen interests.
-
-      THE PIVOT:
-      1. Article 2 establishes the long-standing pattern of entrenched corruption (Catalyst's influence, ignored Ethics Commission complaints) that enables the specific, current corruption detailed in Article 1 (Mayor Wills leasing office space to the delegation).
-      2. Article 2 links Jeb Ball to a potential corrupt alliance (with Johnathan Armstrong) which frames his support for the lease in Article 1 as part of a systemic pattern, not just a local agreement.
-
-      KEY ENTITIES:
-      1. Catalyst
-      2. Scott Boone Consulting
-      3. Jeb Ball
-      4. Johnathan Armstrong
-      5. Chris Elliott
-      6. Mayor Bob Wills
-      7. Baldwin County Legislative Delegation
-      8. Billie Jo Underwood
-      9. James Ball
-      10. Matt McKenzie
-      11. Steve Carey
-      12. Tucker Dorsey
-      13. Joe Faust
-    llm_text: Catalyst/Scott Boone Consulting fuels Baldwin County's "good ole boy" corruption, linking Johnathan Armstrong to county checks. See how Jeb Ball might block citizen interests through this entrenched system.
-    widget_date: "2022-05-23"
-    generated_at: "2026-11-06T20:21:10.689013Z"
-    model_name: plugsky-lite
-  shooting-yourself-in-the-foot:
-    brief: |-
-      THE CONFLICT:
-      2007: Jeb Ball started Baldwin Substance Abuse Services Inc. (BSAS).
-      2012: Chris Elliott played a major role in electing Mayor Wills.
-      Past: Stacy, Elliott, and Haygood were a political consultant group that later became Catalyst, then Scott Boone Consulting.
-
-      THE DISCOVERY:
-      Article 2 reveals Catalyst is a shadow political group controlling Baldwin County politics.
-      Article 2 shows Jeb Ball and Johnathan Armstrong have a conflict of interest through BSAS, which was founded by judges in 2007, and Ball receives a double paycheck.
-
-      THE PIVOT:
-      Article 2 establishes the historical link (Catalyst/Elliott/Stacy) that ties into the current political machine (Elliott/Wills) described in Article 1, showing the pattern of "good ole boys" controlling Baldwin County.
-
-      KEY ENTITIES:
-      Jeb Ball
-      Chris Elliott
-      Mayor Bob Wills
-      Catalyst
-      Steve Carney
-      Tucker Dorsey
-      Jonathan Armstrong
-      Baldwin County Legislative Delegation
-      Baldwin Substance Abuse Services Inc. (BSAS)
-      Judge Michell Thomason
-      Commissioner James Ball
-      Baldwin County Commission
-      Bay Minette
-    llm_text: Jeb Ball and Chris Elliott link back to the shadowy Catalyst group controlling Baldwin County politics. See how BSAS conflicts of interest reveal the "good ole boys" running Mayor Wills' machine.
-    widget_date: "2022-05-17"
-    generated_at: "2026-11-06T20:21:17.008166Z"
     model_name: plugsky-lite

@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   the-crime-of-the-century:
+    refined_source: 15dafe1ea1b16f925cbfb17ba2fb6a13cf2e690d90d24a1a7fe9f5142ae71585
     brief: |-
       THE CONFLICT:
       State of Alabama approved the medical cannabis bill (Compassion Act) on May 17, 2021.
@@ -30,10 +31,12 @@ hooks:
       Clarke County (Location of corruption story)
       Alabama Cannabis Industry Association
     llm_text: Alabama approved the Compassion Act in 2021, yet patient relief stalls because of political dysfunction. Corruption in Clarke County and Governor Kay Ivey's actions reveal why the Board has not issued the first patient certification license as of 2025.
+    text: Alabama approved the Compassion Act in 2021, but patient relief stalled due to political interference. Corruption in Clarke County and Governor Kay Ivey's administration delayed the licensing process through 2025.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T15:04:14.406518Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mia:
+    refined_source: e2ec34df3e8fc8b16966498b6c3975ddeb5d0d80f60a853c2f04fa2f65fcab36
     brief: |-
       THE CONFLICT: Alabama approved the Compassion Act for medical cannabis on May 17, 2021. As of February 2025, the implementation is stalled, with the Alabama Board of Medical Examiners unable to issue the first patient license due to legislative compromises in the original 2021 bill.
 
@@ -43,6 +46,7 @@ hooks:
 
       KEY ENTITIES: Alabama, Compassion Act, Senator Tim Melson (R-Florence), Chey Garrigan (President, Alabama Cannabis Industry Association), Tommy Tuberville, Katie Britt, F. Paul Ripp, Baldwin County
     llm_text: Alabama's 2021 Compassion Act remains stalled, frustrating Chey Garrigan and the industry. Despite F. Paul Ripp's shoulder surgery, The Ripp Report tracked Baldwin County and Senator Tim Melson's continuous push for this critical legislation.
+    text: Alabama's 2021 Compassion Act remains stalled, leaving Chey Garrigan and patients waiting. The Ripp Report tracked Baldwin County and Senator Tim Melson as they pushed for this medical cannabis legislation.
     widget_date: "2025-01-16"
     generated_at: "2026-11-06T15:05:33.937092Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

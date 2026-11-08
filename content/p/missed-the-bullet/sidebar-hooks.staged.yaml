@@ -1,0 +1,157 @@
+metadata:
+  generated_at: "2026-11-07T14:47:21.139204Z"
+  generator_version: 1.0.0
+  post_slug: missed-the-bullet
+  main_date: "2020-10-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  absolute-power:
+    refined_source: 1a5e6a0344a1bdcff500c7043d0aed46ba29457304f5d773d1bbb2e70554869a
+    brief: |-
+      THE CONFLICT: Sherry Sullivan was elected Mayor of Fairhope, inheriting a council controlled by "the three B’s" and Jack Burrell (Council President), during the Wilson Administration (4 years).
+      THE DISCOVERY: Article 2 revealed that Fairhope had total control by special interests, low voter turnout (17% of registered voters), and unaddressed local issues, including the McSherry case.
+      THE PIVOT: Article 2 establishes the historical entrenched corruption and power structure in Baldwin County/Fairhope, providing the context for the current political decisions in Article 1, such as Robin LeJeune's election in Daphne to slow development, and the failure of Baldwin County to mitigate the impact of Hurricane Delta ("missed the Delta bullet").
+      KEY ENTITIES: Sherry Sullivan, Jack Burrell, Catalyst/Scott Boone Consulting, Robin LeJeune, Daphne, Fairhope, Baldwin County, Hurricane Delta, Wilson Administration.
+    llm_text: Sherry Sullivan took over Fairhope, but Jack Burrell and "the three B's" control the city through entrenched special interests. Understand how low voter turnout and this corruption impacted Hurricane Delta mitigation and current issues like Robin LeJeune's efforts in Daphne.
+    text: Jack Burrell and city leaders control Fairhope through entrenched special interests. Low voter turnout allowed political elites to ignore local infrastructure.
+    widget_date: "2020-08-28"
+    generated_at: "2026-11-07T14:45:07.173229Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-missing-in-action:
+    refined_source: 3105aab1fdd9825b6ac24f392b215e6d24e36d2fcbfe03faf9f299a43a7465a9
+    brief: |-
+      THE CONFLICT: Sherry Sullivan displayed poor judgment during the COVID-19 pandemic, notably promoting the Arts and Crafts Show against Thomas doctor advice and attending unmasked football games with unmasked attendees; Mayor Wilson opposed the Arts and Crafts Show cancellation prioritizing citizen safety.
+      THE DISCOVERY: Article 2 revealed a consistent pattern of public health disregard by Sherry Sullivan compared to the common sense decisions made by Mayor Wilson during the pandemic.
+      THE PIVOT: Article 2 establishes the negative political context (poor judgment/health risks) associated with candidates like the Catalyst/Scott Boone Consulting candidate, which provided the necessary background for Daphne voters to choose Robin LeJeune, prioritizing infrastructure over the "unbridled growth" favored by Catalyst in Article 1.
+      KEY ENTITIES: Robin LeJeune, Daphne, Catalyst, Scott Boone Consulting, Sherry Sullivan, Mayor Wilson, Fairhope, Baldwin County, Delta, Hurricane Delta, Lake Charles, Common Sense Campaign.
+    llm_text: Sherry Sullivan ignored doctor advice promoting the Arts and Crafts Show and attending unmasked games. Mayor Wilson prioritized safety, shaping how Daphne voters chose Robin LeJeune over Catalyst.
+    text: Sherry Sullivan ignored doctor warnings and attended unmasked games. Mayor Karin Wilson prioritized public safety during the health crisis.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T14:46:16.474456Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-bullies:
+    refined_source: e525fe68a784bee2974478bf1632f82407605a29f2e579dfb2b586dbb05c50db
+    brief: |-
+      THE CONFLICT:
+      *   Over the last four years, Mayor Karin Wilson stood up to special interest "bullies" in Fairhope/Baldwin County.
+      *   These bullies were represented by Councilmen Burrell Boone and Brown, affiliated with CATALYST/Scott Boone Consulting (CSB).
+      *   CSB was financed by special interests including Baldwin County Sewer, local politicians, and greedy developers.
+      *   CSB maintained a "corruption rubber stamp" for 16 years until Mayor Wilson challenged it.
+      *   City Attorney Marcus McDowell failed to file necessary assault charges against Ronan McSharry, allowing the statute of limitations to expire.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that CSB was an entity leveraging local political power and complicit legal actions (McDowell) to maintain systemic corruption in Baldwin County.
+
+      THE PIVOT:
+      *   Article 1 reports Robin LeJeune's victory as Mayor of Daphne, defeating the Catalyst/Scott Boone Consulting candidate, signifying a shift away from the established, corrupt special interests identified in Article 2.
+      *   Article 2 provides the historical context defining Catalyst/Scott Boone Consulting as the representative of entrenched corruption, not legitimate growth.
+
+      KEY ENTITIES:
+      *   Robin LeJeune (Daphne Mayor)
+      *   Karin Wilson (Fairhope Mayor)
+      *   Scott Boone / Catalyst/CSB
+      *   Burrell Boone
+      *   Brown
+      *   Marcus McDowell (City Attorney)
+      *   Ronan McSharry
+      *   Daphne
+      *   Baldwin County
+      *   Hurricane Delta
+      *   Fairhope
+    llm_text: Karin Wilson challenged Scott Boone's Catalyst/CSB corruption, which controlled Baldwin County for 16 years. Daphne Mayor Robin LeJeune defeating the CSB candidate shows local power finally shifting away from entrenched special interests.
+    text: Karin Wilson fought the Scott Boone corruption network in Baldwin County. Robin LeJeune defeated the Catalyst candidate to return power to voters.
+    widget_date: "2020-08-15"
+    generated_at: "2026-11-07T14:41:42.013960Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-ass-whoopin:
+    refined_source: f928df6568fb4c05b151c69544c0a708210e48daa3c5c185cc2cf67f93eef4f6
+    brief: |-
+      THE CONFLICT: CATALYST/Scott Boone Consulting (SBC) faced significant losses in the First Congressional Seat election in Baldwin County, where 2652 Catalyst votes shifted from Lowtower to Jerry Carl, leading to Carl winning by 3873 votes in Mobile.
+      THE DISCOVERY: The election of Robin LeJeune as Mayor of Daphne was a continuation of the shift against Catalyst/Scott Boone Consulting, resulting in LeJeune defeating the Catalyst/Scott Boone Consulting candidate by over 1000 votes.
+      THE PIVOT: The historical voter rejection of CATALYST (identified in the older widget article) directly influenced Daphne's current policy choice (identified in the main article) to slow development and focus on infrastructure, rather than embracing unbridled growth.
+      KEY ENTITIES: Baldwin County, Daphne, Fairhope, Robin LeJeune, Jerry Carl, Catalyst, Scott Boone Consulting, Hurricane Delta, Lake Charles, Jay Robinson, Jimmy Conyers.
+    llm_text: Catalyst's losses in Baldwin County didn't just shift votes to Jerry Carl; they shaped Daphne's future. Robin LeJeune's win against Catalyst led Daphne to slow development and prioritize crucial infrastructure.
+    text: Catalyst lost political power in Baldwin County. Robin LeJeune won the mayor's office in Daphne and slowed down unbridled development.
+    widget_date: "2020-07-17"
+    generated_at: "2026-11-07T14:47:09.768354Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  m-i-a:
+    refined_source: bf238074154a3dc88f4eb04b92e14cb681883fbb1f9c218b124a176019d0b449
+    brief: |-
+      THE CONFLICT:
+      *   Hurricane Sally caused property damage in Fairhope/Baldwin County (A2).
+      *   Daphne and Spanish Fort held runoff elections on October 6th (A2).
+      *   In Spanish Fort, Rebecca Cornelius ran against "Slappin" McMillian (A2).
+      *   In Daphne, the election was between Steve Carey (backed by Catalyst/Scott Boone Consulting) and Robin LeJeune (A2).
+      *   A1 confirms Robin LeJeune won the Mayor of Daphne runoff election by over 1000 votes (A1).
+
+      THE DISCOVERY:
+      *   Article 2 (Widget) established the political conflict: Daphne/Spanish Fort voters had to choose between the "developers dream" (Catalyst/Carey) and Robin LeJeune (A2).
+      *   Article 2 revealed that Daphne lacked governmental responsiveness (City Attorney/Council refusal to comment on Breland lawsuit, McSharry assault charges) and was prone to political maneuvering by figures like Council President Burrell (A2).
+
+      THE PIVOT:
+      *   Article 2 provides the historical context that the conflict between unchecked development (Catalyst/Fairhope) and civic stability (Daphne) was already highly contentious prior to the recent Hurricane Delta event (A1).
+      *   Article 1 confirms that Daphne successfully defeated the development-backed candidate (Catalyst/Scott Boone Consulting), choosing to "slow development" and focus on infrastructure, directly contradicting the growth trajectory predicted for Fairhope/Catalyst in A2.
+
+      KEY ENTITIES:
+      *   Robin LeJeune (Mayor of Daphne)
+      *   Catalyst / Scott Boone Consulting
+      *   Steve Carey
+      *   Daphne
+      *   Fairhope
+      *   Hurricane Sally
+      *   Hurricane Delta
+      *   Baldwin County
+      *   Rebecca Cornelius
+      *   "Slappin" McMillian
+      *   City Attorney
+      *   Council President Burrell
+    llm_text: Robin LeJeune secured the Mayor of Daphne runoff against Steve Carey, defeating Catalyst’s development agenda. Voters chose civic stability over unchecked growth, directly challenging the high-speed expansion predicted for Fairhope and Baldwin County.
+    text: Robin LeJeune defeated Steve Carey in the Daphne mayoral runoff. Voters rejected the Catalyst development agenda to protect civic stability.
+    widget_date: "2020-10-05"
+    generated_at: "2026-11-07T14:40:28.211077Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-54-trump-positive:
+    refined_source: 71f5070e79426f1aa4017c03547493c1d84ab73ae1a084c2baaf3b7c44939702
+    brief: |-
+      THE CONFLICT: Hurricane Sally caused catastrophic damage to Gulf Shores and surrounding Gulf Coast homes/businesses in Alabama during the COVID-19 pandemic.
+      THE DISCOVERY: Governor Ivey maintained Safer at Home/Mask Requirements for at least five weeks, while Sen. Chris Elliott criticized the Governor during the crisis, amidst high SARS-COV-2 case counts (Alabama: 156,000 cases).
+      THE PIVOT: Article 2 establishes the context of crisis (hurricane damage, pandemic, infrastructure fragility, political tension) that preceded the political shift in Article 1, where Daphne chose to slow development and prioritize infrastructure over the "unbridled growth" advocated by Catalyst/Scott Boone Consulting.
+      KEY ENTITIES: Governor Ivey, Sen. Chris Elliott, President Donald Trump, Hurricane Sally, SARS-COV-2, Robin LeJeune, Mayor of Daphne, Catalyst/Scott Boone Consulting, Hurricane Delta, Baldwin County, Fairhope.
+    llm_text: Hurricane Sally hammered Gulf Shores during the COVID crisis. Governor Ivey maintained mandates while Sen. Chris Elliott criticized her; how did this tension shape Mayor Daphne's pivot away from Catalyst/Scott Boone Consulting's "unbridled growth" plan?
+    text: Hurricane Sally struck Gulf Shores during the COVID-19 pandemic. Governor Kay Ivey enforced strict mandates while Senator Chris Elliott protested.
+    widget_date: "2020-10-03"
+    generated_at: "2026-11-07T14:42:50.096720Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-fairhope:
+    refined_source: ce0d26fc64cef659e3c7033608fc39fefb5bf40d54950a404b4a986443f4e38c
+    brief: |-
+      THE CONFLICT:
+      *   2010: State Senator Boom Boom Pittman and Mayor Cant orchestrated major fraud involving BP funds in Fairhope, amounting to $639,000.00.
+      *   Fairhope Council members Boone, Brown, and Burrell used office for personal gain; they used a city surplus of 1.7 million, creating a 1.2 million deficiency, and leased farmland back to a farmer for $9000 annually.
+
+      THE DISCOVERY:
+      *   Baldwin County politics, specifically in Fairhope, are characterized by pervasive corruption and white collar crime, described as a criminal enterprise.
+      *   Catalyst/Scott Boone Consulting was a key political entity in Fairhope, linked to BP grants (6.3 million dollar grant via "Howling Rains").
+
+      THE PIVOT:
+      *   Article 2 establishes the historical corruption and financial mismanagement in Fairhope/Baldwin County.
+      *   Article 1 shows a recent political shift in Daphne where Robin LeJeune defeated the Catalyst/Scott Boone Consulting candidate, indicating a movement away from the development-focused, corrupt status quo toward slowing development and infrastructure.
+
+      KEY ENTITIES:
+      *   Robin LeJeune (Mayor of Daphne)
+      *   Daphne
+      *   Fairhope
+      *   Baldwin County
+      *   Hurricane Delta
+      *   Catalyst / Scott Boone Consulting
+      *   BP
+      *   State Senator Boom Boom Pittman
+      *   Mayor Cant
+      *   Council members Boone, Brown, and Burrell
+      *   "Howling Rains"
+    llm_text: State Senator Pittman and Mayor Cant orchestrated $639K fraud in Fairhope using BP funds, proving Baldwin County's deep corruption. Now, Daphne's Robin LeJeune's victory signals a shift away from the Catalyst/Scott Boone Consulting status quo toward slowing development.
+    text: State Senator Pittman and Mayor Kant stole $639,000 in BP funds. Robin LeJeune won in Daphne to push back against this machine.
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T14:44:14.388200Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

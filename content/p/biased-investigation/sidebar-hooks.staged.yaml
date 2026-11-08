@@ -5,17 +5,44 @@ metadata:
   main_date: "2022-09-24"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  your-rights-your-money:
+    refined_source: 5b832c0fdb67e67b6d205a19e0fff0bef48281e6e220d11b1c9692f046b00ecb
+    brief: |-
+      THE CONFLICT: 2017 traffic stop and fatal shooting of Mr. O J French in Bay Minette; 8 individuals killed by BCSO.
+      THE DISCOVERY: Alabama Supreme Court ruled to shield BCSO investigations from public view, preventing release of body camera footage and limiting public right to sue; BCSO spent $662,597.00 on 129 body cameras intended for transparency.
+      THE PIVOT: The Alabama Supreme Court rulings and BCSO's legal insulation (detailed in Article 2) explain the current lack of transparency, refusal to name the officer, and withheld body camera footage regarding Mr. French's death (detailed in Article 1).
+      KEY ENTITIES: Huey Mack, Hoss Mack, Baldwin County Sheriff's Office (BCSO), Bay Minette Justice League (BMJL), Andre Reid, Scott Johnson, Bob Wills, BCSO, Alabama Supreme Court, Ethics Commission, Don Sigleman, Judge Thomasson, Tripp Pittman, Tom Parker, Tom Albritton, Ben Bowden, French, Albritton, Bay Minette City Council.
+    llm_text: The Alabama Supreme Court blocked body camera footage from the 2017 fatal shooting of O J French by BCSO. Why did BCSO spend $662k on transparency only to get legal insulation?
+    text: The Alabama Supreme Court blocked the release of body camera footage from the fatal shooting of O.J. French. Why did the Sheriff's Office spend 662,000 dollars on legal insulation?
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-06T20:44:54.760897Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  non-lethal:
+    refined_source: 4cf88090fb1ba6eb4bd7cbb877670785bedeef0e3f0d669b6aee9dbd8b5524b3
+    brief: |-
+      THE CONFLICT: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in May 2017; Sheriff Hoss Mack stated BCSO had no crisis intervention team and deputies lacked de-escalation training at that time.
+      THE DISCOVERY: Article 2 revealed that Baldwin County police departments, including Bay Minette Police, prioritized lethal military weapons (e.g., AR-15 rifles, Humvee) over non-lethal weapons, and the Sheriff's Office refused to turn over body camera footage in the Victor case.
+      THE PIVOT: Article 2 established the historical pattern of lethal force preference, lack of non-lethal options, and initial withholding of evidence (Victor case), providing context for the ongoing lack of transparency and investigation issues detailed in Article 1 regarding French's death.
+      KEY ENTITIES: Hoss Mack, Johnathan Victor, Baldwin County, Bay Minette Police, BCSO, Lt. Andre Reid, Scott Johnson, Bob Wills, Kenneth Sikes, French, Bay Minette Justice League, Gabriel Tynes
+    llm_text: Baldwin County prioritized AR-15s over de-escalation during Johnathan Victor's 2017 shooting; see how Sheriff Hoss Mack's office withheld body cam footage and why this matters for ongoing transparency issues.
+    text: Baldwin County deputies chose AR-15 rifles over de-escalation during the 2017 shooting of Johnathan Victor. Why did Sheriff Hoss Mack's office hide the body camera footage from the public?
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-06T20:42:01.816048Z"
+    model_name: plugsky-lite
   the-law-enforcement-narrative:
+    refined_source: baf4594a71d1a6da7d254fa6aad69d3a190031eda24e1bba2b744b1150905915
     brief: |-
       THE CONFLICT: Death of Mr. O J French of Bay Minette following a 10am traffic stop, linked to an eviction; incident involved unarmed people and a single shot, followed by deputies returning 114 rounds.
       THE DISCOVERY: Scott Johnson's article in the Lagniappe Newspaper revealed a history of cover-ups and disinformation under Sheriff Huey Mack, citing prior incidents including the death of Jonathan Victor, Robert Yates (over eviction at Key Largo Villas), and Peyton Little.
       THE PIVOT: Article 2 establishes that the narrative provided by the Baldwin County Major Crimes Unit (MCU) is historically unreliable and a fiction of Sheriff Huey Mack, providing necessary context for the alleged BIASED INVESTIGATION and lack of transparency in the current French case (Article 1).
       KEY ENTITIES: O J French, Bay Minette Justice League (BMJL), Scott Johnson, Sheriff Huey Mack, Baldwin County Major Crimes Unit (MCU), Lt. Andre Reid, Mayor Bob Wills, Bay Minette City Council.
     llm_text: O J French died in a Bay Minette traffic stop linked to an eviction. Scott Johnson proved Sheriff Huey Mack’s history of cover-ups makes the Baldwin County MCU narrative fiction, exposing a biased investigation.
+    text: O.J. French died during a Bay Minette traffic stop tied to an eviction dispute. Scott Johnson proved that Sheriff Huey Mack's narrative about the multi-jurisdictional unit is false.
     widget_date: "2022-09-20"
     generated_at: "2026-11-06T20:42:47.942962Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lethal-force:
+    refined_source: 0afdee3813ba86c18abe396d6de6dc6e1f22e341445f3f8b43247148e7848a9c
     brief: |-
       THE CONFLICT:
       * Incident count reaching 8 deaths by BCSO in Baldwin County over a 5+ year period.
@@ -45,10 +72,12 @@ hooks:
       * Scott Johnson
       * Joshua Brown
     llm_text: Eight deaths in Baldwin County, including O J French, fuel scrutiny on the BCMCU, which includes Sheriff Huey “Hoss” Mack. See how this internal unit lacks accountability while transparency stalls French's case.
+    text: Eight people have died in Baldwin County custody, including O.J. French, under the watch of the multi-jurisdictional unit. Why does Sheriff Huey Mack refuse to provide answers or transparency?
     widget_date: "2022-09-10"
     generated_at: "2026-11-06T20:41:55.774900Z"
     model_name: plugsky-lite
   sheriff-huey-boss-mack-secret-police:
+    refined_source: 68ca06cbe96dc01bbd233e3562212161f3cc6ec709b3b9e9138de3b37ba7ef79
     brief: |-
       THE CONFLICT:
       *   May 2017: Jonathan Victor (unarmed) shot to death by Baldwin County Sheriff Office (BCSO).
@@ -84,26 +113,7 @@ hooks:
       *   Rebecca Chambliss
       *   Chief Justice Tom Parker
     llm_text: Huey “Hoss” Mack’s BCSO has killed unarmed men like Jonathan Victor and Robert Yates while engaging in political rigging. See how the Bay Minette Justice League fights to uncover French’s death amid restrictive court rules that shield corruption.
+    text: Sheriff Huey Mack's department killed unarmed men like Jonathan Victor and Robert Yates. How is the Bay Minette Justice League fighting court rules that hide police misconduct?
     widget_date: "2021-10-01"
     generated_at: "2026-11-06T20:44:12.003612Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  your-rights-your-money:
-    brief: |-
-      THE CONFLICT: 2017 traffic stop and fatal shooting of Mr. O J French in Bay Minette; 8 individuals killed by BCSO.
-      THE DISCOVERY: Alabama Supreme Court ruled to shield BCSO investigations from public view, preventing release of body camera footage and limiting public right to sue; BCSO spent $662,597.00 on 129 body cameras intended for transparency.
-      THE PIVOT: The Alabama Supreme Court rulings and BCSO's legal insulation (detailed in Article 2) explain the current lack of transparency, refusal to name the officer, and withheld body camera footage regarding Mr. French's death (detailed in Article 1).
-      KEY ENTITIES: Huey Mack, Hoss Mack, Baldwin County Sheriff's Office (BCSO), Bay Minette Justice League (BMJL), Andre Reid, Scott Johnson, Bob Wills, BCSO, Alabama Supreme Court, Ethics Commission, Don Sigleman, Judge Thomasson, Tripp Pittman, Tom Parker, Tom Albritton, Ben Bowden, French, Albritton, Bay Minette City Council.
-    llm_text: The Alabama Supreme Court blocked body camera footage from the 2017 fatal shooting of O J French by BCSO. Why did BCSO spend $662k on transparency only to get legal insulation?
-    widget_date: "2021-09-27"
-    generated_at: "2026-11-06T20:44:54.760897Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  non-lethal:
-    brief: |-
-      THE CONFLICT: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in May 2017; Sheriff Hoss Mack stated BCSO had no crisis intervention team and deputies lacked de-escalation training at that time.
-      THE DISCOVERY: Article 2 revealed that Baldwin County police departments, including Bay Minette Police, prioritized lethal military weapons (e.g., AR-15 rifles, Humvee) over non-lethal weapons, and the Sheriff's Office refused to turn over body camera footage in the Victor case.
-      THE PIVOT: Article 2 established the historical pattern of lethal force preference, lack of non-lethal options, and initial withholding of evidence (Victor case), providing context for the ongoing lack of transparency and investigation issues detailed in Article 1 regarding French's death.
-      KEY ENTITIES: Hoss Mack, Johnathan Victor, Baldwin County, Bay Minette Police, BCSO, Lt. Andre Reid, Scott Johnson, Bob Wills, Kenneth Sikes, French, Bay Minette Justice League, Gabriel Tynes
-    llm_text: Baldwin County prioritized AR-15s over de-escalation during Johnathan Victor's 2017 shooting; see how Sheriff Hoss Mack's office withheld body cam footage and why this matters for ongoing transparency issues.
-    widget_date: "2021-02-13"
-    generated_at: "2026-11-06T20:42:01.816048Z"
-    model_name: plugsky-lite

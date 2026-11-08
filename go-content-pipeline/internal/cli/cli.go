@@ -24,7 +24,9 @@ import (
 	"github.com/rippreport/go-content-pipeline/internal/refiner"
 	"github.com/rippreport/go-content-pipeline/internal/server"
 	"github.com/rippreport/go-content-pipeline/internal/transcript"
+	"github.com/rippreport/go-content-pipeline/internal/tui"
 	"github.com/rippreport/go-content-pipeline/internal/youtube"
+	"github.com/rippreport/go-content-pipeline/pkg/gemini"
 )
 
 // App manages the CLI subcommands and orchestrator lifecycle.
@@ -66,6 +68,12 @@ func (a *App) Run(args []string) int {
 	cmdArgs := args[2:]
 
 	switch cmd {
+	case "tui":
+		if err := tui.Run(ctx, cmdArgs); err != nil {
+			fmt.Fprintln(a.stderr, err)
+			return 1
+		}
+		return 0
 	case "check-links", "link-checker":
 		return a.runCheckLinks(ctx, cmdArgs)
 	case "analyze-broken-links":
@@ -93,6 +101,8 @@ func (a *App) Run(args []string) int {
 		return a.runHookScan(ctx, cmdArgs, cmd)
 	case "scan-hook-phrases":
 		return a.runScanHookPhrases(ctx, cmdArgs)
+	case "dedup-hooks":
+		return a.runRefineHooks(ctx, append([]string{"--dedup-only"}, cmdArgs...))
 	case "refine-hooks", "refine":
 		return a.runRefineHooks(ctx, cmdArgs)
 	case "fetch-transcript":
@@ -128,6 +138,7 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "Go Content Pipeline - High Performance Hugo Recommendation System")
 	fmt.Fprintln(a.stdout, "\nUsage: pipeline <command> [options]")
 	fmt.Fprintln(a.stdout, "\nCommands:")
+	fmt.Fprintln(a.stdout, "  tui                  Open the interactive terminal interface")
 	fmt.Fprintln(a.stdout, "  check-links          Audit links in rendered Hugo posts with resumable JSON results")
 	fmt.Fprintln(a.stdout, "  analyze-broken-links Group broken links by domain, status, and error")
 	fmt.Fprintln(a.stdout, "  archive-links        Find and install verified Wayback replacements (JSON + CSV)")
@@ -141,6 +152,7 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "  scan-hook-articles   Export article-number references in hook text to JSON")
 	fmt.Fprintln(a.stdout, "  scan-hook-authors    Export Ripp names and author references in hook text to JSON")
 	fmt.Fprintln(a.stdout, "  scan-hook-phrases    Export repetitive contrast phrasing in hooks to JSON")
+	fmt.Fprintln(a.stdout, "  dedup-hooks          Compare existing hook text and rewrite semantic duplicates (--report, --stage)")
 	fmt.Fprintln(a.stdout, "  refine-hooks         Refine existing hooks using Gemini API")
 	fmt.Fprintln(a.stdout, "  fetch-transcript     Download YouTube transcript for podcast posts")
 	fmt.Fprintln(a.stdout, "  summarize-transcript Generate factual summary from transcript")
@@ -405,11 +417,16 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	fs := flag.NewFlagSet("refine-hooks", flag.ContinueOnError)
 	fs.SetOutput(a.stdout)
 
+	clearCache := fs.Bool("clear-cache", false, "Clear cached hook embeddings before running")
+	dedupOnly := fs.Bool("dedup-only", false, "Compare existing text and rewrite semantic duplicates without initial polishing")
+	reportPath := fs.String("report", "", "JSON hook scan report selecting hooks to deduplicate; implies --dedup-only")
 	configPath := fs.String("config", "config.yaml", "Path to configuration file")
 	posts := fs.String("posts", "", "Comma-separated list of specific post slugs")
 	force := fs.Bool("force", false, "Refine even if hooks are already refined")
+	stage := fs.Bool("stage", false, "Refine staged hooks (falling back to live hooks) and save to sidebar-hooks.staged.yaml")
 	dryRun := fs.Bool("dry-run", false, "Simulate operations without modifying files")
-	geminiModel := fs.String("gemini-model", "", "Gemini model to use (e.g., gemini-3.7-flash)")
+	embeddingModel := fs.String("embedding-model", "", "Embedding model name or GGUF path (overrides llama_server.embedding_model)")
+	geminiModel := fs.String("gemini-model", gemini.DefaultModel, "Gemini model to use (e.g., gemini-3.7-flash)")
 	batch := fs.Int("batch", 0, "Batch size for cross-post refinement (0 = per-post)")
 	threshold := fs.Float64("similarity-threshold", 0.85, "Rewrite hook pairs with cosine similarity above this threshold")
 
@@ -432,6 +449,13 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 		fmt.Fprintln(a.stderr, "Error: similarity-threshold must be between 0 and 1 and batch must be nonnegative")
 		return 1
 	}
+	if strings.TrimSpace(*embeddingModel) != "" {
+		cfg.LlamaServer.EmbeddingModel = strings.TrimSpace(*embeddingModel)
+	}
+	if strings.TrimSpace(*geminiModel) == "" {
+		*geminiModel = gemini.DefaultModel
+	}
+	fmt.Fprintf(a.stdout, "Gemini model: %s\nEmbedding model: %s\n", *geminiModel, cfg.LlamaServer.EmbeddingModel)
 	var sm *server.ServerManager
 	defer func() {
 		if sm != nil {
@@ -439,8 +463,11 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 		}
 	}()
 	refinerCfg := refiner.Config{
-		GeminiAPIKey: geminiAPIKey,
-		PostsDir:     cfg.Processing.PostsDirectory,
+		EmbeddingCacheFile: filepath.Join(filepath.Dir(cfg.Storage.CacheFile), ".hook_embedding_cache.json"),
+		EmbeddingModel:     fmt.Sprintf("%s|%s|%d", cfg.LlamaServer.EmbeddingModel, cfg.LlamaServer.BaseURL, cfg.LlamaServer.ContextSize),
+		ClearCache:         *clearCache,
+		GeminiAPIKey:       geminiAPIKey,
+		PostsDir:           cfg.Processing.PostsDirectory,
 		PrepareEmbedding: func(ctx context.Context) (refiner.Embedder, error) {
 			embeddingCfg := cfg.LlamaServer
 			if embeddingCfg.IsManaged() {
@@ -465,14 +492,21 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 		return 1
 	}
 
-	res, err := r.RefineHooks(ctx, refiner.RefineOptions{
+	opts := refiner.RefineOptions{
 		SpecificSlugs:       parseSlugs(*posts),
 		Force:               *force,
+		Stage:               *stage,
 		DryRun:              *dryRun,
 		Model:               *geminiModel,
 		BatchSize:           *batch,
 		SimilarityThreshold: *threshold,
-	})
+	}
+	var res *refiner.RefineResult
+	if *dedupOnly || *reportPath != "" {
+		res, err = r.DedupHooks(ctx, opts, *reportPath)
+	} else {
+		res, err = r.RefineHooks(ctx, opts)
+	}
 	if err != nil {
 		fmt.Fprintf(a.stderr, "Error refining hooks: %v\n", err)
 		return 1
@@ -1302,13 +1336,13 @@ func (a *App) runNewPost(ctx context.Context, args []string) int {
 	if isPodcast {
 		hasPodcast := false
 		for _, category := range categoryList {
-			if category == "podcast" {
+			if category == "dixie-podcast" {
 				hasPodcast = true
 				break
 			}
 		}
 		if !hasPodcast {
-			categoryList = append(categoryList, "podcast")
+			categoryList = append(categoryList, "dixie-podcast")
 		}
 	}
 

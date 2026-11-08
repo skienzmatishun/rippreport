@@ -1,0 +1,45 @@
+metadata:
+  generated_at: "2026-11-08T00:00:59.910429Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-4
+  main_date: "2019-09-27"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  crazy:
+    refined_source: 49423150dffa31c30360a40b95884f8d0c28595706ac3a96ac48b6c9a7689644
+    brief: |-
+      THE CONFLICT: Alleged suicide of a 19-year-old, by hanging with a seat belt inside a moving car, occurred in Baldwin County. The young man was later confirmed to be a confidential informant.
+      THE DISCOVERY: Corruption exists within the Baldwin County Judicial system and municipal governments, specifically within the Family Court. The Sheriff retaliated against a whistleblower attorney by labeling them 'CRAZY' instead of conducting a public investigation into the suicide allegations.
+      THE PIVOT: The Widget Article establishes a pattern of institutional corruption in Baldwin County, where critical truths (like the informant status) are buried by officials who use dismissal ('CRAZY') to prevent investigation, providing the historical context for the issues discussed in BACKSTORY PODCAST #4.
+      KEY ENTITIES: Baldwin County; Alabama; Family Court; Sheriff; Confidential Informant; Attorney
+    llm_text: Baldwin County officials covered up the alleged suicide of a 19-year-old confidential informant. The Sheriff dismissed the truth as "CRAZY," hiding deep institutional corruption in the Family Court.
+    text: Baldwin County officials covered up the suspicious death of a 19-year-old confidential informant. The Sheriff dismissed the tragic truth as crazy, hiding deep corruption inside the Family Court.
+    widget_date: "2019-09-20"
+    generated_at: "2026-11-08T00:00:46.754598Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  documents:
+    refined_source: a6562b25b360c14c5fd33c59f68cd10d079b358c9cb5344508c3e509e985bff3
+    brief: |-
+      THE CONFLICT:
+      Robert Brown, Fairhope City Councilman and ESAC Board member/Liaison, used his elected office for alleged personal gain via his contract with the Eastern Shore Art Center (ESAC).
+      The Fairhope City Council voted for a full family insurance package for Councilman Brown, valued at approximately $17,000 annually, which was not granted to other part-time employees.
+      The Council faced constituent backlash regarding these benefits and alleged misuse of office.
+
+      THE DISCOVERY:
+      The Widget article revealed specific allegations against Councilman Brown concerning his ESAC contract, demanding proof of "other bids" and an "Ethics Letter" authorizing the use of his office for personal benefit.
+      The article exposed the unanimous Council vote for the high-value family insurance package.
+
+      THE PIVOT:
+      The Widget article provides the foundational evidence (demands for documents, specifics of the $17,000 insurance package, and the ESAC contract context) that the Main Article (BACKSTORY PODCAST #4) likely analyzes or reports upon. It establishes the history of the Council's alleged conflicts of interest.
+
+      KEY ENTITIES:
+      Robert Brown
+      Fairhope City Council
+      Eastern Shore Art Center (ESAC)
+      $17,000 (annual insurance value)
+      2020 (election year referenced)
+    llm_text: Councilman Robert Brown used his office for alleged personal gain via an ESAC contract. The Council also unanimously approved a $17,000 family insurance package for him, sparking constituent backlash.
+    text: Councilman Robert Brown secured personal financial gain through an ESAC contract. The Fairhope City Council also voted to approve a $17,000 family insurance package for him.
+    widget_date: "2019-09-25"
+    generated_at: "2026-11-08T00:00:02.109467Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

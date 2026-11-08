@@ -5,97 +5,8 @@ metadata:
   main_date: "2024-04-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      Senator Katie Britt was involved in Alabama Legislature events in Montgomery regarding the Gaming Bill, Medical Cannabis, and a one million dollar contract between Alabama Power Company executives, The Matrix LLC, and McCrary Institute at Auburn University.
-      A leaked police body cam led to charges against an officer.
-
-      THE DISCOVERY:
-      Governor Kay Ivey fired Admiral Kent Davis, creating chaos in veterans’ programs.
-      A true crime story in Clarke County exposed a hospice business with shady ties to a judge, demonstrating Alabama's "good old boy" system.
-
-      THE PIVOT:
-      The Clarke County judge/hospice ties and the court ruling preventing lawsuits over wrong SWAT raids demonstrate that the corporate and political corruption (e.g., the $1M contract and police charges) in Article 1 is not an isolated incident but part of a pervasive systemic "good old boy" culture in Alabama.
-
-      KEY ENTITIES:
-      Senator Katie Britt
-      Alabama Power Company
-      The Matrix LLC
-      McCrary Institute
-      Auburn University
-      Governor Kay Ivey
-      Admiral Kent Davis
-      Clarke County
-      Joe Biden
-      Kamala Harris
-    llm_text: Senator Katie Britt’s $1M contract deal and a Clarke County judge’s shady ties prove Alabama’s corruption isn't isolated. Discover how this systemic "good old boy" culture affects everything from veterans’ programs to police misconduct.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T17:43:05.756519Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT:
-      - Alabama Power Company (current and former executives), The Matrix LLC, and the McCrary Institute at Auburn University are involved in a controversial $1,000,000 contract.
-      - The situation is described as a "love triangle" involving these specific entities.
-
-      THE DISCOVERY:
-      - Broadening corruption patterns show companies with established political ties are successfully securing million-dollar contracts.
-      - Investigations into law enforcement mishaps are failing to produce accountability.
-      - Scholarship scandals have been identified where funds intended for the public were diverted to insiders.
-
-      THE PIVOT:
-      - Article 2 provides the systemic evidence that the $1 million contract mentioned in Article 1 is not an isolated incident, but part of a documented pattern of political favoritism and contract steering in Alabama.
-
-      KEY ENTITIES:
-      - Senator Katie Britt
-      - Alabama Power Company (current and former executives)
-      - The Matrix LLC
-      - McCrary Institute (Auburn University)
-      - Alabama Legislature
-      - Baldwin County District Attorney's Office
-    llm_text: Alabama Power Company, The Matrix LLC, and Auburn’s McCrary Institute share a suspicious $1 million contract "love triangle." This deal exposes a documented pattern of political favoritism and contract steering that reaches deep into the Alabama Legislature.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T17:42:21.969787Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT: Senator Katie Britt involved in Alabama political circles; $1 million contract exists between Alabama Power Company (current/former executives), The Matrix LLC, and McCrary Institute (Auburn University) in Montgomery.
-      THE DISCOVERY: Podcast covers Luigi Manjone's arrest (murdering a United Healthcare CEO); allegations include the Dothan Summer Feeding Scandal and the Mack vs Hadley case (theft of a 1968 Camaro by Baldwin County Sheriff's Department); Alabama Court of Civil Appeals decision released today at 1pm; discovery of two undisclosed 2005 autopsies (Brady Violation) for Murray Lawrence Jr.
-      THE PIVOT: Article 2 expands the scope of corruption, linking high-profile state issues (Article 1) to deep-rooted legal failures and historical misconduct, such as the Dothan Summer Feeding Scandal and the Brady Violation involving Baldwin County Sheriff's Department, contextualizing the need for a New Ethics Law mentioned in Article 1.
-      KEY ENTITIES: Senator Katie Britt; Alabama Power Company; The Matrix LLC; McCrary Institute (Auburn University); Luigi Manjone; Dothan Summer Feeding Scandal; Mack vs Hadley; Baldwin County Sheriff's Department; Murray Lawrence Jr.; Judge Mark Fuller (Mobile, Alabama)
-    llm_text: Senator Katie Britt’s $1 million contract with Alabama Power Company shows state corruption. Discover how this links to the Dothan Summer Feeding Scandal and the Brady Violation involving Murray Lawrence Jr., demanding a New Ethics Law.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T17:45:19.782772Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT:
-      *   Senator Katie Britt (Alabama political circles) involved in scandals regarding the Gaming Bill, Medical Cannabis, School Choice, and a New Ethics Law.
-      *   A leaked police body cam depicted events leading to charges against an officer.
-      *   A $1 million contract involving a love triangle between Alabama Power Company (current/former executives), The Matrix LLC, and the McCrary Institute (Auburn University/Military Industrial Complex).
-
-      THE DISCOVERY:
-      *   The discussion (newer) includes President Biden's pardon of his son Hunter.
-      *   It covers the First Amendment and the wrongful arrests of individuals who exposed corruption in a local school district.
-      *   It addresses allegations of misconduct against various officials and the murder of a healthcare CEO.
-
-      THE PIVOT:
-      *   Article 2 establishes a broader pattern of political and governmental misconduct, specifically focusing on the suppression of dissent (wrongful arrests for exposing local corruption), which provides context for the high-level political and police misconduct detailed in Article 1.
-
-      KEY ENTITIES:
-      *   Senator Katie Britt
-      *   Alabama Power Company
-      *   The Matrix LLC
-      *   McCrary Institute
-      *   Auburn University
-      *   President Biden
-      *   Hunter Biden
-    llm_text: Senator Katie Britt is tied to a $1 million Alabama Power/Matrix LLC contract amidst major ethics scandals. Discover how local wrongful arrests for exposing corruption mirror the high-level misconduct involving the McCrary Institute.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T17:46:32.013735Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 316dc3ada7513ea7aed1c0b4cda8915b42463f480c58a71c376f2ed545d024b1
     brief: |-
       THE CONFLICT:
       - A $1 million contract scandal involving a "love triangle" between current and former Alabama Power Company executives, The Matrix LLC, and the McCrary Institute at Auburn University.
@@ -114,20 +25,12 @@ hooks:
       - McCrary Institute (Auburn University)
       - Backstory Podcast
     llm_text: The $1 million contract scandal involving Alabama Power, The Matrix LLC, and Auburn’s McCrary Institute reveals a web of political influence. This investigation exposes the systemic patterns of government spending and manipulation currently reshaping Alabama's legislative landscape.
+    text: A $1 million contract involves Alabama Power, The Matrix LLC, and Auburn's McCrary Institute. Who benefits from this political influence in Alabama?
     widget_date: "2024-11-27"
     generated_at: "2026-11-06T17:43:24.214861Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT: A police body cam depicting events that led to charges against an officer occurred (referenced in Article 1). This relates specifically to the death of OJ French Jr. by BMPD Officer Brandon Thompson.
-      THE DISCOVERY: The City of Bay Minette is being sued by OJ French Jr.'s family, and Mobile Attorney Andy Ruten is representing the City, seeking a Judge review of the bodycam to excuse the officer's actions while insisting the footage not be released to the public.
-      THE PIVOT: Article 2 provides the specific context (Bay Minette case) and the current legal maneuvering (Ruten's defense/demand for secrecy) behind the general mention of "charges against the officer" and the "leaked police body cam" in Article 1.
-      KEY ENTITIES: BMPD Officer Brandon Thompson; OJ French Jr.; City of Bay Minette; Andy Ruten; Bob Wills (Bay Minette Mayor); Alabama Power Company; The Matrix LLC; McCrary Institute (Auburn University); Senator Katie Britt; Baldwin County; Governor Ivey.
-    llm_text: OJ French Jr.'s family is suing the City of Bay Minette over the death caused by BMPD Officer Brandon Thompson. Mobile Attorney Andy Ruten defends the City, fighting to keep the critical police bodycam footage secret from the public.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T17:44:11.742706Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: 23a52310da0f21e393d00b468da9d6cc91069b759694b525c06c6d776b8afe69
     brief: |-
       THE CONFLICT:
       - Alleged $1 million contract and "love triangle" involving current and former Alabama Power Company executives, The Matrix LLC, and the McCrary Institute at Auburn University.
@@ -152,48 +55,36 @@ hooks:
       - Adm. Kent Davis
       - Mobile Cop
     llm_text: While Alabama Power and The Matrix LLC tangle in a million-dollar "love triangle," a far more sinister scandal breaks in Mobile. We unmask the specific, heinous rape charges against a Mobile cop that leaked body cam footage finally exposed.
+    text: Alabama Power and The Matrix LLC manage million-dollar deals while a severe scandal breaks in Mobile. What do leaked body camera files reveal about a Mobile police officer?
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T17:44:57.556961Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT:
-      * Senator Katie Britt is involved in Alabama political circles.
-      * A $1 million contract exists between Alabama Power Company (current/former executives), The Matrix LLC, and the McCrary Institute at Auburn University.
-      * Alabama Legislature is discussing a New Ethics Law and other bills (Gaming Bill, Medical Cannabis, School Choice, Alabama Works).
-      * A leaked police body cam depicts events leading to charges against an officer.
-
-      THE DISCOVERY:
-      * Kent David, former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, is leaving the state.
-      * David’s departure is linked to a whistleblower Ethics Complaint.
-
-      THE PIVOT:
-      * Article 2 confirms ongoing high-level ethical failures and whistleblower activity in Alabama, validating the urgent need for the New Ethics Law discussed in Article 1.
-
-      KEY ENTITIES:
-      * Senator Katie Britt
-      * Alabama Power Company
-      * The Matrix LLC
-      * McCrary Institute (Auburn University)
-      * Kent David (Former Alabama Veterans Affairs Commissioner)
-      * Brandon Moseley
-      * David R. Jones (Texas Federal Bankruptcy Judge)
-      * Baldwin County (Renaissance School, Sheriff Department)
-    llm_text: Senator Katie Britt faces scrutiny over a $1 million contract involving Alabama Power and Auburn University. Whistleblower Kent David’s departure confirms high-level ethical failures, proving why Alabama urgently needs its new Ethics Law.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T17:47:42.364965Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: ae58347bc692c06b4f22ae7ad7e9478bcb9d4fb03f0a3bcbc5473d72ef773781
     brief: |-
       THE CONFLICT: Senator Katie Britt involvement with the Alabama Legislature in Montgomery concerning the Gaming Bill, Medical Cannabis, School Choice, Alabama Works, and a New Ethics Law; also, a leaked police body cam depicting events leading to charges against an officer.
       THE DISCOVERY: Vice President Kamala Harris's political shift from "scourge of the democratic party" to "darling savior," alongside the pending selection of a replacement for Sheriff Mack in Baldwin County, Alabama, with one week remaining in his term.
       THE PIVOT: Article 2 updates the broader political landscape of Alabama (Baldwin County leadership change/national political shifts) providing context to the intense, localized political and ethical scrutiny surrounding Senator Britt's activities (one million dollar contract, love triangle, corporate ties) detailed in Article 1.
       KEY ENTITIES: Senator Katie Britt, Alabama Power Company, The Matrix LLC, McCrary Institute, Auburn University, VP Kamala Harris, Sheriff Mack, Baldwin County, Alabama.
     llm_text: Senator Katie Britt faces intense scrutiny over Alabama's Gaming Bill, ethics law, and a $1 million contract. See how VP Kamala Harris's political shift and Baldwin County's Sheriff Mack replacement affect Britt's localized fight in Alabama.
+    text: Senator Katie Britt faces questions over gaming legislation and a $1 million contract. How do local leadership changes impact her political future?
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T17:48:36.702916Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 6f3b118da8acc933b0f5dcbd065868d4210b57be7b91ecea89ed9d9379f6630b
+    brief: |-
+      THE CONFLICT: A police body cam depicting events that led to charges against an officer occurred (referenced in Article 1). This relates specifically to the death of OJ French Jr. by BMPD Officer Brandon Thompson.
+      THE DISCOVERY: The City of Bay Minette is being sued by OJ French Jr.'s family, and Mobile Attorney Andy Ruten is representing the City, seeking a Judge review of the bodycam to excuse the officer's actions while insisting the footage not be released to the public.
+      THE PIVOT: Article 2 provides the specific context (Bay Minette case) and the current legal maneuvering (Ruten's defense/demand for secrecy) behind the general mention of "charges against the officer" and the "leaked police body cam" in Article 1.
+      KEY ENTITIES: BMPD Officer Brandon Thompson; OJ French Jr.; City of Bay Minette; Andy Ruten; Bob Wills (Bay Minette Mayor); Alabama Power Company; The Matrix LLC; McCrary Institute (Auburn University); Senator Katie Britt; Baldwin County; Governor Ivey.
+    llm_text: OJ French Jr.'s family is suing the City of Bay Minette over the death caused by BMPD Officer Brandon Thompson. Mobile Attorney Andy Ruten defends the City, fighting to keep the critical police bodycam footage secret from the public.
+    text: The family of OJ French Jr. is suing the City of Bay Minette over his death. Why does Mobile Attorney Andy Ruten fight to keep police body camera footage secret?
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T17:44:11.742706Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: a83b93c7a18dc8b6ea5cbb0492d0a7ebfa28697babba0d86355ccd2e293cab5e
     brief: |-
       THE CONFLICT:
       *   Death of OJ French Jr. following a police stop by Bay Minette Police Officer Brandon Thompson.
@@ -219,6 +110,135 @@ hooks:
       *   Governor Ivey
       *   Baldwin County Major Crimes Unit
     llm_text: Mayor Robert Bob Wills claims the French family accepts the fatal shooting of OJ French Jr. by Officer Brandon Thompson, but his words ring false. Now, a federal lawsuit fights to expose the truth while officials hide the critical body cam footage behind "Grand Jury secrecy."
+    text: Mayor Robert Bob Wills claims the French family accepts the death of OJ French Jr. Why do officials hide body camera footage behind grand jury secrecy?
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T17:45:59.163197Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
+  the-crime-of-the-century:
+    refined_source: 0f499180b68da6724641b04132b21ad06809e83463b5254ee23bdf9ad4963a62
+    brief: |-
+      THE CONFLICT:
+      Senator Katie Britt was involved in Alabama Legislature events in Montgomery regarding the Gaming Bill, Medical Cannabis, and a one million dollar contract between Alabama Power Company executives, The Matrix LLC, and McCrary Institute at Auburn University.
+      A leaked police body cam led to charges against an officer.
+
+      THE DISCOVERY:
+      Governor Kay Ivey fired Admiral Kent Davis, creating chaos in veterans’ programs.
+      A true crime story in Clarke County exposed a hospice business with shady ties to a judge, demonstrating Alabama's "good old boy" system.
+
+      THE PIVOT:
+      The Clarke County judge/hospice ties and the court ruling preventing lawsuits over wrong SWAT raids demonstrate that the corporate and political corruption (e.g., the $1M contract and police charges) in Article 1 is not an isolated incident but part of a pervasive systemic "good old boy" culture in Alabama.
+
+      KEY ENTITIES:
+      Senator Katie Britt
+      Alabama Power Company
+      The Matrix LLC
+      McCrary Institute
+      Auburn University
+      Governor Kay Ivey
+      Admiral Kent Davis
+      Clarke County
+      Joe Biden
+      Kamala Harris
+    llm_text: Senator Katie Britt’s $1M contract deal and a Clarke County judge’s shady ties prove Alabama’s corruption isn't isolated. Read how this systemic "good old boy" culture affects everything from veterans’ programs to police misconduct.
+    text: Senator Katie Britt has a $1 million contract tied to a Clarke County judge. How does this political culture affect veterans and police misconduct?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T17:43:05.756519Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 92804545f5e2231dee7bf781b6e28013f5be673cdceb2b961fedc16da7bf9e6b
+    brief: |-
+      THE CONFLICT:
+      - Alabama Power Company (current and former executives), The Matrix LLC, and the McCrary Institute at Auburn University are involved in a controversial $1,000,000 contract.
+      - The situation is described as a "love triangle" involving these specific entities.
+
+      THE DISCOVERY:
+      - Broadening corruption patterns show companies with established political ties are successfully securing million-dollar contracts.
+      - Investigations into law enforcement mishaps are failing to produce accountability.
+      - Scholarship scandals have been identified where funds intended for the public were diverted to insiders.
+
+      THE PIVOT:
+      - Article 2 provides the systemic evidence that the $1 million contract mentioned in Article 1 is not an isolated incident, but part of a documented pattern of political favoritism and contract steering in Alabama.
+
+      KEY ENTITIES:
+      - Senator Katie Britt
+      - Alabama Power Company (current and former executives)
+      - The Matrix LLC
+      - McCrary Institute (Auburn University)
+      - Alabama Legislature
+      - Baldwin County District Attorney's Office
+    llm_text: Alabama Power Company, The Matrix LLC, and Auburn’s McCrary Institute share a suspicious $1 million contract "love triangle." This deal exposes a documented pattern of political favoritism and contract steering that reaches deep into the Alabama Legislature.
+    text: Alabama Power, The Matrix LLC, and Auburn's McCrary Institute share a $1 million contract. Who controls this steering of public funds?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T17:42:21.969787Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  hatians-eating-cats:
+    refined_source: 8aded785e3c9568a9f057c005ace7919181ec78bb2b0ae69f1508b0cccc6305a
+    brief: |-
+      THE CONFLICT:
+      * Senator Katie Britt is involved in Alabama political circles.
+      * A $1 million contract exists between Alabama Power Company (current/former executives), The Matrix LLC, and the McCrary Institute at Auburn University.
+      * Alabama Legislature is discussing a New Ethics Law and other bills (Gaming Bill, Medical Cannabis, School Choice, Alabama Works).
+      * A leaked police body cam depicts events leading to charges against an officer.
+
+      THE DISCOVERY:
+      * Kent David, former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, is leaving the state.
+      * David’s departure is linked to a whistleblower Ethics Complaint.
+
+      THE PIVOT:
+      * Article 2 confirms ongoing high-level ethical failures and whistleblower activity in Alabama, validating the urgent need for the New Ethics Law discussed in Article 1.
+
+      KEY ENTITIES:
+      * Senator Katie Britt
+      * Alabama Power Company
+      * The Matrix LLC
+      * McCrary Institute (Auburn University)
+      * Kent David (Former Alabama Veterans Affairs Commissioner)
+      * Brandon Moseley
+      * David R. Jones (Texas Federal Bankruptcy Judge)
+      * Baldwin County (Renaissance School, Sheriff Department)
+    llm_text: Senator Katie Britt faces scrutiny over a $1 million contract involving Alabama Power and Auburn University. Whistleblower Kent David’s departure confirms high-level ethical failures, proving why Alabama urgently needs its new Ethics Law.
+    text: Senator Katie Britt faces scrutiny over a $1 million contract with Alabama Power and Auburn University. Why did whistleblower Kent David resign?
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T17:47:42.364965Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 925b32e57185dd97a6590a33b465261c2aa127a25e5ae8c82c7163e24cdc72dd
+    brief: |-
+      THE CONFLICT: Senator Katie Britt involved in Alabama political circles; $1 million contract exists between Alabama Power Company (current/former executives), The Matrix LLC, and McCrary Institute (Auburn University) in Montgomery.
+      THE DISCOVERY: Podcast covers Luigi Manjone's arrest (murdering a United Healthcare CEO); allegations include the Dothan Summer Feeding Scandal and the Mack vs Hadley case (theft of a 1968 Camaro by Baldwin County Sheriff's Department); Alabama Court of Civil Appeals decision released today at 1pm; discovery of two undisclosed 2005 autopsies (Brady Violation) for Murray Lawrence Jr.
+      THE PIVOT: Article 2 expands the scope of corruption, linking high-profile state issues (Article 1) to deep-rooted legal failures and historical misconduct, such as the Dothan Summer Feeding Scandal and the Brady Violation involving Baldwin County Sheriff's Department, contextualizing the need for a New Ethics Law mentioned in Article 1.
+      KEY ENTITIES: Senator Katie Britt; Alabama Power Company; The Matrix LLC; McCrary Institute (Auburn University); Luigi Manjone; Dothan Summer Feeding Scandal; Mack vs Hadley; Baldwin County Sheriff's Department; Murray Lawrence Jr.; Judge Mark Fuller (Mobile, Alabama)
+    llm_text: Senator Katie Britt’s $1 million contract with Alabama Power Company shows state corruption. Read how this links to the Dothan Summer Feeding Scandal and the Brady Violation involving Murray Lawrence Jr., demanding a New Ethics Law.
+    text: Senator Katie Britt holds a $1 million contract with Alabama Power Company. Does this deal connect to the Dothan Summer Feeding Scandal?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T17:45:19.782772Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: a1ff55d607841d96cfa8446d33737971c05b1c4512692bc496dd94baeb6fcfb4
+    brief: |-
+      THE CONFLICT:
+      *   Senator Katie Britt (Alabama political circles) involved in scandals regarding the Gaming Bill, Medical Cannabis, School Choice, and a New Ethics Law.
+      *   A leaked police body cam depicted events leading to charges against an officer.
+      *   A $1 million contract involving a love triangle between Alabama Power Company (current/former executives), The Matrix LLC, and the McCrary Institute (Auburn University/Military Industrial Complex).
+
+      THE DISCOVERY:
+      *   The discussion (newer) includes President Biden's pardon of his son Hunter.
+      *   It covers the First Amendment and the wrongful arrests of individuals who exposed corruption in a local school district.
+      *   It addresses allegations of misconduct against various officials and the murder of a healthcare CEO.
+
+      THE PIVOT:
+      *   Article 2 establishes a broader pattern of political and governmental misconduct, specifically focusing on the suppression of dissent (wrongful arrests for exposing local corruption), which provides context for the high-level political and police misconduct detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Senator Katie Britt
+      *   Alabama Power Company
+      *   The Matrix LLC
+      *   McCrary Institute
+      *   Auburn University
+      *   President Biden
+      *   Hunter Biden
+    llm_text: Senator Katie Britt is tied to a $1 million Alabama Power/Matrix LLC contract amidst major ethics scandals. Read how local wrongful arrests for exposing corruption mirror the high-level misconduct involving the McCrary Institute.
+    text: Senator Katie Britt faces ethics questions over a $1 million contract. Why do local wrongful arrests happen to people who expose corruption?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T17:46:32.013735Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

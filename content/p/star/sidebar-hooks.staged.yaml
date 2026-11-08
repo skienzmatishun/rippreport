@@ -1,0 +1,324 @@
+metadata:
+  generated_at: "2026-11-07T05:06:03.626129Z"
+  generator_version: 1.0.0
+  post_slug: star
+  main_date: "2021-09-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  hatians-eating-cats:
+    refined_source: 059ce23e937c7244e62e12454f5eaa2ecc4e91b5d2dfb087c62035b58f90bb22
+    brief: |-
+      THE CONFLICT: Jim Zeigler (R) is poised to challenge Alabama Governor Kay Ivey for the Republican nomination.
+      THE DISCOVERY: Kent David, former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, is leaving Alabama due to a whistleblower Ethics Complaint.
+      THE PIVOT: David's departure due to an ethics complaint highlights significant local political instability and integrity issues in Alabama, providing current context to the high-stakes nomination challenge between Zeigler and Ivey.
+      KEY ENTITIES: Jim Zeigler, Kay Ivey, Kent David, Alabama, Fairhope, ADEM, Sylacauga Alabama
+    llm_text: Kent David is leaving Alabama over a whistleblower ethics complaint. This instability adds urgent context to Jim Zeigler challenging Governor Kay Ivey for the Republican nomination.
+    text: Kent Davis is leaving Alabama after a whistleblower ethics complaint. Jim Zeigler uses this instability to challenge Governor Kay Ivey.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T05:04:51.253474Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 6fd18687d26c135750811dde670aee2c9c2166958b0b4d046dfa9d7dc606bead
+    brief: |-
+      THE CONFLICT: OJ French Jr Family, Bay Minette Justice League, and May Jung LLC filed a lawsuit on July 31, 2024, against the City of Bay Minette and Officer Brandon Thompson, alleging Officer Thompson lacked probable cause and shot and killed Mr. French. Mayor Robert Bob Wills previously misled the family regarding the outcome of the investigation.
+      THE DISCOVERY: Sheriff Mack announced his resignation mid-August, triggering an appointment race for the Sheriff’s office, with Chief Deputy Anthony Lowery and County Commissioner Matt McKenzie seeking the position via Governor Ivey.
+      THE PIVOT: The specific local legal and administrative crises in Baldwin County (OJ French lawsuit, Officer Thompson incident, Sheriff Mack resignation) define the challenging local governance environment that State Auditor Jim Zeigler is poised to critique and use against Governor Kay Ivey in the Republican nomination challenge.
+      KEY ENTITIES: Jim Zeigler, Kay Ivey, OJ French Jr, Officer Brandon Thompson, Sheriff Mack, Anthony Lowery, Matt McKenzie, Mayor Robert Bob Wills
+    llm_text: OJ French Jr's lawsuit against Bay Minette over Officer Brandon Thompson's shooting exposes deep local governance issues. State Auditor Jim Zeigler now weaponizes this crisis, targeting Governor Kay Ivey during the Republican nomination challenge.
+    text: OJ French Jr. sued Bay Minette over Officer Brandon Thompson's shooting. State Auditor Jim Zeigler weaponizes that crisis against Governor Kay Ivey.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T05:05:52.022990Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 17e72c060af34b6926bd56dd8899de846bd8f4de915a970837523454eed7956c
+    brief: |-
+      THE CONFLICT:
+      Jim Zeigler (R), Alabama State Auditor, is poised to challenge Alabama Governor Kay Ivey for the Republican nomination.
+      Alabama's legal system faces documented corruption, including the Dothan Summer Feeding Scandal and the involvement of corrupt Alabama Federal Judge Mark Fuller (Mobile, AL).
+      The Mack vs Hadley case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+
+      THE DISCOVERY:
+      The Alabama Court of Civil Appeals released a decision today (Widget article) regarding the Rule 32 Petition for Murray Lawrence Jr.
+      This decision pertains to a Brady Violation: the failure to disclose two autopsies ordered by the Coroner of Baldwin County in 2005 to the defense.
+
+      THE PIVOT:
+      The discovery of deep-seated legal and political corruption (Fuller, Dothan Scandal, Sheriff Mack theft) validates the political context for Zeigler's potential challenge against Governor Ivey, framing corruption as a primary issue in Alabama politics.
+
+      KEY ENTITIES:
+      Jim Zeigler
+      Kay Ivey
+      Mark Fuller (Alabama Federal Judge)
+      Dothan Summer Feeding Scandal
+      Murray Lawrence Jr.
+      Alabama Court of Civil Appeals
+      Baldwin County Sheriff's Department
+    llm_text: Jim Zeigler plans to challenge Governor Kay Ivey amid Alabama's deep corruption, including the Dothan Scandal. Today, the Alabama Court of Civil Appeals ruled on Murray Lawrence Jr.'s Brady Violation, revealing undisclosed 2005 autopsies from Baldwin County.
+    text: Jim Zeigler challenges Governor Kay Ivey amid deep state corruption. The appellate court just ruled on Murray Lawrence Jr. and undisclosed Baldwin County autopsies.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T05:02:49.752661Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      - Older Article: The Ripp Report, 100th episode, special guest Alabama State Auditor Jim Zeigler(R).
+      - Older Article: Jim Zeigler poised to announce he will challenge Alabama Governor Kay Ivey for Republican nomination.
+      - Older Article: Topics included prisons, masks, personal freedoms, and Constitution (The Good One and the Alabama One).
+      - Older Article: COVID-19 context: 42 million SARS-CoV-2 infected in USA; 672,970 deaths.
+      - Older Article: Delta variant: Gulf Coast hospitals out of ICU beds.
+      - Older Article: Routine surgeries and procedures delayed to detriment of 55% of Alabamians who make up workforce.
+      - Older Article: FDA advisory panel hosted 8 hr Skype meeting; suggested not all run for booster shot; took cautious approach to mRNA vaccines, not to be confused with Regular Vaccine.
+      - Older Article: City of Fairhope entered into consent agreement with ADEM related to wastewater treatment collection system and treatment plant.
+      - Older Article: Fairhope effluent outfall within eyesight of Public Beach.
+      - Older Article: Mentioned Norm McDonald.
+
+      - Newer Article 2: Widget article titled The Pete Rose.
+      - Newer Article 2: Reward on table for anyone providing information, video, audio, etc. leading to conclusion of mystery surrounding death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022, Friday of Memorial Day Weekend.
+      - Newer Article 2: Body of Thomas Daniel "Danny" Williams Jr recovered on Sunday May 29, 2022.
+
+      THE DISCOVERY:
+      - Article 2 is newer than Article 1 and framed as an update.
+      - Article 2 marks passing of Legendary baseball player Pete Rose.
+      - Article 2: Pete Rose thrilled generations with head first approach to baseball and life.
+      - Article 2: Article 2 mentions VP debate.
+      - Article 2: Article 2 mentions more piles of rubble in Middle East.
+      - Article 2: Article 2 mentions Katie Britt, Pornhub Alabama, Veterans Affairs Director Adm. Kent Davis, The Baywatch Docuseries, The Longshoreman's Strike, a Mobile Cop rapes an incapacitated person, Montgomery Alabama Mayor's travel records, MS-13 Operations in Baldwin County, The Gulf Coast High Intensity Drug Trafficking Area Program, and the Rescue the Republic Rally went off in DC on Sunday without a hitch.
+
+      THE PIVOT:
+      - Article 2 is the newer update and therefore key context for Article 1.
+      - Article 2 shifts focus from Jim Zeigler/Kay Ivey to Pete Rose passing and Danny Williams Jr mystery reward.
+      - Article 2 does not establish a direct causal link to Article 1; it provides newer factual context.
+
+      KEY ENTITIES:
+      - Lowery.
+      - Wilters.
+      - Jim Zeigler.
+      - Kay Ivey.
+      - Thomas Daniel "Danny" Williams Jr.
+      - Orange Beach, Alabama.
+      - May 27, 2022.
+      - May 29, 2022.
+      - Pete Rose.
+      - Katie Britt.
+      - Adm. Kent Davis.
+      - Veterans Affairs Director.
+      - Norm McDonald.
+      - City of Fairhope.
+      - ADEM.
+      - Public Beach.
+      - FDA advisory panel.
+      - Delta variant.
+      - Gulf Coast Hospitals.
+    llm_text: Jim Zeigler teased an Alabama governor challenge against Kay Ivey as COVID, Delta, and ICU shortages delayed care, but Pete Rose's death and Danny Williams Jr.'s mystery reward now lead the news. If you follow Alabama, the Fairhope beach outfall, FDA booster caution, and Norm McDonald show how fast this story keeps shifting.
+    text: Jim Zeigler teased an Alabama governor challenge against Kay Ivey as COVID, Delta, and ICU shortages delayed care, but Pete Rose's death and Danny Williams Jr.'s mystery reward now lead the news. If you follow Alabama, the Fairhope beach outfall, FDA booster caution, and Norm McDonald show how fast this story keeps shifting.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T05:00:42.178071Z"
+    model_name: recursive/flint-v1.0:free
+  the-crime-of-the-century:
+    refined_source: 3db90d1944cf871c2de69fcb5771eb7bb86dbec48110965de67b6e4e3bb4a0fd
+    brief: |-
+      THE CONFLICT: Governor Kay Ivey faced political pressure after firing Admiral Kent Davis and attempting to control the veterans’ board, upsetting traditional Republican supporters.
+      THE DISCOVERY: Ivey's political standing is currently weak, highlighted by veteran discontent and ongoing local issues (e.g., Clarke County true crime, Fairhope/ADEM wastewater).
+      THE PIVOT: Ivey's demonstrated political vulnerability and opposition from key voting groups (veterans) provides the necessary context for State Auditor Jim Zeigler to consider challenging her for the Republican nomination.
+      KEY ENTITIES: Jim Zeigler, Kay Ivey, Admiral Kent Davis, Alabama, Fairhope, ADEM, Clarke County
+    llm_text: Kay Ivey faces weak support after firing Admiral Kent Davis and alienating veteran voters. State Auditor Jim Zeigler now has the political opening to challenge Ivey for the Republican nomination.
+    text: Kay Ivey faces weak support after firing Admiral Kent Davis and alienating veterans. State Auditor Jim Zeigler seizes the political opening to challenge her.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T04:59:32.884893Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 3a699381169ce70b304b8d37bdb7a699ae815f78b8643870f163bf468f1a1801
+    brief: |-
+      THE CONFLICT:
+      *   Alabama Governor Kay Ivey is the subject of political rumors regarding her health and potential replacements.
+      *   Corruption exists, evidenced by scholarships intended for the public being awarded to insiders.
+      *   Political ties lead companies to score million-dollar contracts without law enforcement accountability.
+
+      THE DISCOVERY:
+      *   The new Baldwin County District Attorney building construction bid was awarded to companies with political ties.
+      *   Ongoing political games are confirmed, with speculation about the Governor’s health and future replacements.
+
+      THE PIVOT:
+      *   The evidence of systemic corruption (insider scholarships, politically-tied contracts) detailed in Article 2 provides the context and justification for Jim Zeigler’s planned challenge to Governor Kay Ivey for the Republican nomination (Article 1).
+
+      KEY ENTITIES:
+      *   Jim Zeigler (State Auditor)
+      *   Kay Ivey (Governor)
+      *   Baldwin County District Attorney
+      *   City of Fairhope
+      *   ADEM
+      *   Republican nomination
+    llm_text: 'Corruption runs deep: insider scholarships and politically-tied contracts awarded the Baldwin County District Attorney bid. Jim Zeigler is challenging Governor Kay Ivey for the Republican nomination, holding her accountable for this systemic failure.'
+    text: Insider scholarships and politically tied contracts corrupted the Baldwin County District Attorney bid. Jim Zeigler challenges Governor Kay Ivey over the failure.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T05:01:29.983028Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 6e1d961f23e2c855eb23212af026707258807ff85da9d9e6b4f793da6727a5fb
+    brief: |-
+      THE CONFLICT:
+      Jim Zeigler (R) announced plans to challenge Alabama Governor Kay Ivey for the Republican nomination (Article 1, Episode 100).
+      Fairhope entered a consent agreement with ADEM regarding its waste water treatment system effluent near Public Beach (Article 1).
+
+      THE DISCOVERY:
+      The election is less than a fortnight away (Article 2).
+      Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama (Article 2).
+      Fairhope is expanding its $9.5M pier remodel (Article 2).
+      Bay Minette is facing a lawsuit from OJ French Jr's family, alleging death by BMPD Officer Brandon Thompson (Article 2).
+
+      THE PIVOT:
+      Article 2 provides the immediate political and local context (imminent election, Ivey's demands, local infrastructure/legal issues) that frames Jim Zeigler's challenge to Kay Ivey.
+
+      KEY ENTITIES:
+      Jim Zeigler
+      Kay Ivey
+      Fairhope
+      ADEM
+      Baldwin County
+      Bay Minette
+      OJ French Jr
+      BMPD Officer Brandon Thompson
+      Andy Ruten
+      Mayor Bob Wills
+    llm_text: Jim Zeigler challenges Kay Ivey for the GOP nomination just before the election. Local stakes are high, too—Fairhope manages an ADEM wastewater deal while Bay Minette faces a lawsuit over BMPD Officer Brandon Thompson.
+    text: Jim Zeigler challenges Kay Ivey for the GOP nomination right before the election. Fairhope manages an ADEM wastewater deal while Bay Minette faces a lawsuit.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T05:00:19.034515Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    brief: |-
+      THE CONFLICT:
+      - Article 1: podcast episode 100 special guest Alabama State Auditor Jim Zeigler (R).
+      - Article 1: Jim Zeigler poised to announce he will challenge Alabama Governor Kay Ivey for Republican nomination.
+      - Article 1: topics included prisons, masks, personal freedoms, and Constitution (The Good One and the Alabama One).
+      - Article 1: COVID-19 figures: 42 million SARS-CoV-2 infected in USA; 672,970 deaths; Delta variant had Gulf Coastal Hospitals out of ICU beds.
+      - Article 1: routine surgeries and procedures delayed; detriment to 55% of Alabamians who make up workforce.
+      - Article 1: FDA advisory panel hosted 8-hour Skype meeting; suggested not all run for booster shot; first cautious approach to MRNA Vaccines, not same as Regular Vaccine.
+      - Article 1: City of Fairhope entered into consent agreement with ADEM related to waste water treatment collection system and treatment plant; effluent outfall within eyesight of Public Beach; Norm McDonald mentioned.
+
+      THE DISCOVERY:
+      - Article 2 is newer than Article 1; frame as update.
+      - Article 2: VP Kamala Harris moved from scourge of Democratic party to darling savior.
+      - Article 2: VP Harris riding high from Democratic National Convention.
+      - Article 2: RFK Jr removed his name from battleground ballots and threw in with Candidate Trump.
+      - Article 2: RFK Jr/Trump consumed all oxygen in room.
+      - Article 2: one week left of Sheriff Mack in office in Baldwin County, Alabama.
+      - Article 2: Governor selecting replacement as of article.
+      - Article 2: Finebaum claims University of Alabama Football Dynasty over.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it updates the political context.
+      - Article 2 shows VP Harris shift, RFK Jr/Trump movement, Baldwin County sheriff replacement, Alabama governor replacement, University of Alabama football dynasty.
+      - Article 2 contextualizes Article 1’s Jim Zeigler poised to challenge Kay Ivey for Republican nomination.
+      - Article 2 may affect Article 1’s Alabama political, personal freedom, prisons, masks narrative.
+
+      KEY ENTITIES:
+      - Jim Zeigler, Alabama State Auditor (R).
+      - Kay Ivey, Alabama Governor.
+      - Kamala Harris, Vice President.
+      - Robert F. Kennedy Jr. (RFK Jr).
+      - Donald Trump, Candidate.
+      - Baldwin County, Alabama.
+      - Sheriff Mack, Baldwin County Sheriff.
+      - Alabama Governor, replacement.
+      - Finebaum, University of Alabama Football.
+      - University of Alabama.
+      - Democratic National Convention.
+      - The 180 / Backstory Podcast.
+      - ADEM.
+      - City of Fairhope.
+      - Waste water treatment collection system.
+      - Treatment plant.
+      - Effluent outfall.
+      - Public Beach.
+      - FDA advisory panel.
+      - MRNA vaccine.
+      - Booster shot.
+      - Delta variant.
+      - Gulf Coastal Hospitals.
+      - ICU beds.
+      - Norm McDonald.
+      - Lowery.
+      - Wilters.
+    llm_text: Jim Zeigler is poised to challenge Kay Ivey, but Kamala Harris is riding high and RFK Jr. just threw in with Donald Trump. That shift in Washington is the smoking gun context for Alabama's political fight over freedom, prisons, masks, and the governor’s office.
+    text: Jim Zeigler is poised to challenge Kay Ivey, but Kamala Harris is riding high and RFK Jr. just threw in with Donald Trump. That shift in Washington is the smoking gun context for Alabama's political fight over freedom, prisons, masks, and the governor’s office.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T05:01:58.921979Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-187-the-pardon:
+    refined_source: d133081eb0aa20e8290a085c3a6188f38d3a43e3cc1920ae1f9bf943ab0cd1cb
+    brief: |-
+      THE CONFLICT:
+      *   Alabama State Auditor Jim Zeigler (R) is poised to challenge Alabama Governor Kay Ivey for the Republican nomination.
+      *   This was discussed in the 100th podcast episode.
+
+      THE DISCOVERY:
+      *   The newer podcast episode covered a broader range of national and local controversies.
+      *   Topics included President Biden's pardon of Hunter Biden, a damning report on the US government's COVID-19 response, and wrongful arrests of individuals exposing local school district corruption.
+
+      THE PIVOT:
+      *   Article 2 expands the scope of political and governmental misconduct discussed in Article 1 beyond the Alabama state race (Zeigler vs. Ivey) to include federal (Biden/Hunter) and local corruption/First Amendment issues (school district arrests).
+
+      KEY ENTITIES:
+      *   Jim Zeigler (R)
+      *   Kay Ivey
+      *   President Biden
+      *   Hunter Biden
+      *   City of Fairhope
+      *   ADEM
+    llm_text: Jim Zeigler challenges Kay Ivey for the GOP nomination, but the misconduct doesn't stop at Alabama. We also cover President Biden's Hunter Biden pardon and local school corruption arrests in Fairhope.
+    text: Jim Zeigler challenges Kay Ivey for the GOP nomination. Meanwhile, national controversies and local school corruption arrests expose deeper systemic failures.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T05:03:49.119005Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT:
+      - Main Article: The Ripp Report 100th Episode featured special guest Alabama State Auditor Jim Zeigler (R).
+      - Main Article: Jim Zeigler is poised to announce he will challenge Alabama Governor Kay Ivey for the Republican nomination.
+      - Main Article: Main Article topics: prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).
+      - Main Article: COVID-19 facts: 42 million SARS-CoV-2 infected in USA; 672,970 deaths.
+      - Main Article: Delta variant caused Gulf Coastal Hospitals to be out of ICU beds.
+      - Main Article: Routine surgeries and procedures delayed; 55% of Alabamians in workforce detriment.
+
+      THE DISCOVERY:
+      - Widget Article: Backstory Podcast No. 186 features discussions on 2024 US Presidential election results, Trump Cabinet 2.0, government spending on misinformation, impact of war in Ukraine, and Alabama news such as closing of rural hospitals and changes to hunting seasons.
+      - Widget Article: Backstory Podcast No. 186 covers legal/political issues including antitrust lawsuits against Google and proposed constitutional amendments in Alabama.
+      - Widget Article: Episode includes input from Veterans/Consumer Advocate, journalist, and attorney.
+
+      THE PIVOT:
+      - Article 2 is newer than Article 1; frame as update.
+      - Article 2 shows Backstory Podcast No. 186 discussing legal/political and Alabama-related topics overlapping Article 1 themes.
+      - Article 2 provides key context for Article 1 by including Alabama legal/political news relevant to potential Jim Zeigler challenge to Kay Ivey.
+      - Article 2 is key context/smoking gun for Article 1 because it is newer and expands legal/political backdrop for Article 1 central subject.
+
+      KEY ENTITIES:
+      - Jim Zeigler, Alabama State Auditor (R)
+      - Kay Ivey, Alabama Governor
+      - The Ripp Report, Episode 100
+      - Backstory Podcast No. 186
+      - Alabama
+      - USA
+      - FDA advisory panel
+      - SARS-CoV-2
+      - Delta variant
+      - Gulf Coast Hospitals
+      - City of Fairhope
+      - ADEM
+      - Public Beach
+      - Trump Cabinet 2.0
+      - Google
+      - Veterans/Consumer Advocate
+      - Journalist
+      - Attorney
+      - Proposed constitutional amendments in Alabama
+      - Rural hospitals
+      - Hunting seasons
+      - 2024 US Presidential election results
+      - War in Ukraine
+      - Lowery — not present in provided Main/Widget article text.
+      - Wilters — not present in provided Main/Widget article text.
+    llm_text: Alabama State Auditor Jim Zeigler is eyeing a Republican challenge to Gov. Kay Ivey. Backstory Podcast No. 186 just tackled Alabama constitutional fights and rural hospital closures, giving key context before Zeigler's big announcement.
+    text: Alabama State Auditor Jim Zeigler is eyeing a Republican challenge to Gov. Kay Ivey. Backstory Podcast No. 186 just tackled Alabama constitutional fights and rural hospital closures, giving key context before Zeigler's big announcement.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T04:59:54.123148Z"
+    model_name: recursive/flint-v1.0:free

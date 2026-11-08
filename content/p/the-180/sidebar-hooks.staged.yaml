@@ -6,41 +6,15 @@ metadata:
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
   the-crime-of-the-century:
+    refined_source: 24579edc52fabd5436da23905ca8f9f45ea3482fb8779c9fd5b6a1d16badc6e0
     brief: "THE CONFLICT: Sheriff Mack is completing his final week in office in Baldwin County, Alabama. The Governor is currently in the process of selecting a replacement for the Sheriff position.\n\nTHE DISCOVERY: Governor Kay Ivey is actively intervening in state leadership and board control. Specifically, she has fired Admiral Kent Davis and is attempting to seize control of the veterans' board, causing chaos in veterans' programs and transitioning administrative roles into political ones.\n\nTHE PIVOT: Article 2 provides the pattern of behavior behind the Baldwin County leadership change mentioned in Article 1; it suggests the Governor's selection of a new Sheriff is part of a broader trend of purging officials and politicizing state boards.\n\nKEY ENTITIES: \n- Sheriff Mack\n- Governor Kay Ivey\n- Admiral Kent Davis\n- Baldwin County, Alabama\n- Veterans' Board\n- Clarke County"
     llm_text: As Sheriff Mack completes his final week in Baldwin County, Governor Kay Ivey is already maneuvering to control his replacement. This appointment follows a pattern of political purges, like her firing of Admiral Kent Davis and her aggressive takeover of the Veterans' Board.
+    text: Governor Kay Ivey moves to control the replacement for outgoing Sheriff Hoss Mack. Does this appointment follow the same playbook she used to fire Admiral Kent Davis?
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T16:21:44.518097Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  scalped:
-    brief: |-
-      THE CONFLICT:
-      *   Sheriff Mack is in office in Baldwin County, Alabama, with one week remaining.
-      *   The Governor is in the process of selecting a replacement for the sheriff.
-      *   VP Kamala Harris is referenced in the political context of the Democratic National Convention.
-      *   Finebaum claims the University of Alabama Football Dynasty is over.
-
-      THE DISCOVERY:
-      *   Companies with political ties are scoring million-dollar contracts.
-      *   Law enforcement is investigating its own mishaps with no accountability.
-      *   A court scandal involved scholarships being given to insiders instead of everyday citizens.
-      *   Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
-
-      THE PIVOT:
-      *   The political uncertainty surrounding the Governor's health and the selection of a sheriff replacement (Article 1) is contextualized by widespread systemic corruption, including insider contracts and law enforcement lack of accountability (Article 2).
-
-      KEY ENTITIES:
-      *   VP Kamala Harris
-      *   Sheriff Mack
-      *   Baldwin County, Alabama
-      *   The Governor (unnamed)
-      *   Finebaum
-      *   University of Alabama
-      *   State leaders (unnamed)
-    llm_text: 'Sheriff Mack is leaving Baldwin County, Alabama, forcing the Governor to select a new leader. This local political chaos masks widespread systemic corruption: insider contracts and law enforcement lacking accountability.'
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T16:22:13.353488Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 676e1d98d014003b238635a3e2f193a37c7e24cbea952f1cc0878a279971678f
     brief: |-
       THE CONFLICT:
       Sheriff Mack's tenure in Baldwin County, Alabama; Mack vs Hadley regarding the theft of a 1968 Camaro by the Baldwin County Sheriff's Department; 2005 discovery of two autopsies ordered by Sheriff Mack's father/Coroner; undisclosed autopsies constituted a Brady Violation.
@@ -63,30 +37,12 @@ hooks:
       Hadley
       United Healthcare CEO
     llm_text: Sheriff Mack's tenure in Baldwin County, Alabama, involved the theft of a 1968 Camaro and undisclosed 2005 autopsies, confirming a Brady Violation. This court ruling reveals deep systemic corruption just as Baldwin County faces a critical political shift and replacement selection.
+    text: Court documents confirm a Brady violation involving undisclosed 2005 autopsies and a stolen Camaro. Why did these hidden files surface right as Baldwin County prepares for a new sheriff?
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T16:24:08.099108Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Sheriff Mack is in office in Baldwin County, Alabama, with one week remaining before a replacement is selected by the Governor.
-      THE DISCOVERY: A podcast discusses President Biden's pardon of Hunter Biden and allegations of misconduct against various officials, including wrongful arrests of individuals exposing corruption in a local school district, alongside a report on the US government's COVID-19 response.
-      THE PIVOT: Article 2 provides context on broader national governmental misconduct (Biden/Hunter pardon; COVID-19 response) and local corruption/First Amendment issues (school district exposure/wrongful arrests), complementing the discussion of local political shifts (Sheriff Mack replacement/VP Harris status) in Article 1.
-      KEY ENTITIES: VP Kamala Harris, RFK Jr, Candidate Trump, Sheriff Mack, Baldwin County, Alabama, President Biden, Hunter Biden, University of Alabama, Finebaum
-    llm_text: Sheriff Mack prepares to leave office in Baldwin County, Alabama. We examine how local corruption, like the school district arrests, connects to national issues, including the Biden/Hunter pardon and the COVID-19 response.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T16:24:53.676120Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: VP Kamala Harris shifted political standing post-Democratic National Convention; RFK Jr removed his name from battleground ballots; Candidate Trump consumed political focus; Sheriff Mack's term in Baldwin County, Alabama, was set to expire in one week; Governor was selecting a replacement.
-      THE DISCOVERY: Backstory Podcast No. 186 covered 2024 US Presidential election results, The Trump Cabinet 2.0, antitrust lawsuits against Google, and Alabama news including rural hospital closures and proposed constitutional amendments.
-      THE PIVOT: Podcast No. 186 provided updated context on Alabama political and legal issues (e.g., proposed constitutional amendments, rural hospital closures) subsequent to the initial reporting on the Sheriff Mack transition and political shifts.
-      KEY ENTITIES: VP Kamala Harris; RFK Jr; Candidate Trump; Sheriff Mack; Baldwin County, Alabama; University of Alabama; Governor; Google; Backstory Podcast No. 186
-    llm_text: 'Kamala Harris shifted post-convention, but local battles matter: RFK Jr removed his name. Find out what happens when Sheriff Mack''s term expires next week in Baldwin County, Alabama.'
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T16:23:01.448681Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: 7ae0a47926df9132bab9e57c8c08077455362c6f7ba4435b083e1e8a784bcb05
     brief: |-
       THE CONFLICT:
       - Sheriff Mack is in his final week of office in Baldwin County, Alabama.
@@ -113,33 +69,50 @@ hooks:
       - City of Bay Minette
       - Fairhope
     llm_text: As Governor Ivey prepares to replace the erratic Sheriff Mack, Baldwin County descends into local chaos. Attorney Andy Ruten blocks bodycam footage and fights malpractice suits, dragging Mayor Bob Wills into a tangled web of legal and ethical conflicts.
+    text: Attorney Andy Ruten blocks bodycam footage while fighting malpractice suits alongside Mayor Bob Wills. How do these legal conflicts entangle local leaders in ethical scandals?
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T16:23:18.552048Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  the-pete-rose:
+  hanky-panky-at-the-po-po:
+    refined_source: b4242afcb5e3791212dd3fd17b60c46215b4b633684c242d5401591259dda11c
     brief: |-
-      THE CONFLICT: Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama, on May 27, 2022; body was recovered on May 29, 2022.
+      THE CONFLICT:
+      - Captain Andre Reid (Commander of Major Crimes Unit and supervisor of CID, Public Relations, and Forensics) accused of having an affair with a subordinate.
+      - Sheriff’s Department investigation concluded no evidence of an affair existed, though "certain policies" were violated; Reid suffered no loss of pay and was transferred to lead the Baldwin County Correction Center.
+      - Allegations of a "Sheriff's Circle of Protection" used to cover for specific individuals.
+      - An ongoing Federal Investigation regarding missing evidence in the possession of Baldwin County Sheriff's Deputies acting as Federal Agents under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
 
-      THE DISCOVERY: Article 2 highlights current local issues including MS-13 Operations in Baldwin County, Alabama, and features the passing of Pete Rose.
+      THE DISCOVERY:
+      - Article 2 revealed systemic issues of internal misconduct, lack of disciplinary accountability for high-ranking officers, and active federal interest in the handling of evidence within the Baldwin County Sheriff's Office.
 
-      THE PIVOT: Article 2 confirms ongoing organized crime presence (MS-13) within Baldwin County, Alabama, the same jurisdiction where Sheriff Mack is nearing the end of his term (Article 1).
+      THE PIVOT:
+      - Article 2 establishes a pattern of corruption and "protectionism" within the Baldwin County Sheriff's Office, providing the critical context for the immediate leadership vacuum and political tension described in Article 1 as Sheriff Mack's term expires and the Governor selects a successor.
 
       KEY ENTITIES:
-      VP Kamala Harris
-      RFK Jr
-      Candidate Trump
-      Sheriff Mack
-      Baldwin County, Alabama
-      Thomas Daniel "Danny" Williams Jr.
-      Orange Beach, Alabama
-      Katie Britt
-      Adm. Kent Davis (Veterans Affairs Director)
-      Pete Rose
-    llm_text: Organized crime remains in Baldwin County, the area where Danny Williams Jr. died in Orange Beach. Discover how MS-13 operations impact the critical transition of Sheriff Mack’s term.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T16:26:21.247932Z"
+      - Sheriff Mack
+      - Captain Andre Reid
+      - Baldwin County Sheriff's Office
+      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
+      - Baldwin County Correction Center
+    llm_text: Captain Andre Reid’s suspicious transfer and allegations of a "Sheriff's Circle of Protection" point to deep-seated misconduct in the Baldwin County Sheriff's Office. This pattern of corruption explains why the battle to replace Sheriff Mack is so explosive.
+    text: Captain Andre Reid received a suspicious transfer amid claims of a protective circle inside the sheriff's office. What do these internal cover-ups reveal about the race to replace Sheriff Hoss Mack?
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T16:25:55.120860Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 13b824ae763572629f0be67b7351e1bc174cd272c145e1f6b85511f61f4c6c1c
+    brief: |-
+      THE CONFLICT: VP Kamala Harris shifted political standing post-Democratic National Convention; RFK Jr removed his name from battleground ballots; Candidate Trump consumed political focus; Sheriff Mack's term in Baldwin County, Alabama, was set to expire in one week; Governor was selecting a replacement.
+      THE DISCOVERY: Backstory Podcast No. 186 covered 2024 US Presidential election results, The Trump Cabinet 2.0, antitrust lawsuits against Google, and Alabama news including rural hospital closures and proposed constitutional amendments.
+      THE PIVOT: Podcast No. 186 provided updated context on Alabama political and legal issues (e.g., proposed constitutional amendments, rural hospital closures) subsequent to the initial reporting on the Sheriff Mack transition and political shifts.
+      KEY ENTITIES: VP Kamala Harris; RFK Jr; Candidate Trump; Sheriff Mack; Baldwin County, Alabama; University of Alabama; Governor; Google; Backstory Podcast No. 186
+    llm_text: 'Kamala Harris shifted post-convention, but local battles matter: RFK Jr removed his name. Find out what happens when Sheriff Mack''s term expires next week in Baldwin County, Alabama.'
+    text: Kamala Harris changed her campaign message after her party's convention. What happens in Baldwin County when Sheriff Hoss Mack leaves office next week?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T16:23:01.448681Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: cc2d10d9d5539d311c12d03fa092c414b26c42681f4148956130a3128f532e70
     brief: |-
       THE CONFLICT:
       *   Sheriff Mack was in office in Baldwin County, Alabama, with one week remaining (Article 1).
@@ -165,40 +138,87 @@ hooks:
       *   Finebaum
       *   David R. Jones (Texas Federal Bankruptcy Judge)
     llm_text: 'Baldwin County instability is accelerating: Sheriff Mack’s term ends while a special needs school faces a possible inside-job robbery. RFK Jr remains active, connecting local shifts to national politics with a September 29 rally featuring Gabbard.'
+    text: Sheriff Hoss Mack leaves office just as a special needs school faces an inside-job robbery. How do local criminal cases tie into larger political rallies across the state?
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T16:27:47.636481Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: cddb4c31d4d83becdfa2485683fea993f98b3a8280c1e984deef72b9c09351eb
     brief: |-
       THE CONFLICT: OJ French Jr was killed by Bay Minette Police Officer Brandon Thompson during an incident for which the French family filed a Federal Court lawsuit on July 31, 2024.
       THE DISCOVERY: The French family lawsuit alleged Officer Thompson lacked probable cause and escalated the situation, leading to the shooting; prior investigations cleared Officer Thompson via the Grand Jury, while Sheriff Mack announced his resignation mid-August.
       THE PIVOT: Article 2 provides the specific, high-profile legal and police misconduct context (French lawsuit, Thompson's actions) that defines the political urgency in Baldwin County, Alabama, driving the need for the leadership transition (Sheriff Mack's departure and Governor Ivey selecting a replacement) discussed in Article 1.
       KEY ENTITIES: OJ French Jr, Brandon Thompson, Sheriff Mack, Governor Ivey, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Kamala Harris, RFK Jr, Trump, Baldwin County, Bay Minette
     llm_text: OJ French Jr was killed by Bay Minette Officer Brandon Thompson, leading the French family to sue over probable cause. This high-stakes police misconduct forced Sheriff Mack's resignation, making Governor Ivey's replacement selection critical for Baldwin County.
+    text: Bay Minette Officer Brandon Thompson shot and killed OJ French Jr., prompting a lawsuit over lack of probable cause. Did this high-stakes police misconduct force Sheriff Hoss Mack to resign?
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T16:28:39.667774Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-at-the-po-po:
+  the-pete-rose:
+    refined_source: 18609e3fb3be75ff7879107b9ae43429cd029e67c2fb29599a1a38faa63878b1
     brief: |-
-      THE CONFLICT:
-      - Captain Andre Reid (Commander of Major Crimes Unit and supervisor of CID, Public Relations, and Forensics) accused of having an affair with a subordinate.
-      - Sheriff’s Department investigation concluded no evidence of an affair existed, though "certain policies" were violated; Reid suffered no loss of pay and was transferred to lead the Baldwin County Correction Center.
-      - Allegations of a "Sheriff's Circle of Protection" used to cover for specific individuals.
-      - An ongoing Federal Investigation regarding missing evidence in the possession of Baldwin County Sheriff's Deputies acting as Federal Agents under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
+      THE CONFLICT: Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama, on May 27, 2022; body was recovered on May 29, 2022.
 
-      THE DISCOVERY:
-      - Article 2 revealed systemic issues of internal misconduct, lack of disciplinary accountability for high-ranking officers, and active federal interest in the handling of evidence within the Baldwin County Sheriff's Office.
+      THE DISCOVERY: Article 2 highlights current local issues including MS-13 Operations in Baldwin County, Alabama, and features the passing of Pete Rose.
 
-      THE PIVOT:
-      - Article 2 establishes a pattern of corruption and "protectionism" within the Baldwin County Sheriff's Office, providing the critical context for the immediate leadership vacuum and political tension described in Article 1 as Sheriff Mack's term expires and the Governor selects a successor.
+      THE PIVOT: Article 2 confirms ongoing organized crime presence (MS-13) within Baldwin County, Alabama, the same jurisdiction where Sheriff Mack is nearing the end of his term (Article 1).
 
       KEY ENTITIES:
-      - Sheriff Mack
-      - Captain Andre Reid
-      - Baldwin County Sheriff's Office
-      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
-      - Baldwin County Correction Center
-    llm_text: Captain Andre Reid’s suspicious transfer and allegations of a "Sheriff's Circle of Protection" point to deep-seated misconduct in the Baldwin County Sheriff's Office. This pattern of corruption explains why the battle to replace Sheriff Mack is so explosive.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T16:25:55.120860Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
+      VP Kamala Harris
+      RFK Jr
+      Candidate Trump
+      Sheriff Mack
+      Baldwin County, Alabama
+      Thomas Daniel "Danny" Williams Jr.
+      Orange Beach, Alabama
+      Katie Britt
+      Adm. Kent Davis (Veterans Affairs Director)
+      Pete Rose
+    llm_text: Organized crime remains in Baldwin County, the area where Danny Williams Jr. died in Orange Beach. Read how MS-13 operations impact the critical transition of Sheriff Mack’s term.
+    text: Danny Williams Jr. died in Orange Beach during an active federal drug investigation. What do local law enforcement records reveal about cartel operations in Baldwin County?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T16:26:21.247932Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: ce2a44197bf4aa1751456395a59aafebac1c1089d645ed8f70c7eb99bc41d51d
+    brief: |-
+      THE CONFLICT:
+      *   Sheriff Mack is in office in Baldwin County, Alabama, with one week remaining.
+      *   The Governor is in the process of selecting a replacement for the sheriff.
+      *   VP Kamala Harris is referenced in the political context of the Democratic National Convention.
+      *   Finebaum claims the University of Alabama Football Dynasty is over.
+
+      THE DISCOVERY:
+      *   Companies with political ties are scoring million-dollar contracts.
+      *   Law enforcement is investigating its own mishaps with no accountability.
+      *   A court scandal involved scholarships being given to insiders instead of everyday citizens.
+      *   Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+
+      THE PIVOT:
+      *   The political uncertainty surrounding the Governor's health and the selection of a sheriff replacement (Article 1) is contextualized by widespread systemic corruption, including insider contracts and law enforcement lack of accountability (Article 2).
+
+      KEY ENTITIES:
+      *   VP Kamala Harris
+      *   Sheriff Mack
+      *   Baldwin County, Alabama
+      *   The Governor (unnamed)
+      *   Finebaum
+      *   University of Alabama
+      *   State leaders (unnamed)
+    llm_text: 'Sheriff Mack is leaving Baldwin County, Alabama, forcing the Governor to select a new leader. This local political chaos masks widespread systemic corruption: insider contracts and law enforcement lacking accountability.'
+    text: Governor Kay Ivey must choose a new leader as Sheriff Hoss Mack exits office. Does this appointment process hide insider contracts and law enforcement secrecy?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T16:22:13.353488Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 4e27dc28df041079bc6827a00d56ecb8d2ac1366c087cf0a2f4b5f66916009bf
+    brief: |-
+      THE CONFLICT: Sheriff Mack is in office in Baldwin County, Alabama, with one week remaining before a replacement is selected by the Governor.
+      THE DISCOVERY: A podcast discusses President Biden's pardon of Hunter Biden and allegations of misconduct against various officials, including wrongful arrests of individuals exposing corruption in a local school district, alongside a report on the US government's COVID-19 response.
+      THE PIVOT: Article 2 provides context on broader national governmental misconduct (Biden/Hunter pardon; COVID-19 response) and local corruption/First Amendment issues (school district exposure/wrongful arrests), complementing the discussion of local political shifts (Sheriff Mack replacement/VP Harris status) in Article 1.
+      KEY ENTITIES: VP Kamala Harris, RFK Jr, Candidate Trump, Sheriff Mack, Baldwin County, Alabama, President Biden, Hunter Biden, University of Alabama, Finebaum
+    llm_text: Sheriff Mack prepares to leave office in Baldwin County, Alabama. We examine how local corruption, like the school district arrests, connects to national issues, including the Biden/Hunter pardon and the COVID-19 response.
+    text: Sheriff Hoss Mack prepares to leave office in Baldwin County, Alabama. How do local school arrests connect to state and federal government scandals?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T16:24:53.676120Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

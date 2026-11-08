@@ -5,7 +5,36 @@ metadata:
   main_date: "2024-01-18"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 9e0a805dcdace4375186fe45f1393f5396ee1b51fe2c8f379fca72a35e3b6261
+    brief: |-
+      THE CONFLICT:
+      - OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson due to an alleged stop without probable cause and subsequent struggle over a taser.
+      - The Family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
+
+      THE DISCOVERY:
+      - Article 2 establishes the lawsuit and the details surrounding Officer Brandon Thompson's actions, including the claim that the video evidence is being withheld from public record.
+
+      THE PIVOT:
+      - Article 2 provides specific, documented legal action (lawsuit filed July 31, 2024) concerning local law enforcement in Bay Minette, contrasting with Article 1's general mentions of legal matters (e.g., Judge Wilters hearing a Rule 32 Petition regarding Brady Information in the 28th Judicial District).
+
+      KEY ENTITIES:
+      - OJ French Jr.
+      - Brandon Thompson
+      - Mayor Robert Bob Wills
+      - Sheriff Mack
+      - May Jung LLC
+      - Anthony Lowery
+      - Matt McKenzie
+      - Judge Wilters
+      - Brandon Moseley
+    llm_text: OJ French Jr.'s family sued Bay Minette City and Officer Brandon Thompson over his fatal actions. Find out why police are withholding video evidence in this critical case.
+    text: The family of O.J. French Jr. sued the City of Bay Minette and Officer Brandon Thompson. Police are withholding video evidence in this fatal case.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T18:27:57.811297Z"
+    model_name: plugsky-lite
   the-crime-of-the-century:
+    refined_source: 0ee3ad4db2015bd16c3e1f245a79cd94a384be899e80434efeb2c32b2c8d6a67
     brief: |-
       THE CONFLICT:
       Murray "Bubba" Lawrence Jr. filed a Rule 32 Petition regarding Brady Information withheld by the State of Alabama.
@@ -29,19 +58,123 @@ hooks:
       Clarke County (Location of true crime)
       Tuscaloosa (Location of football news)
     llm_text: Murray "Bubba" Lawrence Jr. challenged Judge Wilters after the District Attorney withheld state Brady information. A Clarke County true crime story exposes a local judge's shady ties, proving Alabama's "good old boy" system applies to this case.
+    text: Murray Lawrence Jr. challenged Judge Wilters after the District Attorney withheld state Brady information. A true crime story exposes a local judge and Alabama's good old boy system.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T18:28:13.178791Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: 1a6f3fa09bf10c4314160f2e790268d9731290a13338a660bfe3384283594c37
     brief: |-
       THE CONFLICT: Judge Wilters (District Attorney for the 28th Judicial District) sat on a Rule 32 Petition filed by Murray "Bubba" Lawrence Jr. regarding Brady Information withheld by the State of Alabama.
       THE DISCOVERY: Companies with political ties are scoring million-dollar contracts in Alabama, and law enforcement is investigating its own mishaps with no accountability.
       THE PIVOT: The specific legal action involving Judge Wilters and Murray "Bubba" Lawrence Jr. is an example of the broader systemic corruption and lack of accountability reported in Alabama's political and judicial spheres.
       KEY ENTITIES: Judge Wilters, 28th Judicial District, Murray "Bubba" Lawrence Jr., State of Alabama, Alabama Power Company, Mobile Baykeepers, Nick Saban.
     llm_text: Judge Wilters sat on a Rule 32 Petition by Murray "Bubba" Lawrence Jr. over withheld Brady Information in the 28th Judicial District. This case exposes systemic corruption as politically tied companies score million-dollar contracts with no accountability in Alabama.
+    text: Judge Wilters handled a petition by Murray Lawrence Jr. over withheld Brady information. This case exposes systemic corruption as politically tied companies score million-dollar contracts.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T18:29:04.741976Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 3774a54a30c747d3888c396ffd3e3c9f1c2d75d98f9e4352ee17e291c8442ff9
+    brief: |-
+      THE CONFLICT:
+      *   Murray "Bubba" Lawrence Jr. filed a Rule 32 Petition against the State of Alabama regarding withheld Brady Information.
+      *   Judge Wilters (then a sitting Judge) ruled that the withholding was not reversible error.
+      *   Judge Wilters is currently the District Attorney for the 28th Judicial District.
+      *   Nick Saban exited Alabama Head Coach position.
+
+      THE DISCOVERY:
+      *   A recent podcast discussion covers allegations of misconduct against various officials and controversies surrounding political appointments.
+      *   The discussion highlights the wrongful arrests of individuals who exposed corruption in a local school district (First Amendment).
+      *   The podcast also mentions President Biden's pardon of his son Hunter.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that the specific legal dispute in Article 1 (Lawrence vs. State of Alabama) is part of a wider, current pattern of official misconduct and political controversy, specifically related to the exposure of local corruption and the integrity of legal proceedings.
+
+      KEY ENTITIES:
+      *   Judge Wilters
+      *   Murray "Bubba" Lawrence Jr.
+      *   Nick Saban
+      *   State of Alabama
+      *   President Biden
+      *   Hunter Biden
+      *   28th Judicial District
+      *   Tuscaloosa/Alabama
+    llm_text: Murray "Bubba" Lawrence Jr. sued the State of Alabama over withheld Brady information, but Judge Wilters—now the 28th District DA—dismissed the case. This legal battle reveals a wider pattern of official misconduct in Alabama, linking local corruption to current political controversies.
+    text: Murray Lawrence Jr. sued Alabama over withheld Brady information, but Judge Wilters dismissed the case. This legal battle reveals a wider pattern of official misconduct.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T18:30:07.266812Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 493b96d4c0239bdbefdd6c7d73178899dfc5d3dc1475c0d4f4ce660d1beff3b2
+    brief: |-
+      THE CONFLICT: Nick Saban exited Alabama Head Coach role. Judge Wilters (District Attorney for 28th Judicial District) ruled on Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withholding by State of Alabama; Wilters was the presiding Judge.
+      THE DISCOVERY: Backstory Podcast No. 186 covers Alabama news including closing of rural hospitals and changes to hunting seasons; also discusses proposed constitutional amendments in Alabama.
+      THE PIVOT: Article 2 provides broader political/legal context for Alabama issues, contrasting localized sports/legal news (Saban exit, Lawrence case) with statewide systemic issues (rural hospital closures, constitutional amendments).
+      KEY ENTITIES: Nick Saban, Judge Wilters, 28th Judicial District, Murray "Bubba" Lawrence Jr, Alabama, Brandon Moseley, Alabama Power Company, Mobile Baykeepers, Backstory Podcast No. 186
+    llm_text: Nick Saban's exit and the Judge Wilters ruling on the Bubba Lawrence case aren't just headlines; they reflect deeper Alabama issues like rural hospital closures. Tune into Backstory Podcast No. 186 to see how these local stories connect to statewide change.
+    text: Nick Saban's exit and the Judge Wilters ruling reflect deeper Alabama issues like rural hospital closures. Listen to Backstory Podcast No. 186 to see how these stories connect.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T18:27:26.033036Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    refined_source: 6de0f6619fbae7cd89426fd2e2a5c6a5950a06ec097144f053bf649bf8126e9f
+    brief: |-
+      THE CONFLICT: Judge Wilters (District Attorney for the 28th Judicial District) sat on a Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withheld by the State of Alabama.
+      THE DISCOVERY: Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the State of Alabama due to a whistleblower Ethics Complaint.
+      THE PIVOT: The articles do not have a direct causal link; Article 2 presents unrelated contemporary political and social events in Alabama, contrasting with Article 1's legal and football updates.
+      KEY ENTITIES: Nick Saban, Judge Wilters, Murray "Bubba" Lawrence Jr, Kent David, Brandon Moseley, Alabama Power Company, Tubberville
+    llm_text: Judge Wilters heard Bubba Lawrence's Brady petition while Kent David departs Alabama amid a whistleblower complaint. See how these major Alabama events shape the state's legal and political landscape now.
+    text: Judge Wilters heard Bubba Lawrence's Brady petition while Kent David left Alabama amid a whistleblower complaint. These events shape the state's legal landscape.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T18:27:44.703581Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: 9bacef1dec3c0738b928baa879749f855a503d5a7597dede78f237fba19d6881
+    brief: |-
+      THE CONFLICT:
+      - Judge Wilters (District Attorney for 28th Judicial District) heard Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withheld by the State of Alabama.
+
+      THE DISCOVERY:
+      - Mobile Attorney Andy Ruten represents the City of Bay Minette, Alabama, in a lawsuit filed by the family of OJ French Jr, killed by BMPD Officer Brandon Thompson.
+      - Ruten's firm hires Bay Minette Mayor Bob Wills to represent them in a separate lawsuit alleging Malpractice.
+
+      THE PIVOT:
+      - Article 2 introduces concurrent legal proceedings within Alabama involving local officials (Mayor Bob Wills, Attorney Andy Ruten) and law enforcement (BMPD Officer Brandon Thompson), providing a context of local legal scrutiny alongside the previous state-level case involving Judge Wilters and Murray "Bubba" Lawrence Jr.
+
+      KEY ENTITIES:
+      - Judge Wilters
+      - Murray "Bubba" Lawrence Jr
+      - Brandon Moseley
+      - Mobile Baykeepers
+      - Alabama Power Company
+      - Governor Ivey
+      - Veteran's Affairs Commissioner for Alabama
+      - Fairhope
+      - Baldwin County
+      - City of Bay Minette
+      - OJ French Jr
+      - BMPD Officer Brandon Thompson
+      - Andy Ruten
+      - Bob Wills
+      - Southern Research (Institute)
+    llm_text: Judge Wilters heard Murray "Bubba" Lawrence Jr's Brady info petition. See how City of Bay Minette attorney Andy Ruten and Mayor Bob Wills navigate local scrutiny alongside the OJ French Jr case.
+    text: Judge Wilters heard Murray Lawrence Jr.'s petition for Brady information. Bay Minette attorney Andy Ruten and Mayor Bob Wills navigate local scrutiny alongside the O.J. French case.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T18:27:33.272737Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    refined_source: 327ef927ca4261513b15df1bc3428ab0660a48cbbbf715ea10c6e7bf4b563679
+    brief: |-
+      THE CONFLICT: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022; body recovered May 29, 2022.
+      THE DISCOVERY: Widget Article is newer; provides a reward for information regarding the death of Thomas Daniel "Danny" Williams Jr.
+      THE PIVOT: No direct factual connection exists between the Williams death investigation and the legal/sports/weather events mentioned in the Main Article.
+      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, Nick Saban, Judge Wilters, Murray "Bubba" Lawrence Jr, Brandon Moseley, Alabama Power Company, Mobile River.
+    llm_text: Find out if you have info on Thomas Daniel "Danny" Williams Jr's death in Orange Beach, Alabama, and claim your reward. Don't miss this chance to help solve the case.
+    text: Share information on the death of Thomas Daniel Williams Jr. in Orange Beach and claim your reward. Help solve this case today.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T18:27:39.024582Z"
+    model_name: plugsky-lite
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
     brief: |-
       THE CONFLICT:
@@ -110,133 +243,19 @@ hooks:
       - Alabama football
       - Tuscaloosa
     llm_text: After Nick Saban's exit, Judge Wilters ruled that the State of Alabama could keep withholding Brady Information. Now two autopsies the Baldwin County Coroner ordered are at the center of Murray "Bubba" Lawrence Jr.'s fight — and the Alabama Court of Civil Appeals just ruled.
+    text: After Nick Saban's exit, Judge Wilters ruled that the State of Alabama could keep withholding Brady Information. Now two autopsies the Baldwin County Coroner ordered are at the center of Murray "Bubba" Lawrence Jr.'s fight — and the Alabama Court of Civil Appeals just ruled.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T18:28:25.769595Z"
     model_name: recursive/flint-v1.0:free
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT:
-      *   Murray "Bubba" Lawrence Jr. filed a Rule 32 Petition against the State of Alabama regarding withheld Brady Information.
-      *   Judge Wilters (then a sitting Judge) ruled that the withholding was not reversible error.
-      *   Judge Wilters is currently the District Attorney for the 28th Judicial District.
-      *   Nick Saban exited Alabama Head Coach position.
-
-      THE DISCOVERY:
-      *   A recent podcast discussion covers allegations of misconduct against various officials and controversies surrounding political appointments.
-      *   The discussion highlights the wrongful arrests of individuals who exposed corruption in a local school district (First Amendment).
-      *   The podcast also mentions President Biden's pardon of his son Hunter.
-
-      THE PIVOT:
-      *   Article 2 demonstrates that the specific legal dispute in Article 1 (Lawrence vs. State of Alabama) is part of a wider, current pattern of official misconduct and political controversy, specifically related to the exposure of local corruption and the integrity of legal proceedings.
-
-      KEY ENTITIES:
-      *   Judge Wilters
-      *   Murray "Bubba" Lawrence Jr.
-      *   Nick Saban
-      *   State of Alabama
-      *   President Biden
-      *   Hunter Biden
-      *   28th Judicial District
-      *   Tuscaloosa/Alabama
-    llm_text: Murray "Bubba" Lawrence Jr. sued the State of Alabama over withheld Brady information, but Judge Wilters—now the 28th District DA—dismissed the case. This legal battle reveals a wider pattern of official misconduct in Alabama, linking local corruption to current political controversies.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T18:30:07.266812Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Nick Saban exited Alabama Head Coach role. Judge Wilters (District Attorney for 28th Judicial District) ruled on Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withholding by State of Alabama; Wilters was the presiding Judge.
-      THE DISCOVERY: Backstory Podcast No. 186 covers Alabama news including closing of rural hospitals and changes to hunting seasons; also discusses proposed constitutional amendments in Alabama.
-      THE PIVOT: Article 2 provides broader political/legal context for Alabama issues, contrasting localized sports/legal news (Saban exit, Lawrence case) with statewide systemic issues (rural hospital closures, constitutional amendments).
-      KEY ENTITIES: Nick Saban, Judge Wilters, 28th Judicial District, Murray "Bubba" Lawrence Jr, Alabama, Brandon Moseley, Alabama Power Company, Mobile Baykeepers, Backstory Podcast No. 186
-    llm_text: Nick Saban's exit and the Judge Wilters ruling on the Bubba Lawrence case aren't just headlines; they reflect deeper Alabama issues like rural hospital closures. Tune into Backstory Podcast No. 186 to see how these local stories connect to statewide change.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T18:27:26.033036Z"
-    model_name: plugsky-lite
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      - Judge Wilters (District Attorney for 28th Judicial District) heard Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withheld by the State of Alabama.
-
-      THE DISCOVERY:
-      - Mobile Attorney Andy Ruten represents the City of Bay Minette, Alabama, in a lawsuit filed by the family of OJ French Jr, killed by BMPD Officer Brandon Thompson.
-      - Ruten's firm hires Bay Minette Mayor Bob Wills to represent them in a separate lawsuit alleging Malpractice.
-
-      THE PIVOT:
-      - Article 2 introduces concurrent legal proceedings within Alabama involving local officials (Mayor Bob Wills, Attorney Andy Ruten) and law enforcement (BMPD Officer Brandon Thompson), providing a context of local legal scrutiny alongside the previous state-level case involving Judge Wilters and Murray "Bubba" Lawrence Jr.
-
-      KEY ENTITIES:
-      - Judge Wilters
-      - Murray "Bubba" Lawrence Jr
-      - Brandon Moseley
-      - Mobile Baykeepers
-      - Alabama Power Company
-      - Governor Ivey
-      - Veteran's Affairs Commissioner for Alabama
-      - Fairhope
-      - Baldwin County
-      - City of Bay Minette
-      - OJ French Jr
-      - BMPD Officer Brandon Thompson
-      - Andy Ruten
-      - Bob Wills
-      - Southern Research (Institute)
-    llm_text: Judge Wilters heard Murray "Bubba" Lawrence Jr's Brady info petition. See how City of Bay Minette attorney Andy Ruten and Mayor Bob Wills navigate local scrutiny alongside the OJ French Jr case.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T18:27:33.272737Z"
-    model_name: plugsky-lite
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022; body recovered May 29, 2022.
-      THE DISCOVERY: Widget Article is newer; provides a reward for information regarding the death of Thomas Daniel "Danny" Williams Jr.
-      THE PIVOT: No direct factual connection exists between the Williams death investigation and the legal/sports/weather events mentioned in the Main Article.
-      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, Nick Saban, Judge Wilters, Murray "Bubba" Lawrence Jr, Brandon Moseley, Alabama Power Company, Mobile River.
-    llm_text: Find out if you have info on Thomas Daniel "Danny" Williams Jr's death in Orange Beach, Alabama, and claim your reward. Don't miss this chance to help solve the case.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T18:27:39.024582Z"
-    model_name: plugsky-lite
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT: Judge Wilters (District Attorney for the 28th Judicial District) sat on a Rule 32 Petition filed by Murray "Bubba" Lawrence Jr regarding Brady Information withheld by the State of Alabama.
-      THE DISCOVERY: Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the State of Alabama due to a whistleblower Ethics Complaint.
-      THE PIVOT: The articles do not have a direct causal link; Article 2 presents unrelated contemporary political and social events in Alabama, contrasting with Article 1's legal and football updates.
-      KEY ENTITIES: Nick Saban, Judge Wilters, Murray "Bubba" Lawrence Jr, Kent David, Brandon Moseley, Alabama Power Company, Tubberville
-    llm_text: Judge Wilters heard Bubba Lawrence's Brady petition while Kent David departs Alabama amid a whistleblower complaint. See how these major Alabama events shape the state's legal and political landscape now.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T18:27:44.703581Z"
-    model_name: plugsky-lite
   the-180:
+    refined_source: f9c598eb0c8ba3cd22300a6dd35fb762c22792406388ee0043e82360117c9022
     brief: |-
       THE CONFLICT: Nick Saban exited Alabama Head Coach position.
       THE DISCOVERY: Finebaum claims the University of Alabama Football Dynasty is over.
       THE PIVOT: Finebaum's claim updates the context following Saban's exit, addressing the football dynasty mentioned in Article 1.
       KEY ENTITIES: Nick Saban, Alabama, Auburn, Finebaum, Judge Wilters, Murray "Bubba" Lawrence Jr, Brandon Moseley, Kamala Harris, RFK Jr, Trump, Sheriff Mack
     llm_text: Finebaum claims the Alabama football dynasty ends after Nick Saban's exit. See why this massive shift matters for college football fans now.
+    text: Finebaum claims the Alabama football dynasty ends after Nick Saban's exit. This massive shift matters for college football fans today.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T18:27:50.026951Z"
-    model_name: plugsky-lite
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT:
-      - OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson due to an alleged stop without probable cause and subsequent struggle over a taser.
-      - The Family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
-
-      THE DISCOVERY:
-      - Article 2 establishes the lawsuit and the details surrounding Officer Brandon Thompson's actions, including the claim that the video evidence is being withheld from public record.
-
-      THE PIVOT:
-      - Article 2 provides specific, documented legal action (lawsuit filed July 31, 2024) concerning local law enforcement in Bay Minette, contrasting with Article 1's general mentions of legal matters (e.g., Judge Wilters hearing a Rule 32 Petition regarding Brady Information in the 28th Judicial District).
-
-      KEY ENTITIES:
-      - OJ French Jr.
-      - Brandon Thompson
-      - Mayor Robert Bob Wills
-      - Sheriff Mack
-      - May Jung LLC
-      - Anthony Lowery
-      - Matt McKenzie
-      - Judge Wilters
-      - Brandon Moseley
-    llm_text: OJ French Jr.'s family sued Bay Minette City and Officer Brandon Thompson over his fatal actions. Find out why police are allegedly withholding video evidence in this critical case.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T18:27:57.811297Z"
     model_name: plugsky-lite

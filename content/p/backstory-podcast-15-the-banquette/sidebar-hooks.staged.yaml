@@ -1,0 +1,162 @@
+metadata:
+  generated_at: "2026-11-07T20:33:39.359741Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-15-the-banquette
+  main_date: "2019-12-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  hatians-eating-cats:
+    brief: "THE CONFLICT: \n- Article 1 (Backstory Podcast 15 - The Banquette) establishes background context regarding local political and institutional friction.\n- (Note: Specific historical dates/names from a previous baseline are referenced as ongoing localized friction in Alabama institutions, such as the firing/ousting of public officials and ethics complaints).\n\nTHE DISCOVERY: \n- Article 2 (Newer widget update referencing Backstory Podcast No. 183) shows that local narratives regarding Haitian immigrants eating pets are being actively weaponized by outlets like *1819 News* in Sylacauga, Alabama, for profit and political alignment. \n- It reveals that the state is pushing out Alabama Veterans Affairs Commissioner/Former Real Admiral and JAG Officer Kent David over a whistleblower ethics complaint.\n- It highlights broader current events: an Alabama Department of Transportation harassment case against its Director was thrown out; The Renaissance School in Baldwin County was robbed in a potential inside job threatening closure; and a new Baldwin County Sheriff Department Command Staff is installed.\n- National/International updates include: Trump facing political fallout/assassination attempts, P Diddy denied bail for sex crimes, Federal Reserve dropping interest rates by half a point, Texas Federal Bankruptcy Judge David R. Jones winning a \"Most Corrupt Judge Award,\" and a \"Rescue the Republic\" rally in DC scheduled for September 29, 2024.\n\nTHE PIVOT: \n- Article 2 acts as the smoking gun because it shifts the investigation from abstract local commentary (Article 1) to concrete, active manipulations—specifically showing how local media (*1819 News*) manufactures profit-driven moral panics (the Haitian pet-eating myth in Sylacauga) while real institutional corruption quietly unfolds underneath, such as the ousting of VA Commissioner Kent David via a whistleblower ethics complaint and local school burglaries.\n\nKEY ENTITIES: \n- Kent David (Alabama Veterans Affairs Commissioner / Former Real Admiral and JAG Officer)\n- 1819 News (Media outlet)\n- Brandon Moseley (Guest speaker, BamaCarry Inc of Tuscaloosa)\n- David R. Jones (Texas Federal Bankruptcy Judge)\n- P Diddy (Sean Combs)\n- Donald Trump\n- Taylor Swift\n- RFK Jr.\n- Tulsi Gabbard\n- Russell Brand\n- Renaissance School (Baldwin County)\n- Alabama Department of Transportation (ALDOT)\n- Baldwin County Sheriff Department"
+    llm_text: '*1819 News* manufactures profit-driven moral panics in Sylacauga while real corruption destroys Alabama institutions, including the retaliatory ousting of VA Commissioner Kent David. Read how local media exploits fabricated pet-eating myths to distract citizens while officials bury actual scandals.'
+    text: '*1819 News* manufactures profit-driven moral panics in Sylacauga while real corruption destroys Alabama institutions, including the retaliatory ousting of VA Commissioner Kent David. Read how local media exploits fabricated pet-eating myths to distract citizens while officials bury actual scandals.'
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T20:31:57.396916Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 5421e4badf9e0d78fb5f0b562f23e226e7324829abb6a927e2cc6ed40978372c
+    brief: |-
+      THE CONFLICT:
+      - Luigi Manjone arrested for murdering UnitedHealthcare CEO; sparked debate about healthcare and justice.
+      - Controversial decommissioning of USS Enterprise.
+      - Allegations of corruption in Alabama legal/political systems; IE The Dothan Summer Feeding Scandal.
+      - Use of Bitcoin.
+      - Appearance of Iranian drones over New Jersey.
+      - Mack vs Hadley: Baldwin County Sheriff's Department theft of 1968 Camaro.
+      - Alabama Court of Civil Appeals decision released today at 1pm.
+      - Rule 32 Petition for new trial for Murray Lawrence Jr.; discovery of two autopsies ordered by Sheriff Mack's father (Coroner of Baldwin County, 2005) never disclosed to Defense (Brady Violation).
+      - Biography of corrupt Alabama Federal Judge Mark Fuller from Mobile, Alabama.
+
+      THE DISCOVERY:
+      - Article 2 (Assassins Drones and Political Corruption) includes the Brady Violation detail regarding the two autopsies ordered by Sheriff Mack's father in 2005 and never disclosed to the Defense; serves as the update to Article 1's coverage.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun for Article 1 because it contains the specific legal discovery (Brady Violation) about the undisclosed autopsies, which is central to the Mack vs Hadley case and provides key context for the ongoing legal proceedings.
+
+      KEY ENTITIES:
+      - Luigi Manjone
+      - UnitedHealthcare CEO
+      - USS Enterprise
+      - Alabama Court of Civil Appeals
+      - Dothan Summer Feeding Scandal
+      - Murray Lawrence Jr.
+      - Baldwin County Sheriff's Department
+      - Mack
+      - Hadley
+      - Coroner of Baldwin County
+      - Mark Fuller
+      - Mobile, Alabama
+      - Iranian drones
+      - New Jersey
+      - Bitcoin
+      - Baldwin County
+      - 1968 Camaro
+      - Alabama Federal Judge
+      - Healthcare and justice debate
+      - Political corruption allegations
+      - USS Enterprise decommissioning
+      - Rule 32 Petition
+      - Brady Violation
+      - Autopsies
+      - Coroner
+      - Defense
+      - Court decision
+      - Mack vs Hadley case
+    llm_text: 'Luigi Manjone''s murder of UnitedHealthcare''s CEO reignited healthcare and justice fights, but the real smoking gun may be in Alabama. The widget''s Article 2 exposes the Brady Violation: Defense never saw two autopsies that Baldwin County''s Coroner Mack''s father ordered in the Mack vs. Hadley case.'
+    text: 'Luigi Manjone''s murder of UnitedHealthcare''s CEO reignited healthcare and justice fights, but the real smoking gun may be in Alabama. The widget''s Article 2 exposes the Brady Violation: Defense never saw two autopsies that Baldwin County''s Coroner Mack''s father ordered in the Mack vs. Hadley case.'
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T20:32:06.462087Z"
+    model_name: recursive/flint-v1.0:free
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      - Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama on May 27, 2022 (the Friday of Memorial Day Weekend).
+      - His body was recovered two days later on Sunday, May 29, 2022, leaving an unsolved mystery surrounding his death.
+
+      THE DISCOVERY:
+      - A reward has now been officially offered for information, video, or audio evidence that leads to the conclusion of the mystery surrounding Danny Williams Jr.'s death.
+
+      THE PIVOT:
+      - The widget article provides the current update and active call for evidence regarding the May 2022 death of Danny Williams Jr., proving that the investigation into the Orange Beach incident remains open and is actively seeking public tips via a financial reward.
+
+      KEY ENTITIES:
+      - Thomas Daniel "Danny" Williams Jr.
+      - Orange Beach, Alabama
+    llm_text: A fresh reward offers answers in the tragic 2022 death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama. Read the latest updates to see how your tips might finally solve this Memorial Day mystery.
+    text: A fresh reward offers answers in the tragic 2022 death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama. Read the latest updates to see how your tips might finally solve this Memorial Day mystery.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T20:31:50.150121Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 3aa0fd7e2ef63e848c7cedc02c2a6f0f6e9b43cf36f91d437ea76a28d67c3202
+    brief: |-
+      THE CONFLICT: Allegations of misconduct against various officials; wrongful arrests of individuals exposing local school district corruption. (Specific names/dates not provided in source text)
+      THE DISCOVERY: Article 2 confirms President Biden issued a pardon to his son Hunter.
+      THE PIVOT: The pardon (Article 2) provides context regarding high-level political actions against backdrop of local corruption allegations (Article 1).
+      KEY ENTITIES: President Biden; Hunter Biden; US government; local school district officials
+    llm_text: Hunter Biden received a pardon while local school district officials face misconduct allegations. See how high-level political actions intersect with local corruption in this report.
+    text: President Biden pardoned Hunter Biden while local school district officials face serious misconduct allegations. This report examines how high-level politics intersect with local corruption.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T20:31:45.448585Z"
+    model_name: plugsky-lite
+  the-180:
+    refined_source: c401a6d279e0729f78869d94d089bc019902fd37ed96b5929e0b671730a0505f
+    brief: |-
+      THE CONFLICT: Kamala Harris was previously viewed as a "scourge of the democratic party."
+      THE DISCOVERY: VP Harris is now described as the "darling savior" of the Democratic Party following the Democratic National Convention.
+      THE PIVOT: Article 2 provides a contemporary political context (Harris's shift, RFK Jr/Trump impact, Alabama local politics) against the backdrop of the event referenced in Article 1 ("The Banquette").
+      KEY ENTITIES: Kamala Harris, RFK Jr, Trump, Sheriff Mack, Governor (unnamed), Finebaum, University of Alabama
+    llm_text: Kamala Harris flipped from "scourge" to "darling savior" after the DNC. See how RFK Jr and Trump shifts, plus Alabama local politics, shaped this major political pivot.
+    text: Kamala Harris changed from a primary target to a party savior after the DNC. Shifts from RFK Jr and Donald Trump, plus Alabama local politics, drove this massive political pivot.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T20:31:56.870648Z"
+    model_name: plugsky-lite
+  the-crime-of-the-century:
+    refined_source: 204a68c88c2407830a9770d4f76c78c09bdd95842bfb52af0d940795bf340e8d
+    brief: |-
+      THE CONFLICT: Governor Kay Ivey fired Admiral Kent Davis regarding the veterans’ board.
+      THE DISCOVERY: Veterans' programs are in chaos after Davis was ousted, and a true crime story exposed a hospice business's shady ties to a judge in Clarke County.
+      THE PIVOT: The firing of Davis and the subsequent chaos highlights Governor Ivey's attempts to control the veterans’ board and exposes the larger "good old boy" system and political misuse of power in Alabama.
+      KEY ENTITIES: Kay Ivey, Admiral Kent Davis, Clarke County, Joe Biden, Kamala Harris
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, plunging veterans' programs into chaos. This power grab exposes the "good old boy" system, linking Ivey's actions to shady Clarke County corruption.
+    text: Governor Kay Ivey fired Admiral Kent Davis and threw veterans' programs into total chaos. This power grab exposes the old boy network and connects directly to Clarke County corruption.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T20:32:17.123886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 13b5c7cb34d97786d662846f154e6ab21befe13df9ab62a87f4a98face88546b
+    brief: |-
+      THE CONFLICT: Companies with political ties score million-dollar contracts; scholarships meant for the public went to insiders.
+      THE DISCOVERY: Article 2 metadata confirms a construction bid award for the new Baldwin County District Attorney building (shown in the Scalped graphic/Facebook post).
+      THE PIVOT: The Baldwin County District Attorney building bid award serves as concrete evidence supporting the claim that corruption involves political ties scoring million-dollar contracts.
+      KEY ENTITIES: Baldwin County District Attorney building; companies with political ties; governor (rumors of health/replacement).
+    llm_text: Political ties delivered a million-dollar contract for the new Baldwin County District Attorney building. Discover concrete evidence showing insider companies scored this major bid, proving corruption unfairly wastes public funds meant for all citizens.
+    text: Political ties won a million-dollar contract for the new Baldwin County District Attorney building. Insider companies scored the bid while public funds meant for citizens went to waste.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T20:33:14.356301Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: "THE CONFLICT: In the past, the focus was laid out in \"BACKSTORY PODCAST 15 - The Banquette,\" addressing localized issues and backstories, specifically tied to regional developments in Alabama as established in the ongoing Ripp Report investigations.\n\nTHE DISCOVERY: The newer widget article (Backstory Podcast No. 186) shows that the scope has expanded to broader geopolitical and state-level impacts following the 2024 US Presidential election, directly highlighting ongoing crises in Alabama such as the closing of rural hospitals, changes to hunting seasons, and proposed constitutional amendments.\n\nTHE PIVOT: Article 2 serves as the key context because it bridges localized Alabama reporting (the subject of Article 1) with major national policy shifts—including The Trump Cabinet 2.0, government spending on misinformation, and antitrust lawsuits against Google—showing how state-level impacts in Alabama intersect with overarching federal changes.\n\nKEY ENTITIES: \n- The Trump Cabinet 2.0\n- Google\n- State of Alabama\n- Veterans/Consumer Advocate"
+    llm_text: Backstory Podcast 15 focused tightly on regional Alabama issues, but Backstory Podcast No. 186 blows the doors off that local scope. Read how Trump Cabinet 2.0 policies and Google antitrust lawsuits directly trigger rural hospital closures and hunting rule changes right here in Alabama.
+    text: Backstory Podcast 15 focused tightly on regional Alabama issues, but Backstory Podcast No. 186 blows the doors off that local scope. Read how Trump Cabinet 2.0 policies and Google antitrust lawsuits directly trigger rural hospital closures and hunting rule changes right here in Alabama.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T20:31:44.837003Z"
+    model_name: gemini-3.5-flash-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: "THE CONFLICT: \n- OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a traffic stop involving a struggle over a taser, after the officer demanded he exit the vehicle without probable cause.\n- Mayor Robert Bob Wills publicly lied, claiming he spoke for the French family and that they were \"ok with the outcome\" of the investigation and wanted the conversation to end.\n- The Major Crimes Unit of Baldwin County investigated the incident, and a Grand Jury cleared Officer Thompson; the dashboard/body camera video has been withheld from the public under the guise of being \"Grand Jury Secret.\"\n- Sheriff announced in mid-July 2024 that he is resigning in mid-August 2024, attempting to install Chief Deputy Anthony Lowery as his replacement via appointment by Governor Kay Ivey.\n- County Commissioner Matt McKenzie also maneuvered to secure the interim Sheriff appointment, highlighting entrenched \"BOSS HOGG\" political influence in Baldwin County.\n\nTHE DISCOVERY: \n- On July 31, 2024, the family of OJ French Jr., the Bay Minette Justice League, and legal counsel May Jung LLC held a public rally proving Mayor Bob Wills's claims were completely false.\n- A federal lawsuit was officially filed in Federal Court against the City of Bay Minette and Officer Brandon Thompson, exposing the cover-up and forcing the concealed details of the fatal stop into federal proceedings.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it shatters the official narrative pushed by Mayor Bob Wills and local law enforcement that the French family accepted the outcome of a secret Grand Jury clearance, proving instead through a filed federal lawsuit that victims are fighting back against systemic corruption, hidden evidence, and backroom political appointments involving the Sheriff's office.\n\nKEY ENTITIES: \n- OJ French Jr.\n- Mayor Robert Bob Wills\n- Officer Brandon Thompson\n- May Jung LLC (Legal Counsel)\n- Bay Minette Justice League\n- Chief Deputy Anthony Lowery\n- Governor Kay Ivey\n- County Commissioner Matt McKenzie\n- Major Crimes Unit of Baldwin County"
+    llm_text: Mayor Bob Wills lied, claiming the French family accepted OJ French Jr.'s killing by Bay Minette Officer Brandon Thompson. Now, a new federal lawsuit shatters that cover-up, exposing hidden dashcam footage and deep-seated political corruption.
+    text: Mayor Bob Wills lied, claiming the French family accepted OJ French Jr.'s killing by Bay Minette Officer Brandon Thompson. Now, a new federal lawsuit shatters that cover-up, exposing hidden dashcam footage and deep-seated political corruption.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T20:32:03.015060Z"
+    model_name: gemini-3.5-flash-lite
+  stirring-the-pot-bsp:
+    refined_source: 1c2cf255840a2b2d1a85f45675314405a3d9259b19f605958e5e8964604ff668
+    brief: |-
+      THE CONFLICT: No specific conflict or event detailed in Main Article (Podcast 15 - The Banquette)
+      THE DISCOVERY: Baldwin County approved thousands of residential lots this week; City of Bay Minette is being sued by the family of OJ French Jr; BMPD Officer Brandon Thompson is involved in the lawsuit; Governor Ivey called for resignation of Veteran's Affairs Commissioner for Alabama
+      THE PIVOT: Article 2 provides current local political and legal activity in Alabama, contrasting with the historical/background context of Article 1 (though direct factual connection is not established by content)
+      KEY ENTITIES: Governor Ivey; Veteran's Affairs Commissioner for Alabama; Fairhope; Baldwin County; City of Bay Minette; OJ French Jr; BMPD Officer Brandon Thompson; Andy Ruten; Bob Wills; Southern Research (Institute)
+    llm_text: Baldwin County approved thousands of lots while the City of Bay Minette faces an OJ French Jr lawsuit involving BMPD Officer Brandon Thompson. See how these local legal battles connect to Governor Ivey's call for the Veteran's Affairs Commissioner's resignation.
+    text: Baldwin County approved thousands of new lots while Bay Minette faces an OJ French Jr lawsuit involving Officer Brandon Thompson. Governor Ivey also demanded the Veteran's Affairs Commissioner resign.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T20:31:51.853271Z"
+    model_name: plugsky-lite

@@ -13,12 +13,13 @@ import (
 )
 
 type hookEntryYAML struct {
-	Brief       string `yaml:"brief"`
-	LLMText     string `yaml:"llm_text,omitempty"` // Initial LLM-generated text
-	Text        string `yaml:"text,omitempty"`     // Gemini-refined final text
-	WidgetDate  string `yaml:"widget_date,omitempty"`
-	GeneratedAt string `yaml:"generated_at,omitempty"`
-	ModelName   string `yaml:"model_name,omitempty"`
+	RefinedSource string `yaml:"refined_source,omitempty"`
+	Brief         string `yaml:"brief"`
+	LLMText       string `yaml:"llm_text,omitempty"` // Initial LLM-generated text
+	Text          string `yaml:"text,omitempty"`     // Gemini-refined final text
+	WidgetDate    string `yaml:"widget_date,omitempty"`
+	GeneratedAt   string `yaml:"generated_at,omitempty"`
+	ModelName     string `yaml:"model_name,omitempty"`
 }
 
 type hookMetaYAML struct {
@@ -132,12 +133,13 @@ func formatHookYAML(meta models.HookMetadata, hooks []*models.Hook) (string, err
 	hooksNode := &yaml.Node{Kind: yaml.MappingNode}
 	for _, h := range hooks {
 		entry := hookEntryYAML{
-			Brief:       h.Brief,
-			LLMText:     h.LLMText,
-			Text:        h.Text,
-			WidgetDate:  h.WidgetDate,
-			GeneratedAt: formatTimestamp(h.Generated),
-			ModelName:   h.ModelName,
+			RefinedSource: h.RefinedSource,
+			Brief:         h.Brief,
+			LLMText:       h.LLMText,
+			Text:          h.Text,
+			WidgetDate:    h.WidgetDate,
+			GeneratedAt:   formatTimestamp(h.Generated),
+			ModelName:     h.ModelName,
 		}
 		val, err := encodeNode(entry)
 		if err != nil {
@@ -207,13 +209,14 @@ func parseHookYAML(data []byte) (models.HookMetadata, []*models.Hook, error) {
 				modelName = meta.ModelName
 			}
 			hooks = append(hooks, &models.Hook{
-				WidgetSlug: slug,
-				Brief:      entry.Brief,
-				LLMText:    entry.LLMText,
-				Text:       entry.Text,
-				WidgetDate: entry.WidgetDate,
-				Generated:  parseTimestamp(entry.GeneratedAt),
-				ModelName:  modelName,
+				RefinedSource: entry.RefinedSource,
+				WidgetSlug:    slug,
+				Brief:         entry.Brief,
+				LLMText:       entry.LLMText,
+				Text:          entry.Text,
+				WidgetDate:    entry.WidgetDate,
+				Generated:     parseTimestamp(entry.GeneratedAt),
+				ModelName:     modelName,
 			})
 		}
 	case yaml.SequenceNode:

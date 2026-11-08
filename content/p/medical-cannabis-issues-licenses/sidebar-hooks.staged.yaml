@@ -5,27 +5,77 @@ metadata:
   main_date: "2026-01-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  war:
+    refined_source: d7bb7f27c06eaf01b88edd9583837978e4d2e3e717ccf81fb1e54640d1111164
+    brief: |-
+      THE CONFLICT: Governor "poison Ivy" sought to strip veterans representation by changing the Veterans Board to an advisory position under a cabinet director (Director of Veterans Affairs).
+      THE DISCOVERY: The state of Alabama was perceived as corrupt and vindictive, with the attempt being framed as retaliation against the current veterans board.
+      THE PIVOT: The history of political conflict and alleged executive overreach by Governor "poison Ivy" establishes the political climate under which the highly regulated, phased implementation of the Darren Wesley "Ato" Hall Compassion Act (medical cannabis) took place.
+      KEY ENTITIES: Governor "poison Ivy," Admiral Kent Davis, Darren Wesley "Ato" Hall, Alabama Medical Cannabis Commission (AMCC), Chey Lindsey Garrigan, Alabama Cannabis Industry Association 501C6.
+    llm_text: Governor "poison Ivy" attempted to strip veterans representation by changing the Veterans Board to an advisory role. Learn how this political climate shaped the highly regulated rollout of the Darren Wesley "Ato" Hall Compassion Act.
+    text: The governor attempted to strip veteran representation by changing the Veterans Board to an advisory role. This political climate shaped the rollout of the Darren Wesley Ato Hall Compassion Act.
+    widget_date: "2025-02-22"
+    generated_at: "2026-11-06T10:10:51.464331Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  4-20:
+    refined_source: aa5b324fe7c16cc2687a2ccf56e77feb3bed821f19e5c9e32a7addf0c3020caf
+    brief: |-
+      THE CONFLICT:
+      *   April 20, 2010: Deepwater Horizon/BP Oil Spill occurred in the Gulf of Mexico, releasing 210,000,000 US gallons of oil.
+      *   May 8, 2010: Alabama Governor Bob Riley appointed State Senator Tripp Pittman as "trustee" for disaster relief funds in Baldwin County.
+      *   May 3, 2010: Pittman planned to submit a personal contract for the entrusted funds, coordinated with the Mayor of Fairhope.
+
+      THE DISCOVERY:
+      *   The Alabama Cannabis Association released a press release on 4/20, linking the cannabis culture date to the 2010 oil spill.
+      *   Tripp Pittman has attempted to move into roles like Hemp lobbyist and farmer.
+      *   Pittman, Fairhope City Council, and CATALYST backed Bill “lowtower” for the July 14, 2020, First Congressional seat runoff.
+
+      THE PIVOT:
+      *   Article 2 establishes Tripp Pittman's history of self-enrichment and alleged unethical behavior regarding state funds (2010).
+      *   Article 1 (January 22, 2026) details the implementation of medical cannabis under the Darren Wesley “Ato” Hall Compassion Act, placing oversight with the Alabama Medical Cannabis Commission (AMCC).
+      *   Pittman's historical financial conflicts provide a context for scrutinizing the current regulatory landscape and the involvement of figures in the growing Alabama cannabis industry.
+
+      KEY ENTITIES:
+      *   Tripp Pittman (Former State Senator)
+      *   Governor Bob Riley
+      *   BP
+      *   Fairhope City Council
+      *   Alabama Cannabis Association
+      *   Darren Wesley “Ato” Hall
+      *   Alabama Medical Cannabis Commission (AMCC)
+      *   Bill “lowtower”
+      *   Baldwin County
+    llm_text: Tripp Pittman planned a personal contract for disaster relief funds following the 2010 BP oil spill in Baldwin County. See how his history of self-enrichment provides critical context for scrutinizing Alabama's current medical cannabis industry and the AMCC.
+    text: Tripp Pittman planned a personal contract for disaster relief funds after the BP oil spill. His history of self-enrichment provides critical context for examining Alabama's medical cannabis industry.
+    widget_date: "2020-04-20"
+    generated_at: "2026-11-06T10:12:15.175832Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   blast-from-the-past:
+    refined_source: 50b9bab3556802ce071fb8cf879befbd2b3c1004bb20a2a142acc0fb7b244f9a
     brief: |-
       THE CONFLICT: Wrongful conviction case of Murray Lawrence Jr. (investigated by Hoss Mack); alleged internal hanky-panky and cover-ups within the Baldwin County Sheriff's Department (BCSO).
       THE DISCOVERY: BCSO has internal accountability issues and a history of cover-ups, as revealed by sources to The Ripp Report.
       THE PIVOT: Article 2 provides historical context on local law enforcement and judicial misconduct (BCSO/Robert Wilters), which is separate from the state regulatory milestones detailed in Article 1 (AMCC/Medical Cannabis Licensing).
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr, Robert Wilters, BCSO, AMCC, Darren Wesley “Ato” Hall, Alabama Medical Cannabis Commission, Montgomery, Ala.
     llm_text: How did the Baldwin County Sheriff's Department (BCSO) cover up Murray Lawrence Jr.'s wrongful conviction? Hoss Mack reveals serious internal hanky-panky and misconduct involving BCSO and Robert Wilters.
+    text: How did the Baldwin County Sheriff's Department cover up Murray Lawrence Junior's wrongful conviction? Sheriff Hoss Mack oversaw internal misconduct alongside judge Robert Wilters.
     widget_date: "2026-01-21"
     generated_at: "2026-11-06T10:03:47.102688Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   foot-in-his-mouth:
+    refined_source: 6a03cba9738bc47b3ff11bf7f2f670f6c8e66f410553e6cc36af77dc8f0a5fbb
     brief: |-
       THE CONFLICT: Chris Elliott was the Baldwin County Sheriff’s legislature puppet for Hoss Mack and later Anthony Lowery; he avoided DUI charges and passed legislation restricting municipalities from extending police/planning jurisdictions before the current date.
       THE DISCOVERY: Article 2 reveals historical political maneuvering, including legislative action benefitting developers and accusations of dishonesty by Chris Elliott.
       THE PIVOT: No direct factual link connects Chris Elliott's past political activities (Article 2) to the approval of medical cannabis licenses (Article 1); Article 2 serves only as unrelated historical context on Alabama politics.
       KEY ENTITIES: Chris Elliott, Anthony Lowery, Hoss Mack, Darren Wesley “Ato” Hall, Alabama Medical Cannabis Commission (AMCC), Chey Lindsey Garrigan, Matt Franklin
     llm_text: Chris Elliott served as a legislature puppet for Hoss Mack and Anthony Lowery, avoiding DUI charges while restricting municipal jurisdiction. See how this history shapes Alabama politics today, even as the AMCC approves medical cannabis licenses.
+    text: Chris Elliott served as a legislative puppet for Hoss Mack while avoiding DUI charges. This political history shapes current Alabama politics as the state rolls out medical cannabis licenses.
     widget_date: "2026-01-18"
     generated_at: "2026-11-06T10:06:17.738022Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: 7470ea484b032d2326fad92f602ec61166c2b58a187358101dde470749966139
     brief: |-
       THE CONFLICT:
       May 17, 2021: State of Alabama approved the medical cannabis bill (Darren Wesley “Ato” Hall Compassion Act).
@@ -45,10 +95,12 @@ hooks:
       Chey Lindsey Garrigan
       Alabama Cannabis Industry Association
     llm_text: The 2021 Darren Wesley “Ato” Hall Compassion Act stalled four years while the AMCC faced regulatory deadlock. Now, in January 2026, licenses are approved, finally clearing the way for Alabama’s cannabis industry and certified physicians.
+    text: The Darren Wesley Ato Hall Compassion Act stalled for four years during regulatory deadlocks. State regulators finally approved licenses in January 2026 to clear the path for Alabama's cannabis industry.
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T10:07:13.923738Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   go-to-hell-veterans:
+    refined_source: 680ab310d481ddb5dab32e9cd9ac36eda8d9fad980d8a18526075c354ed376f1
     brief: |-
       THE CONFLICT:
       *   2020: Ed Oliver clashed with ADVA Commissioner Kent Davis over COVID-era protocol at Bill Nichols State Veterans Home in Alexander City.
@@ -91,10 +143,12 @@ hooks:
       *   Alexander City
       *   Bill Nichols State Veterans Home
     llm_text: ADVA Commissioner Kent Davis filed an ethics complaint against MDH Director Kimberly Boswell over alleged $7M ARPA fund diversion. Opponents view the recent State Senate restructuring legislation as retaliation, revealing deep conflict before Alabama's medical cannabis program.
+    text: Commissioner Kent Davis filed an ethics complaint against Kimberly Boswell over missing federal funds. Lawmakers viewed recent Senate restructuring as political retaliation before the state cannabis program launched.
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T10:08:32.394776Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   red-lips-award:
+    refined_source: c5bec2a64863375f82bf80adb469b94d36bd82aa593085cc6239ccc02608683b
     brief: |-
       THE CONFLICT:
       *   In 2024, ADVA Commissioner Admiral Kent Davis filed an ethics complaint against Department of Mental Health Director Kimberly Boswell.
@@ -120,58 +174,20 @@ hooks:
       *   Darren Wesley “Ato” Hall
       *   Alabama Medical Cannabis Commission (AMCC)
       *   Montgomery, Ala.
-    llm_text: Kimberly Boswell allegedly blocked $7 million for ADVA, while Tom Albritton took $120k from the Mabel Amos Trust. Alabama ranks 50th for corruption—how will this history shape the new Darren Wesley “Ato” Hall medical cannabis law?
+    llm_text: Kimberly Boswell blocked $7 million for ADVA, while Tom Albritton took $120k from the Mabel Amos Trust. Alabama ranks 50th for corruption—how will this history shape the new Darren Wesley “Ato” Hall medical cannabis law?
+    text: Kimberly Boswell blocked funding for veterans while Tom Albritton took money from a state trust. Alabama ranks near the bottom for public corruption as new cannabis laws take effect.
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T10:05:15.236686Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   veterans-rally:
+    refined_source: 5b6dc653e450ba86213746781bcf1ca4c4166769a664e1e077b0996eb5fae0cf
     brief: |-
       THE CONFLICT: No specific names, dates, or events provided in Article 2. Article 2 is titled "VETERANS RALLY" and shows the Alabama State House.
       THE DISCOVERY: Article 2 provides historical background, but no factual data is available in the provided text to support a specific discovery related to cannabis licensing.
       THE PIVOT: The provided content lacks the factual "smoking gun" connection between a Veterans Rally and the 2026 medical cannabis program implementation.
       KEY ENTITIES: Darren Wesley “Ato” Hall; Alabama Medical Cannabis Commission (AMCC); Alabama Board of Medical Examiners & Medical Licensure Commission; Montgomery, Ala.
     llm_text: Darren Wesley “Ato” Hall led a veterans rally at the Alabama State House in Montgomery. Does this powerful movement truly influence the 2026 Alabama Medical Cannabis Commission (AMCC) program?
+    text: Darren Wesley Ato Hall led a veterans rally at the Alabama State House in Montgomery. Veterans demand that this powerful movement influence the Alabama Medical Cannabis Commission program.
     widget_date: "2025-02-23"
     generated_at: "2026-11-06T10:09:39.925777Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  war:
-    brief: |-
-      THE CONFLICT: Governor "poison Ivy" sought to strip veterans representation by changing the Veterans Board to an advisory position under a cabinet director (Director of Veterans Affairs).
-      THE DISCOVERY: The state of Alabama was perceived as corrupt and vindictive, with the attempt being framed as retaliation against the current veterans board.
-      THE PIVOT: The history of political conflict and alleged executive overreach by Governor "poison Ivy" establishes the political climate under which the highly regulated, phased implementation of the Darren Wesley "Ato" Hall Compassion Act (medical cannabis) took place.
-      KEY ENTITIES: Governor "poison Ivy," Admiral Kent Davis, Darren Wesley "Ato" Hall, Alabama Medical Cannabis Commission (AMCC), Chey Lindsey Garrigan, Alabama Cannabis Industry Association 501C6.
-    llm_text: Governor "poison Ivy" attempted to strip veterans representation by changing the Veterans Board to an advisory role. Learn how this political climate shaped the highly regulated rollout of the Darren Wesley "Ato" Hall Compassion Act.
-    widget_date: "2025-02-22"
-    generated_at: "2026-11-06T10:10:51.464331Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  4-20:
-    brief: |-
-      THE CONFLICT:
-      *   April 20, 2010: Deepwater Horizon/BP Oil Spill occurred in the Gulf of Mexico, releasing 210,000,000 US gallons of oil.
-      *   May 8, 2010: Alabama Governor Bob Riley appointed State Senator Tripp Pittman as "trustee" for disaster relief funds in Baldwin County.
-      *   May 3, 2010: Pittman planned to submit a personal contract for the entrusted funds, coordinated with the Mayor of Fairhope.
-
-      THE DISCOVERY:
-      *   The Alabama Cannabis Association released a press release on 4/20, linking the cannabis culture date to the 2010 oil spill.
-      *   Tripp Pittman has attempted to move into roles like Hemp lobbyist and farmer.
-      *   Pittman, Fairhope City Council, and CATALYST backed Bill “lowtower” for the July 14, 2020, First Congressional seat runoff.
-
-      THE PIVOT:
-      *   Article 2 establishes Tripp Pittman's history of self-enrichment and alleged unethical behavior regarding state funds (2010).
-      *   Article 1 (January 22, 2026) details the implementation of medical cannabis under the Darren Wesley “Ato” Hall Compassion Act, placing oversight with the Alabama Medical Cannabis Commission (AMCC).
-      *   Pittman's historical financial conflicts provide a context for scrutinizing the current regulatory landscape and the involvement of figures in the growing Alabama cannabis industry.
-
-      KEY ENTITIES:
-      *   Tripp Pittman (Former State Senator)
-      *   Governor Bob Riley
-      *   BP
-      *   Fairhope City Council
-      *   Alabama Cannabis Association
-      *   Darren Wesley “Ato” Hall
-      *   Alabama Medical Cannabis Commission (AMCC)
-      *   Bill “lowtower”
-      *   Baldwin County
-    llm_text: Tripp Pittman allegedly planned a personal contract for disaster relief funds following the 2010 BP oil spill in Baldwin County. See how his history of self-enrichment provides critical context for scrutinizing Alabama's current medical cannabis industry and the AMCC.
-    widget_date: "2020-04-20"
-    generated_at: "2026-11-06T10:12:15.175832Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

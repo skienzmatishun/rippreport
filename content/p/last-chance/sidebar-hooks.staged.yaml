@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   catalyst-eat-their-own:
+    refined_source: 2680bcf0ccca1f118c3da2df5088f4997ab06ed2a5d6623d1efede209f7c599c
     brief: |-
       THE CONFLICT:
       *   2017: Jennifer Fidler and Sherry Sullivan were fired from Fairhope city posts by Mayor Karen Wilson.
@@ -20,7 +21,7 @@ hooks:
 
       THE PIVOT:
       *   Article 2 establishes the historical foundation and deep entrenchment of the "CATALYST" political group in Fairhope/Baldwin County.
-      *   This history proves that the corruption mentioned in Article 1 (fixed bids, fraud lawsuits, judicial shenanigans) is systemic and long-standing, not isolated.
+      *   This history shows that the corruption mentioned in Article 1 (fixed bids, fraud lawsuits, judicial shenanigans) is systemic and long-standing, not isolated.
       *   It connects the historical actions of Catalyst members to current political conflicts in Baldwin County (elections).
 
       KEY ENTITIES:
@@ -38,20 +39,24 @@ hooks:
       *   Baldwin County
       *   Fairhope
     llm_text: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan in 2017, yet these "CATALYST true bloods" now dominate Fairhope policy. Councilmen Kevin Boone and Jack Burrell aided their rise, proving Baldwin County corruption is systemic, not an isolated incident.
+    text: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan in 2017, but those officials now control Fairhope policy. Councilmen Kevin Boone and Jack Burrell aided their return to power.
     widget_date: "2022-05-20"
     generated_at: "2026-11-06T23:15:27.282200Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stinky-business:
+    refined_source: 7934fab1578f5544067ce68f73ea70a9bf20af9111669fef70c0f90d5b660fa6
     brief: |-
       THE CONFLICT: Corruption, including fixed bids, fraud lawsuits, and judicial shenanigans, is common in Baldwin County’s Judiciary and 14 municipal governments, costing taxpayers millions.
       THE DISCOVERY: Baldwin County Sewer Services (BCSS) is a private, unregulated utility in Alabama, and the County commission refused to regulate it, leading to rate hikes and expansion of development sprawl.
       THE PIVOT: BCSS's documented involvement in land and business fraud lawsuits (Article 2) provides a specific, tangible example of the systemic corruption and fraud mentioned generally in the primary election context (Article 1).
       KEY ENTITIES: Baldwin County; BCSS (Baldwin County Sewer Services); Catalyst (Scott Boone Consulting); Matt McKenzie; Johnathan Armstrong; Jeb Ball; Steve Carey; Tucker Dorsey; Joe Faust; ADEM; Thursday, May 19.
-    llm_text: Baldwin County's unregulated BCSS drove rate hikes and development sprawl, fueling land and business fraud lawsuits. Discover how systemic corruption impacts your tax dollars, linking utility issues to the county's broader judicial conflicts.
+    llm_text: Baldwin County's unregulated BCSS drove rate hikes and development sprawl, fueling land and business fraud lawsuits. Read how systemic corruption impacts your tax dollars, linking utility issues to the county's broader judicial conflicts.
+    text: Unregulated utility rates drove rapid development and sparked multiple fraud lawsuits across the county. Read how institutional corruption links local water rate hikes to county legal battles.
     widget_date: "2022-05-19"
     generated_at: "2026-11-06T23:17:34.669394Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shooting-yourself-in-the-foot:
+    refined_source: 8aeafc62c8834a751d384c40431d23485a160eb7b703cfd8c44c3008208fa4f5
     brief: |-
       THE CONFLICT:
       *   In 2007, Baldwin Substance Abuse Services Inc. (BSAS) was founded through the District Attorney’s office by Judge Michell Thomason and other Judges/Lawyers.
@@ -79,20 +84,24 @@ hooks:
       *   2007
       *   Baldwin County
     llm_text: Jeb Ball earned a double paycheck from BSAS, a no-bid contract founded by Baldwin County judges in 2007. This shared business interest means commissioners Johnathan Armstrong and Jeb Ball could form a 50% lock vote, directly affecting local citizens.
+    text: Jeb Ball collected a double paycheck from BSAS, a no-bid contract created by county judges. Commissioners Johnathan Armstrong and Jeb Ball hold enough votes to control local policy.
     widget_date: "2022-05-17"
     generated_at: "2026-11-06T23:18:45.745255Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   roll-of-the-dice:
+    refined_source: 37e4890fe13f85712388de51b71d829da928adce7f28d80a4bbe7fd5b29f148a
     brief: |-
       THE CONFLICT: Alabama has discussed implementing a state lottery for over 20 years, while surrounding states collect lottery income from Alabamians traveling over state lines.
       THE DISCOVERY: A December 2020 report projected gaming (lottery, casinos, sportsbook) could boost state revenue by approximately $710 million annually; LSA estimated $272 million to $358 million annually for a lottery alone, intended to fund higher education scholarships.
       THE PIVOT: Article 1 details systemic corruption (fixed bids, judicial shenanigans) in Baldwin County's 14 municipal governments and Judiciary, costing taxpayers millions; Article 2 provides context on massive, untapped state revenue ($272M+) that could mitigate local financial mismanagement and fund public goods.
       KEY ENTITIES: Baldwin County, Catalyst (Scott Boone Consulting), Matt McKenzie, Johnathan Armstrong, Steve Carey, Tucker Dorsey, Jeb Ball, Fidler, Alabama Legislative Services Agency (LSA).
     llm_text: Baldwin County corruption is costing taxpayers millions through fixed bids and judicial shenanigans. With a $272M+ lottery potential, Alabama could fund higher education scholarships and mitigate local financial mismanagement.
+    text: County corruption wastes taxpayer funds through fixed bids and legal maneuvers every single year. A massive state lottery could fund student scholarships and fix local budget shortfalls.
     widget_date: "2022-03-04"
     generated_at: "2026-11-06T23:19:41.694498Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-yes-today:
+    refined_source: 74c0b8c523f143695cd1efeff615a9e41c826e642d61949edc7c417cdeeafeca
     brief: |-
       THE CONFLICT:
       *   Baldwin County history includes a "good ole boy mentality" and common corruption in the Judiciary and 14 municipal governments.
@@ -117,10 +126,12 @@ hooks:
       *   County Commission District two
       *   District Zoning 8
     llm_text: Baldwin County corruption runs deep, fueling "good ole boy" mentality across 14 municipalities. District Zoning 8 offers a chance to fight this system; vote YES today to challenge Catalyst's influence.
+    text: Political corruption runs deep across all fourteen municipalities in Baldwin County. Vote yes on District Zoning 8 to challenge the Catalyst network and demand public accountability.
     widget_date: "2022-02-15"
     generated_at: "2026-11-06T23:16:34.828005Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   make-8-great:
+    refined_source: 43cd373e83afec22881ddb5cc445fad6a5e82306b3d5c6fe38e7362db7a4a827
     brief: |-
       THE CONFLICT:
       *   Fairhope maintained a policy of annexing property only upon request, which was used to avoid the annexation of the African American community.
@@ -146,20 +157,24 @@ hooks:
       *   Fairhope
       *   Planning District 8
     llm_text: Fairhope used Planning District 8 annexation rules to systematically exclude the African American community. This "good ole boy mentality," exemplified by Jack Burrell's $2.6 million farmland deal, plagues Baldwin County's 14 municipal governments.
+    text: Fairhope used Planning District 8 rules to exclude the African American community from town limits. Jack Burrell capitalized on that mindset with a 2.6 million dollar farmland purchase.
     widget_date: "2021-10-16"
     generated_at: "2026-11-06T23:20:45.596720Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   i-quit:
+    refined_source: 1b383b28fde56ddf21ca1a50807fa63365d3cbf0f4286a9745b0427b3f588ab9
     brief: |-
       THE CONFLICT: Robert Brown quit the Fairhope City Council after only 5 months (2016/2020 cycle) without notice.
       THE DISCOVERY: Council President Jack Burrell admitted awareness of Brown’s potential departure; Brown recommended Jay Robinson, a non-candidate, suggesting a fixed outcome under the direction of CSB/Catalyst.
       THE PIVOT: Article 2 establishes Catalyst/CSB's historical pattern of influencing and manipulating local government outcomes (Fairhope) for developer interests, providing context for the systemic corruption and fixed elections alleged in Baldwin County (Article 1).
       KEY ENTITIES: Robert Brown, Jack Burrell, Jay Robinson, CSB (Scott Boone Consulting), Catalyst, Matt McKenzie, Johnathan Armstrong, Steve Carey, Tucker Dorsey, Jeb Ball, Joe Faust.
-    llm_text: Robert Brown quit the Fairhope City Council after just five months, yet Council President Jack Burrell knew about his departure. Brown allegedly pushed non-candidate Jay Robinson, suggesting CSB/Catalyst fixed the outcome for powerful developer interests.
+    llm_text: Robert Brown quit the Fairhope City Council after just five months, yet Council President Jack Burrell knew about his departure. Brown pushed non-candidate Jay Robinson, suggesting CSB/Catalyst fixed the outcome for powerful developer interests.
+    text: Robert Brown quit the Fairhope City Council after just five months in office. Council President Jack Burrell knew about the departure and pushed developer-backed candidates.
     widget_date: "2021-02-26"
     generated_at: "2026-11-06T23:21:52.062767Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   two-for-tuesday-two-hat-turner:
+    refined_source: e8d399fbebab9dae346c5e30ff200e5cf59d1204482faeb56bc597917e4d364e
     brief: |-
       THE CONFLICT:
       1. Primary results from June 3, 2014, indicated the power structure prescribed by Lynn Stacy remained intact in Baldwin County.
@@ -187,6 +202,7 @@ hooks:
       9. Baldwin County
       10. Ethics Commission (mentioned as corrupt in Article 1)
     llm_text: Lynn Stacy's power structure and Lee "Two Hats" Turner's dual role fueled institutional misuse in Fairhope. Learn how the $12 million Dyas settlement and closed FSTC meetings created the corruption now facing candidates like Johnathan Armstrong.
+    text: Lynn Stacy and Lee Turner concentrated local power to misuse public funds in Fairhope. The 12 million dollar Dyas settlement and closed meetings created the corruption candidates face today.
     widget_date: "2014-06-10"
     generated_at: "2026-11-06T23:23:08.304743Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

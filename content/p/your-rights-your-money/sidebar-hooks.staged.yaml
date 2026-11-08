@@ -1,0 +1,116 @@
+metadata:
+  generated_at: "2026-11-07T04:53:47.530568Z"
+  generator_version: 1.0.0
+  post_slug: your-rights-your-money
+  main_date: "2021-09-27"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fauxhope:
+    refined_source: 5b5abc240dd848d64a7e99330bcb9279a73b080504344a7b91b090a09f07a353
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope secured a $6.2 million federal grant for waterfront improvements, with initial requirements (explained by then Mayor Wilson) mandating ADA compliance.
+      *   The City of Fairhope purchased the K-1 Center and surrounding property from the Baldwin County Board of Education in 2019 for $2.5 million.
+      *   Council President Burrell later eliminated the swim area and rock jetties for aesthetic preference, despite the grant requirement for ADA access.
+
+      THE DISCOVERY:
+      *   Fairhope municipal government exhibits staggering waste of taxpayer money and prioritizes developers over public interest (e.g., Burrell’s $250,000 land purchase saving $750,000 in dirt costs).
+      *   The council wasted almost a year trying to circumvent ADA compliance for the waterfront project.
+      *   The Alabama legislature moved municipal elections forward by one year, leading to voter disenfranchisement in Fairhope.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of localized financial mismanagement, developer favoritism, and misuse of public funds within Baldwin County municipalities (Fairhope).
+      *   This pattern mirrors the systemic corruption and lack of transparency detailed in Article 1, where Baldwin County Sheriff Huey Mack (BCSO) is insulated from accountability by the Alabama Supreme Court.
+
+      KEY ENTITIES:
+      *   Huey Mack (Baldwin County Sheriff)
+      *   BCSO
+      *   Alabama Supreme Court (Chief Justice Tom Parker)
+      *   Tom Albritton (Ethics Commission Executive Director)
+      *   Judge Ben Bowden
+      *   Tripp Pittman
+      *   Mayor Wilson (Fairhope)
+      *   Mayor Sherry Sullivan (Fairhope)
+      *   Council President Burrell (Fairhope)
+      *   Jay Robinson (Fairhope Councilman)
+      *   Baldwin County Board of Education (2019)
+      *   Fairhope City Council
+      *   Ethics Commission
+      *   $662,597.00 (BCSO body camera expenditure)
+      *   $6.2 million (Fairhope waterfront grant)
+    llm_text: Fairhope secured a $6.2 million waterfront grant, yet Council President Burrell eliminated required ADA compliance for aesthetic preference. This local waste mirrors the systemic corruption shielding Sheriff Huey Mack from accountability.
+    text: Fairhope secured a $6.2 million waterfront grant, but Council President Jack Burrell cut required ADA rules to improve the view. Who benefits when local leaders ignore the law for aesthetic choices?
+    widget_date: "2021-09-24"
+    generated_at: "2026-11-07T04:50:37.698212Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  star:
+    refined_source: d50fad4cba6d49cb9db27a864e0e6740202b0323d37e13aee87d59219d6c1e2c
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County Sheriff Huey Mack developed standards included in Senate Bill 312, with assistance from former State Senator Tripp Pittman, who stole $750,000 of BP money.
+      *   The Alabama Supreme Court insulated the Baldwin County Sheriff Department (BCSO) from transparency and accountability.
+      *   The Supreme Court rejected a request from Lagniappe in Mobile for public details regarding a 2017 traffic stop and fatal shooting involving BCSO.
+      *   The Ethics Commission allowed Tom Albritton, Executive Director, and his associates to fleece the Mabel Amos Memorial Foundation, awarding $45,000 to SMU between 2014 and 2017, benefiting Covington County Circuit Court Judge Ben Bowden’s child.
+
+      THE DISCOVERY:
+      *   Alabama State Auditor Jim Zeigler announced intent to challenge Governor Kay Ivey for the Republican nomination.
+      *   The City of Fairhope entered a consent agreement with ADEM regarding its waste water treatment collection system and plant effluent outfall near Public Beach.
+
+      THE PIVOT:
+      *   The historical context of state political challenges (Zeigler vs. Ivey) and regulatory oversight (Fairhope ADEM agreement) exists alongside the specific failure of state institutions (Alabama Supreme Court and Ethics Commission) to enforce accountability at the local level in Baldwin County, allowing BCSO to legally withhold taxpayer-funded camera footage ($662,597 expenditure).
+
+      KEY ENTITIES:
+      *   Huey Mack (Baldwin County Sheriff)
+      *   Tripp Pittman
+      *   Chief Justice Tom Parker
+      *   Tom Albritton
+      *   Ben Bowden (Covington County Circuit Court Judge)
+      *   Don Sigleman
+      *   Judge Thomasson
+      *   Jim Zeigler (State Auditor)
+      *   Kay Ivey (Governor)
+      *   Lagniappe (Mobile)
+      *   BCSO
+      *   ADEM
+      *   Alabama Supreme Court
+      *   Mabel Amos Memorial Foundation
+      *   Fairhope
+    llm_text: Baldwin County Sheriff Huey Mack uses the Alabama Supreme Court to hide $662,597 in taxpayer-funded video footage. This lack of accountability mirrors how Tom Albritton benefited Judge Ben Bowden's child using Mabel Amos Foundation funds.
+    text: Baldwin County Sheriff Huey Mack uses the state supreme court to hide $662,597 in taxpayer-funded video footage. This lack of transparency matches Tom Albritton funneling foundation money to Judge Ben Bowden's child.
+    widget_date: "2021-09-23"
+    generated_at: "2026-11-07T04:52:08.211120Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  non-lethal:
+    refined_source: e921180d3f05a116a4714e3af4225207f5a1c2c8a0e32f72c887563de581a356
+    brief: |-
+      THE CONFLICT:
+      *   May 2017: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in Baldwin County.
+      *   During a deposition, Sheriff Hoss Mack stated that in May 2017, BCSO lacked a crisis intervention team and deputies were untrained in de-escalation techniques.
+      *   Article 2 (published January 19, 2021) noted that BCSO prioritized lethal military weapons over non-lethal weapons.
+
+      THE DISCOVERY:
+      *   The Baldwin County Sheriff’s Office (BCSO) refused to turn over critical body camera and vehicle footage in the Johnathan Victor case, forcing Lagniappe to take legal action.
+      *   The Alabama Supreme Court later ruled to hide from public eye "any materials related to a particular investigation" and "items of substantive evidence" (video recordings, documentary evidence).
+
+      THE PIVOT:
+      *   The $662,597.00 expenditure for 129 body cameras/technology was approved by the County Commission to further transparency and accountability in BCSO.
+      *   The subsequent Alabama Supreme Court decision legally allows BCSO to refuse to produce this taxpayer-funded camera footage or any investigative material, negating the intended purpose of the expenditure detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Huey Hoss Mack (Baldwin County Sheriff)
+      *   Johnathan Victor
+      *   BCSO (Baldwin County Sheriff Department)
+      *   Lagniappe
+      *   Alabama Supreme Court (Chief Justice Tom Parker)
+      *   Tripp Pittman (then State Senator, stole $750,000 of BP money)
+      *   Tom Albritton (Ethics Commission Director)
+      *   Mabel Amos Memorial Foundation ($45,000 awarded 2014-2017)
+      *   Ben Bowden (Covington County Circuit Court Judge)
+      *   Don Sigleman
+      *   Judge Thomasson
+      *   Alabama Ethics Commission
+    llm_text: BCSO spent $662,597 on 129 body cameras after Johnathan Victor was shot in 2017. Now the Alabama Supreme Court rules BCSO can hide critical footage, negating accountability despite taxpayer investment.
+    text: The Baldwin County Sheriff's Office spent $662,597 on 129 body cameras after deputies shot Johnathan Victor in 2017. Now the state supreme court lets the sheriff hide that exact footage from the public.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-07T04:53:32.736375Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

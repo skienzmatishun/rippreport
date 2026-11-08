@@ -5,7 +5,35 @@ metadata:
   main_date: "2024-08-02"
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
+  the-pete-rose:
+    refined_source: 5f9a6a38efc10afc8dfc6ad8de0446d6c2bf998c6d7cce7156e21fb64f56e540
+    brief: |-
+      THE CONFLICT: OJ French Jr. lawsuit filed in Federal Court on July 31, 2024, against City of Bay Minette and Officer Brandon Thompson; allegation that Officer Thompson lacked probable cause and shot French during a taser struggle.
+      THE DISCOVERY: A reward is offered for information regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama, which occurred on May 27, 2022, with the body recovered on May 29, 2022.
+      THE PIVOT: Both articles highlight unresolved deaths and ongoing legal/investigative struggles involving local law enforcement in Baldwin/Orange Beach County, Alabama.
+      KEY ENTITIES: OJ French Jr, Brandon Thompson, Robert Bob Wills, Anthony Lowery, Matt McKenzie, Thomas Daniel "Danny" Williams Jr, Mayor Robert Bob Wills, Bay Minette, Baldwin County, Orange Beach.
+    llm_text: OJ French Jr sued Officer Brandon Thompson in federal court, alleging a lack of probable cause during a taser struggle. The unresolved death of Thomas Daniel "Danny" Williams Jr in Orange Beach also seeks witnesses through a reward.
+    text: OJ French Jr. sued Officer Brandon Thompson in federal court over a lack of probable cause. Meanwhile, investigators offer a reward for witnesses in the unsolved death of Thomas Daniel Williams Jr. in Orange Beach.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T16:34:31.667248Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 57427c36916324b43a44313442aea2df9ff9266fb1db2c7be58bcd868f3e0774
+    brief: |-
+      THE CONFLICT: On July 31, 2024, the family of OJ French Jr., the Bay Minette Justice League, and May Jung LLC announced a federal lawsuit against the City of Bay Minette and Officer Brandon Thompson. The lawsuit alleges Officer Thompson killed OJ French Jr. during a struggle over a taser following a stop lacking probable cause. Allegations were made that Mayor Robert Bob Wills misrepresented the family's desire to end discussions regarding the investigation. Additionally, the Sheriff announced a mid-August resignation, triggering a succession struggle between Chief Deputy Anthony Lowery and County Commissioner Matt McKenzie.
+
+      THE DISCOVERY: The Baldwin County Sheriff’s Department has officially transitioned to a new Command Staff.
+
+      THE PIVOT: The implementation of a new Command Staff serves as a critical update to the leadership vacuum described in the first article, indicating that departmental restructuring is proceeding while the legal fallout from the French shooting and the political battle for the Sheriff’s seat remain unresolved.
+
+      KEY ENTITIES: OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Governor Ivey, City of Bay Minette, Baldwin County Sheriff’s Department.
+    llm_text: While the lawsuit involving OJ French Jr., Officer Brandon Thompson, and Mayor Robert Bob Wills grips Bay Minette, the Baldwin County Sheriff’s Department is installing a new Command Staff. See how this leadership shift impacts the county as the battle for the Sheriff’s seat intensifies.
+    text: Bay Minette faces a major lawsuit involving OJ French Jr., Officer Brandon Thompson, and Mayor Robert Bob Wills. The Baldwin County Sheriff's Department installs new command staff as the race for sheriff heats up.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T16:32:36.739749Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
   the-crime-of-the-century:
+    refined_source: e9aba2d832bd207a90ff17d4618dfcfafd9bfef0c44d5c26e0a1e91fbd8fa205
     brief: |-
       THE CONFLICT:
       - Event: Shooting death of OJ French Jr. by Bay Minette Police Officer Brandon Thompson.
@@ -31,20 +59,92 @@ hooks:
       - Kay Ivey (Governor of Alabama)
       - Kent Davis (Admiral)
     llm_text: The family of OJ French Jr. fights for justice after Officer Brandon Thompson shot him in Bay Minette, despite Mayor Robert Bob Wills’ claims the family accepted the outcome. This lawsuit hits a critical battlefield as new legal precedents begin shielding officers from accountability.
+    text: Officer Brandon Thompson shot OJ French Jr. in Bay Minette, but Mayor Robert Bob Wills claimed the family accepted the outcome. New legal precedents now shield law enforcement officers from accountability.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T16:29:20.029423Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: ec9682af649387b264093a67892f1aee44e5596e2ff8f0a4b9e273c625c367cb
+    brief: |-
+      THE CONFLICT: Family of OJ French Jr. filed a Federal Court lawsuit on July 31, 2024, against City of Bay Minette and Officer Brandon Thompson, alleging lack of probable cause and lethal escalation during a taser struggle.
+      THE DISCOVERY: Backstory Podcast No. 186 (newer) covers general Alabama issues including closing of rural hospitals and changes to hunting seasons, but provides no legal update regarding the French lawsuit.
+      THE PIVOT: Article 2 does not act as a 'smoking gun' or legal update for Article 1; the only connection is the shared regional political and social context of Alabama discussed in both articles.
+      KEY ENTITIES: OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, Sheriff Mack, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Governor Ivey.
+    llm_text: OJ French Jr.'s family sued City of Bay Minette and Officer Brandon Thompson, alleging lethal escalation during a taser struggle. This lawsuit highlights serious regional justice issues in Alabama, connecting local politics from Mayor Robert Bob Wills to Governor Ivey.
+    text: The family of OJ French Jr. sued the City of Bay Minette and Officer Brandon Thompson over a taser struggle. This lawsuit connects local politics from Mayor Robert Bob Wills to Governor Kay Ivey.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T16:30:55.631365Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 5a828df18e41886739f1155063d4e440c2121b77fdba3a8d9dbf287a6e6e9d6d
+    brief: |-
+      THE CONFLICT:
+      - Death of OJ French Jr. following a confrontation with Bay Minette Police Officer Brandon Thompson.
+      - Allegations: Officer Thompson lacked probable cause for a stop, escalated the situation, and a struggle over a taser resulted in a fatal shooting.
+      - July 31, 2024: The OJ French Jr. family, the Bay Minette Justice League, and May Jung LLC held a rally announcing a Federal Court lawsuit against the City of Bay Minette and Officer Thompson.
+      - Dispute: Mayor Robert Bob Wills claimed the family was "ok with the outcome" of the investigation; the family states this is untrue and that Wills lied about speaking for them.
+
+      THE DISCOVERY:
+      - Mobile Attorney Andy Ruten is representing the City of Bay Minette in the OJ French Jr. lawsuit.
+      - Ruten is requesting the Judge review the officer's bodycam footage privately while simultaneously fighting to prevent its release to the public.
+      - Ruten’s law firm has hired Mayor Robert Bob Wills to represent them in a separate malpractice lawsuit.
+
+      THE PIVOT:
+      - Article 2 establishes a professional nexus between the City's legal defense (Ruten) and the Mayor (Wills) who is accused of misrepresenting the victim's family. This connects the Mayor's alleged dishonesty to the legal strategy used to keep evidence (bodycam footage) hidden from the public.
+
+      KEY ENTITIES:
+      - OJ French Jr. (Victim)
+      - Brandon Thompson (BMPD Officer)
+      - Robert Bob Wills (Mayor of Bay Minette)
+      - Andy Ruten (Mobile Attorney)
+      - May Jung LLC (Legal Counsel for the French Family)
+      - City of Bay Minette
+      - Anthony Lowery (Chief Deputy)
+      - Matt McKenzie (County Commissioner)
+      - Governor Ivey
+    llm_text: Attorney Andy Ruten fights to hide Officer Brandon Thompson's bodycam footage from the public in the OJ French Jr. lawsuit. The plot thickens as Ruten’s law firm also employs Mayor Robert Bob Wills, the official who lied about the victim's family's reaction.
+    text: Attorney Andy Ruten fights to hide Officer Brandon Thompson's body camera footage in the OJ French Jr. lawsuit. Ruten's law firm also employs Mayor Robert Bob Wills, who lied about the victim's family.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T16:30:46.148790Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  the-180:
+    refined_source: 77ea65b23df40b7254e3f0515ee8caa0d45df6472134d509596f5d4d113c72d9
+    brief: |-
+      THE CONFLICT: OJ French Jr's family filed a lawsuit on July 31, 2024, against the City of Bay Minette and Officer Brandon Thompson over the fatal shooting of French Jr by Thompson. Sheriff Mack announced his resignation mid-July, set to be effective mid-August.
+      THE DISCOVERY: Governor Ivey is currently selecting a replacement for Sheriff Mack in Baldwin County, with Sheriff Mack having only one week remaining in office.
+      THE PIVOT: Article 2 provides the immediate, current context for the power vacuum identified in Article 1, making the Governor's selection crucial to the ongoing political and law enforcement conflict in Baldwin County.
+      KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Sheriff Mack, Mayor Robert Bob Wills, Governor Ivey, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Bay Minette.
+    llm_text: OJ French Jr's lawsuit against Officer Brandon Thompson fuels a critical power vacuum in Baldwin County. Governor Ivey must choose a new Sheriff Mack replacement within one week before the mid-August deadline.
+    text: The lawsuit filed by OJ French Jr. against Officer Brandon Thompson creates a power vacuum in Baldwin County. Governor Kay Ivey must name a replacement for Sheriff Hoss Mack before the August deadline.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T16:35:32.006179Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-at-the-po-po:
+    refined_source: b8382f963d7bc139bead7ff86eefff954d5b47b22b4349a15c7288e45bb017ba
+    brief: |-
+      THE CONFLICT: A murder for hire complaint in Choctaw County Alabama was forwarded by the AG Marshall to the local Sheriff in June 2024 because the Sheriff had a family connection to one of the alleged participants.
+      THE DISCOVERY: The June 20, 2024 article revealed internal corruption within the Sheriff's Department, including accusations against Captain Andre Reid (Commander of the Major Crimes Unit), federal investigations into evidence held by Baldwin County Sheriff's Deputies (OCDEFT), and the existence of a "Sheriff's Circle of Protection."
+      THE PIVOT: The July 31, 2024 lawsuit filed by the French Family against Officer Brandon Thompson and City of Bay Minette is not an isolated incident but occurs within a documented environment of systemic police misconduct, internal corruption, and political cover-ups in Baldwin County, as revealed in the June 2024 report.
+      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Captain Andre Reid, AG Marshall, Baldwin County, City of Bay Minette.
+    llm_text: A Choctaw County murder complaint faced delays because the local Sheriff had family ties. The French Family lawsuit against Brandon Thompson exposes systemic corruption involving Captain Andre Reid and the documented "Sheriff's Circle of Protection."
+    text: A Choctaw County murder complaint stalled because the local Sheriff protected family members. The French family lawsuit exposes Captain Andre Reid and a documented Sheriff's circle of protection.
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T16:36:49.932844Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: fa2dc607bed3d96753302d082eda9d7a8d089f131ee1d7de470f1e6e90aee506
     brief: |-
       THE CONFLICT: Lawsuit filed on July 31, 2024, by the Family of OJ French Jr, Bay Minette Justice League, and May Jung LLC against the City of Bay Minette and Officer Brandon Thompson. Allegation: Thompson shot OJ French Jr during a taser struggle, lacking probable cause.
       THE DISCOVERY: Law enforcement mishaps are shown to lack accountability, and lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
       THE PIVOT: Article 2 contextualizes Article 1 by framing the lack of accountability in the French case as part of a wider systemic issue of corruption, political ties, and state overreach, rather than an isolated incident.
       KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Mayor Robert Bob Wills, Sheriff, Chief Deputy Anthony Lowery, Matt McKenzie, Governor Ivey, Bay Minette.
     llm_text: OJ French Jr sued the City of Bay Minette after Officer Brandon Thompson shot him during a taser struggle, lacking probable cause. This incident proves local accountability fails as Governor Ivey pushes state leaders to strip local control and handpick police chiefs.
+    text: Officer Brandon Thompson shot OJ French Jr. during a taser struggle without probable cause. Governor Kay Ivey pushes to strip local control and handpick police chiefs while accountability fails.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T16:29:41.620572Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 4a71501db861177e447e7635b8bce5a3c97758223f018914df0966f6c801addc
     brief: |-
       THE CONFLICT:
       OJ French Jr family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024, alleging Thompson lacked probable cause and used a taser resulting in death.
@@ -72,10 +172,12 @@ hooks:
       Judge Mark Fuller
       Robert Bob Wills (Mayor)
     llm_text: OJ French Jr sued the City of Bay Minette and Officer Brandon Thompson after a fatal taser incident. This current legal battle connects to Sheriff Mack’s resignation and decades of Baldwin County corruption, including the Murray Lawrence Jr. Brady Violation.
+    text: OJ French Jr. sued Bay Minette and Officer Brandon Thompson after a violent taser incident. This legal battle connects to Sheriff Hoss Mack's resignation and the Murray Lawrence Jr. Brady violation.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T16:31:45.884969Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: 7c50111e5adf0ffa265c6c7fc9dbfc7f2e817ec33e56dfd1e8ef0eb32a6c0317
     brief: |-
       THE CONFLICT: OJ French Jr's family (including Bay Minette Justice League and May Jung LLC) filed a Federal Court lawsuit on July 31, 2024, against the City of Bay Minette and Officer Brandon Thompson. The suit alleged Officer Thompson lacked probable cause during a stop and shot French Jr during a struggle over a taser, resulting in death.
 
@@ -85,89 +187,7 @@ hooks:
 
       KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, City of Bay Minette, May Jung LLC, Sheriff Mack.
     llm_text: OJ French Jr sued the City of Bay Minette over Officer Brandon Thompson's alleged lack of probable cause. Tune into the podcast to understand how local corruption connects to this wrongful arrest and systemic issues facing Bay Minette.
+    text: OJ French Jr. sued the City of Bay Minette because Officer Brandon Thompson lacked probable cause. Listen to the podcast to discover how local corruption fueled this wrongful arrest.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T16:33:07.508508Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Family of OJ French Jr. filed a Federal Court lawsuit on July 31, 2024, against City of Bay Minette and Officer Brandon Thompson, alleging lack of probable cause and lethal escalation during a taser struggle.
-      THE DISCOVERY: Backstory Podcast No. 186 (newer) covers general Alabama issues including closing of rural hospitals and changes to hunting seasons, but provides no legal update regarding the French lawsuit.
-      THE PIVOT: Article 2 does not act as a 'smoking gun' or legal update for Article 1; the only connection is the shared regional political and social context of Alabama discussed in both articles.
-      KEY ENTITIES: OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, Sheriff Mack, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Governor Ivey.
-    llm_text: OJ French Jr.'s family sued City of Bay Minette and Officer Brandon Thompson, alleging lethal escalation during a taser struggle. This lawsuit highlights serious regional justice issues in Alabama, connecting local politics from Mayor Robert Bob Wills to Governor Ivey.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T16:30:55.631365Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      - Death of OJ French Jr. following a confrontation with Bay Minette Police Officer Brandon Thompson.
-      - Allegations: Officer Thompson lacked probable cause for a stop, escalated the situation, and a struggle over a taser resulted in a fatal shooting.
-      - July 31, 2024: The OJ French Jr. family, the Bay Minette Justice League, and May Jung LLC held a rally announcing a Federal Court lawsuit against the City of Bay Minette and Officer Thompson.
-      - Dispute: Mayor Robert Bob Wills claimed the family was "ok with the outcome" of the investigation; the family states this is untrue and that Wills lied about speaking for them.
-
-      THE DISCOVERY:
-      - Mobile Attorney Andy Ruten is representing the City of Bay Minette in the OJ French Jr. lawsuit.
-      - Ruten is requesting the Judge review the officer's bodycam footage privately while simultaneously fighting to prevent its release to the public.
-      - Ruten’s law firm has hired Mayor Robert Bob Wills to represent them in a separate malpractice lawsuit.
-
-      THE PIVOT:
-      - Article 2 establishes a professional nexus between the City's legal defense (Ruten) and the Mayor (Wills) who is accused of misrepresenting the victim's family. This connects the Mayor's alleged dishonesty to the legal strategy used to keep evidence (bodycam footage) hidden from the public.
-
-      KEY ENTITIES:
-      - OJ French Jr. (Victim)
-      - Brandon Thompson (BMPD Officer)
-      - Robert Bob Wills (Mayor of Bay Minette)
-      - Andy Ruten (Mobile Attorney)
-      - May Jung LLC (Legal Counsel for the French Family)
-      - City of Bay Minette
-      - Anthony Lowery (Chief Deputy)
-      - Matt McKenzie (County Commissioner)
-      - Governor Ivey
-    llm_text: Attorney Andy Ruten fights to hide Officer Brandon Thompson's bodycam footage from the public in the OJ French Jr. lawsuit. The plot thickens as Ruten’s law firm also employs Mayor Robert Bob Wills, the official who allegedly lied about the victim's family's reaction.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T16:30:46.148790Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: OJ French Jr. lawsuit filed in Federal Court on July 31, 2024, against City of Bay Minette and Officer Brandon Thompson; allegation that Officer Thompson lacked probable cause and shot French during a taser struggle.
-      THE DISCOVERY: A reward is offered for information regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama, which occurred on May 27, 2022, with the body recovered on May 29, 2022.
-      THE PIVOT: Both articles highlight unresolved deaths and ongoing legal/investigative struggles involving local law enforcement in Baldwin/Orange Beach County, Alabama.
-      KEY ENTITIES: OJ French Jr, Brandon Thompson, Robert Bob Wills, Anthony Lowery, Matt McKenzie, Thomas Daniel "Danny" Williams Jr, Mayor Robert Bob Wills, Bay Minette, Baldwin County, Orange Beach.
-    llm_text: OJ French Jr sued Officer Brandon Thompson in federal court, alleging a lack of probable cause during a taser struggle. The unresolved death of Thomas Daniel "Danny" Williams Jr in Orange Beach also seeks witnesses through a reward.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T16:34:31.667248Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT: On July 31, 2024, the family of OJ French Jr., the Bay Minette Justice League, and May Jung LLC announced a federal lawsuit against the City of Bay Minette and Officer Brandon Thompson. The lawsuit alleges Officer Thompson killed OJ French Jr. during a struggle over a taser following a stop lacking probable cause. Allegations were made that Mayor Robert Bob Wills misrepresented the family's desire to end discussions regarding the investigation. Additionally, the Sheriff announced a mid-August resignation, triggering a succession struggle between Chief Deputy Anthony Lowery and County Commissioner Matt McKenzie.
-
-      THE DISCOVERY: The Baldwin County Sheriff’s Department has officially transitioned to a new Command Staff.
-
-      THE PIVOT: The implementation of a new Command Staff serves as a critical update to the leadership vacuum described in the first article, indicating that departmental restructuring is proceeding while the legal fallout from the French shooting and the political battle for the Sheriff’s seat remain unresolved.
-
-      KEY ENTITIES: OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Governor Ivey, City of Bay Minette, Baldwin County Sheriff’s Department.
-    llm_text: While the lawsuit involving OJ French Jr., Officer Brandon Thompson, and Mayor Robert Bob Wills grips Bay Minette, the Baldwin County Sheriff’s Department is installing a new Command Staff. See how this leadership shift impacts the county as the battle for the Sheriff’s seat intensifies.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T16:32:36.739749Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  the-180:
-    brief: |-
-      THE CONFLICT: OJ French Jr's family filed a lawsuit on July 31, 2024, against the City of Bay Minette and Officer Brandon Thompson over the fatal shooting of French Jr by Thompson. Sheriff Mack announced his resignation mid-July, set to be effective mid-August.
-      THE DISCOVERY: Governor Ivey is currently selecting a replacement for Sheriff Mack in Baldwin County, with Sheriff Mack having only one week remaining in office.
-      THE PIVOT: Article 2 provides the immediate, current context for the power vacuum identified in Article 1, making the Governor's selection crucial to the ongoing political and law enforcement conflict in Baldwin County.
-      KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Sheriff Mack, Mayor Robert Bob Wills, Governor Ivey, Chief Deputy Anthony Lowery, County Commissioner Matt McKenzie, Bay Minette.
-    llm_text: OJ French Jr's lawsuit against Officer Brandon Thompson fuels a critical power vacuum in Baldwin County. Governor Ivey must choose a new Sheriff Mack replacement within one week before the mid-August deadline.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T16:35:32.006179Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-at-the-po-po:
-    brief: |-
-      THE CONFLICT: A murder for hire complaint in Choctaw County Alabama was forwarded by the AG Marshall to the local Sheriff in June 2024 because the Sheriff had a family connection to one of the alleged participants.
-      THE DISCOVERY: The June 20, 2024 article revealed internal corruption within the Sheriff's Department, including accusations against Captain Andre Reid (Commander of the Major Crimes Unit), federal investigations into evidence held by Baldwin County Sheriff's Deputies (OCDEFT), and the existence of a "Sheriff's Circle of Protection."
-      THE PIVOT: The July 31, 2024 lawsuit filed by the French Family against Officer Brandon Thompson and City of Bay Minette is not an isolated incident but occurs within a documented environment of systemic police misconduct, internal corruption, and political cover-ups in Baldwin County, as revealed in the June 2024 report.
-      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Captain Andre Reid, AG Marshall, Baldwin County, City of Bay Minette.
-    llm_text: A Choctaw County murder complaint faced delays because the local Sheriff had family ties. The French Family lawsuit against Brandon Thompson exposes systemic corruption involving Captain Andre Reid and the documented "Sheriff's Circle of Protection."
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T16:36:49.932844Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

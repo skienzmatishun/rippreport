@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   the-blueprint:
+    refined_source: 0d53b463bd4ccc94822774a7bac014a6758a8d4920df08a945bc93b1f3d0e63d
     brief: |-
       THE CONFLICT:
       *   In 2019, over 50,000 residents, including those led by Jim Zeigler, publicly protested a proposed toll tax system for commuting into Mobile.
@@ -34,22 +35,25 @@ hooks:
       *   Jack Burrell
       *   Adam Milam
     llm_text: Jim Zeigler protested the 2019 $7.70 toll tax, showing local power against federal investors. Today, Mayor Kant and Mayor Wilson ignore Fly Creek pollution from Publix, favoring big developer interests like Author Corti.
+    text: Jim Zeigler protested the 2019 toll tax to fight federal investors. Why do Mayor Kant and Mayor Wilson ignore Fly Creek pollution from Publix?
     widget_date: "2026-07-14"
     generated_at: "2026-11-06T05:53:29.296398Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   orange-beach-tyranny:
     brief: "THE CONFLICT: \n- For over 12 years, developer Arthur Corti engaged in clear-cutting and construction projects (including a Publix strip center and the 230-unit Retreat at Fairhope Village apartments) that caused severe mud, silt, and construction runoff to flood Fly Creek in Fairhope, Alabama. \n- The sediment destroyed marine life, damaged apartments, and required millions of dollars in recurring dredging. \n- Former Mayor Tim Kant, current Council President Jack Burrell, and subsequent local administrations ignored resident opposition, approved subsequent developments along Parker Road despite lawsuits, and shielded Corti (a major political contributor) from liability—even transferring liability to the city. \n- Mayor Karin Wilson previously ran and won her election partly on opposition to the Retreat at Fairhope Village project.\n\nTHE DISCOVERY: \n- The background context reveals a systemic pattern of municipal corruption, information compartmentalization, and accountability evasion by local officials in Baldwin County. \n- While the main article exposes local officials in Fairhope shielding developer Arthur Corti and ignoring environmental destruction for over a decade, historical reporting on neighboring Orange Beach administration (Mayor Tony Kennon) demonstrates a broader regional framework where city executives, police chiefs, and city attorneys actively conceal information from the public, media, and city councils while dodging state-level oversight (such as ALEA investigations).\n\nTHE PIVOT: \n- Article 2 serves as the contextual \"smoking gun\" by exposing the exact institutional rot, cover-up tactics, and cozy relationships among Baldwin County municipal leaders that allow local authorities (like those in Fairhope) to operate with total impunity, ignore citizen lawsuits, and protect politically connected actors (like developer Arthur Corti) from environmental and legal accountability.\n\nKEY ENTITIES: \n- Arthur Corti (Developer)\n- Tim Kant (Former Fairhope Mayor)\n- Jack Burrell (Fairhope Council President)\n- Karin Wilson (Former Fairhope Mayor)\n- Tony Kennon (Orange Beach Mayor)\n- Danny Williams (Deceased; 2016 Federal Drug Investigation co-target)\n- Adam Milam (Attorney)\n- Neeli Faulkner (Murder Creek Media)\n- Whitney Scapecchi (Murder Creek Media)\n- Brandon Moseley (The Alabama Gazette)\n- Harry Still\n- Mr. McCallum (Baldwin County Legislative Delegation staff)"
     llm_text: For over twelve years, developer Arthur Corti choked Fly Creek with sediment while officials like Jack Burrell shielded him from liability. Read the explosive context exposing how Baldwin County leaders use elite cover-ups to protect political donors from environmental destruction.
+    text: For over twelve years, developer Arthur Corti choked Fly Creek with sediment while officials like Jack Burrell shielded him from liability. Read the explosive context exposing how Baldwin County leaders use elite cover-ups to protect political donors from environmental destruction.
     widget_date: "2026-07-09"
     generated_at: "2026-11-06T05:52:27.813159Z"
     model_name: gemini-3.5-flash-lite
   fly-creek-erosion-and-hidden-development-threats:
+    refined_source: 4ba9ac2eefdeea4fa894026512c7abbd49f97d827298a7be33c3e9f49895b2ea
     brief: |-
       THE CONFLICT:
       *   Construction of Publix shopping center led to severe erosion and sediment deposition in Fly Creek.
       *   In 2011, a complaint was filed against Mayor Kant and Senator Pittman for grant fraud related to BP funds.
       *   In 2013, Mayor Kant commissioned a $30,000 study by Thompson Engineering for the Fly Creek Watershed Restoration Project.
-      *   In 2014, the city settled a property dispute (triangle property) for $12 million in secret, reversing a 40-year policy, allegedly favoring developer Arthur Corti.
+      *   In 2014, the city settled a property dispute (triangle property) for $12 million in secret, reversing a 40-year policy, favoring developer Arthur Corti.
 
       THE DISCOVERY:
       *   Fly Creek suffered severe erosion (banks collapsed over 20 feet) and log jams due to construction runoff from the Publix project.
@@ -58,7 +62,7 @@ hooks:
 
       THE PIVOT:
       *   The 2014 article documented the initial, long-term environmental damage (Publix runoff) and established a history of political/financial compromise (Kant/Corte deals, failed studies, grant fraud investigation).
-      *   This history proves that the current issues (Retreat at Fairhope Village, new cluster F approvals) are not isolated incidents but a continuation of the same pattern of developer abuse and council/mayor complicity over 12+ years.
+      *   This history shows that the current issues (Retreat at Fairhope Village, new cluster F approvals) are not isolated incidents but a continuation of the same pattern of developer abuse and council/mayor complicity over 12+ years.
 
       KEY ENTITIES:
       *   Arthur Corti (Developer/Land Owner)
@@ -79,6 +83,7 @@ hooks:
       *   $14,700,000 (Grant Amount)
       *   12+ years (Period of reporting on developer abuse)
     llm_text: Publix runoff caused severe Fly Creek erosion for over 12 years, tying Mayor Kant and developer Arthur Corti to compromised grants like the $14.7M proposal. The new 230-unit Retreat at Fairhope Village continues this pattern, threatening the watershed again.
+    text: Publix runoff caused severe Fly Creek erosion for over 12 years. Why did Mayor Kant and developer Arthur Corti ignore compromised grants?
     widget_date: "2015-03-12"
     generated_at: "2026-11-06T05:54:41.584124Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

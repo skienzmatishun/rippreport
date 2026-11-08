@@ -1,0 +1,51 @@
+metadata:
+  generated_at: "2026-11-07T17:29:47.799989Z"
+  generator_version: 1.0.0
+  post_slug: attention-baldwin-county
+  main_date: "2020-07-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-43-mee-maw-and-the-extenders:
+    refined_source: 60d3725ba5332457655f3be44bff73b76c8f2bc1273bc3fe409e19c966c75d1e
+    brief: "THE CONFLICT: Historical events involving \"Mee-Maw and the Extenders\" as documented in Backstory Podcast #43.\n\nTHE DISCOVERY: The podcast provided the background/backstory regarding \"Mee-Maw and the Extenders.\"\n\nTHE PIVOT: The \"Lowtower\" element serves as the catalyst connecting the podcast's subject matter to the July 14th congressional campaign of Jerry Carl.\n\nKEY ENTITIES: \n- Jerry Carl (Congressional candidate)\n- Lowtower\n- Mee-Maw\n- The Extenders\n- Baldwin County"
+    llm_text: 'Backstory Podcast #43 uncovers the bizarre historical saga of Mee-Maw and the Extenders that once shook Baldwin County. The Lowtower connection now ties these legendary local events directly to Jerry Carl’s high-stakes July 14th congressional campaign.'
+    text: 'Backstory Podcast #43 uncovers the saga of Mee-Maw and the Extenders in Baldwin County, tying historical events directly to Jerry Carl’s congressional campaign.'
+    widget_date: "2020-07-04"
+    generated_at: "2026-11-07T17:29:25.913177Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  howling-rains:
+    refined_source: 8d863abcbc9c917efa7119fcc2faafecc4f6351741951f74553d3d1501554907
+    brief: |-
+      THE CONFLICT:
+      *   2008 and 2012 municipal elections in Fairhope were suspected of being rigged.
+      *   In 2016, the Alabama Secretary Of State supervised the election.
+      *   Mayor Karin Wilson defeated a 16-year, "CORRUPT" incumbent.
+      *   The City Council obstructed and undermined Mayor Wilson’s administration.
+      *   Council actions included spending $11.25 million on a Conservation Easement ("Triangle"), $17,500 annually in council raises, and purchasing farmland for $2.65 million (leased back for $9,000/year).
+      *   Fairhope's budget shifted from a $1.7 million surplus to a $1.2 million deficit.
+
+      THE DISCOVERY:
+      *   Chuckie Cheeze previously served as Aid De Camp for the Baldwin County legislative delegation.
+      *   The established "Status Quo" is identified as "Catalyst" or Scott Boone Consulting.
+      *   Howling Rains emerged as Chuckie Cheeze’s replacement shortly before municipal elections.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of political control and corruption within Baldwin County/Fairhope (the "Status Quo"/"Catalyst").
+      *   Article 1 connects Howling Rains directly to this established "CATALYST" machine, accusing him of incompetence, plagiarism, and serving the corrupt interests of the Status Quo, not community improvement.
+
+      KEY ENTITIES:
+      *   Jerry Carl
+      *   Howling Rains (Howling)
+      *   Chuckie Cheeze
+      *   Karin Wilson (Mayor)
+      *   Alabama Secretary Of State
+      *   Scott Boone Consulting
+      *   Baldwin County
+      *   Fairhope
+      *   CATALYST
+      *   July 14th (election date)
+    llm_text: Mayor Karin Wilson battled a corrupt council that wasted $11.25 million in Fairhope. Now, Howling Rains serves the same "CATALYST" machine tied to Scott Boone Consulting, perpetuating Baldwin County's political rot.
+    text: Mayor Karin Wilson battled a council that wasted $11.25 million in Fairhope, while political machines tied to Scott Boone Consulting perpetuate local political rot.
+    widget_date: "2020-07-06"
+    generated_at: "2026-11-07T17:29:23.950169Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

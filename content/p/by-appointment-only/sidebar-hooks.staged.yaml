@@ -5,69 +5,44 @@ metadata:
   main_date: "2026-04-10"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  eddie-tyler-exits-stage-left:
-    brief: |-
-      THE CONFLICT:
-      Eddie Tyler and his associated legal/consulting group ended their period of influence in Fish River, Baldwin County.
-      A 20-year Baldwin County Sheriffs Deputy resigned, citing "Ungodly men" running the local authority.
-      $16.3 Million was allocated for the Golden Triangle bridge over Fish River and a boulevard benefiting a single developer.
-
-      THE DISCOVERY:
-      The older context (Article 2) revealed a pattern of localized political influence and development control linked to major infrastructure spending ($16.3M) and internal law enforcement dissent.
-
-      THE PIVOT:
-      Article 2 provides the historical foundation of localized political control (Tyler's influence/Sheriff's resignation) which evolved into the current structure of a non-party cabal controlling the bench in Baldwin County, leading to the creation of the Alabama Gaming Commission (Article 1).
-
-      KEY ENTITIES:
-      Baldwin County
-      Bay Minette
-      Fish River
-      Eddie Tyler
-      Brandon Moseley
-      Harry Still
-      Draft Kings
-      PCI Gaming (Porch Band of Creek Indians)
-      Alabama Gaming Commission
-      State Executive Branch
-      Hunter Biden
-      POODLE PUNCHER
-      Golden Triangle
-      Alabama Circuit and District Judges
-    llm_text: Eddie Tyler's influence over $16.3 million for the Golden Triangle bridge started a pattern of localized control in Baldwin County. This cabal now steers the Alabama Gaming Commission, controlling the bench from Fish River to Bay Minette.
-    widget_date: "2026-03-27"
-    generated_at: "2026-11-06T08:42:39.106810Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-sound-off:
+    refined_source: 8d83d000344474d6aefb4bdf0029a7052612ef57e888f1ad53bf2a3d383ae5af
     brief: |-
       THE CONFLICT: Hoss Mack dumped 20 years of BCSO problems onto Lowery.
       THE DISCOVERY: Lowery adopted a BCSO culture favoring "good ole boys" (GOB) characterized by favoritism, arbitrary chain of command, lack of accountability, and internal cover-ups.
       THE PIVOT: Article 2 established a history of political appointments and internal systemic corruption within the State Executive Branch (via Lowery's appointment by Governor Ivy), providing context for the political cabal in Baldwin County influencing judicial appointments and the creation of the Alabama Gaming Commission (Article 1).
       KEY ENTITIES: Hoss Mack, Lowery, Governor Ivy, BCSO, Alabama Gaming Commission, Draft Kings, PCI Gaming (Porch Band of Creek Indians), Baldwin County, State Executive Branch.
     llm_text: Hoss Mack dumped 20 years of BCSO problems onto Lowery, who fostered a "good ole boys" culture of favoritism and cover-ups. This systemic corruption links Lowery's tenure to Governor Ivy and the political cabal influencing the Alabama Gaming Commission.
+    text: Hoss Mack left decades of sheriff office problems to Anthony Lowery, who fostered a culture of favoritism and cover-ups. This systemic corruption links Lowery to Governor Ivey and the political cabal on the Alabama Gaming Commission.
     widget_date: "2026-03-23"
     generated_at: "2026-11-06T08:44:10.231163Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   faux-pas:
+    refined_source: 66efa8ff4f4f41a2f79ecf902f8cca396681e4c9f376b8d6db6e4d606eb797e1
     brief: |-
       THE CONFLICT: Political event (Faux Pas) occurred in Summerdale; Huey Mack was the only person on the microphone besides the band.
       THE DISCOVERY: The "Catalyst Cabal" is not fictitious; dirty politics are active in Baldwin County (Summerdale).
       THE PIVOT: Article 2 established the existence of the "Catalyst Cabal" and documented specific local political incidents, providing context for Article 1's claim that a local cabal controls the Baldwin County judiciary via influence with the State Executive Branch.
       KEY ENTITIES: Richard Cox, Donna Givens, Brandon Moseley, Harry Still, Whitney Scapecchi, Heart of Dixie Podcast, BCSO, Bay Minette, Summerdale Sunshine, Alabama Gaming Commission, Draft Kings, PCI Gaming, Baldwin County Commission District 1, Alabama Gazette
     llm_text: Huey Mack’s summer faux pas exposed the real Catalyst Cabal operating in Baldwin County. This hidden group, including Richard Cox, controls the local judiciary through influence with the State Executive Branch.
+    text: Richard Cox and other members of a hidden Baldwin County group control the local judiciary through influence with the State Executive Branch.
     widget_date: "2026-01-26"
     generated_at: "2026-11-06T08:44:55.618126Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   new-years-2026:
+    refined_source: 6162daa23a2dc9dd6bead59add4b2be8a42308830545439d10d909b62c2fcf2c
     brief: |-
       THE CONFLICT: Discussion involving Whitney Scapecci and Dr. John Sophocleus regarding "the Year that was 2025."
       THE DISCOVERY: Article 2 featured discussions on Daphne, 68Ventures, Epstein, THC, Venezuela, and Trump.
       THE PIVOT: No factual connection exists between the 2025 discussion/Epstein/Venezuela (Article 2) and the Baldwin County political cabal/Draft Kings/Alabama Gaming Commission (Article 1).
       KEY ENTITIES: Whitney Scapecci, Dr. John Sophocleus, Daphne, 68Ventures, Epstein, THC, Venezuela, Trump, Alabama Gaming Commission, Draft Kings, PCI Gaming (Porch Band of Creek Indians), Bay Minette, Baldwin County.
     llm_text: Whitney Scapecci and Dr. John Sophocleus discussed 2025, Daphne, Epstein, and Venezuela. Understand these global threads do not connect to the Baldwin County cabal or the Alabama Gaming Commission's Draft Kings dealings.
+    text: Whitney Scapecci and Dr. John Sophocleus discussed Daphne and global topics in 2025. These threads do not connect to the Baldwin County cabal or the Alabama Gaming Commission.
     widget_date: "2026-01-01"
     generated_at: "2026-11-06T08:46:11.430030Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   former-summerdale-police-chief-kevin-brock:
+    refined_source: 11af5dc360e6d89f2681adefa0a7024d0d4ae60ec445235bf28c67ead51f96a7
     brief: |-
       THE CONFLICT:
       Kevin Brock was investigated, fired, and indicted (two years later) by the Baldwin County Law Enforcement Propaganda Machine.
@@ -96,16 +71,53 @@ hooks:
       Matt Franklin
       Lagniappe Mobile Newspaper
     llm_text: Baldwin County law enforcement targeted critic Kevin Brock, leading to investigation and indictment. Anthony Lowery/BCSO used local power structures to conduct unlawful arrests, including the case involving Harry Still.
+    text: Baldwin County law enforcement targeted critic Kevin Brock with an investigation and indictment. Anthony Lowery and the sheriff office used local power structures to conduct unlawful arrests, including the case involving Harry Still.
     widget_date: "2025-11-26"
     generated_at: "2026-11-06T08:43:12.616190Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   heart-of-dixie-podcast:
+    refined_source: 73b0224bc959c6bfbd026d486bd26272007992d45181b902a35137125b533711
     brief: |-
       THE CONFLICT: Harry Still was arrested, incarcerated, and attempted involuntary commitment based on the word of Bay Minette City Councilman Matthew Franklin.
       THE DISCOVERY: A leaked BCSO email from Sheriff Anthony Lowery showed a directive to pre-target Harry Still at a Republican event, constituting potential viewpoint-based policing and First Amendment retaliation.
       THE PIVOT: The incident (Article 2) demonstrates the localized political influence and police misconduct within Baldwin County, which forms the foundation for the "cabal" controlling the Alabama bench via the State Executive Branch referenced in Article 1.
       KEY ENTITIES: Harry Still, Matthew Franklin, Anthony Lowery, Whitney Scapecchi, BCSO, Bay Minette, Alabama Gaming Commission, Draft Kings, PCI Gaming, Baldwin County.
     llm_text: Sheriff Anthony Lowery directed pre-targeting of Harry Still at a Republican event, according to a leaked BCSO email. This Baldwin County police misconduct reveals the political influence shaping Alabama's bench.
+    text: Sheriff Anthony Lowery directed the pre-targeting of Harry Still at a Republican event, according to a leaked email. This police misconduct reveals the political influence shaping Alabama courts.
     widget_date: "2025-11-21"
     generated_at: "2026-11-06T08:47:15.843050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  eddie-tyler-exits-stage-left:
+    refined_source: 49d0285501ed5c420d3e0300222f13da99968f7c4e700a5dedf7440aa2207e43
+    brief: |-
+      THE CONFLICT:
+      Eddie Tyler and his associated legal/consulting group ended their period of influence in Fish River, Baldwin County.
+      A 20-year Baldwin County Sheriffs Deputy resigned, citing "Ungodly men" running the local authority.
+      $16.3 Million was allocated for the Golden Triangle bridge over Fish River and a boulevard benefiting a single developer.
+
+      THE DISCOVERY:
+      The older context (Article 2) revealed a pattern of localized political influence and development control linked to major infrastructure spending ($16.3M) and internal law enforcement dissent.
+
+      THE PIVOT:
+      Article 2 provides the historical foundation of localized political control (Tyler's influence/Sheriff's resignation) which evolved into the current structure of a non-party cabal controlling the bench in Baldwin County, leading to the creation of the Alabama Gaming Commission (Article 1).
+
+      KEY ENTITIES:
+      Baldwin County
+      Bay Minette
+      Fish River
+      Eddie Tyler
+      Brandon Moseley
+      Harry Still
+      Draft Kings
+      PCI Gaming (Porch Band of Creek Indians)
+      Alabama Gaming Commission
+      State Executive Branch
+      Hunter Biden
+      POODLE PUNCHER
+      Golden Triangle
+      Alabama Circuit and District Judges
+    llm_text: Eddie Tyler's influence over $16.3 million for the Golden Triangle bridge started a pattern of localized control in Baldwin County. This cabal now steers the Alabama Gaming Commission, controlling the bench from Fish River to Bay Minette.
+    text: Eddie Tyler directed $16.3 million toward the Golden Triangle bridge, starting a pattern of localized control in Baldwin County. This same cabal now steers the Alabama Gaming Commission.
+    widget_date: "2026-03-27"
+    generated_at: "2026-11-06T08:42:39.106810Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

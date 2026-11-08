@@ -5,13 +5,27 @@ metadata:
   main_date: "2023-03-21"
   model_name: plugsky-lite
 hooks:
+  shadow-government:
+    refined_source: 40ffb0ad4bcfb5d5e4d3c326bec3bfeb7a5d6828fffb91d7c38ef4f14b7b025a
+    brief: |-
+      THE CONFLICT: Baldwin County/Fairhope has historically operated under a "shadow government" (Catalyst/Gumbo) for many years, attempting to remove elected officials like Mayor Wilson through obstruction and rumor (2018).
+      THE DISCOVERY: Article 2 establishes a long-standing pattern of entrenched, politically motivated control within Baldwin County, predating the 2021 incident.
+      THE PIVOT: Article 2 provides the historical context of institutional corruption and obstruction, lending credibility to the claim in Article 1 that the 2021 police killing of O.J. French and Mayor Bob Wills' self-dealing (renting office space for $867,000) are part of a continuous cover-up by corrupt local entities.
+      KEY ENTITIES: Bob Wills, Tamara French, O.J. French, Steve Marshall, Albritton, Mayor Wilson, Chief Pettis, Jeff Boyd, David Northcutt, Elliott, Walt Maddox, Jason Fisher, Catalyst, Gumbo, Al Tolbert, Brad Kendrick, Huey “Hoss” Mack, Edward Delmore, David Carpenter, Thurston Bullock.
+    llm_text: Baldwin County's "shadow government" (Catalyst/Gumbo) predates the 2021 O.J. French killing. See how Mayor Bob Wills' $867k office rental ties into a continuous local corruption cover-up.
+    text: A hidden political network operated in Baldwin County long before the O.J. French case. Mayor Bob Wills directed large office rental payments that tied into local cover-ups.
+    widget_date: "2018-08-03"
+    generated_at: "2026-11-06T20:04:40.355630Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabamas-ethics-director-should-resign:
+    refined_source: 4671af0aaff5da9cd8cee450bb6a92a70b93ed1bee11c10294313c15303a4c51
     brief: |-
       THE CONFLICT: Steve Marshall alleged Tom Albritton improperly benefited from the Mabel Amos Memorial Scholarship Trust; Albritton's children received over $100,000. This was in 2021.
       THE DISCOVERY: Article 2 reveals Albritton was accused of self-dealing as a Trustee of the Mabel Amos Memorial Fund (MAMF) in 2021.
       THE PIVOT: Article 2 provides historical context confirming Albritton faced specific ethics/trust allegations (MAMF) in 2021, which Article 1 references in the context of Marshall's recent accusation of Albritton regarding MAMF.
       KEY ENTITIES: Steve Marshall, Tom Albritton, Mabel Amos Memorial Fund (MAMF), Mayor Bob Wills, Tamara French, O.J. French, Alabama Attorney General, Alabama Ethics Commission, Alabama Bar.
     llm_text: Steve Marshall accused Tom Albritton of self-dealing with the Mabel Amos Memorial Fund, where Albritton's children got over $100,000 in 2021. See how these past ethics allegations matter now for local leaders.
+    text: State officials accused Tom Albritton of self-dealing with memorial funds given to his children. These past ethics violations remain relevant for voters assessing local leaders.
     widget_date: "2023-03-04"
     generated_at: "2026-11-06T20:02:10.012912Z"
     model_name: plugsky-lite
@@ -63,10 +77,12 @@ hooks:
       THE KEY ENTITIES:
       - Names/organizations/locations to mention: Bob Wills, Tamara French, O.J. French, Steve Marshall, Albritton, Brad Hicks, Al Tolbert, Brad Kendrick, Huey “Hoss” Mack, Edward Delmore, David Carpenter, Thurston Bullock, Baldwin County Major Crimes Unit, Baldwin County Commission, City of Bay Minette, Baldwin County Sheriff’s Office, Ethics Commission, Alabama Bar, Alabama Attorney General, Mabel Amos Memorial Fund, AltaPoine Health, Baldwin County Legislative Delegation, NORAD, Biden Administration, Mainstream Media, Tulsi Gabbard, James Baker, James Comey, J. Edil Hoover, House Select Committee, FBI, Twitter Files, Sweet Home Alabama, Baldwin County, Bay Minette, Robertsdale, Gulf Shores, Daphne, Foley, Holly Hills Golf Course, Lowery, Wilters.
     llm_text: After Bay Minette police killed O.J. French, Mayor Bob Wills called his sister Tamara French’s claims a cover-up. Now Alabama Attorney General Steve Marshall and ethics probes keep circling, exposing a corruption web that makes readers wonder who really controls the guns.
+    text: After Bay Minette police killed O.J. French, Mayor Bob Wills called his sister Tamara French’s claims a cover-up. Now Alabama Attorney General Steve Marshall and ethics probes keep circling, exposing a corruption web that makes readers wonder who really controls the guns.
     widget_date: "2023-02-14"
     generated_at: "2026-11-06T20:02:44.647315Z"
     model_name: recursive/flint-v1.0:free
   happy-days:
+    refined_source: 7ea0238364a0b6d863d68d94c7d2b6ae72f951d30a7b4bae0ba778a00a90870f
     brief: |-
       THE CONFLICT:
       *   Sheriff Hoss Mack secured his position unopposed for three terms following legislative qualifications written by State Senator Tripp Pittman, which eliminated competition.
@@ -102,16 +118,7 @@ hooks:
       *   Baldwin County Legislative Delegation
       *   $867,000.00 (Total rent paid by delegation to Mayor Wills over three 5-year leases)
     llm_text: State Senator Tripp Pittman wrote legislation allowing Hoss Mack to secure unopposed terms, while Tom Albritton faced fraud charges. This systemic corruption proves the oversight agencies cannot investigate the August 20, 2021, killing of O.J. French.
+    text: Senator Tripp Pittman wrote legislation protecting Sheriff Hoss Mack from political opposition. This systemic protection prevented proper state investigations into the death of O.J. French.
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T20:03:20.528960Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  shadow-government:
-    brief: |-
-      THE CONFLICT: Baldwin County/Fairhope has historically operated under a "shadow government" (Catalyst/Gumbo) for many years, attempting to remove elected officials like Mayor Wilson through obstruction and rumor (2018).
-      THE DISCOVERY: Article 2 establishes a long-standing pattern of entrenched, politically motivated control within Baldwin County, predating the 2021 incident.
-      THE PIVOT: Article 2 provides the historical context of institutional corruption and obstruction, lending credibility to the claim in Article 1 that the 2021 police killing of O.J. French and Mayor Bob Wills' self-dealing (renting office space for $867,000) are part of a continuous cover-up by corrupt local entities.
-      KEY ENTITIES: Bob Wills, Tamara French, O.J. French, Steve Marshall, Albritton, Mayor Wilson, Chief Pettis, Jeff Boyd, David Northcutt, Elliott, Walt Maddox, Jason Fisher, Catalyst, Gumbo, Al Tolbert, Brad Kendrick, Huey “Hoss” Mack, Edward Delmore, David Carpenter, Thurston Bullock.
-    llm_text: Baldwin County's "shadow government" (Catalyst/Gumbo) predates the 2021 O.J. French killing. See how Mayor Bob Wills' $867k office rental ties into a continuous local corruption cover-up.
-    widget_date: "2018-08-03"
-    generated_at: "2026-11-06T20:04:40.355630Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

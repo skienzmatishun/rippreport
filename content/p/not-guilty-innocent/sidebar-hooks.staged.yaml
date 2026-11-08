@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   mountain-medicine:
+    refined_source: 1613ec20d660d76947b7efb3754a996665db70c069801839fb0d322c1884051b
     brief: |-
       THE CONFLICT:
       Harry Still was arrested on September 3, 2025, in Bay Minette for misdemeanor assault against Matt Franklin, a Bay Minette City Councilman.
@@ -38,10 +39,12 @@ hooks:
       Bay Minette
       Alabama
     llm_text: Harry Still investigated corruption involving Councilman Matt Franklin and Sheriff Lowery in Bay Minette. Explore the unique Alabama context, from Still's fight for justice to Darryl Patton's herbal guide on magnolia bark and buckeye.
+    text: Harry Still exposed corruption involving Councilman Matt Franklin and Sheriff Lowery. Follow how his fight for justice connects to local Alabama history.
     widget_date: "2026-06-12"
     generated_at: "2026-11-06T06:31:27.501732Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   a-new-hope:
+    refined_source: 5eda45ca75b1744cb012efb80b56ec5bf15f80c5f9b0a295fa51efdd04cbdc45
     brief: |-
       THE CONFLICT:
       *   Harry Still, III was illegally arrested by Al Tolbert (Bay Minette Chief of Police) at the direction of District Attorney Robert Wilters. (Date not specified, but prior to the 2025 incident).
@@ -74,10 +77,12 @@ hooks:
       *   Vincent Bellucci (Bay Minette Attorney)
       *   Ronan McSherry
     llm_text: Harry Still faced an illegal arrest by Al Tolbert, directed by DA Robert Wilters, over his defense of victims and corruption exposes. This targeted harassment explains the bias behind Still's 2025 arrest, not just an isolated incident.
+    text: Al Tolbert made an illegal arrest of Harry Still on orders from DA Robert Wilters. This targeted harassment explains the true bias behind the arrest.
     widget_date: "2026-05-25"
     generated_at: "2026-11-06T06:32:39.569720Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
+    refined_source: 5853317ecf6b5dc8e278fe51b63a37bb8b2b05358002f4ab3fbed0adece63a7a
     brief: |-
       THE CONFLICT:
       *   September 3, 2025: A skirmish occurred in downtown Bay Minette between Harry Still (practicing attorney) and Matt Franklin (Bay Minette City Councilman) in Franklin's office.
@@ -119,6 +124,7 @@ hooks:
       *   David Whetstone (former prosecutor)
       *   Kristy Haygood (recently elected judge)
     llm_text: The audio recording from Harry Still exposes Councilman Matt Franklin yelling threats in Bay Minette. See how this evidence overturned the initial police narrative and secured Still's NOT GUILTY verdict.
+    text: An audio recording catches Councilman Matt Franklin yelling threats in Bay Minette. This evidence broke the police story and won Harry Still a not guilty verdict.
     widget_date: "2025-11-23"
     generated_at: "2026-11-06T06:33:48.431576Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

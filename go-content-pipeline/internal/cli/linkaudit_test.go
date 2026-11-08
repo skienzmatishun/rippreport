@@ -3,7 +3,10 @@ package cli
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
+	"github.com/rippreport/go-content-pipeline/internal/config"
+	"gopkg.in/yaml.v3"
 	"net/http"
 	"net/http/httptest"
 	"os"
@@ -100,5 +103,53 @@ func TestLinkAuditInvalidOptions(t *testing.T) {
 	cancel()
 	if code := NewApp(&out, &stderr).auditError(ctx, ctx.Err()); code != 130 {
 		t.Fatal(code)
+	}
+}
+
+func TestContentAuditUsesLlamaConfig(t *testing.T) {
+	dir := t.TempDir()
+	content := filepath.Join(dir, "posts")
+	if err := os.MkdirAll(filepath.Join(content, "sample"), 0755); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(content, "sample", "index.md"), []byte("A clean post."), 0644); err != nil {
+		t.Fatal(err)
+	}
+	called := false
+	endpoint := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		called = true
+		if r.URL.Path != "/v1/chat/completions" {
+			t.Errorf("unexpected path: %s", r.URL.Path)
+		}
+		var request struct {
+			Model string `json:"model"`
+		}
+		if err := json.NewDecoder(r.Body).Decode(&request); err != nil {
+			t.Error(err)
+		}
+		if request.Model != "audit-gguf" {
+			t.Errorf("model = %q", request.Model)
+		}
+		fmt.Fprint(w, `{"choices":[{"message":{"content":"{\"has_issue\":false,\"issues\":[]}"}}]}`)
+	}))
+	defer endpoint.Close()
+	configPath := filepath.Join(dir, "config.yaml")
+	cfg := config.DefaultConfig()
+	cfg.Processing.PostsDirectory = content
+	cfg.LlamaServer.BaseURL = endpoint.URL
+	cfg.LlamaServer.LLMModel = "audit-gguf"
+	unmanaged := false
+	cfg.LlamaServer.Managed = &unmanaged
+	data, err := yaml.Marshal(cfg)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(configPath, data, 0644); err != nil {
+		t.Fatal(err)
+	}
+	var out, stderr bytes.Buffer
+	code := NewApp(&out, &stderr).Run([]string{"pipeline", "audit-content", "--config", configPath, "--content-dir", content, "--report", filepath.Join(dir, "report.json"), "--request-delay=0s"})
+	if code != 0 || !called {
+		t.Fatalf("code %d, called %v: %s %s", code, called, out.String(), stderr.String())
 	}
 }

@@ -5,48 +5,20 @@ metadata:
   main_date: "2025-03-03"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  veterans-rally:
-    brief: |-
-      THE CONFLICT:
-      Past event focused on veterans support and mobilization (VETERANS RALLY).
-      Specific names and dates from the older article are not provided.
-
-      THE DISCOVERY:
-      Article 2 demonstrated a strong public or political rallying effort supporting veterans prior to the legislative actions in Article 1.
-
-      THE PIVOT:
-      Article 2 establishes the historical context of veteran advocacy, making the current legislative attempt (restructuring the State Board of Veterans Affairs) and subsequent attacks by Governor Ivey on the ADVA (Article 1) a direct contradiction of established veteran support.
-
-      KEY ENTITIES:
-      Andrew Jones
-      Ed Oliver
-      Kimberly Boswell
-      Admiral Kent Davis
-      Tom Albritton
-      Mabel Amos Trust
-      Governor Ivey
-      Cliff McCollum
-      Alabama State Senate
-      Alabama Department of Veterans Affairs (ADVA)
-      Ivey
-      Montgomery County Circuit Court Judge Greg Griffin
-      Jim White
-      Regions bank
-    llm_text: Governor Ivey attacks the ADVA, but veteran advocacy, supported by Andrew Jones and Admiral Kent Davis, preceded these legislative moves. See how current attacks contradict established support for Alabama veterans.
-    widget_date: "2025-02-23"
-    generated_at: "2026-11-06T14:50:17.564519Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   war:
+    refined_source: 80399c7c700e2b794bd3738414fcc2a575799ba15cde049abafd37c548ccc08a
     brief: |-
       THE CONFLICT: Governor "poison Ivy" Ivey used supreme executive power to remove ADVA Director Admiral Kent Davis, threatening to strip veteran representation (Widget Article).
       THE DISCOVERY: The initial threat against veteran representation stemmed from Governor Ivey's executive action against Admiral Kent Davis (Widget Article).
       THE PIVOT: The subsequent legislation (State Senate vote 21-9) to "restructure" the State Board of Veterans Affairs (Main Article) is framed by opponents as retaliation for the ethics complaint filed by Admiral Kent Davis against Kimberly Boswell regarding $7 million ARPA funds.
       KEY ENTITIES: Governor Ivey, Admiral Kent Davis, Kimberly Boswell, Andrew Jones, Ed Oliver, Tom Albritton, Mabel Amos Trust, Ethics Commission, ADVA, Alabama State Senate, $7 million (ARPA funds).
     llm_text: Governor Ivey fired ADVA Director Admiral Kent Davis, threatening crucial veteran representation. Opponents say this move is retaliation after Davis filed an ethics complaint against Kimberly Boswell regarding $7 million ARPA funds.
+    text: Governor Kay Ivey fired ADVA Director Admiral Kent Davis to punish him. Davis filed an ethics complaint against Kimberly Boswell regarding seven million dollars in ARPA funds.
     widget_date: "2025-02-22"
     generated_at: "2026-11-06T14:52:22.202209Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: 2a6e17f6850e64eeb295e1d9f7e383730a9813993f4e84ca7dd705a67a150536
     brief: |-
       THE CONFLICT:
       Kent Davis (ADVA Commissioner) filed an ethics complaint against Kimberly Boswell (Director, Dept. of Mental Health) alleging collusion to divert $7 million from the American Rescue Plan Act (ARP) intended for ADVA.
@@ -75,10 +47,12 @@ hooks:
       Cliff McCollum (Director, A.L.I.S.O.N)
       Alabama Ethics Commission
     llm_text: Kent Davis filed an ethics complaint against Kimberly Boswell over $7M ARP diversion. Governor Kay Ivey fired Davis and pushed SB67 to dismantle the Veterans Board, but Lt. Gov. Will Ainsworth challenged Ivey's power.
+    text: Governor Kay Ivey fired Admiral Kent Davis after he filed an ethics complaint against Kimberly Boswell. Lt. Governor Will Ainsworth challenged Ivey as she dismantled the Veterans Board.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:53:40.758461Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: d696b3dc123a49b3ba7d9c4e65e2953af6929392601d066dce3e6b98c9cc73fc
     brief: |-
       THE CONFLICT:
       *   On May 17, 2021, Alabama approved the medical cannabis bill (Compassion Act) allowing patients with qualified illnesses to receive medical cannabis.
@@ -108,16 +82,52 @@ hooks:
       *   Chey Garrigan (Alabama Cannabis Industry Association)
       *   Cliff McCollum (Director, ALISON)
     llm_text: Alabama approved the Compassion Act on May 17, 2021, yet four years later, patients still lack medical cannabis due to a legal morass. This systemic failure mirrors the dismissed $7 million ARPA complaint Admiral Kent Davis filed against Kimberly Boswell.
+    text: Patients still cannot access medical cannabis four years after Alabama approved the law. Admiral Kent Davis faced a blocked ethics complaint against Kimberly Boswell over millions in funds.
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T14:55:18.438308Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pandemic-corruption:
+    refined_source: f4e544d0e88624b9c548cf655a8635b11798f8831b35694db11ad4014a9c89a1
     brief: |-
       THE CONFLICT: Systemic corruption in Alabama dating back to 2014, including four convicted state lawmakers; former Attorney General Luther handled Sen. Pittman skimming $750,000 from BP.
       THE DISCOVERY: The Ethics Commission lacks credibility, with members like Jerry Fielding, Frank "Butch" Ellis, Jr., and Charles Price being part of the corrupt machine that favors powerful politicians.
       THE PIVOT: The historical lack of credibility in the Ethics Commission (Widget Article) explains its dismissal of the ethics complaint filed by ADVA Commissioner Admiral Kent Davis against Kimberly Boswell regarding the diversion of $7 million in American Rescue Plan Act funds (Main Article), enabling retaliatory legislation (21-9) against the ADVA.
       KEY ENTITIES: Kimberly Boswell, Ivey, Admiral Kent Davis, Andrew Jones, Ed Oliver, Tom Albritton, Mabel Amos Trust, Dr. Stewart Hill Tankersley, Jerry Fielding, Frank "Butch" Ellis, Jr., Charles Price, Sen. Pittman, Luther, Alabama Ethics Commission, Department of Mental Health, State Board of Veterans Affairs.
     llm_text: Alabama’s Ethics Commission lacks credibility; members like Jerry Fielding and Frank Ellis Jr. are part of the corrupt machine. See why they dismissed Admiral Kent Davis’s $7M ARPA complaint against Kimberly Boswell, enabling political retaliation.
+    text: Jerry Fielding and Frank Ellis Jr. dismissed Admiral Kent Davis's ethics complaint against Kimberly Boswell. The Alabama Ethics Commission protects political retaliation instead of punishing it.
     widget_date: "2017-10-04"
     generated_at: "2026-11-06T14:51:25.255027Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  veterans-rally:
+    refined_source: 5df2301926477df919a110496a8b1693aa174172c6cf93cee92bc4a613bd6743
+    brief: |-
+      THE CONFLICT:
+      Past event focused on veterans support and mobilization (VETERANS RALLY).
+      Specific names and dates from the older article are not provided.
+
+      THE DISCOVERY:
+      Article 2 demonstrated a strong public or political rallying effort supporting veterans prior to the legislative actions in Article 1.
+
+      THE PIVOT:
+      Article 2 establishes the historical context of veteran advocacy, making the current legislative attempt (restructuring the State Board of Veterans Affairs) and subsequent attacks by Governor Ivey on the ADVA (Article 1) a direct contradiction of established veteran support.
+
+      KEY ENTITIES:
+      Andrew Jones
+      Ed Oliver
+      Kimberly Boswell
+      Admiral Kent Davis
+      Tom Albritton
+      Mabel Amos Trust
+      Governor Ivey
+      Cliff McCollum
+      Alabama State Senate
+      Alabama Department of Veterans Affairs (ADVA)
+      Ivey
+      Montgomery County Circuit Court Judge Greg Griffin
+      Jim White
+      Regions bank
+    llm_text: Governor Ivey attacks the ADVA, but veteran advocacy, supported by Andrew Jones and Admiral Kent Davis, preceded these legislative moves. See how current attacks contradict established support for Alabama veterans.
+    text: Governor Ivey attacks the ADVA despite years of support from Andrew Jones and Admiral Kent Davis. Current legislative moves contradict decades of backing for Alabama veterans.
+    widget_date: "2025-02-23"
+    generated_at: "2026-11-06T14:50:17.564519Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   not-a-hard-liquor:
+    refined_source: e814d38ccb8ba9241f3359a47f7bb0ee533210cd0ff35ee4d22e82cd7f7418a6
     brief: |-
       THE CONFLICT:
       *   Medical Cannabis License scandal threatened to derail the entire program in Alabama.
@@ -28,11 +29,13 @@ hooks:
       *   John McMillan (Executive Director, Alabama Medical Cannabis Commission)
       *   Birmingham, AL (Sheraton Hotel location)
       *   October 13th and 14th, 2023
-    llm_text: Kay Ivey’s administration sparked a major medical cannabis license scandal in Alabama. Discover how ACIA leader Chey Garrigan guided the industry toward legitimacy at the October 2023 conference.
+    llm_text: Kay Ivey’s administration sparked a major medical cannabis license scandal in Alabama. Read how ACIA leader Chey Garrigan guided the industry toward legitimacy at the October 2023 conference.
+    text: Kay Ivey’s administration sparked a major medical cannabis license scandal in Alabama. ACIA leader Chey Garrigan guided the industry toward legitimacy at the October 2023 conference.
     widget_date: "2023-08-01"
     generated_at: "2026-11-06T19:26:58.968432Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   top-to-bottom-corruption:
+    refined_source: 9d48543c7fb863dbf50d55d235feb06719005350b648b7f7a096d0dda9149bbb
     brief: |-
       THE CONFLICT: Mabel Amos Memorial Fund (MAMF) generated millions in revenue by 2013 after a crude oil discovery on trust land (2011-2013). Board members, including Tom Albritton, received $120,000 in scholarships for his children, constituting self-dealing, which is illegal.
 
@@ -54,16 +57,19 @@ hooks:
       *   July 15, 2023 (Article 2 date)
       *   October 13th and 14th, 2023 (Article 1 date)
     llm_text: Tom Albritton received $120,000 in illegal scholarships from MAMF crude oil revenue, revealing self-dealing within the Alabama Ethics Commission. This high-level corruption, involving Steve Marshall, frames the critical context for the ACIA's medical cannabis conference.
+    text: Tom Albritton received $120,000 in scholarships from crude oil revenue, revealing self-dealing within the Alabama Ethics Commission. This high-level corruption involving Steve Marshall frames the context for the medical cannabis conference.
     widget_date: "2023-07-21"
     generated_at: "2026-11-06T19:28:08.276412Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   take-a-chance:
+    refined_source: 413292b4377f174d274d3db2c5f50c1f1cf414db546e0629ef8c2e15c02d3d11
     brief: |-
       THE CONFLICT: 2020, 2021; Covid-19 pandemic, public health concerns, cancellation of 2020 Arts and Crafts Show by Mayor Wilson.
       THE DISCOVERY: In 2020/2021, despite public health advice from Baldwin County Doctors and Nurses (avoiding large public gatherings), Jack Burrell and Sherry Sullivan proceeded with a public gathering ("TAKE A CHANCE") on November 19th.
       THE PIVOT: Article 2 establishes a historical pattern (2020/2021) where local leadership (Sullivan, Burrell) prioritized public events over strict COVID-19 public health guidelines, contrasting with the regulated, industry-focused event announced in Article 1 (October 13th and 14th, 2023).
       KEY ENTITIES: Jack Burrell, Sherry Sullivan, Mayor Wilson, Councilman Brown, Baldwin County, ACIA, Chey Garrigan, John McMillan
     llm_text: Jack Burrell and Sherry Sullivan defied Mayor Wilson's 2020 health advice by holding "TAKE A CHANCE," contrasting sharply with the regulated 2023 ACIA event. See how local leaders prioritized public gatherings over Baldwin County's COVID-19 guidelines.
+    text: Jack Burrell and Sherry Sullivan defied Mayor Wilson's 2020 health advice by holding a public event. Local leaders prioritized gatherings over Baldwin County COVID-19 guidelines, contrasting with the regulated 2023 ACIA event.
     widget_date: "2020-11-18"
     generated_at: "2026-11-06T19:26:09.125940Z"
     model_name: plugsky-lite

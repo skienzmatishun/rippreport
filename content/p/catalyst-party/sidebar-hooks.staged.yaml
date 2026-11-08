@@ -1,0 +1,206 @@
+metadata:
+  generated_at: "2026-11-07T19:29:25.113672Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-party
+  main_date: "2020-04-16"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  letter-of-concern:
+    brief: "THE CONFLICT: \n- Date: August 7, 2019\n- Event: Then-Mayor Karin Wilson sent a sharp \"Letter of Concern\" to Casi Calloway of Mobile Baykeeper, accusing the environmental organization of publishing sensationalized \"news\" releases, misleading the public regarding sewer spills (SSOs), and using scare tactics and divisive propaganda instead of acknowledging the city's ongoing infrastructure and utility upgrades. \n\nTHE DISCOVERY: \n- Article 2 (August 7, 2019) demonstrated that Mayor Karin Wilson actively pushed back against external groups attacking the city's reputation, defending her administration's transparency, and documenting infrastructure/utility improvements to combat long-term neglect inherited by her office.\n\nTHE PIVOT: \n- Article 2 serves as historical context showing the contentious political and public relations environment Mayor Karin Wilson navigated against outside groups and internal factions—foreshadowing the exact types of institutional friction, political maneuvering by Council President Jack Burrell, and controversies over transparency and public trust highlighted in Article 1.\n\nKEY ENTITIES: \n- Mayor Karin Wilson\n- Casi Calloway\n- Mobile Baykeeper\n- Jack Burrell\n- Brown\n- Boone\n- Sherry Sullivan\n- Tripp Pittman\n- Goodwin, Mills and Cawood\n- Crowder Gulf, LLC\n- Fairhope Volunteer Fire Department"
+    llm_text: Back in August 2019, Mayor Karin Wilson blasted Mobile Baykeeper's Casi Calloway for using sensational scare tactics over sewer spills. Read how this fierce battle exposes the deep institutional friction and transparency fights that still plague Fairhope politics today.
+    text: Back in August 2019, Mayor Karin Wilson blasted Mobile Baykeeper's Casi Calloway for using sensational scare tactics over sewer spills. Read how this fierce battle exposes the deep institutional friction and transparency fights that still plague Fairhope politics today.
+    widget_date: "2019-08-09"
+    generated_at: "2026-11-07T19:26:17.454175Z"
+    model_name: gemini-3.5-flash-lite
+  the-face-of-no:
+    brief: |-
+      THE CONFLICT:
+      - Past battles involving Fairhope government governance, special interests, and specific municipal projects.
+      - Colby Cooper served as Chief of Staff for the Mayor of Mobile, but resigned after 11 days following public outrage over illegally cutting down a 50-foot tree in Medal of Honor Park (referenced via his October 25 statement opposing the Fairhope Change of Government Referendum).
+      - Prior controversies involving Fairhope Airport Authority board member/Council President Jack Burrell and Fairhope Municipal Judge/Board member Ray Hix regarding a suspicious RFP bid for a $1 million airplane hangar and a $1 million corporate jet, on which Jack Burrell took private flights prior to the bidding process.
+      - The 12-year history of investigative reporting by The Ripp Report highlighting corrupt elected officials, back-pocket utility accounting, and obstructionist "Catalyst" council members (including Jack Burrell, Boone, and Brown) who failed to approve timely city budgets.
+
+      THE DISCOVERY:
+      - Article 2 exposed that special interests and corrupt officials manipulate Fairhope's governance, specifically tying former Mobile official Colby Cooper (the "Face of No" opposing government change) to local figures like Municipal Judge Ray Hix.
+      - It revealed that upon leaving Mobile (following the tree-cutting scandal), Colby Cooper crossed the bay to become Chief Operating Officer for a company owned by Judge Ray Hix, aligning himself with the 1% and special interests.
+      - It uncovered corrupt infrastructure dealings, showing that Airport Authority Board member Jack Burrell handled a rigged RFP bid for an airplane hangar to house Ray Hix's $1 million corporate jet, with Burrell reportedly flying as a passenger on the jet to golf tournaments prior to the bid.
+
+      THE PIVOT:
+      - Article 2 serves as the smoking gun because it unmasks the interconnected network of special interests, compromised judges, and obstructionist politicians (like Jack Burrell and Ray Hix) who rely on operatives like Colby Cooper to protect their power structure. While Article 1 focuses on immediate council resolutions, COVID-19 response conflicts, and political maneuvering by the "Catalyst" faction (such as pushing Sherry Sullivan for mayor), Article 2 provides the deep-state historical proof of *why* this faction fights so hard against governmental reform: to protect private luxury deals, rigged airport contracts, and elite patronage networks at the expense of ordinary taxpayers and education funding.
+
+      KEY ENTITIES:
+      - Jack Burrell (Council President / Airport Authority Board member)
+      - Colby Cooper (Former Mobile Chief of Staff / COO for Ray Hix's company)
+      - Ray Hix (Fairhope Municipal Judge / Board member / corporate jet and hangar owner)
+      - Sherry Sullivan (Former city employee / Catalyst mayoral candidate)
+      - Mayor Karin Wilson
+      - Mr. Brown (Fairhope City Council member)
+      - Boone (Fairhope City Council member)
+      - Chuckee Cheeze (Editor of the Catalyst tabloid / Courier)
+    llm_text: Colby Cooper fled Mobile after an illegal tree-cutting scandal only to run Ray Hix’s company and spearhead the opposition to Fairhope's government reform. Read how Cooper, Judge Hix, and Councilman Jack Burrell protect rigged airport deals and elite luxury at your expense.
+    text: Colby Cooper fled Mobile after an illegal tree-cutting scandal only to run Ray Hix’s company and spearhead the opposition to Fairhope's government reform. Read how Cooper, Judge Hix, and Councilman Jack Burrell protect rigged airport deals and elite luxury at your expense.
+    widget_date: "2018-11-01"
+    generated_at: "2026-11-07T19:26:24.314546Z"
+    model_name: gemini-3.5-flash-lite
+  women-of-baldwin:
+    refined_source: 6063b406e38cf083d236046cbb846f37a4af7409bd00d2adbc2f83f7ad0e3a90
+    brief: |-
+      THE CONFLICT: Sen. Tripp Pittman stuffed pockets with $750,000.00; Joe Davis was linked to the penny tax costing Baldwin County Schools $2 million a year; Randy Davis was recently indicted. (No specific dates provided for this context in Article 2)
+      THE DISCOVERY: Mayor Karin Wilson is the first female Mayor in Fairhope’s history and has battled the Catalyst Council to uphold public service principles. (Article 2 is older, providing historical context to Wilson's current role mentioned in Article 1)
+      THE PIVOT: Article 2 establishes the context of established, politically connected "old white men" (the "good ole boy network") whom the "Catalyst" movement opposes, directly framing the motivations behind the Catalyst party's actions and the challenges faced by Mayor Wilson in Article 1.
+      KEY ENTITIES: Karin Wilson, Catalyst, Sen. Tripp Pittman, Joe Davis, Billy Jo Underwood, Heather Brown, Amber Smith, Daphne, Danielle Mashburn-Myrick, Andrea Lindsey, Burrell, Brown, Sherry Sullivan
+    llm_text: Mayor Karin Wilson fights the "good ole boy network" while Sen. Tripp Pittman stashed $750,000. See how local power struggles impact Baldwin County Schools facing $2M in penny tax costs.
+    text: Mayor Karin Wilson fights the good ole boy network while Sen. Tripp Pittman stashed $750,000. Local power struggles directly impact Baldwin County schools facing big tax costs.
+    widget_date: "2018-10-25"
+    generated_at: "2026-11-07T19:26:28.724256Z"
+    model_name: plugsky-lite
+  pissed-on-or-pissed-off:
+    refined_source: da49d38a677b847b51d9aa142353e79780c79f81a63ea168274e9da38c6a8cc3
+    brief: |-
+      THE CONFLICT:
+      *   Historical corruption and mismanagement by the Fairhope City Council, led by Council President Jack Burrell, Councilman Brown, and Councilman Boone (The Three B's).
+      *   Incidents include the council losing a Federal Court case for refusing a USMC combat veteran to speak; Burrell using taxpayer money to derail bid-rigging allegations on the Airport Board; Brown acquiring lucrative contracts via his elected position (pending Alabama Attorney General complaint); and Burrell possessing two sealed juvenile charges prior to his last election.
+      *   The Three B's spent $2.65 million on recreation farmland and subsequently leased it for $9,000 annually for farming.
+
+      THE DISCOVERY:
+      *   Article 2 provides documented historical evidence of council corruption dating back to 2016, including financial misuse, legal conflicts, and personal gain by council members.
+
+      THE PIVOT:
+      *   Article 2 establishes the pattern of financial mismanagement (e.g., the $2.65 million farmland loss) and political influence (Burrell's maneuvering) that serves as the context for current actions discussed in Article 1, such as the $525,000 Clock Corner purchase, the need for an additional $10,000 Environmental Site Assessment, and the city's current financial strain from COVID-19 revenue loss.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Councilman Brown
+      *   Councilman Boone (Scott Boone/Kevin Boone connection)
+      *   Karin Wilson (Mayor)
+      *   Sherry Sullivan (Political candidate)
+      *   Goodwin, Mills and Cawood (Engineering firm)
+      *   Crowder Gulf, LLC (Disaster Debris Removal)
+      *   Sen Tripp Pittman
+      *   Fairhope City Council
+      *   CATALYST Party
+      *   City of Fairhope
+      *   Alabama Department of Public Health (ADPH)
+    llm_text: Did Jack Burrell and the Three B's misuse $2.65 million on recreation farmland? See documented evidence of council corruption dating back to 2016, revealing how local officials gained personal advantage at the City of Fairhope.
+    text: Did Jack Burrell and the Three B's misuse $2.65 million on farmland? Records show council corruption dating back to 2016, benefiting local officials over Fairhope.
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T19:27:25.153894Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-fairhope-jester:
+    refined_source: ae7abe8d0c8880696c185c6c1859efd0485cbe00bbf42e2c7c8fdd8415d63c85
+    brief: |-
+      THE CONFLICT:
+      *   Councilman Brown, Boone, and Burrell purchased $2.65 million in farmland for recreation.
+      *   They subsequently leased this land back for farming for $9,000 annually.
+      *   Councilman Brown was involved in the giveaway of the Triangle property, which cost taxpayers $13 million.
+      *   Councilman Brown used his office for personal gain and lied regarding permission from the Ethics Commission; a complaint was filed with the Attorney General, Mobile FBI, and Alabama Ethics Commission.
+
+      THE DISCOVERY:
+      *   The CATALYST City Council's actions (e.g., attempting to push the Arts and Crafts Show) were driven by self-interest, not public health.
+      *   Mayor Karin Wilson was noted for imploring the Governor to enact the shelter in place order and supporting the cancellation of Arts and Crafts, demonstrating community health prioritization over council members (Burrell and Brown) who wanted to "take a chance."
+
+      THE PIVOT:
+      *   The current COVID-19 response (Article 1) reflects the established pattern of self-interest from Article 2.
+      *   Council President Burrell authorized a $10,000 Environmental Site Assessment for the Clock Corner following his $525,000 purchase, demonstrating ongoing financial/deal issues related to his negotiation history.
+      *   The city needs the $2.65 million due to COVID-19 revenue loss, directly linking the financial consequence of the past deal (A2) to the current municipal crisis (A1).
+      *   The city postponed all public hearings due to COVID-19 limitations, limiting public oversight on ongoing deals like the $10,000 assessment.
+
+      KEY ENTITIES:
+      *   Council President Jack Burrell
+      *   Councilman Robert Brown
+      *   Councilman Boone
+      *   Mayor Karin Wilson
+      *   Angelo Corte
+      *   Goodwin, Mills and Cawood
+      *   Crowder Gulf, LLC
+      *   Sen Tripp Pittman
+      *   Sherry Sullivan
+      *   Fairhope
+      *   Baldwin County
+      *   NE Corner of Fairhope Avenue and Section Street (Clock Corner)
+    llm_text: Councilmen Brown, Boone, and Burrell bought $2.65 million in farmland for recreation, then leased it back for just $9,000. These self-serving deals continue while Mayor Karin Wilson manages the COVID-19 revenue crisis for Fairhope.
+    text: Councilmen Brown, Boone, and Burrell bought $2.65 million in farmland and leased it back for $9,000. These deals continue while Mayor Karin Wilson manages the COVID-19 crisis.
+    widget_date: "2020-04-08"
+    generated_at: "2026-11-07T19:28:56.078918Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  whose-agenda:
+    brief: |-
+      THE CONFLICT:
+      - Last Fairhope City Council meeting lasted only 30 minutes, described as shortest meeting on record.
+      - Council meeting timestamp: check in at 12:40 minute mark, beginning of agenda item #7.
+      - Resolution #7: postponed all public hearings of City Council, Planning Commission, and Board of Adjustments and Appeals until further notice, due to limitations on public gatherings and social distancing pursuant to advisement of Alabama Department of Public Health and Orders of the Governor.
+      - Council President Jack Burrell "promised" at 13:20 that the council was canceling public participation during the COVID-19 "stay at home order" as per the Governor's order.
+      - Resolution #8: Council President Jack Burrell authorized to negotiate and execute Professional Engineering Services contract with Goodwin, Mills and Cawood to perform Environmental Site Assessment including groundwater testing on property at NE Corner of Fairhope Avenue and Section Street (Clock Corner); contract not to exceed $10,000.
+      - Burrell, as master negotiator, and council botched Clock deal from day one; Burrell negotiated purchase of 1000 square feet, with a clock, for $525,000; next Burrell to explain old existing gas fuel tanks buried on site that have to be removed.
+      - Burrell along with Boone and Brown purchased 2.65 million in farmland for recreation and then promptly leased same land back for farming for $9 thousand a year; now city desperately needs 2.65 million due to revenue loss from COVID-19.
+      - Resolution #12: Mayor Karin Wilson authorized to execute contract for Extension No. 2 of Bid Number 020-18, Disaster Debris Removal and Disposal 2018, with Crowder Gulf, LLC for additional one year, per terms and conditions of original contract; based on per unit cost as specified in Bid Tabulation.
+      - Same contract that city gave to Sen. Tripp Pittman for years under previous Mayor; Burrell fought tooth and nail to continue giving contract to his "bible buddy" Pittman; newly elected Mayor said no; Pittman could not get bid in honest bidding process.
+      - LET'S HAVE A PARTY: at minute 22, Mr. Brown brought up fact that he had a conservation with Sherry Sullivan and came up with idea of a party celebrating going back to work; Burrell said wonderful idea and they could close all streets and have bands downtown.
+      - Same Mr. Brown who thinks we should all go to work NOW and that stay at home order was not necessary; why is Mr. Brown bringing up Sherry Sullivan? Same Sherry Sullivan along with Brown and Burrell who wanted to "Take a Chance" on Arts and Craft Show.
+      - CATALYST wants Sherry Sullivan as their next candidate for Mayor of Fairhope; former city employee who had numerous jobs, none for long; briefly in charge of recreation center, failed miserably.
+      - New Orleans and Mobile having difficult time with COVID-19; little argument that Mardi Gras was the culprit; what would have happened if Burrell, Brown and Sullivan got wish and had "Take a Chance" Arts and Craft Show? Fairhope Mayor Wilson and a couple of council members almost certainly prevented opportunity of COVID-19 being exposed to as many as 200,000 attendees.
+      - Resolution #16: City of Fairhope voted to purchase one E-ONE Custom Rescue Pumper Fire Truck for Fire Station #1; available for direct procurement through Houston-Galveston Area Council Contract FS12-19 which has been nationally bid; no need to let out for bid; total cost $517,157; joint purchase between City of Fairhope and Fairhope Volunteer Fire Department with 60/40 split; City paying up to $331,000 from Impact Fees and FVFDD paying up to $200,000.
+      - Burrell stated FVFDD was "Gracious" in donating $200 thousand towards purchase; Burrell did not mention that only a few months ago fire chief told Mayor in council chambers he would not provide city with any financial support; fire chief was rude and made a speech that FVFDD did not have to tell Mayor anything, they were independent, but they take city money.
+      - COVID-19 should be taken seriously and not time or place to talk about political rallies disguised as party.
+
+      THE DISCOVERY:
+      - Fairhope City Council agenda, March 8th, was loaded with resolutions that should catch eye of voters and raise many questions about City Council, NOT informing public about facts surrounding each resolution.
+      - Resolution #10: Mayor Karin Wilson or Council President Jack Burrell, on behalf of City of Fairhope, authorized to purchase properties owned by Baldwin County Board of Education: K-1 Center, Fairhopers Community Park, James P. Nix Center; execute and negotiate all documents necessary to complete closing and acquire title on behalf of City pursuant to executed Land Purchase Contract.
+      - This is second round of purchasing K1 Center, first failed; Council promises public hearings, hope Council lives up to promise and this time listens to all options.
+      - Resolution #11: City Council approves and authorizes Mayor Karin Wilson to execute one of Memorandums of Understanding between M&N of Alabama, LLC and City of Fairhope for Dredging of Main Channel of Fly Creek; authorize Mayor to execute contract for Bid No. 008-19.
+      - This is half million dollar contract, split between City and Fairhope Yacht Club; Council did not say a word about having to dredge before, nor did they say where material they are dredging came from; when Publix was built, massive flooding caused unstable construction site to spill tons of red fill and topsoil into creek; every time excessive rains, creek floods and pushes Publix fill downstream; Fairhope will have to dredge again and again in future and taxpayer will pick up check; Council favored developer over public and ignored accountability.
+      - Resolution #12: To authorize filing with County Board of Education of Baldwin County, Alabama, of Request for Special 3 Mill Ad Valorem School District Tax Election.
+      - Everyone agrees schools need more money; how to provide is question; Council President Jack Burrell "wants out of the school business"; way to accomplish is shift responsibility from Council to self-imposed tax.
+      - Council never explained or discussed with public Mayor's option of more expedient and equitable solution, not involving taxes; Council could have provided funds last night instead chose more difficult path of referendum and tax; Council playing political games with kids and not considering best interest of community when withholding information from public to satisfy agenda; Ripp Report will support 3 mil tax, kids and teachers desperately need it; unfortunate Council rejected even talking about options to tax; if tax fails, will Council then be willing to listen to Mayor's options?
+      - Resolution #27: Mayor Karin Wilson authorized to execute Change Order No. 2 to Bid No. 005-18, Library Envelope Repairs 2019 which adds additional 12 calendar days to contract for miscellaneous repairs due to unforeseen conditions discovered upon demolition and affects critical path schedule; and awards Change Order to MW Rogers Construction Co., LLC; Change Order will extend contract time from 210 calendar days to 222 calendar days.
+      - This is one of biggest scandals in Fairhope, kept quite by politicians sweeping under rug for years; former Mayor Can't, former Public Works Jennifer Fidler, Council President Burrell and Councilman Boone on top of totem pole of responsibility; library plagued with construction issues since day one; then Mayor and Council never held anyone responsible, Architect, or general contractors, repairs stacked up through years until present administration tackled issues; library closed for weeks, yet Council says not a word; should be special investigation into construction issues and why ignored; how do you build library for millions and have no warranty? Council explains nothing.
+      - Resolution #30: Executive Session - to discuss consideration the City is willing to offer or accept when considering purchase, sale, exchange, lease, or market value of real property; discussions could have detrimental effect upon competitive position of City in negotiations if matter discussed in public.
+      - Could be legitimate issue; however history of this Council, with aid of City Attorney, should make everyone nervous; not discussing things in public is their agenda.
+
+      THE PIVOT:
+      - Article 2 (WIDGET, March 8th agenda) is older than Article 1 (MAIN, last meeting); frame WIDGET as background/historical context.
+      - WIDGET's March 8th agenda resolutions (K-1 Center, dredging, school tax, library change order, executive session) loaded with resolutions raising questions, not informing public about facts; provides background for MAIN's last meeting resolutions and claims.
+      - WIDGET is the smoking gun/key context for MAIN because it documents prior council actions/inactions (K-1 second round, dredging, tax, library) that support MAIN's narrative of council distrust (Burrell promise, CATALYST party, COVID-19).
+      - WIDGET shows pattern of council withholding info/playing agenda, which is context for MAIN's assertions that council cannot be trusted.
+
+      KEY ENTITIES:
+      - Jack Burrell - Council President.
+      - Karin Wilson - Mayor.
+      - Sherry Sullivan - former city employee, CATALYST candidate for Mayor.
+      - Mr. Brown - involved with Sherry Sullivan conservation, raised party idea.
+      - Boone - Councilman.
+      - Jennifer Fidler - former Public Works.
+      - Tripp Pittman - Sen. Tripp Pittman.
+      - Goodwin, Mills and Cawood - Professional Engineering Services.
+      - Crowder Gulf, LLC - Disaster Debris Removal.
+      - M&N of Alabama, LLC - Dredging MOU.
+      - MW Rogers Construction Co., LLC - Library Envelope Repairs.
+      - Fairhope Volunteer Fire Department - $200k donation.
+      - Fairhope Yacht Club - dredging split.
+      - Baldwin County Board of Education - K-1 Center.
+      - City of Fairhope - City Council, Mayor, Council President.
+      - City Attorney.
+      - Fairhope Fire Station #1, E-ONE Custom Rescue Pumper, Houston-Galveston Area Council Contract FS12-19, Impact Fees.
+      - Fairhope Avenue and Section Street - Clock Corner.
+      - Fly Creek - dredging.
+      - Publix - construction/flooding.
+      - Library - construction issues.
+      - Alabama Department of Public Health, Governor, COVID-19, Mardi Gras, New Orleans, Mobile, Fairhope.
+      - Lowery, Wilters - names to mention.
+    llm_text: Fairhope's council postponed public hearings and planned a welcome-back party while Jack Burrell pushed a $525,000 clock deal. The Ripp Report's widget agenda shows the council hid dredging, school-tax, and library secrets before its COVID-19 decisions.
+    text: Fairhope's council postponed public hearings and planned a welcome-back party while Jack Burrell pushed a $525,000 clock deal. The Ripp Report's widget agenda shows the council hid dredging, school-tax, and library secrets before its COVID-19 decisions.
+    widget_date: "2019-03-08"
+    generated_at: "2026-11-07T19:27:27.654696Z"
+    model_name: recursive/flint-v1.0:free
+  lost-opportunity:
+    refined_source: 8cc36c44d6528eb9a74fd68549c1b3dc80a7a4ed215958717c00d646df96987a
+    brief: |-
+      THE CONFLICT: Burrell, Boone, and Brown purchased 2.65 million in farmland for recreation; they promptly leased the same land back for 9 thousand a year.
+      THE DISCOVERY: The 2.6 million figure from the farmland purchase aligns with the 2.6 million cut to city staff, police, and fire budgets due to COVID-19 income loss.
+      THE PIVOT: Article 2 establishes the financial drain (2.65M purchase for 9K lease) which necessitates the budget cuts mentioned in Article 1, linking Burrell's past financial decisions to current COVID-19 fiscal distress.
+      KEY ENTITIES: Jack Burrell, Boone, Brown, Karin Wilson, Sherry Sullivan, Crowder Gulf, LLC, Sen Tripp Pittman
+    llm_text: Burrell, Boone, and Brown spent $2.65 million on farmland they immediately leased back for $9K. See how this purchase forced the 2.6 million city budget cuts affecting staff and police during COVID-19.
+    text: Burrell, Boone, and Brown spent $2.65 million on farmland and leased it back for nine thousand dollars. This deal forced city budget cuts for staff and police during COVID-19.
+    widget_date: "2020-03-26"
+    generated_at: "2026-11-07T19:26:20.982126Z"
+    model_name: plugsky-lite

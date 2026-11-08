@@ -1,0 +1,138 @@
+metadata:
+  generated_at: "2026-11-08T13:55:45.155294Z"
+  generator_version: 1.0.0
+  post_slug: flying-high
+  main_date: "2018-05-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  elliotttuckercatalyst-selling-your-soul:
+    brief: |-
+      THE CONFLICT: Chris Elliott sought a Senate seat held by Boom Boom Pittman. Elliott and Tucker Dorsey used developer donations from Catalyst to campaign. They were responsible for the mega-site deal, valued at 35 million for a cow pasture, paid for using county reserves/taxpayers' money.
+      THE DISCOVERY: Elliott and Tucker were prioritizing financial gain ("our fair share," "good ole boy deal") over public interest, using county funds for PR and facilitating land deals beneficial to developers.
+      THE PIVOT: Article 2 establishes a historical pattern of politically motivated, developer-backed financial corruption and misuse of taxpayer funds (mega-site) by candidates like Elliott/Tucker, providing context for the current local obstruction and self-serving financial committee push by Jack Burrell and Robert Brown in Fairhope.
+      KEY ENTITIES: Jack Burrell, Robert Brown, Chucky Zunk, Tim Kant, Fairhope City Council, Chris Elliott, Tucker Dorsey, Catalyst, Boom Boom Pittman, Fairhope Airport, Baldwin County.
+    llm_text: Chris Elliott and Tucker Dorsey used county reserves to fund a $35 million mega-site deal for Catalyst, prioritizing "good ole boy" developer gain. This corruption pattern connects directly to current Fairhope issues involving Jack Burrell and Robert Brown.
+    widget_date: "2018-05-24"
+    generated_at: "2026-11-08T13:49:37.121687Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  police-report:
+    brief: |-
+      THE CONFLICT:
+      *   Allegations existed regarding Mr. Jack Burrell having connections used to evade several law incidents in Fairhope.
+      *   In January of this year, the Ripp Report requested a police report for Jack Burrell in Fairhope through an attorney in Birmingham.
+      *   The Fairhope City Council was made aware of the police report weeks ago but chose to ignore it.
+      *   Mr. Burrell has never disclosed his police record.
+
+      THE DISCOVERY:
+      *   Article 2 (Widget Article) established that Burrell has a police record which he has concealed, and that the City Council was aware of this fact and failed to act.
+
+      THE PIVOT:
+      *   Article 2 provides the foundational context of Burrell's lack of transparency and potential legal impropriety (police record), which supports Article 1's claims of obstruction and corruption, specifically regarding Burrell's attempt to control the City Budget and the Fairhope Airport Authority.
+
+      KEY ENTITIES:
+      *   Jack Burrell (President of Fairhope City Council; liaison to Airport Authority Board)
+      *   Robert Brown (City Councilman supporting Burrell’s financial committee)
+      *   Chuck Zunk (Recruited to "head" Burrell’s hand-picked financial committee; former Airport Board member)
+      *   Fairhope Airport Authority
+      *   Fairhope City Council
+      *   Tim Kant (Former figure whose loss initiated Burrell’s obstruction process)
+      *   Judge Michelle Thomason
+      *   Mayor (of Fairhope)
+    llm_text: Jack Burrell, President of the Fairhope City Council, hid a police record related to law incidents in Fairhope. The Council knew about this lack of transparency but ignored it, raising serious questions about his control over the Fairhope Airport Authority budget.
+    widget_date: "2018-05-23"
+    generated_at: "2026-11-08T13:51:30.708186Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-alabama-values:
+    brief: |-
+      THE CONFLICT:
+      *   Tim Kant lost in Fairhope.
+      *   The political entity known as Catalyst formed, involving Chris Elliott (appointed to Baldwin County Commission by Governor Robert Bentley) and partners like Elliott Haygood and Stacy.
+      *   Catalyst aimed for total control of the Baldwin County Commission and 14 municipal Mayor seats.
+      *   Catalyst used intimidation and bullying to attack newly elected Mayor Karin Wilson.
+      *   Pittman took $750,000 of BP money and maintained municipal contracts with Fairhope while serving as State Senator.
+
+      THE DISCOVERY:
+      *   Article 2 reveals that the corruption and political manipulation (Catalyst) originated in Baldwin County politics before the Fairhope municipal issues were central.
+      *   Catalyst's initial failure to remove Mayor Wilson in Fairhope led them to push Chris Elliott into the State Senate race.
+      *   Catalyst's strategy was to control local power via coordinated slates of candidates.
+
+      THE PIVOT:
+      *   Article 2 establishes Catalyst as the underlying, systemic source of political control and corruption in the region.
+      *   Article 1 shows how Catalyst (via Jack Burrell) and local council members (Robert Brown) weaponized municipal government (Fairhope City Council/Airport) to obstruct the Mayor and seize control of the budget and financial committees, mirroring the manipulative power plays described in Article 2.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   Robert Bentley (Governor)
+      *   Tim Kant
+      *   Tripp Pittman
+      *   Jack Burrell
+      *   Robert Brown (Fairhope City Councilman)
+      *   Karin Wilson (Mayor, Fairhope)
+      *   Chucky Cheese
+      *   Tucker Dorsey
+      *   Catalyst
+      *   Fairhope City Council
+      *   Fairhope Airport
+      *   Baldwin County Commission
+    llm_text: Catalyst, involving Chris Elliott and Robert Bentley appointments, didn't just target Mayor Karin Wilson in Fairhope. This systemic corruption originated in Baldwin County, showing how local power grabs control the entire region.
+    widget_date: "2018-05-18"
+    generated_at: "2026-11-08T13:52:36.784435Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  public-access:
+    brief: |-
+      THE CONFLICT: Commissioner Chris Elliott and Commissioner Tucker Dorsey obstructed public access on Zundel Road, defending actions based on major donor interests, despite a Tatumville/Big Head Gully Petition gathering over 2200 signatures.
+      THE DISCOVERY: Dorsey and Elliott prioritized the interests of Bay-based major donors over legal public access to Mobile Bay.
+      THE PIVOT: Both incidents illustrate a pattern of local political obstruction and corruption, where elected officials (County Commissioners/Fairhope City Council) prioritize personal/donor interests and control (Airport/Zundel Road access) over public welfare (budget approval/public access).
+      KEY ENTITIES: Tucker Dorsey, Chris Elliott, Zundel Road, Jack Burrell, Robert Brown, Fairhope City Council, Fairhope Airport, Mayor.
+    llm_text: Commissioners Chris Elliott and Tucker Dorsey blocked Zundel Road access, ignoring a petition with over 2200 signatures. They prioritized Bay-based major donors over public welfare, showing a pattern of local obstruction you need to see.
+    widget_date: "2018-05-11"
+    generated_at: "2026-11-08T13:53:25.586859Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-top-dogs:
+    brief: |-
+      THE CONFLICT:
+      Tucker Dorsey and Chris Elliott were candidates/commissioners in 2018 (June 5, 2018) who were dependent on donations from Bay residents seeking to restrict public access to the Bay.
+
+      THE DISCOVERY:
+      Tucker Dorsey utilized LLCs at Summerdale 13040 Underwood Rd to conceal business interests related to Baldwin County Sewer and Clarence Burke. Chris Elliott was associated with the Mega “Dump” site costing taxpayers 32+ MILLION.
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of local political figures prioritizing private interests (Bay access/LLC profits/tax waste) over public good, mirroring the current obstruction in Fairhope where Jack Burrell and Robert Brown use a hand-picked financial committee to control city budget/bid committees, rather than ensuring the Fairhope Airport (purchased by tax dollars) title is in the City’s name.
+
+      KEY ENTITIES:
+      Tucker Dorsey
+      Chris Elliott
+      Jack Burrell
+      Robert Brown
+      Chucky Cheese (Chuck Zunk)
+      Fairhope Airport
+      Catalyst
+      Clarence Burke
+      Summerdale 13040 Underwood Rd
+      June 5 2018
+      32+ MILLION
+      Tim Kant
+    llm_text: Tucker Dorsey used LLCs at Summerdale 13040 Underwood Rd to hide interests, while Chris Elliott linked to a 32+ MILLION dump cost in 2018. See how this pattern mirrors Jack Burrell and Robert Brown prioritizing private interests over securing the Fairhope Airport title.
+    widget_date: "2018-05-04"
+    generated_at: "2026-11-08T13:54:23.976867Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-does-fairhope:
+    brief: |-
+      THE CONFLICT: During Mayor Tim Kant's administration, the City Council aided developer Angelo Corte, leading to the development of 230 apartments on Fly Creek, financed by taxpayer-paid infrastructure (Fire Station, sewer lift station).
+      THE DISCOVERY: Article 2 revealed that the City Council accepted a "Gift" of wetlands liability (drainage from Corte's Publix property into Fly Creek) from the developer, forcing taxpayers to handle environmental costs.
+      THE PIVOT: Article 2 establishes a historical pattern where the City Council (including Councilmen Burrell and Boone) prioritized developer profit (Corte) and circumvented community outcry, which directly relates to the current obstruction of the Fairhope City Council regarding the budget and the push by Jack Burrell and Robert Brown to control bid/finance committees.
+      KEY ENTITIES: Tim Kant, Angelo Corte, Jack Burrell, Robert Brown, Catalyst, Fairhope Airport, Fly Creek, Councilmen Burrell and Boone
+    llm_text: Mayor Tim Kant's council helped Angelo Corte build 230 apartments on Fly Creek, forcing taxpayers to cover wetlands liability. This pattern of favoring developers—seen with Councilmen Burrell and Boone—explains today's budget fights led by Jack Burrell and Robert Brown.
+    widget_date: "2018-04-20"
+    generated_at: "2026-11-08T13:50:38.943945Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-birds-of-the-same-feather:
+    brief: |-
+      THE CONFLICT: Catalyst, an old guard political machine in Baldwin County, formed from Stacy Elliott and Haygood; Tim Kant supported the Fly Creek Apartments project despite public opposition and endorsed Joe Davis for District two.
+      THE DISCOVERY: Catalyst systematically selects candidates for multiple races (Probate Judge, State Senate, County Commission) using intimidation and bully tactics to secure control and facilitate deals like the county Mega-Site.
+      THE PIVOT: The current obstruction in Fairhope (budget failure, Airport Authority control) involving Jack Burrell and Councilman Robert Brown is presented as a continuation of the entrenched, self-serving political control structure (Catalyst/old guard) established by past figures like Tim Kant.
+      KEY ENTITIES: Catalyst, Stacy Elliott, Chris Elliott, Haygood, Scott Boone, Tim Kant, Joe Davis, John Lake, Jack Burrell, Robert Brown, Chuck Zunk, Fairhope Airport, Fairhope City Council, Mayor.
+    llm_text: Catalyst, led by Stacy Elliott and Haygood, uses intimidation to control Baldwin County elections, securing deals like the Mega-Site. This old guard structure now influences Fairhope issues involving Jack Burrell and Robert Brown—read how to challenge entrenched power.
+    widget_date: "2018-04-13"
+    generated_at: "2026-11-08T13:55:28.669695Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

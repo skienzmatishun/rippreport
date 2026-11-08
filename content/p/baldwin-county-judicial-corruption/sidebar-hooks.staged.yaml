@@ -5,40 +5,12 @@ metadata:
   main_date: "2023-12-07"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  delicately-censored:
-    brief: |-
-      THE CONFLICT:
-      Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from the father of a Bay Minette Attorney, giving him 43 days.
-
-      THE DISCOVERY:
-      Article 2 established a historical context of judicial and law enforcement misconduct within Baldwin County, linked to the Mike Hubbard and Governor Robert Bentley scandals.
-
-      THE PIVOT:
-      Article 2 provides historical evidence of judicial overreach and law enforcement misconduct involving the Mack family and Baldwin County institutions, supporting the allegations of deep-rooted judicial corruption detailed in Article 1 regarding Murray Lawrence's wrongful conviction.
-
-      KEY ENTITIES:
-      Sheriff Hoss Mack
-      Murray Lawrence
-      District Attorney Robert Wilters
-      Judge (unnamed in A1, linked to corruption)
-      David Whetstone (prosecutor)
-      Baldwin County Judge Clark Stankoski
-      Sheriff Huey Mack
-      Hoss Mack
-      Robert Bentley
-      Mike Hubbard
-      Bay Minette Attorney
-      $600,000.00 (promised for cameras)
-    llm_text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from a Bay Minette Attorney's father. This order exposes deep Baldwin County judicial corruption, connecting current misconduct to the Mike Hubbard and Robert Bentley scandals.
-    widget_date: "2023-11-23"
-    generated_at: "2026-11-06T18:38:39.594332Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
     brief: |-
       THE CONFLICT:
       - Baldwin County, Alabama: Baldwin County Sheriff’s Office (BCSO), Sheriff Hoss “Boss” Mack, and judicial/prosecutorial allegations.
-      - BCSO allegedly had criminal cases and loss-of-life cases questioned by citizens for about 20 years.
-      - BCSO allegedly used its “internal” Major Crimes Division to gloss over complaints.
+      - BCSO had criminal cases and loss-of-life cases questioned by citizens for about 20 years.
+      - BCSO used its “internal” Major Crimes Division to gloss over complaints.
       - Sheriff’s deputies never found responsible, EVER; no accountability and no transparency.
       - Hoss Mack promised County Commission that body and car cameras, $600,000.00 worth, were for public as well as police.
       - Same Sheriff either did not release any camera footage or released edited footage.
@@ -152,10 +124,12 @@ hooks:
       - Lagniappe
       - Page and Pallet Bookstore
     llm_text: Baldwin County Sheriff Hoss Mack’s office spent years hiding body and dash cam footage while cases of deadly force and false convictions piled up. Now newly discovered evidence may prove Murray Lawrence innocent, and it’s raising questions about a sheriff who put self-promotion above accountability.
+    text: Baldwin County Sheriff Hoss Mack’s office spent years hiding body and dash cam footage while cases of deadly force and false convictions piled up. Now newly discovered evidence may prove Murray Lawrence innocent, and it’s raising questions about a sheriff who put self-promotion above accountability.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T18:39:23.086999Z"
     model_name: recursive/flint-v1.0:free
   stinky-business:
+    refined_source: 73cef665d23739d45b2817acf4c2a9b80b4d95efe5712573fb5c096195e3318f
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence was incarcerated for 20 years due to a wrongful conviction in Baldwin County.
@@ -180,6 +154,37 @@ hooks:
       *   ADEM
       *   Gulf Shores
     llm_text: Murray Lawrence endured 20 years in prison due to a wrongful conviction, with state authorities willfully suppressing evidence. This judicial corruption mirrors the unchecked misconduct of private utility BCSS in Baldwin County, revealing systemic rot in Gulf Shores.
+    text: Murray Lawrence spends 20 years in prison due to a wrongful conviction after state authorities suppress evidence. Private utility BCSS operates with similar unchecked misconduct, exposing systemic rot in Gulf Shores.
     widget_date: "2022-05-19"
     generated_at: "2026-11-06T18:39:38.312213Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  delicately-censored:
+    refined_source: d1b5256ee325c1c8dea82278f84c9a8e2a8c381602d02d12c62c0b7d31890061
+    brief: |-
+      THE CONFLICT:
+      Baldwin County Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from the father of a Bay Minette Attorney, giving him 43 days.
+
+      THE DISCOVERY:
+      Article 2 established a historical context of judicial and law enforcement misconduct within Baldwin County, linked to the Mike Hubbard and Governor Robert Bentley scandals.
+
+      THE PIVOT:
+      Article 2 provides historical evidence of judicial overreach and law enforcement misconduct involving the Mack family and Baldwin County institutions, supporting the allegations of deep-rooted judicial corruption detailed in Article 1 regarding Murray Lawrence's wrongful conviction.
+
+      KEY ENTITIES:
+      Sheriff Hoss Mack
+      Murray Lawrence
+      District Attorney Robert Wilters
+      Judge (unnamed in A1, linked to corruption)
+      David Whetstone (prosecutor)
+      Baldwin County Judge Clark Stankoski
+      Sheriff Huey Mack
+      Hoss Mack
+      Robert Bentley
+      Mike Hubbard
+      Bay Minette Attorney
+      $600,000.00 (promised for cameras)
+    llm_text: Judge Clark Stankoski ordered Sheriff Huey Mack to return a Camaro seized from a Bay Minette Attorney's father. This order exposes deep Baldwin County judicial corruption, connecting current misconduct to the Mike Hubbard and Robert Bentley scandals.
+    text: Judge Clark Stankoski orders Sheriff Huey Mack to return a seized Camaro to a Bay Minette attorney's father. This judicial order exposes deep Baldwin County corruption that mirrors the Mike Hubbard and Robert Bentley scandals.
+    widget_date: "2023-11-23"
+    generated_at: "2026-11-06T18:38:39.594332Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

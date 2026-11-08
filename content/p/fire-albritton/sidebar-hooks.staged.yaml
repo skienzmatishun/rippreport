@@ -5,47 +5,56 @@ metadata:
   main_date: "2024-11-03"
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
-  stirring-the-pot-bsp:
-    brief: "THE CONFLICT: Governor Ivey moved to remove Kent Davis, the Director of the Alabama Department of Veterans Affairs, from his position.\n\nTHE DISCOVERY: Article 2 establishes that Davis was viewed as a highly reputable public servant and records the Governor's initial demand for his immediate resignation.\n\nTHE PIVOT: The removal of Davis (the \"reputable\" individual) serves as the operational cover for the protection of Tom Albritton, Executive Director of the Alabama Ethics Commission, who is accused of using the Mabel Amos Trust for blackmail and managing millions in unaccounted funds.\n\nKEY ENTITIES: \n- Governor Ivey\n- Kent Davis (Director, Alabama Department of Veterans Affairs)\n- Tom Albritton (Executive Director, Alabama Ethics Commission)\n- Mabel Amos Trust\n- Alabama Ethics Commission"
-    llm_text: Governor Ivey is forcing the reputable Kent Davis out of his position at the Alabama Department of Veterans Affairs. This move shields Tom Albritton as he allegedly uses the Mabel Amos Trust for blackmail and manages millions in unaccounted funds.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T16:03:26.400142Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022.
-      THE DISCOVERY: Article 2 revealed that Kent Davis held the position of Veterans Affairs Director in 2022.
-      THE PIVOT: Article 2 establishes Kent Davis's official role (Veterans Affairs Director) prior to the event detailed in Article 1 (his firing by the Governor).
-      KEY ENTITIES: Tom Albritton, Kent Davis, Mabel Amos Trust, Katie Britt, Thomas Daniel "Danny" Williams Jr.
-    llm_text: Thomas Daniel "Danny" Williams Jr died in Orange Beach in May 2022. Kent Davis held the Veterans Affairs Director position before his firing, raising critical questions about the response to the tragedy.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T16:03:31.510181Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stealing-from-kids:
-    brief: |-
-      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission, faced scrutiny for criminal behavior related to the fiduciary interests of financially needy children in Alabama, overseen by Judge Johnny Hardwick.
-      THE DISCOVERY: Article 2 revealed Albritton's historical pattern of criminal conduct related to fiduciary duties concerning children.
-      THE PIVOT: Article 2 establishes Albritton's documented, prior criminal and unethical conduct, providing context that his later misconduct regarding the Mabel Amos Trust (millions unaccountable) is part of a systemic corruption rather than an isolated incident.
-      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Kent Davis, Judge Johnny Hardwick, Mathews, Alabama Ethics Commission
-    llm_text: Tom Albritton, Executive Director of the Alabama Ethics Commission, had a documented history of criminal conduct concerning financially needy children. This pattern proves his Mabel Amos Trust issues reflect systemic corruption, not just an isolated incident.
-    widget_date: "2023-11-04"
-    generated_at: "2026-11-06T16:04:26.119337Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   elliott-history-lesson:
     brief: "THE CONFLICT: Senator Chris Elliott operated as a lone wolf in Baldwin County politics, executing political retaliation against the Alabama Department of Archives, pushing legislation for a fifth commissioner against overwhelming local opposition, spearheading a lease deal for Mayor Bob Wills, and carrying water for Sheriff Hoss Mack while his wife was employed by the Sheriff's office.\n\nTHE DISCOVERY: The historical context reveals a pattern of backroom political dealing and conflicts of interest, including Senator Elliott's past DUI, a 1% tax pushed onto constituents, denial of healthcare access for the poor, financial ties through renting property to Rolin Construction (a Porch Creek Indian company), and bypassing the Baldwin County Delegation on public relations events and legislation.\n\nTHE PIVOT: Senator Elliott's documented history of political corruption, ethical bypasses, and serving as an errand boy for local power brokers (Sheriff Hoss Mack and Mayor Bob Wills) serves as the baseline context proving that Alabama's systemic corruption—similar to Tom Albritton's shielded actions at the Ethics Commission—operates unchecked across both state and local levels.\n\nKEY ENTITIES: \n- Senator Chris Elliott\n- Sheriff Hoss Mack\n- Dr. Maigen Sullivan\n- Mayor Bob Wills (Cover-up Bob)\n- Kent Davis\n- Tom Albritton\n- Governor (Me Ma / Ivey)\n- Invisible Histories Project\n- Rolin Construction\n- Alabama Department of Veterans Affairs\n- Alabama Ethics Commission\n- Mabel Amos Trust\n- Baldwin County Delegation"
     llm_text: Senator Chris Elliott acts as a political errand boy for Sheriff Hoss Mack and Mayor Bob Wills, trading favors and bypassing the Baldwin County Delegation. Read how Elliott's backroom deals prove systemic corruption runs unchecked across Alabama.
+    text: Senator Chris Elliott acts as a political errand boy for Sheriff Hoss Mack and Mayor Bob Wills, trading favors and bypassing the Baldwin County Delegation. Read how Elliott's backroom deals prove systemic corruption runs unchecked across Alabama.
     widget_date: "2023-07-15"
     generated_at: "2026-11-06T16:02:51.068589Z"
     model_name: gemini-3.5-flash-lite
   hair-on-fire:
     brief: "THE CONFLICT: Governor Ivey used extreme executive power to fire Alabama Department of Veterans Affairs Director Kent Davis. Simultaneously, Alabama Ethics Commission Executive Director Tom Albritton remains in office drawing a $100,000+ salary despite allegations of unethical behavior involving millions of unaccountable dollars from the Mabel Amos Trust and undisclosed lists of donation/scholarship recipients used as blackmail. In a separate legislative battle detailed in past reporting, State Senator Chris Elliott (R-Josephine) pushed Senate Bill 306—backed by Baldwin County Sheriff Hoss Mack—to create a full-time, non-rotating chairman position for the Baldwin County Commission, overriding local opposition and ignoring the local delegation.\n\nTHE DISCOVERY: The older background context (Widget Article) exposes the legislative overreach and political machinations of Senator Chris Elliott and Sheriff Hoss Mack in Baldwin County. It captures internal political fractures, specifically noting that Sen. Greg Albritton (R-Range) opposed and voted against Elliott's Senate Bill 306 due to a lack of public and commission support (\"A government cannot operate without the support of its populace\").\n\nTHE PIVOT: The historical context of the Albritton name and legislative corruption links the broader systemic rot at Goat Hill to local power players. While Sen. Greg Albritton pushes back against rogue legislation like SB 306 in one arena, Tom Albritton acts as the poster boy of corruption at the Ethics Commission, protecting politicians, lawyers, and judges implicated in the Mabel Amos Trust scandal.\n\nKEY ENTITIES: \n- Tom Albritton (Executive Director, Alabama Ethics Commission)\n- Kent Davis (Former Director, Alabama Department of Veterans Affairs)\n- Governor \"Me Ma\" Ivey\n- Chris Elliott (State Senator, R-Josephine)\n- Greg Albritton (State Senator, R-Range)\n- Hoss Mack (Sheriff, Baldwin County)\n- Mabel Amos (Trust namesake)"
     llm_text: Governor Ivey ousted Kent Davis while Tom Albritton dodges ethics probes over millions in unaccountable Mabel Amos Trust funds. Dive into how Senator Chris Elliott and Sheriff Hoss Mack mirror this Goat Hill corruption by ramming through self-serving local legislation.
+    text: Governor Ivey ousted Kent Davis while Tom Albritton dodges ethics probes over millions in unaccountable Mabel Amos Trust funds. Dive into how Senator Chris Elliott and Sheriff Hoss Mack mirror this Goat Hill corruption by ramming through self-serving local legislation.
     widget_date: "2023-05-18"
     generated_at: "2026-11-06T16:02:56.803087Z"
     model_name: gemini-3.5-flash-lite
   go-to-hell-ethics:
     brief: "THE CONFLICT: \n- Baldwin County Legislative Delegation entered into a lease agreement to rent office space in a law building owned by Bay Minette Mayor Bob Wills at 125 D’Olive Street.\n- Initially, the deal cost taxpayers $4,090 per month for five years covering the entire ground floor, as reported by Lagniappe in December.\n- Following complaints, the deal was revised: the delegation cut monthly rent in half to $1,750 per month until December 2027 for two offices, two conference rooms, a parking lot, and other amenities.\n- Baldwin Commission Attorney Brad Hicks declared there was no ethics violation and refused to seek an official opinion from the Ethics Commission, Attorney General, or the Speaker of the House's legal counsel.\n\nTHE DISCOVERY: \n- County Attorney Brad Hicks improperly assumed the authority to unilaterally decide what is ethical rather than consulting oversight agencies.\n- The rushed restructuring of the lease—slashing the rent after public complaints—added suspicion to an already questionable arrangement involving public funds flowing directly to an elected mayor.\n\nTHE PIVOT: \n- Article 2 serves as the operational blueprint demonstrating the toothlessness, failure, and systemic corruption of Alabama's ethics apparatus referenced in Article 1. \n- While Article 1 exposes Tom Albritton and the Ethics Commission as a broken joke shielding elite corruption (via the Mabel Amos Trust), Article 2 provides the granular local proof of how officials like Brad Hicks bypass the Ethics Commission entirely to greenlight self-dealing and sweetheart lease deals for politicians.\n\nKEY ENTITIES: \n- Brad Hicks (Baldwin Commission Attorney)\n- Mayor Bob Wills (Mayor of Bay Minette / Building Owner)\n- Ripp (Complainant / Investigator)\n- Tom Albritton (Executive Director, Alabama Ethics Commission)\n- Governor \"Me Ma\" / Ivey\n- Kent Davis (Fired Alabama Department of Veterans Affairs Director)\n- Mabel Amos Trust\n- Baldwin County Legislative Delegation\n- Alabama Ethics Commission\n- Lagniappe (Publication)"
     llm_text: When Baldwin County Attorney Brad Hicks waved away ethics concerns over Mayor Bob Wills’ sweetheart lease, he proved why Alabama’s oversight is a broken joke. Read the full Ripp Report breakdown to see how local officials greenlight self-dealing with your tax dollars.
+    text: When Baldwin County Attorney Brad Hicks waved away ethics concerns over Mayor Bob Wills’ sweetheart lease, he proved why Alabama’s oversight is a broken joke. Read the full Ripp Report breakdown to see how local officials greenlight self-dealing with your tax dollars.
     widget_date: "2023-01-28"
     generated_at: "2026-11-06T16:03:03.459218Z"
     model_name: gemini-3.5-flash-lite
+  stirring-the-pot-bsp:
+    refined_source: 5be0067291a3d437960414aa90c7f358a63095185a9b6f5e1b6a781e2f068a4e
+    brief: "THE CONFLICT: Governor Ivey moved to remove Kent Davis, the Director of the Alabama Department of Veterans Affairs, from his position.\n\nTHE DISCOVERY: Article 2 establishes that Davis was viewed as a highly reputable public servant and records the Governor's initial demand for his immediate resignation.\n\nTHE PIVOT: The removal of Davis (the \"reputable\" individual) serves as the operational cover for the protection of Tom Albritton, Executive Director of the Alabama Ethics Commission, who is accused of using the Mabel Amos Trust for blackmail and managing millions in unaccounted funds.\n\nKEY ENTITIES: \n- Governor Ivey\n- Kent Davis (Director, Alabama Department of Veterans Affairs)\n- Tom Albritton (Executive Director, Alabama Ethics Commission)\n- Mabel Amos Trust\n- Alabama Ethics Commission"
+    llm_text: Governor Ivey is forcing the reputable Kent Davis out of his position at the Alabama Department of Veterans Affairs. This move shields Tom Albritton as he uses the Mabel Amos Trust for blackmail and manages millions in unaccounted funds.
+    text: Governor Ivey forces Kent Davis out of the Alabama Department of Veterans Affairs. This move shields Tom Albritton as he uses the Mabel Amos Trust and manages millions in unaccounted funds.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T16:03:26.400142Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  the-pete-rose:
+    refined_source: 7ee2405d61c92bf4fe3dad9d6b5f3937bdebc0aa89f8c337e1b2008f4578f8ef
+    brief: |-
+      THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022.
+      THE DISCOVERY: Article 2 revealed that Kent Davis held the position of Veterans Affairs Director in 2022.
+      THE PIVOT: Article 2 establishes Kent Davis's official role (Veterans Affairs Director) prior to the event detailed in Article 1 (his firing by the Governor).
+      KEY ENTITIES: Tom Albritton, Kent Davis, Mabel Amos Trust, Katie Britt, Thomas Daniel "Danny" Williams Jr.
+    llm_text: Thomas Daniel "Danny" Williams Jr died in Orange Beach in May 2022. Kent Davis held the Veterans Affairs Director position before his firing, raising critical questions about the response to the tragedy.
+    text: Thomas Daniel Williams Jr died in Orange Beach in May 2022. Kent Davis held the Veterans Affairs Director position before his firing, raising critical questions about the response to the tragedy.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T16:03:31.510181Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stealing-from-kids:
+    refined_source: a3b4aa80acf42d0d732a9d8e820d8d96dec09bfa20a0e4541a21dd5239726a0b
+    brief: |-
+      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission, faced scrutiny for criminal behavior related to the fiduciary interests of financially needy children in Alabama, overseen by Judge Johnny Hardwick.
+      THE DISCOVERY: Article 2 revealed Albritton's historical pattern of criminal conduct related to fiduciary duties concerning children.
+      THE PIVOT: Article 2 establishes Albritton's documented, prior criminal and unethical conduct, providing context that his later misconduct regarding the Mabel Amos Trust (millions unaccountable) is part of a systemic corruption rather than an isolated incident.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Kent Davis, Judge Johnny Hardwick, Mathews, Alabama Ethics Commission
+    llm_text: Tom Albritton, Executive Director of the Alabama Ethics Commission, had a documented history of criminal conduct concerning financially needy children. This pattern proves his Mabel Amos Trust issues reflect systemic corruption, not just an isolated incident.
+    text: Tom Albritton of the Alabama Ethics Commission has a documented history of criminal conduct concerning needy children. His Mabel Amos Trust issues reflect systemic corruption rather than an isolated incident.
+    widget_date: "2023-11-04"
+    generated_at: "2026-11-06T16:04:26.119337Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

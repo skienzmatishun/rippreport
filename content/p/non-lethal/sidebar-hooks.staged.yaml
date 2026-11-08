@@ -1,0 +1,60 @@
+metadata:
+  generated_at: "2026-11-07T11:23:01.360953Z"
+  generator_version: 1.0.0
+  post_slug: non-lethal
+  main_date: "2021-02-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  crazy:
+    refined_source: 3894c5f072c1a0b77879cb4b52859a4f0a7b522a83689db30091e54ff7f374fc
+    brief: |-
+      THE CONFLICT:
+      *   In the past, the alleged suicide of a 19-year-old confidential informant was covered up in Baldwin County.
+      *   In May 2017, Sheriff Hoss Mack stated the Baldwin County Sheriff's Office (BCSO) lacked a crisis intervention team and de-escalation training.
+      *   In the Johnathan Victor case, Victor was shot four times at 7 yards with an Ruger AR-15 (unarmed).
+
+      THE DISCOVERY:
+      *   The Baldwin County system (judicial/municipal) historically labels attorneys and whistleblowers as "CRAZY" to avoid investigations and bury evidence (e.g., the 19-year-old case).
+      *   Baldwin County is statistically noted as one of the most corrupt counties in Alabama.
+
+      THE PIVOT:
+      *   Article 2 proves the systemic, historical culture of corruption and retaliation against truth-tellers, which explains why the BCSO refused to turn over critical body camera and vehicle footage in the Johnathan Victor case.
+
+      KEY ENTITIES:
+      *   Johnathan Victor
+      *   Hoss Mack
+      *   Baldwin County Police
+      *   Bay Minette Police
+      *   Baldwin County Sheriff’s Department
+      *   Taser X26
+      *   AR-15 rifles
+      *   January 19, 2021 (Article 1 date)
+    llm_text: Johnathan Victor faced four shots from an AR-15, but this case proves Baldwin County’s systemic corruption. The BCSO hides critical footage because the system labels truth-tellers as "CRAZY," not just because Sheriff Hoss Mack lacks training.
+    text: Johnathan Victor survived four shots from an AR-15 fired by deputies. The Baldwin County Sheriff's Office hides critical body camera footage to avoid public accountability.
+    widget_date: "2019-09-20"
+    generated_at: "2026-11-07T11:22:32.954624Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  super-bowl-lv:
+    refined_source: 8eed0ca28d9d8ca525d9884deff4d39d91026a692aa6a3ae0da9a1f23d4b10c8
+    brief: |-
+      THE CONFLICT: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in May 2017 in Baldwin County.
+      THE DISCOVERY: Super Bowl LV context (2020) highlights national political division, referencing a "contested election" and an "insurrection" in the nation's Capital.
+      THE PIVOT: Article 2 establishes a historical context of intense national polarization and perceived unrest, contrasting sharply with Article 1's findings that Baldwin County Sheriff's Office (BCSO) prioritized lethal military weapons (AR-15 rifles) over non-lethal options (Taser X26) and lacked de-escalation training in 2017.
+      KEY ENTITIES: Johnathan Victor, Hoss Mack, Baldwin County, Bay Minette, AR-15, Taser X26, $212,000, Lagniappe
+    llm_text: In 2017, Baldwin County Sheriff's Office shot Johnathan Victor four times with an AR-15, prioritizing lethal force over non-lethal options like the Taser X26. This failure to de-escalate raises critical questions about police readiness amid intense national polarization.
+    text: The Baldwin County Sheriff's Office shot Johnathan Victor four times with an AR-15 in 2017. This failure to use non-lethal options raises critical questions about police readiness.
+    widget_date: "2021-02-05"
+    generated_at: "2026-11-07T11:19:49.515253Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  secret-society:
+    refined_source: 0b81e18a301c83d0d0e646d8d684bef26edcabb49a0b2176107b50002b73ca6c
+    brief: |-
+      THE CONFLICT: Johnathan Victor was shot four times with an Ruger AR-15 by BCSO at 7 yards in May 2017. Sheriff Hoss Mack stated in a 2017 deposition that BCSO lacked a crisis intervention team and de-escalation training.
+      THE DISCOVERY: A political cabal, Scott Boone Consulting (SBC), operated in Baldwin County, gaining control over Fairhope institutions (Mayor, Municipal Judge, City Attorney) following the 2020 election cycle.
+      THE PIVOT: Article 2 demonstrates a pre-existing pattern of institutional and political corruption (SBC control) within Baldwin County, establishing the systemic lack of accountability that allows BCSO to refuse to turn over critical body camera and vehicle footage in the Johnathan Victor case (Article 1).
+      KEY ENTITIES: Johnathan Victor, Hoss Mack, BCSO, Bay Minette Police, Scott Boone Consulting (SBC), Fairhope, Municipal Judge, Hand Anderall Sale, $212,000
+    llm_text: Johnathan Victor was shot four times by BCSO in 2017, yet the agency refuses critical body camera footage. Political cabal Scott Boone Consulting controls Fairhope institutions, blocking accountability for BCSO's systemic failures.
+    text: Johnathan Victor was shot four times by deputies in 2017, yet the agency refuses to release footage. Political consultants control local institutions, blocking transparency.
+    widget_date: "2021-01-27"
+    generated_at: "2026-11-07T11:21:22.662517Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

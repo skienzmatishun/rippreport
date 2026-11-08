@@ -5,65 +5,20 @@ metadata:
   main_date: "2025-08-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  last-chance-fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT:
-      Jack Burrell was a key council player in Fairhope, involved in alleged conflicts of interest (accepting $500 from Jade Consulting) and poor governance from approximately 5 years ago through the 2020 COVID election.
-      Jack orchestrated the Mayor to receive a second paycheck for heading utilities; this occurred after the 2020 election.
-      The waterfront project, initially secured during Mayor Wilson’s administration, ballooned from 6.3 million to 10 million, which Jack Burrell allegedly threw out.
-      Council ignored violations regarding the Publix on Parker road project, resulting in 5 lawsuits and environmental damage to Fly Creek.
-
-      THE DISCOVERY:
-      Article 2 demonstrates that Fairhope politics is governed by a "Good Ole Boy Club," led by Jack Burrell, characterized by lack of transparency, refusal of districts, and ignoring citizen complaints.
-
-      THE PIVOT:
-      Article 2 establishes a historical precedent of systemic municipal corruption and failure in a nearby Baldwin County city (Fairhope), providing context and justification for the need for external, highly qualified leadership (like Dr. Ramsey) to combat similar issues (flooding, park conversion) in Daphne/Lake Forest, as detailed in Article 1.
-
-      KEY ENTITIES:
-      Dr. Byrian Ramsey (Candidate, Lake Forest First, Daphne City Council District 6)
-      Lake Forest (Second largest subdivision in Alabama)
-      Daphne Mayor/Council
-      Jack Burrell (Fairhope City Councilman)
-      Mayor Wilson (Fairhope Administration)
-      Troy Vickers (Fairhope Candidate)
-      Ronan McSherry (Burrell associate)
-      Jade Consulting ($500 payment to Burrell)
-      VoteforByrian.com
-    llm_text: Jack Burrell ran a "Good Ole Boy Club" in Fairhope, taking $500 from Jade Consulting and inflating the waterfront project to $10 million. This systemic failure proves Daphne/Lake Forest needs external leadership, like Dr. Byrian Ramsey, to fix local issues.
-    widget_date: "2025-08-22"
-    generated_at: "2026-11-06T12:25:44.107891Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  two-questions-decide-fairhopes-future:
-    brief: |-
-      THE CONFLICT: Karin Wolff Wilson, while Mayor of Fairhope, AL (post dated August 2), refused a second salary as utilities director, using the funds to hire a professional engineer; subsequently, Mayor Sherry Sullivan fired this engineer, took the second salary herself, and placed a high school graduate in management.
-      THE DISCOVERY: Wilson secured $40 million in BP funding for Fairhope utility upgrades; the city council structure (five at-large seats) was deemed a mechanism protecting special interests and preventing direct citizen accountability.
-      THE PIVOT: The documented failure in Fairhope (mismanagement, firing qualified staff, misuse of public funds) reinforces the campaign theme in Daphne/Lake Forest that the existing council (Daphne Mayor/Council) has been "stone deaf" to critical issues (flooding, park-to-commercial conversion) and lacks qualified leadership, necessitating a candidate like Dr. Byrian Ramsey.
-      KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Dr. Byrian Ramsey, Lake Forest, Daphne, Fairhope, City Council District 6, $40 million, Doctor of Management (Organizational Leadership in Information Systems and Technology), BP.
-    llm_text: Fairhope Mayor Karin Wolff Wilson refused a second salary, hiring a professional engineer with $40M BP funds. Mayor Sherry Sullivan then fired him, took the salary herself, and hired a high school grad—proving Daphne needs Dr. Byrian Ramsey, not the current "stone deaf" council.
-    widget_date: "2025-08-21"
-    generated_at: "2026-11-06T12:28:03.939522Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  know-before-you-vote-2:
-    brief: |-
-      THE CONFLICT: Fairhope City Council ignored repeated constituent concerns leading up to the August 26, 2025, election.
-      THE DISCOVERY: Dr. Byrian Ramsey is running for Daphne District 6 City Council, advocating that the Daphne Mayor and council have been "stone deaf" to issues like flooding and converting park property.
-      THE PIVOT: The historical pattern of municipal neglect (Fairhope, Article 2) provides context for Dr. Ramsey's campaign claims (Daphne, Article 1) that the local council has ignored constituent needs.
-      KEY ENTITIES: Dr. Byrian Ramsey, Daphne, Daphne District 6 City Council, Lake Forest, Lake Forest property owners association, Fairhope City Council
-    llm_text: Dr. Byrian Ramsey challenges the Daphne Mayor and Council, arguing they are "stone deaf" to issues like flooding and park property conversion. Read how his campaign connects this local neglect to historical municipal failures in Fairhope.
-    widget_date: "2025-08-11"
-    generated_at: "2026-11-06T12:29:04.693470Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote:
+    refined_source: f69663c7aea2ac0d54bdda0fbb416f83f8139b954bee1f6511fda8ed3c7a2553
     brief: |-
       THE CONFLICT: Fairhope City Council ignored repeated concerns from constituents, noted before the August 26, 2025, election.
       THE DISCOVERY: The Daphne Mayor and council have been "stone deaf" to issues in Lake Forest, including flooding and converting park property into commercial property.
       THE PIVOT: Article 2 establishes a precedent of municipal neglect and ignoring public concerns within an adjacent Alabama municipality (Fairhope), supporting the concerns Dr. Ramsey raises about the Daphne council's inaction.
       KEY ENTITIES: Dr. Byrian Ramsey, Lake Forest, Daphne, Fairhope City Council, Lake Forest property owners association.
     llm_text: Daphne's Mayor and council ignored Lake Forest flooding and park conversion, frustrating Dr. Byrian Ramsey and local property owners. Fairhope's municipal neglect proves this pattern of indifference, showing why your voice demands action now.
+    text: Daphne's Mayor and council ignored Lake Forest flooding and park conversion, frustrating Dr. Byrian Ramsey and local property owners. Fairhope's municipal neglect proves this pattern of indifference.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T12:30:06.901029Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: 703ffa2941c9c563b4d1778a712badfccb162c7688f171103a1d184e8752b513
     brief: |-
       THE CONFLICT:
       *   Previous Mayor Karen Wilson refused a second paycheck and employed a utility engineer.
@@ -92,20 +47,24 @@ hooks:
       *   McSherry
       *   I-10 No toll
     llm_text: Jack Burrell helped developers cost Lake Forest millions. Meanwhile, Mayor Sullivan secured a paid utility job—a clear misuse of funds compared to former Mayor Karen Wilson's refusal of a second paycheck.
+    text: Jack Burrell cost Lake Forest millions on developer deals. Meanwhile, Mayor Sherry Sullivan secured a paid utility job while former Mayor Karen Wilson refused a second paycheck.
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T12:26:50.600181Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-or-fairhope:
+    refined_source: e0fbc752cfb2e285c1cf1cc188e7b07f3eaa8c0a4f02e09a879cbfc8fa52c11e
     brief: |-
       THE CONFLICT: Fairhope City Council and Mayor received challengers on Aug 26 during qualification for the municipal election.
       THE DISCOVERY: The challenges in Fairhope were organized using a slate of candidates strategy, aiming to eliminate the existing "good ole boy culture" of the council and mayor.
       THE PIVOT: Article 2 establishes a regional political context (Fairhope) where anti-incumbent slate strategies were effective in challenging entrenched local power, providing a parallel context for Dr. Ramsey's anti-"good ole boys" campaign in Daphne (Article 1).
       KEY ENTITIES: Dr. Byrian Ramsey, Lake Forest, Daphne, Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Lake Forest property owners association, City Council District 6.
     llm_text: Fairhope's Mayor Sullivan faced slate challenges aimed at dismantling local "good ole boy culture." See how Dr. Byrian Ramsey's anti-incumbent campaign in Daphne mirrors this powerful regional shift against entrenched local power.
+    text: Fairhope's Mayor Sullivan faced slate challenges aimed at dismantling local good ole boy culture. Dr. Byrian Ramsey's anti-incumbent campaign in Daphne mirrors this powerful regional shift.
     widget_date: "2025-07-03"
     generated_at: "2026-11-06T12:31:06.255522Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   vote-march-5th:
+    refined_source: f76c56621e0e854c0bb84c3ace7d9d38e4c74e09318a3acd9ce61776577deeee
     brief: |-
       THE CONFLICT:
       *   Baldwin County has been controlled by the 'GOB' (Good ole Boys) cabal for decades, preventing accountability and transparency.
@@ -133,10 +92,12 @@ hooks:
       *   Andrea Lindsey (Board of Education District 2 candidate)
       *   Eddie Tyler and John Gray (School system figures associated with GOB)
     llm_text: Sheriff Hoss Mack and the GOB cabal control Baldwin County, influencing key races like the Circuit Clerk position. Dr. Byrian Ramsey fights this systemic corruption, demanding accountability for Lake Forest and Daphne.
+    text: Sheriff Hoss Mack and local insiders control Baldwin County politics and key races. Dr. Byrian Ramsey challenges this system and demands accountability for Daphne and Lake Forest.
     widget_date: "2024-03-01"
     generated_at: "2026-11-06T12:32:07.296465Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   challengers-emerge-in-daphne-mayoral-race:
+    refined_source: b99121c9a41ff1e2b2bdb0b82fc2490a0736b596d2ab5d669bb59b3a65d2b9f1
     brief: |-
       THE CONFLICT:
       In the August 23 city election, three candidates (John Lake, Tim Swanson, and Ben Cruitt) challenged incumbent Mayor Dane Haygood for the leadership of Daphne, Baldwin County.
@@ -161,6 +122,61 @@ hooks:
       Daphne
       Lake Forest property owners association
     llm_text: Mayor Dane Haygood faces a major challenge from John Lake, Tim Swanson, and Ben Cruitt in the Daphne city election. Learn why Haygood's tenure has been criticized as "stone deaf" over issues like Lake Forest flooding and property conversion.
+    text: Mayor Dane Haygood faces a major challenge from John Lake, Tim Swanson, and Ben Cruitt in the Daphne city election. Haygood's tenure faces criticism over Lake Forest flooding and property conversion.
     widget_date: "2016-07-21"
     generated_at: "2026-11-06T12:33:23.481866Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  last-chance-fauxhope-or-fairhope:
+    refined_source: b9a5be1498d8021e008debb845755347bdb974c8295a9f5a3bae33a68684e9fa
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell was a key council player in Fairhope, involved in alleged conflicts of interest (accepting $500 from Jade Consulting) and poor governance from approximately 5 years ago through the 2020 COVID election.
+      Jack orchestrated the Mayor to receive a second paycheck for heading utilities; this occurred after the 2020 election.
+      The waterfront project, initially secured during Mayor Wilson’s administration, ballooned from 6.3 million to 10 million, which Jack Burrell threw out.
+      Council ignored violations regarding the Publix on Parker road project, resulting in 5 lawsuits and environmental damage to Fly Creek.
+
+      THE DISCOVERY:
+      Article 2 demonstrates that Fairhope politics is governed by a "Good Ole Boy Club," led by Jack Burrell, characterized by lack of transparency, refusal of districts, and ignoring citizen complaints.
+
+      THE PIVOT:
+      Article 2 establishes a historical precedent of systemic municipal corruption and failure in a nearby Baldwin County city (Fairhope), providing context and justification for the need for external, highly qualified leadership (like Dr. Ramsey) to combat similar issues (flooding, park conversion) in Daphne/Lake Forest, as detailed in Article 1.
+
+      KEY ENTITIES:
+      Dr. Byrian Ramsey (Candidate, Lake Forest First, Daphne City Council District 6)
+      Lake Forest (Second largest subdivision in Alabama)
+      Daphne Mayor/Council
+      Jack Burrell (Fairhope City Councilman)
+      Mayor Wilson (Fairhope Administration)
+      Troy Vickers (Fairhope Candidate)
+      Ronan McSherry (Burrell associate)
+      Jade Consulting ($500 payment to Burrell)
+      VoteforByrian.com
+    llm_text: Jack Burrell ran a "Good Ole Boy Club" in Fairhope, taking $500 from Jade Consulting and inflating the waterfront project to $10 million. This systemic failure proves Daphne/Lake Forest needs external leadership, like Dr. Byrian Ramsey, to fix local issues.
+    text: Jack Burrell took $500 from Jade Consulting and inflated the waterfront project cost to $10 million. This failure shows Daphne needs external leadership like Dr. Byrian Ramsey to fix local issues.
+    widget_date: "2025-08-22"
+    generated_at: "2026-11-06T12:25:44.107891Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  two-questions-decide-fairhopes-future:
+    refined_source: f5c9f233f3e80b4702eeb2cb59e78fc2bda1e9619f10855531461218281f7a07
+    brief: |-
+      THE CONFLICT: Karin Wolff Wilson, while Mayor of Fairhope, AL (post dated August 2), refused a second salary as utilities director, using the funds to hire a professional engineer; subsequently, Mayor Sherry Sullivan fired this engineer, took the second salary herself, and placed a high school graduate in management.
+      THE DISCOVERY: Wilson secured $40 million in BP funding for Fairhope utility upgrades; the city council structure (five at-large seats) was deemed a mechanism protecting special interests and preventing direct citizen accountability.
+      THE PIVOT: The documented failure in Fairhope (mismanagement, firing qualified staff, misuse of public funds) reinforces the campaign theme in Daphne/Lake Forest that the existing council (Daphne Mayor/Council) has been "stone deaf" to critical issues (flooding, park-to-commercial conversion) and lacks qualified leadership, necessitating a candidate like Dr. Byrian Ramsey.
+      KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Dr. Byrian Ramsey, Lake Forest, Daphne, Fairhope, City Council District 6, $40 million, Doctor of Management (Organizational Leadership in Information Systems and Technology), BP.
+    llm_text: Fairhope Mayor Karin Wolff Wilson refused a second salary, hiring a professional engineer with $40M BP funds. Mayor Sherry Sullivan then fired him, took the salary herself, and hired a high school grad—proving Daphne needs Dr. Byrian Ramsey, not the current "stone deaf" council.
+    text: Fairhope Mayor Karin Wilson refused a second salary and hired a professional engineer with BP funds. Mayor Sherry Sullivan fired him, took the salary, and hired a high school graduate instead.
+    widget_date: "2025-08-21"
+    generated_at: "2026-11-06T12:28:03.939522Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  know-before-you-vote-2:
+    refined_source: 290deb6c4e58d51d0850a72d541d78621c3510a95455e5dffa89985c33007f7d
+    brief: |-
+      THE CONFLICT: Fairhope City Council ignored repeated constituent concerns leading up to the August 26, 2025, election.
+      THE DISCOVERY: Dr. Byrian Ramsey is running for Daphne District 6 City Council, advocating that the Daphne Mayor and council have been "stone deaf" to issues like flooding and converting park property.
+      THE PIVOT: The historical pattern of municipal neglect (Fairhope, Article 2) provides context for Dr. Ramsey's campaign claims (Daphne, Article 1) that the local council has ignored constituent needs.
+      KEY ENTITIES: Dr. Byrian Ramsey, Daphne, Daphne District 6 City Council, Lake Forest, Lake Forest property owners association, Fairhope City Council
+    llm_text: Dr. Byrian Ramsey challenges the Daphne Mayor and Council, arguing they are "stone deaf" to issues like flooding and park property conversion. Read how his campaign connects this local neglect to historical municipal failures in Fairhope.
+    text: Dr. Byrian Ramsey confronts the Daphne Mayor and Council over ignored flooding and park property sales. Read how his campaign links this local neglect to past municipal failures in Fairhope.
+    widget_date: "2025-08-11"
+    generated_at: "2026-11-06T12:29:04.693470Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -6,12 +6,14 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   alabama-fake-ethics-commission:
+    refined_source: 98239acb7347321a8d1466be3b91cb2d3e5c358a66d78111546a468f8bc988f0
     brief: |-
       THE CONFLICT: Mismanagement and self-dealing within the Mabel Amos Memorial Fund, administered by Tom Albritton and trustees, starting in 2002. Improper distribution of scholarship funds to relatives and friends of prominent local citizens.
       THE DISCOVERY: Despite findings of self-dealing and improper distribution, Tom Albritton and other fiduciaries (Regions Bank, John Bell, Drew McNees) were absolved and held harmless from all liability via a court settlement after four years of litigation.
       THE PIVOT: Article 2 establishes a history of local political figures (like Albritton) using public trust and funds for private, unethical benefit in Alabama, providing context for the current situation in Article 1 where public funds/taxpayer donations are leveraged under the guise of "historical preservation" to facilitate private developer gain in Fairhope.
       KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Regions Bank, John Bell, Drew McNees, Henry Stuart, Fairhope, $1.325 million.
     llm_text: Tom Albritton misused the Mabel Amos Memorial Fund for relatives since 2002, yet he and trustees were absolved via court settlement. This pattern shows how local figures leverage public trust, echoing the $1.325 million Fairhope preservation scheme.
+    text: Tom Albritton misused memorial funds for relatives since 2002. A court settlement absolved him, showing how local leaders leverage public trust.
     widget_date: "2026-09-28"
     generated_at: "2026-11-06T05:00:29.205348Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -52,6 +54,7 @@ hooks:
       - Megan Ballard
       - Whitney Ballard
     llm_text: When oil millions flooded the Mabel Amos scholarship fund, connected insiders like Tom Albritton redirected over $257,000 to their own kids and cronies. Read how this shocking corruption mirrors our main investigation into local elites exploiting public trust for private gain.
+    text: When oil millions flooded the Mabel Amos scholarship fund, connected insiders like Tom Albritton redirected over $257,000 to their own kids and cronies. Read how this shocking corruption mirrors our main investigation into local elites exploiting public trust for private gain.
     widget_date: "2026-09-11"
     generated_at: "2026-11-06T04:59:43.490108Z"
     model_name: gemini-3.5-flash-lite
@@ -61,7 +64,7 @@ hooks:
       - Main Article 1: Fairhope local politics over relocation of the Hermit Hut / “Round House” / concrete tool shed for developer profits.
       - Main Article 1: Henry Stuart, 1920s, tuberculosis, quarantine shelter, concrete tool shed; described as a concrete tool shed rather than romantic literary site.
       - Main Article 1: Hut reportedly sits in the middle of a commercial parking lot; private commercial real estate owner/developer holds title; developer wanted hut off private land for redevelopment; normal private owner would pay to move or demo.
-      - Main Article 1: City council and local organizers allegedly worked community; public donations and taxpayers fund move; private real estate machinery gets cleared land free.
+      - Main Article 1: City council and local organizers worked community; public donations and taxpayers fund move; private real estate machinery gets cleared land free.
       - Main Article 1: Municipal move preparations included specialists, engineers, heavy machinery, routes, measuring tree overhangs, threatening massive decades-old oak tree; moving brittle concrete risk cracking; if crumbles, donors may be left hung out.
       - Main Article 1: Main article does not name developer or specific relocation date; names Fairhope city council, local organizers, cultural elite.
 
@@ -117,16 +120,17 @@ hooks:
       - Organizations: City Council, Catalyst, Fairhope Yacht Club, M & N of Alabama LLC, Baykeeper, Ripp Report, Fairhope Times.
       - Locations: Fairhope, Parker Road, Fly Creek, US 98, Scenic 98, Bohemian Park, Fairhope Marina, commercial parking lot, nature preserve, bay.
     llm_text: Fairhope’s Hermit Hut fight now ties to the Ripp Report’s Fauxhope backstory over the Fly Creek culvert mess, Publix, and Angelo Corte. The same city council ignored public outcry before, so who pays when the developer profits?
+    text: Fairhope’s Hermit Hut fight now ties to the Ripp Report’s Fauxhope backstory over the Fly Creek culvert mess, Publix, and Angelo Corte. The same city council ignored public outcry before, so who pays when the developer profits?
     widget_date: "2026-01-25"
     generated_at: "2026-11-06T05:00:47.647501Z"
     model_name: recursive/flint-v1.0:free
   foot-in-his-mouth:
     brief: |-
-      THE CONFLICT: Senator Chris Elliott passed a slick piece of legislation that went largely unnoticed, restricting municipalities from extending their police and planning jurisdictions beyond their corporate limits. The bill advanced out of the Alabama Senate Judiciary Committee on Wednesday after law enforcement officials allegedly approached him in support of it, though he failed to identify them. Additionally, Chris Elliott avoided DUI charges by playing the system, lied about Mayors in Baldwin County endorsing him during his re-election campaign, and pushed legislation benefiting developers while bypassing the Baldwin County Legislative body without review or notice.
+      THE CONFLICT: Senator Chris Elliott passed a slick piece of legislation that went largely unnoticed, restricting municipalities from extending their police and planning jurisdictions beyond their corporate limits. The bill advanced out of the Alabama Senate Judiciary Committee on Wednesday after law enforcement officials approached him in support of it, though he failed to identify them. Additionally, Chris Elliott avoided DUI charges by playing the system, lied about Mayors in Baldwin County endorsing him during his re-election campaign, and pushed legislation benefiting developers while bypassing the Baldwin County Legislative body without review or notice.
 
       THE DISCOVERY: Article 2 revealed that Chris Elliott is a professional politician and a legislative puppet for the Baldwin County Sheriff's office (serving Hoss Mack and Anthony Lowery), securing a Sheriff's Department job for his wife while maintaining there is no conflict of interest. It also exposed his history of establishing and supporting the local "good ole boy culture," bypassing legislative oversight to pass developer-friendly bills, and engaging in public falsehoods, including false endorsement claims and misleading justifications regarding legislation.
 
-      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it establishes the exact political mechanisms and developer-friendly maneuvers detailed in the main article. While Article 1 exposes a local political scheme where taxpayers fund the clearance of private commercial land under the guise of saving the "Hermit Hut" for developer profits, Article 2 proves that Senator Chris Elliott has a documented legislative history of passing covert, developer-backed bills that bypass public scrutiny and municipal authority for private gain.
+      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it establishes the exact political mechanisms and developer-friendly maneuvers detailed in the main article. While Article 1 exposes a local political scheme where taxpayers fund the clearance of private commercial land under the guise of saving the "Hermit Hut" for developer profits, Article 2 shows that Senator Chris Elliott has a documented legislative history of passing covert, developer-backed bills that bypass public scrutiny and municipal authority for private gain.
 
       KEY ENTITIES:
       - Senator Chris Elliott
@@ -136,12 +140,14 @@ hooks:
       - Councilman Matt Franklin
       - Henry Stuart
     llm_text: Senator Chris Elliott just passed a slick bill restricting municipal planning, but our investigation reveals he operates as a legislative puppet for Sheriff Hoss Mack and Anthony Lowery. Read how Elliott secures secret developer deals and public jobs while bypassing your oversight.
+    text: Senator Chris Elliott just passed a slick bill restricting municipal planning, but our investigation reveals he operates as a legislative puppet for Sheriff Hoss Mack and Anthony Lowery. Read how Elliott secures secret developer deals and public jobs while bypassing your oversight.
     widget_date: "2026-01-18"
     generated_at: "2026-11-06T04:59:48.828388Z"
     model_name: gemini-3.5-flash-lite
   some-things-need-to-go-away:
     brief: "THE CONFLICT: In the past, Henry Stuart built a concrete shelter (the \"Hermit Hut\" or \"Round House\") in the 1920s as a quarantine isolation ward after being diagnosed with tuberculosis—a terminal, highly contagious disease at the time. \n\nTHE DISCOVERY: Article 2 (background context) establishes the local figures and political players—including Elliott, Kant, Lynn-Stacy, Thomason, Tucker Dorsey, and the \"Weasel Contractor\"—operating behind the scenes in local municipal dynamics, setting the stage for how real estate and public resources are manipulated in the area.\n\nTHE PIVOT: Article 2 serves as key background context proving that the same network of local political players and developers (\"Weasel Contractor,\" Elliott, Kant, etc.) routinely engineer public-backed schemes for private benefit, directly mirroring the current operation where taxpayers and donors are footing the bill to clear a commercial parking lot for developer profits under the guise of saving \"historical heritage.\"\n\nKEY ENTITIES: \n- Henry Stuart\n- Elliott\n- HB-188\n- Kant\n- Lynn-Stacy\n- Thomason\n- Tucker Dorsey\n- Weasel Contractor"
-    llm_text: While Henry Stuart’s 1920s TB shelter stands as a fragile piece of local history, players like Elliott and the Weasel Contractor are weaponizing nostalgia for private gain. Discover how this shadowy network engineers public-backed land schemes so taxpayers fund developer profits while masking it as historic preservation.
+    llm_text: While Henry Stuart’s 1920s TB shelter stands as a fragile piece of local history, players like Elliott and the Weasel Contractor are weaponizing nostalgia for private gain. Read how this shadowy network engineers public-backed land schemes so taxpayers fund developer profits while masking it as historic preservation.
+    text: While Henry Stuart’s 1920s TB shelter stands as a fragile piece of local history, players like Elliott and the Weasel Contractor are weaponizing nostalgia for private gain. Read how this shadowy network engineers public-backed land schemes so taxpayers fund developer profits while masking it as historic preservation.
     widget_date: "2026-01-10"
     generated_at: "2026-11-06T04:59:54.577407Z"
     model_name: gemini-3.5-flash-lite
@@ -168,6 +174,7 @@ hooks:
       - Boone Brown (City Councilman)
       - Mayor of Fairhope
     llm_text: Fairhope leaders Jack Burrell and Boone Brown sacrificed our canopy for developers, clear-cutting historic oaks while taxpayers funded their botched $10M waterfront fiasco. Read Article 2 to uncover the corrupt backroom playbook destroying "Fauxhope."
+    text: Fairhope leaders Jack Burrell and Boone Brown sacrificed our canopy for developers, clear-cutting historic oaks while taxpayers funded their botched $10M waterfront fiasco. Read Article 2 to uncover the corrupt backroom playbook destroying "Fauxhope."
     widget_date: "2025-11-14"
     generated_at: "2026-11-06T05:00:01.237866Z"
     model_name: gemini-3.5-flash-lite
@@ -187,12 +194,14 @@ hooks:
       - Municipal Judge
       - City Sketches (propaganda publication)
     llm_text: Fairhope officials gifted themselves a fifth year in office without a single vote, pocketing full salaries while ignoring failing sewers for developer-backed vanity projects. Read Article 2 to uncover how Mayor Sullivan and the City Council trade your tax dollars for prime real estate schemes.
+    text: Fairhope officials gifted themselves a fifth year in office without a single vote, pocketing full salaries while ignoring failing sewers for developer-backed vanity projects. Read Article 2 to uncover how Mayor Sullivan and the City Council trade your tax dollars for prime real estate schemes.
     widget_date: "2024-11-03"
     generated_at: "2026-11-06T05:00:07.069391Z"
     model_name: gemini-3.5-flash-lite
   fairhopes-triangle-mega-site:
     brief: "THE CONFLICT: The City of Fairhope, led by past officials including Councilmen Burrell and Boone and Mayor Kant, acquired the \"Triangle\" property for $11.25 million plus $3 million in legal fees (totaling $14.25 million) to secretly settle a lawsuit without public participation or transparency. The property—valued between $16 and $20 million—was bought to satisfy select developers and good ole boys, while politicians falsely claimed it was a voluntary purchase for a city park and attempted to declare it a conservation easement.\n\nTHE DISCOVERY: Article 2 revealed the backroom dealing and financial fallout of the Triangle property acquisition, exposing that taxpayers were saddled with millions in debt and legal fees due to deceptive \"settlements\" engineered by local politicians and city-hired attorneys who promised zero legal costs and a guaranteed win in court.\n\nTHE PIVOT: Article 2 serves as the smoking gun for Article 1 because it establishes a consistent historical pattern of Fairhope municipal leadership using public funds, backroom deals, and manufactured public narratives (\"saving a park\" versus \"saving history\") to bail out or benefit private real estate and developer interests at the direct expense of taxpayers.\n\nKEY ENTITIES: \n- Burrell (Councilman)\n- Boone (Councilman)\n- Kant (Mayor)\n- Wilson (Mayor)\n- Jester Brown"
     llm_text: Mayor Kant and Councilmen Burrell and Boone secretly wasted $14.25 million in taxpayer funds on the Triangle property to bail out developers. Read how this backroom deal proves Fairhope politicians consistently manufacture false narratives to protect private interests at your expense.
+    text: Mayor Kant and Councilmen Burrell and Boone secretly wasted $14.25 million in taxpayer funds on the Triangle property to bail out developers. Read how this backroom deal proves Fairhope politicians consistently manufacture false narratives to protect private interests at your expense.
     widget_date: "2018-03-30"
     generated_at: "2026-11-06T05:00:12.518062Z"
     model_name: gemini-3.5-flash-lite

@@ -1,0 +1,116 @@
+metadata:
+  generated_at: "2026-11-07T21:00:27.713948Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-7
+  main_date: "2019-10-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  going-down:
+    refined_source: fbf1b3ed64113d387f1cc373f7ce1f28b6b2b84947ed336cbcee89f053cca22d
+    brief: |-
+      THE CONFLICT:
+      No specific past conflict names or dates provided in the source material.
+
+      THE DISCOVERY:
+      Baldwin County is the only county in Alabama without sewer regulations and is the fastest growing county in Alabama.
+      Baldwin County experiences regular sewer spills into the Bay.
+      Over 566 apartments are under construction or proposed in Fairhope.
+      The Catalyst Council is promoting development via low impact fees, density, and sprawl.
+
+      THE PIVOT:
+      Article 2 establishes the baseline (lack of infrastructure, no sewer regulations, unbridled development plans) that forms the basis of the political corruption and quality of life issues discussed in Backstory Podcast #7 (Article 1).
+
+      KEY ENTITIES:
+      Baldwin County
+      Fairhope
+      Catalyst Council
+      Developers
+      The three B's
+      181/Fairhope at Wal-Mart (Corridor of Chaos)
+      104 and Parker Road (Publix)
+      Rock Creek
+      Independent School System
+    llm_text: Baldwin County, Alabama's fastest-growing spot, lacks basic sewer regulations, causing regular spills into the Bay. The Catalyst Council pushes massive Fairhope development, including the 181/Fairhope project, risking your quality of life.
+    text: Baldwin County lacks basic sewer regulations, causing regular spills into Mobile Bay. The Catalyst Council pushes massive Fairhope development, risking your daily quality of life.
+    widget_date: "2019-10-18"
+    generated_at: "2026-11-07T20:59:14.285607Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-sold-to-the-highest-bidder:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope, Alabama: Catalyst Council, Boone Burrell and Brown proposed $2.65 million purchase of recreation land during Fairhope budget process, supported by questionable appraisal, for recreation land not used for years.
+      - Purchase of soccer fields described as corrupt from day one; Fairhope drained 5 accounts for purchase, let it sit idle for years, then blew $5+ million on substandard complex.
+      - Council proposed repeat of same reckless process in middle of budget process.
+      - In four years, Catalyst Council has not approved one budget on timely manner.
+      - Council had no public participation related to recreation land purchase.
+      - Cory Martin pleaded for council to listen to reason; drew dead silence.
+      - Council ignored advice from Mayor or staff.
+      - Mayor Wilson: purchase of 113 acres on 13/32 for future parkland will close in Nov.; drains all capital improvement funds needed for urgent facility needs and prevents adding four ballparks to fill immediate capacity need for up to ten years; no thought about re-purposing K-1 Center.
+      - 2020 budget waiting approval, Fiscal Year 2020; Mayor Wilson objections; council reduced revenue projections; reworked with actual FY2019 revenue figures with very conservative estimates; sales tax came in higher than projected.
+
+      THE DISCOVERY:
+      - Article 2 revealed: Catalyst Council, Boone Burrell and Brown proposing $2.65M purchase; questionable appraisal; recreation land not used for years.
+      - Council questioned why City expenses higher; combination of correcting expenses to appropriate departments, investing in grossly understaffed PD and cost of service in Public Works increasing.
+      - Same council voted themselves full family insurance; tried to give away 105 acres, Triangle, that cost taxpayers $13 million as result of lost lawsuit; bought K-1 Center and has no money to spend on project.
+      - Council putting capital improvements, infrastructure and sewer problems on back burner while purchasing raw property that will sit idle for years.
+      - On top of budget issues, Fairhope at crossroad of density: 566 apartments coming, 300 to ? new homes, commercial locations key to draining downtown business.
+      - 2020 municipal elections: Fairhope needs candidates not related to Catalyst; municipal judge and city attorney need replaced.
+
+      THE PIVOT:
+      - Article 2 is smoking gun/key context for Article 1 because it established pattern of Fairhope being sold out to developers, city council, appointed positions.
+      - Article 2 described soccer fields purchase as corrupt from day one and said council repeating reckless process.
+      - Article 2 showed no public participation, questionable appraisal, financial recklessness, Mayor Wilson objections.
+      - Article 2 older than Article 1; frame as background/historical context for Article 1 Backstory Podcast #7 / Fairhope Sold to Highest Bidder.
+
+      THE KEY ENTITIES:
+      - Fairhope City Council / Catalyst Council
+      - Boone Burrell
+      - Brown
+      - Cory Martin
+      - Mayor Wilson
+      - K-1 Center
+      - Fairhope, Alabama
+      - City of Fairhope
+      - municipal judge
+      - city attorney
+      - Mayor
+      - staff
+      - PD
+      - Public Works
+      - Triangle
+      - taxpayers
+      - developers
+      - Fly Creek Apartments
+      - Parker Road
+      - Corridor of Chaos
+      - downtown Fairhope
+    llm_text: Fairhope's City Council ignored Mayor Wilson's warnings and approved a $2.65 million soccer field purchase with a questionable appraisal. Cory Martin pleaded for reason, drew dead silence, and now Boone Burrell and Brown are repeating the same reckless process.
+    text: Fairhope's City Council ignored Mayor Wilson's warnings and approved a $2.65 million soccer field purchase with a questionable appraisal. Cory Martin pleaded for reason, drew dead silence, and now Boone Burrell and Brown are repeating the same reckless process.
+    widget_date: "2019-10-16"
+    generated_at: "2026-11-07T20:59:20.919677Z"
+    model_name: recursive/flint-v1.0:free
+  equal-representation:
+    brief: "THE CONFLICT: [Data missing from provided text - Articles are blank]\n\nTHE DISCOVERY: [Data missing from provided text - Articles are blank]\n\nTHE PIVOT: [Data missing from provided text - Articles are blank]\n\nKEY ENTITIES: \n- Wilson"
+    llm_text: Wilson uncovers the hidden details behind the latest local controversy, exposing what officials tried to keep quiet. Dive into the full investigation to see how this impacts our community today.
+    text: Wilson uncovers the hidden details behind the latest local controversy, exposing what officials tried to keep quiet. Dive into the full investigation to see how this impacts our community today.
+    widget_date: "2019-05-23"
+    generated_at: "2026-11-07T20:58:29.564490Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-4:
+    refined_source: 4ba04121599781eb42b83d4d2833ece2efb91c76550c52ceb55c86a0c59d56a0
+    brief: |-
+      [CONTENT MISSING]
+
+      **ACTION REQUIRED:** Please provide the full text for [MAIN ARTICLE CONTENT] and [WIDGET ARTICLE CONTENT]. I cannot extract specific facts, dates, or entities (Lowery, Wilters) without the source material.
+
+      Once content is provided, the output will follow this structure:
+
+      THE CONFLICT: [Fact: Event, Names, Dates]
+      THE DISCOVERY: [Fact: What Article 2 revealed]
+      THE PIVOT: [Fact: Why Article 2 is essential context for Article 1]
+      KEY ENTITIES: [Name 1], [Name 2], [Organization], [Location]
+    llm_text: Please provide the full text for the main article and the widget article so I can extract the specific names and facts required to write the hook.
+    text: Please provide the full text for the main article and widget to extract the required facts. Accurate reporting requires direct source material from official documents.
+    widget_date: "2019-09-27"
+    generated_at: "2026-11-07T21:00:01.434375Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

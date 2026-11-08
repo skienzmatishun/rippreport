@@ -6,16 +6,19 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    refined_source: 87d8887646ccb0ba3e82a983c84f45638e7bd12618eda4838bf0b8fa473395bb
     brief: |-
       THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of capital murder in 2005; the prosecution lacked physical evidence (no DNA, fingerprints, or murder weapon) and used coerced testimony (Jarius McNeil).
       THE DISCOVERY: The key figures who built the case (Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone) have risen to influential positions (Wilters is Baldwin County DA since 2015; Lowery is Baldwin County Sheriff; Mack is in a state-level position) and continue to suppress justice (e.g., rejecting Rule 32 filing in 2023).
       THE PIVOT: The pattern of institutional suppression and power protection shown in the wrongful conviction case (Article 2) mirrors the current political obstruction in Fairhope where the Catalyst Council and council members (Boone, Burrell) refuse to settle high-cost lawsuits ($11.25 million Triangle Lawsuit) and protect their interests over community welfare (Breland case).
       KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone, Mayor Wilson, Boone, Burrell, Catalyst Council, Ronan McSharry, Buddy Breland, Marcus McDowell, BCSO, Baldwin County.
     llm_text: Robert Wilters and Anthony Lowery helped wrongfully convict Murray Lawrence Jr. Now, that same institutional power protects itself in Fairhope, blocking the $11.25 million Triangle Lawsuit settlement over community welfare.
+    text: Robert Wilters and Anthony Lowery helped wrongfully convict Murray Lawrence Jr. Why does that same institutional power protect itself and block the $11.25 million settlement?
     widget_date: "2025-07-30"
     generated_at: "2026-11-06T13:37:01.691330Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: eeb4c63a19ec21c352271bf311f0e99d7bfdf7faf6b5fab6377ca557858fc750
     brief: |-
       THE CONFLICT:
       Jack Burrell is tied to the Triangle lawsuit, the Publix Project, and council members taking city contracts through private company names.
@@ -44,14 +47,16 @@ hooks:
       Publix Project
       August 26 2025 (Election Date)
     llm_text: Jack Burrell, tied to the $11.25 million Triangle lawsuit and the Publix Project, built a history protecting Catalyst developers. This long-standing corruption explains why the entrenched council blocks real change and delays Ronan McSharry's charges.
+    text: Jack Burrell has a long history of protecting Catalyst developers in Fairhope. Why does the entrenched city council block real change and delay Ronan McSharry's charges?
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T13:38:04.742196Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: 268b6e69b186183474925d9bfb0c270885f50dbc72870b63b9cc6a3c9f86aa2e
     brief: |-
       THE CONFLICT:
       1. Triangle Lawsuit occurred, resulting in $3 million in legal fees paid by taxpayers.
-      2. Hand Anderall Sale was the law firm hired by SBC, which allegedly lied to citizens regarding the Triangle Lawsuit.
+      2. Hand Anderall Sale was the law firm hired by SBC, which lied to citizens regarding the Triangle Lawsuit.
       3. The cabal, originally called CATALYST, changed its banner to Scott Boone Consulting SBC during the 2020 election cycle.
       4. On January 25, 2021, the City of Fairhope Council agenda included Ordinance 7 (Annexation of Parker Road from Baldwin County Commission).
 
@@ -81,7 +86,8 @@ hooks:
       14. Fairhope Waterfront
       15. Fly Creek / Publix
       16. Fairhope
-    llm_text: The Triangle Lawsuit cost Fairhope taxpayers $3 million in legal fees. Discover how the SBC cabal, using appointed Judge Sherry Sullivan and Councilman Kevin Boone, deliberately manipulated city projects like the Waterfront and Publix development.
+    llm_text: The Triangle Lawsuit cost Fairhope taxpayers $3 million in legal fees. Read how the SBC cabal, using appointed Judge Sherry Sullivan and Councilman Kevin Boone, deliberately manipulated city projects like the Waterfront and Publix development.
+    text: The Triangle lawsuit cost Fairhope taxpayers $3 million in legal fees. Did appointed Judge Sherry Sullivan and Councilman Kevin Boone manipulate city projects like the Publix development?
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T13:39:25.026405Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

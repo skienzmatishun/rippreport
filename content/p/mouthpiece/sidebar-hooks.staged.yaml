@@ -5,13 +5,120 @@ metadata:
   main_date: "2022-08-20"
   model_name: plugsky-lite
 hooks:
-  get-out-of-jail-card:
+  stinking-ticking-time-bomb:
+    refined_source: 1b58e40a6c57610388468ad22c00e769463e3d9156fcde2a1b5a6e3664b8b40f
     brief: |-
       THE CONFLICT:
-      Pittman and state Rep. Steve McMillan, R-Gulf Shores, were tapped by Gov. Bob Riley to head up BP grant money distribution in Baldwin. Pittman "distributed" $750,000.00 for himself and family; Pittman allegedly used a "Get Out of Jail Card" for this.
+      Clarence Burke (President of Baldwin County Sewer Service - BCSS) and Delaney (prominent South Alabama lender) were involved in the Straw-man civil case; sealed records showed business/political connections over two decades; management of Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012; the case began in Judge Jody Bishop's courtroom.
 
       THE DISCOVERY:
-      Widget Article proves that political connections and "Get Out of Jail Cards" allow politicians (e.g., Ben Reynolds, Elliott, Pittman, McSharry) to avoid transparency or accountability in Baldwin County, citing examples from 2017, 2018, and 2014-2018.
+      BCSS is the only privately operated and unregulated sewer service in Alabama, distinct from Baldwin County government; BCSS utilizes county right of ways at no charge, contributing to county sprawl and subdivision conversion of farmland; Fairhope has contributed to Bay pollution for over 20 years.
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern (20+ years/2012 onward) of unregulated private corporate power (BCSS/Burke) and county political inaction (County Commission refusal to regulate), which provides context for Jack Burrell's (10-year council member) recent political claims that infrastructure failures are due to neglect while simultaneously promoting tolls/development.
+
+      KEY ENTITIES:
+      Jack Burrell
+      Clarence Burke
+      Baldwin County
+      Fairhope
+      Baldwin County Sewer Service (BCSS)
+      Little Lagoon Preservation Society (LLPS)
+      DR Horton
+      Judge Jody Bishop
+      Delaney
+    llm_text: Clarence Burke and Delaney held secret business ties revealed in a Judge Jody Bishop case spanning two decades. This pattern of unregulated BCSS power in Fairhope explains why Jack Burrell claims infrastructure neglect while pushing development.
+    text: Clarence Burke and Delaney held secret business ties in a Judge Jody Bishop case. Unregulated BCSS power in Fairhope explains infrastructure neglect.
+    widget_date: "2022-08-12"
+    generated_at: "2026-11-06T20:58:18.536768Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-roller-coaster:
+    refined_source: 7c81232006bd1132be90f9bf5efd9e02e39a47d4cd6308629d4c2ad8e00e90a0
+    brief: |-
+      THE CONFLICT: Fauxhope city council delayed ADA compliance for one year regarding the waterfront bluff/park walkway project (over 18 months ago).
+      THE DISCOVERY: The council abandoned the original ADA switchback walkway plan, opting instead for an open car on rails ("fauxhope roller-coaster") to transport handicapped people down the grade, raising questions about where $6 million was spent.
+      THE PIVOT: The council's documented history of prioritizing costly, poorly conceived, and delayed infrastructure solutions (roller coaster over walkway) supports the claim in the main article that Fairhope infrastructure is neglected and 10 years behind due to local political inaction.
+      KEY ENTITIES: Jack Burrell, Baldwin County, Fairhope, Fauxhope city council, Toll Bridge, Bayway
+    llm_text: The Fauxhope city council delayed ADA compliance for the waterfront bluff and spent $6 million on a "roller-coaster" instead of proper walkways. Read how this costly political inaction proves Fairhope infrastructure is neglected and 10 years behind.
+    text: The Fairhope City Council delayed ADA compliance for the waterfront bluff. The city spent six million dollars on a ramp instead of proper walkways.
+    widget_date: "2022-04-12"
+    generated_at: "2026-11-06T20:59:19.400771Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  trolls-for-tolls:
+    refined_source: 278da5d0d0273daef8a23fb71f63191240500cd5f846df2ce562e937bf86fb6f
+    brief: |-
+      THE CONFLICT:
+      Bayway Bridge project financing discussions occurred years ago.
+      Initial public sentiment (around a year prior to the widget article's context) was against tolls, as evidenced by a Facebook page gaining over 50,000 likes rejecting tolls.
+      Politicians later unified support for tolls through Mobile and Baldwin MPO.
+      Jack Burrell previously stated a "toll-free route" was possible and claimed no federal or additional state money was forthcoming.
+
+      THE DISCOVERY:
+      Article 2 reveals that the total price tag is $2.2 billion, with $125 million from federal government and a committed $250 million from the state (ALDOT/local leaders), leaving a funding gap of roughly $500 million that tolls aim to cover.
+      Article 2 established Jack Burrell's history of conflicting statements regarding tolls and his questionable track record.
+
+      THE PIVOT:
+      Article 2 provides the financial context (total cost, committed funds, funding gap) that contradicts Jack Burrell's claims in Article 1 that "no federal money was needed" and "no tolls" would be necessary, framing his current support for tolls as a response to inability to fund the project otherwise.
+
+      KEY ENTITIES:
+      Jack Burrell
+      Fairhope
+      Baldwin County
+      Mobile and Baldwin MPO
+      Jim Zigler
+      Jon Gray
+      ALDOT
+      David Peterson
+      Dean Young
+    llm_text: Jack Burrell claimed a toll-free Bayway Bridge route was possible, but the project needs $500M from tolls to meet the $2.2B cost. See how Burrell's past statements clash with the real funding gap in Baldwin County.
+    text: Jack Burrell claimed a toll-free Bayway Bridge route was possible. The project needs 500 million dollars from tolls to meet the 2.2 billion dollar cost.
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-06T20:56:41.953736Z"
+    model_name: plugsky-lite
+  lego-rocket-scientist:
+    refined_source: 515a9094047e5fd4ee78906759b0bf6ab6f852d48ff1f20cd5fa3d228023257e
+    brief: |-
+      THE CONFLICT: Jack Burrell was elected to Mayor and Council, with Council Presidency held by Burrell for almost 9 years. In November, Burrell abruptly resigned from Council Presidency.
+      THE DISCOVERY: Burrell initially promised no federal money was needed and no tolls for the proposed Toll Bridge/Bayway.
+      THE PIVOT: Article 2 establishes Burrell's long-term pattern of favoring developer interests (e.g., Fairhope Airport Authority issues, $2.65M recreation land expenditure, municipal judge Haymes Snedeker appointment) which contextualizes his later shift in Article 1 to advocate for tolls and development despite prior 'NO TOLLS' promises.
+      KEY ENTITIES: Jack Burrell, Baldwin County, Fairhope, Catalyst (Scott Boone Consulting), Haymes Snedeker, Fairhope Airport Authority, Continental Motors
+    llm_text: Jack Burrell abruptly dropped his "no tolls" promise for the Toll Bridge, now backing developer interests. See how his past favors, like the $2.65M land spend, shaped this Baldwin County decision.
+    text: Jack Burrell dropped his no tolls promise for the Toll Bridge. His past favors, including a 2.65 million dollar land purchase, shaped this decision.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-06T20:56:47.379692Z"
+    model_name: plugsky-lite
+  pied-piper:
+    refined_source: 4004c5e2a70f0853d99dda7c6765d60d314abbe43cd9413eaf6a761474d4dd25
+    brief: |-
+      THE CONFLICT: Compliance triggered in 1992; tackling it in 2021; $6.2 million Waterfront project; Robert Brown purchased family property July 21 2020.
+      THE DISCOVERY: Jack Burrell, City Council President and Eastern Shore MPO Chairman, is linked to poor decisions, corruption, and acting for special interests (Catalyst/Scott Boone Consulting); Burrell previously stated "No Tolls" on the Bayway Bridge but later supported a "Truckers toll bridge."
+      THE PIVOT: Article 2 established Burrell's history of misleading the public regarding compliance (1992 vs 2021) and his contradictory stance on tolls (No Tolls vs. Toll Bridge), undermining his current claim in Article 1 that he is "speaking for the people" against tolls.
+      KEY ENTITIES: Jack Burrell, Fairhope City Council, Eastern Shore MPO, Catalyst/Scott Boone Consulting, Jay Robinson, Robert Brown, Richard Shelby, Tim Kant, Baldwin County
+    llm_text: Jack Burrell's shifting stance on tolls—from "No Tolls" to supporting a bridge toll—undermines his public claims. See how his link to Catalyst/Scott Boone Consulting affects Robert Brown's $6.2M Waterfront project.
+    text: Jack Burrell shifted from no tolls to supporting a bridge toll. His link to Catalyst and Scott Boone Consulting affects Robert Brown's waterfront project.
+    widget_date: "2021-06-04"
+    generated_at: "2026-11-06T20:56:53.830889Z"
+    model_name: plugsky-lite
+  bit-dogs-bark-first:
+    refined_source: 055e672a3966be0d2c2cd379fbc554d6942a6452ce03d65a4868a731c0103d2b
+    brief: |-
+      THE CONFLICT: Fairhope City Council corruption and influence by connected players over many years; Mayor and three councilmen were voted out in a recent election due to demographic shift.
+      THE DISCOVERY: Two remaining councilmen, Jack Burrell and Kevin Boone, have existing business affiliations (e.g., Boone's BA-101 LLC formed 4-29-2004; North Ridge, LLC formed 6-2-2008 including Boone and Avent) and were involved in past actions like the Triangle lawsuit ($12 million) and the $11 million sewer plant project.
+      THE PIVOT: Article 2 establishes the historical context of Burrell and Boone's connections to special interests (Preble-Rish, Airport Authority, real estate) and their opposition to transparency (refusing fresh eyes on infrastructure), directly contrasting Burrell's current claims in Article 1 that he is "speaking for the people of Baldwin County" regarding infrastructure and toll necessity.
+      KEY ENTITIES: Jack Burrell, Kevin Boone, John G. Avent, Jay Robinson, Ray Hix, Fairhope City Council, Baldwin County, Preble-Rish, Triangle lawsuit, Fairhope Airport Authority, Cassady Company, Inc.
+    llm_text: Jack Burrell claims to speak for Baldwin County, but Kevin Boone and Jack Burrell have deep ties to the Triangle lawsuit and $11M sewer project. See how these councilmen's business history clashes with their transparency promises.
+    text: Kevin Boone and Jack Burrell have deep ties to the Triangle lawsuit and an 11 million dollar sewer project. Their business history clashes with transparency.
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-06T20:57:01.510900Z"
+    model_name: plugsky-lite
+  get-out-of-jail-card:
+    refined_source: bd9283b8db9014d98627177d65425a1d82a235b477f9e194024e44c0f02c012e
+    brief: |-
+      THE CONFLICT:
+      Pittman and state Rep. Steve McMillan, R-Gulf Shores, were tapped by Gov. Bob Riley to head up BP grant money distribution in Baldwin. Pittman "distributed" $750,000.00 for himself and family; Pittman used a "Get Out of Jail Card" for this.
+
+      THE DISCOVERY:
+      Widget Article shows that political connections and "Get Out of Jail Cards" allow politicians (e.g., Ben Reynolds, Elliott, Pittman, McSharry) to avoid transparency or accountability in Baldwin County, citing examples from 2017, 2018, and 2014-2018.
 
       THE PIVOT:
       Widget Article establishes a pattern of political immunity and lack of accountability in Baldwin County, providing context that Jack Burrell's defense of new tolls and development (Main Article) operates within a system where powerful figures evade legal consequences.
@@ -38,111 +145,20 @@ hooks:
       2017
       2018
       2014
-    llm_text: Pittman allegedly used a "Get Out of Jail Card" to pocket $750K from BP grants in Baldwin County. See how political ties shield figures like Steve McMillan from accountability in Baldwin.
+    llm_text: Pittman used a "Get Out of Jail Card" to pocket $750K from BP grants in Baldwin County. See how political ties shield figures like Steve McMillan from accountability in Baldwin.
+    text: Cliff Pitman pocketed 750,000 dollars from BP grants in Baldwin County. Political ties shielded figures like Steve McMillan from accountability.
     widget_date: "2022-08-16"
     generated_at: "2026-11-06T20:56:33.760533Z"
     model_name: plugsky-lite
   schools-and-taxes:
+    refined_source: 96db51869f3e0e46481f80d3c00b7a814698ea185c8164328843e72db63a10c5
     brief: |-
       THE CONFLICT: Jack Burrell (Baldwin County Council) initially promised no tolls and no federal money were needed for infrastructure projects (e.g., toll bridge/Bayway). He later shifted to supporting tolls and development to boost population and business.
       THE DISCOVERY: In August 2022 (fiscal year 2022), Baldwin County paid $130,888,985.70 to the BCBOE for the first eleven months of the fiscal year, a $12,825,094.51 increase over 2021 payments.
       THE PIVOT: The large, increasing local tax revenue demonstrated in Article 2 contradicts the narrative in Article 1 that Baldwin County is in a state of financial desperation requiring new tolls or tax increases to address infrastructure failures.
       KEY ENTITIES: Jack Burrell, Baldwin County Council, Fairhope, BCBOE, Baldwin County Commission, Jeanne Carney, David Peterson, Gulf Shores Board of Education (GSBOE), Chris Elliott, August 2022, $130,888,985.70, $91,000-$103,000.
     llm_text: Jack Burrell promised no tolls for Baldwin County infrastructure, but local payments hit $130M to BCBOE in FY2022. New tax fears might be unnecessary; Baldwin County demonstrates financial strength, contradicting the need for new tolls.
+    text: Baldwin County local payments hit 130 million dollars to BCBOE in 2022. Financial strength contradicts the need for new tolls and taxes.
     widget_date: "2022-08-15"
     generated_at: "2026-11-06T20:57:09.833993Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stinking-ticking-time-bomb:
-    brief: |-
-      THE CONFLICT:
-      Clarence Burke (President of Baldwin County Sewer Service - BCSS) and Delaney (prominent South Alabama lender) were involved in the Straw-man civil case; sealed records showed business/political connections over two decades; management of Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012; the case began in Judge Jody Bishop's courtroom.
-
-      THE DISCOVERY:
-      BCSS is the only privately operated and unregulated sewer service in Alabama, distinct from Baldwin County government; BCSS utilizes county right of ways at no charge, contributing to county sprawl and subdivision conversion of farmland; Fairhope has contributed to Bay pollution for over 20 years.
-
-      THE PIVOT:
-      Article 2 establishes a historical pattern (20+ years/2012 onward) of unregulated private corporate power (BCSS/Burke) and county political inaction (County Commission refusal to regulate), which provides context for Jack Burrell's (10-year council member) recent political claims that infrastructure failures are due to neglect while simultaneously promoting tolls/development.
-
-      KEY ENTITIES:
-      Jack Burrell
-      Clarence Burke
-      Baldwin County
-      Fairhope
-      Baldwin County Sewer Service (BCSS)
-      Little Lagoon Preservation Society (LLPS)
-      DR Horton
-      Judge Jody Bishop
-      Delaney
-    llm_text: Clarence Burke and Delaney held secret business ties revealed in a Judge Jody Bishop case spanning two decades. This pattern of unregulated BCSS power in Fairhope explains why Jack Burrell claims infrastructure neglect while pushing development.
-    widget_date: "2022-08-12"
-    generated_at: "2026-11-06T20:58:18.536768Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-roller-coaster:
-    brief: |-
-      THE CONFLICT: Fauxhope city council delayed ADA compliance for one year regarding the waterfront bluff/park walkway project (over 18 months ago).
-      THE DISCOVERY: The council abandoned the original ADA switchback walkway plan, opting instead for an open car on rails ("fauxhope roller-coaster") to transport handicapped people down the grade, raising questions about where $6 million was spent.
-      THE PIVOT: The council's documented history of prioritizing costly, poorly conceived, and delayed infrastructure solutions (roller coaster over walkway) supports the claim in the main article that Fairhope infrastructure is neglected and 10 years behind due to local political inaction.
-      KEY ENTITIES: Jack Burrell, Baldwin County, Fairhope, Fauxhope city council, Toll Bridge, Bayway
-    llm_text: The Fauxhope city council delayed ADA compliance for the waterfront bluff and spent $6 million on a "roller-coaster" instead of proper walkways. Discover how this costly political inaction proves Fairhope infrastructure is neglected and 10 years behind.
-    widget_date: "2022-04-12"
-    generated_at: "2026-11-06T20:59:19.400771Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  trolls-for-tolls:
-    brief: |-
-      THE CONFLICT:
-      Bayway Bridge project financing discussions occurred years ago.
-      Initial public sentiment (around a year prior to the widget article's context) was against tolls, as evidenced by a Facebook page gaining over 50,000 likes rejecting tolls.
-      Politicians later unified support for tolls through Mobile and Baldwin MPO.
-      Jack Burrell previously stated a "toll-free route" was possible and claimed no federal or additional state money was forthcoming.
-
-      THE DISCOVERY:
-      Article 2 reveals that the total price tag is $2.2 billion, with $125 million from federal government and a committed $250 million from the state (ALDOT/local leaders), leaving a funding gap of roughly $500 million that tolls aim to cover.
-      Article 2 established Jack Burrell's history of conflicting statements regarding tolls and his questionable track record.
-
-      THE PIVOT:
-      Article 2 provides the financial context (total cost, committed funds, funding gap) that contradicts Jack Burrell's claims in Article 1 that "no federal money was needed" and "no tolls" would be necessary, framing his current support for tolls as a response to inability to fund the project otherwise.
-
-      KEY ENTITIES:
-      Jack Burrell
-      Fairhope
-      Baldwin County
-      Mobile and Baldwin MPO
-      Jim Zigler
-      Jon Gray
-      ALDOT
-      David Peterson
-      Dean Young
-    llm_text: Jack Burrell claimed a toll-free Bayway Bridge route was possible, but the project needs $500M from tolls to meet the $2.2B cost. See how Burrell's past statements clash with the real funding gap in Baldwin County.
-    widget_date: "2022-01-28"
-    generated_at: "2026-11-06T20:56:41.953736Z"
-    model_name: plugsky-lite
-  lego-rocket-scientist:
-    brief: |-
-      THE CONFLICT: Jack Burrell was elected to Mayor and Council, with Council Presidency held by Burrell for almost 9 years. In November, Burrell abruptly resigned from Council Presidency.
-      THE DISCOVERY: Burrell initially promised no federal money was needed and no tolls for the proposed Toll Bridge/Bayway.
-      THE PIVOT: Article 2 establishes Burrell's long-term pattern of favoring developer interests (e.g., Fairhope Airport Authority issues, $2.65M recreation land expenditure, municipal judge Haymes Snedeker appointment) which contextualizes his later shift in Article 1 to advocate for tolls and development despite prior 'NO TOLLS' promises.
-      KEY ENTITIES: Jack Burrell, Baldwin County, Fairhope, Catalyst (Scott Boone Consulting), Haymes Snedeker, Fairhope Airport Authority, Continental Motors
-    llm_text: Jack Burrell abruptly dropped his "no tolls" promise for the Toll Bridge, now backing developer interests. See how his past favors, like the $2.65M land spend, shaped this Baldwin County decision.
-    widget_date: "2022-01-13"
-    generated_at: "2026-11-06T20:56:47.379692Z"
-    model_name: plugsky-lite
-  pied-piper:
-    brief: |-
-      THE CONFLICT: Compliance triggered in 1992; tackling it in 2021; $6.2 million Waterfront project; Robert Brown purchased family property July 21 2020.
-      THE DISCOVERY: Jack Burrell, City Council President and Eastern Shore MPO Chairman, is linked to poor decisions, corruption, and acting for special interests (Catalyst/Scott Boone Consulting); Burrell previously stated "No Tolls" on the Bayway Bridge but later supported a "Truckers toll bridge."
-      THE PIVOT: Article 2 established Burrell's history of misleading the public regarding compliance (1992 vs 2021) and his contradictory stance on tolls (No Tolls vs. Toll Bridge), undermining his current claim in Article 1 that he is "speaking for the people" against tolls.
-      KEY ENTITIES: Jack Burrell, Fairhope City Council, Eastern Shore MPO, Catalyst/Scott Boone Consulting, Jay Robinson, Robert Brown, Richard Shelby, Tim Kant, Baldwin County
-    llm_text: Jack Burrell's shifting stance on tolls—from "No Tolls" to supporting a bridge toll—undermines his public claims. See how his link to Catalyst/Scott Boone Consulting affects Robert Brown's $6.2M Waterfront project.
-    widget_date: "2021-06-04"
-    generated_at: "2026-11-06T20:56:53.830889Z"
-    model_name: plugsky-lite
-  bit-dogs-bark-first:
-    brief: |-
-      THE CONFLICT: Fairhope City Council corruption and influence by connected players over many years; Mayor and three councilmen were voted out in a recent election due to demographic shift.
-      THE DISCOVERY: Two remaining councilmen, Jack Burrell and Kevin Boone, have existing business affiliations (e.g., Boone's BA-101 LLC formed 4-29-2004; North Ridge, LLC formed 6-2-2008 including Boone and Avent) and were involved in past actions like the Triangle lawsuit ($12 million) and the $11 million sewer plant project.
-      THE PIVOT: Article 2 establishes the historical context of Burrell and Boone's connections to special interests (Preble-Rish, Airport Authority, real estate) and their opposition to transparency (refusing fresh eyes on infrastructure), directly contrasting Burrell's current claims in Article 1 that he is "speaking for the people of Baldwin County" regarding infrastructure and toll necessity.
-      KEY ENTITIES: Jack Burrell, Kevin Boone, John G. Avent, Jay Robinson, Ray Hix, Fairhope City Council, Baldwin County, Preble-Rish, Triangle lawsuit, Fairhope Airport Authority, Cassady Company, Inc.
-    llm_text: Jack Burrell claims to speak for Baldwin County, but Kevin Boone and Jack Burrell have deep ties to the Triangle lawsuit and $11M sewer project. See how these councilmen's business history clashes with their transparency promises.
-    widget_date: "2017-01-11"
-    generated_at: "2026-11-06T20:57:01.510900Z"
-    model_name: plugsky-lite

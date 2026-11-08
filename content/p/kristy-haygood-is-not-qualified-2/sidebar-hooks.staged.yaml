@@ -5,7 +5,91 @@ metadata:
   main_date: "2026-05-14"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  kristy-haygood-is-not-qualified:
+    refined_source: e7df38a52a84150a175b95bd2d2c82ac057785fbb7717d683ba312f63506889b
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence was incarcerated for over 20 years based on bogus charges stemming from Hastings’ murder.
+      *   The conviction occurred in a trial around 2005.
+      *   Prosecutors, including David Whetstone (District Attorney), Anthony Lowery (lead investigator), Hoss Mack, Robert Wilters, and David Whetstone, were responsible for the conviction and withheld evidence, constituting a clear Brady violation.
+
+      THE DISCOVERY:
+      *   The 2005 trial involved the exclusion of a second autopsy, which determined the cause of death as asphyxiation by suffocation, not murder by firearm.
+      *   Prosecutors relied heavily on the testimony of Jarius McNeil (Lawrence’s friend), who pleaded guilty to involvement in the murder to testify against Lawrence.
+      *   Lawrence had an alibi supported by five witnesses placing him in Baldwin County between 1 and 3 am.
+      *   Kristi Hagood stated the failure to disclose the autopsy did not constitute a Brady violation because it lacked exculpatory evidence.
+
+      THE PIVOT:
+      *   Article 2 details the factual basis of the 2005 trial (autopsy findings, McNeil’s role, Lawrence’s alibi) which directly contradicts Hagood’s claims of a "harmless" error and the denial of a Brady violation.
+      *   Article 1 uses these historical facts to argue that Assistant District Attorney Kristi Hagood is unqualified to be a judge due to her repeated inaccuracies regarding the case.
+
+      KEY ENTITIES:
+      *   Kristi Hagood (Assistant District Attorney/Judge candidate)
+      *   Murray Lawrence (Incarcerated defendant)
+      *   Anthony Lowery (Lead Investigator)
+      *   Hoss Mack
+      *   Robert Wilters
+      *   David Whetstone (District Attorney)
+      *   Jarius McNeil (Testifying friend/informant)
+      *   Jeremiah Giles (Candidate advocated for in Article 1)
+      *   Alabama Exposure and Accountability LLC
+      *   The Ripp Report
+    llm_text: Murray Lawrence spent over 20 years for a bogus Hastings murder conviction based on withheld evidence. ADA Kristi Hagood denies a Brady violation, but the second autopsy and Lawrence's alibi prove her claims wrong regarding his wrongful conviction.
+    text: Murray Lawrence spent over 20 years for a bogus murder conviction based on withheld evidence. Does ADA Kristi Hagood deny a Brady violation despite a second autopsy?
+    widget_date: "2026-05-07"
+    generated_at: "2026-11-06T07:15:59.254803Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  rule-32:
+    refined_source: c621b41479e81da2690966d1dcdaee4e6644778f35d1aa702e06ba698ef40c6a
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence has been incarcerated for over 20 years on bogus charges.
+      *   Conviction was secured through the willful suppression of evidence, constituting a clear Brady violation.
+      *   Officials involved in withholding evidence included Hoss Mack, Robert Wilters (Judge), and David Whetstone (Prosecutor).
+      *   Kristi Hagood is cited as responsible for errors leading to the conviction of innocent men.
+
+      THE DISCOVERY:
+      *   A Rule 32 petition was filed on November 27, 2023, to challenge Murray Lawrence's conviction.
+      *   The suppressed evidence is believed to prove Murray Lawrence's innocence.
+      *   Hoss Mack acted as the "LEAD INVESTIGATOR" and coordinator for the sheriff's department.
+
+      THE PIVOT:
+      *   Article 2 (Rule 32 petition/20-year incarceration) provides the historical evidence of systemic, willful prosecutorial/judicial misconduct in the Baldwin County case.
+      *   This pattern of misconduct (Mack, Wilters, Whetstone) directly supports Article 1's claim that ADA Kristi Hagood is not qualified to be a judge due to similar errors in her tenure.
+
+      KEY ENTITIES:
+      *   Kristi Hagood (Assistant District Attorney)
+      *   Murray Lawrence
+      *   Hoss Mack
+      *   Robert Wilters (Judge)
+      *   David Whetstone (Prosecutor)
+      *   Anthony Lowery
+      *   Jeremiah Giles (Candidate)
+      *   Alabama Exposure and Accountability LLC
+      *   The Ripp Report
+      *   Baldwin County (Location)
+    llm_text: Murray Lawrence spent over 20 years incarcerated due to willful evidence suppression by Hoss Mack, Judge Robert Wilters, and David Whetstone. This Baldwin County misconduct pattern directly challenges ADA Kristi Hagood's fitness for judge.
+    text: Murray Lawrence spent over 20 years incarcerated due to willful evidence suppression by Hoss Mack, Judge Robert Wilters, and David Whetstone. Does this challenge ADA Kristi Hagood?
+    widget_date: "2023-12-14"
+    generated_at: "2026-11-06T07:18:25.842266Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  guilty-audiobook:
+    refined_source: 9bbeeeeac3f7e8470c5b294406f2391314608d5f4b254ab7e18f3a92d9a4c1b4
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. resulting in over 20 years of incarceration on bogus charges. Involved parties: Anthony Lowery, Kristy Hagood (Asst. D.A.), Hoss Mack (Former sheriff), Robert Wilters (Judge), David Whetstone (Prosecutor). The conviction involved withholding evidence (a Brady violation).
+
+      THE DISCOVERY: Article 2 revealed that Anthony Lowery (Lead investigator) and Kristy Haygood (Asst. D.A. candidate) were part of the conviction of an innocent man; Haygood filed inaccurate/false statements about Lawrence and protected D.A. Wilters from malicious prosecution exposure.
+
+      THE PIVOT: Article 2 provides the historical evidence of fraud, lying, and withholding evidence (Brady violation) during the Lawrence case, establishing the basis for Article 1's claim that Kristi Hagood is fundamentally unqualified to serve as a judge due to documented professional errors and unethical conduct.
+
+      KEY ENTITIES: Murray Lawrence Jr., Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Jeremiah Giles, Maxwell-Tillman, Gabby Humber, BCSO.
+    llm_text: Murray Lawrence Jr. spent over 20 years incarcerated due to bogus charges and a critical Brady violation involving withheld evidence. Kristi Hagood filed false statements in his case; she is fundamentally unqualified to serve as a judge.
+    text: Murray Lawrence Jr. spent over 20 years incarcerated due to bogus charges and withheld evidence. Did Kristi Hagood file false statements in his case?
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-06T07:14:44.175299Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   internal-tensions-bcso:
+    refined_source: 214365e152ff36ae45080461fd358e1c104fc93073d64e30e5a8ba2eb3468ccf
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence was incarcerated for over 20 years on alleged bogus charges.
@@ -35,43 +119,12 @@ hooks:
       *   Mobile ERO
       *   287(g) program
     llm_text: Anthony Lowery faces scrutiny over political tensions with Mobile ERO and the 287(g) program. Did his involvement affect the Brady violation against ADA Kristi Hagood regarding innocent Murray Lawrence?
+    text: Anthony Lowery faces scrutiny over political tensions with Mobile ERO and the 287(g) program. Did his involvement affect the Brady violation against ADA Kristi Hagood?
     widget_date: "2026-05-12"
     generated_at: "2026-11-06T07:10:57.216332Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  lowery-puts-campaign-first-immigration-enforcement:
-    brief: |-
-      THE CONFLICT: Murray Lawrence has been incarcerated for over 20 years on bogus charges; prosecutors, including Kristi Hagood, failed to disclose evidence favorable to the defense (a Brady violation).
-      THE DISCOVERY: Sheriff Anthony Lowery was accused of scaling back active cooperation with federal immigration enforcement in Baldwin County, Alabama, due to ties to the election cycle on May 19th.
-      THE PIVOT: Article 2 establishes a pattern of elected officials (Lowery) prioritizing political standing over public safety/duty, lending credence to the argument in Article 1 that Kristi Hagood lacks the qualification for a judge given her role in the same pattern of legal misconduct and error.
-      KEY ENTITIES: Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence, Jeremiah Giles, Baldwin County, BCSO.
-    llm_text: Kristi Hagood failed Murray Lawrence by concealing evidence in his 20-year incarceration, violating Brady rules. Sheriff Anthony Lowery’s political misconduct in Baldwin County shows a pattern questioning Hagood’s qualifications for judge.
-    widget_date: "2026-05-11"
-    generated_at: "2026-11-06T07:13:02.665911Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  guilty-audiobook:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. resulting in over 20 years of incarceration on bogus charges. Involved parties: Anthony Lowery, Kristy Hagood (Asst. D.A.), Hoss Mack (Former sheriff), Robert Wilters (Judge), David Whetstone (Prosecutor). The conviction involved withholding evidence (a Brady violation).
-
-      THE DISCOVERY: Article 2 revealed that Anthony Lowery (Lead investigator) and Kristy Haygood (Asst. D.A. candidate) were part of the conviction of an innocent man; Haygood filed inaccurate/false statements about Lawrence and protected D.A. Wilters from malicious prosecution exposure.
-
-      THE PIVOT: Article 2 provides the historical evidence of fraud, lying, and withholding evidence (Brady violation) during the Lawrence case, establishing the basis for Article 1's claim that Kristi Hagood is fundamentally unqualified to serve as a judge due to documented professional errors and unethical conduct.
-
-      KEY ENTITIES: Murray Lawrence Jr., Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Jeremiah Giles, Maxwell-Tillman, Gabby Humber, BCSO.
-    llm_text: Murray Lawrence Jr. spent over 20 years incarcerated due to bogus charges and a critical Brady violation involving withheld evidence. Kristi Hagood filed false statements in his case; she is fundamentally unqualified to serve as a judge.
-    widget_date: "2026-04-16"
-    generated_at: "2026-11-06T07:14:44.175299Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  po-po-hoss-mack-ccuo:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. on bogus charges; over 20 years incarceration; Brady violation occurred due to withholding evidence.
-      THE DISCOVERY: A May 17, 2004, letter from the Alabama Department of Forensic Sciences regarding the second autopsy report was CC'ed to Hoss Mack and his father, indicating Whetstone, Wilters, and Mack should have known about the report before the trial.
-      THE PIVOT: The past action—Mack, Lowery, Wilters, and Whetstone knowingly hiding evidence proving Lawrence’s innocence—is presented as evidence of professional misconduct and lack of integrity, used to argue that Kristi Hagood (Assistant District Attorney) is unqualified to be a judge.
-      KEY ENTITIES: Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence Jr., Jeremiah Giles, Baldwin County Sheriffs Office (BCSO), Alabama Department of Forensic Sciences, Francis Paul Ripp.
-    llm_text: Hoss Mack and others knowingly hid the May 17, 2004, forensic report on Murray Lawrence Jr.'s second autopsy. This misconduct challenges ADA Kristi Hagood's integrity, raising critical questions about her fitness to judge.
-    widget_date: "2024-06-15"
-    generated_at: "2026-11-06T07:13:45.526236Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   anonymous-bb:
+    refined_source: 01c30384ad32e160589445cce6cea5df452bf312a3ac0d579621897eaba9f497
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was incarcerated for over 20 years on bogus charges.
@@ -84,7 +137,7 @@ hooks:
       THE DISCOVERY:
       *   The BCSO, under Hoss Mack's tenure (nearly 20 years), operates as a "Cabal" supporting the GOB rather than a police agency.
       *   The culture established by Hoss Mack and passed down to Lowery is corrosive, characterized by corruption, police cover-ups, and prioritizing GOB loyalty over justice.
-      *   The anonymous newsletter, Baldwin Beat (BB), is allegedly a product of political consultants due to fear from the BCSO/GOB control.
+      *   The anonymous newsletter, Baldwin Beat (BB), is a product of political consultants due to fear from the BCSO/GOB control.
 
       THE PIVOT:
       *   Article 2 establishes the systemic, long-term institutional failure and culture of corruption (Mack/Lowery) within Baldwin County law enforcement and prosecution.
@@ -105,84 +158,24 @@ hooks:
       *   Johnathan Victor
       *   O J French
     llm_text: Hoss Mack’s 20-year BCSO "Cabal" led to Murray Lawrence Jr.’s wrongful conviction, proving systemic corruption exists in Baldwin County. These deep-rooted failures raise serious questions about Kristi Hagood’s qualifications to sit as a judge.
+    text: Hoss Mack’s 20-year BCSO leadership led to Murray Lawrence Jr.’s wrongful conviction, proving systemic corruption exists in Baldwin County. Do these failures question Kristi Hagood?
     widget_date: "2026-05-10"
     generated_at: "2026-11-06T07:12:14.997285Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  kristy-haygood-is-not-qualified:
-    brief: |-
-      THE CONFLICT:
-      *   Murray Lawrence was incarcerated for over 20 years based on bogus charges stemming from Hastings’ murder.
-      *   The conviction occurred in a trial around 2005.
-      *   Prosecutors, including David Whetstone (District Attorney), Anthony Lowery (lead investigator), Hoss Mack, Robert Wilters, and David Whetstone, were responsible for the conviction and allegedly withheld evidence, constituting a clear Brady violation.
-
-      THE DISCOVERY:
-      *   The 2005 trial involved the exclusion of a second autopsy, which determined the cause of death as asphyxiation by suffocation, not murder by firearm.
-      *   Prosecutors relied heavily on the testimony of Jarius McNeil (Lawrence’s friend), who pleaded guilty to involvement in the murder to testify against Lawrence.
-      *   Lawrence had an alibi supported by five witnesses placing him in Baldwin County between 1 and 3 am.
-      *   Kristi Hagood stated the failure to disclose the autopsy did not constitute a Brady violation because it lacked exculpatory evidence.
-
-      THE PIVOT:
-      *   Article 2 details the factual basis of the 2005 trial (autopsy findings, McNeil’s role, Lawrence’s alibi) which directly contradicts Hagood’s claims of a "harmless" error and the denial of a Brady violation.
-      *   Article 1 uses these historical facts to argue that Assistant District Attorney Kristi Hagood is unqualified to be a judge due to her repeated inaccuracies regarding the case.
-
-      KEY ENTITIES:
-      *   Kristi Hagood (Assistant District Attorney/Judge candidate)
-      *   Murray Lawrence (Incarcerated defendant)
-      *   Anthony Lowery (Lead Investigator)
-      *   Hoss Mack
-      *   Robert Wilters
-      *   David Whetstone (District Attorney)
-      *   Jarius McNeil (Testifying friend/informant)
-      *   Jeremiah Giles (Candidate advocated for in Article 1)
-      *   Alabama Exposure and Accountability LLC
-      *   The Ripp Report
-    llm_text: Murray Lawrence spent over 20 years for a bogus Hastings murder conviction based on withheld evidence. ADA Kristi Hagood denies a Brady violation, but the second autopsy and Lawrence's alibi prove her claims wrong regarding his wrongful conviction.
-    widget_date: "2026-05-07"
-    generated_at: "2026-11-06T07:15:59.254803Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   oust-elliott:
+    refined_source: 3308a2b67314efd2cbd2374838b9578e1424df82a8c42af755958cbdc8ad10b9
     brief: |-
       THE CONFLICT: Chris Elliott faced a challenge from Mike Vandenheuvel regarding Elliott’s connections to Catalyst, GOB, and gaming interests in Baldwin County.
       THE DISCOVERY: Article 2 revealed that Chris Elliott had prior knowledge of solar fields and connections to gaming ambition in Alabama.
       THE PIVOT: Article 2 establishes a historical context of local political accountability and scrutiny within Baldwin County, setting the foundation for the later legal and judicial challenges documented in Article 1.
       KEY ENTITIES: Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence, Jeremiah Giles, Chris Elliott, Mike Vandenheuvel (Mike Van), Francis Paul Ripp, Alabama Exposure and Accountability LLC, Baldwin County Citizens for Accountability, Doug Snow.
     llm_text: Mike Vandenheuvel challenged Chris Elliott over his connections to Catalyst, GOB, and Baldwin County gaming interests. New evidence reveals Elliott knew about Alabama solar fields and gaming ambition, setting the stage for Baldwin County's political scrutiny.
+    text: Mike Vandenheuvel challenged Chris Elliott over his connections to Catalyst and Baldwin County gaming interests. Did Elliott know about Alabama solar fields?
     widget_date: "2026-04-13"
     generated_at: "2026-11-06T07:17:18.269249Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  rule-32:
-    brief: |-
-      THE CONFLICT:
-      *   Murray Lawrence has been incarcerated for over 20 years on bogus charges.
-      *   Conviction was secured through the willful suppression of evidence, constituting a clear Brady violation.
-      *   Officials involved in withholding evidence included Hoss Mack, Robert Wilters (Judge), and David Whetstone (Prosecutor).
-      *   Kristi Hagood is cited as responsible for errors leading to the conviction of innocent men.
-
-      THE DISCOVERY:
-      *   A Rule 32 petition was filed on November 27, 2023, to challenge Murray Lawrence's conviction.
-      *   The suppressed evidence is believed to prove Murray Lawrence's innocence.
-      *   Hoss Mack acted as the "LEAD INVESTIGATOR" and coordinator for the sheriff's department.
-
-      THE PIVOT:
-      *   Article 2 (Rule 32 petition/20-year incarceration) provides the historical evidence of systemic, willful prosecutorial/judicial misconduct in the Baldwin County case.
-      *   This pattern of misconduct (Mack, Wilters, Whetstone) directly supports Article 1's claim that ADA Kristi Hagood is not qualified to be a judge due to similar errors in her tenure.
-
-      KEY ENTITIES:
-      *   Kristi Hagood (Assistant District Attorney)
-      *   Murray Lawrence
-      *   Hoss Mack
-      *   Robert Wilters (Judge)
-      *   David Whetstone (Prosecutor)
-      *   Anthony Lowery
-      *   Jeremiah Giles (Candidate)
-      *   Alabama Exposure and Accountability LLC
-      *   The Ripp Report
-      *   Baldwin County (Location)
-    llm_text: Murray Lawrence spent over 20 years incarcerated due to willful evidence suppression by Hoss Mack, Judge Robert Wilters, and David Whetstone. This Baldwin County misconduct pattern directly challenges ADA Kristi Hagood's fitness for judge.
-    widget_date: "2023-12-14"
-    generated_at: "2026-11-06T07:18:25.842266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   license-to-steal:
+    refined_source: 45695e69e3056c36180778e206f53723b9d894302cd8497d062fadd65948e42d
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence was incarcerated for over 20 years on bogus charges due to withheld evidence (Brady violation).
@@ -210,6 +203,31 @@ hooks:
       *   John Plunk (Ethics Commission Vice-Chair)
       *   Rhonda Freeman (Columbia Mayor)
     llm_text: Murray Lawrence served 20 years on bogus Brady charges, implicating ADA Kristi Hagood. See how systemic corruption, including failures by the Alabama Ethics Commission under Tom Allbritton, undermines justice in the state.
+    text: Murray Lawrence served 20 years on bogus Brady charges, implicating ADA Kristi Hagood. Did failures by the Alabama Ethics Commission under Tom Allbritton undermine justice?
     widget_date: "2021-07-28"
     generated_at: "2026-11-06T07:19:33.683923Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  po-po-hoss-mack-ccuo:
+    refined_source: 92d3bd8d71a5cda22e69132869955d3d040b6db7aeaa129938376036753d141b
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. on bogus charges; over 20 years incarceration; Brady violation occurred due to withholding evidence.
+      THE DISCOVERY: A May 17, 2004, letter from the Alabama Department of Forensic Sciences regarding the second autopsy report was CC'ed to Hoss Mack and his father, indicating Whetstone, Wilters, and Mack should have known about the report before the trial.
+      THE PIVOT: The past action—Mack, Lowery, Wilters, and Whetstone knowingly hiding evidence proving Lawrence’s innocence—is presented as evidence of professional misconduct and lack of integrity, used to argue that Kristi Hagood (Assistant District Attorney) is unqualified to be a judge.
+      KEY ENTITIES: Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence Jr., Jeremiah Giles, Baldwin County Sheriffs Office (BCSO), Alabama Department of Forensic Sciences, Francis Paul Ripp.
+    llm_text: Hoss Mack and others knowingly hid the May 17, 2004, forensic report on Murray Lawrence Jr.'s second autopsy. This misconduct challenges ADA Kristi Hagood's integrity, raising critical questions about her fitness to judge.
+    text: Hoss Mack and others knowingly hid the May 17, 2004, forensic report on Murray Lawrence Jr.'s second autopsy. Does this misconduct challenge ADA Kristi Hagood's integrity?
+    widget_date: "2024-06-15"
+    generated_at: "2026-11-06T07:13:45.526236Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lowery-puts-campaign-first-immigration-enforcement:
+    refined_source: cac2d3e460a3694388faa9799a2c7d3e54aa495f52a3bb5c0a418d641a64fe29
+    brief: |-
+      THE CONFLICT: Murray Lawrence has been incarcerated for over 20 years on bogus charges; prosecutors, including Kristi Hagood, failed to disclose evidence favorable to the defense (a Brady violation).
+      THE DISCOVERY: Sheriff Anthony Lowery was accused of scaling back active cooperation with federal immigration enforcement in Baldwin County, Alabama, due to ties to the election cycle on May 19th.
+      THE PIVOT: Article 2 establishes a pattern of elected officials (Lowery) prioritizing political standing over public safety/duty, lending credence to the argument in Article 1 that Kristi Hagood lacks the qualification for a judge given her role in the same pattern of legal misconduct and error.
+      KEY ENTITIES: Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence, Jeremiah Giles, Baldwin County, BCSO.
+    llm_text: Kristi Hagood failed Murray Lawrence by concealing evidence in his 20-year incarceration, violating Brady rules. Sheriff Anthony Lowery’s political misconduct in Baldwin County shows a pattern questioning Hagood’s qualifications for judge.
+    text: Kristi Hagood failed Murray Lawrence by concealing evidence in his 20-year incarceration, violating Brady rules. Does Sheriff Anthony Lowery’s political misconduct question her?
+    widget_date: "2026-05-11"
+    generated_at: "2026-11-06T07:13:02.665911Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

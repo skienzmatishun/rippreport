@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   bonum-est-faciet-2022:
+    refined_source: 8bae20ebe9d5ce698639516290eb594b5ede6b1b13d68fd39efc91f4efadeb94
     brief: |-
       THE CONFLICT: Baldwin County Legislative Delegation rented office space from Mayor Robert A Bob Wills in Bay Minette (2022). AG Steve Marshall joined the Mable Amos Trust lawsuit. Tom Albritton was accused of self-dealing as a Trustee of the Amos Trust. Johnathan Barbee was indicted by former Jefferson County Constable, despite being cleared by a 3-Judge Special Ethics Panel. Blount County Circuit Judge Steven King was the subject of a reported murder/reputation issue.
 
@@ -14,27 +15,32 @@ hooks:
       THE PIVOT: Article 2 (2022) establishes a pattern of systemic political and judicial corruption within Alabama governance, setting the historical context for the ongoing, related failures of the City of Fairhope’s municipal and judicial systems documented in Article 1.
 
       KEY ENTITIES: Ronan McSharry, City Of Fairhope, Mayor Sullivan, Jack Burrell, Marcus McDowell, Jennifer Blackwood, John Beck, Municipal Judge Haymes Snedeker, Paula Dinardi, Robert A Bob Wills, AG Steve Marshall, Mable Amos Trust, Tom Albritton, Johnathan Barbee, Blount County Circuit Judge Steven King.
-    llm_text: The "Bonum Est Faciet" article exposed systemic corruption, from Tom Albritton's self-dealing to AG Steve Marshall's involvement. Discover how that deep political rot affects City of Fairhope and its municipal judges today.
+    llm_text: The "Bonum Est Faciet" article exposed systemic corruption, from Tom Albritton's self-dealing to AG Steve Marshall's involvement. Read how that deep political rot affects City of Fairhope and its municipal judges today.
+    text: A recent investigative report exposed systemic corruption from Tom Albritton to Attorney General Steve Marshall. That deep political rot still affects the City of Fairhope and its municipal judges.
     widget_date: "2022-12-31"
     generated_at: "2026-11-06T20:14:36.407074Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   "eyes-on-you-\U0001F440":
+    refined_source: 9932b18a6f79e07f1369e40a2d45c4b9b7559952f9467321712e1ac688875bef
     brief: |-
       THE CONFLICT: Mayor "GREEDY" Wills leased office space from himself to the Baldwin County Legislative Delegation (BCLD) for $867,000.00 over three 5-year extensions in 2022.
       THE DISCOVERY: Article 2 reveals a pattern of localized political corruption involving self-dealing by Mayor Wills and associates, while Article 1 details ongoing domestic abuse allegations against Ronan McSharry and perceived judicial/city inaction in Fairhope.
       THE PIVOT: Article 2 establishes a precedent of local political corruption (Bay Minette/Baldwin County) that contrasts with the alleged corruption and political protection afforded to Ronan McSharry within the City of Fairhope, suggesting similar systemic issues exist across local Alabama politics.
       KEY ENTITIES: Ronan McSharry, City Of Fairhope, Mayor Sullivan, Councilman Jack Burrell, Marcus McDowell, Paula Dinardi, Jennifer Blackwood, John Beck, Municipal Judge Haymes Snedeker, Mayor Wills, Chris Elliott, Sheriff Hoss Mack, Matt Simpson.
     llm_text: Mayor Wills leased office space to his own delegation for $867K. See how this self-dealing mirrors alleged political protection for Ronan McSharry in Fairhope.
+    text: Mayor Wills leased office space to his own delegation for a huge sum of public money. This self-dealing mirrors the political protection given to Ronan McSharry in Fairhope.
     widget_date: "2022-12-30"
     generated_at: "2026-11-06T20:13:46.263582Z"
     model_name: plugsky-lite
   canons-no-powder:
+    refined_source: 7e3569b4232e55075009d8b2fb5c86aaaaf19a08b12107f26c9b539890665793
     brief: |-
       THE CONFLICT: Systemic lack of accountability and ethical violations by Baldwin County Judges (Judge Norton and Judge Snedeker) regarding development/real estate interests, violating Canons 2, 5, and 7.
       THE DISCOVERY: The Alabama Judicial Canons have "NO powder" in Baldwin County, allowing judges to engage in activities that appear improper, such as conflicts between judicial duties and personal development interests.
       THE PIVOT: Article 2 establishes the broader pattern of judicial impropriety (e.g., Judge Snedeker’s conflicts) which provides the context for Article 1, where Municipal Judge Haymes Snedeker ruled unable to convict Ronan McSharry despite alleged domestic abuse, demonstrating systemic failure rather than isolated error.
       KEY ENTITIES: Ronan McSharry, Mayor Sullivan, Councilman Jack Burrell, Marcus McDowell (City Attorney), Jennifer Blackwood, Paula Dinardi, John Beck, Municipal Judge Haymes Snedeker, Judge Norton, Attorney Harry Still, Former Mayor Wilson, City of Fairhope.
     llm_text: Municipal Judge Haymes Snedeker ruled unable to convict Ronan McSharry despite domestic abuse allegations. Baldwin County judges, including Judge Norton, face zero accountability for development conflicts, violating core judicial canons.
+    text: Municipal Judge Haymes Snedeker dismissed domestic abuse charges against Ronan McSharry. Baldwin County judges face zero accountability for development conflicts that violate core judicial rules.
     widget_date: "2021-12-13"
     generated_at: "2026-11-06T20:15:55.933577Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

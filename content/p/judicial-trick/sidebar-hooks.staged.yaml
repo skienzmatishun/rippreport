@@ -1,0 +1,57 @@
+metadata:
+  generated_at: "2026-11-07T19:26:15.584374Z"
+  generator_version: 1.0.0
+  post_slug: judicial-trick
+  main_date: "2020-04-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-party:
+    refined_source: 1a326c2d15342ea34f043268098f609a8588056e32b54dd5e21ca1e11b759927
+    brief: |-
+      THE CONFLICT: Ronan McSherry assaulted Paula Dinardi on November 22, 2018; Baldwin County Circuit Judge Clark Stankoski dismissed the most serious assault charge due to municipal attorney Marcus McDowell's failure to amend the charging document to include "did cause bodily harm."
+
+      THE DISCOVERY: The CATALYST City Council, led by Council President Jack Burrell, canceled all public participation hearings during the COVID-19 stay at home order and used council resolutions to promote Sherry Sullivan for the mayoral race, demonstrating political agenda over public governance.
+
+      THE PIVOT: Article 2 demonstrates the systemic political manipulation by the CATALYST council (Burrell/Sullivan) against established city leadership (Mayor Karin Wilson), establishing a pattern of self-serving political maneuvering in Fairhope that mirrors the alleged politically motivated judicial trickery in the McSherry case.
+
+      KEY ENTITIES: Ronan McSherry; Paula Dinardi; Clark Stankoski; Marcus McDowell; Jack Burrell; Mayor Karin Wilson; Sherry Sullivan; CATALYST council; Baldwin County.
+    llm_text: Ronan McSherry’s assault charge dismissal in Baldwin County mirrors the CATALYST council’s political agenda, where Jack Burrell pushed Sherry Sullivan instead of serving public governance. Fairhope reveals systemic political manipulation—from judicial trickery to council maneuvering against Mayor Karin Wilson.
+    text: Ronan McSherry's assault charge dismissal mirrors the Fairhope council's political agenda. Jack Burrell pushed Sherry Sullivan aside while council maneuvers targeted Mayor Karin Wilson.
+    widget_date: "2020-04-16"
+    generated_at: "2026-11-07T19:24:51.127279Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pissed-on-or-pissed-off:
+    refined_source: 75f84e91976e99242cb7a880cc14e66dceb59c4749a4a5e0f5a1db12f44e8955
+    brief: |-
+      THE CONFLICT:
+      *   CATALYST council has operated in Fairhope/Baldwin County since 2016, exhibiting systemic corruption and political control.
+      *   Council President Jack Burrell used tax dollars to investigate a whistleblower regarding bid-rigging on the Airport Board.
+      *   Councilman Brown acquired lucrative contracts using his elected position; he has a pending complaint with the Alabama Attorney General.
+      *   The "three B's" spent $2.65 million for recreation land which was then leased for $9,000 annually.
+
+      THE DISCOVERY:
+      *   The CATALYST council has a documented history of financial misuse, political manipulation (e.g., refusing a USMC veteran to speak at council), and ethical lapses since 2016.
+      *   The council actively sought to retain the "established" municipal attorney and judge, indicating political alignment over public interest.
+
+      THE PIVOT:
+      *   Article 2 establishes that the judicial malfeasance (e.g., Judge Stankoski's ruling, Attorney McDowell's delay) detailed in Article 1 is not an isolated error but part of a long-standing, politically motivated system of corruption controlled by the CATALYST council and its allies.
+      *   The relationship between Mayor Burrell and Ronan McSherry is rooted in the established political network of the CATALYST council.
+
+      KEY ENTITIES:
+      *   CITY OF FAUXHOPE
+      *   Baldwin County
+      *   CATALYST council
+      *   Jack Burrell (Council President)
+      *   Scott Boone / Kevin Boone
+      *   Ronan McSherry
+      *   Paula Dinardi
+      *   Clark Stankoski (Baldwin County Circuit Judge)
+      *   Marcus McDowell (Municipal Attorney)
+      *   John Beck / James Pittman
+      *   Councilman Brown
+      *   Councilman Boone
+    llm_text: The CATALYST council in Fairhope misused $2.65 million for leased land and allowed Councilman Brown to acquire lucrative contracts. This systemic corruption, involving Jack Burrell and Judge Stankoski, isn't isolated—it’s a long-standing political network readers need to know about.
+    text: The Fairhope council misused $2.65 million for leased land and let Councilman Brown acquire lucrative contracts. Jack Burrell and Judge Stankoski protected this network.
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T19:25:58.576147Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

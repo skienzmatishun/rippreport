@@ -1,0 +1,119 @@
+metadata:
+  generated_at: "2026-11-07T04:49:40.268614Z"
+  generator_version: 1.0.0
+  post_slug: sheriff-huey-boss-mack-secret-police
+  main_date: "2021-10-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  your-rights-your-money:
+    refined_source: 03997bd4608d690d057c502edd99b3e6592665686814ba1e0f770f83e7c8031a
+    brief: |-
+      THE CONFLICT:
+      *   May 2017: Jonathan Victor (unarmed) was shot to death by BCSO.
+      *   March 5, 2018: Robert Yates was shot to death by BCSO SWAT team without probable cause during an eviction.
+      *   Murray Lawrence Jr. was falsely incarcerated for over 16 years.
+      *   Sheriff Hoss Mack secured his second term via legislatively recorded qualifications (Senate Bill 312) with then State Senator Tripp Pittman.
+
+      THE DISCOVERY:
+      *   On September 30, 2021, the Alabama Supreme Court issued a decision (Lagniappe) that insulated BCSO from transparency and accountability.
+      *   This ruling restricted public access to law enforcement records (body cam/surveillance/911 transcripts), making it nearly impossible to review evidence in BCSO investigations.
+      *   The Alabama Supreme Court rejected a public request for details regarding a 2017 fatal shooting involving Huey Hoss Mack.
+      *   The Ethics Commission approved a $662,597 expenditure for 129 BCSO body cameras, which Mack promoted as promoting accountability.
+
+      THE PIVOT:
+      *   Article 2 establishes the legal mechanism (Supreme Court ruling) that allowed BCSO to subsequently claim "legally" that camera footage and investigative details (cited in Article 1) are exempt from public record, undermining Mack's stated goal of transparency.
+      *   Article 2 confirms the legislative foundation (SB 312/Pittman) of Mack's power, providing context for the political manipulation detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Huey “Hoss” Mack (Baldwin County Sheriff)
+      *   Jonathan Victor (Deceased, May 2017)
+      *   Robert Yates (Deceased, March 5, 2018)
+      *   Justin Correa (BCSO Deputy, involved in Yates case)
+      *   Murray Lawrence Jr.
+      *   Tripp Pittman (then State Senator)
+      *   Lagniappe (Alabama Supreme Court decision, Sept 30, 2021)
+      *   Alabama Supreme Court
+      *   Ethics Commission (Tom Albritton)
+      *   Judge William Cassady
+      *   Judge Scully
+      *   Kevin J Andrews (Deceased, traffic pursuit)
+      *   Peyton Leigh Northcutt (Deceased, suicide/C.I.)
+    llm_text: Hoss Mack promoted BCSO body cameras as accountability, but the Lagniappe ruling (2021) now blocks public access to crucial records. This decision makes investigating the 2017 Jonathan Victor and 2018 Robert Yates fatal shootings nearly impossible.
+    text: Sheriff Hoss Mack promised body cameras would bring transparency, but a 2021 Lagniappe ruling blocks public access. This legal wall hides records from the 2017 and 2018 fatal shootings of Jonathan Victor and Robert Yates.
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-07T04:46:19.973344Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope:
+    refined_source: 9baca201d340a702165a05106eafab78abdcbeb22335ff9829f9482fcf9d47e1
+    brief: |-
+      THE CONFLICT:
+      *   May 2017: Jonathan Victor was shot to death by Baldwin County Sheriff Office (BCSO).
+      *   March 5, 2018: Robert Yates was shot to death by BCSO SWAT team.
+      *   2019-2022: BCSO received over $65 million in funding (2020/2021), including $700,000 for body/vehicle cameras, under Sheriff Huey “Hoss” Mack.
+      *   2019: City of Fairhope purchased K-1 Center from Baldwin County Board of Education for $2.5 million.
+
+      THE DISCOVERY:
+      *   The City of Fauxhope faced waste in municipal spending, including a $6.2 million grant for waterfront improvements that required ADA compliance.
+      *   Council President Burrell eliminated the swim area and rock jetties from the waterfront plan.
+      *   Fauxhope’s Comprehensive Plans historically favor developers.
+      *   Alabama legislature passed legislation moving municipal elections a year forward.
+
+      THE PIVOT:
+      *   Both articles detail systemic failures and poor stewardship of taxpayer money and public safety within the broader jurisdiction of Baldwin County.
+      *   Both highlight the conflict between local political interests (e.g., Mack's contract with Mack Funeral Home; Burrell's liability land gifts) and public accountability/legal rights (e.g., Lagniappe decision restricting public access to law enforcement records).
+
+      KEY ENTITIES:
+      *   Huey “Hoss” Mack (Sheriff, BCSO)
+      *   Jonathan Victor
+      *   Robert Yates
+      *   Justin Correa
+      *   Baldwin County
+      *   City of Fauxhope
+      *   Mayor Sherry Sullivan
+      *   Council President Burrell
+      *   Baldwin County Board of Education
+      *   Murray Lawrence Jr
+      *   Judge William Cassady
+      *   Chief Justice Tom Parker
+      *   Mayor Wilson
+    llm_text: Baldwin County paid $65 million to BCSO under Huey “Hoss” Mack, yet Jonathan Victor and Robert Yates were shot to death. Learn how Fauxhope's municipal waste, led by Council President Burrell, shows systemic failure in local stewardship.
+    text: Baldwin County paid $65 million to the Sheriff's Office under Huey Hoss Mack before deputies shot Jonathan Victor and Robert Yates. Council President Jack Burrell oversaw municipal waste that shows deep failure.
+    widget_date: "2021-09-24"
+    generated_at: "2026-11-07T04:47:55.398565Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  non-lethal:
+    refined_source: 295fac6198b0fcfc128e764148263a8ac3f5ae1fec8e072d9da845549dbd3ccb
+    brief: |-
+      THE CONFLICT:
+      *   May 2017: Jonathan Victor, unarmed, was shot to death by the Baldwin County Sheriff Office (BCSO).
+      *   March 5, 2018: Robert Yates was shot to death by BCSO SWAT over an eviction, without probable cause.
+      *   Unknown Date: Peyton Leigh Northcutt, a confidential informant, was declared suicide by BCSO; details were unavailable.
+      *   Unknown Date: Murray Lawrence Jr. was falsely incarcerated and sentenced to life without parole.
+      *   Sept 30, 2021: The Lagniappe decision restricted public access to law enforcement records (body cam, surveillance video) in Alabama.
+
+      THE DISCOVERY:
+      *   January 19, 2021: BCSO was observed prioritizing lethal military weapons (AR-15s) over non-lethal weapons.
+      *   January 19, 2021: Sheriff Hoss Mack stated in a deposition that in May 2017, BCSO had no crisis intervention team and deputies lacked de-escalation training.
+      *   January 19, 2021: BCSO refused to turn over critical body camera and vehicle footage from the Johnathan Victor case.
+
+      THE PIVOT:
+      *   Article 2 provides early evidence (Jan 2021) that BCSO lacked basic crisis intervention and non-lethal training at the time of the 2017 Victor shooting, establishing institutional failure and liability referenced in Article 1.
+      *   Article 2 highlights the refusal to release Victor's footage, which directly ties to Article 1's focus on BCSO withholding information despite $700,000+ in camera funding (2020/2021).
+
+      KEY ENTITIES:
+      *   Hoss Mack (Huey “Boss” Mack), BCSO
+      *   Jonathan Victor
+      *   Robert Yates
+      *   Justin Correa
+      *   Murray Lawrence Jr.
+      *   Rebbeca Chambliss (Innocence Project Attorney)
+      *   Judge William Cassady (U.S. District Court Judge)
+      *   Judge Scully
+      *   Chief Justice Tom Parker
+      *   Dennis Baily
+      *   Baldwin County
+    llm_text: BCSO lacked basic de-escalation training when Jonathan Victor was shot in 2017, Hoss Mack admitted. Read how the Sheriff's office refused Victor's body camera footage, hiding institutional failure in Baldwin County.
+    text: Sheriff Hoss Mack admitted deputies lacked basic de-escalation training when Jonathan Victor died in 2017. The Sheriff's office refused to release body camera footage to hide institutional failure.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-07T04:49:27.624050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

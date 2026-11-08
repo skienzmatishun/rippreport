@@ -1,0 +1,176 @@
+metadata:
+  generated_at: "2026-11-07T19:02:35.281732Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-shit-creek
+  main_date: "2020-05-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  public-servant:
+    refined_source: fb6b4ec2446c1d42df91f18a10b67400243dafc566eada47d75d5da17e650a7f
+    brief: |-
+      THE CONFLICT:
+      - Fairhope's sewer infrastructure deficiencies have persisted since 2016.
+      - Mayor Wilson pledged sewer repair prioritization on her campaign platform.
+      - The CATALYST City Council refused to fund the sewer rehabilitation plan for two years.
+      - ADEM (Alabama Department of Environmental Management) ignored complaints about Fly Creek and Publix years ago.
+
+      THE DISCOVERY:
+      - Article 2 revealed a run-off election for the First Congressional District on March 31.
+      - Bill Hightower stated Jerry Carl's campaign was over half a million dollars in debt.
+      - Hightower claimed $200,000 of that debt was owed to a local bank by Jerry Carl.
+      - Doug Snow argued Hightower's campaign was funded by out-of-state special interest money.
+
+      THE PIVOT:
+      - No factual connection exists between the local municipal sewer crisis (Mayor Wilson/CATALYST Council) and the congressional campaign finances (Hightower/Carl).
+      - Article 2 serves as historical context regarding local political campaigns and debt in Baldwin County.
+
+      KEY ENTITIES:
+      - Ronan McSharry
+      - Mayor Wilson
+      - CATALYST City Council
+      - Fly Creek
+      - Publix
+      - ADEM
+      - Jerry Carl
+      - Bill Hightower
+      - Doug Snow
+    llm_text: Bill Hightower claims Jerry Carl's campaign faces over half a million dollars in debt, including $200,000 owed to a local bank. Doug Snow challenges Hightower, arguing his First Congressional District campaign secretly received out-of-state special interest money.
+    text: Bill Hightower claims Jerry Carl faces over half a million dollars in campaign debt. Doug Snow challenges Hightower over secret out-of-state special interest money.
+    widget_date: "2020-03-07"
+    generated_at: "2026-11-07T19:01:03.920619Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  runoff:
+    refined_source: 9063a0b6d8c8d65c16b0c73f47344768dd6d03811f3223ecc8d155564181733f
+    brief: |-
+      THE CONFLICT: First Congressional District race featured Jerry Carl and Bill Hightower; runoff was March 31
+      THE DISCOVERY: CATALYST predicted 10,000 votes but received only 3126 more votes than Jerry Carl in Baldwin County
+      THE PIVOT: Article 2 establishes CATALYST's political power base and ambitions in Baldwin County, providing context for the subsequent local issues (sewer/environmental) discussed in Article 1
+      KEY ENTITIES: CATALYST, Jerry Carl, Bill Hightower, Baldwin County, Mayor Wilson, Ronan McSharry, Fly Creek, Publix, ADEM
+    llm_text: CATALYST significantly missed its 10,000 vote prediction in Baldwin County against Jerry Carl. Discover CATALYST's local power base shaping Baldwin County issues like Fly Creek and sewer problems.
+    text: CATALYST missed its vote prediction in Baldwin County against Jerry Carl. Discover how this local power base shapes sewer problems and public works.
+    widget_date: "2020-03-05"
+    generated_at: "2026-11-07T19:00:15.152769Z"
+    model_name: plugsky-lite
+  election-ad:
+    brief: "THE CONFLICT: \n- Historical political corruption and sewer violations involving Fly Creek and Publix were reported on by The Ripp Report and brought to the Alabama Department of Environmental Management (ADEM) and the Attorney General years ago, resulting in no replies or action.\n- Mayor Wilson pledged during her campaign that sewer infrastructure would be a priority, maintaining a published timeline of repairs dating back to 2016.\n- The CATALYST City Council refused for two years to fund the sewer rehabilitation plan and adamantly refused to fund engineering and technical departments or hire professional personnel dedicated to sewer improvements.\n- Mayor Wilson noted in *Lagniappe* that the lack of funded engineering positions directly contributed to the current municipal lawsuit.\n- The CATALYST Council has a history of protecting bad characters responsible for Fairhope's sewer decay, operating its own justice system, bullying women, and supporting friends accused of domestic abuse, assault, and liquor violations.\n\nTHE DISCOVERY: \n- *Note: The widget article (\"ELECTION AD\") contained no text. The historical context and background are established via the main article's documented timeline regarding past AG complaints, ADEM's historical inaction on Fly Creek and Publix, and the two-year council blockade against Mayor Wilson's sewer infrastructure funding.*\n\nTHE PIVOT: \n- *Note: With the widget article lacking content, the primary \"smoking gun\" or key historical context established within the text is the Mayor's documented timeline since 2016 and her admission in Lagniappe that the City Council's two-year refusal to fund engineering positions directly provoked the current sewer lawsuit.*\n\nKEY ENTITIES: \n- Ronan McSharry (McSharrys)\n- Mayor Wilson\n- CATALYST City Council\n- ADEM (Alabama Department of Environmental Management / Alabama Department of Environmental Maniacs)\n- Attorney General\n- Fly Creek\n- Publix\n- Lagniappe\n- Backstory Podcast #37"
+    llm_text: Years of ADEM and Attorney General silence allowed Fairhope's sewer decay to fester near Fly Creek. Now, Mayor Wilson reveals how the CATALYST Council's two-year funding blockade directly provoked the current municipal lawsuit.
+    text: Years of ADEM and Attorney General silence allowed Fairhope's sewer decay to fester near Fly Creek. Now, Mayor Wilson reveals how the CATALYST Council's two-year funding blockade directly provoked the current municipal lawsuit.
+    widget_date: "2020-02-22"
+    generated_at: "2026-11-07T19:00:17.118644Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-kiss:
+    brief: "THE CONFLICT: \n- For years, The Ripp Report filed numerous political corruption complaints with the Attorney General regarding the CATALYST faction, which were ignored.\n- Complaints regarding Fly Creek, Publix, and sewer violations were ignored by ADEM (Alabama Department of Environmental Management) years ago.\n- The CATALYST City Council refused for two years to fund the Mayor's sewer rehabilitation plan and refused to hire engineers and professional personnel dedicated to sewer improvements. \n- Mayor Wilson published a timeline for sewer infrastructure repairs initiated since 2016 to correct deficiencies.\n\nTHE DISCOVERY: \n- Historical reporting from the widget article details the inner workings and political alliances of the CATALYST faction on the Fairhope City Council, led by Council President Jack Burrell (who held his position for over 7 years).\n- The widget article exposed explicit political favoritism and coordination, highlighting Council President Jack Burrell blowing a \"kiss\" to and publicly supporting Bill Hightower, a CATALYST candidate for the First Congressional District, during a council meeting.\n- The reporting established that the CATALYST council operates as a block vote in elections, running like a \"criminal enterprise\" to promote aligned candidates.\n\nTHE PIVOT: \n- The older widget article provides the foundational evidence that the CATALYST council has long functioned as a coordinated political machine (block voting, backing favored candidates like Bill Hightower, and controlling municipal agendas under Jack Burrell). \n- This historical context shows that the current obstruction of critical municipal needs—such as the Council's two-year refusal to fund sewer infrastructure repairs or hire engineers—is not accidental, but the deliberate continuation of a corrupt, politically motivated agenda that prioritizes factional power over public infrastructure (leading directly to the current sewer lawsuit crisis).\n\nKEY ENTITIES: \n- Jack Burrell (Council President)\n- Bill Hightower (First Congressional District candidate / CATALYST candidate)\n- Mayor Wilson (Fairhope Mayor)\n- Ronan McSharry (and McSharrys)\n- ADEM (Alabama Department of Environmental Management)\n- CATALYST (Political faction/group)"
+    llm_text: For years, Jack Burrell and the CATALYST council blocked Mayor Wilson’s critical sewer repairs while ignoring ADEM violations. Read how this coordinated political machine prioritizes factional power over your infrastructure, driving our current crisis.
+    text: For years, Jack Burrell and the CATALYST council blocked Mayor Wilson’s critical sewer repairs while ignoring ADEM violations. Read how this coordinated political machine prioritizes factional power over your infrastructure, driving our current crisis.
+    widget_date: "2020-02-12"
+    generated_at: "2026-11-07T19:00:23.339272Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-justice:
+    refined_source: cf92cc7ce3babfc62aeeb5799d46a7db4b979e68876e1835bcaabb09f053129c
+    brief: |-
+      THE CONFLICT:
+      *   Historical corruption involving elected officials: Sen Tripp Pittman (theft of $750,000 BP money), Senator Chris Elliott (DUI charge), former Mayor Cant (misuse of FEMA funds), Councilman Robert Brown (inside deal with Fairhope Art Center), and Jack Burrell (bid rigging).
+      *   The McSharry case involved alleged misconduct by Councilman Burrell at McSharry’s, which was exposed by publicity.
+      *   Paula DiNardi was physically assaulted by Ronan McSharry at a restaurant/bar; the city prosecutor/Municipal Attorney (Marcus McDowell) failed to properly handle her case.
+      *   Ronan McSharry is described as a public nuisance, repeat offender, and bully of women.
+
+      THE DISCOVERY:
+      *   The McSharry case demonstrated the failure of the Baldwin County Judicial System, labeling it "CATALYST JUSTICE."
+      *   The appointed Fairhope Municipal Attorney (Marcus McDowell) exhibited total incompetence, favoring the offender (Ronan McSharry) and potentially leading to litigation against the city.
+      *   The CATALYST City Council appointed Marcus McDowell and subsequently appointed the municipal judge who is also the city’s largest developer.
+
+      THE PIVOT:
+      *   The past instances of corruption and judicial failure (Widget Article) establish CATALYST City Council as a pattern of prioritizing self-interest, friends, and systemic bias over public welfare and the rule of law.
+      *   This pattern explains the current refusal by the CATALYST City Council to fund the sewer rehabilitation plan and hire necessary engineering/technical personnel, despite the Mayor Wilson's commitment and the known sewer deficiencies in Fly Creek.
+
+      KEY ENTITIES:
+      *   Ronan McSharry
+      *   Paula DiNardi
+      *   Marcus McDowell (Fairhope Municipal Attorney)
+      *   Mayor Wilson
+      *   CATALYST City Council
+      *   ADEM (Alabama Department of Environmental Management)
+      *   bp
+      *   Fly Creek
+      *   Publix
+      *   Sen Tripp Pittman
+      *   Senator Chris Elliott
+      *   Former Mayor Cant
+      *   Councilman Robert Brown
+      *   Jack Burrell
+    llm_text: Ronan McSharry assaulted Paula DiNardi, but incompetent Municipal Attorney Marcus McDowell protected him, exposing "CATALYST JUSTICE." This corruption pattern—from Sen Pittman to Councilman Brown—explains why CATALYST Council ignores essential Fly Creek sewer fixes, directly impacting your neighborhood.
+    text: Attorney Marcus McDowell protected Ronan McSharry after an assault on Paula DiNardi. This corruption pattern explains why the CATALYST council ignores essential sewer fixes.
+    widget_date: "2020-05-21"
+    generated_at: "2026-11-07T19:02:11.429595Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-players:
+    brief: |-
+      THE CONFLICT:
+      - 2016: Fairhope Municipal Elections represented a full slate of CATALYST candidates.
+      - CATALYST City Council members said they were their own men; in following years their lies rose to surface, exposing affiliation to CATALYST.
+      - Council was body of CATALYST snake; Mayor Cant was head of snake; head got cut off but body still squirmed.
+      - Council immediately hired same law firm for city attorney and same municipal Judge after Mayor Cant.
+      - Mayor Wilson pledged on campaign platform that sewer infrastructure would be priority; she kept her word.
+      - CATALYST City Council refused for two years to fund sewer rehabilitation plan.
+      - CATALYST Council refused to hire engineers and professional personnel dedicated to sewer improvements.
+      - Fairhope has done more than any municipality in Baldwin County or Eastern Shore to correct sewer deficiencies; timeline for sewer infrastructure repairs since 2016 publicly published by Mayor.
+      - Mayor Wilson quote: council absolutely refused to fund engineering and technical department; if hire engineers now, would totally help case; did not know lawsuit would not happen if positions funded when asked; could be up Shit’s Creek if not already doing what doing.
+      - Fairhope involved in sewer lawsuit; The Ripp Report filed complaints with Attorney General involving political corruption, no reply; complaints about Fly Creek and Publix ignored by ADEM, Alabama Department of Environmental Management, aka Alabama Department of Environmental Maniacs, years ago.
+
+      THE DISCOVERY:
+      - CATALYST is a powerful, mostly secret political group that represents the Status Quo, the good ole boys.
+      - In 2018 mid-term elections, CATALYST almost pulled off the perfect political coup.
+      - CATALYST ran candidates for almost every Baldwin County race.
+      - If not for several social media sources and Lagniappe informing the public, CATALYST would have had control of Baldwin County Government.
+      - In 2016 Fairhope Municipal Elections represented a full slate of CATALYST candidates.
+      - Several council members said they were their own men; in following years their lies rose to surface, exposing affiliation to CATALYST.
+      - Council was body of CATALYST snake and Mayor Cant was head of snake; head got cut off but body still squirmed.
+      - Council immediately hired same law firm for city attorney and same municipal Judge.
+      - Municipal attorney and Judge are appointed by council and are CATALYST.
+      - City attorney just botched up McSherry case, on purpose; ask why.
+      - Municipal Judge is largest developer in city, approved by city council; positions need transfusion of new blood and old thrown away.
+      - CATALYST is going to have a block vote for council, candidate for every seat; they want power back and want to keep CATALYST legal staff to protect them.
+      - Mayor Wilson is not CATALYST and CATALYST will be running a candidate to challenge her.
+      - July 14: Vote Jerry Carl, First Congressional District; runoff elections usually see lowest number of voters, this is one race you better not sleep through.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 is the smoking gun or key context for Article 1 because it documents CATALYST political power, 2018 mid-term election, 2016 Fairhope elections, Mayor Cant, McSherry case, legal/judicial capture, and council behavior.
+      - Article 2 contextualizes Article 1’s sewer funding refusal, CATALYST Council’s own justice system, and political corruption claims.
+
+      KEY ENTITIES:
+      - CATALYST
+      - Fairhope
+      - Baldwin County
+      - Baldwin County Government
+      - Mayor Wilson
+      - Mayor Cant
+      - CATALYST City Council
+      - Fairhope Municipal Elections
+      - Municipal Judge
+      - City Attorney
+      - Ronan McSharry / McSharrys
+      - Chris Elliott
+      - County Commissioner
+      - Jerry Carl
+      - First Congressional District
+      - ADEM / Alabama Department of Environmental Management
+      - Alabama Attorney General
+      - Lagniappe
+      - Backstory Podcast #37
+      - The Ripp Report
+      - Fly Creek
+      - Publix
+      - Locations: Fairhope, Baldwin County, Eastern Shore, Alabama, Washington, First Congressional District.
+    llm_text: Mayor Wilson kept her sewer promise while CATALYST's council refused to fund repairs for two years, forcing Fairhope into a lawsuit. The Ripp Report says CATALYST almost pulled off a political coup in 2018, and now readers should care where the money and power really go.
+    text: Mayor Wilson kept her sewer promise while CATALYST's council refused to fund repairs for two years, forcing Fairhope into a lawsuit. The Ripp Report says CATALYST almost pulled off a political coup in 2018, and now readers should care where the money and power really go.
+    widget_date: "2020-05-15"
+    generated_at: "2026-11-07T19:01:50.846097Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-candidates-⁠-excess-baggage:
+    brief: "THE CONFLICT: \n- Fairhope Municipal Election on August 25 (qualification July 7-21).\n- The \"CATALYST\" political faction aligned to run candidates (including Jack Burrell, Sherry Sullivan-Cant, former Mayor Tim Cant, and Bill Hightower) to regain control of Fairhope.\n- Jack Burrell (Council President for 8 years) led controversial financial decisions, including purchasing 2.65 million dollars of recreation land and leasing it for $9,000 a year, turning a $1.2 million city surplus into a $1.5 million deficit.\n- Allegations against Burrell regarding airport bid rigging and a hidden police report.\n- Sherry Sullivan-Cant ran the municipal propaganda newsletter under former Mayor Tim Cant, covered up scandals involving BP, the Fly Creek Publix project, the airport, and soccer fields, and was fired for insubordination and obstructing the transition to newly elected Mayor Karin Wilson.\n\nTHE DISCOVERY: \n- The older article exposed the deep-rooted mechanics and candidate roster of the \"CATALYST\" political machine ahead of municipal and congressional elections.\n- It documented a direct lineage of political operators—specifically linking Jack Burrell, Sherry Sullivan-Cant, and former Mayor Tim Cant—to past financial ruin, infrastructure neglect, and administrative corruption in Fairhope.\n- It revealed how the CATALYST faction historically coordinated to obstruct mayoral transitions, shield cronies, and manage municipal propaganda.\n\nTHE PIVOT: \n- The older article serves as the smoking gun because it names the exact architects (Jack Burrell, Sherry Sullivan-Cant, Tim Cant, and the CATALYST council) who are identified in the current article as the ones \"responsible for the decay of Fairhope’s sewer infrastructure\" and who spent two years blocking Mayor Karin Wilson from funding sewer rehabilitation and hiring necessary engineers.\n\nKEY ENTITIES: \n- Jack Burrell\n- Sherry Sullivan-Cant (Sherry Sullivan / Sherry Cant)\n- Tim Cant\n- Mayor Karin Wilson\n- Bill “Lowtower” Hightower (Bill Hightower)\n- Jerry Carl\n- CATALYST\n- ADEM (Alabama Department of Environmental Management)\n- The Ripp Report"
+    llm_text: Before Jack Burrell and Sherry Sullivan-Cant push Fairhope further into decay, look at the smoking gun exposing their CATALYST faction's corrupt playbook. Read how these exact political operators tanked our city budget and blocked vital sewer repairs.
+    text: Before Jack Burrell and Sherry Sullivan-Cant push Fairhope further into decay, look at the smoking gun exposing their CATALYST faction's corrupt playbook. Read how these exact political operators tanked our city budget and blocked vital sewer repairs.
+    widget_date: "2020-05-13"
+    generated_at: "2026-11-07T19:00:11.755215Z"
+    model_name: gemini-3.5-flash-lite

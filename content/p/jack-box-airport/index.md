@@ -74,7 +74,7 @@ related_articles:
   rank: 10
 summary: Airport Authority board members used taxpayer dollars to hire a personal
   defense lawyer after local leaders rigged a lucrative airport lease process. Leaked
-  email correspondence proves that officials signed contradictory property leases
+  email correspondence shows that officials signed contradictory property leases
   months before obtaining required ethics clearance. We pull the lid off this corrupt
   puppet show before they hide the evidence.
 ---

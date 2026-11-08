@@ -1,0 +1,214 @@
+metadata:
+  generated_at: "2026-11-08T06:22:41.227616Z"
+  generator_version: 1.0.0
+  post_slug: the-face-of-no
+  main_date: "2018-11-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  halloween-characters:
+    brief: |-
+      THE CONFLICT:
+      *   Sen. Tripp Pittman, Joe Faust, and Randy Davis were in office for 11 years (past context).
+      *   Randy Davis was indicted for misuse of office.
+      *   Tripp Pittman was linked to receiving "BP money" from constituents.
+      *   All three supported the Alabama Accountable Act (AAA) but later faced criticism for its lack of benefit to education.
+
+      THE DISCOVERY:
+      *   Pittman, Faust, and Davis maintained office through straight ticket voting while exhibiting political inaction or corruption.
+      *   The AAA was viewed as a bad investment by educators in Pittman's district.
+      *   Jason Fisher (District 32) was identified as not being part of the Catalyst political group.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of entrenched, self-serving, and corrupt political behavior (State level, involving BP money and indictment).
+      *   This history provides context for the current local fight in Fairhope (Article 1) against special interests (e.g., Ray Hix, Jack Burrell) and the Catalyst council, demonstrating a systemic failure of elected officials across different levels of government.
+
+      KEY ENTITIES:
+      *   Tripp Pittman
+      *   Joe Faust
+      *   Randy Davis
+      *   Danielle Mashburn-Myrick
+      *   Chris Elliott
+      *   Jason Fisher
+      *   Colby Cooper
+      *   Ray Hix
+      *   Jack Burrell
+      *   Fairhope
+      *   Catalyst
+      *   October 25 (NO VOTE date)
+      *   $1 million (hanger bid)
+    llm_text: Tripp Pittman and Randy Davis faced indictments and "BP money" links while serving for 11 years. This history shows why the current Fairhope fight against Catalyst and special interests like Ray Hix matters.
+    widget_date: "2018-10-31"
+    generated_at: "2026-11-08T06:14:22.806845Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  chuckee-cheeze:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope Mayor Karin Wilson was allegedly assaulted by a former HR director (covered by Chuckee Cheeze/Mr. McCollum).
+      *   In 2016, The Fairhope Courier won Best In-Depth News Coverage for the Mayor Wilson assault story.
+      *   Councilman Brown secured a several hundred thousand dollar contract from the Fairhope Art Center.
+      *   The Catalyst Fairhope City Council assisted former employees in suing the City to humiliate the Mayor.
+
+      THE DISCOVERY:
+      *   The Fairhope Courier, founded in 1894, has been used by Chuckee Cheeze (Mr. McCollum) as political print media for the Catalyst Council and special interests.
+      *   The Courier's reporting on Fairhope has been biased and inaccurate, costing the city money.
+
+      THE PIVOT:
+      *   The Widget Article establishes the long-standing pattern of political bias, documented corruption (Brown's contract, legal actions against the city), and special interest dominance by Catalyst, providing historical context for the current governance failure and the necessity of the recent FAIR election and the anti-Catalyst push represented by Colby Cooper.
+
+      KEY ENTITIES:
+      *   Chuckee Cheeze (Mr. McCollum)
+      *   Karin Wilson (Fairhope Mayor)
+      *   The Fairhope Courier
+      *   Catalyst Council
+      *   Councilman Brown
+      *   Colby Cooper
+      *   Ray Hix (Fairhope Municipal Judge and Board member)
+      *   Jack Burrell (President of the Fairhope Catalyst “At Large” Council and Airport Authority Board member)
+      *   Snederker
+      *   Fairhope Airport Authority
+      *   Fairhope Municipal Judge
+    llm_text: Mayor Karin Wilson faced an assault, yet Chuckee Cheeze used The Fairhope Courier for deep political bias. See how Catalyst Council corruption, like Councilman Brown's contract, fueled the need for Colby Cooper's anti-Catalyst push.
+    widget_date: "2018-10-30"
+    generated_at: "2026-11-08T06:21:02.870830Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shadow-government:
+    brief: |-
+      THE CONFLICT:
+      Baldwin County/Fairhope operated under a "shadow government" run by Catalyst/Gumbo for many years, attempting to remove elected leadership, including Mayor Wilson.
+      In 2018 (August 3), an anonymous reader noted that Chris Elliott was corrupted by the machine running Montgomery, which prioritized special pecuniary interests over common public interest.
+
+      THE DISCOVERY:
+      Article 2 revealed that Catalyst actively undermined Mayor Wilson's authority through obstruction, rumor, and exploiting personal issues, demonstrating a consistent pattern of controlling city government despite democratic elections.
+
+      THE PIVOT:
+      Article 2 establishes the historical precedent of Catalyst special interests controlling Fairhope. Article 1 demonstrates the continuation of this pattern in the present day, with Colby Cooper representing special interests tied to Fairhope Municipal Judge Ray Hix and Airport Authority President Jack Burrell, linking current governmental dysfunction (failure to pass City Budget, Airport conflict) to the historical shadow government structure.
+
+      KEY ENTITIES:
+      Fairhope
+      Baldwin County
+      Catalyst (and Gumbo)
+      Mayor Wilson
+      Chief Pettis (Fairhope Police Chief)
+      Colby Cooper
+      Ray Hix (Fairhope Municipal Judge/Board member)
+      Jack Burrell (President of Catalyst "At Large" Council/Airport Authority Board member)
+      Airport Authority
+      Hix/Snederker ($1 million corporate jet/hanger)
+      The Ripp Report
+    llm_text: Catalyst once ran a shadow government in Fairhope, undermining Mayor Wilson. Now, Colby Cooper connects current budget and airport conflicts to that history, linking special interests like Ray Hix and Jack Burrell to ongoing dysfunction.
+    widget_date: "2018-08-03"
+    generated_at: "2026-11-08T06:16:56.255165Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-blast-from-the-past:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope was historically plagued by the "At Large" city council structure, enabling obstruction and lack of accountability (18+ months of obstruction cited).
+      *   Jack Burrell (King bee Council, President of Catalyst “At Large” Council) was involved in an Airport Scandal, including denying citizens free speech, allegations of drinking/threatening McSherry’s owner, and a police report blaming his son.
+      *   Kevin Boone (grandpa Catalyst) maintained connections spanning 30 years, supported by John Avant of Prebble Rish, and has multiple LLCs.
+      *   Robert Brown (The Jester) secured soccer field contracts, was involved in the Single Tax Colony, and self-awarded an Art Center contract with Cliff Pittman, director of Single Tax, leading to Ethics charges.
+
+      THE DISCOVERY:
+      *   The historical evidence (Article 2) proves that the current political dysfunction and corruption are not isolated recent events but are structural, stemming from the "At Large" council system which allows slates of candidates (Catalyst) to deceive voters and prevents individual council members from accepting responsibility.
+
+      THE PIVOT:
+      *   Article 2 provides the long-term historical context of systemic corruption (e.g., Jack Burrell’s Airport Scandal, Boone’s influence) that validates the urgent need for the structural change (Council/Manager form of government) advocated in Article 1, specifically addressing the failure of the existing "At Large" system.
+      *   Article 1 highlights recent corruption (Colby Cooper, Ray Hix/Snederker) surrounding a $1 million airplane hanger bid at Fairhope Airport, directly linking current special interests to the historical failure of the Airport Authority (controlled by Jack Burrell).
+
+      KEY ENTITIES:
+      *   Colby Cooper (Former Chief of Staff for Mayor of Mobile)
+      *   Ray Hix (Fairhope Municipal Judge and Board member)
+      *   Jack Burrell (President of Fairhope Catalyst “At Large” Council, Airport Authority Board member)
+      *   Snederker
+      *   Chuckee Cheeze (Editor of Catalyst tabloid)
+      *   Kevin Boone (grandpa Catalyst)
+      *   John Avant (of Prebble Rish)
+      *   Robert Brown (The Jester)
+      *   Cliff Pittman (Director of Single Tax)
+      *   Mayor Wilson (Current Mayor)
+      *   Mayor Can’t (Former Mayor)
+    llm_text: Jack Burrell’s Airport Scandal and Kevin Boone’s 30-year influence prove Fairhope’s corruption is structural, not just recent. The "At Large" system enables this, connecting old failures to the current $1M airport hanger bid.
+    widget_date: "2018-06-27"
+    generated_at: "2026-11-08T06:18:18.585988Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  women-of-baldwin:
+    brief: |-
+      THE CONFLICT:
+      *   Sen. Tripp Pittman stuffed pockets with $750,000.00.
+      *   Joe Davis was linked to Randy Davis, who was indicted.
+      *   The penny tax approval cost Baldwin County Schools $2 million a year.
+      *   Karin Wilson became the first female Mayor in Fairhope's history.
+
+      THE DISCOVERY:
+      *   Baldwin County had historically been run by "old white men" politically connected to the Catalyst network.
+      *   Karin Wilson battled a Catalyst Council that could not deliver the city budget on time.
+      *   The Ripp Report endorsed Billie Jo Underwood (County Commission District 3) and Amber Smith (County Commission District 2).
+
+      THE PIVOT:
+      *   Article 2 established the historical corruption and obstruction by the Catalyst network in Fairhope.
+      *   Article 1 shows the continuation of this obstruction (Council failure to approve budget) two years later, leading to the FAIR election.
+      *   Article 1 reveals specific current special interests (Ray Hix/Municipal Judge, Jack Burrell/Airport Authority) utilizing figures like Colby Cooper (former Chief of Staff for Mayor of Mobile) to actively block democratic change via a NO VOTE.
+
+      KEY ENTITIES:
+      *   Karin Wilson
+      *   Catalyst Council
+      *   Colby Cooper
+      *   Ray Hix (Fairhope Municipal Judge/Board member)
+      *   Jack Burrell (President of Fairhope Catalyst "At Large" Council/Airport Authority Board member)
+      *   Joe Davis
+      *   Tripp Pittman
+      *   Randy Davis
+      *   Billie Jo Underwood
+      *   Amber Smith
+      *   Danielle Mashburn-Myrick
+      *   Andrea Lindsey
+      *   Fairhope City Council
+      *   Fairhope Airport Authority
+      *   Mobile (city where Colby Cooper worked)
+    llm_text: Karin Wilson battled the entrenched Catalyst Council, but interests like Ray Hix and Jack Burrell now block democratic change using a NO VOTE. See how the Catalyst network, tied to corruption involving Tripp Pittman, attempts to maintain control in Fairhope.
+    widget_date: "2018-10-25"
+    generated_at: "2026-11-08T06:19:43.464097Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fact-and-fiction-a-b-c:
+    brief: |-
+      THE CONFLICT: Historical corruption investigation in Fairhope concerning a $1 million airplane hanger bid at Fairhope Airport involving Jack Burrell and Ray Hix/Snederker.
+      THE DISCOVERY: The older Widget Article revealed ongoing allegations against Jack Burrell, including omitting details about parties (sponsored by his son at in-laws' place) and involvement in secret deals, supporting long-standing claims of Fairhope corruption.
+      THE PIVOT: Article 2 provides historical evidence of Jack Burrell's pattern of dishonesty and cover-ups, establishing the background corruption that fueled the current political friction and the necessity of the NO VOTE referendum mentioned in Article 1.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Colby Cooper, Snederker, Fairhope Municipal Judge, Fairhope Airport Authority, Catalyst Council, The Medal of Honor Park.
+    llm_text: Jack Burrell's historical dishonesty—from secret deals with Ray Hix/Snederker on a $1 million Fairhope Airport hangar bid—fuels today's political fight. Understand why his past cover-ups demand the NO VOTE referendum in Fairhope.
+    widget_date: "2018-08-30"
+    generated_at: "2026-11-08T06:15:29.980685Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  snakes-in-the-schools:
+    brief: |-
+      THE CONFLICT:
+      *   Chris Elliott leveraged Baldwin County School Superintendent Eddie Tyler and strategist Jonathan Gray to force a penny sales tax extension on Baldwin County without a public vote.
+      *   The Business Council of Alabama contributed $35,000 to Elliott’s campaign.
+      *   This activity occurred leading up to a Democratic primary run-off election on July 17th.
+
+      THE DISCOVERY:
+      *   The Catalyst political machine (led by figures like Chris Elliott) utilizes local institutions (schools, county systems) for political gain.
+      *   Colby Cooper, a former Chief of Staff for the Mayor of Mobile, later became Chief Operating Officer for a company owned by Fairhope Municipal Judge and Board member Ray Hix.
+
+      THE PIVOT:
+      *   Article 2 establishes the pattern of Catalyst special interest leveraging local power (schools/taxes) for political ends, which directly connects to the alleged corruption in Fairhope (Hix/Snederker $1M hangar bid, Jack Burrell's Airport Authority role) detailed in Article 1.
+      *   The connection is the shared allegiance to the Catalyst agenda, which Article 1 argues obstructs effective governance in Fairhope.
+
+      KEY ENTITIES:
+      *   Eddie Tyler (Baldwin County Superintendent)
+      *   Jonathan Gray (Political strategist/School board consultant)
+      *   Chris Elliott
+      *   Ray Hix (Fairhope Municipal Judge and Board member)
+      *   Colby Cooper (Former Chief of Staff for Mayor of Mobile; current COO for Hix's company)
+      *   Jack Burrell (President of Fairhope Catalyst “At Large” Council; Fairhope Airport Authority board member)
+      *   Catalyst (Political group/agenda)
+      *   Fairhope (City)
+      *   Baldwin County (Location)
+      *   Fairhope Airport Authority
+      *   $1 million (Corporate jet/hanger value)
+      *   $35,000 (BCA contribution)
+      *   October 25 (Date of Cooper's referendum post)
+      *   July 17 (Primary run-off date)
+    llm_text: Chris Elliott leveraged Baldwin County Superintendent Eddie Tyler and Jonathan Gray to force a penny sales tax extension without a public vote. This Catalyst machine's pattern of using local power connects directly to corruption allegations involving Fairhope Municipal Judge Ray Hix.
+    widget_date: "2018-06-21"
+    generated_at: "2026-11-08T06:22:24.348020Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

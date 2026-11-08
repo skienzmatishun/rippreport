@@ -1,0 +1,323 @@
+metadata:
+  generated_at: "2026-11-07T10:22:56.593421Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-no-75-a-year-of-plague
+  main_date: "2021-03-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 694a5f59a8a74cffaa2f067cf21501cdc25841ec640e9a5e1828ce5571afc69c
+    brief: |-
+      THE CONFLICT:
+      Lee County District Attorney Brandon Hughes (suspended) faced charges related to using his office for personal gain.
+      Paula DiNardi sustained injuries in a 2018 incident in Fairhope; assault charges were dismissed due to a defective/sabotaged original pleading.
+      Governor Cuomo faced accusations from a sixth woman regarding inappropriate sexual activities.
+      Alabama political corruption was a topic (e.g., Mo Brooks, Fairhope Council appointment without citizen input).
+
+      THE DISCOVERY:
+      Article 2 confirms ongoing allegations of corruption in Alabama's legal and political systems (e.g., Dothan Summer Feeding Scandal).
+      The Alabama Court of Civil Appeals released a decision regarding Mack vs Hadley (theft of 1968 Camaro by Baldwin County Sheriff's Department).
+      A Rule 32 Petition for a new trial for Murray Lawrence Jr. was filed upon discovery of undisclosed 2005 autopsies (a Brady Violation) ordered by the Coroner of Baldwin County at the time.
+
+      THE PIVOT:
+      Article 2 broadens the scope of corruption highlighted in Article 1 from isolated local legal issues (Hughes/DiNardi) to systemic, long-standing institutional failures within Alabama's legal and political framework (Baldwin County Sheriff, Alabama Court of Civil Appeals, Mark Fuller's history).
+
+      KEY ENTITIES:
+      Brandon Hughes
+      Paula DiNardi
+      Governor Cuomo
+      Clarke Stankoski
+      Mo Brooks
+      Ronan McSharry
+      Dothan Summer Feeding Scandal
+      Baldwin County Sheriff's Department
+      Murray Lawrence Jr.
+      Mark Fuller
+      Alabama Court of Civil Appeals
+    llm_text: Brandon Hughes' suspension and Paula DiNardi's dismissed assault charges hint at local corruption, but the rot runs deeper. New findings about the Baldwin County Sheriff and Murray Lawrence Jr. prove Alabama's legal system has long-standing institutional failures.
+    text: Suspended District Attorney Brandon Hughes and dismissed charges for Paula DiNardi point to local legal failures. New findings about the Baldwin County Sheriff show long-standing institutional problems in Alabama.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T10:15:57.325695Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: d6e5fa543eff9da56b1f177bff232b948a6b7f9b42285c5f17cbe41449164e3b
+    brief: |-
+      THE CONFLICT:
+      *   Lee County District Attorney Brandon Hughes was suspended and charged with using his office for personal gain.
+      *   Paula DiNardi sustained injuries in a 2018 incident heard by Judge Clarke Stankoski in Fairhope Municipal Court; Assault Charges were dismissed due to a defective original pleading.
+      *   Mo Brooks and AG Steve Marshall were involved in state political issues (Yoga in PE, Census lawsuit, Lottery bill introduction).
+      *   Alabama recorded 503,305 confirmed COVID-19 cases with 10,327 deaths.
+
+      THE DISCOVERY:
+      *   Backstory Podcast No. 186 (newer) covers the 2024 US Presidential election results and the Trump Cabinet 2.0.
+      *   The podcast provides an update on Alabama news, including the closing of rural hospitals and changes to hunting seasons.
+      *   The discussion extends to proposed constitutional amendments in Alabama and antitrust lawsuits against Google.
+
+      THE PIVOT:
+      *   Article 2 contextualizes the localized legal and political issues from Article 1 (e.g., Mo Brooks, legal challenges) within a broader 2024 political landscape and ongoing statewide social/economic changes (rural hospital closures, constitutional amendments).
+
+      KEY ENTITIES:
+      *   Brandon Hughes
+      *   Paula DiNardi
+      *   Judge Clarke Stankoski
+      *   Mo Brooks
+      *   Steve Marshall
+      *   Ronan McSharry
+      *   Dinardi
+      *   Cuomo
+      *   Lee County District Attorney
+      *   Backstory Podcast No. 186
+      *   2024 US Presidential election
+    llm_text: Lee County DA Brandon Hughes faces charges for using his office for personal gain. Hear how Mo Brooks and Steve Marshall navigate state politics while Alabama closes rural hospitals and debates constitutional amendments on Backstory Podcast No. 186.
+    text: Lee County District Attorney Brandon Hughes faces criminal charges for using his office for personal gain. As state leaders debate policies, Alabama continues to close rural hospitals.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T10:18:07.910205Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: ed9d83ad131f660648d09c21bd0bacaf8232bc98126ed87739ab9820fec3e64d
+    brief: |-
+      THE CONFLICT:
+      Brandon Hughes (Lee County District Attorney) faced charges for using his office for personal gain.
+      Governor Cuomo faced accusations from a sixth woman regarding inappropriate sexual activities.
+      Paula DiNardi's Assault Charges were dismissed due to a defective or sabotaged original pleading document.
+      Judge Clarke Stankoski heard a public intoxication appeal related to a 2018 incident in Fairhope Municipal Court.
+
+      THE DISCOVERY:
+      A recent podcast covered a damning report on the US government's COVID-19 response.
+      The podcast featured a discussion of President Biden's pardon of his son Hunter.
+      The podcast discussed the wrongful arrests of individuals who exposed corruption in their local school district.
+
+      THE PIVOT:
+      The podcast contextualizes specific local misconduct (Hughes, Cuomo) and legal irregularities (DiNardi) within a broader national narrative of government failure (COVID-19 response) and political maneuvering (Biden pardon) while highlighting the suppression of local whistleblowers.
+
+      KEY ENTITIES:
+      Brandon Hughes
+      Governor Cuomo
+      Paula DiNardi
+      Judge Clarke Stankoski
+      Mo Brooks
+      Ronan McSharry
+      President Biden
+      Hunter Biden
+      Lee County
+      Fairhope Municipal Court
+      Stankoski
+      Dinardi
+    llm_text: Brandon Hughes and Governor Cuomo face serious misconduct charges, while Paula DiNardi's assault case vanished due to a flawed pleading. These local legal failures reflect a national pattern of government failure, from COVID-19 responses to the Biden pardon.
+    text: Lee County District Attorney Brandon Hughes faces misconduct charges. At the same time, Paula DiNardi's assault case was dismissed due to a legal drafting error.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T10:16:57.135340Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 918f5b089105f0f84f17c6b4cbaf4c7073930c346579960ac42b2514645156ed
+    brief: |-
+      THE CONFLICT: Brandon Hughes (Lee County District Attorney) was suspended facing charges related to using his office for personal gain. Paula DiNardi's Assault Charges were dismissed because the original pleading/charging document was defective or sabotaged. Judge Clarke Stankoski heard a public intoxication appeal related to a 2018 incident.
+
+      THE DISCOVERY: Governor Kay Ivey is under fire for firing Admiral Kent Davis and attempting to control the veterans’ board. A court case established limitations on suing over a wrong SWAT raid, raising questions about police accountability.
+
+      THE PIVOT: Article 2 reveals a wider systemic issue of political and judicial dysfunction in Alabama (Ivey's actions, Clarke County judge ties to hospice, limited police accountability) which provides current context to the specific legal failures and corruption detailed in Article 1 (Hughes' corruption, DiNardi's case dismissal).
+
+      KEY ENTITIES: Brandon Hughes, Paula DiNardi, Judge Clarke Stankoski, Governor Kay Ivey, Admiral Kent Davis, Lee County, Clarke County, Mo Brooks.
+    llm_text: Brandon Hughes faces suspension for corruption in Lee County, and Paula DiNardi’s assault charges vanished due to a legal error. These failures highlight systemic dysfunction, from Governor Kay Ivey’s control attempts to limited police accountability.
+    text: Brandon Hughes faces suspension for corruption in Lee County. That legal failure matches Governor Kay Ivey's ongoing struggles with police accountability.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T10:12:53.211482Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: f1c91ed69624069cda152b3504b6d72cc5f2f3e8a2af249e5894e229765a50db
+    brief: |-
+      THE CONFLICT:
+      Brandon Hughes, Lee County District Attorney (suspended), faced charges for personal gain.
+      Paula DiNardi's assault charges were dismissed by Judge Clarke Stankoski due to a defective original pleading in a 2018 incident.
+
+      THE DISCOVERY:
+      Baldwin County approved thousands of residential lots and expanded a $9.5M pier remodel.
+      The City of Bay Minette is being sued by the family of OJ French Jr over actions by BMPD Officer Brandon Thompson.
+
+      THE PIVOT:
+      Both articles detail specific instances of local Alabama governmental or legal irregularities—ranging from misuse of a District Attorney's office to controversial local development approvals and police action lawsuits.
+
+      KEY ENTITIES:
+      Brandon Hughes
+      Paula DiNardi
+      Clarke Stankoski
+      Baldwin County
+      OJ French Jr
+      Brandon Thompson
+      Andy Ruten
+      Mo Brooks
+    llm_text: Suspended DA Brandon Hughes faced charges for personal gain, and Paula DiNardi's assault charges were dismissed by Judge Clarke Stankoski. Plus, Baldwin County approved thousands of lots and OJ French Jr is suing BMPD over Officer Brandon Thompson.
+    text: Judge Clarke Stankoski dismissed the assault charges against Paula DiNardi. Meanwhile, Baldwin County approved thousands of new housing lots while facing a lawsuit from the OJ French Jr. family.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T10:14:07.471339Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 6e826605852d3dab88ad250122ea590695c373d993235075798917aed3673b9c
+    brief: |-
+      THE CONFLICT:
+      Brandon Hughes (Lee County District Attorney, suspended) faced charges related to using his office for personal gain.
+      Paula DiNardi assault charges were dismissed due to a defective original pleading/charging document during a 2018 incident heard by Judge Clarke Stankoski.
+
+      THE DISCOVERY:
+      A reward is offered for information regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama, which occurred on May 27, 2022, with the body recovered May 29, 2022.
+
+      THE PIVOT:
+      Article 2 (2022) updates regional focus from resolved/political legal issues (2018) to ongoing, unsolved criminal mysteries (Williams death), indicating persistent unresolved issues in Alabama.
+
+      KEY ENTITIES:
+      Brandon Hughes
+      Paula DiNardi
+      Clarke Stankoski
+      Mo Brooks
+      Thomas Daniel "Danny" Williams Jr
+      Pete Rose
+      Katie Britt
+      Alabama
+      Lee County
+      Orange Beach
+      May 27, 2022
+      May 29, 2022
+    llm_text: 'Political drama involving Brandon Hughes and Paula DiNardi takes a backseat to an urgent mystery: the unsolved death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama. Find out why a reward is offered for information on his May 27, 2022, death.'
+    text: Police are investigating the unsolved death of Thomas Daniel Williams Jr. in Orange Beach, Alabama. Authorities offer a reward for information regarding his May 27, 2022, death.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T10:19:21.145065Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 41b595e72809fe60ae482132603cda81aa3c0a19c7be73185ec32deb6dcf9f5d
+    brief: |-
+      THE CONFLICT:
+      Lee County District Attorney Brandon Hughes (suspended) faced charges regarding personal gain.
+      Paula DiNardi sustained injuries; Assault Charges were dismissed because the original pleading/charging document was defective or sabotaged.
+      Governor Cuomo faced a sixth accusation of inappropriate sexual activities.
+      Judge Clarke Stankoski was involved in a public intoxication appeal hearing regarding a 2018 incident.
+
+      THE DISCOVERY:
+      Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the state due to a whistleblower Ethics Complaint.
+      Brandon Moseley discussed five firearms related bills for the 2025 legislative session.
+
+      THE PIVOT:
+      Article 2 highlights ongoing issues of local government scrutiny and ethics complaints (Kent David) and the manipulation of public narratives (Haitian Eating Cats debate), providing current context to the past corruption and legal failures detailed in Article 1 (Hughes/DiNardi).
+
+      KEY ENTITIES:
+      Brandon Hughes
+      Paula DiNardi
+      Governor Cuomo
+      Judge Clarke Stankoski
+      Brandon Moseley
+      Kent David
+      Mo Brooks
+      Cuomo
+      Lee County
+      Sylacauga Alabama
+      Donald Trump
+      Taylor Swift
+      RFK Jr
+      Tulsi Gabbards
+      Russell Brand
+      Stankoski
+      Dinardi
+    llm_text: Suspended Lee County DA Brandon Hughes faced personal gain charges, and a defective pleading dismissed Paula DiNardi's assault case. See how local ethics complaints, including Kent David's exit, reveal deeper government scrutiny.
+    text: Suspended District Attorney Brandon Hughes faced criminal charges for personal gain. Across the state, Kent David's exit from the veterans department adds to rising government scrutiny.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T10:20:25.642950Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: ab659e4cec9463b344525ff4d0aafa6a0491e4c3429c4a1a6c3a2af0a3189286
+    brief: |-
+      THE CONFLICT:
+      *   Paula DiNardi sustained injuries resulting in Assault Charges in a 2018 incident (Fairhope Municipal Court).
+      *   The Assault Charges against Paula DiNardi were dismissed due to a defective/sabotaged original pleading/charging document.
+      *   Lee County District Attorney Brandon Hughes was hit with charges for using his office for personal gain.
+      *   Governor Cuomo faced a sixth woman accusing him of inappropriate sexual activities.
+
+      THE DISCOVERY:
+      *   On July 31, 2024, the family of OJ French Jr. filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson.
+      *   The lawsuit alleges Officer Thompson lacked probable cause for a stop and used a taser, resulting in French Jr.'s death.
+      *   The Sheriff announced mid-July 2024 he is resigning mid-August 2024.
+      *   Governor Ivey is considering appointing Chief Deputy Anthony Lowery or County Commissioner Matt McKenzie to fill the vacancy.
+
+      THE PIVOT:
+      *   Article 2 (2024) demonstrates ongoing, high-stakes legal and political corruption/misconduct in Alabama (Bay Minette/Baldwin County), providing a modern context to past local legal failures (DiNardi/Hughes) and systemic issues in the state.
+      *   Article 2 reveals current political maneuvers (Sheriff resignation, Governor Ivey appointments, County Commissioner Matt McKenzie's interest) that are directly relevant to local governance and accountability issues raised in Article 1.
+
+      KEY ENTITIES:
+      *   Paula DiNardi
+      *   Judge Clarke Stankoski
+      *   Lee County District Attorney Brandon Hughes
+      *   OJ French Jr.
+      *   Officer Brandon Thompson
+      *   Mayor Robert Bob Wills
+      *   Governor Ivey
+      *   Chief Deputy Anthony Lowery
+      *   County Commissioner Matt McKenzie
+    llm_text: OJ French Jr.'s family sued City of Bay Minette over Officer Brandon Thompson's taser use, revealing modern Alabama misconduct. Governor Ivey now weighs Chief Deputy Anthony Lowery or County Commissioner Matt McKenzie to fill the resigning Sheriff vacancy.
+    text: The family of OJ French Jr. is suing Bay Minette over a taser incident involving Officer Brandon Thompson. Governor Kay Ivey must now pick a new sheriff to fill the upcoming vacancy.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T10:22:40.303612Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 3d1fcaa4fbad9575f4e2bc3c18032d87c39ce360f07063e74fd0fcff39eac7ec
+    brief: |-
+      THE CONFLICT:
+      *   Lee County District Attorney Brandon Hughes (suspended) faced charges for using office for personal gain.
+      *   Paula DiNardi assault charges were dismissed because the original pleading document was defective (2018 incident, heard by Judge Clarke Stankoski).
+      *   Governor Cuomo faced a sixth woman accusing him of inappropriate sexual activities.
+      *   Mo Brooks and AG Steve Marshall were involved in Census/Lottery bill discussions.
+
+      THE DISCOVERY:
+      *   Companies with political ties are scoring million-dollar contracts.
+      *   Law enforcement mishaps are investigated, but accountability is absent.
+      *   Scholarships meant for the public were distributed to insiders.
+      *   Rumors regarding the governor’s health and potential replacements are circulating.
+
+      THE PIVOT:
+      *   Specific cases of individual corruption (Hughes) and political scandal (Cuomo) are evidence of a broader systemic failure where political ties dictate lucrative contracts and insider benefits, bypassing public accountability.
+
+      KEY ENTITIES:
+      *   Brandon Hughes
+      *   Paula DiNardi
+      *   Governor Cuomo
+      *   Clarke Stankoski
+      *   Mo Brooks
+      *   AG Steve Marshall
+      *   Lee County District Attorney
+    llm_text: Lee County DA Brandon Hughes faced charges for personal gain, and Governor Cuomo faced a sixth woman's accusation. These individual scandals reveal how political ties dictate million-dollar contracts and bypass public accountability.
+    text: Lee County District Attorney Brandon Hughes faced charges for personal gain. These local scandals show how political connections often override public accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T10:15:10.774888Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: cdb562441dd2ae59de7aa62fc56fe1ea6b7350964b1d154b665c6ae7e280e0e5
+    brief: |-
+      THE CONFLICT:
+      *   Paula DiNardi sustained injuries related to Assault Charges.
+      *   These Assault Charges were dismissed because the original pleading/charging document was defective or sabotaged.
+      *   This case was heard by Judge Clarke Stankoski concerning a Tuesday 2018 incident.
+      *   Lee County District Attorney Brandon Hughes was suspended and faced charges related to using his office for personal gain.
+      *   Governor Cuomo faced accusations from a sixth woman regarding inappropriate sexual activities.
+
+      THE DISCOVERY:
+      *   Sheriff Mack in Baldwin County, Alabama, has one week remaining in his office.
+      *   The Governor is currently selecting a replacement for the Baldwin County Sheriff position.
+
+      THE PIVOT:
+      *   Article 2 establishes active political transition and gubernatorial authority in Alabama (Baldwin County leadership change), providing immediate context to the ongoing legal and corruption issues detailed in Article 1 (e.g., Hughes suspension, DiNardi case dismissal) within the state.
+
+      KEY ENTITIES:
+      *   Paula DiNardi
+      *   Clarke Stankoski
+      *   Brandon Hughes
+      *   Governor Cuomo
+      *   Mo Brooks
+      *   Ronan McSharry
+      *   Toforest Johnson
+      *   Sheriff Mack
+      *   Kamala Harris
+      *   Finebaum
+      *   Baldwin County (Alabama)
+      *   Lee County (Alabama)
+    llm_text: Sheriff Mack has only one week left in Baldwin County. How does Governor Cuomo's authority shape ongoing legal issues, from Paula DiNardi's case dismissal to Brandon Hughes' corruption charges?
+    text: Sheriff Mack has only one week left in office in Baldwin County. Legal questions mount across the state, from Paula DiNardi's dismissed case to Brandon Hughes's corruption charges.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T10:21:45.837941Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

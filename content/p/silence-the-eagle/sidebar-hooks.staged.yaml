@@ -6,22 +6,26 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   but-i-didnt-do-it:
+    refined_source: 89fa39bc5a08f85f83646fdf98fa7bed93ee20440de87b7b61ddcee1e2d5abcc
     brief: |-
       THE CONFLICT: Murray Lawrence, Jr. was arrested in Fairhope, Alabama, in 2004 and charged with murder he did not commit.
       THE DISCOVERY: Article 2 documented the wrongful conviction of Murray Lawrence, Jr., who was sentenced to "life without parole" and remained incarcerated in Holman Prison for 18 years due to corruption in Baldwin County.
       THE PIVOT: Lawrence's 2004 case establishes a historical pattern of deep systemic corruption, wrongful conviction, police misconduct, and politically motivated severe sentencing in Alabama, providing context for the 2021 Opelika case involving Walker Cole Barkley, which also featured alleged police misconduct, media suppression (FOIA denial), and overcharging for attempted murder.
       KEY ENTITIES: Walker Cole Barkley, Nicole Barkley, Opelika, Auburn PD, Murray Lawrence, Jr., Fairhope, Holman Prison, Baldwin County.
     llm_text: Murray Lawrence, Jr. lost 18 years in Holman Prison after being wrongfully convicted due to Baldwin County corruption. See how his 2004 case reveals the deep systemic failures now impacting Walker Cole Barkley in Opelika.
+    text: Murray Lawrence Jr. spent 18 years in Holman Prison after a corrupt conviction in Baldwin County. His 2004 case reveals the same systemic failures that now impact Walker Cole Barkley in Opelika.
     widget_date: "2023-08-16"
     generated_at: "2026-11-06T19:19:00.333615Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bull:
+    refined_source: a1578625aeb4ccb78516398693234f4d0ba5ed78449bb9489514357c58ed7cb4
     brief: |-
       THE CONFLICT: Cole Walker Barkley was seriously wounded by an Auburn Police Department officer on Sunday evening, July 25, 2021; he was subsequently charged with attempted murder and scheduled for a sentencing hearing on August 23.
       THE DISCOVERY: Prior to 2016, Fairhope city government operated under Mayor Karen Wilson (2000–2016), who prevented 'good ole boy' connections; later, the City Council cut essential utility infrastructure funding in the 2017, 2018, and 2019 budgets.
       THE PIVOT: Both events demonstrate a pattern of local government opacity and political protection—Opelika involved FOIA requests being deliberately stonewalled by police/DA's office regarding the shooting, while Fairhope involved the co-mingling of utility and city funds and the reversal of previous management gains due to political pressure.
       KEY ENTITIES: Opelika, Auburn PD, Cole Walker Barkley, Nicole Barkley, Fairhope, Karen Wilson, City Council, District Attorney.
     llm_text: Auburn PD wounded Cole Walker Barkley, yet local opacity shields accountability. Fairhope's City Council reversed Karen Wilson's anti-'good ole boy' reforms, demonstrating political protection stalled justice in both Opelika and Fairhope.
+    text: Auburn police shot Cole Walker Barkley, but local officials hide the records to avoid accountability. The Fairhope City Council reversed reforms, proving political protection stalled justice across the state.
     widget_date: "2023-08-09"
     generated_at: "2026-11-06T19:20:11.327236Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -86,6 +90,7 @@ hooks:
       - Holly Hills Golf Course
       - Baldwin County Commission / Baldwin County Sheriff’s Office (BCSO)
     llm_text: Auburn police fired through a door at intoxicated Walker Cole Barkley, who had a gun, and he fought back while four kids were inside. Now prosecutors seek life without parole, and the Bay Minette cover-up around another police killing shows how officials may bury the truth before the August 23 sentencing.
+    text: Auburn police fired through a door at intoxicated Walker Cole Barkley, who had a gun, and he fought back while four kids were inside. Now prosecutors seek life without parole, and the Bay Minette cover-up around another police killing shows how officials may bury the truth before the August 23 sentencing.
     widget_date: "2023-03-21"
     generated_at: "2026-11-06T19:18:27.543626Z"
     model_name: recursive/flint-v1.0:free

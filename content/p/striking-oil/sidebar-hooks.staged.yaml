@@ -1,0 +1,168 @@
+metadata:
+  generated_at: "2026-11-07T06:55:32.063922Z"
+  generator_version: 1.0.0
+  post_slug: striking-oil
+  main_date: "2021-07-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  letter-to-the-alabama-attorney-general:
+    refined_source: 6249661ffc1ec507c507c007a2203f68a2542ba8707b7bed176638652da7217e
+    brief: |-
+      THE CONFLICT: Tom Albritton, Director of Alabama Ethics, was a trustee of the Mabel Amos Memorial Fund; he was accused of self-dealing and IRS code violations related to the fund, and the Ethics Commission failed to investigate corruption (e.g., Fairhope Councilman).
+      THE DISCOVERY: The Ripp Report (founded 2008) formally alerted Alabama Attorney General Steve Marshall about Albritton's self-dealing and the Ethics Commission's failure to act, filing an Ethics Complaint, Alabama Bar Complaint, and Writ of Mandamus.
+      THE PIVOT: Article 2 establishes Albritton's prior history of self-dealing and the Ethics Commission's systemic failure to enforce ethics rules *before* the 2010 oil strike, contextualizing the later Conecuh County event as part of a long-standing ethical problem.
+      KEY ENTITIES: Tom Albritton, Regions Bank, Mabel Amos Memorial Fund, Ethics Commission, Alabama Attorney General Steve Marshall, Francis Paul Ripp (The Ripp Report), Leigh Manning, Thomas Gallion, Conecuh County, 2010 (oil strike), 2002-2018 (trust period).
+    llm_text: Alabama Ethics Director Tom Albritton faced self-dealing accusations involving the Mabel Amos Memorial Fund. The Ripp Report alerted AG Steve Marshall, proving the Ethics Commission failed to enforce ethics rules long before the 2010 oil strike.
+    text: Ethics Director Tom Albritton faced accusations of funneling memorial funds to family members. Why did the Alabama Ethics Commission refuse to police its own leadership?
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-07T06:50:06.568903Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-and-bar-complaint:
+    refined_source: 61f6b7318949f2cdfe7292bda85564ba102e2f4e96d33a466c15709264c2898a
+    brief: |-
+      THE CONFLICT: Tom Albritton, a trustee of the Mabel Amos Memorial Fund (along with Regions Bank and Rick Clifton), was involved in alleged self-dealing where the fund paid over $1 million to Regions Bank between 2002 and 2018, and Tom Albritton awarded $105,000 in scholarships to his daughters. The oil was struck in Conecuh County in 2010.
+
+      THE DISCOVERY: On June 29, 2021, The Ripp Report published an article detailing Albritton's $105,000 scholarship award, prompting the filing of an Ethics Complaint, Writ of Mandamus, and Bar Complaint against him.
+
+      THE PIVOT: Article 2 (Jun 29, 2021) established the specific, documented instance of self-dealing ($105,000) which serves as the initial evidence and foundation for the ongoing ethical and legal violations surrounding the Mabel Amos Trust and the 2010 Conecuh County oil strike detailed in Article 1.
+
+      KEY ENTITIES: Tom Albritton, Regions Bank, Mabel Amos Trust/Memorial Fund, Conecuh County, Leigh Manning, Thomas Gallion, Rick Clifton, Alabama Ethics Commission.
+    llm_text: Trustee Tom Albritton siphoned over $1 million from the Mabel Amos Memorial Fund, including a $105,000 scholarship for his daughters. Read how this self-dealing connects to the 2010 Conecuh County oil strike and the ongoing ethics complaints.
+    text: Trustee Tom Albritton diverted over one million dollars from a public memorial fund. What do court records reveal about his connection to the Conecuh County oil strike?
+    widget_date: "2021-07-15"
+    generated_at: "2026-11-07T06:51:09.834351Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  self-dealing-self-stealing:
+    refined_source: 667530ff729ea4adf3e13331289e1da98432dee9cd89fd43cd2d3a1410eb28e7
+    brief: |-
+      THE CONFLICT:
+      *   Regions Bank managed the Mabel Amos Memorial Fund between 2002 and 2018.
+      *   Oil was struck in Conecuh County in 2010.
+      *   Tom Albritton (Director of Ethics) awarded his daughters $105,000 in scholarships from the managed trust.
+      *   The Ripp Report filed an ethics complaint, Writ of Mandamus, and a Bar complaint against Albritton and Regions Bank.
+
+      THE DISCOVERY:
+      *   The Widget Article (July 2, 2021) explicitly labeled the issue "Self-Dealing-Self-Stealing."
+      *   The Widget Article identified Tom Albritton as the Director of the Alabama Ethics Commission (or Greg Albritton, head of the Commission, depending on reference).
+      *   The Widget Article highlighted Alabama's national reputation for political corruption and urged public action against the entities.
+
+      THE PIVOT:
+      *   Article 2 establishes Tom Albritton's position as Director of the Ethics Commission, providing critical context that he was leveraging his authority while committing the self-dealing detailed in Article 1.
+      *   Article 2 frames the specific financial misconduct as a systemic ethical failure ("Self-Dealing"), not just a private financial dispute.
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Regions Bank
+      *   Mabel Amos Memorial Fund (Trust)
+      *   Alabama Ethics Commission
+      *   Leigh Manning
+      *   Thomas Gallion
+      *   Rick Clifton
+      *   Conecuh County
+      *   $105,000
+      *   2002-2018 (Trust period)
+      *   2010 (Oil strike)
+    llm_text: Ethics Director Tom Albritton steered $105,000 from the Mabel Amos Memorial Fund to his daughters' scholarships. See how this self-dealing exposed systemic corruption within the Alabama Ethics Commission.
+    text: Tom Albritton directed scholarship cash from the Mabel Amos Memorial Fund to his daughters. How did institutional corruption become standard practice inside the Alabama Ethics Commission?
+    widget_date: "2021-07-09"
+    generated_at: "2026-11-07T06:52:27.468197Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-self-dealing-immunity:
+    refined_source: 2862ecf0e92cb1699de744b1121ff4fab9390e59103f4b789083fe9ebf5a25e0
+    brief: |-
+      THE CONFLICT:
+      *   Between 2002 and 2018, Tom Albritton, Director of the Alabama Ethics Commission, helped manage the Mabel Amos Memorial Fund.
+      *   Albritton awarded $105,000 in scholarships to his daughters from this trust.
+      *   Regions Bank received over $1 million for managing the fund.
+      *   Oil was struck in Conecuh County in 2010.
+
+      THE DISCOVERY:
+      *   Richard Fording, an endowed professor, discovered the scholarship and the disproportionate distribution (only $500 to a Historically Black College or University/Tuskegee).
+      *   Fording noted that Albritton's two children received a total of $105,000 through 2018.
+
+      THE PIVOT:
+      *   Article 2 established the specific timeline and the self-dealing violation ($105,000 to Albritton's children) under IRS Section 4941(d) *before* Albritton was lecturing on ethics.
+      *   Article 1 leverages this established historical fact to drive current legal action (Ethics complaint, Writ of Mandamus, Bar complaint) against Albritton and Regions Bank.
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Regions Bank
+      *   Mabel Amos Memorial Fund/Trust
+      *   Alabama Ethics Commission
+      *   Conecuh County
+      *   Leigh Manning
+      *   Thomas Gallion
+      *   Richard Fording
+      *   IRS Section 4941(d)
+    llm_text: Tom Albritton, Alabama Ethics Commission Director, awarded $105,000 from the Mabel Amos Memorial Fund to his daughters. Richard Fording exposed this IRS Section 4941(d) self-dealing, fueling current legal action against Albritton and Regions Bank.
+    text: Ethics Commission Director Tom Albritton gave over one hundred thousand dollars in memorial funds to his daughters. Why did state watchdogs ignore this clear case of self-dealing?
+    widget_date: "2021-07-02"
+    generated_at: "2026-11-07T06:53:43.303276Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-mo-bridge:
+    refined_source: 2fdc5c02b12d38cac1e00248994d90a2f0db927dd131495784235b0d6bf53bc4
+    brief: |-
+      THE CONFLICT: Mo Brooks advocated for limiting federal highway funding to states based on the 10th amendment regarding the Bayway Truck Bridge.
+      THE DISCOVERY: Article 2 revealed Alabama lacked sufficient state funding for major infrastructure, education, and healthcare, despite neighboring states benefiting from lottery/marijuana revenue (missing $3.2 billion in Medicaid).
+      THE PIVOT: Both articles highlight systemic financial mismanagement and governmental failures in Alabama (infrastructure funding in Article 2; misuse of the Mabel Amos Trust by Regions Bank/Tom Albritton in Article 1), demonstrating a pattern of poor fiscal governance.
+      KEY ENTITIES: Mo Brooks, Jack Burrell, Tom Albritton, Regions Bank, Mabel Amos Trust, Leigh Manning, Thomas Gallion, Rick Clifton, Conecuh County.
+    llm_text: Mo Brooks wants states to fund the Bayway Truck Bridge, but Alabama lacks the money. State mismanagement—from a $3.2 billion Medicaid gap to the Mabel Amos Trust misuse by Tom Albritton and Regions Bank—shows deep fiscal failure.
+    text: Mo Brooks demands state funding for the Bayway truck bridge while Alabama faces a multi-billion dollar Medicaid shortfall. Can taxpayers afford another boondoggle from mismanaged state agencies?
+    widget_date: "2021-06-30"
+    generated_at: "2026-11-07T06:48:44.833286Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-10-toll-bridge-state:
+    refined_source: 3eca80970de93e40210c11c14e919d70f85ead7a2e6e6a08d2a0a9502fa2dd05
+    brief: |-
+      THE CONFLICT:
+      I-10 toll proposal was put forward by Alabama political leaders (MPO) who, despite initial opposition from the trucking industry (Mark Colson), sought tolls due to lack of federal infrastructure funding.
+
+      THE DISCOVERY:
+      The MPO, led by Jack Burrell, initially stated federal money was needed, contradicting earlier positions, leading to the decision to implement a toll on I-10 in Alabama.
+
+      THE PIVOT:
+      Both articles document localized financial and ethical mismanagement in Alabama: Article 2 details political maneuvering around infrastructure funding (I-10 toll); Article 1 details ethical violations by Tom Albritton and Regions Bank regarding the Mabel Amos Memorial Fund following oil striking in Conecuh County.
+
+      KEY ENTITIES:
+      Tom Albritton (Director of Ethics, Regions Bank)
+      Regions Bank
+      Mabel Amos Trust (Mabel Amos Memorial Fund)
+      Conecuh County
+      Jack Burrell (Eastern Shore MPO Chairman)
+      MPO
+      Thomas Gallion
+      Leigh Manning
+      Rick Clifton
+      Mike Lee (Page & Jones)
+    llm_text: Alabama leaders pushed the I-10 toll despite claiming a lack of federal funding. Meanwhile, Tom Albritton and Regions Bank faced ethical violations regarding the Mabel Amos Memorial Fund in Conecuh County.
+    text: State leaders claimed zero federal funds existed before pushing the costly I-10 toll project. Did Regions Bank and Tom Albritton violate state trust laws in Conecuh County?
+    widget_date: "2021-06-11"
+    generated_at: "2026-11-07T06:55:09.976490Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-92-a-vintage-year:
+    refined_source: 72c74fbcb8dc5231be3815eec8fafe37a3de8284497f595915470329cd569772
+    brief: |-
+      THE CONFLICT:
+      *   Regions Bank managed the Mabel Amos Memorial Fund between 2002 and 2018, earning over $1 million.
+      *   Oil was struck in Conecuh County in 2010 by Tom Albritton and Regions Bank.
+      *   Tom Albritton, Director of Ethics, awarded his daughters $105,000 from the trust he helped manage.
+      *   The Ripp Report filed an ethics complaint and a Writ of Mandamus.
+
+      THE DISCOVERY:
+      *   Article 2 reveals that Thomas Albritton, Director of the Alabama Ethics Commission, administers the Trust of Mabel Amos.
+
+      THE PIVOT:
+      *   Article 2 establishes the direct conflict of interest: The Ethics Commission Director (Albritton) is personally administering the trust that is the subject of ethical and legal complaints detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Director of Ethics)
+      *   Regions Bank
+      *   Mabel Amos Memorial Fund / Mabel Amos Trust
+      *   Leigh Manning
+      *   Thomas Gallion / Thomas Gallion III
+      *   Conecuh County (Alabama)
+    llm_text: Tom Albritton, the Director of the Alabama Ethics Commission, administered the Mabel Amos Trust, awarding $105,000 to his daughters. Read how this ethics official personally manages the trust facing legal and ethical complaints from Regions Bank.
+    text: Tom Albritton managed the Mabel Amos Trust while steering scholarship money to his own family. How does the head of the Ethics Commission survive credible legal complaints?
+    widget_date: "2021-07-23"
+    generated_at: "2026-11-07T06:47:28.648589Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

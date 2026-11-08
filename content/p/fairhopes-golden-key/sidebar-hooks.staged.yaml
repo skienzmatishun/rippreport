@@ -1,0 +1,136 @@
+metadata:
+  generated_at: "2026-11-07T15:51:37.732478Z"
+  generator_version: 1.0.0
+  post_slug: fairhopes-golden-key
+  main_date: "2020-08-24"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  catalyst-aka-scott-boone-consulting:
+    brief: "THE CONFLICT: \n- In the 2020 municipal elections, Fairhope citizens voted for mayor and city council amidst deep political division.\n- Mayor Karin Wilson attempted to replace holdover officials from a past corrupt administration, but City Council members Jack Burrell, Kevin Boone, and Robert Brown ignored her requests.\n- The council immediately appointed Marcus McDowell as Municipal Attorney and reinstated Judge Snedeker.\n- The council and candidates like Sherry Sullivan were backed by a political network known as Catalyst/Scott Boone Consulting, which opponents accused of promoting unbridled sprawl and insider deals.\n- Historically, Fairhope spent 16 years under a \"blatant corruption\" administration (prior to Mayor Wilson taking office in 2016) that landed the city on an insurance company blacklist.\n\nTHE DISCOVERY: \n- Catalyst was originally a political machine for the \"good ole boys\" network of developers and landowners profiting from unbridled development, opposing regulations, impact fees, and infrastructure needs.\n- Due to toxicity, Catalyst rebranded under the name \"Scott Boone Consulting,\" run by Scott Boone.\n- Catalyst/Scott Boone Consulting fielded candidates across Baldwin County, including Spanish Fort, Daphne, Fairhope, and Bay Minette.\n- According to the *Lagniappe* \"Strawman\" land fraud series, Catalyst associates utilized an intricate web of multiple concentric layers of LLCs to conceal interrelationships, insulate principal actors from liability, and control financial transactions.\n- Scott Boone and his father, Fairhope Councilman Kevin Boone, had their fingerprints tied to the Strawman land fraud series alongside Baldwin County sewer interests and past County Commissioner Tucker Dorsey.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it exposes that the local candidates backed by the Council (such as Sherry Sullivan and the council members themselves) are not just standard conservative politicians, but frontmen for an entrenched, developer-funded political machine (Catalyst/Scott Boone Consulting) documented in journalistic investigations (the *Lagniappe* \"Strawman\" series) for land fraud and corrupt webs of LLCs. \n- It shows that the \"status quo\" defended by Councilmen Jack Burrell, Kevin Boone, and Robert Brown is tied directly to regional corruption, land fraud schemes, and insider municipal contracts rather than local civic governance.\n\nKEY ENTITIES: \n- Karin Wilson (Mayor of Fairhope)\n- Jack Burrell (Fairhope City Council President)\n- Kevin Boone (Fairhope City Councilman / Scott Boone's father)\n- Robert Brown (Fairhope City Councilman)\n- Scott Boone (Principal of Catalyst / Scott Boone Consulting)\n- Sherry Sullivan (Mayoral candidate)\n- Marcus McDowell (Municipal Attorney)\n- Judge Snedeker (Municipal Judge)\n- Jerry Carl (Congressional candidate / Winner of First Congressional Race)\n- Tucker Dorsey (Past County Commissioner)"
+    llm_text: Mayor Karin Wilson battled a corrupt status quo, but Councilmen Jack Burrell and Kevin Boone protected the developer-funded machine. Uncover how Scott Boone and his rebranded Catalyst network tied Fairhope leaders to the explosive "Strawman" land fraud scheme.
+    text: Mayor Karin Wilson battled a corrupt status quo, but Councilmen Jack Burrell and Kevin Boone protected the developer-funded machine. Uncover how Scott Boone and his rebranded Catalyst network tied Fairhope leaders to the explosive "Strawman" land fraud scheme.
+    widget_date: "2020-08-05"
+    generated_at: "2026-11-07T15:49:20.825870Z"
+    model_name: gemini-3.5-flash-lite
+  scary:
+    refined_source: 68f3521d9acea592186c2b23ffe636d1745be5ed18e66efd99f21f5f8e7473b0
+    brief: |-
+      THE CONFLICT: Fairhope was lifted out of 16 years of blatant corruption; previous administration involved issues related to BP oil spill and medical issues.
+      THE DISCOVERY: Sherry Sullivan (Scary Sherry) and the "3B's" (Burrell, Boone, Brown) are linked to CATALYST/Scott Boone Consulting, and Sullivan was previously a fired, disgruntled employee who sued the city.
+      THE PIVOT: Article 2 established the history of Sullivan's disgruntlement and the pre-existing link between the "3B's" and CATALYST, framing the current CABAL (Article 1) not as a new event but a continuation of historical political alignment rooted in past corruption and disputes (e.g., BP fraud knowledge).
+      KEY ENTITIES: Sherry Sullivan, Kevin Boone, Jack Burrell, Robert Brown, Karin Wilson, Mayor Wilson, City Council, Catalyst/Scott Boone Consulting, Mayor Wilson, Marcus McDowell, Judge Snedeker
+    llm_text: Sherry Sullivan and the "3B's" link back to old corruption involving the BP spill. See how this historical political alignment threatens Fairhope's clean slate.
+    text: Sherry Sullivan and council members link directly to past controversies involving the BP oil spill. This political alignment threatens municipal transparency.
+    widget_date: "2020-08-01"
+    generated_at: "2026-11-07T15:49:25.260623Z"
+    model_name: plugsky-lite
+  women-stand-together:
+    refined_source: 58277322978d74f0502aeb29b1d46e73383f8fc18f00415569d1c0da25b5eb99
+    brief: "THE CONFLICT:\n- Date: November 2018.\n- Event: Paula DiNardi was assaulted by a local businessman.\n- Legal Failure: City Prosecutor Marcus McDowell allowed assault charges to be dismissed by failing to include proper wording in an appeal filing and failing to respond to the court. \n- Accountability Failure: Mayor Wilson requested McDowell recuse himself due to \"deplorable\" inaction; the Fairhope City Council (Burrell, Boone, Brown) refused to hold him accountable and adjourned the meeting following a dispute with the Mayor.\n\nTHE DISCOVERY:\n- Article 2 reveals a documented history of professional negligence by Marcus McDowell in his capacity as a city-appointed legal official.\n- It establishes a pattern of the Fairhope City Council (specifically Burrell, Boone, and Brown) protecting appointed officials despite evidence of incompetence or failure to serve citizen interests.\n\nTHE PIVOT:\n- Article 2 provides the evidentiary basis for the \"corruption\" claims in Article 1.\n- While Article 1 criticizes the Council for appointing Marcus McDowell as the new Municipal Attorney, Article 2 shows that the Council is reinstating/appointing an individual with a prior record of failing to prosecute criminal charges for Fairhope citizens.\n\nKEY ENTITIES:\n- Paula DiNardi (Victim)\n- Marcus McDowell (Municipal Attorney/Former City Prosecutor)\n- Jack Burrell (City Council member)\n- Kevin Boone (City Council member)\n- Robert Brown (City Council member)\n- Karin Wilson (Mayor)\n- Sherry Sullivan (Mayoral Candidate)\n- Catalyst/Scott Boone Consulting (Political group)"
+    llm_text: Marcus McDowell’s negligence allowed Paula DiNardi’s assault charges to vanish through a botched legal filing. Read how Council members Burrell, Boone, and Brown shielded him from accountability then, and why they are reinstating him as the city's Municipal Attorney.
+    text: Marcus McDowell faced negligence claims after assault charges vanished through a flawed legal filing. Council members Jack Burrell, Kevin Boone, and Robert Brown shielded him from accountability before reinstating him as city attorney.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T15:49:41.148241Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  catalyst-missing-in-action:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council appointed Municipal Judge and Municipal Attorney; both were holdovers from past corrupt administration.
+      - Mayor Karin Wilson pleaded with City Council to consider new appointments for Municipal Judge and Municipal Attorney.
+      - Council, led by Burrell for last 8 years, ignored citizens seeking change and immediately appointed Marcus McDowell as Attorney and reinstated Judge Snedeker.
+      - Council members Burrell, Boone, and Brown all supporting Sherry Sullivan.
+      - Fairhope Judge was largest land owner and developer in Fairhope and supported Sullivan.
+      - City attorney had Sullivan sign at attorney’s office.
+      - Council/Burrell/Boone/Brown linked to Catalyst/Scott Boone Consulting CABAL.
+      - Sullivan vastly unqualified; choice for ribbon cutting Mayor; subject to CABAL.
+      - Sullivan had only high school education; fired by city; sued; four jobs in four years.
+      - Burrell, Boone, Brown wanted to take “a chance” on Arts and Crafts show; Mayor Wilson opposed, said too big health risk; Arts and Crafts show finally canceled.
+      - In 2016 Fairhope lifted out of 16 years of blatant corruption; also landed Fairhope on insurance companies blacklist.
+      - Mayor Wilson accomplishments in 4 years surpassed previous administration’s 16 years.
+      - Wilson stopped inter corruption within Fairhope City Hall; unable to stop council Burrell Boone Brown from feeding off office for personal gain.
+      - Main article context: Tomorrow citizens of Fairhope will go to polls, rain or shine; most citizens do not understand inner political workings like appointments.
+
+      THE DISCOVERY:
+      - Widget article: Last night Spanish Fort played Fairhope in football; stands full, social distancing impossible.
+      - Fairhope High School principal said tried to enforce mask use; once seated, people removed masks.
+      - Fairhope political forum hosted by Common Sense Campaign, scheduled in advance, provided to citizens to better inform them about Fairhope candidates for Mayor and City Council.
+      - All City Council members running for office and candidates opposing them attended.
+      - Mayor Wilson and two of three challengers attended; Sherry Sullivan did not.
+      - Sullivan’s followers suggested Mayor Wilson scheduled forum; article states this is absolutely false; Mayor showed up by invitation, just like everyone else; Sullivan made bad situation worse by not taking responsibility.
+      - Sullivan showed up at football game and gave fans to attendees NOT wearing masks.
+      - Sullivan and Burrell wanted to take “a chance” with Arts and Craft Show; over 200,000 attended; Doctors from Thomas advised against; Sullivan/Burrell wanted push forward.
+      - Sullivan does not want to answer questions or have public forum.
+      - Mayor Wilson adamantly opposed “taking a chance”; Arts and Crafts show finally canceled. Wilson put safety before profits.
+      - Fairhope needs Mayor who practices what she preaches instead of “taking a chance” with other people’s lives; Sullivan displayed consistent pattern of bad decisions, poor judgment.
+      - Football game may result in more Covid cases; football should come second to people’s health; giving fan in crowded bleachers with unmasked people may be worst thing.
+      - Sullivan owes public and Common Sense Campaign apology; probably will not show up.
+      - Post to Mayor Wilson: Karin, difficult decision re Arts and Crafts; as someone working in ICU during pandemic, commended Wilson for decision; right decision; Sherry Sullivan was on news promoting Arts and Crafts and promising “all precautions would be taken”; what a joke; Sullivan obviously only trying to promote event; would have been at expense of citizens’ lives; Baldwin County cases of Covid during that time probably less than 10% of Mobiles.
+      - All other Mayoral Candidates displayed common sense re Covid; all agree on social distancing and masks and put citizens before profits; Sullivan not Mayor material; actions display lack education and judgment.
+
+      THE PIVOT:
+      - Article 2 is older/background context.
+      - Article 2 shows Sullivan skipped Fairhope political forum, attended Spanish Fort vs Fairhope football game, gave fans to unmasked attendees, pushed Arts and Crafts despite doctors’ advice.
+      - These facts support Article 1’s claims that Sullivan is vastly unqualified, subject to CABAL, lacks judgment, Mayor Wilson opposed taking chances, and citizens should vote out Burrell Boone Brown or support Wilson.
+      - Article 2 is smoking gun/key context for Article 1 because it provides prior/contemporaneous behavior used to frame Sullivan as not Mayor material and Wilson as putting safety before profits.
+
+      KEY ENTITIES:
+      - Fairhope
+      - Baldwin County
+      - Spanish Fort
+      - Fairhope High School
+      - Fairhope City Council
+      - Mayor Karin Wilson
+      - Sherry Sullivan
+      - Jack Burrell
+      - Kevin Boone
+      - Robert Brown
+      - Municipal Judge Snedeker
+      - Marcus McDowell
+      - Municipal Attorney
+      - Common Sense Campaign
+      - Scott Boone Consulting
+      - Catalyst
+      - CABAL
+      - Thomas
+      - Deb Hopkins
+      - Joshua Gammons
+      - Howell Gibbens
+      - Arts and Crafts Show
+      - Spanish Fort vs Fairhope football game
+      - Lowery, Wilters — not present in provided articles; no corroborating details provided.
+    llm_text: Last night Spanish Fort filled the stands against Fairhope, and Sherry Sullivan handed unmasked fans to maskless attendees while Mayor Karin Wilson put public health first. Tomorrow Fairhope voters head to the polls, and they should see why Sullivan isn't Mayor material.
+    text: Last night Spanish Fort filled the stands against Fairhope, and Sherry Sullivan handed unmasked fans to maskless attendees while Mayor Karin Wilson put public health first. Tomorrow Fairhope voters head to the polls, and they should see why Sullivan isn't Mayor material.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T15:49:57.069988Z"
+    model_name: recursive/flint-v1.0:free
+  fairhope-voters-guide:
+    refined_source: f8e2bce3f26f2327ab59ad4b1f865ece4ebb4c933e1c2e0315ed948168bda64d
+    brief: |-
+      THE CONFLICT: 16 years of blatant corruption in Fairhope (pre-2016) led to the defeat of incumbent Mayor Timothy Kant in the 2016 municipal election by Karin Wilson (400+ vote margin), overseen by the Alabama Secretary of State due to complaints regarding 2008 and 2012 election tampering.
+      THE DISCOVERY: In 2016, while Mayor Kant was defeated, the City Council remained populated by five individuals selected by the previous and compromised administration (The 3 B’s: Jack Burrell, Kevin Boone, Robert Brown), who were aligned with the development industry/CATALYST.
+      THE PIVOT: Article 2 proves the Council (Burrell, Boone, Brown) retained power and control after the 2016 change. Article 1 demonstrates that this continued Council control is currently used to ignore citizen requests for change, reinstate corrupt appointments (Judge Snedeker, Marcus McDowell), and push an unqualified candidate (Sherry Sullivan) tied to the Catalyst/Scott Boone Consulting CABAL.
+      KEY ENTITIES: Karin Wilson, Timothy Kant, Jack Burrell, Kevin Boone, Robert Brown, Deb Hopkins, Joshua Gammon, Howell Gibbons, Sherry Sullivan, Scott Boone, Catalyst, Marcus McDowell, Judge Snedeker, Mayor Wilson.
+    llm_text: Mayor Karin Wilson beat corrupt Mayor Timothy Kant in 2016, but Jack Burrell, Kevin Boone, and Robert Brown kept control of the Fairhope City Council. This council now ignores citizens, reinstates corrupt figures like Judge Snedeker, and pushes Sherry Sullivan tied to the Catalyst cabal.
+    text: Mayor Karin Wilson defeated Timothy Kant in 2016, but Jack Burrell, Kevin Boone, and Robert Brown maintained control of the city council. The council ignored citizens and reinstated municipal figures.
+    widget_date: "2020-08-20"
+    generated_at: "2026-11-07T15:50:05.033441Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  questions-for-fairhope:
+    brief: "THE CONFLICT:\n- In the 16 years leading up to 2016 under former Mayor Cant's administration, Fairhope experienced blatant corruption that landed the city on an insurance company blacklist.\n- Sherry Sullivan worked under Mayor Cant for nearly 16 years. When Cant lost the election, Sullivan was fired and subsequently sued the city.\n- Over a 4-year period, the city council—led by Council President Jack Burrell for 8 years, along with Kevin Boone and Robert Brown (known as the \"3 B's\")—engaged in systemic collusion, political maneuvering, and questionable financial decisions.\n- Specific past events include: the purchase of recreation land for $2,650,000 without funds for improvements, followed by leasing it out for $9,000 a year; a State Senator obtaining a BP contract and municipal contracts posing conflicts of interest; three city employees colluding to obstruct Mayor Karin Wilson, take city documents without authority, and share them with political rivals and tabloid press; a citizen being assaulted on video while the appointed Municipal Judge and City Attorney dropped the ball until charges disappeared; and council members hiding financial interests in multiple LLCs while voting on related issues.\n\nTHE DISCOVERY:\n- Article 2 (the older widget article) exhaustively details the historical corruption, administrative sabotage, and specific ethical violations of the Cant administration and the subsequent 4 years under the City Council.\n- It exposes the creation of \"CATALYST/Scott Boone Consulting\"—a political group of \"good ole boys\" and developers formed after Cant's loss to back proxy candidates.\n- It inventories the deep-seated institutional rot, detailing hidden budget line items (such as supplementing football coaches' salaries under a \"summer camp\" guise), undisclosed police records involving a councilman, and repeated instances of city employees leaking information and exhibiting insubordination toward Mayor Karin Wilson.\n\nTHE PIVOT:\n- Article 2 serves as the ultimate \"smoking gun\" because it provides the granular, itemized evidence of the exact corruption, backroom dealing, and governance obstruction that Mayor Karin Wilson fought against for four years. \n- While Article 1 outlines the immediate municipal election battle and the council's defiant re-appointment of status-quo officials (Marcus McDowell as Attorney and Judge Snedeker), Article 2 itemizes *why* those past ties matter—proving that backing Sherry Sullivan and the \"CATALYST\" cabal means a direct return to the 16 years of systemic corruption, sweetheart land deals, and self-dealing that nearly destroyed Fairhope prior to 2016.\n\nKEY ENTITIES:\n- Sherry Sullivan\n- Jack Burrell\n- Kevin Boone\n- Robert Brown (The \"3 B's\")\n- Mayor Karin Wilson\n- Marcus McDowell (Municipal Attorney)\n- Judge Snedeker (Municipal Judge)\n- Former Mayor Cant\n- Scott Boone / Catalyst (CATALYST/Scott Boone Consulting)\n- Deb Hopkins\n- Joshua Gammon\n- Howell Gibbens"
+    llm_text: Sherry Sullivan and the "3 B’s" spent years enabling Mayor Cant’s corrupt regime and sabotaging Mayor Karin Wilson. Read the smoking-gun evidence exposing their backroom land deals and secret alliances, and discover why electing Sullivan brings back the exact rot that nearly bankrupted Fairhope.
+    text: Sherry Sullivan and the "3 B’s" spent years enabling Mayor Cant’s corrupt regime and sabotaging Mayor Karin Wilson. Read the smoking-gun evidence exposing their backroom land deals and secret alliances, and discover why electing Sullivan brings back the exact rot that nearly bankrupted Fairhope.
+    widget_date: "2020-08-17"
+    generated_at: "2026-11-07T15:49:15.391378Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-signs:
+    refined_source: 3113054987f17066748c399c801db85b65c778a0af5726e56019990685bc06eb
+    brief: |-
+      THE CONFLICT: Fairhope lifted from 16 years of blatant corruption in 2016.
+      THE DISCOVERY: Catalyst became Scott Boone Consulting (CSB); CSB formed a political alliance spanning Fairhope, Daphne, Spanish Fort, and Bay Minette, using uniform PVC campaign signs.
+      THE PIVOT: Article 2 establishes CSB/Catalyst as the organized entity controlling the candidates mentioned in Article 1 (Sherry Sullivan, Boone, Brown, Burrell) and links the Municipal Judge's support directly to CSB influence, not just past administration continuity.
+      KEY ENTITIES: Scott Boone, Catalyst, CSB, Sherry Sullivan, Burrell, Boone, Brown, Mayor Wilson, Municipal Judge, City Council, 2016
+    llm_text: Scott Boone Consulting now controls candidates like Sherry Sullivan and Burrell across Fairhope, Daphne, and Spanish Fort. See how this CSB alliance dictates local power beyond past administrations.
+    text: Scott Boone Consulting now manages political candidates including Sherry Sullivan and Jack Burrell across Fairhope, Daphne, and Spanish Fort. This political alliance controls local government offices.
+    widget_date: "2020-08-07"
+    generated_at: "2026-11-07T15:49:17.888402Z"
+    model_name: plugsky-lite

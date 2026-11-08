@@ -1,0 +1,158 @@
+metadata:
+  generated_at: "2026-11-07T18:57:38.949697Z"
+  generator_version: 1.0.0
+  post_slug: dark-wednesday
+  main_date: "2020-05-27"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  money-on-the-table:
+    brief: |-
+      THE CONFLICT: The Fairhope City Council (specifically the "CATALYST" faction including Councilmen Jack Burrell, Robert Brown, and Kevin Boone—the "3 B's") continuously opposed, delayed, or blocked Mayor Dane Haygood's initiatives. Key past events include:
+      - Refusing to advance the $6.2 million Fairhope Waterfront Project during a May work session and council meeting.
+      - Rejecting a $65,000 mayoral marketing plan to help local businesses during the COVID-19 pandemic (funded by raising the tourist lodging tax from 6% to 7% and adding a ½ cent gas tax).
+      - Approving council salary and full family insurance increases totaling approximately $125,000.
+      - Purchasing 2.65 million dollars in recreation land without public input and leasing it for $9,000 a year.
+      - Incurring a $13 million legal settlement cost related to the Triangle property.
+      - Spending $2.5 million for the K-1 Center, Fairhope Community Park, and Nix Center without budgeting for immediate repairs (installing only a temporary roof on the K-1 Center).
+      - Spending over $500,000 to $600,000 for 1,000 square feet of the clock property, negotiated heavily by Burrell.
+      - Allocating $35,000 annually to the Baldwin County Economic Development Alliance (BCEDA), run by Lee Lawson (brother-in-law to Mayor Haygood and close friend of Burrell).
+
+      THE DISCOVERY: Article 2 (Money on the Table) documented the deep local political obstruction, financial mismanagement, and self-serving actions of the Fairhope City Council right as the COVID-19 pandemic struck local businesses. It exposed how the council blocked COVID-19 economic relief and marketing strategies while prioritizing pet projects, internal raises, and questionable real estate purchases.
+
+      THE PIVOT: Article 2 serves as the smoking gun because it establishes a documented historical pattern of political obstruction and economic neglect by the Fairhope City Council ("CATALYST") precisely as the COVID-19 pandemic hit—the exact crisis tracking upwards in Article 1 (Dark Wednesday), where Alabama's cases surged by 50% and 100,000 Americans died. While the pandemic battered local commerce, the council's refusal to act on business marketing plans and waterfront projects left vital economic recovery funds "on the table."
+
+      KEY ENTITIES:
+      - Jack Burrell (Fairhope City Councilman)
+      - Robert Brown (Fairhope City Councilman)
+      - Kevin Boone (Fairhope City Councilman)
+      - Dane Haygood (Mayor of Fairhope)
+      - Lee Lawson (Head of BCEDA)
+      - Fairhope City Council ("CATALYST" faction)
+      - Baldwin County Economic Development Alliance (BCEDA)
+      - Eastern Shore Chamber of Commerce
+      - Downtown Business Association
+      - Hatch program
+    llm_text: While COVID-19 battered local businesses, Councilmen Jack Burrell, Robert Brown, and Kevin Boone blocked Mayor Dane Haygood’s relief funds and instead lined their own pockets. Dive into the shocking political obstruction that left Fairhope's economic recovery money sitting on the table.
+    text: While COVID-19 battered local businesses, Councilmen Jack Burrell, Robert Brown, and Kevin Boone blocked Mayor Dane Haygood’s relief funds and instead lined their own pockets. Dive into the shocking political obstruction that left Fairhope's economic recovery money sitting on the table.
+    widget_date: "2020-04-29"
+    generated_at: "2026-11-07T18:54:51.537401Z"
+    model_name: gemini-3.5-flash-lite
+  american-citizen:
+    refined_source: fdaac99ce59175e305d0b27607b92402cf7dd995cdd5fc84727c6ce0e516ec1f
+    brief: |-
+      THE CONFLICT: Paula Dinardi (American Citizen) was assaulted by Ronan McSharry (Green card holder from Ireland) in November 2018 in Fairhope. McSharry pleaded guilty but escaped prosecution due to a defect in the first charging document (lack of wording “Did cause physical injury to another”), which was not amended within the one-year statute of limitations.
+
+      THE DISCOVERY: Article 2 exposed "Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure" regarding the McSharry case, noting the City Attorney and Municipal Judge favored the criminal.
+
+      THE PIVOT: Article 2 provides historical context (November 2018 assault/judicial failure) against which Article 1 (March 15 to May 24 Covid-19 data showing 100,000 deaths) exists, highlighting a pattern of systemic failure and political influence in local governance, despite the lack of a direct factual link between the two events.
+
+      KEY ENTITIES: Paula Dinardi, Ronan McSharry, Marcus McDowell, Judge Stankowski, Municipal Judge Snedeker, City Attorney, Council President Burrell, Dinardi, American Legion, Baldwin County.
+    llm_text: Judge Stankowski and the City Attorney favored Ronan McSharry, allowing him to escape prosecution for assaulting Paula Dinardi. Learn how Baldwin County incompetence and political interference fuel systemic local failure.
+    text: Judge Clark Stankoski and the City Attorney helped Ronan McSharry escape assault charges. How does Baldwin County political interference fuel failure?
+    widget_date: "2020-04-22"
+    generated_at: "2026-11-07T18:55:35.859808Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  april-fool:
+    refined_source: 5f147f491d6673dbfdeef52410b977e307b9112bcf887e2936fb82ca3c46ebd2
+    brief: |-
+      THE CONFLICT: April Fool's Day participation in Alabama risking others due to disbelief in science; belief in virus as hoax/China conspiracy.
+      THE DISCOVERY: Alabama has Covid-19 cases up by 50% in 111 days (March 15 to May 24); 100,000 American deaths from Covid-19.
+      THE PIVOT: Article 2 established the local climate of anti-science/conspiracy (virus as hoax) in Alabama, providing context for the subsequent data showing significant local Covid-19 increase (Article 1).
+      KEY ENTITIES: Alabama, Small Business Administration, Governor (unnamed), Baldwin County Legal Eagle
+    llm_text: Alabama's 50% Covid-19 surge in 111 days shows the danger of anti-science beliefs, even during April Fool's. See how conspiracy theories risk lives while 100,000 Americans have died from the virus.
+    text: Alabama suffered a massive Covid-19 surge as anti-science views spread. How did false claims risk public health while thousands of Americans died?
+    widget_date: "2020-04-01"
+    generated_at: "2026-11-07T18:54:51.789737Z"
+    model_name: plugsky-lite
+  virus-vs-catalyst:
+    brief: "THE CONFLICT: \n- On August 11, 2014, \"CATALYST\" (Catalyst Associates, LLC) was founded as a local political group/good ole boy club by Scott Boone, backed by figures including Stacy, Elliott (now a commissioner/the \"TAX MAN\"), and Haygood (Mayor of Daphne). \n- The Alabama primary runoff elections for the First Congressional seat, originally scheduled for March 31, were delayed to July 14, 2020, due to the COVID-19 pandemic. \n- Jerry Carl (President of the Mobile County Commission and Mobile Health Board) competed against the CATALYST-backed candidate, Hightower, who utilized negative ads and swamp PAC money like Club for Growth Action. \n- Carl won the initial primary over Hightower, securing victories in Mobile, Escambia, Monroe, part of Clark, and northern Baldwin County, while losses were concentrated in CATALYST strongholds like Fairhope, Daphne, Gulf Shores, and Orange Beach. \n\nTHE DISCOVERY: \n- Article 2 (the older background context) exposes the deep local roots, history, and network of CATALYST—identifying it as an entrenched political machine that controls municipal seats (such as the Fairhope City Council and Daphne mayoral office) and ensures its supported candidates use public office for personal gain. \n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it unmasks the local political apparatus (\"CATALYST\") and dark-money alliances opposing Jerry Carl in Article 1, framing the 2020 First Congressional race not just as a standard election, but as a battle between established local political corruption (CATALYST) and a public servant managing a pandemic crisis.\n\nKEY ENTITIES: \n- Jerry Carl\n- Hightower\n- Scott Boone\n- Stacy\n- Elliott\n- Haygood\n- Chris Pringle\n- Wes Lambert\n- Dr. Sanjay Gupta\n- Catalyst Associates, LLC\n- Club for Growth Action"
+    llm_text: Before Jerry Carl defeated CATALYST-backed Hightower in the 2020 primary, Scott Boone’s dark-money machine already controlled Baldwin County. Unmask this corrupt local network to see how entrenched good ole boys pull political strings for personal gain.
+    text: Before Jerry Carl defeated CATALYST-backed Hightower in the 2020 primary, Scott Boone’s dark-money machine already controlled Baldwin County. Unmask this corrupt local network to see how entrenched good ole boys pull political strings for personal gain.
+    widget_date: "2020-03-19"
+    generated_at: "2026-11-07T18:54:58.148637Z"
+    model_name: gemini-3.5-flash-lite
+  fairhope-state-of-the-city:
+    refined_source: 6bca11ab59fcfb26e17822ee7568ac73c7bc6af466ef718c221da1780d53e74c
+    brief: |-
+      THE CONFLICT: Councilmen Burrell, Brown, and Boone pushed for the purchase of 105 Farmable Acres in Fairhope, first rejected by the State Park Board and citizens. They made up their minds in June 2019, ordered an appraisal dated June 28, 2019, and closed on the property in December 2019 for $2.65 million. In January 2020, the City Council declared the property surplus and leased it for $9,000 annually.
+      THE DISCOVERY: Article 2 details past financial decisions and political maneuvering by the Catalyst City Council regarding the $2.65 million farmland purchase and its subsequent leasing, which diverted funds from city infrastructure.
+      THE PIVOT: Article 2 provides a historical context of questionable municipal financial decisions and political influence (Burrell, Brown, Boone) by the Catalyst Council, contrasting sharply with the unrelated public health crisis data (COVID-19 mortality/case trends) presented in Article 1, indicating a focus on local governance issues rather than the national health emergency.
+      KEY ENTITIES: Mayor Karin Wilson, Fairhope Civic Center, City Council, Burrell, Brown, Boone, Fairhope, Alabama, State Park Board
+    llm_text: Councilmen Burrell, Brown, and Boone pushed a $2.65 million farm purchase in Fairhope, diverting infrastructure funds. See how the Catalyst City Council's financial moves shaped local governance, not just national health.
+    text: Councilmen Burrell, Brown, and Boone pushed a $2.65 million farm purchase. How did those financial moves drain infrastructure funds in Fairhope?
+    widget_date: "2020-02-05"
+    generated_at: "2026-11-07T18:54:58.791694Z"
+    model_name: plugsky-lite
+  catalyst-liar:
+    refined_source: 849ffda159bfec1df0f569a2eac6f8811d2003b4a85b4939c6840b043ba2a58f
+    brief: |-
+      THE CONFLICT:
+      - Jack Burrell, Fairhope City Council President under Mayor Cant, accused of systematic deception regarding municipal infrastructure.
+      - Burrell claimed credit for sewer improvements he previously voted against.
+      - Approval of sewer plant repairs while simultaneously blocking funding for necessary transmission lines.
+      - Negotiation of a $2.65 million farmland purchase intended for recreation, which was immediately leased back for farming at $9,000 per year.
+      - Financial impact of the land purchase caused the city to move from a $1.2 million surplus to a $1.7 million deficit.
+      - Allegations of bid rigging at the Fairhope Airport and votes in favor of council "full family insurance."
+
+      THE DISCOVERY:
+      - Article 2 revealed Burrell’s undisclosed police record involving incidents with juveniles.
+      - Article 2 exposed a pattern of "CATALYST" council members only supporting projects when cameras are present or projects are already inevitable.
+      - Article 2 highlighted Burrell’s personal dismissal of face masks, stating he believes a "hard hat works better than a face mask."
+
+      THE PIVOT:
+      - Article 2 serves as the historical context for the public health crisis in Article 1 by establishing a pattern of character: it identifies a local leader (Burrell) who is habitually deceptive and who explicitly rejects the efficacy of face masks, providing the background for the life-and-death stakes of masking and truth-telling during the COVID-19 surge.
+
+      KEY ENTITIES:
+      - Jack Burrell
+      - Mayor Cant
+      - Fairhope City Council
+      - CATALYST
+      - Fairhope Airport
+    llm_text: Jack Burrell has systematically deceived Fairhope through suspicious land deals and airport bid-rigging that drained the city's surplus. His contemptuous dismissal of face masks reveals why this leader's pattern of dishonesty poses a lethal threat to your community's safety.
+    text: Jack Burrell drained city funds through land deals and airport bid rigging. Why does his contempt for public safety threaten the community?
+    widget_date: "2020-05-23"
+    generated_at: "2026-11-07T18:56:10.126935Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  catalyst-shit-creek:
+    brief: |-
+      THE CONFLICT:
+      - Article 2 ("CATALYST SHIT CREEK") is older than Article 1 ("DARK WEDNESDAY"); frame Article 2 as background/historical context for Article 1.
+      - Article 1 ("DARK WEDNESDAY") facts: In 111 days, 100,000 American souls lost to Covid-19; Covid-19 no hoax; masks and social distancing works; source link no longer exists; Alabama one of three states whose Covid-19 cases are up by 50%; "Be safe! The life you save may be your own."
+      - Past/local conflict in Article 2: The Ripp Report wrote about CATALYST for years; filed numerous complaints with Alabama Attorney General involving political corruption; received no reply.
+      - It seems that political corruption is not as important as the sewer violations.
+      - Alleged ignored complaints: Fly Creek and Publix; ADEM (Alabama Department of Environmental Management, aka Alabama Department of Environmental Maniacs) ignored years ago.
+
+      THE DISCOVERY:
+      - Article 2 showed/revealed at the time: political corruption complaints with Alabama Attorney General no reply; sewer violations/political corruption reportedly deprioritized.
+      - The irony of the lawsuit is that Fairhope has done more than any municipality in Baldwin County or the Eastern Shore, to correct sewer deficiencies.
+      - The timeline for sewer infrastructure repairs since 2016 was publicly published by the Mayor.
+      - Mayor Wilson pledged, on her campaign platform, that the sewer infrastructure would be a priority of her administration.
+      - She kept her word but the CATALYST City Council refused for two years to fund the sewer rehabilitation plan.
+      - The CATALYST Council still refuses to hire engineers and professional personnel dedicated to sewer improvements.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it documents local political corruption/sewer infrastructure refusal by CATALYST City Council and Mayor Wilson.
+      - Article 2 provides older background on Fairhope/Baldwin County sewer failures and council inaction before Article 1's Covid-19 coverage.
+      - Article 2's local conflict/context is used as background for Article 1's public-health/government failure framing.
+
+      KEY ENTITIES:
+      - The Ripp Report
+      - CATALYST / CATALYST City Council
+      - Fairhope
+      - Baldwin County
+      - Eastern Shore
+      - Alabama
+      - Alabama Attorney General
+      - ADEM / Alabama Department of Environmental Management / Alabama Department of Environmental Maniacs
+      - Mayor Wilson / Wilson
+      - Fly Creek
+      - Publix
+      - Ronan McSharry
+      - Backstory Podcast #37
+      - Lagniappe
+      - Covid-19 / American public / Alabama Covid-19 cases
+    llm_text: 'Before The Ripp Report''s ''DARK WEDNESDAY'' covered Alabama''s Covid-19 failures, its older ''CATALYST SHIT CREEK'' piece framed the CATALYST City Council and Mayor Wilson. The smoking gun: years of Ripp complaints to Alabama''s Attorney General got no reply, while ADEM ignored Fly Creek and Publix sewer violations.'
+    text: 'Before The Ripp Report''s ''DARK WEDNESDAY'' covered Alabama''s Covid-19 failures, its older ''CATALYST SHIT CREEK'' piece framed the CATALYST City Council and Mayor Wilson. The smoking gun: years of Ripp complaints to Alabama''s Attorney General got no reply, while ADEM ignored Fly Creek and Publix sewer violations.'
+    widget_date: "2020-05-22"
+    generated_at: "2026-11-07T18:57:04.303232Z"
+    model_name: recursive/flint-v1.0:free

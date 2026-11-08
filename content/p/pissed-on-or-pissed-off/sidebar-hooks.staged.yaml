@@ -1,0 +1,112 @@
+metadata:
+  generated_at: "2026-11-07T19:32:04.218343Z"
+  generator_version: 1.0.0
+  post_slug: pissed-on-or-pissed-off
+  main_date: "2020-04-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-fairhope-jester:
+    refined_source: 8dda704f7bd317339f46a05abc6316b2ba3e2d034fe0f1ee7fb4d8060ca074a6
+    brief: |-
+      THE CONFLICT: Misuse of taxpayer funds and corruption by the CATALYST City Council in Fairhope/Baldwin County, including the $2.65 million recreation land purchase and the giveaway of a $13 million triangle property.
+      THE DISCOVERY: In 2016 (historical context), Councilman Brown, Burrell, and Boone spent $2.65 million on recreation land which was leased for only $9,000 per year, necessitating a $2.65 million budget adjustment during the pandemic period.
+      THE PIVOT: Article 2 provides the foundational evidence of the CATALYST council's pattern of financial self-interest (e.g., $2.65M land deal, $13M property) which Article 1 uses to frame the current curfew debate as a political distraction from ongoing corruption (e.g., Burrell's bid-rigging attempt, Brown's lucrative contracts).
+      KEY ENTITIES: Fairhope City Council, CATALYST, Council President Burrell, Councilman Brown, Council Boone, Scott Boone, Kevin Boone, Angelo Corte, Mayor Wilson, Alabama Attorney General, USMC combat veteran, Conyers, Fly Creek apartments.
+    llm_text: Fairhope’s CATALYST City Council misused $2.65M on recreation land and gave away a $13M triangle property. Don't let the curfew debate distract you; these financial patterns show ongoing corruption involving Council President Burrell and Councilman Brown.
+    text: Fairhope council members spent millions on recreation land and gave away a thirteen million dollar property. Curfew debates hide these clear financial patterns and ongoing corruption claims.
+    widget_date: "2020-04-08"
+    generated_at: "2026-11-07T19:30:34.529524Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shelter-in-place:
+    refined_source: a23a0e5ecd0c1a945a74d433fe5565d6a1009e115c8216c872fafcf68a55feac
+    brief: |-
+      THE CONFLICT: Fairhope City Council is accused of corruption, including Council President Burrell using tax dollars to derail bid-rigging allegations on the Airport Board, Councilman Brown acquiring lucrative contracts with a pending complaint from the Alabama Attorney General, and the Boone family (Scott and Kevin) attempting political control of Fairhope/Baldwin County. The council also spent $2.65 million on recreation land which was then leased for $9,000 annually.
+      THE DISCOVERY: The Mayor of Fairhope proactively wrote to the Governor urging a statewide "Shelter in Place" order because other Baldwin County municipalities (Bay Minette, Orange Beach) were handling the virus independently and failing to cooperate.
+      THE PIVOT: Article 2 establishes that the Mayor advocated for necessary, proactive public health measures early in the pandemic, contrasting with Article 1's criticism of the Council for politicizing the virus, adopting a state-wide 10pm-5am curfew, and demonstrating general ineptitude and corruption.
+      KEY ENTITIES: Fairhope; Baldwin County; Council President Burrell; Councilman Brown; Councilman Boone (Scott/Kevin); Mayor of Fairhope; Councilman Conyers; Alabama Attorney General; USMC combat veteran; Airport Authority.
+    llm_text: Fairhope Council President Burrell faces corruption claims, including mishandling $2.65M and ignoring Attorney General complaints against Councilman Brown. See how the Mayor proactively managed public health early on, contrasting sharply with the Council's political failures.
+    text: Fairhope Council President Burrell faces claims of mishandling funds and ignoring complaints against Councilman Brown. The Mayor handled public health early while the Council played politics.
+    widget_date: "2020-04-03"
+    generated_at: "2026-11-07T19:31:48.845839Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  economic-virus:
+    refined_source: 0a00be58f542e0871ba2c8519fb1657ddcb746bc5f765d5c27b144857119f74d
+    brief: |-
+      THE CONFLICT: None explicitly detailed in a past event with specific names/dates, only references to 2016 and a prior Federal Court loss.
+      THE DISCOVERY: Alabama was dead last in response time for COVID-19, with global tourism and airline industries facing billions in economic challenges in 2020.
+      THE PIVOT: Article 2 establishes the global and economic reality of the pandemic (2020 context) against which Article 1 critiques the Fairhope City Council's handling of the virus (curfew, $2.65M budget cut), suggesting the pandemic was politicized to distract from corruption.
+      KEY ENTITIES: Fairhope City Council, Burrell (Council President), Councilman Brown, Councilman Boone, Scott Boone, Kevin Boone, Mayor and Councilman Conyers, Alabama Attorney General, CATALYST, City of Fauxhope, Mobile.
+    llm_text: Fairhope's City Council cut $2.65M while Alabama ranked dead last in COVID response. See how the pandemic potentially masked corruption involving Council President Burrell and others.
+    text: Fairhope cut two million dollars in spending while Alabama ranked last in COVID response. The pandemic gave local leaders cover to hide corrupt money moves from the public.
+    widget_date: "2020-03-21"
+    generated_at: "2026-11-07T19:29:30.519067Z"
+    model_name: plugsky-lite
+  catalyst-2:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council labeled by author as "the most corrupt and inept council to ever serve Fairhope."
+      - Council voted themselves a raise and FULL FAMILY insurance; none of the city employees enjoy same.
+      - Council wound up in Federal Court for refusing to let a USMC combat veteran speak at a council meeting; council lost.
+      - Council paid council President Burrell’s attorney fees every time they needed to extract his foot from his mouth.
+      - Burrell used Airport Authority and tax dollars to hire lawyers to investigate the whistle blower; never supplied any report.
+      - Burrell used taxpayer money to derail allegations of his involvement in bid-rigging while serving on the Airport Board.
+      - Burrell has a police record with two sealed juvenile charges that he never exposed prior to the last election.
+      - Councilman Brown has enjoyed lucrative contracts acquired by using elected position for personal gain; pending complaint on desk of Alabama Attorney General.
+      - Council Boone has more LLC's than a red head has freckles; Scott Boone is Kevin Boone’s son who runs CATALYST; family connection fueled CATALYST attempt to political control Fairhope and Baldwin County.
+      - The three B's spent 2.65 million for recreation land that "only they" wanted; then leased it for 9 thousand dollars a year for farmland; first analysis of budget cuts due to coronavirus is 2.65 million.
+      - Curfew adopted across the state, including Mobile: 10pm to 5am, meant to mitigate a virus known little about.
+      - Referenced historical starting point: 2016.
+
+      THE DISCOVERY:
+      - Article 2 (CATALYST) is older than Article 1; served as background/historical context.
+      - Article 2 revealed prior council actions and history prior to Article 1's current allegations.
+      - Article 2 provided context on the council's past behavior before Article 1's current framing.
+
+      THE PIVOT:
+      - Article 2 is the 'smoking gun' or key context for Article 1 because it established the historical foundation/background for the corruption allegations described in Article 1.
+
+      KEY ENTITIES:
+      - Fairhope City Council
+      - Burrell (Council President)
+      - Brown (Councilman)
+      - Boone (Councilman; Scott Boone/Kevin Boone; CATALYST)
+      - Conyers (Mayor and Councilman)
+      - CATALYST
+      - Baldwin County
+      - Mobile, Alabama
+      - Alabama Attorney General
+      - USMC combat veteran
+      - Backstory Podcast
+      - Rippreport.com
+      - Lowery, Wilters
+    llm_text: Fairhope's three B's spent 2.65 million on recreation land they never wanted, then leased it for farmland. Council President Burrell keeps sticking his foot in his mouth again, and readers should care how Fairhope's most corrupt council defies the law.
+    text: Fairhope's three B's spent 2.65 million on recreation land they never wanted, then leased it for farmland. Council President Burrell keeps sticking his foot in his mouth again, and readers should care how Fairhope's most corrupt council defies the law.
+    widget_date: "2020-03-13"
+    generated_at: "2026-11-07T19:29:53.483311Z"
+    model_name: recursive/flint-v1.0:free
+  danger-zone:
+    brief: "THE CONFLICT: \n- The Fairhope City Council (specifically the \"Three B's\" and the CATALYST-backed faction) engaged in financial mismanagement, corruption, and self-dealing, costing the city millions.\n- Specific events include: \n  - The council ended up in Federal Court and lost after refusing to let a USMC combat veteran speak at a council meeting.\n  - Taxpayer money was used to pay Council President Burrell’s attorney fees and to hire lawyers to investigate a whistleblower regarding bid-rigging allegations on the Airport Board (with no report ever supplied).\n  - Council President Burrell concealed two sealed juvenile charges prior to the election.\n  - Councilman Brown acquired lucrative contracts by using his elected position for personal gain, resulting in a pending complaint with the Alabama Attorney General.\n  - The council spent $2.65 million on recreation land that \"only they\" wanted, then leased it out for just $9,000 a year as farmland, matching the exact amount of the city's first coronavirus budget cuts.\n  - The council voted themselves a pay raise and full family insurance that regular city employees do not receive.\n  - Politicians and developers (specifically involving former Mayor Kant, the CATALYST City Council, and property owner/CATALYST supporter Angelo Corte) created severe public safety hazards at the intersection of Highway 98 and Parker Road through backroom dealings.\n\nTHE DISCOVERY (Background/Context from Article 2 - \"DANGER ZONE\"):\n- Article 2 (older context) documented the dangerous conditions at Highway 98 and Parker Road affecting motorists.\n- It exposed the direct collusion between elected politicians and developers—specifically naming former Fairhope Mayor Kant, the CATALYST Fairhope City Council, and property owner/CATALYST supporter Angelo Corte—proving that development decisions were being prioritized over public safety and infrastructure integrity.\n\nTHE PIVOT:\n- Article 2 serves as the smoking gun because it provides empirical, localized proof of the exact developer-politician bedfellowship and backroom deals that Article 1 indicts on a broader scale. While Article 1 outlines massive financial waste (like the $2.65 million land deal) and general corruption by the CATALYST council, Article 2 catches them red-handed in a specific developer-driven conspiracy (involving Mayor Kant and Angelo Corte) that directly jeopardizes citizens' physical safety on Highway 98 and Parker Road.\n\nKEY ENTITIES:\n- Burrell (Council President / Airport Board member)\n- Brown (Councilman)\n- Boone (Councilman)\n- Scott Boone\n- Kevin Boone\n- CATALYST (Political organization/faction)\n- Can’t / Kant (Former Fairhope Mayor)\n- Angelo Corte (Property owner and CATALYST supporter)\n- Conyers (Councilman / Pro-active Mayor and Council supporter)"
+    llm_text: Fairhope Councilmen Burrell and Brown traded public trust for personal gain, wasting millions in taxpayer funds on shady land deals and legal cover-ups. Read the shocking evidence exposing how this CATALYST faction and developer Angelo Corte jeopardized your safety for backroom profit.
+    text: Fairhope Councilmen Burrell and Brown traded public trust for personal gain, wasting millions in taxpayer funds on shady land deals and legal cover-ups. Read the shocking evidence exposing how this CATALYST faction and developer Angelo Corte jeopardized your safety for backroom profit.
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T19:29:27.824274Z"
+    model_name: gemini-3.5-flash-lite
+  survey:
+    brief: "THE CONFLICT: The \"CATALYST\" Fairhope City Council (featuring Council President Burrell, Councilman Brown, and Council Boone, son of CATALYST runner Kevin Boone) spent $2.65 million of taxpayer money to purchase recreation land that only they wanted, and within weeks—having no development money and calling it \"surplus\"—leased it out as farmland for just $9,000 a year, an amount that barely covers the interest. Additionally, the council cost the city millions through poor decisions, used taxpayer funds to hire lawyers to investigate a whistleblower regarding Burrell's alleged bid-rigging on the Airport Board without ever releasing a report, paid Burrell's attorney fees, and ended up in Federal Court (and lost) for refusing to let a USMC combat veteran speak at a meeting.\n\nTHE DISCOVERY: The older background report from the State of the City highlights a stark contrast: despite the council's obstruction of the Mayor, city employees and staff successfully paid Fairhope's city debt in full by June 2019, demonstrating that financial improvements and operational success were driven by the Mayor, superintendents, and staff rather than the council.\n\nTHE PIVOT: The older background context serves as the 'smoking gun' because it exposes the direct timeline and hypocrisy of the CATALYST council's fiscal irresponsibility—specifically, pushing through the disastrous, self-serving $2.65 million farmland purchase right in the middle of the city's budget process while the administration was successfully paying off city debt, directly undermining municipal progress for a \"good ole boy deal.\"\n\nKEY ENTITIES: \n- Burrell (Council President / Airport Board member)\n- Brown (Councilman)\n- Scott Boone (Councilman)\n- Kevin Boone (Runs CATALYST)\n- Mayor of Fairhope\n- Conyers (Councilman)"
+    llm_text: While city staff wiped out Fairhope’s debt in 2019, Council President Burrell and Councilmen Brown and Boone forced a disastrous $2.65 million land buy, leased it as cheap farmland for pennies, and buried whistleblower investigations. Read why taxpayers are footing the bill for this good ole boy deal.
+    text: While city staff wiped out Fairhope’s debt in 2019, Council President Burrell and Councilmen Brown and Boone forced a disastrous $2.65 million land buy, leased it as cheap farmland for pennies, and buried whistleblower investigations. Read why taxpayers are footing the bill for this good ole boy deal.
+    widget_date: "2020-02-08"
+    generated_at: "2026-11-07T19:29:33.043497Z"
+    model_name: gemini-3.5-flash-lite
+  bar-stool-continued:
+    refined_source: 32f55779ef043f5cae1a163f4ed50ca2c7c870614ff65a95ffb0399710402866
+    brief: |-
+      THE CONFLICT: Assault case involving McSherry; scheduled court date January 27 (specific year not provided in context).
+      THE DISCOVERY: Article 2 reveals past issues with justice system delays and obstruction regarding an assault case involving McSherry.
+      THE PIVOT: Article 2 establishes historical context of judicial/procedural delays in Fairhope, contrasting with Article 1's accusations of systemic council corruption and misuse of public funds.
+      KEY ENTITIES: Fairhope Municipal Court, City Attorney, McSherry, James Pittman, Circuit Court, Burrell, Councilman Brown, Council Boone, Scott Boone, Kevin Boone, Mayor and Councilman Conyers, City of Fauxhope, Alabama
+    llm_text: McSherry's assault case faces delays in Fairhope Municipal Court, highlighting deeper issues than just council corruption. See how procedural snags complicate justice while City Council members misuse public funds.
+    text: Ronan McSharry's assault case drags on in Fairhope court while deeper scandals grow. City leaders stall justice while council members misuse public funds on dubious projects.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T19:29:37.080715Z"
+    model_name: plugsky-lite

@@ -5,7 +5,56 @@ metadata:
   main_date: "2024-01-29"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  go-to-hell-ethics:
+    refined_source: 8e494db4bec02eaf4994f149316e6b8180e49d6c94378b49ee3bfa43391cc94f
+    brief: |-
+      THE CONFLICT: Baldwin County Legislative Delegation approved revised lease agreement with Mayor Bob Wills on an unspecified Tuesday (prior to December 2027).
+      THE DISCOVERY: Brad Hicks (Baldwin Commission Attorney) stated no ethics violation existed regarding Mayor Bob Wills renting/sharing space with the Baldwin County Legislative Delegation.
+      THE PIVOT: Widget Article establishes the function and mandate of the Alabama Ethics Commission (created 1973, Act No. 1056) and the definition of a conflict of interest, providing the regulatory framework that Tom Albritton (Executive Director) ignored while serving as trustee of the Mabel Amos Trust.
+      KEY ENTITIES: Mayor Bob Wills, Brad Hicks, Baldwin County Legislative Delegation, Alabama Ethics Commission, Tom Albritton, Mabel Amos Trust, Steve Marshall (Attorney General), Kay Ivy (Governor).
+    llm_text: Mayor Bob Wills' lease with the Baldwin County Legislative Delegation avoids an ethics violation, but how does the Alabama Ethics Commission define conflict? Read how this framework relates to Tom Albritton's alleged trust issues.
+    text: Mayor Bob Wills signed a lease with the Baldwin County Legislative Delegation to avoid ethics rules. How does Alabama Ethics Commission Director Tom Albritton explain his own trust fund payouts?
+    widget_date: "2023-01-28"
+    generated_at: "2026-11-06T18:18:56.313524Z"
+    model_name: plugsky-lite
+  veterans-day-in-alabama:
+    brief: |-
+      THE CONFLICT: Between 2013 and 2021, over $3.2 million in scholarship funds from the Mabel Amos Trust was distributed to judges, bankers, lawyers, politicians, and friends of the trustees instead of deserving, qualified students. Tom Albritton served as a trustee of the Mabel Amos Trust while simultaneously holding the position of Executive Director of the Alabama Ethics Commission. Plaintiffs in *Lawrence v. State* and civil litigation demanded the release of the recipient list, but the list has been hidden, with the Alabama Bar and Tom Albritton reportedly wanting it sealed. Alabama Attorney General Steve Marshall’s office intervened in the civil litigation via an oversight capacity over charitable trusts, stating in a November hearing that a deal had been reached with Regions Bank to make the trust whole.
+
+      THE DISCOVERY: [Note: Widget Article 2 ("Veterans Day In Alabama") serves as historical background/context, while the investigative details establishing the timeline and events are drawn from the foundational record referenced in Article 1]. Historical tracking via *Lawrence v. State* and reporting by the *Lagniappe* paper revealed the mechanics of the Mabel Amos Trust distribution and the involvement of the Attorney General's office, exposing that scholarship funds were funneled to privileged elites between 2013 and 2021 while Tom Albritton served concurrently as a trust trustee and the state's top ethics official.
+
+      THE PIVOT: Article 2/historical background provides the baseline timeline (2013-2021 payouts and the November hearing with the Attorney General's office) that proves Tom Albritton's dual role. It is the smoking gun because it directly links Albritton's administration of the $3.2 million Mabel Amos Trust to his concurrent role as Executive Director of the Alabama Ethics Commission—where he routinely dismissed citizen ethics complaints that likely involved the exact same network of judges, politicians, and lawyers who received the scholarship money.
+
+      KEY ENTITIES:
+      - Tom Albritton (Executive Director, Alabama Ethics Commission / Trustee, Mabel Amos Trust)
+      - Steve Marshall (Alabama Attorney General)
+      - Amanda Priest (Attorney General Communications Director)
+      - Cameron Mixon (Attorney General Communications Director)
+      - Kay Ivey (Governor of Alabama)
+      - Mabel Amos Trust
+      - Regions Bank
+      - Lagniappe paper (Mobile)
+      - Alabama Bar
+      - *Lawrence v. State*
+    llm_text: While Tom Albritton ran the Alabama Ethics Commission, the Mabel Amos Trust funneled 3.2 million dollars in scholarships to elites instead of students. Read how this corruption protects the powerful and why taxpayers demand accountability now.
+    text: While Tom Albritton ran the Alabama Ethics Commission, the Mabel Amos Trust funneled 3.2 million dollars in scholarships to elites instead of students. Read how this corruption protects the powerful and why taxpayers demand accountability now.
+    widget_date: "2022-11-04"
+    generated_at: "2026-11-06T18:18:57.850466Z"
+    model_name: gemini-3.5-flash-lite
+  alabama-black-hole:
+    refined_source: 56470d84ca7c5e35e3e72be866e5e306f8244271c17fbf3d1c927d36df56896b
+    brief: |-
+      THE CONFLICT: Complaint against Executive Director of Ethics Tom Albritton filed on July 16, 2021, to Special Prosecution Office, Clark Morris, regarding public corruption involving the Mabel Amos Trust.
+      THE DISCOVERY: Plaintiffs demand public names of those receiving over $3.2 million in scholarships between 2013 and 2021 from the Mabel Amos Trust.
+      THE PIVOT: Article 2 established Albritton's failure to disclose being a trustee and receiving $120,000 in spared family expense, and detailed the obfuscation (listing schools instead of students) used by trustees and Regions Bank in 2014, context for the current demand for the list in Article 1.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Steve Marshall, Clark Morris, Regions Bank, Lawrence v. State, Francis Paul Ripp, Cynthia Raulston, Circuit Judge Ben Bowden, Governor Kay Ivy.
+    llm_text: Tom Albritton faces corruption claims over the Mabel Amos Trust, hiding $120k and obfuscating $3.2M in scholarships. See who got the money and why this matters to Clark Morris and local oversight.
+    text: Tom Albritton hid $120,000 and obfuscated $3.2 million in scholarships from the Mabel Amos Trust. Clark Morris and local watchdogs need to explain where all that student money went.
+    widget_date: "2022-10-21"
+    generated_at: "2026-11-06T18:19:05.017042Z"
+    model_name: plugsky-lite
   no-justice:
+    refined_source: 60b33d89b3e0abf3922ac25985fa91e56ade1e458f510aba7a5bcddf384f453c
     brief: |-
       THE CONFLICT:
       1. 2003: Murray Lawrence Jr. was sentenced to life without parole for the murder of Brandon Hastings in Baldwin County.
@@ -33,14 +82,16 @@ hooks:
       10. $3.2 Million (Scholarship funds)
       11. Haygood Kristi Deason (Assistant Baldwin County District Attorney)
     llm_text: Judge Robert Wilters and Hoss Mack suppressed a key autopsy in 2003, leading to Murray Lawrence Jr.'s wrongful conviction for Brandon Hastings. This historical corruption mirrors the Mabel Amos Trust's $3.2 million in scholarships given to elite figures through Tom Albritton.
+    text: Judge Robert Wilters and Sheriff Hoss Mack suppressed a 2003 autopsy report during Murray Lawrence Jr.'s murder trial. Meanwhile, Tom Albritton funneled Mabel Amos Trust scholarships to elite families.
     widget_date: "2024-01-26"
     generated_at: "2026-11-06T18:19:33.475391Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deaf-ears:
+    refined_source: 50f2e81273a2ecdb128412982cc3236a35780ced4df575e30b2ac64f63c988e6
     brief: |-
       THE CONFLICT:
       Wrongful conviction of Murray “Bubba” Lawrence occurred in 2005, linked to political corruption in Baldwin County.
-      Sheriff Hoss Mack, District Attorney Robert Wilters, and retired prosecutor David Whetstone allegedly colluded to withhold vital exculpatory evidence (Coroner's Report) from defense attorney Willy Huntley.
+      Sheriff Hoss Mack, District Attorney Robert Wilters, and retired prosecutor David Whetstone colluded to withhold vital exculpatory evidence (Coroner's Report) from defense attorney Willy Huntley.
 
       THE DISCOVERY:
       In September 2022, The Ripp Report filed complaints with the Attorney General Steve Marshall’s office regarding the Baldwin County corruption and the wrongful conviction.
@@ -61,14 +112,15 @@ hooks:
       Willy Huntley (Defense attorney for Murray Lawrence)
       Kay Ivy (Governor)
       Amanda Priest / Cameron Mixon (AG Communications)
-    llm_text: Murray "Bubba" Lawrence was wrongly convicted in 2005 after Sheriff Hoss Mack and DA Robert Wilters allegedly withheld exculpatory evidence. Does Tom Albritton's role as a trustee compromise the Alabama Ethics Commission, allowing powerful figures to evade accountability?
+    llm_text: Murray "Bubba" Lawrence was wrongly convicted in 2005 after Sheriff Hoss Mack and DA Robert Wilters withheld exculpatory evidence. Does Tom Albritton's role as a trustee compromise the Alabama Ethics Commission, allowing powerful figures to evade accountability?
+    text: Sheriff Hoss Mack and DA Robert Wilters hid evidence to convict Murray "Bubba" Lawrence in 2005. Does Tom Albritton's role as a trustee stop the Alabama Ethics Commission from holding powerful people accountable?
     widget_date: "2024-01-21"
     generated_at: "2026-11-06T18:20:50.632805Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stealing-from-kids:
     brief: |-
       THE CONFLICT:
-      - Allegation: stealing $10 from Wal-Mart = jail; stealing $3.2 million and distributing funds to Judges, Bankers, Lawyers, and Politicians via the Mabel Amos Trust allegedly could get away with it in Alabama.
+      - Allegation: stealing $10 from Wal-Mart = jail; stealing $3.2 million and distributing funds to Judges, Bankers, Lawyers, and Politicians via the Mabel Amos Trust could get away with it in Alabama.
       - Tom Albritton identified as Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Trust.
       - Mabel Amos Trust scholarship fund: more than $3.2 million in scholarships distributed between 2013 and 2021.
       - Plaintiffs against the fund and Regions demanded the names of those who received more than $3.2 million in scholarships be made public.
@@ -82,7 +134,7 @@ hooks:
       - Quote from Mathews: "This attorney general can not be trusted to represent the best interest of the fiduciaries who are financially needy children in the state of Alabama," Mathews said. "This is going to be the sweetest settlement you ever saw."
       - Judge Johnny Hardwick, overseeing the case, had not ruled on almost any of the roughly 70 motions filed so far; had ruled on motions in or even completed civil cases assigned to him around the same time; this case getting zero love, possibly because the judge thought it would settle or because more is going on.
       - Widget flagged possible whitewashing of criminal activity in final settlement agreement and lack of transparency or accountability.
-      - Political maneuvering allegedly going on behind the scenes.
+      - Political maneuvering going on behind the scenes.
 
       THE PIVOT:
       - Article 2, older/background, covers settlement negotiations, Judge Hardwick, and Mathews' quote surrounding the alleged $3.2 million trust theft.
@@ -106,7 +158,8 @@ hooks:
       - Google Lagniappe - Mobile paper.
       - Lowery - include.
       - Wilters - include.
-    llm_text: Tom Albritton allegedly stole $3.2 million from Alabama's Mabel Amos Trust, and the state still wants the scholarship list public. The Ripp Report says Attorney General Steve Marshall's office hid a deal that could let Regions and Albritton escape accountability.
+    llm_text: Tom Albritton stole $3.2 million from Alabama's Mabel Amos Trust, and the state still wants the scholarship list public. The Ripp Report says Attorney General Steve Marshall's office hid a deal that could let Regions and Albritton escape accountability.
+    text: Tom Albritton stole $3.2 million from Alabama's Mabel Amos Trust, and the state still wants the scholarship list public. The Ripp Report says Attorney General Steve Marshall's office hid a deal that could let Regions and Albritton escape accountability.
     widget_date: "2023-11-04"
     generated_at: "2026-11-06T18:19:23.763033Z"
     model_name: recursive/flint-v1.0:free
@@ -124,7 +177,7 @@ hooks:
       - It documented how the Alabama Bar, the judiciary (Judge Johnny Hardwick stalling motions), and state officials actively enabled the cover-up and fought to keep the recipient list hidden from the public.
 
       THE PIVOT:
-      - Article 2 (the Lagniappe newsletter from July 15, 2023) serves as the smoking gun because it maps out the exact origins of the $3.2 million scandal, proves that Tom Albritton engaged in direct self-dealing while serving as the Executive Director of the Alabama Ethics Commission, and documents the collusion between AG Steve Marshall and Regions Bank to seal "The List" and protect the corrupt political establishment.
+      - Article 2 (the Lagniappe newsletter from July 15, 2023) serves as the smoking gun because it maps out the exact origins of the $3.2 million scandal, shows that Tom Albritton engaged in direct self-dealing while serving as the Executive Director of the Alabama Ethics Commission, and documents the collusion between AG Steve Marshall and Regions Bank to seal "The List" and protect the corrupt political establishment.
 
       KEY ENTITIES:
       - Tom Albritton (Executive Director of the Alabama Ethics Commission / Albritton Law Firm trustee)
@@ -140,49 +193,7 @@ hooks:
       - Rob Holbert (Lagniappe author)
       - Jed Clampit (Coneuch County landowner reference)
     llm_text: How did millions in oil wealth meant for needy students end up funding elite politicians and Tom Albritton’s kids instead? Read the smoking-gun Lagniappe report exposing how AG Steve Marshall and Regions Bank conspired to hide the corruption and protect the establishment.
+    text: How did millions in oil wealth meant for needy students end up funding elite politicians and Tom Albritton’s kids instead? Read the smoking-gun Lagniappe report exposing how AG Steve Marshall and Regions Bank conspired to hide the corruption and protect the establishment.
     widget_date: "2023-07-21"
     generated_at: "2026-11-06T18:18:52.630606Z"
     model_name: gemini-3.5-flash-lite
-  go-to-hell-ethics:
-    brief: |-
-      THE CONFLICT: Baldwin County Legislative Delegation approved revised lease agreement with Mayor Bob Wills on an unspecified Tuesday (prior to December 2027).
-      THE DISCOVERY: Brad Hicks (Baldwin Commission Attorney) stated no ethics violation existed regarding Mayor Bob Wills renting/sharing space with the Baldwin County Legislative Delegation.
-      THE PIVOT: Widget Article establishes the function and mandate of the Alabama Ethics Commission (created 1973, Act No. 1056) and the definition of a conflict of interest, providing the regulatory framework that Tom Albritton (Executive Director) allegedly ignored while serving as trustee of the Mabel Amos Trust.
-      KEY ENTITIES: Mayor Bob Wills, Brad Hicks, Baldwin County Legislative Delegation, Alabama Ethics Commission, Tom Albritton, Mabel Amos Trust, Steve Marshall (Attorney General), Kay Ivy (Governor).
-    llm_text: Mayor Bob Wills' lease with the Baldwin County Legislative Delegation avoids an ethics violation, but how does the Alabama Ethics Commission define conflict? Read how this framework relates to Tom Albritton's alleged trust issues.
-    widget_date: "2023-01-28"
-    generated_at: "2026-11-06T18:18:56.313524Z"
-    model_name: plugsky-lite
-  veterans-day-in-alabama:
-    brief: |-
-      THE CONFLICT: Between 2013 and 2021, over $3.2 million in scholarship funds from the Mabel Amos Trust was distributed to judges, bankers, lawyers, politicians, and friends of the trustees instead of deserving, qualified students. Tom Albritton served as a trustee of the Mabel Amos Trust while simultaneously holding the position of Executive Director of the Alabama Ethics Commission. Plaintiffs in *Lawrence v. State* and civil litigation demanded the release of the recipient list, but the list has been hidden, with the Alabama Bar and Tom Albritton reportedly wanting it sealed. Alabama Attorney General Steve Marshall’s office intervened in the civil litigation via an oversight capacity over charitable trusts, stating in a November hearing that a deal had been reached with Regions Bank to make the trust whole.
-
-      THE DISCOVERY: [Note: Widget Article 2 ("Veterans Day In Alabama") serves as historical background/context, while the investigative details establishing the timeline and events are drawn from the foundational record referenced in Article 1]. Historical tracking via *Lawrence v. State* and reporting by the *Lagniappe* paper revealed the mechanics of the Mabel Amos Trust distribution and the involvement of the Attorney General's office, exposing that scholarship funds were funneled to privileged elites between 2013 and 2021 while Tom Albritton served concurrently as a trust trustee and the state's top ethics official.
-
-      THE PIVOT: Article 2/historical background provides the baseline timeline (2013-2021 payouts and the November hearing with the Attorney General's office) that proves Tom Albritton's dual role. It is the smoking gun because it directly links Albritton's administration of the $3.2 million Mabel Amos Trust to his concurrent role as Executive Director of the Alabama Ethics Commission—where he routinely dismissed citizen ethics complaints that likely involved the exact same network of judges, politicians, and lawyers who received the scholarship money.
-
-      KEY ENTITIES:
-      - Tom Albritton (Executive Director, Alabama Ethics Commission / Trustee, Mabel Amos Trust)
-      - Steve Marshall (Alabama Attorney General)
-      - Amanda Priest (Attorney General Communications Director)
-      - Cameron Mixon (Attorney General Communications Director)
-      - Kay Ivey (Governor of Alabama)
-      - Mabel Amos Trust
-      - Regions Bank
-      - Lagniappe paper (Mobile)
-      - Alabama Bar
-      - *Lawrence v. State*
-    llm_text: While Tom Albritton ran the Alabama Ethics Commission, the Mabel Amos Trust funneled 3.2 million dollars in scholarships to elites instead of students. Read how this corruption protects the powerful and why taxpayers demand accountability now.
-    widget_date: "2022-11-04"
-    generated_at: "2026-11-06T18:18:57.850466Z"
-    model_name: gemini-3.5-flash-lite
-  alabama-black-hole:
-    brief: |-
-      THE CONFLICT: Complaint against Executive Director of Ethics Tom Albritton filed on July 16, 2021, to Special Prosecution Office, Clark Morris, regarding public corruption involving the Mabel Amos Trust.
-      THE DISCOVERY: Plaintiffs demand public names of those receiving over $3.2 million in scholarships between 2013 and 2021 from the Mabel Amos Trust.
-      THE PIVOT: Article 2 established Albritton's failure to disclose being a trustee and receiving $120,000 in spared family expense, and detailed the obfuscation (listing schools instead of students) used by trustees and Regions Bank in 2014, context for the current demand for the list in Article 1.
-      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Steve Marshall, Clark Morris, Regions Bank, Lawrence v. State, Francis Paul Ripp, Cynthia Raulston, Circuit Judge Ben Bowden, Governor Kay Ivy.
-    llm_text: Tom Albritton faces corruption claims over the Mabel Amos Trust, hiding $120k and obfuscating $3.2M in scholarships. See who got the money and why this matters to Clark Morris and local oversight.
-    widget_date: "2022-10-21"
-    generated_at: "2026-11-06T18:19:05.017042Z"
-    model_name: plugsky-lite

@@ -1,0 +1,165 @@
+metadata:
+  generated_at: "2026-11-08T01:36:29.135512Z"
+  generator_version: 1.0.0
+  post_slug: alabama-first-in-political-corruption
+  main_date: "2019-06-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  three-strikes:
+    brief: |-
+      THE CONFLICT: Mike Hubbard, Former Speaker of the House, was convicted of 12 felonies three years ago; he is appealing to the Alabama Supreme Court and has not served jail time.
+      THE DISCOVERY: On May 29th, the Fairhope City Council meeting revealed political dysfunction, including the proposal by Council President Burrell for a Conservation Easement Agreement involving the Dyas/Triangle property (109 acres, valued at $18 million plus).
+      THE PIVOT: Article 2 demonstrates local political maneuvering (Council President Burrell and Diana Brewer advancing developer interests against citizen input) which exemplifies the state-level pattern of unaccountable political corruption described in Article 1 (Hubbard’s conviction and the failure of the Alabama Ethics Commission).
+      KEY ENTITIES: Mike Hubbard, Alabama Supreme Court, Council President Burrell, Diana Brewer, Weeks Bay Foundation, Inc., Councilman Boone, Councilman Brown, Arthur Corte, Alabama Ethics Commission
+    llm_text: Mike Hubbard faced conviction for 12 felonies, exposing deep state corruption. Now, Fairhope Council President Burrell and Diana Brewer push an $18M Dyas/Triangle easement, proving local politics mirror this unaccountable system.
+    widget_date: "2019-06-01"
+    generated_at: "2026-11-08T01:33:46.553089Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gulf-shores-lawsuit-2020:
+    brief: |-
+      THE CONFLICT:
+      Gulf Shores residents filed a lawsuit regarding an apartment complex approved by the City of Gulf Shores government over one year prior to the articles; Pete Sims represented impacted citizens.
+
+      THE DISCOVERY:
+      The Widget Article shows citizen action against local government approval in Gulf Shores predates and parallels concerns about official misconduct in the state.
+
+      THE PIVOT:
+      Article 2 demonstrates local resident power successfully challenging government decisions (apartment approval) because officials initially dismissed citizen objections, mirroring the systemic lack of accountability suggested by the political corruption claims in Article 1.
+
+      KEY ENTITIES:
+      Pete Sims
+      City of Gulf Shores
+      Mike Hubbard
+      Alabama Supreme Court
+      Alabama Ethics Commission
+      Alabama Bar Association
+      Judicial Committee
+      Gulf Shores
+      Fairhope
+      2020
+    llm_text: Pete Sims helped Gulf Shores residents challenge the City's apartment approval, showing local power works. This fight mirrors state misconduct concerns readers should track now.
+    widget_date: "2019-05-29"
+    generated_at: "2026-11-08T01:32:55.914304Z"
+    model_name: plugsky-lite
+  alabama-national-news:
+    brief: |-
+      THE CONFLICT:
+      - Alabama is identified as first in political corruption and last in education.
+      - Mike Hubbard, Former Speaker of the House, was convicted of 12 felonies three years ago.
+      - Mike Hubbard has not served one day in jail.
+      - Mike Hubbard is appealing to the Alabama Supreme Court.
+      - Mike Hubbard’s defense is that the laws he helped write are too confusing.
+      - If Mike Hubbard does not go to jail, Alabama will maintain the U.S. Title as the Most Political Corrupt State and Education will share the title.
+
+      THE DISCOVERY:
+      - Article 2, titled ALABAMA NATIONAL NEWS, reported Alabama is capturing headlines in today’s national news.
+      - Article 2 reported first: conditions of the Alabama Prison System.
+      - Article 2 reported second: Alabama’s National ranking in Education with sad but not surprising results: DEAD LAST.
+      - Article 2 stated Education is a sham in Alabama and blame lies squarely on politicians and voters.
+      - Article 2 stated for twenty years Alabama talked about an education lottery but there was not one word about nor one dime toward education.
+      - Article 2 stated politicians ignored education through lies and manipulation, instead convincing voters that salvation lies in self-imposed property taxes.
+      - Article 2 stated teachers donate time and money in fundraisers for school supplies while parents are constantly asked to financially chip in.
+      - Article 2 stated Baldwin County “portable” campuses will be a norm.
+      - Article 2 stated the third Alabama headline is Abortion. Alabama is last in education and first in worst prison system in the U.S., and now wants to also be first in its opposition to Abortion.
+      - Article 2 stated even incest and rape or being a minor are not considered as factors for abortion if a woman has the misfortune to be a victim in Alabama.
+      - Article 2 stated “Alabama is better than this”. But are we?
+      - Article 2 stated Governor Kay Ivey will bear the burden of the decision to sign the bill or veto it. Most likely she will celebrate signing the bill into law.
+      - Article 2 stated these are the headlines of the National News Today.
+      - Article 2 stated: This is Alabama. Think about this! This is where we live...but is this what we want?
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and should be framed as background/historical context.
+      - Article 2 showed Alabama’s education ranking as DEAD LAST and prison system conditions.
+      - Article 2 described Alabama education as a sham.
+      - Article 2 noted twenty years of education lottery talk with no funding.
+      - Article 2 covered abortion as a third headline.
+      - Article 1 focuses on Mike Hubbard’s conviction and political corruption.
+      - Article 2 is the smoking gun or key context for Article 1 because it provides earlier background on Alabama’s systemic failures and national rankings before/around the Mike Hubbard conviction and corruption narrative.
+
+      KEY ENTITIES:
+      - Mike Hubbard — Former Speaker of the House; convicted of 12 felonies; appealing to Alabama Supreme Court; not served one day in jail.
+      - Alabama Ethics Commission.
+      - Alabama Bar Association.
+      - Judicial Committee.
+      - Alabama Supreme Court.
+      - Governor Kay Ivey.
+      - Alabama Legislature / House of Representatives.
+      - Alabama politicians.
+      - Alabama voters.
+      - Teachers.
+      - Parents.
+      - Baldwin County.
+      - Alabama Prison System.
+      - Alabama education system.
+      - Alabama abortion law / opposition.
+      - U.S. Title: Most Political Corrupt State; Education last.
+      - Lowery — not mentioned in provided article text.
+      - Wilters — not mentioned in provided article text.
+    llm_text: Mike Hubbard, Alabama’s former speaker, grabbed 12 felony convictions three years ago and still hasn’t spent one day in jail. His appeal claims the laws he wrote were too confusing, but Alabama keeps its U.S. title as Most Political Corrupt State while education sits Dead Last.
+    widget_date: "2019-05-15"
+    generated_at: "2026-11-08T01:33:24.148107Z"
+    model_name: recursive/flint-v1.0:free
+  no-guardrails:
+    brief: |-
+      THE CONFLICT: Mike Hubbard, former Speaker of the House, was convicted of 12 felonies three years ago and is currently appealing to the Alabama Supreme Court.
+      THE DISCOVERY: In November 2018, public corruption prosecutor Matt Hart resigned from the Alabama Attorney General’s Office, removing a major guardrail against corruption.
+      THE PIVOT: Hubbard helped write the Ethics rules, and his allies were involved in Matt Hart’s removal, establishing a historical precedent of weakened accountability that allows Hubbard to avoid jail time and maintains Alabama’s status as the most politically corrupt state.
+      KEY ENTITIES: Mike Hubbard, Alabama Supreme Court, Alabama Ethics Commission, Steve Marshall (Attorney General), Matt Hart, Alabama Bar Association, Judicial Committee.
+    llm_text: Mike Hubbard, convicted of 12 felonies, appeals to the Alabama Supreme Court. His allies removed prosecutor Matt Hart, weakening ethics rules and keeping Alabama the most politically corrupt state despite his conviction.
+    widget_date: "2018-11-23"
+    generated_at: "2026-11-08T01:34:47.757184Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity:
+    brief: |-
+      THE CONFLICT: Mike Hubbard, former Speaker of the House, was convicted of 12 felonies three years ago; he is currently appealing to the Alabama Supreme Court.
+      THE DISCOVERY: Chris Elliott's campaign for State Senate Seat 32 spent in excess of $600,000, indicating debt and local control. (This is the historical context.)
+      THE PIVOT: Article 2 reveals specific local figures (e.g., Eddie Tyler, Mayors Craft/Kennon/Gumbo) tied to Elliott's campaign debt, illustrating the ground-level mechanism of compromised officials that contributes to the systemic state corruption (Hubbard's case, ineffective Ethics Commission) detailed in Article 1.
+      KEY ENTITIES: Mike Hubbard, Alabama Supreme Court, Chris Elliott, Jason Fisher, Eddie Tyler (Sheriff), Craft, Kennon, Gumbo, Kay Ivey, Alabama Ethics Commission
+    llm_text: Mike Hubbard appeals his 12 felony convictions, but local corruption runs deeper. See how figures like Eddie Tyler and Mayors Craft/Kennon tied Chris Elliott's $600k campaign debt to systemic state issues.
+    widget_date: "2018-10-10"
+    generated_at: "2026-11-08T01:36:12.531284Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-senate-seat-district-32-bombs-away:
+    brief: |-
+      THE CONFLICT: Boom Boom Pittman skimmed $750,000 of BP money for his personal tractor company. Pittman held the State Senate Seat for District 32.
+      THE DISCOVERY: Article 2 detailed specific corruption involving Pittman regarding BP funds in Baldwin County prior to the June 5 primary election context.
+      THE PIVOT: Article 2 established a pattern of local political misconduct (Pittman/BP funds) that provides context to the broader institutional corruption alleged in Article 1 (Mike Hubbard conviction and systemic failures).
+      KEY ENTITIES: Boom Boom Pittman, Baldwin County, BP, Mike Hubbard, David Northcutt, Jeff Boyd, Chris Elliott, Bill Roberts, Jason Fisher
+    llm_text: Boom Boom Pittman skimmed $750K from BP funds in Baldwin County. See how this local corruption connects to the systemic failures behind Mike Hubbard's conviction.
+    widget_date: "2018-05-21"
+    generated_at: "2026-11-08T01:33:01.367287Z"
+    model_name: plugsky-lite
+  alabama-sec-of-state-the-only-one:
+    brief: |-
+      THE CONFLICT:
+      - Mike Hubbard, Former Speaker of the House, was convicted of 12 felonies three years ago.
+      - Mike Hubbard is currently appealing to the Alabama Supreme Court; defense cites confusing laws he helped write.
+
+      THE DISCOVERY:
+      - John Merrill, Alabama Secretary of State, acted on public complaints regarding election tampering in Fairhope.
+      - The Ripp Report submitted complaints to the Alabama Sec. of State regarding past Fairhope elections.
+      - John Merrill had the 2016 Fairhope election monitored by his office.
+      - Karin Wilson won the Fairhope mayoral election by approximately 600 votes.
+
+      THE PIVOT:
+      - Article 2 shows a specific instance (John Merrill's action in Fairhope 2016) where an elected official took action on public complaints regarding elections, contrasting with the general lack of accountability described in Article 1.
+      - This context highlights that while broad systemic corruption exists (Hubbard's conviction, ethics commission failure), there is at least one demonstrable case of an official responding to constituent concerns, challenging the blanket assertion of pervasive corruption in Alabama.
+
+      KEY ENTITIES:
+      - Mike Hubbard
+      - Alabama Supreme Court
+      - John Merrill (Alabama Secretary of State)
+      - Karin Wilson
+      - Trip Pittman
+      - Michelle Thomason
+      - Buddy Bracken
+      - Steven Johnson
+      - Kay Ivey (Governor)
+      - HB 371
+      - Baldwin County
+      - Fairhope
+      - The Ripp Report
+    llm_text: John Merrill monitored the 2016 Fairhope election despite Mike Hubbard's felony conviction; see how his office responded to public complaints about Karin Wilson's win.
+    widget_date: "2018-04-11"
+    generated_at: "2026-11-08T01:33:08.901248Z"
+    model_name: plugsky-lite

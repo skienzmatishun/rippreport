@@ -5,33 +5,39 @@ metadata:
   main_date: "2026-04-29"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  baldwin-county-sheriff-appointment-2:
-    brief: |-
-      THE CONFLICT: BCSO has been implicated in multiple deaths (e.g., O.J. French shot by Bay Minette police, Peyton Little treated as suicide, 5 deaths in wrong-way I-10 pursuit involving Joseph L. Andrews and Kevin J. Andrews); Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld exculpatory evidence leading to an innocent man's 20-year imprisonment.
-      THE DISCOVERY: The Widget Article (July 27, 2024) revealed systemic corruption, cover-ups, and police misconduct within the Baldwin County Sheriff's Office (BCSO).
-      THE PIVOT: Both articles demonstrate widespread institutional failure and alleged corruption within the Alabama state system (BCSO/County level vs. AG's Office/Ethics Commission/Legislature level), showing a pattern of public officials protecting themselves or concealing misconduct.
-      KEY ENTITIES: Hoss Mack, Anthony Lowery, Peyton Little, O.J. French, Robert Yates, Johnathan Victor, Joseph L. Andrews, Kevin J. Andrews, Tom Albritton, Alabama AG, Ethics Commission, Chris Elliott, Matt Simpson, Greg Albritton, Greg Pappas, George Pierce, David Pruet, Allen Dodd, Katherine Robertson, Steve Marshall, David Whetstone, Robert Wilters, Mabel Amos, Clifton, Megan Carmack, Tyra Lindsey.
-    llm_text: Hoss Mack and David Whetstone withheld evidence, leading to Joseph L. Andrews' 20-year wrongful conviction and multiple BCSO deaths, including O.J. French. The Widget Article exposes systemic corruption within Baldwin County, showing local officials protect themselves while the Alabama state system fails its citizens.
-    widget_date: "2026-04-22"
-    generated_at: "2026-11-06T08:02:14.968735Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   gambling-money-run-amok:
+    refined_source: 994e9fadff55e448eb70cf5d25834dbbc838d261df003e0cd6d9a3b61b312f4c
     brief: |-
       THE CONFLICT: Steve Raby distributed out-of-state gambling interest money to Alabama legislators including Chris Elliott, Matt Simpson, and Greg Albritton to support Representative Juandalynn Givan (HD 60) as a means to challenge Speaker Ledbetter. (Widget Article is older context).
       THE DISCOVERY: Steve Raby, the Speaker's lobbyist, was running out-of-state gambling money, which was received by legislators and potentially used to support a Democrat like Juandalynn Givan.
       THE PIVOT: The prior documented legislative financial impropriety (Art 2) demonstrates a pattern of corruption involving Albritton and his peers, which provided the backdrop for the subsequent failure of the Ethics Director (Tom Albritton) to enforce standards and protect public trusts (Mabel Amos Memorial Fund) as detailed in the main article.
       KEY ENTITIES: Tom Albritton (Alabama Ethics Director/State Senator), Chris Elliott (State Senator), Matt Simpson (State Representative), Greg Albritton (State Senator), Steve Raby, Juandalynn Givan (Rep, HD 60), Mabel Amos Memorial Fund, Allen Dodd (Deputy Alabama Attorney General), Katherine Robertson (Chief Counsel), Greg Pappas, George Pierce, David Pruet, Harry Still (Ripp Report Attorney).
     llm_text: Speaker lobbyist Steve Raby used out-of-state gambling money, giving funds to legislators Chris Elliott, Matt Simpson, and Greg Albritton. They backed Juandalynn Givan against Speaker Ledbetter, revealing a corruption pattern Tom Albritton failed to stop.
+    text: Speaker lobbyist Steve Raby used gambling money to fund legislators. Chris Elliott, Matt Simpson, and Greg Albritton backed Juandalynn Givan.
     widget_date: "2026-04-16"
     generated_at: "2026-11-06T08:03:16.816121Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fire-albritton:
+    refined_source: 0cbadd4026369bbd055594482d56221cfd6252bc6fd0c9da217d4925f0e2b779
     brief: |-
       THE CONFLICT: Tom Albritton, as Ethics Director and Trustee of the Mabel Amos Memorial Fund, was involved in unethical behavior, fraud, and self-dealing concerning children's school scholarship funds.
       THE DISCOVERY: Article 2 established Albritton as the "poster of corruption" in Alabama, managing the Mabel Amos Trust with a $100,000+ salary, while millions were unaccountable.
       THE PIVOT: Article 2 provides the initial context of Albritton's alleged corruption and misuse of the Mabel Amos Trust, which preceded the legal actions detailed in Article 1 (Ripp Report filing Mandamus, Bar Complaint, and direct Ethics Complaint) that ultimately forced his removal as trustee.
       KEY ENTITIES: Tom Albritton (Alabama Ethics Director/Trustee), Mabel Amos Trust, Alabama Ethics Commission, Allen Dodd (Deputy Alabama Attorney General), Katherine Robertson (Chief Counsel), Greg Pappas, George Pierce, David Pruet, Chris Elliott (State Senator), Matt Simpson (State Representative), Greg Albritton (State Senator), Harry Still (Attorney/Ripp Report), Regions Bank.
     llm_text: Ethics Director Tom Albritton misused the Mabel Amos Memorial Fund, managing the trust with a $100,000+ salary while millions intended for children went unaccountable. See how his fraud and self-dealing ultimately forced his removal as trustee.
+    text: Ethics Director Tom Albritton managed a children's trust with a huge salary. Self-dealing and fraud forced his removal as trustee.
     widget_date: "2024-11-03"
     generated_at: "2026-11-06T08:04:27.109528Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-sheriff-appointment-2:
+    refined_source: 2edd260da4617bb7f1d72e436f4efeb26e5e23ad2de365e58bbde1523e73cabe
+    brief: |-
+      THE CONFLICT: BCSO has been implicated in multiple deaths (e.g., O.J. French shot by Bay Minette police, Peyton Little treated as suicide, 5 deaths in wrong-way I-10 pursuit involving Joseph L. Andrews and Kevin J. Andrews); Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld exculpatory evidence leading to an innocent man's 20-year imprisonment.
+      THE DISCOVERY: The Widget Article (July 27, 2024) revealed systemic corruption, cover-ups, and police misconduct within the Baldwin County Sheriff's Office (BCSO).
+      THE PIVOT: Both articles demonstrate widespread institutional failure and alleged corruption within the Alabama state system (BCSO/County level vs. AG's Office/Ethics Commission/Legislature level), showing a pattern of public officials protecting themselves or concealing misconduct.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Peyton Little, O.J. French, Robert Yates, Johnathan Victor, Joseph L. Andrews, Kevin J. Andrews, Tom Albritton, Alabama AG, Ethics Commission, Chris Elliott, Matt Simpson, Greg Albritton, Greg Pappas, George Pierce, David Pruet, Allen Dodd, Katherine Robertson, Steve Marshall, David Whetstone, Robert Wilters, Mabel Amos, Clifton, Megan Carmack, Tyra Lindsey.
+    llm_text: Hoss Mack and David Whetstone withheld evidence, leading to Joseph L. Andrews' 20-year wrongful conviction and multiple BCSO deaths, including O.J. French. The Widget Article exposes systemic corruption within Baldwin County, showing local officials protect themselves while the Alabama state system fails its citizens.
+    text: Hoss Mack and David Whetstone withheld evidence in a wrongful conviction case. Local officials protect themselves while the justice system fails.
+    widget_date: "2026-04-22"
+    generated_at: "2026-11-06T08:02:14.968735Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

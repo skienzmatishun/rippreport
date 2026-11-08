@@ -1,0 +1,172 @@
+metadata:
+  generated_at: "2026-11-07T13:16:53.771520Z"
+  generator_version: 1.0.0
+  post_slug: dollars-and-lives
+  main_date: "2020-12-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  howling-rains-passing-gas:
+    refined_source: 610445a9b23d0d69b9b95324eb0cc4f04e2cab21d0b660cae35c9ae99c7c781e
+    brief: |-
+      THE CONFLICT: Mayor Wilson implemented a funded $40 million plan, including a $6.2 million Waterfront Grant, which was community-based and involved public surveys with over 500 participants.
+      THE DISCOVERY: Article 2 established that the initial plan was supported by Mayor Wilson and involved significant public engagement; Howling Rains previously attacked the plan (claiming "bulldozing") but admitted being 6 weeks behind on reading project details and did not attend meetings.
+      THE PIVOT: Article 2 provides the historical context showing the original $6.2 million Waterfront Grant was tied to a community-based process; Article 1 reveals the current administration (Sullivan and Burrell) is replacing that multi-month public input with a restrictive two-week window for written comments, contradicting the initial process originating with the Wilson administration.
+      KEY ENTITIES: Mayor Wilson, Mayor Sullivan, Jack Burrell, Howing Rains, CSB (Catalyst Scott/Boone), City of Fairhope, Fairhope Waterfront, $6.2 million grant, $40 million plan, GMC engineer Scott Hutchinson, 1938 (Fairhope as Alabama City).
+    llm_text: Mayor Wilson originally tied the $6.2 million Waterfront Grant to public input from over 500 participants. Mayor Sullivan and Jack Burrell now replace that multi-month process with a restrictive two-week comment window.
+    text: Mayor Wilson tied the $6.2 million waterfront grant to months of public input from 500 citizens. Mayor Sullivan and Jack Burrell threw out that process for a rushed two-week window.
+    widget_date: "2020-11-21"
+    generated_at: "2026-11-07T13:12:06.192426Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  slap-in-the-face:
+    refined_source: c033f29db02c56e5068fb174fcaac96dc332340fa53713a5156cac25998d5afe
+    brief: |-
+      THE CONFLICT:
+      *   2020-10-17: Widget Article published detailing high corruption in Alabama/Baldwin County.
+      *   Historical (c. 1938): Fairhope (formerly Alabama City) built a pier using fill from the current road entrance, and park property formed from fill and cutting back banks.
+      *   Recent: The City of Fairhope’s $6.2 million waterfront project became a political issue during the last municipal election.
+      *   Recent: The City of Fairhope canceled the Christmas Parade due to public pressure over the city's handling of COVID-19.
+
+      THE DISCOVERY:
+      *   Baldwin County is cited as number one in corruption due to a faulty judicial system.
+      *   Municipal attorney for Fairhope, Marcus McDowell, failed to file charges in the McSherry case (a case lingering for almost two years).
+      *   Past corruption examples cited include Senator Tripp Pittman and BP fraud, and Senator Chris Elliott's DUI.
+      *   FEMA fraud is cited as a past issue in Fairhope.
+
+      THE PIVOT:
+      *   The Widget Article provides historical and contemporary context (2020-10-17) establishing a pattern of political and judicial misconduct (FEMA fraud, McDowell inaction, Pittman/Elliott corruption) in Fairhope, making the current political disputes regarding the $6.2 million waterfront project and the Wilson administration FOIA requests appear within a documented history of local corruption.
+
+      KEY ENTITIES:
+      *   Fairhope / Baldwin County
+      *   $6.2 million
+      *   Mayor Sullivan
+      *   Jack Burrell
+      *   Wilson administration
+      *   Howing Rains
+      *   Chris Elliott
+      *   Tripp Pittman
+      *   Marcus McDowell
+      *   Mike McMillian ("Slappin Mike")
+      *   Paula DiNiardi
+      *   Thomas Gallion III
+      *   1938 (historical context)
+      *   2020-10-17 (Widget Article date)
+    llm_text: Baldwin County ranks number one for corruption, linking modern issues to past scandals like Tripp Pittman and FEMA fraud. Marcus McDowell failed to file McSherry charges, casting a shadow over the City of Fairhope’s $6.2 million waterfront project.
+    text: Baldwin County ranks number one for corruption, tying past FEMA fraud to modern scandals. Marcus McDowell failed to charge McSherry, clouding the $6.2 million waterfront project.
+    widget_date: "2020-10-17"
+    generated_at: "2026-11-07T13:13:11.846542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  missed-the-bullet:
+    refined_source: 87bd96263198611017e7331c92b65e56910819081cb689aea7148ace4fc7d2ba
+    brief: |-
+      THE CONFLICT: Robin LeJeune was elected Mayor of Daphne following a runoff election (during a pandemic and Hurricane Delta), defeating the Catalyst/Scott Boone Consulting candidate.
+      THE DISCOVERY: Article 2 revealed that Daphne chose to slow development and focus on infrastructure, while Fairhope was positioned as the home base of Catalyst, "embracing growth."
+      THE PIVOT: Article 2 provides the historical context of divergent development policies (Daphne slowing vs. Fairhope growing) which informs the current political controversy in Article 1 regarding the 6.2 million dollar Fairhope waterfront project during the last municipal election.
+      KEY ENTITIES: Robin LeJeune, Daphne, Catalyst, Scott Boone Consulting, Hurricane Delta, Howing Rains, Mayor Sullivan, Jack Burrell, Wilson administration, Fairhope Waterfront, 6.2 million dollar project.
+    llm_text: Robin LeJeune won Daphne by prioritizing infrastructure over rapid development. Read how Daphne's cautious policies clash with Fairhope's growth agenda, fueling the debate over the $6.2 million Fairhope waterfront project.
+    text: Robin LeJeune won Daphne by fixing infrastructure instead of chasing rapid development. Daphne's slow growth policy clashes directly with Fairhope's expensive waterfront plans.
+    widget_date: "2020-10-09"
+    generated_at: "2026-11-07T13:14:23.117301Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  absolute-power:
+    refined_source: ed51b315dc3c9223b2d270c01e05dd35923ccb94a633125123245c448d42a627
+    brief: |-
+      THE CONFLICT:
+      *   Between 1837 and 1869, Fairhope was Alabama City.
+      *   In the election preceding the current municipal cycle, Wilson lost to Sherry Sullivan.
+      *   The "three B's," led by Jack Burrell (Council President), held significant power, despite the election results.
+      *   Wilson's administration covered four years; the Ripp Report previously covered Cant for ten years.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed that special interests held "absolute power" in Fairhope.
+      *   It noted that Wilson's administration was dealing with ignored lawsuits and the McSherry case.
+
+      THE PIVOT:
+      *   Article 2 establishes the context of entrenched corruption and political resistance under Wilson's administration.
+      *   Article 1 addresses the $6.2 million Fairhope Waterfront project, noting that the requested grant and charrette information originated with the Wilson administration, making his term the key period of potential financial/political issues.
+
+      KEY ENTITIES:
+      *   Sherry Sullivan (New Mayor)
+      *   Jack Burrell (Council President/Three B’s)
+      *   Wilson (Former Administration)
+      *   Howing Rains
+      *   Fairhope Waterfront Project ($6.2 million)
+      *   Ripp Report
+      *   Catalyst/Scott Boone Consulting
+      *   McSherry case
+    llm_text: Sherry Sullivan won the mayoral race, yet Jack Burrell and the "three B's" still wield absolute power in Fairhope. Read how Wilson's administration managed the $6.2 million Waterfront Project while ignoring the McSherry case.
+    text: Sherry Sullivan won the mayoral race, but Jack Burrell and the three B's still hold total power in Fairhope. The Wilson administration ran the waterfront project with no help from courts.
+    widget_date: "2020-08-28"
+    generated_at: "2026-11-07T13:15:30.210405Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-missing-in-action:
+    refined_source: 134a0ae02fb4f6f04363e98df79b27455bc524b5bdbc82e5a5eb293e0ca82896
+    brief: |-
+      THE CONFLICT:
+      *   During the pandemic, a political forum hosted by the Common Sense Campaign in Fairhope featured mayoral candidates.
+      *   Mayor Wilson adamantly opposed the Arts and Crafts Show due to health concerns, leading to its cancellation.
+      *   Sherry Sullivan promoted the Arts and Crafts Show, despite advice from Thomas doctors, suggesting a prioritization of profit over public safety.
+      *   Sullivan was absent from the political forum but attended a Spanish Fort football game giving fans to unmasked crowds, contradicting public health guidance.
+
+      THE DISCOVERY:
+      *   Article 2 established Sherry Sullivan's pattern of poor judgment and disregard for public health protocols (masking, crowded events) compared to Mayor Wilson's safety-first stance.
+      *   This historical context predates the $6.2 million Fairhope Waterfront project becoming a political issue.
+
+      THE PIVOT:
+      *   Article 2 provides the historical evidence of Sullivan's lack of public health judgment, which directly contextualizes the criticism in Article 1 regarding the city's overall handling of COVID-19, leading to the cancellation of the Christmas Parade.
+      *   Article 1 details the $6.2 million waterfront project, which is linked to the Wilson administration's initial grant information.
+
+      KEY ENTITIES:
+      *   Mayor Sullivan
+      *   Mayor Wilson
+      *   Jack Burrell
+      *   Sherry Brown
+      *   Howing Rains
+      *   Fairhope Waterfront ($6.2 million)
+      *   Common Sense Campaign
+      *   Spanish Fort
+      *   Fairhope (formerly Alabama City)
+      *   1938 (historical booklet date)
+    llm_text: Mayor Sullivan dismissed health advice to keep the Arts and Crafts Show running, even attending crowded Spanish Fort events. See how this pattern of prioritizing profit over safety contextualizes the $6.2 million Fairhope Waterfront project.
+    text: Mayor Sullivan ignored health warnings to keep the Arts and Crafts Show open during the pandemic. This push for profit over safety shaped the controversial waterfront project.
+    widget_date: "2020-08-22"
+    generated_at: "2026-11-07T13:10:55.966705Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-bullies:
+    refined_source: 5ccd2feeaa5db5f42014cd6af598cc25e8e780ef7ecf06a76722367f27c3187b
+    brief: |-
+      THE CONFLICT:
+      Councilmen Burrell Boone and Brown (CATALYST/Scott Boone Consulting - CSB) exerted political influence in Fairhope for approximately 16 years, supported by special interests (Baldwin County Sewer, developers) and challenged Mayor Karin Wilson during the last four years.
+      THE DISCOVERY:
+      Mayor Karin Wilson stood up to CSB’s "bullies" and special interests for four years, winning 4 Nappi Awards as the hardest working elected official on the Eastern Shore.
+      THE PIVOT:
+      The established history of political influence and corruption by CSB (Article 2) provides the historical context for the contentious $6.2 million Fairhope Waterfront project and the subsequent municipal election results detailed in Article 1, which originated under the Wilson administration.
+      KEY ENTITIES:
+      Karin Wilson
+      Councilman Burrell Boone
+      Councilman Brown
+      Scott Boone
+      Marcus McDowell
+      Tim Cant
+      Mayor Sullivan
+      Howing Rains
+      Jack Burrell
+      Fairhope Waterfront ($6.2 million)
+      CATALYST
+      Wilson administration
+    llm_text: Karin Wilson stood up to 16 years of political influence from Councilmen Burrell Boone and Brown (CSB). Read how this power shaped the $6.2 million Fairhope Waterfront project and local municipal election results.
+    text: Karin Wilson fought 16 years of political control by councilmen Burrell, Boone, and Brown. This small group shaped the $6.2 million waterfront project and local elections.
+    widget_date: "2020-08-15"
+    generated_at: "2026-11-07T13:16:37.087703Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jackass-jack:
+    refined_source: bbe79284eb00ab8cc50ee68b14b474c78ff9227888830a6a7ab8b1d7b6f08bbb
+    brief: |-
+      THE CONFLICT: City of Fairhope public health response to COVID-19, specifically the decision to hold a large public gathering (lighting of the trees), led to public criticism from medical professionals and first responders.
+      THE DISCOVERY: Former Mayor Wilson prioritized public safety, advising against large events, while Mayor Sullivan decided to proceed, leading to immediate political backlash.
+      THE PIVOT: Article 2 establishes that the initial handling of the $6.2 million Waterfront Project (driven by citizen participation) was under the Wilson administration, setting the historical context that the current political push by Mayor Sullivan and Jack Burrell (Article 1) contradicts past public data and established health caution.
+      KEY ENTITIES: Wilson (Former Mayor), Sullivan (Mayor), Jack Burrell (Council President), Howing Rains, Fairhope Waterfront, $6.2 million, Triangle Lawsuit, Fly Creek, k-1-center
+    llm_text: Former Mayor Wilson advised against large gatherings, but Mayor Sullivan proceeded with the Fairhope Waterfront Project. See how this current political push contradicts past public health data and the $6.2 million project history.
+    text: Former Mayor Wilson warned against large crowds, but Mayor Sullivan pushed the waterfront project forward. This political move ignored basic public health data and past project rules.
+    widget_date: "2020-11-27"
+    generated_at: "2026-11-07T13:09:52.433516Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

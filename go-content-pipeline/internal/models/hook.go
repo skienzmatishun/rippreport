@@ -17,6 +17,7 @@ type DistilledFacts struct {
 // Hook is a Bridge Brief linking a main article to one related (widget) article.
 // YAML on disk is a map keyed by widget slug; WidgetSlug is filled on load.
 type Hook struct {
+	RefinedSource  string          `yaml:"refined_source,omitempty"` // Hash of the source successfully polished by Gemini
 	WidgetSlug     string          `yaml:"-"`
 	WidgetTitle    string          `yaml:"-"`
 	Brief          string          `yaml:"brief"`

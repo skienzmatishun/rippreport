@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   alabama-ethics-vs-tony-kennon:
+    refined_source: 7884976ef331a76923aae3bc3c7368aaddfd2d5bedaa3dfc3af61213f201ea1f
     brief: |-
       THE CONFLICT:
       *   Almost 5 years ago, three members of the City of Orange Beach council filed an ethics complaint against Mayor Tony Kennon alleging conflicts of interest and improper influence.
@@ -18,7 +19,7 @@ hooks:
       *   The Alabama Bar, Attorney General, and Ethics Commission collectively failed to act on complaints, protecting powerful individuals and enabling systemic corruption in the state.
 
       THE PIVOT:
-      *   Article 2 proves that Alabama's institutional accountability mechanisms (Ethics Commission, Alabama Bar, AG) are compromised and ineffective at holding powerful figures accountable.
+      *   Article 2 shows that Alabama's institutional accountability mechanisms (Ethics Commission, Alabama Bar, AG) are compromised and ineffective at holding powerful figures accountable.
       *   This historical systemic failure provides context for Article 1's claim that "GOB control" and embedded corrupt culture in the BCSO cannot be fixed through internal means (e.g., Sheriff's office investigating itself).
       *   The failure to prosecute Albritton confirms that the powerful political and legal hierarchy (GOB) will protect its members, regardless of evidence (e.g., in the Murray Lawrence Jr. wrongful conviction case).
 
@@ -41,10 +42,12 @@ hooks:
       *   Murray Lawrence Jr. (Wrongfully Convicted)
       *   David Whitstone (Former DA)
     llm_text: Tom Albritton defrauded the Mabel Amos Memorial Fund of $120,000, yet the Alabama Ethics Commission (Pappas, Pierce, Pruet) failed to act. This systemic corruption proves the powerful GOB protects its own, meaning internal fixes won't solve BCSO issues facing Tony Kennon.
+    text: Tom Albritton looted $120,000 from the Mabel Amos Memorial Fund while the Alabama Ethics Commission looked away. Why does the good old boy network always protect its own?
     widget_date: "2026-06-21"
     generated_at: "2026-11-06T06:08:17.503970Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   primary-postpartum:
+    refined_source: e2538a9db77d492b9aded88ef827b0ce259b8dfee3d12ffdf7694de5658afd96
     brief: |-
       THE CONFLICT:
       *   Baldwin County Attorney Harry Still faced slander from City of Orange Beach Officials during his arrest (assaulted by Matt Franklin).
@@ -74,10 +77,12 @@ hooks:
       *   Matt McKenzie
       *   David Whitstone
     llm_text: Don't just look at Harry Still's slander case. We uncovered a historical pattern of entrenched GOB corruption in Baldwin County, linking Prichard, Tubberville, and Tony Kennon issues.
+    text: Harry Still's slander case is just the tip of the iceberg in Baldwin County. We map out decades of entrenched GOB corruption from Prichard to Tony Kennon's backyard.
     widget_date: "2026-06-20"
     generated_at: "2026-11-06T06:09:24.845433Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scum-bag:
+    refined_source: 4e0a2a690196758e1a0de28cc1d3c76e298898fcc2a68ecd81c1cbe470327961
     brief: |-
       THE CONFLICT:
       *   James Pittman, an attorney, ran for and was elected representative of the Baldwin County Bar Association to the five-member Baldwin Judicial Commission (headed by Clark Stankoski).
@@ -106,6 +111,7 @@ hooks:
       *   Murray Lawrence Jr.
       *   David Whitstone
     llm_text: James Pittman influenced the Baldwin Judicial Commission, leading to Judge Brackin handling the Paul Shalhoub case. Pittman tried to coerce nearly $67,000 from Mediacom for SERVPRO, revealing a pattern of legal manipulation in Baldwin County.
+    text: James Pittman tried shaking down Mediacom for nearly $67,000 while pulling strings with Judge Brackin. That is not just dirty politics; it is standard operating procedure in Baldwin County.
     widget_date: "2026-06-19"
     generated_at: "2026-11-06T06:10:35.178021Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

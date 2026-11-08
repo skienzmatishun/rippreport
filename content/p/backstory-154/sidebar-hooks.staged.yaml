@@ -5,7 +5,41 @@ metadata:
   main_date: "2023-05-05"
   model_name: plugsky-lite
 hooks:
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: fdc139875b4dfa74851adb3caeacf471e4df0e89ed23acc9604abe02eac5fa99
+    brief: |-
+      THE CONFLICT:
+      *   Matt Simpson (R), former ADA of Baldwin County, is introducing new "18 ways to lock up a drug user" bills in the Alabama Legislature (mentioned in Article 1).
+      *   The NYC subway restraint death led to calls for murder charges against the choke-holder (Article 1).
+      *   The Alabama Crimson Tide Baseball Coach was reportedly laying bets against his team (Article 1).
+
+      THE DISCOVERY:
+      *   Luigi Manjone was arrested for murdering a United Healthcare CEO (Article 2).
+      *   Allegations of corruption exist in Alabama's legal and political systems, specifically the Dothan Summer Feeding Scandal (Article 2).
+      *   The Alabama Court of Civil Appeals ruled on the Rule 32 Petition for Murray Lawrence Jr. (Article 2).
+      *   The discovery of two autopsies ordered by Sheriff Mack's father/Coroner in 2005, which were undisclosed (a Brady Violation), was confirmed (Article 2).
+      *   Alabama Federal Judge Mark Fuller from Mobile, Alabama, is identified as a corrupt judge (Article 2).
+
+      THE PIVOT:
+      *   Article 2 provides specific legal evidence (Brady Violation, Dothan Scandal, Judge Fuller corruption) confirming the broader allegations of political and legal corruption within Alabama (Baldwin County/Alabama Legislature) hinted at by Matt Simpson's actions in Article 1.
+
+      KEY ENTITIES:
+      *   Matt Simpson (R)
+      *   Baldwin County
+      *   Luigi Manjone
+      *   United Healthcare CEO
+      *   Mark Fuller
+      *   Murray Lawrence Jr.
+      *   Sheriff Mack
+      *   Dothan Summer Feeding Scandal
+      *   Alabama Court of Civil Appeals
+    llm_text: Matt Simpson is pushing 18 harsh drug bills in Alabama, but is the state legal system honest? New evidence confirms Judge Mark Fuller's corruption and a Brady Violation in the Sheriff Mack case, proving deep legal rot.
+    text: Matt Simpson is pushing 18 drug bills in Alabama, but is the legal system honest? New evidence confirms Judge Mark Fuller's corruption and a Brady violation in the Sheriff Mack case.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T19:56:43.002726Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-crime-of-the-century:
+    refined_source: b11f9c70b1bff9aff68e9933e379bdd55c54bda7534210675784a8ebd97820b3
     brief: |-
       THE CONFLICT:
       - Matt Simpson (R), former ADA of Baldwin County, introduced "18 ways to lock up a drug user" bills during the Alabama Legislative session.
@@ -30,9 +64,80 @@ hooks:
       - CDC
       - Jeffrey Epstein
     llm_text: Ivey fired Admiral Davis, ousting a veterans’ leader to politicize the board. Now a Clarke County hospice judge’s ties expose the “good old boy” system harming regular Alabamians.
+    text: Kay Ivey fired Admiral Davis, ousting a veterans leader to politicize the board. A Clarke County hospice judge's ties expose the system harming regular Alabamians.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T19:56:11.224622Z"
     model_name: plugsky-lite
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 055d5e30f9bccb866d03da8c22cab33612dfaffd3f32c15a2ade6d554006af0d
+    brief: |-
+      THE CONFLICT:
+      - May 5, 2023 (Cinco de Mayo): W.H.O. declares the end of the Covid-19 pandemic/travel restrictions and Title 42 expiration.
+      - Alabama Legislature in session with "18 ways to lock up a drug user" bills sponsored by Matt Simpson (R), former ADA of Baldwin County.
+      - New York City subway restraint death occurred; public calls for murder charges against the choke-holder.
+      - Vladimir Putin claims Ukraine attempted a drone attack on the Kremlin.
+      - Deposition of Donald John Trump released.
+      - 2023 bank failures reported.
+      - Alabama Crimson Tide Baseball Coach accused of betting against his own team.
+      - New CDC director resigned.
+      - Jeffrey Epstein's personal calendar revelations involving current CIA Director, former Israeli PM, Noam Chomsky, etc.
+
+      THE DISCOVERY:
+      - Backstory Podcast No. 186 discusses 2024 US Presidential election results.
+      - Coverage of The Trump Cabinet 2.0.
+      - Government spending on misinformation discussed.
+      - Alabama news includes closing of rural hospitals and changes to hunting seasons.
+      - Antitrust lawsuits against Google.
+      - Proposed constitutional amendments in Alabama.
+      - Guests include a Veterans/Consumer Advocate, journalist, and attorney.
+
+      THE PIVOT:
+      - Article 2 (Podcast No. 186) serves as the chronological and thematic update to Article 1 (Podcast No. 154), moving from 2023 pandemic/political turmoil to 2024 election outcomes and ongoing Alabama legislative/social issues.
+
+      KEY ENTITIES:
+      - World Health Organization (W.H.O.)
+      - Matt Simpson (R), former ADA of Baldwin County
+      - Donald John Trump
+      - Vladimir Putin
+      - Jeffrey Epstein
+      - Noam Chomsky
+      - CIA Director (unspecified)
+      - Alabama Legislature
+      - Google
+    llm_text: From the end of Title 42 to Trump’s deposition, 2023 unraveled like a crime novel—but the real story begins when Backstory Podcast 186 drops the curtain on 2024 election results, Cabinet 2.0 and Alabama’s darkest legislative corners.
+    text: From Title 42 to Trump's deposition, 2023 unraveled like a crime novel. Backstory Podcast 186 drops the curtain on 2024 election results and Alabama's darkest legislative corners.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T19:56:21.464325Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: ebf8284771477f2f8b4ee12b8608b78d660b93319ec97971a642c81e077bfdc0
+    brief: |-
+      THE CONFLICT:
+      *   Alabama Legislature sessions were active, featuring new bills regarding drug users from Matt Simpson (R), former ADA of Baldwin County (Article 1).
+      *   On July 31, 2024, the family of OJ French Jr held a rally in connection to an incident involving Bay Minette Police Officer Brandon Thompson (Article 2).
+
+      THE DISCOVERY:
+      *   The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson.
+      *   The lawsuit alleges Officer Thompson lacked probable cause for the stop and used force, resulting in the death of OJ French Jr.
+      *   The Sheriff announced a mid-July resignation and sought Chief Deputy Anthony Lowery appointment by Governor Ivey; County Commissioner Matt McKenzie also sought the post.
+
+      THE PIVOT:
+      *   Article 2 details recent, specific legal action and political maneuvering within Baldwin County (e.g., lawsuit, Sheriff resignation, Lowery/McKenzie interest) which provides concrete context to the legislative focus and former ADA involvement (Matt Simpson) referenced generally in Article 1.
+
+      KEY ENTITIES:
+      *   OJ French Jr
+      *   Officer Brandon Thompson
+      *   Matt Simpson (R)
+      *   Mayor Robert Bob Wills
+      *   Anthony Lowery
+      *   Matt McKenzie
+      *   Governor Ivey
+      *   City of Bay Minette
+    llm_text: OJ French Jr's family sued the City of Bay Minette and Officer Brandon Thompson over the fatal stop. This federal fight connects to Matt Simpson's drug bill focus and the Sheriff race between Anthony Lowery and Matt McKenzie.
+    text: OJ French Jr.'s family sued Bay Minette and Officer Brandon Thompson over the fatal stop. This federal fight connects to Matt Simpson's drug bills and the Sheriff race.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T19:57:59.369118Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
     brief: |-
       THE CONFLICT:
@@ -105,90 +210,71 @@ hooks:
       - Snowbirds
       - Citizens
     llm_text: The Backstory Podcast’s ‘Scalped’ just linked a foiled terrorist attack to Alabama’s Baldwin County DA building graphic and construction bid award involving Matt Simpson. If WHO says Covid ends and Title 42 expires, you should care because this is the accountability context Alabama leaders keep missing.
+    text: The Backstory Podcast’s ‘Scalped’ just linked a foiled terrorist attack to Alabama’s Baldwin County DA building graphic and construction bid award involving Matt Simpson. If WHO says Covid ends and Title 42 expires, you should care because this is the accountability context Alabama leaders keep missing.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T19:56:48.233348Z"
     model_name: recursive/flint-v1.0:free
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+  the-pete-rose:
+    refined_source: 310104e0f4b89c3218f3b5d44a89ee746219d758e7eb7049cfbe12fe60183df2
+    brief: |-
+      THE CONFLICT: No specific conflict date/event directly links the two articles other than the general context of recent events.
+      THE DISCOVERY: Article 2 (Widget) provides details about the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022, recovered May 29, 2022.
+      THE PIVOT: Article 1 (Main) mentions the Alabama Legislature is in session with new "18 ways to lock up a drug user" bills from Matt Simpson (R), which provides legislative context related to the drug issues suggested by the Orange Beach case in Article 2.
+      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, May 27, 2022, May 29, 2022, Matt Simpson (R), Alabama Legislature
+    llm_text: Danny Williams Jr died in Orange Beach, Alabama, prompting new legislative action. See how Matt Simpson's "18 ways to lock up a drug user" bills address this tragic reality in the Alabama Legislature.
+    text: Danny Williams Jr. died in Orange Beach, prompting new legislative action. See how Matt Simpson's bills to lock up drug users address this tragic reality in the legislature.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T19:56:43.664883Z"
+    model_name: plugsky-lite
+  the-180:
+    refined_source: 5a80b37b247e926682e9e9a371e2d56bf30e939de1dc945f8b68dc0e50fa878c
     brief: |-
       THE CONFLICT:
-      *   Matt Simpson (R), former ADA of Baldwin County, is introducing new "18 ways to lock up a drug user" bills in the Alabama Legislature (mentioned in Article 1).
-      *   The NYC subway restraint death led to calls for murder charges against the choke-holder (Article 1).
-      *   The Alabama Crimson Tide Baseball Coach was reportedly laying bets against his team (Article 1).
+      - WHO called Covid-19 a plague/pandemic (Implied timeframe before Article 1).
+      - New CDC director resigned (Time unspecified, within context of Article 1).
+      - Alabama Legislature is in session with "18 ways to lock up a drug user" bills from Matt Simpson (R) (Time unspecified, within context of Article 1).
+      - Jeffrey Epstein's personal calendar contained revelations (Time unspecified, within context of Article 1).
 
       THE DISCOVERY:
-      *   Luigi Manjone was arrested for murdering a United Healthcare CEO (Article 2).
-      *   Allegations of corruption exist in Alabama's legal and political systems, specifically the Dothan Summer Feeding Scandal (Article 2).
-      *   The Alabama Court of Civil Appeals ruled on the Rule 32 Petition for Murray Lawrence Jr. (Article 2).
-      *   The discovery of two autopsies ordered by Sheriff Mack's father/Coroner in 2005, which were undisclosed (a Brady Violation), was confirmed (Article 2).
-      *   Alabama Federal Judge Mark Fuller from Mobile, Alabama, is identified as a corrupt judge (Article 2).
+      - Vice President Kamala Harris' political standing shifted from "scourge" to "darling savior" (Time: Recent, after DNC).
+      - RFK Jr removed his name from battleground ballots; Candidate Trump gained prominence (Time: Recent, after DNC).
+      - Sheriff Mack in Baldwin County, Alabama, has one week left in office; Governor is selecting a replacement (Time: Recent, context of Article 2).
+      - Finebaum claims the University of Alabama Football Dynasty is over (Time: Recent).
 
       THE PIVOT:
-      *   Article 2 provides specific legal evidence (Brady Violation, Dothan Scandal, Judge Fuller corruption) confirming the broader allegations of political and legal corruption within Alabama (Baldwin County/Alabama Legislature) hinted at by Matt Simpson's actions in Article 1.
+      - Article 2 updates the political status of VP Harris and provides a specific, current local leadership update in Baldwin County, Alabama (Sheriff Mack's final week), contrasting with the broader, generalized claims of instability and political events in Article 1.
 
       KEY ENTITIES:
-      *   Matt Simpson (R)
-      *   Baldwin County
-      *   Luigi Manjone
-      *   United Healthcare CEO
-      *   Mark Fuller
-      *   Murray Lawrence Jr.
-      *   Sheriff Mack
-      *   Dothan Summer Feeding Scandal
-      *   Alabama Court of Civil Appeals
-    llm_text: Matt Simpson is pushing 18 harsh drug bills in Alabama, but is the state legal system honest? New evidence confirms Judge Mark Fuller's corruption and a Brady Violation in the Sheriff Mack case, proving deep legal rot.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T19:56:43.002726Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      - WHO
+      - Kamala Harris
+      - RFK Jr
+      - Trump
+      - Matt Simpson (R)
+      - Sheriff Mack
+      - Governor (of Alabama)
+      - Finebaum
+      - Baldwin County, Alabama
+      - CDC (New Director)
+      - Jeffrey Epstein
+    llm_text: Alabama's Matt Simpson pushes "18 ways to lock up a drug user" while Kamala Harris shifts from "scourge" to "savior." See how Sheriff Mack finishes his week in Baldwin County amid these big political shifts.
+    text: Matt Simpson pushes 18 ways to lock up drug users while Kamala Harris shifts her political image. See how Sheriff Mack finishes his week in Baldwin County amid big shifts.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T19:57:06.195089Z"
+    model_name: plugsky-lite
   backstory-podcast-no-187-the-pardon:
+    refined_source: 23db08b1c4b4a928191a6164843c27556eb7a55641bf79e4398a8244e2eb4d0b
     brief: |-
       THE CONFLICT: WHO declared the Covid-19 Plague officially ending, pending expiration of travel restrictions and Title 42; CDC director resigned; revelations surfaced in Jeffrey Epstein's personal calendar involving the CIA Director, a former Israeli Prime Minister, and Noam Chomsky.
       THE DISCOVERY: A damning report on the US government's COVID-19 response was issued; President Biden granted a pardon to his son Hunter.
       THE PIVOT: The newer article shifts the focus from a list of concurrent political/social events (like the WHO declaration and Trump deposition) to a concentrated examination of systemic government misconduct, specifically through the COVID-19 report and the Hunter pardon.
       KEY ENTITIES: WHO, CDC Director, Jeffrey Epstein, President Biden, Hunter (Biden), CIA Director, Noam Chomsky, Alabama Legislature, Matt Simpson (R)
     llm_text: The US government mishandled COVID-19, revealing systemic misconduct in a damning report. Now, examine how President Biden pardoned his son Hunter amid these revelations and shadowy Jeffrey Epstein links.
+    text: The US government mishandled COVID-19 in a damning report. Examine how President Biden pardoned his son Hunter amid these revelations and Jeffrey Epstein links.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T19:59:12.703840Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT:
-      - May 5, 2023 (Cinco de Mayo): W.H.O. declares the end of the Covid-19 pandemic/travel restrictions and Title 42 expiration.
-      - Alabama Legislature in session with "18 ways to lock up a drug user" bills sponsored by Matt Simpson (R), former ADA of Baldwin County.
-      - New York City subway restraint death occurred; public calls for murder charges against the choke-holder.
-      - Vladimir Putin claims Ukraine attempted a drone attack on the Kremlin.
-      - Deposition of Donald John Trump released.
-      - 2023 bank failures reported.
-      - Alabama Crimson Tide Baseball Coach accused of betting against his own team.
-      - New CDC director resigned.
-      - Jeffrey Epstein's personal calendar revelations involving current CIA Director, former Israeli PM, Noam Chomsky, etc.
-
-      THE DISCOVERY:
-      - Backstory Podcast No. 186 discusses 2024 US Presidential election results.
-      - Coverage of The Trump Cabinet 2.0.
-      - Government spending on misinformation discussed.
-      - Alabama news includes closing of rural hospitals and changes to hunting seasons.
-      - Antitrust lawsuits against Google.
-      - Proposed constitutional amendments in Alabama.
-      - Guests include a Veterans/Consumer Advocate, journalist, and attorney.
-
-      THE PIVOT:
-      - Article 2 (Podcast No. 186) serves as the chronological and thematic update to Article 1 (Podcast No. 154), moving from 2023 pandemic/political turmoil to 2024 election outcomes and ongoing Alabama legislative/social issues.
-
-      KEY ENTITIES:
-      - World Health Organization (W.H.O.)
-      - Matt Simpson (R), former ADA of Baldwin County
-      - Donald John Trump
-      - Vladimir Putin
-      - Jeffrey Epstein
-      - Noam Chomsky
-      - CIA Director (unspecified)
-      - Alabama Legislature
-      - Google
-    llm_text: From the end of Title 42 to Trump’s deposition, 2023 unraveled like a crime novel—but the real story begins when Backstory Podcast 186 drops the curtain on 2024 election results, Cabinet 2.0 and Alabama’s darkest legislative corners.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T19:56:21.464325Z"
-    model_name: plugsky-lite
   stirring-the-pot-bsp:
+    refined_source: c973909f08161bd1d64a0d03aad69bec217c116b402a2dfda20b93a8f4d91720
     brief: |-
       THE CONFLICT:
       - WHO declared Covid-19 plague ending next week
@@ -241,86 +327,19 @@ hooks:
       - Alabama Public Television
       - Alabama Legislature
     llm_text: Matt Simpson's "18 ways to lock up a drug user" bills connect to the Epstein calendar and Trump deposition. See how local Baldwin County legal fights illuminate Alabama's broader political maneuvers.
+    text: Matt Simpson pushes bills to lock up drug users while the Epstein calendar and Trump deposition make news. See how Baldwin County legal fights illuminate Alabama's political maneuvers.
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T19:56:34.230676Z"
     model_name: plugsky-lite
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: No specific conflict date/event directly links the two articles other than the general context of recent events.
-      THE DISCOVERY: Article 2 (Widget) provides details about the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022, recovered May 29, 2022.
-      THE PIVOT: Article 1 (Main) mentions the Alabama Legislature is in session with new "18 ways to lock up a drug user" bills from Matt Simpson (R), which provides legislative context related to the drug issues suggested by the Orange Beach case in Article 2.
-      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, May 27, 2022, May 29, 2022, Matt Simpson (R), Alabama Legislature
-    llm_text: Danny Williams Jr died in Orange Beach, Alabama, prompting new legislative action. See how Matt Simpson's "18 ways to lock up a drug user" bills address this tragic reality in the Alabama Legislature.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T19:56:43.664883Z"
-    model_name: plugsky-lite
   hatians-eating-cats:
+    refined_source: bdf6c4d9044844e56ebe22eb871a6bc67251f1d260baaaccb669c32f363c64e8
     brief: |-
       THE CONFLICT: WHO called Covid-19 Plague ending next week; CDC director resigned (Main Article, unspecified date prior to Widget Article)
       THE DISCOVERY: Sylacauga Alabama features a debate on "Haitian Immigrant Eating Cats" narrative; Former Real Admiral Kent David resigned as Alabama Veterans Affairs Commissioner due to whistleblower Ethics Complaint (Widget Article, unspecified date after Main Article)
       THE PIVOT: Widget Article provides a current, localized focus (Alabama/Sylacauga) that contrasts with the broader, global/political claims of the Main Article, grounding the discussion of immigration strains mentioned in the context of the border issues noted in Article 1.
       KEY ENTITIES: WHO, CDC director, Donald John Trump, Noam Chomsky, Matt Simpson (R), Kent David, Sylacauga Alabama, Baldwin County, Donald Trump
     llm_text: Sylacauga, Alabama is debating a "Haitian immigrant eating cats" narrative while former Admiral Kent David resigned over ethics complaints. See how this local conflict grounds the bigger political debates surrounding immigration strains.
+    text: Sylacauga is debating an immigrant narrative while former Admiral Kent Davis resigned over ethics complaints. See how this local conflict grounds bigger political debates.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T19:56:53.595326Z"
     model_name: plugsky-lite
-  the-180:
-    brief: |-
-      THE CONFLICT:
-      - WHO called Covid-19 a plague/pandemic (Implied timeframe before Article 1).
-      - New CDC director resigned (Time unspecified, within context of Article 1).
-      - Alabama Legislature is in session with "18 ways to lock up a drug user" bills from Matt Simpson (R) (Time unspecified, within context of Article 1).
-      - Jeffrey Epstein's personal calendar contained revelations (Time unspecified, within context of Article 1).
-
-      THE DISCOVERY:
-      - Vice President Kamala Harris' political standing shifted from "scourge" to "darling savior" (Time: Recent, after DNC).
-      - RFK Jr removed his name from battleground ballots; Candidate Trump gained prominence (Time: Recent, after DNC).
-      - Sheriff Mack in Baldwin County, Alabama, has one week left in office; Governor is selecting a replacement (Time: Recent, context of Article 2).
-      - Finebaum claims the University of Alabama Football Dynasty is over (Time: Recent).
-
-      THE PIVOT:
-      - Article 2 updates the political status of VP Harris and provides a specific, current local leadership update in Baldwin County, Alabama (Sheriff Mack's final week), contrasting with the broader, generalized claims of instability and political events in Article 1.
-
-      KEY ENTITIES:
-      - WHO
-      - Kamala Harris
-      - RFK Jr
-      - Trump
-      - Matt Simpson (R)
-      - Sheriff Mack
-      - Governor (of Alabama)
-      - Finebaum
-      - Baldwin County, Alabama
-      - CDC (New Director)
-      - Jeffrey Epstein
-    llm_text: Alabama's Matt Simpson pushes "18 ways to lock up a drug user" while Kamala Harris shifts from "scourge" to "savior." See how Sheriff Mack finishes his week in Baldwin County amid these big political shifts.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T19:57:06.195089Z"
-    model_name: plugsky-lite
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT:
-      *   Alabama Legislature sessions were active, featuring new bills regarding drug users from Matt Simpson (R), former ADA of Baldwin County (Article 1).
-      *   On July 31, 2024, the family of OJ French Jr held a rally in connection to an incident involving Bay Minette Police Officer Brandon Thompson (Article 2).
-
-      THE DISCOVERY:
-      *   The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson.
-      *   The lawsuit alleges Officer Thompson lacked probable cause for the stop and used force, resulting in the death of OJ French Jr.
-      *   The Sheriff announced a mid-July resignation and sought Chief Deputy Anthony Lowery appointment by Governor Ivey; County Commissioner Matt McKenzie also sought the post.
-
-      THE PIVOT:
-      *   Article 2 details recent, specific legal action and political maneuvering within Baldwin County (e.g., lawsuit, Sheriff resignation, Lowery/McKenzie interest) which provides concrete context to the legislative focus and former ADA involvement (Matt Simpson) referenced generally in Article 1.
-
-      KEY ENTITIES:
-      *   OJ French Jr
-      *   Officer Brandon Thompson
-      *   Matt Simpson (R)
-      *   Mayor Robert Bob Wills
-      *   Anthony Lowery
-      *   Matt McKenzie
-      *   Governor Ivey
-      *   City of Bay Minette
-    llm_text: OJ French Jr's family sued the City of Bay Minette and Officer Brandon Thompson over the fatal stop. This federal fight connects to Matt Simpson's drug bill focus and the Sheriff race between Anthony Lowery and Matt McKenzie.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T19:57:59.369118Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

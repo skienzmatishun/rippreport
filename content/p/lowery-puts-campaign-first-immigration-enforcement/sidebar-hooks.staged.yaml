@@ -5,7 +5,31 @@ metadata:
   main_date: "2026-05-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  CAMPAIGN-KICKOFF-RECEPTION:
+    refined_source: 03830c1180f407588dfc9992f5da4d9a0659df02b6a0ce99e20af74faa78aa5e
+    brief: |-
+      THE CONFLICT:
+      Matt McKenzie held a campaign kickoff reception related to BCSO elections.
+
+      THE DISCOVERY:
+      The Widget Article established that competitive election campaigning (McKenzie) was active within the BCSO sphere prior to the Main Article's allegations.
+
+      THE PIVOT:
+      The Main Article alleges Sheriff Anthony Lowery is reducing federal immigration enforcement cooperation specifically because this action may be linked to the political demands or strategy surrounding the May 19th election cycle and the competitive landscape (e.g., McKenzie's campaign).
+
+      KEY ENTITIES:
+      Sheriff Anthony Lowery
+      Matt McKenzie
+      Baldwin County Sheriff's Office (BCSO)
+      Baldwin County, Alabama
+      May 19th (Election Date)
+    llm_text: Sheriff Anthony Lowery potentially linked reduced federal immigration cooperation to the competitive May 19th election cycle. Matt McKenzie's BCSO campaign shows how political demands are shaping enforcement across Baldwin County.
+    text: Sheriff Anthony Lowery linked reduced federal immigration cooperation to the competitive May 19 election cycle. Matt McKenzie's campaign shows how political demands dictate law enforcement across Baldwin County.
+    widget_date: "2026-01-15"
+    generated_at: "2026-11-06T07:31:06.224973Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   anonymous-bb:
+    refined_source: 48ab65f30d4dce078bb721dda19c90df2f8feb4a1162a90750e682ee69cbf863
     brief: |-
       THE CONFLICT:
       *   Hoss Mack developed a BCSO culture over 10+ years described as corrupt and favoring the GOB, which was passed to Anthony Lowery.
@@ -30,40 +54,48 @@ hooks:
       *   Baldwin Beat (BB)
       *   May 19th (Election date)
     llm_text: Hoss Mack established a corrupt BCSO culture, which Anthony Lowery inherited. This decades-long system covered up the alleged murder of Robert Yeats and falsely labeled Johnathan Victor's death "suicide by cop."
+    text: Hoss Mack built a corrupt culture inside the Baldwin County Sheriff's Office that Anthony Lowery inherited. That agency covered up the alleged murder of Robert Yeats and labeled Jonathan Victor's death a suicide.
     widget_date: "2026-05-10"
     generated_at: "2026-11-06T07:25:27.257542Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   not-qualified:
+    refined_source: b7f0a1ddfd69f5859c9687fef3e987321c89e9300d5e0bed89ab827ae9f72f6d
     brief: |-
       THE CONFLICT: Past legal proceedings involving Murray Bubba Lawrence Jr. and the trial overseen by Circuit Judge Wilters; Willie Huntley testified regarding Jeff Sessions' mentorship and the bankruptcy of the Ku Klux Klan.
       THE DISCOVERY: Article 2 questioned Kristi Hagood's qualifications as Assistant District Attorney, noting her lack of civil lawsuit experience and suggesting DA Wilters' failure to recuse from the Lawrence Jr. trial was questionable.
       THE PIVOT: Both articles focus on political accountability and the influence of the May 19th election cycle in Baldwin County, connecting specific local policy decisions (Lowery's reduction of federal immigration enforcement) to political self-interest.
       KEY ENTITIES: Anthony Lowery, Sheriff, Baldwin County Sheriff's Office (BCSO), McKenzie, Hoss Mack, Kristi Hagood, Murray Lawrence Jr., Willie Huntley, Jeff Sessions, Kevin Brock, Wilters, BCSO.
     llm_text: Did Kristi Hagood lack civil lawsuit experience during the Murray Lawrence Jr. trial? Judge Wilters' failure to recuse raises serious questions, especially with Anthony Lowery's political influence in Baldwin County.
+    text: Did Kristi Hagood lack civil lawsuit experience during the Murray Lawrence Jr. trial? Judge Wilters refused to recuse himself, raising serious questions about judicial ethics in Baldwin County.
     widget_date: "2026-05-09"
     generated_at: "2026-11-06T07:27:27.417474Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   kristy-haygood-is-not-qualified:
+    refined_source: 91c4ca786ddbb64af7cf9713771858baf3d483cfe27d5a58c725ef2a93562619
     brief: |-
       THE CONFLICT: 2005 murder trial in Hastings (Mississippi); Lawrence was convicted based heavily on the testimony of Jarius McNeil, who pleaded guilty to involvement; District Attorney David Whetstone pursued murder by firearm, but autopsy found cause of death as asphyxiation by suffocation.
       THE DISCOVERY: Article 2 reveals Anthony Lowery was the lead investigator for District Attorney David Whetstone in the 2005 case, producing ZERO evidence; Article 2 also details allegations of a "Brady Information" violation concerning the exclusion of a second autopsy report.
       THE PIVOT: Lowery's historical role as the lead investigator in a high-stakes criminal case (2005) where evidence handling (Brady violation) and factual inaccuracies (Hagood's statements) were central provides context for current concerns regarding his public trust and potential conflicts of interest, linking his past law enforcement actions to current political decisions (scaling back immigration enforcement) ahead of the May 19th election.
       KEY ENTITIES: Anthony Lowery, Sheriff Anthony Lowery, Kristi Hagood, Jarius McNeil, David Whetstone, Baldwin County, Alabama, BCSO, McKenzie, Hoss Mack, May 19th.
     llm_text: Anthony Lowery led the investigation for DA David Whetstone in the 2005 Hastings murder trial, despite zero evidence and a serious Brady violation. Does his past handling of the Jarius McNeil case inform his current political decisions ahead of the May 19th election?
+    text: Anthony Lowery led the investigation for District Attorney David Whetstone in the 2005 Hastings murder trial despite severe evidence violations. Did his past misconduct inform his decisions in the Jarius McNeil case?
     widget_date: "2026-05-07"
     generated_at: "2026-11-06T07:28:11.273971Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   oust-elliott:
+    refined_source: c42a71042f7b1d34cdbc461f7e0e2bbca741a7e00136a8df997531a7ffd22a2e
     brief: |-
       THE CONFLICT: Candidate Mike Vandenheuvel challenged State Senator Chris Elliott, who was associated with the 'head of the snake' known as Catalyst and the GOB of Baldwin.
       THE DISCOVERY: The Ripp Report previously exposed Elliott's connection to gaming interests and his knowledge of solar fields.
       THE PIVOT: Article 2 establishes a history of political scrutiny regarding local figures (Elliott) and ambition in Baldwin County, setting a background of political maneuvering that informs the allegations against Sheriff Anthony Lowery in Article 1 regarding campaign ties and immigration enforcement.
       KEY ENTITIES: Sheriff Anthony Lowery, Baldwin County Sheriff's Office (BCSO), Chris Elliott, Mike Vandenheuvel (Mike Van), Catalyst, GOB, Baldwin County, May 19th.
     llm_text: Mike Vandenheuvel challenged State Senator Chris Elliott, whose ties to Catalyst and the GOB fueled Baldwin County politics. Understand how this local maneuvering informs the current scrutiny against Sheriff Anthony Lowery.
+    text: Mike Vandenheuvel challenged State Senator Chris Elliott over his ties to Catalyst and local political insiders. That insider maneuvering sheds light on the current scrutiny facing Sheriff Anthony Lowery.
     widget_date: "2026-04-13"
     generated_at: "2026-11-06T07:29:08.829858Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-news:
+    refined_source: bd05a837a3796cd3d909d9980d5da7d3b205798669b3a2604e57d479df3066fa
     brief: |-
       THE CONFLICT:
       *   Hoss Mack was previously a GOB member; he is now "gone" with internal problems in his new job (Widget Article).
@@ -93,37 +125,19 @@ hooks:
       *   Billie Jo Underwood
       *   BCSO
     llm_text: Anthony Lowery, integrated into the GOB structure and tied to the Murray Lawrence investigation, uses his Sheriff position for political gain in Baldwin County. Read how his self-interest may compromise public safety during the May 19th election cycle.
+    text: Anthony Lowery uses his position as sheriff for political gain in Baldwin County. His self-interest compromises public safety and threatens proper law enforcement ahead of the May 19 election.
     widget_date: "2026-03-12"
     generated_at: "2026-11-06T07:26:17.857976Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   summerdale-sunshine:
+    refined_source: 6b9b1e4cf9b9c84de614f9f988aeffdc05c6cffaedb352762bd1a0d710c8f0e3
     brief: |-
       THE CONFLICT: Scott Boone (Lowery’s campaign manager) was involved in political infighting regarding Kristy Haygood (whose candidacy was linked to Murray Lawrence Jr.'s wrongful conviction and her Rule 32 filing errors); Judge Taylor kicked Scott Boone, angering Lowery and Hoss Mack. Donna Black Givens attempted to push bill HB51, which threatened constitutional free speech rights.
       THE DISCOVERY: Article 2 revealed deep, pre-existing political corruption in Baldwin County, including alliances based on friendship or payment (Jon Gray), political backstabbing (Chris Elliott, Donna Givens), and the toxic nature of Scott Boone/Catalyst.
       THE PIVOT: Article 2 establishes that Sheriff Lowery's political operation (managed by Scott Boone) is defined by entrenched self-interest, toxic alliances, and power struggles, providing historical context for the claim in Article 1 that Lowery may be prioritizing his *campaign* over *immigration enforcement/citizen safety*.
       KEY ENTITIES: Sheriff Anthony Lowery, Hoss Mack, Scott Boone (Catalyst), Jon Gray, Kristy Haygood, Frances Jones, Fort Morgan, Jodi Bishop, Jeremiah Giles, Murray Lawrence Jr., Robert Wilters, Judge Scott, Chris Elliott, Eddie Tyler, Donna Black Givens, Matt McMckenzie, Baldwin County, May 19th.
-    llm_text: Sheriff Anthony Lowery's political operation, managed by Scott Boone, thrives on toxic alliances and deep self-interest. Discover how this entrenched Baldwin County power struggle might prioritize his campaign over citizen safety and immigration enforcement.
+    llm_text: Sheriff Anthony Lowery's political operation, managed by Scott Boone, thrives on toxic alliances and deep self-interest. Read how this entrenched Baldwin County power struggle might prioritize his campaign over citizen safety and immigration enforcement.
+    text: Sheriff Anthony Lowery's political operation relies on Scott Boone and entrenched local alliances. This Baldwin County power struggle prioritizes campaign ambitions over citizen safety and immigration enforcement.
     widget_date: "2026-01-24"
     generated_at: "2026-11-06T07:30:13.544820Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  CAMPAIGN-KICKOFF-RECEPTION:
-    brief: |-
-      THE CONFLICT:
-      Matt McKenzie held a campaign kickoff reception related to BCSO elections.
-
-      THE DISCOVERY:
-      The Widget Article established that competitive election campaigning (McKenzie) was active within the BCSO sphere prior to the Main Article's allegations.
-
-      THE PIVOT:
-      The Main Article alleges Sheriff Anthony Lowery is reducing federal immigration enforcement cooperation specifically because this action may be linked to the political demands or strategy surrounding the May 19th election cycle and the competitive landscape (e.g., McKenzie's campaign).
-
-      KEY ENTITIES:
-      Sheriff Anthony Lowery
-      Matt McKenzie
-      Baldwin County Sheriff's Office (BCSO)
-      Baldwin County, Alabama
-      May 19th (Election Date)
-    llm_text: Sheriff Anthony Lowery potentially linked reduced federal immigration cooperation to the competitive May 19th election cycle. Matt McKenzie's BCSO campaign shows how political demands are shaping enforcement across Baldwin County.
-    widget_date: "2026-01-15"
-    generated_at: "2026-11-06T07:31:06.224973Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

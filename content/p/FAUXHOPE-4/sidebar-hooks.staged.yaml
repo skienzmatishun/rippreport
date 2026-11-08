@@ -5,13 +5,62 @@ metadata:
   main_date: "2025-11-14"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  fauxhope:
+    refined_source: 8f9878be35748edc258f7ed764a31ca7ad2c5cad9e4b16689ec32c23d2609ff7
+    brief: |-
+      THE CONFLICT:
+      *   City of Fairhope acquired the K-1 Center and surrounding property from the Baldwin County Board of Education in 2019 for $2.5 million.
+      *   Mayor Wilson secured millions for sewer infrastructure and a $6.2 million grant for waterfront improvements.
+      *   Developer Stewart Speed of Leaf River Group falsely claimed apartments would be "signature," environmental sound, and never contaminate Fly Creek.
+      *   Councilman Burrell acquired land near Alabama 181 and Baldwin County 48 for storm water retention and drainage.
+
+      THE DISCOVERY:
+      *   The $6.2 million waterfront grant mandated ADA compliance, which Mayor Sherry Sullivan took nearly a year to understand and concede.
+      *   Initial comprehensive plans prioritized sustainable, community-driven growth, not solely developer interests.
+      *   Councilman Burrell initially claimed fiscal responsibility by saving $750,000 on a retention pond.
+
+      THE PIVOT:
+      *   Article 2 establishes that the issues (waterfront delays, broken developer promises, and prioritization of development over sustainable infrastructure) were rooted in early political decisions under Mayor Wilson/Sherry Sullivan, not just recent corruption.
+      *   The initial $6.2 million grant mentioned in Article 2 is the historical context for the current $10 million, 5.5-year late waterfront project detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Boone Brown
+      *   Councilman Jay Robinson
+      *   Mayor Sherry Sullivan
+      *   Mayor Wilson
+      *   Stewart Speed / Leaf River Group
+      *   Publix
+      *   City Council
+      *   Parker Road
+    llm_text: Mayor Wilson secured a $6.2 million waterfront grant, but developer Stewart Speed falsely promised clean, signature apartments near Fly Creek. Early decisions by Mayor Sullivan and Councilman Burrell prioritized growth over sustainable infrastructure, delaying the $10 million project for years.
+    text: Mayor Wilson secured a $6.2 million grant, but Stewart Speed promised apartments near Fly Creek. Early choices by Mayor Sullivan and Councilman Burrell delayed the project for years.
+    widget_date: "2021-09-24"
+    generated_at: "2026-11-06T11:20:56.718936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  liar-liar-pants-on-fire-2:
+    refined_source: 258e789a3f77c8b9bda291920c469798677fd2322768b36ced0f9e5dfefbc025
+    brief: |-
+      THE CONFLICT: Fly Creek apartments (Fairhope Village Apartments at Publix) were built on Fly Creek banks, leading to pollution, drainage issues, and 5 resulting lawsuits costing taxpayers hundreds of thousands of dollars. Key players involved in the initial project were then Mayor, benefactor developer Arthur Corte, Council President Jack Burrell, and developer Stewart "The Liar" Speed of Leaf River Group.
+
+      THE DISCOVERY: Article 2 documented that Stewart Speed lied to public audiences (250-300 citizens) about the apartments being luxury, environmental sound, and signature Leaf River projects, which proved false upon completion (partial flooding, poor management, and subsequent sale).
+
+      THE PIVOT: Article 2 establishes a historical precedent of developer corruption, deceit, and undue influence involving Council President Jack Burrell and the Publix/Fly Creek development, providing critical context for Article 1's claims that the current City Council and Mayor enable unchecked development (tree removal, waterfront project overruns, and the questionable recreation land deal involving Boone Brown and Burrell).
+
+      KEY ENTITIES: Jack Burrell (Council President/Councilman), Boone Brown (Councilman), Arthur Corte, Stewart "The Liar" Speed (Leaf River Group), Publix, Fly Creek, City Council, Mayor, Parker Road.
+    llm_text: Stewart "The Liar" Speed lied to 250 citizens about the Fly Creek apartments, leading to pollution and five costly lawsuits. This historical corruption involving Jack Burrell shows why the City Council must stop unchecked development today.
+    text: Stewart Speed misled citizens about Fly Creek apartments, which led to pollution and five lawsuits. This history shows why the City Council must stop unchecked development.
+    widget_date: "2021-09-17"
+    generated_at: "2026-11-06T11:22:19.563300Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture:
+    refined_source: 297db474e9e688302c144af6b41171605461344b4195ae0b9d54e688712bb7df
     brief: |-
       THE CONFLICT:
       *   2017 fatal shooting of Jonathan Victor; Deputy Lt. Matthew Hunady cleared by federal jury.
-      *   Wrongful conviction of Murray Lawrence Jr. (Lowery was lead investigator; Hoss Mack, Robert Wilters, and David Whetstone allegedly hid exculpatory evidence).
+      *   Wrongful conviction of Murray Lawrence Jr. (Lowery was lead investigator; Hoss Mack, Robert Wilters, and David Whetstone hid exculpatory evidence).
       *   OJ French killed in Bay Minette; Major Crimes Unit, with then Mayor Wills, ruled the death a "justified shooting."
-      *   Stephen Nodine murder trial was allegedly a political hit piece driven by Mack, Lowery, and Newcomb.
+      *   Stephen Nodine murder trial was a political hit piece driven by Mack, Lowery, and Newcomb.
 
       THE DISCOVERY:
       *   BCSO operates under a "culture of lies, wrongful incarceration, deadly shootings," characterized by blanket immunity, no transparency, and no accountability.
@@ -41,10 +90,12 @@ hooks:
       *   Brown
       *   Mayor Wills (former)
     llm_text: BCSO history proves power protects itself—from the 2017 Jonathan Victor shooting to Murray Lawrence Jr.'s wrongful conviction, figures like Lowery and Mack hid evidence. This pattern of unchecked power mirrors today's controversial deals involving Councilman Boone Brown and Jack Burrell.
+    text: BCSO history shows power protects itself, from the 2017 Jonathan Victor shooting to Murray Lawrence Jr. Figures like Lowery and Mack hid the evidence.
     widget_date: "2025-10-05"
     generated_at: "2026-11-06T11:13:15.243250Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    refined_source: 6ff971c72a1a9509f86224770936ffe123260082460ce745e5eea76e2bb0d1ba
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. spent over 20 years in prison for a capital murder he did not commit (2005 trial).
@@ -73,20 +124,24 @@ hooks:
       Parker Road
       Jack Burrell Airport
     llm_text: Murray Lawrence Jr. spent 20 years for a capital murder he didn't commit, based on a coerced confession. Today, the men who built that case—including DA Robert Wilters and Sheriff Anthony Lowery—still hold unchecked power influencing local development.
+    text: Murray Lawrence Jr. spent 20 years in prison for a murder he did not commit due to a forced confession. The men who built that case, including DA Robert Wilters and Sheriff Anthony Lowery, still hold local power.
     widget_date: "2025-10-01"
     generated_at: "2026-11-06T11:15:36.069488Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-3:
+    refined_source: f0844b2f73e11d15f5e28d3febbbc653d2e9204bf678aec4ebeac64ebf2bab6e
     brief: |-
       THE CONFLICT: City Council and Mayor were supported by developers, leading to diminished quality of life, increased traffic, and strained infrastructure over several years.
       THE DISCOVERY: Officials (Council, Mayor, Municipal Judge, Municipal Attorney) received a free year in office during the 2024 period due to the Alabama legislature postponing municipal elections, while the Mayor held a dual role as Mayor and Utility Director without requisite qualifications.
       THE PIVOT: The systemic lack of accountability and developer influence established in the earlier period (Article 2) is the foundation for the specific real estate deals, unchecked development (tree removal, clear-cutting), and budget overruns (waterfront project increase from $6.2M to $10M) detailed in the later article (Article 1).
       KEY ENTITIES: City Council, Mayor Sullivan, Publix, Parker Road, Boone Brown, Burrell, Jack Burrell Airport, Waterfront Project, $10 million, $6.2 million, 2024, 2025
     llm_text: Developer influence allowed Mayor Sullivan and the City Council to benefit from 2024 delays, even holding dual, unqualified roles. See how unchecked power pushed the Waterfront Project budget from $6.2M to $10 million.
+    text: Developer influence helped Mayor Sullivan and the City Council profit from 2024 delays while holding dual roles. Unchecked power pushed the waterfront budget from $6.2M to $10 million.
     widget_date: "2024-11-03"
     generated_at: "2026-11-06T11:16:39.043934Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backpedaling-fauxhope:
+    refined_source: 122aea8c55411392f62f325216e140b11fd10d6f6f1e46c822cf49de6ca5aa45
     brief: |-
       THE CONFLICT:
       *   Council denied public participation in meetings, leading to *FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc.* in the UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA SOUTHERN.
@@ -114,10 +169,12 @@ hooks:
       *   FRANCIS PAUL RIPP (Plaintiff)
       *   UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA SOUTHERN
     llm_text: Francis Paul Ripp sued Jack Burrell and the Fairhope Council in federal court over denied public participation. Learn how Boone Burrell and Boone Brown's alleged $2.65M land scam reveals a pattern of unaccountable, developer-friendly governance.
+    text: Francis Paul Ripp sued Jack Burrell and the Fairhope Council in federal court over denied public participation. Developer-friendly governance continues to shut out citizens.
     widget_date: "2024-05-17"
     generated_at: "2026-11-06T11:18:11.600890Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fairhope-free-year:
+    refined_source: 4f44aae9f77ad7f57cd2e675764e3e950f0281be3806358fc5b29bd59d25c9fc
     brief: |-
       THE CONFLICT:
       - Municipal elections were postponed by the Alabama legislature in 2024 due to the presidential election.
@@ -144,10 +201,12 @@ hooks:
       - Jack Burrell Airport
       - Water/Sewer Infrastructure (2020 projects)
     llm_text: Francis Paul Ripp sued Jack Burrell because Fairhope has lacked elected officials for five consecutive years. This unchecked power allowed developers to push $10 million projects and let the sewer plant pollute the Bay.
+    text: Francis Paul Ripp sued Jack Burrell because Fairhope lacked elected officials for five straight years. That unchecked power let developers push costly projects and pollute the Bay.
     widget_date: "2024-05-13"
     generated_at: "2026-11-06T11:14:26.876446Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fairhope-infrastructure:
+    refined_source: 6e95fe925713565639a55f3f664b2967824a5e47c076d286e1e69229e539f488
     brief: |-
       THE CONFLICT:
       *   Waterfront project ballooned from $6.2 Million to $10 Million.
@@ -176,50 +235,7 @@ hooks:
       *   Park City
       *   Fairhope
     llm_text: Fairhope faces a three-year water shortage while Councilmen Boone Brown and Burrell oversaw a ballooning waterfront project. Senator Katie Britt invested $33k in 68 Ventures, which bought land from former Municipal Judge Hix Snedeker, exposing systemic corruption.
+    text: Fairhope faces a three-year water shortage while officials oversee a ballooning waterfront project. Senator Katie Britt invested in 68 Ventures after land deals with a former judge.
     widget_date: "2024-05-06"
     generated_at: "2026-11-06T11:19:39.195792Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope:
-    brief: |-
-      THE CONFLICT:
-      *   City of Fairhope acquired the K-1 Center and surrounding property from the Baldwin County Board of Education in 2019 for $2.5 million.
-      *   Mayor Wilson secured millions for sewer infrastructure and a $6.2 million grant for waterfront improvements.
-      *   Developer Stewart Speed of Leaf River Group falsely claimed apartments would be "signature," environmental sound, and never contaminate Fly Creek.
-      *   Councilman Burrell acquired land near Alabama 181 and Baldwin County 48 for storm water retention and drainage.
-
-      THE DISCOVERY:
-      *   The $6.2 million waterfront grant mandated ADA compliance, which Mayor Sherry Sullivan took nearly a year to understand and concede.
-      *   Initial comprehensive plans prioritized sustainable, community-driven growth, not solely developer interests.
-      *   Councilman Burrell initially claimed fiscal responsibility by saving $750,000 on a retention pond.
-
-      THE PIVOT:
-      *   Article 2 establishes that the issues (waterfront delays, broken developer promises, and prioritization of development over sustainable infrastructure) were rooted in early political decisions under Mayor Wilson/Sherry Sullivan, not just recent corruption.
-      *   The initial $6.2 million grant mentioned in Article 2 is the historical context for the current $10 million, 5.5-year late waterfront project detailed in Article 1.
-
-      KEY ENTITIES:
-      *   Jack Burrell (Council President)
-      *   Boone Brown
-      *   Councilman Jay Robinson
-      *   Mayor Sherry Sullivan
-      *   Mayor Wilson
-      *   Stewart Speed / Leaf River Group
-      *   Publix
-      *   City Council
-      *   Parker Road
-    llm_text: Mayor Wilson secured a $6.2 million waterfront grant, but developer Stewart Speed falsely promised clean, signature apartments near Fly Creek. Early decisions by Mayor Sullivan and Councilman Burrell prioritized growth over sustainable infrastructure, delaying the $10 million project for years.
-    widget_date: "2021-09-24"
-    generated_at: "2026-11-06T11:20:56.718936Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  liar-liar-pants-on-fire-2:
-    brief: |-
-      THE CONFLICT: Fly Creek apartments (Fairhope Village Apartments at Publix) were built on Fly Creek banks, leading to pollution, drainage issues, and 5 resulting lawsuits costing taxpayers hundreds of thousands of dollars. Key players involved in the initial project were then Mayor, benefactor developer Arthur Corte, Council President Jack Burrell, and developer Stewart "The Liar" Speed of Leaf River Group.
-
-      THE DISCOVERY: Article 2 documented that Stewart Speed lied to public audiences (250-300 citizens) about the apartments being luxury, environmental sound, and signature Leaf River projects, which proved false upon completion (partial flooding, poor management, and subsequent sale).
-
-      THE PIVOT: Article 2 establishes a historical precedent of developer corruption, deceit, and undue influence involving Council President Jack Burrell and the Publix/Fly Creek development, providing critical context for Article 1's claims that the current City Council and Mayor enable unchecked development (tree removal, waterfront project overruns, and the questionable recreation land deal involving Boone Brown and Burrell).
-
-      KEY ENTITIES: Jack Burrell (Council President/Councilman), Boone Brown (Councilman), Arthur Corte, Stewart "The Liar" Speed (Leaf River Group), Publix, Fly Creek, City Council, Mayor, Parker Road.
-    llm_text: Stewart "The Liar" Speed lied to 250 citizens about the Fly Creek apartments, leading to pollution and five costly lawsuits. This historical corruption involving Jack Burrell shows why the City Council must stop unchecked development today.
-    widget_date: "2021-09-17"
-    generated_at: "2026-11-06T11:22:19.563300Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

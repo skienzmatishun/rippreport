@@ -1,0 +1,143 @@
+metadata:
+  generated_at: "2026-11-07T09:01:51.335825Z"
+  generator_version: 1.0.0
+  post_slug: s-o-s
+  main_date: "2021-05-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  super-bowl-lv:
+    refined_source: f0e87302b33c0c42c80d0ed0ab882f4f3d6cd8ec1a42a33ff244dcd057cc94f3
+    brief: |-
+      THE CONFLICT: 2020 Presidential election led to claims of a "contested election" and "insurrection" in the nation's Capital (related to Super Bowl LV, 55th Super Bowl).
+      THE DISCOVERY: The 2020 election highlighted extreme national political division between Republicans and Democrats, contrasting this turmoil with the civility of sports.
+      THE PIVOT: The national failure of established political order (Widget Article) provides thematic context for localized institutional failures, such as the Baldwin County Sheriff Office's pattern of "deliberate indifference" and the struggle against Qualified Immunity (Main Article).
+      KEY ENTITIES: Super Bowl LV; 2020 Presidential election; Fairhope; Baldwin County; Sheriff Hoss Mack; Fairhope City Council; Mobile Baykeeper; ADEM; Governor Ivy; $6.2 million (RESTORE Act grant).
+    llm_text: The turmoil of the 2020 Presidential election wasn't just national drama. Local failure hits Baldwin County, where Sheriff Hoss Mack struggles against Qualified Immunity despite the $6.2 million RESTORE Act grant.
+    text: The turmoil of the 2020 election went far beyond national drama. Sheriff Hoss Mack struggled against qualified immunity right here in Baldwin County despite a $6.2 million RESTORE Act grant.
+    widget_date: "2021-02-05"
+    generated_at: "2026-11-07T09:01:26.981395Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-81-tan-rested-ready:
+    refined_source: db9ce8075f1843192e436a03083eea445c7dac044bee08a6c9468898e4d9a3c4
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope pier plan details were an issue during the COVID-19 period (Widget Article).
+      *   Sheriff mayhem lawsuits involving Hoss Mack were active during the COVID-19 period (Widget Article).
+      *   Coal ash apathy regarding Mitigation by State EMA was noted (Widget Article).
+
+      THE DISCOVERY:
+      *   Article 2 confirmed Fairhope waterfront, Hoss Mack lawsuits, and coal ash issues were subjects of reporting during the COVID-19 pandemic.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context demonstrating that the Fairhope Waterfront grant controversy, Sheriff Mack accountability, and coal ash concerns are long-standing issues, not new events, framing the current political and legal conflicts detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Fairhope Waterfront
+      *   Council President Burrell
+      *   Mobile Baykeeper
+      *   ADEM (Department of Environmental Management)
+      *   Alabama Power
+      *   Taxman Elliott
+    llm_text: Fairhope Waterfront grant issues, Hoss Mack lawsuits, and coal ash concerns are not new COVID problems. Historical reporting shows these long-standing issues frame today's political battles involving Council President Burrell and Taxman Elliott.
+    text: Fairhope waterfront grants, Sheriff Hoss Mack lawsuits, and coal ash worries did not start during COVID. Old political battles involving Council President Jack Burrell and Taxman Elliott created these ongoing crises.
+    widget_date: "2021-05-03"
+    generated_at: "2026-11-07T08:55:08.581993Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-79-ole-peg-gy:
+    refined_source: 8df2545c0b32cbea005cac600ae060fe4cb55ba860b97f70e84c835686a5caea
+    brief: |-
+      THE CONFLICT: Lawsuit filed against the Sheriff of Baldwin County related to a fiery crash that killed 5 people on I-10 (Widget Article).
+      THE DISCOVERY: The crash lawsuit revealed issues of poor training leading to poor outcomes (Widget Article).
+      THE PIVOT: Article 2 provides the initial context of the fatal crash lawsuit; Article 1 confirms Sheriff Hoss Mack is facing Federal Court WITHOUT QUALIFIED IMMUNITY due to a well-established pattern of "deliberate indifference" (Main Article).
+      KEY ENTITIES: Hoss Mack, Mobile Baykeeper, Fairhope Waterfront, Baldwin County Sheriff Office, John Merrill, City of Faux Hope, Council President Burrell
+    llm_text: Sheriff Hoss Mack faces Federal Court without qualified immunity over the fiery I-10 crash that killed five people in Baldwin County. Read how poor training led to deliberate indifference, holding the Sheriff accountable for this deadly tragedy.
+    text: Sheriff Hoss Mack faces a federal lawsuit without qualified immunity over the fiery I-10 crash that killed five people. How did poor training lead to deliberate indifference in this deadly Baldwin County tragedy?
+    widget_date: "2021-04-11"
+    generated_at: "2026-11-07T08:57:01.390636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-slap-on-the-wrist:
+    refined_source: 416f2bbb2bae2606b89999de632dde31952630c8d065c711e68db2c2a32ef864
+    brief: |-
+      THE CONFLICT:
+      *   2017: Ronan McSharry convicted of “breach of peace” after harassing artist Nall Hollis. Received 12-month probation with restrictions (no distilled liquors, avoid Hollis).
+      *   2018: McSharry assaulted Paula DiNiardi.
+      *   Current/Recent: Sheriff Hoss Mack faced Federal Court without qualified immunity due to a well established pattern of "deliberate indifference."
+      *   Current: Fairhope City Council approved a $6.2 million RESTORE Act-funded “working waterfront and green space project.”
+
+      THE DISCOVERY:
+      *   Baldwin County operates a political cabal (CATALYST, later Scott Boone Consulting SBC) involving politicians, developers, judges, lawyers, and a sheriff, maintaining control over Fairhope.
+      *   Ronan McSharry demonstrated a pattern of alcohol-related and violent misconduct (2017, 2018) and failed to assist Paula DiNiardi.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of political corruption (SBC/Council/Judges) and individual misconduct in Baldwin County, providing context for Article 1’s claim that Hoss Mack has a "well established pattern" of deliberate indifference and avoids accountability through Qualified Immunity.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Ronan McSharry
+      *   Paula DiNiardi
+      *   Nall Hollis
+      *   Jack Burrell (Fairhope City Council President)
+      *   Haymes Snedeker (Fairhope Municipal Judge)
+      *   Marcus McDowell (City Attorney)
+      *   Kevin Boone ("Strawman")
+      *   Stankoski (Baldwin County Circuit Court Judge)
+      *   Fairhope Waterfront ($6.2 million grant)
+      *   SBC (Scott Boone Consulting)
+      *   City of Faux Hope Alabama
+      *   Mobile Baykeeper
+      *   ADEM (Department of Environmental Management)
+    llm_text: Sheriff Hoss Mack faces federal court over deliberate indifference, but local corruption runs deeper than the $6.2 million Fairhope grant. Ronan McSharry’s history—harassing Nall Hollis and assaulting Paula DiNiardi—exposes the Baldwin County political cabal.
+    text: Sheriff Hoss Mack faces a federal court over deliberate indifference, but local corruption goes far beyond a $6.2 million Fairhope grant. Ronan McSharry’s history of harassment and assault exposes the Baldwin County political machine.
+    widget_date: "2021-03-26"
+    generated_at: "2026-11-07T08:58:07.760827Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  csb-railroad-nomination:
+    refined_source: 240e06058e9e5dd4f624e8392c26e9657ea6b7e8d03682b7701de86d47d377cb
+    brief: |-
+      THE CONFLICT:
+      Robert Brown purchased his "family" property on July 21, 2020.
+      Council President Jack Burrell unilaterally selected Jay Robinson to replace Brown on the City Council without public participation.
+      THE DISCOVERY:
+      Article 2 revealed Burrell's decision was motivated by the need to maintain a CSB vote, linking the council selection to special interests (CSB/Catalyst/Scott Boone's father).
+      THE PIVOT:
+      Article 2 establishes a historical pattern of Burrell suppressing free speech and denying public participation, providing context for the current political conflict in Article 1, where the City Council is altering requirements for the $6.2 million RESTORE Act-funded Fairhope Waterfront project despite its citizen-driven nature.
+      KEY ENTITIES:
+      Jack Burrell (Council President)
+      Jay Robinson (Councilperson)
+      Robert Brown
+      CSB
+      Catalyst/Scott Boone
+      Fairhope City Council
+      Fairhope Waterfront
+      Hoss Mack (Baldwin County Sheriff)
+      Mobile Baykeeper
+    llm_text: Council President Jack Burrell replaced Robert Brown with Jay Robinson to secure a CSB vote. This pattern of suppressing public participation threatens the citizen-driven $6.2 million Fairhope Waterfront project.
+    text: Council President Jack Burrell replaced Robert Brown with Jay Robinson to lock down a crucial vote. Why does this suppression of public voices threaten the citizen-led $6.2 million Fairhope Waterfront project?
+    widget_date: "2021-03-12"
+    generated_at: "2026-11-07T08:59:15.298909Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  honeymoon:
+    refined_source: 0ca23ce5c87b8fdc9b613bd7b48e46d9ccce1a80bc3bb6ae088f2e681533c586
+    brief: |-
+      THE CONFLICT: Robert Brown resigned from the Fairhope City Council; he purchased family property in July 2020 (appraised value $1.6 million); the political system shifted to "selection, not election."
+      THE DISCOVERY: Catalyst/Scott Boone Consulting (CSB) dominates the Fairhope political infrastructure, with Jack Burrell, Sherry Sullivan, and Kevin Boone paying back CSB for their influence.
+      THE PIVOT: Article 2 establishes the foundational political corruption (CSB dominance/financial gain) in Fairhope, providing the context for the later contentious $6.2 million RESTORE Act-funded Fairhope Waterfront project approval by the City Council.
+      KEY ENTITIES: Robert Brown, Jack Burrell, Sherry Sullivan, Kevin Boone, Jay Robinson, CSB, Fairhope City Council, $6.2 million (grant), Hoss Mack, Mobile Baykeeper
+    llm_text: Robert Brown resigned from the Fairhope City Council amidst a political shift. CSB dominates Fairhope infrastructure, influencing Jack Burrell and Sherry Sullivan—read how this context shaped the $6.2 million Waterfront project approval.
+    text: Robert Brown quit the Fairhope City Council during a major political shift. How did infrastructure groups influence Jack Burrell and Sherry Sullivan to push through the $6.2 million waterfront project?
+    widget_date: "2021-03-05"
+    generated_at: "2026-11-07T09:00:21.402199Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity-2:
+    refined_source: c89d3bf9f15ef5226906f3509d2ded3729af05a3a7541ef87cb9989324462426
+    brief: |-
+      THE CONFLICT: Governor Bentley (2015) failed to expand Medicaid, resulting in an estimated 15-20 Billion in lost revenue and hospital closures. Later, Governor Ivy pushed a $3 Billion "private Partnership" prison for profit plan (2021).
+      THE DISCOVERY: Previous Republican Governors (Bentley and Ivy) prioritized private/political financial gains (e.g., $3 Billion prison plan) over the expansion of Medicaid, despite majority citizen desire.
+      THE PIVOT: Article 2 establishes a pattern of prioritizing private profit/political ambition over public welfare and accountability in Alabama governance, which provides context for current political friction (Fairhope Waterfront project, Council President Burrell opposition) and the need for accountability regarding Sheriff Hoss Mack.
+      KEY ENTITIES: Governor Bentley, Governor Ivy, Hoss Mack, Fairhope City Council, Council President Burrell, Mobile Baykeeper, Baldwin County Sheriff Office, Deputy Hunady.
+    llm_text: Governor Bentley lost Alabama $15-20B by failing to expand Medicaid. Later, Governor Ivy pushed a $3 billion private prison profit plan, proving political leaders consistently prioritize private gain over public welfare.
+    text: Governor Robert Bentley cost Alabama billions by refusing to expand Medicaid. Later, Governor Kay Ivey pushed a $3 billion private prison profit plan while public welfare took a back seat.
+    widget_date: "2021-02-19"
+    generated_at: "2026-11-07T08:56:00.569301Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,319 @@
+metadata:
+  generated_at: "2026-11-07T14:29:23.437818Z"
+  generator_version: 1.0.0
+  post_slug: bsp-tlp
+  main_date: "2020-10-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 525c0993ae035f03c0f161fc8cd135e9234352a0dcb4cab9ac6f90dab4dd201c
+    brief: |-
+      THE CONFLICT: Ronald Greene was beaten to death by Louisiana State Troopers after a car collision; Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      THE DISCOVERY: On July 31, 2024, the family of OJ French Jr filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson, alleging Officer Thompson lacked probable cause and shot him during a struggle over a taser.
+      THE PIVOT: The French lawsuit directly challenges local law enforcement actions and official statements (e.g., Mayor Robert Bob Wills lying about speaking for the family), paralleling the local political scrutiny and alleged police misconduct reported in the Main Article (e.g., the Ronald Greene case/State Trooper involvement).
+      KEY ENTITIES: OJ French Jr, Brandon Thompson, Mayor Robert Bob Wills, Sheriff (resigning mid-August), Anthony Lowery (Chief Deputy), Matt McKenzie (County Commissioner), Mike McMillan, Circuit Judge James Reid.
+    llm_text: Ronald Greene's alleged beating led to Mike McMillan's not guilty verdict. Now, OJ French Jr's family sues Officer Brandon Thompson, challenging local police actions and official lies from Mayor Robert Bob Wills.
+    text: Mike McMillan walked away with a not guilty verdict from Judge James Reid. Now, OJ French Jr.'s family sues Officer Brandon Thompson over official lies.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T14:29:02.549406Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 70512616230a4efb8584242ef832cfb6d1f343b966f8b14afe7382cc73772fd9
+    brief: |-
+      THE CONFLICT:
+      *   Spanish Fort Mayor Mike McMillan found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      *   Ronald Greene's family alleged he was beaten to death by Louisiana State Troopers after running from police.
+      *   Double homicide suspect Antwon Smith was denied bond for the murder of two Washington state men.
+      *   The Lincoln Project includes figures such as Steve Schmidt, Rick Wilson, and George Conway, focused on removing Trump.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis.
+      *   Ivey is attempting to control the veterans’ board, upsetting Republican veterans.
+      *   A court case ruled that people cannot sue over a wrong SWAT raid, questioning police accountability.
+      *   A true crime story in Clarke County exposed a hospice business's shady ties to a judge.
+
+      THE PIVOT:
+      *   Article 2 shifts the focus from specific local/national trials (McMillan, Lincoln Project) to systemic state governance issues under Governor Kay Ivey regarding veteran oversight and police accountability.
+
+      KEY ENTITIES:
+      *   Mike McMillan
+      *   James Reid
+      *   Ronald Greene
+      *   Antwon Smith
+      *   Steve Schmidt
+      *   Rick Wilson
+      *   George Conway
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Baldwin County
+      *   Clarke County
+    llm_text: Kay Ivey fired Admiral Kent Davis while attempting to control the veterans’ board, upsetting GOP veterans. Learn how recent court rulings question police accountability and reveal shady ties between Clarke County hospice businesses and local judges.
+    text: Kay Ivey fired Admiral Kent Davis to seize control of the veterans board. At the same time, local court rulings question police actions and shady business deals.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T14:19:32.988695Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: efa593fc2024edff5b3af657bedc9520e53bdb017a55dba749a9863fc72f6fa1
+    brief: |-
+      THE CONFLICT:
+      Mike McMillan (Spanish Fort Mayor) was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      Ronald Greene was beaten to death by Louisiana State Troopers.
+      The Lincoln Project (including Steve Schmidt, Rick Wilson, George Conway, Capt. Chesley Sullenberger) aimed to remove Trump.
+      Alabama recorded 170,374 SARS-COV-2 cases and 2,786 deaths.
+
+      THE DISCOVERY:
+      Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+      Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+
+      THE PIVOT:
+      Article 2 provides updated local governance action (Baldwin County lot approvals, sales tax cuts, sample ballot availability) and concurrent legal/political developments (Bay Minette lawsuit, Governor Ivey's demand) that contextualize the ongoing political and legal landscape referenced in Article 1 (McMillan verdict, Lincoln Project activity).
+
+      KEY ENTITIES:
+      Mike McMillan
+      James Reid
+      Ronald Greene
+      Steve Schmidt
+      Rick Wilson
+      George Conway
+      Chesley "Sully" Sullenberger
+      Governor Ivey
+      Andy Ruten
+      Bob Wills (Bay Minette Mayor)
+      Brandon Thompson
+      Baldwin County
+      Spanish Fort
+      Foley Public Library
+      Veteran's Affairs Commissioner
+    llm_text: Governor Ivey demands the Veteran's Affairs Commissioner resign while the City of Bay Minette faces a lawsuit involving officer Brandon Thompson. See how Baldwin County approved thousands of residential lots and cut sales tax, shaping Alabama's local political and legal landscape.
+    text: Governor Ivey forces out her Veterans Affairs Commissioner while Bay Minette faces a police lawsuit. What do these legal battles mean for Baldwin County residents?
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T14:20:40.568979Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 62b8263007819a1cd5c7f2213bd822580c1179867bec18a4f9c9399076f92639
+    brief: |-
+      THE CONFLICT:
+      *   SARS-COV-2 cases worldwide: 39,068,667; USA: 7,997,969 (Alabama: 170,374 cases, 2,786 deaths).
+      *   Ronald Greene was beaten to death by Louisiana State Troopers (new audio evidence).
+      *   Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      *   Lincoln Project members named: Steve Schmidt, Rick Wilson, George Conway, Capt. Chesley "Sully" Sullenberger.
+      *   Double homicide suspect Antwon Smith was denied bond for murders of two Washington state men.
+
+      THE DISCOVERY:
+      *   Sylacauga Alabama is a focal point for the "Haitian Immigrant Eating Cats" debate.
+      *   Kent David, Former Real Admiral and Jag Officer, resigned as Alabama Veterans Affairs Commissioner.
+      *   Baldwin County Sheriff Department has a new Command Staff.
+      *   Brandon Moseley discussed five firearms related bills for the 2025 session at BamaCarry Inc of Tuscaloosa.
+      *   A rally to "Rescue the Republic" is scheduled for DC on September 29, 2024 (speakers: RFK Jr, Tulsi Gabbards, Russell Brand).
+
+      THE PIVOT:
+      *   Article 2 provides updated political and local governance context within Alabama (Baldwin County Sheriff Staff, Kent David resignation, firearms bills) that frames the ongoing political activities and local issues mentioned in Article 1 (Lincoln Project focus, McMillan verdict).
+
+      KEY ENTITIES:
+      *   Donald Trump
+      *   Nick Saban
+      *   Mike McMillan
+      *   James Reid
+      *   Steve Schmidt
+      *   Rick Wilson
+      *   George Conway
+      *   Chesley "Sully" Sullenberger
+      *   Antwon Smith
+      *   Kent David
+      *   Baldwin County
+      *   Sylacauga Alabama
+      *   Brandon Moseley
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+      *   September 29, 2024
+    llm_text: Mike McMillan received a not guilty verdict from Judge James Reid, but local Alabama politics continue to shift rapidly. Kent David resigned as VA Commissioner, and Brandon Moseley detailed five firearms bills impacting Baldwin County in 2025.
+    text: Judge James Reid cleared Mike McMillan in a bench trial. Meanwhile, Kent Davis resigned as VA Commissioner and new firearms bills target Baldwin County.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T14:26:46.950430Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 6016e074860a63b2a2c8dbcc1c1ae23dbcfbb6e8b83b458e7acf990525d74d51
+    brief: |-
+      THE CONFLICT:
+      Ronald Greene was beaten to death by Louisiana State Troopers while fleeing police; his family was told he died from car injuries (new audio leak).
+      Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      The Lincoln Project (led by Steve Schmidt, Rick Wilson, George Conway, Chesley Sullenberger) formed with the goal to remove Trump.
+
+      THE DISCOVERY:
+      State leaders are failing and allowing corruption where companies with political ties receive million-dollar contracts with no accountability.
+      Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs, reinforcing a system where law enforcement mishaps face no accountability.
+
+      THE PIVOT:
+      The systemic lack of accountability and the centralization of power (state leaders overriding local control) detailed in the update confirms the environment in which specific legal and political failures, such as the alleged Louisiana State Trooper cover-up of Ronald Greene or the political maneuvering around Mike McMillan, persist without resolution.
+
+      KEY ENTITIES:
+      Ronald Greene
+      Louisiana State Troopers
+      Mike McMillan
+      James Reid
+      Antwon Smith
+      Steve Schmidt
+      Rick Wilson
+      George Conway
+      Chesley "Sully" Sullenberger
+      Baldwin County
+      Nick Saban
+    llm_text: Ronald Greene's alleged beating by Louisiana State Troopers was covered up, revealing systemic corruption. State leaders are stripping local control, allowing failures like the Mike McMillan trial to persist without real accountability.
+    text: State leaders take power away from local towns and hide police misconduct. Why do officials let failures like the Mike McMillan trial happen without public answers?
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T14:21:45.826422Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: a38ee278339d08704e150dfd24032b5147c939ab06385524244f4af026388f1d
+    brief: |-
+      THE CONFLICT:
+      *   Ronald Greene was beaten to death by Louisiana State Troopers after running from police.
+      *   Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      *   The Lincoln Project was formed by lifelong Republicans (Steve Schmidt, Rick Wilson, George Conway, Capt. Chesley "Sully" Sullenberger) with the goal to remove Trump.
+      *   SARS-COV-2 resulted in 7,997,969 cases and 217,987 deaths in the USA, with Alabama having 170,374 cases.
+
+      THE DISCOVERY:
+      *   A damning report details the US government's COVID-19 response.
+      *   President Biden issued a pardon to his son Hunter.
+      *   The podcast also covers the murder of a healthcare CEO and wrongful arrests of individuals exposing local school district corruption (First Amendment issues).
+
+      THE PIVOT:
+      *   Article 2 shifts the focus from local/Trump-related controversies (A1) to systemic national political misconduct, specifically linking the government's poor COVID-19 handling and presidential pardons (Biden/Hunter) with allegations of local corruption and First Amendment violations (A1/A2).
+
+      KEY ENTITIES:
+      *   Ronald Greene
+      *   Mike McMillan
+      *   James Reid (retired Circuit Judge)
+      *   Steve Schmidt
+      *   Rick Wilson
+      *   George Conway
+      *   Capt. Chesley "Sully" Sullenberger
+      *   Nick Saban
+      *   President Biden
+      *   Hunter Biden
+    llm_text: Ronald Greene's death and Mike McMillan's acquittal reveal local corruption, but the report also exposes President Biden's Hunter pardon and the US government's flawed COVID response. See how local First Amendment fights connect to national political misconduct.
+    text: Mike McMillan won his trial after local corruption charges came to light. How do these small-town legal fights connect to wider government misconduct?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T14:23:33.764524Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: ba10c899f444f22ac9cfa96e0e593ebf5b856deea1ab41dd85771aa891fc238f
+    brief: |-
+      THE CONFLICT:
+      * Ronald Greene was beaten to death by Louisiana State Troopers after running from police. (Evidence leaked; details undisclosed).
+      * Mike McMillan, Mayor of Spanish Fort, was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      * Antwon Smith was denied bond for the double homicide of two Washington state men in Alabama.
+      * Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama, on May 27, 2022, and his body was recovered on May 29, 2022.
+
+      THE DISCOVERY:
+      * The Lincoln Project (Steve Schmidt, Rick Wilson, George Conway, Chesley "Sully" Sullenberger) is actively campaigning to remove Trump.
+      * Nick Saban and staff at the University of Alabama tested positive for SARS-COV-2.
+      * MS-13 operations are noted in Baldwin County, Alabama.
+
+      THE PIVOT:
+      * The Williams death investigation highlights persistent unsolved crime issues in Orange Beach, Alabama, providing regional context for the current criminal and political investigations (e.g., Antwon Smith, Ronald Greene incident, MS-13 activity) within Alabama and Baldwin County.
+
+      KEY ENTITIES:
+      * Thomas Daniel "Danny" Williams Jr
+      * Mike McMillan
+      * Judge James Reid
+      * Antwon Smith
+      * Nick Saban
+      * Ronald Greene
+      * Steve Schmidt
+      * Rick Wilson
+      * George Conway
+      * Chesley "Sully" Sullenberger
+      * Katie Britt
+      * Adm. Kent Davis
+      * Baldwin County
+      * Spanish Fort
+      * Orange Beach
+      * University of Alabama
+    llm_text: The unsolved death of Thomas Daniel "Danny" Williams Jr in Orange Beach highlights persistent crime in Baldwin County. This local struggle connects to current issues like the Ronald Greene incident and MS-13 activity.
+    text: The death of Thomas Daniel Williams Jr. in Orange Beach remains an open wound in Baldwin County. Why do local violent crimes struggle to get proper investigations?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T14:25:45.891093Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: a9af45efa31a403d1eb5e1ea12b83b1861c0932f61d300a9f69016221ea6b183
+    brief: |-
+      THE CONFLICT:
+      Ronald Greene was beaten to death by Louisiana State Troopers while fleeing police; his family was told he died from car injuries.
+      Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      Antwon Smith was denied bond for the murder of two Washington state men.
+      In 2005, two autopsies ordered by Coroner of Baldwin County (Sheriff Mack's father) were never disclosed to the Defense in the Mack vs Hadley case, constituting a Brady Violation.
+
+      THE DISCOVERY:
+      The podcast now covers allegations of corruption in Alabama's legal and political systems, specifically mentioning the Dothan Summer Feeding Scandal.
+      The Alabama Court of Civil Appeals released a decision regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
+
+      THE PIVOT:
+      Article 2 provides context for the systemic legal and political corruption discussed in Article 1 by citing the Dothan Summer Feeding Scandal and the documented judicial/law enforcement failures (Brady Violation, corrupt Federal Judge Mark Fuller) within Alabama's legal structure.
+
+      KEY ENTITIES:
+      Mike McMillan
+      James Reid
+      Antwon Smith
+      Ronald Greene
+      Luigi Manjone
+      Dothan Summer Feeding Scandal
+      Murray Lawrence Jr.
+      Sheriff Mack
+      Mark Fuller (Alabama Federal Judge)
+      Alabama Court of Civil Appeals
+    llm_text: Ronald Greene was beaten to death by Louisiana State Troopers, yet Mayor Mike McMillan was found not guilty by Judge James Reid. Read how the Dothan Summer Feeding Scandal reveals systemic corruption across Alabama's legal system.
+    text: Judge James Reid found Mayor Mike McMillan not guilty in his trial. Does the Dothan Summer Feeding Scandal show a broken legal system across Alabama?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T14:22:29.480479Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: d092d296ca029d279d871d24ddfa7eb03b4c2ae5954ebdae0915cf5e617e7b34
+    brief: |-
+      THE CONFLICT:
+      Mike McMillan of Spanish Fort was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid.
+      The Lincoln Project (including Steve Schmidt, Rick Wilson, George Conway, and Capt. Chesley "Sully" Sullenberger) formed with the goal of removing Trump.
+      Alabama experienced high SARS-COV-2 cases (170,374 cases / 2,786 deaths) and Nick Saban tested positive.
+
+      THE DISCOVERY:
+      Backstory Podcast No. 186 (newer) discusses the 2024 US Presidential election results and the proposed Trump Cabinet 2.0.
+      Article 2 confirms ongoing political focus on constitutional amendments in Alabama, including antitrust lawsuits against Google.
+
+      THE PIVOT:
+      Article 2 provides the updated, broader political context (2024 election, Trump Cabinet 2.0) that frames the specific political action (Lincoln Project's goal to remove Trump) and the local legal focus (proposed constitutional amendments in Alabama) detailed in Article 1.
+
+      KEY ENTITIES:
+      Mike McMillan
+      James Reid
+      The Lincoln Project
+      Steve Schmidt
+      Rick Wilson
+      George Conway
+      Chesley "Sully" Sullenberger
+      Nick Saban
+      Alabama
+      2024 US Presidential election
+    llm_text: Mike McMillan won his bench trial via Judge James Reid, but Alabama's political fight goes deeper. See how the Lincoln Project, Steve Schmidt, and the 2024 election drive constitutional amendments, including antitrust lawsuits against Google.
+    text: Judge James Reid ruled on Mike McMillan, but Alabama's courts go much deeper. How do political groups and major lawsuits shape state elections?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T14:24:32.952910Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 8208e8dccb39d9ff7d75f2111fb20ae9fb62eded39d22d34dbbe47c15d0b40d3
+    brief: |-
+      THE CONFLICT:
+      Nick Saban and UA staff tested positive for SARS-COV-2 (Alabama reported 170,374 cases). Spanish Fort Mayor Mike McMillan was found not guilty at a bench trial adjudicated by retired Circuit Judge James Reid. The Lincoln Project was formed with members including Steve Schmidt, Rick Wilson, George Conway, and Chesley "Sully" Sullenberger with the goal to remove Trump.
+
+      THE DISCOVERY:
+      VP Kamala Harris shifted from being a "scourge" of the Democratic Party to a "darling savior." Finebaum claimed the University of Alabama Football Dynasty is over. Sheriff Mack in Baldwin County, Alabama, has one week left in office, and the Governor is selecting a replacement.
+
+      THE PIVOT:
+      The current local political transition (Sheriff Mack replacement selection) in Baldwin County, Alabama (Article 2) provides immediate context to the local political actions detailed in Article 1 (e.g., McMillan verdict, LandMark Districts). The claim that the UA Football Dynasty is over (Article 2) is a direct update concerning the status of the University of Alabama following Nick Saban's positive COVID-19 test (Article 1).
+
+      KEY ENTITIES:
+      Nick Saban, Mike McMillan, Judge James Reid, The Lincoln Project, Steve Schmidt, Rick Wilson, George Conway, Chesley "Sully" Sullenberger, Kamala Harris, Finebaum, Sheriff Mack, Alabama (Baldwin County).
+    llm_text: Nick Saban's COVID test fuels Finebaum's claim that the UA Dynasty is over. Watch Baldwin County, where Sheriff Mack has one week left, providing immediate context to Alabama's evolving local politics.
+    text: Sheriff Mack has only one week left in office as local politics shift. How does the changing leadership affect everyday people in Baldwin County?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T14:28:06.057186Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

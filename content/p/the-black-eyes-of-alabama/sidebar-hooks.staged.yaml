@@ -1,0 +1,347 @@
+metadata:
+  generated_at: "2026-11-07T03:00:54.899979Z"
+  generator_version: 1.0.0
+  post_slug: the-black-eyes-of-alabama
+  main_date: "2022-01-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 3ff972e9961651e53c50b5f113df348cc0e789f2220a80c9757e25b7058da18c
+    brief: |-
+      THE CONFLICT: Local misconduct/corruption allegations in Tallassee to Brookside, Alabama, leading to an ankle monitor in Baldwin County for a "black eye" politician or project. (Specific names and dates are not provided in Article 1.)
+      THE DISCOVERY: Article 2 (newer) confirms national issues including President Biden's pardon of his son Hunter and a damning report on the US government's COVID-19 response, while also covering local wrongful arrests exposing corruption in a local school district.
+      THE PIVOT: Article 2 contextualizes the local misconduct detailed in Article 1, suggesting that the local arrests and political issues are part of a broader pattern of government overreach, political influence (Biden pardon), and First Amendment violations.
+      KEY ENTITIES: Tallassee, Brookside, Baldwin County, President Biden, Hunter Biden, US government, local school district.
+    llm_text: An ankle monitor over Tallassee/Brookside misconduct in Baldwin County is more than local drama. This corruption connects to national issues, from the Biden pardon to failed COVID responses, revealing broad government overreach.
+    text: An ankle monitor scandal in Tallassee points to broader government overreach in local communities. How do these small-town disciplinary cases reflect statewide corruption?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T03:00:35.783975Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 1a22c321583247277c7f07bd01fe9134b29c439ffc49b2b0964d87380c41273c
+    brief: |-
+      THE CONFLICT:
+      - Thomas Daniel "Danny" Williams Jr died on May 27, 2022, in Orange Beach, Alabama; body recovered May 29, 2022
+      - His death remains an unsolved mystery with a reward offered for information leading to closure
+      - SARS-COV-2 references in Article 1 suggest broader contextual awareness of pandemic timing surrounding the death
+
+      THE DISCOVERY:
+      - Article 2 confirms the ongoing reward for information on Williams' death one year after the event
+      - Article 2 establishes the Memorial Day Weekend 2022 timeframe as a fixed historical marker
+      - The death occurred during the same pandemic period referenced in Article 1's SARS-COV-2 mention
+
+      THE PIVOT:
+      - Article 2 provides the definitive date confirmation (May 27, 2022) that anchors the timeline for Article 1's references
+      - The specific Memorial Weekend 2022 timeframe connects the pandemic context of Article 1 to the specific unsolved death
+      - Article 2 transforms the vague "SARS-COV-2 is almost unavoidable" reference into a verifiable 2022 event anchor
+
+      KEY ENTITIES:
+      - Thomas Daniel "Danny" Williams Jr (deceased, death May 27, 2022)
+      - Orange Beach, Alabama (location of death/body recovery)
+      - Memorial Day Weekend 2022 (specific timeframe)
+      - SARS-COV-2 (pandemic context linking both articles)
+      - Reward offered for information on Williams' death
+    llm_text: Newly revealed details show Thomas Daniel "Danny" Williams Jr died during Memorial Day Weekend 2022 in Orange Beach, Alabama—just as pandemic context surfaces in related reporting. The specific date and location now anchor what was once vague, turning a mysterious death into a verifiable 2022 event.
+    text: Thomas Daniel Williams Jr. died during Memorial Day weekend in 2022 in Orange Beach, Alabama. What new pandemic-era reports link local officials to this fatal incident?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T02:59:24.434483Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    refined_source: 60c1cecfd098cbead87fa8483a1e44fa554f1618fefdf19bd02a53bc9b324a19
+    brief: |-
+      THE CONFLICT:
+      - Multiple Alabama politicians and projects referenced as having "black eyes" in Tallassee and Brookside.
+      - Baldwin County referenced regarding an ankle monitor.
+      - Kent David, Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, facing removal due to a whistleblower Ethics Complaint.
+      - Director of the Alabama Department of Transportation had a harassment case thrown out.
+      - Brandon Moseley guest speaker for BamaCarry Inc of Tuscaloosa discussing five firearms related bills for the 2025 session.
+      - Texas Federal Bankruptcy Judge David R. Jones awarded "Most Corrupt Judge."
+      - Baldwin County Sheriff Department has new Command Staff.
+      - The Renaissance School in Baldwin County for special needs kids robbed (inside job possibly shuttering school).
+      - Israel caused radios and pagers utilized by enemies to explode.
+
+      THE DISCOVERY:
+      - Sylacauga, Alabama is a center for the "Haitian Immigrant Eating Cats" debate via 1819 News.
+      - 1819 News accused of covering narratives based on party line in a shallow and irresponsible manner.
+      - Claims immigrants are a strain on services in Alabama; framing the issue as having a profit motive.
+      - Fairhope, Alabama City Councilman reportedly begging for immigrants despite high home prices.
+      - Trump campaign involved in a food fight with Taylor Swift and avoided a second assassination attempt by an individual described as an Oswaldian type figure, native of North Carolina, believed to be a freedom fighter in Ukraine.
+      - Rally in DC on September 29, 2024 ("Rescue the Republic") featuring speakers RFK Jr, Tulsi Gabbard, and Russell Brand.
+      - P Diddy denied bail in sex crimes cases.
+      - Feds dropped interest rates by half a point.
+
+      THE PIVOT:
+      - Article 2 provides specific examples of irresponsible news coverage (1819 News/Haitian immigrants) that exemplifies the "black eyes" and political chaos referenced broadly in Article 1.
+      - The mention of Kent David and the Alabama Department of Transportation harassment case in Article 1 is contextualized by Article 2's discussion of Alabama's treatment of qualified public servants and political maneuvering.
+
+      KEY ENTITIES:
+      - Tallassee
+      - Brookside
+      - Baldwin County
+      - Kent David (Former Real Admiral, Alabama Veterans Affairs Commissioner)
+      - Alabama Department of Transportation
+      - Brandon Moseley
+      - BamaCarry Inc (Tuscaloosa)
+      - David R. Jones (Texas Federal Bankruptcy Judge)
+      - Baldwin County Sheriff Department
+      - Renaissance School (Baldwin County)
+      - 1819 News
+      - Sylacauga
+      - Fairhope
+      - Donald Trump
+      - Taylor Swift
+      - RFK Jr
+      - Tulsi Gabbard
+      - Russell Brand
+      - P Diddy
+      - Israel
+    llm_text: Tallahassee politicians and Brookside projects bear black eyes, while Baldwin County sheriffs rebuild staff after a special-needs school robbery. Kent David faces removal from Veterans Affairs, and Trump’s inner circle circles the drain as P Diddy stays locked up.
+    text: State officials face intense scrutiny while Baldwin County sheriffs rebuild staff after a school robbery. Why are veterans' advocates fighting the removal of Admiral Kent Davis?
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T02:59:34.709823Z"
+    model_name: plugsky-lite
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      - Article 1, “The Black Eyes of Alabama,” frames Alabama local/political issues through “black eyes” framing.
+      - Article 1 mentions coverage from Tallassee to Brookside.
+      - Article 1 calls “get-fitt’d” the word of the week for an ankle monitor involving Baldwin County.
+      - Specific person/event tied to Baldwin County ankle monitor not fully detailed in provided Article 1 content.
+      - No specific date provided in provided content.
+
+      THE DISCOVERY:
+      - Article 2, “Scalped,” is newer than Article 1 and acts as an update.
+      - Terrorist attack narrowly avoided a larger, more crowded event, saved only by traffic jams.
+      - Flashy car explosion tied to misguided vet sparks debates about safety and tech gone wrong.
+      - Corruption steals spotlight: companies with political ties score million-dollar contracts.
+      - Law enforcement investigates its own mishaps; spoiler: no accountability.
+      - Courts step into scandal where scholarships meant for public went to insiders; everyday folks left out.
+      - Rumors swirl about governor’s health and replacements.
+      - Crime waves hit hard: teens clash with high-powered weapons; fisherman’s hobby accidentally solves cold case.
+      - Lawmakers push to strip local control, letting state leaders handpick police chiefs instead.
+      - Podcast wraps with levity: festivals for snowbirds; warning: Alabama’s leaders keep failing; up to citizens to demand better.
+      - SARS-CoV-2 almost unavoidable.
+
+      THE PIVOT:
+      - Article 2 is the “smoking gun”/key context for Article 1 because widget article metadata: Backstory Podcast 190 Scalped graphic showing new Baldwin County District Attorney building and Facebook post announcing its construction bid award.
+      - Connects Article 2’s corruption/million-dollar contracts/political ties to Baldwin County DA building context, potentially reinforcing Article 1’s Baldwin County black eye/ankle monitor theme.
+
+      THE KEY ENTITIES:
+      - Lowery, Wilters.
+      - Baldwin County District Attorney.
+      - Baldwin County.
+      - Alabama.
+      - Governor.
+      - Law enforcement.
+      - Courts.
+      - State leaders.
+      - Police chiefs.
+      - Companies with political ties.
+      - Misguided vet.
+      - Terrorist attack.
+      - Crowded event.
+      - Traffic jams.
+      - Teens.
+      - High-powered weapons.
+      - Fisherman.
+      - Cold case.
+      - Lawmakers.
+      - Citizens.
+      - Tallassee.
+      - Brookside.
+      - Backstory Podcast 190.
+      - Scalped.
+      - SARS-CoV-2.
+      - Snowbirds.
+      - Festivals.
+      - The Ripp Report.
+    llm_text: 'The Ripp Report''s ''Scalped'' just dropped a smoking gun: a new Baldwin County District Attorney building and a Facebook post announcing its construction bid award. That shady million-dollar contract with political ties just gave Alabama''s black-eye headlines a whole new meaning.'
+    text: 'The Ripp Report''s ''Scalped'' just dropped a smoking gun: a new Baldwin County District Attorney building and a Facebook post announcing its construction bid award. That shady million-dollar contract with political ties just gave Alabama''s black-eye headlines a whole new meaning.'
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T02:59:32.599072Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 7db61271ba3bfaabd4dd1abdeff324bd3bba9cac0f5edf679845c17326da5ea8
+    brief: |-
+      THE CONFLICT:
+      - The Ripp Report covers political issues and controversies across Alabama, spanning from Tallassee to Brookside, including Baldwin County.
+      - "Black Eye" is used to describe specific politicians or projects in Alabama facing scrutiny or scandal.
+      - References "get-fitt'd" for an ankle monitor, implying legal consequences for individuals in Baldwin County.
+      - Mentions SARS-COV-2 (COVID-19) as a relevant context during the original reporting period.
+
+      THE DISCOVERY:
+      - Article 2 (Backstory Podcast No. 186) covers more recent Alabama news, specifically including the closing of rural hospitals.
+      - Article 2 discusses proposed constitutional amendments in Alabama.
+      - Article 2 addresses broader legal and political issues, including antitrust lawsuits against Google.
+
+      THE PIVOT:
+      - Article 2 provides a current update on Alabama's systemic issues (rural hospital closures, constitutional amendments) that contextualizes the "black eye" politicians and projects criticized in Article 1.
+      - Article 2 serves as a contemporary companion piece, shifting from specific local scandals (Article 1) to statewide systemic failures and legal battles (Article 2).
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Tallassee
+      - Brookside
+      - SARS-COV-2
+      - Backstory Podcast No. 186
+      - Google
+    llm_text: Tired of "black eye" politicians in Baldwin County? Backstory Podcast No. 186 reveals that rural hospitals across Alabama are actually closing their doors, while the state pushes controversial constitutional amendments—proving local scandals are just the tip of the systemic iceberg.
+    text: Rural hospitals across Alabama are closing their doors while state politicians push controversial amendments. Are local corruption scandals distracting citizens from a statewide healthcare crisis?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T02:59:07.474068Z"
+    model_name: plugsky-lite
+  the-180:
+    refined_source: dbe756bb6cc9c93879574e35e5694d33055a910a9973c1c1c2ac683b63ff1e1a
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County, Alabama referenced in Article 1 for political controversies described as "black eye" politicians and projects.
+      - Article 1 mentions use of ankle monitors in Baldwin County.
+      - No specific names or dates provided in Article 1 beyond location references (Tallassee, Brookside, Baldwin County).
+      - Sheriff Mack mentioned in Article 2 as serving in Baldwin County, Alabama.
+      - Governor selecting a replacement for Sheriff Mack as Article 2 is written.
+
+      THE DISCOVERY:
+      - Article 2 confirms Sheriff Mack's term in Baldwin County is ending (one week left in office).
+      - Article 2 confirms Governor is actively selecting a replacement for Sheriff Mack.
+      - Article 2 introduces national political context: VP Kamala Harris, RFK Jr., Candidate Trump, Democratic National Convention.
+      - Article 2 mentions claim by Finebaum that University of Alabama Football Dynasty is over.
+
+      THE PIVOT:
+      - Article 2 provides the timeline update that Sheriff Mack is leaving office in Baldwin County, connecting to the Baldwin County political issues referenced in Article 1's mention of ankle monitors and "black eye" politicians.
+      - Article 2's image context connects Baldwin County seal with national political figure (VP Kamala Harris), bridging local Baldwin County politics to national scope mentioned in Article 1.
+
+      KEY ENTITIES:
+      - Sheriff Mack
+      - Baldwin County, Alabama
+      - Governor (of Alabama)
+      - VP Kamala Harris
+      - RFK Jr.
+      - Candidate Trump
+      - Finebaum
+      - University of Alabama
+      - Tallassee
+      - Brookside
+    llm_text: Baldwin County Sheriff Mack exits office in one week as Alabama's Governor picks his replacement. The shift comes amid ankle monitor scandals, "black eye" politicians, and a national spotlight that includes VP Kamala Harris and former President Trump.
+    text: Governor Kay Ivey prepares to pick a new sheriff as Hoss Mack exits office in one week. Will the replacement bring transparency or continue the cycle of local scandals?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T02:59:43.246107Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: 385d4c77143fb7c251ab0a7593962f106d5bdca0313b4b568dddea98c9129150
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County approved thousands of new residential lots this week despite public outcry.
+      - Fairhope is moving forward with a $9.5M pier remodel.
+      - Alabama Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner, the only state public servant viewed as "slumming" in state government.
+      - The City of Bay Minette is being sued by the family of OJ French Jr., who was killed by BMPD Officer Brandon Thompson.
+      - Mobile Attorney Andy Ruten is representing the City of Bay Minette in the lawsuit and has asked a judge to excuse Officer Thompson's actions based on bodycam footage while simultaneously insisting the footage not be released to the public.
+      - Andy Ruten's law firm has hired Bay Minette Mayor Bob Wills to represent them in a separate lawsuit where the firm is being sued for legal malpractice.
+      - Southern Research (Institute) is offering free genetic testing on Alabama Public Television, raising questions about the intended use of data to create "targeted treatments."
+      - The Ripp Report references "black eyes" politicians or projects, with SARS-COV-2 noted as "almost unavoidable."
+
+      THE DISCOVERY:
+      - The Widget Article confirms Baldwin County's continued approval of development (residential lots) over public opposition, paralleling the "black eyes" theme.
+      - The Widget Article provides the immediate context of Governor Ivey's demand for the VA Commissioner's resignation, updating the political landscape less than two weeks before an election.
+      - The Widget Article details the Bay Minette lawsuit against Officer Brandon Thompson, connecting the legal dynamics of the OJ French Jr. case to the broader theme of accountability.
+      - The Widget Article highlights the irony of Andy Ruten representing the City while his firm faces malpractice suits and hires Mayor Bob Wills, exemplifying the "Circle of Life" corruption dynamic.
+      - The Widget Article mentions Southern Research's free genetic testing on APT, linking to concerns about data usage mentioned in the Main Article.
+
+      THE PIVOT:
+      - Article 2 serves as the 'smoking gun' because it shows the active, ongoing corruption and accountability failures referenced in Article 1's "black eyes" theme mere days before an election, specifically illustrating how local officials (Ruten, Wills) protect each other while facing separate scandals, and how governmental inaction (FEMA/water) contrasts with private sector moves, proving the "get-fitt'd" ankle monitor Baldwin County context is part of a wider pattern of negligence.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Fairhope
+      - Governor Ivey
+      - Veteran's Affairs Commissioner (name not specified in text)
+      - OJ French Jr.
+      - BMPD Officer Brandon Thompson
+      - Andy Ruten (Mobile Attorney)
+      - Bay Minette Mayor Bob Wills
+      - Southern Research (Institute)
+      - SARS-COV-2
+    llm_text: Andy Ruten fights to hide bodycam footage of Officer Brandon Thompson while his law firm hires Bay Minette Mayor Bob Wills to defend against legal malpractice suits—perfect example of the "Circle of Life" corruption our readers can't ignore before the election.
+    text: Andy Ruten fights to hide police bodycam footage while his law firm defends Mayor Bob Wills. Is this cozy legal arrangement another example of the good old boy network?
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T02:59:18.059164Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT:
+      - Article 1, “The Black Eyes of Alabama”: mentions Baldwin County ankle monitor; “get-fitt’d” is word of week for that ankle monitor Baldwin County; favorite “black eye” politician or project; Tallassee to Brookside coverage; SARS-CoV-2 almost unavoidable.
+      - Article 2, “Sheriff Mack Out OJ French Lawsuit In”: newer update.
+      - Past event: Bay Minette Police Officer Brandon Thompson shot OJ French Jr.
+      - Mayor Robert Bob Wills said he spoke for the family; Mr. French said Mayor Wills lied; family said they were “ok with the outcome” of the investigation and no longer topic at request of family, apparently untrue.
+      - Lawsuit filed July 31, 2024 in Federal Court by Family of OJ French Jr, Bay Minette Justice League, and French Family Legal Counsel May Jung LLC against City of Bay Minette and Officer Brandon Thompson.
+      - Lawsuit alleges Officer Brandon Thompson did not have probable cause for the stop and escalated by demanding victim get out of car; struggle over taser; Thompson shot and killed French.
+      - Grand Jury saw video; Officer was cleared; video not public record.
+      - Sheriff announced mid July he is resigning mid August and wanted Chief Deputy Anthony Lowery appointed to fill remainder of term by Governor Ivey.
+      - County Commissioner Matt McKenzie also wants post.
+
+      THE DISCOVERY:
+      - Article 2 reveals rally held July 31, 2024; lawsuit filed; Mayor Wills lie; probable cause issue; taser struggle; shooting; video not public record; Grand Jury cleared officer.
+      - Article 2 shows Sheriff Mack resignation mid August; Chief Deputy Anthony Lowery pending; Governor Ivey; County Commissioner Matt McKenzie.
+      - Article 2 says write to Governor and ask her to not appoint Deputy Anthony Lowery; Lowery previously discussed in DEAL WITH THE DEVIL CASE.
+      - In meantime: Trump got shot, Biden dropped out of race, Alabama intends to legislate sharks must stay away from Alabama shore.
+      - Mayor Wills and Major Crimes Unit of Baldwin County about to learn why Old Indian Wisdom rings true.
+
+      THE PIVOT:
+      - Article 2 is smoking gun/key context for Article 1 because it ties OJ French Jr lawsuit to Baldwin County, Sheriff Mack, Mayor Robert Bob Wills, Officer Brandon Thompson, Governor Ivey, City of Bay Minette, French family, Bay Minette Justice League, French Family Legal Counsel May Jung LLC.
+      - Article 2 links Sheriff Mack resignation and Lowery appointment to French lawsuit context.
+      - Article 2 uses Old Indian Wisdom / “Silence is always better than bullshit” against Mayor Wills.
+      - Article 2 connects BOSS HOGG influence in Baldwin County to Article 1’s “black eye” and ankle monitor themes.
+
+      KEY ENTITIES:
+      - OJ French Jr
+      - Family of OJ French Jr
+      - Bay Minette Justice League
+      - French Family Legal Counsel May Jung LLC
+      - City of Bay Minette
+      - Officer Brandon Thompson
+      - Mayor Robert Bob Wills
+      - Baldwin County
+      - Sheriff Mack
+      - Chief Deputy Anthony Lowery
+      - Governor Ivey
+      - County Commissioner Matt McKenzie
+      - Baldwin County Major Crimes Unit
+      - BOSS HOGG
+      - Tallassee
+      - Brookside
+      - Backstory Podcast 179
+      - Native American man with rifle
+      - Old Indian Wisdom
+      - Silence is always better than bullshit
+      - DEAL WITH THE DEVIL CASE
+      - Trump
+      - Biden
+      - Alabama
+    llm_text: Bay Minette’s OJ French Jr. lawsuit tied Sheriff Mack’s resignation, Mayor Robert Bob Wills, and Officer Brandon Thompson to a taser struggle that ended in French’s shooting. Readers should care because the Baldwin County ankle monitor drama and Black Eyes of Alabama coverage now collide with Mayor Wills’ messy truth.
+    text: Bay Minette’s OJ French Jr. lawsuit tied Sheriff Mack’s resignation, Mayor Robert Bob Wills, and Officer Brandon Thompson to a taser struggle that ended in French’s shooting. Readers should care because the Baldwin County ankle monitor drama and Black Eyes of Alabama coverage now collide with Mayor Wills’ messy truth.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T03:00:30.201744Z"
+    model_name: recursive/flint-v1.0:free
+  the-crime-of-the-century:
+    refined_source: 0546e5236fa83f90778171a9681097c2bc4c30ee9865c4a680edb3c1d4d32b31
+    brief: |-
+      THE CONFLICT: A "black eye" politician or project in Baldwin County (Tallassee to Brookside) was subject to an ankle monitor. (Specific names and dates are not provided in Article 1.)
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis, leading to chaos within the veterans’ board. Article 2 also uncovered a true crime story in Clarke County involving a hospice business and a judge's shady ties.
+      THE PIVOT: Article 2 provides context showing systemic corruption and power abuses in Alabama (e.g., Ivey's actions, Clarke County ties) that frames the localized legal issue (ankle monitor) mentioned in Article 1.
+      KEY ENTITIES: Kay Ivey, Admiral Kent Davis, Baldwin County, Clarke County, Tallassee, Brookside, Joe Biden, Kamala Harris
+    llm_text: A Baldwin County politician faced an ankle monitor, but the real story is statewide corruption. Governor Kay Ivey's actions and Clarke County judge ties reveal systemic abuses across Alabama.
+    text: A Baldwin County politician wore an ankle monitor while facing severe legal charges. Do ties between Clarke County judges and state officials point to systemic abuse?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T02:59:38.808419Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 33dda4c6db307b9ddadd3418b14458392c0cb0c3770addfd7a2ecf5b3865240f
+    brief: |-
+      THE CONFLICT: Baldwin County ankle monitor mentioned in "The Black Eyes of Alabama" (no specific date provided for the initial mention).
+      THE DISCOVERY: Podcast update details ongoing legal cases including Mack vs Hadley (theft of 1968 Camaro by Baldwin County Sheriff's Department) and the Alabama Court of Civil Appeals ruling on the Rule 32 Petition for Murray Lawrence Jr. (related to 2005 autopsies ordered by Coroner of Baldwin County/Sheriff Mack's father).
+      THE PIVOT: Widget Article provides specific, dated, and named legal context (Mack vs Hadley, 2005 autopsies, specific court rulings) related to the general "black eye" political/legal focus of Article 1, linking it to documented corruption allegations.
+      KEY ENTITIES: Baldwin County, Sheriff Mack, Coroner of Baldwin County, Murray Lawrence Jr., Alabama Court of Civil Appeals, Mack vs Hadley, Mark Fuller, Luigi Manjone, United Healthcare CEO.
+    llm_text: Sheriff Mack's father and the 2005 autopsies fuel Baldwin County's deep legal history. See the specific court rulings in *Mack vs Hadley* and the Murray Lawrence Jr. case detailing these corruption claims.
+    text: Court rulings in Mack versus Hadley and the Murray Lawrence Jr. case expose decades of legal misconduct. What do these specific files reveal about the Baldwin County Sheriff's Office?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T02:58:59.667024Z"
+    model_name: plugsky-lite

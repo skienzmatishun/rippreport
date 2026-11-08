@@ -1,0 +1,168 @@
+metadata:
+  generated_at: "2026-11-07T16:04:14.298364Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-going-backwards
+  main_date: "2020-08-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  questions-for-fairhope:
+    refined_source: 3d31731327e6f0e0026fb5cd82f833dca0f0e2c21f0bf0774a482d7ed63a797b
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Cant served for almost 16 years, after which he lost an election.
+      *   Sherry Sullivan, who worked under Mayor Cant, was fired and subsequently sued the city.
+      *   A former Mayor/State Senator stole $639,000 of BP grant money.
+      *   The previous administration was involved in an unethical/illegal BP contract and a purchase of recreation land ($2,650,000) later leased for $9,000 annually.
+      *   CATALYST was born following the loss of Mayor Cant.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed that Sherry Sullivan was a fired employee who sued the city.
+      *   It established that CATALYST was a political group supported by developers and profiteers.
+      *   It documented specific past instances of council/official misconduct (e.g., financial conflicts of interest, undisclosed police records, misuse of recreation land funds).
+
+      THE PIVOT:
+      *   The Widget Article provides the historical evidence and specific examples of financial and ethical misconduct (like the BP contract and land misuse) that Article 1 attributes to the "three B's" and CATALYST.
+      *   It confirms Sullivan's status as a fired employee who sued the city, providing context for Article 1's criticism of her candidacy.
+
+      KEY ENTITIES:
+      *   Sherry Sullivan (Sullivan)
+      *   Mayor Cant
+      *   CATALYST
+      *   Kevin Boone / Councilman Boone
+      *   Scott Boone
+      *   Jack Burrell
+      *   Robert Brown
+      *   Karin Wilson (Current Mayor)
+      *   Howell Gibbens
+      *   Joshua Gammon
+      *   BP (Oil Spill)
+    llm_text: Former Mayor Cant stole $639,000 from a BP grant and misused $2.65M in recreation land funds. Sherry Sullivan sued the city after being fired, revealing CATALYST connects to this history of deep financial and ethical misconduct.
+    text: Former Mayor Tim Kant took $639,000 from a BP grant and misused $2.65 million in recreation funds. Sherry Sullivan sued the city after being fired, showing how CATALYST ties back to deep financial misconduct.
+    widget_date: "2020-08-17"
+    generated_at: "2026-11-07T16:02:59.087781Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-bullies:
+    refined_source: b6c4244520d29188b51a233c32f8eaf2e4f6b159b131d2771ba1bae3bfbe114b
+    brief: "THE CONFLICT: \nDuring the four-year term of Mayor Karin Wilson, Councilmen Burrell, Boone, and Brown engaged in persistent bullying and interference. This follows a shift in local power four years prior when Tim Cant, described as a \"corruption rubber stamp,\" was removed from his position.\n\nTHE DISCOVERY: \nArticle 2 revealed that the \"3 B's\" (Burrell, Boone, Brown) are directly linked to Catalyst/Scott Boone Consulting (CSB), an organization run by Councilman Boone’s son, Scott Boone. The investigation identified that CSB is financed by special interests, including developers and dark money, and that Scott Boone utilizes confidential city information. Furthermore, it revealed that City Attorney Marcus McDowell—appointed by the 3 B's—is a partisan actor who supports candidate Sullivan and failed to file necessary assault charges against Ronan McSharry.\n\nTHE PIVOT: \nArticle 2 serves as the smoking gun for the current election by exposing the infrastructure behind the \"Catalyst block vote\" mentioned in Article 1. It shows that the political movement is a family-run operation (Boone/Scott Boone) designed to install Sullivan—an ex-employee who sued the city—to restore the previous era of municipal control and special interest influence.\n\nKEY ENTITIES:\n- Karin Wilson (Mayor)\n- Burrell (Councilman)\n- Boone (Councilman)\n- Brown (Councilman)\n- Scott Boone (Runs Catalyst/CSB)\n- Sullivan (Candidate/Ex-employee)\n- Marcus McDowell (City Attorney)\n- Ronan McSharry (Associate of Burrell)\n- Tim Cant (Former official)\n- Catalyst / Scott Boone Consulting (CSB)\n- Jack Burrell, Kevin Boone, Robert Brown (Incumbents)\n- Deb Hopkins, Howell Gibbens, Joshua Gammon (Challengers)"
+    llm_text: Councilmen Burrell, Boone, and Brown use Scott Boone’s consulting firm to funnel dark money and confidential city data into a family-run political machine. Our investigation exposes the "Catalyst block vote" infrastructure working to install Sullivan and restore special interest rule.
+    text: Councilmen Jack Burrell, Kevin Boone, and Robert Brown used Scott Boone’s firm to funnel dark money into a family-run political machine. The Catalyst bloc vote works to install Mayor Sullivan and protect special interests.
+    widget_date: "2020-08-15"
+    generated_at: "2026-11-07T16:02:41.027771Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  freaky-fairhope:
+    brief: "THE CONFLICT: In 2010, former Mayor Tim Kant and former State Senator (\"Boom Boom\" Pittman) orchestrated the fraudulent acquisition and theft of $639,000 in BP grant money. Additionally, the city council (specifically the \"three B's\"—Burrell, Boone, and Brown) depleted a $1.7 million city surplus into a $1.2 million deficit overnight by purchasing farmland for recreation without public input, subsequently leasing it back to a farmer for a meager $9,000 a year while voting themselves a $17,500 family insurance package. \n\nTHE DISCOVERY: The background context exposes the deep-rooted, long-standing white-collar crime and political status quo in Fairhope, showing that current political operatives (including a mayoral candidate connected to BP and the political consulting group CATALYST, run by councilman Kevin Boone's son, Scott Boone) have historical ties to environmental and financial corruption, deceptive op-ed writing (\"Howling Rains\"), and backroom deals.\n\nTHE PIVOT: The older background context serves as the smoking gun because it establishes a documented, multi-year pattern of financial corruption and cronyism involving the exact same key players (the three B's, CATALYST, and BP-linked actors) that Mayor Karin Wilson is actively fighting to eliminate in the 2020 election cycle.\n\nKEY ENTITIES: \n- Karin Wilson (Mayor)\n- Jack Burrell (Councilman / \"The 3 B's\")\n- Kevin Boone (Councilman / \"The 3 B's\")\n- Robert Brown (Councilman / \"The 3 B's\")\n- Tim Kant (Former Mayor)\n- \"Boom Boom\" Pittman (Former State Senator)\n- Scott Boone (CATALYST / Scott Boone Consulting)\n- Sullivan (Mayoral Candidate)\n- Deb Hopkins (Council Challenger)\n- Howell Gibbens (Council Challenger)\n- Joshua Gammon (Council Challenger)\n- \"Howling Rains\" (Political op-ed writer)"
+    llm_text: Former Mayor Tim Kant and councilmen Burrell, Boone, and Brown stole $639,000 in BP funds and drained a city surplus to reward themselves. Read how Mayor Karin Wilson's current opponents share direct ties to this exact history of white-collar crime.
+    text: Former Mayor Tim Kant and councilmen Burrell, Boone, and Brown stole $639,000 in BP funds and drained a city surplus to reward themselves. Read how Mayor Karin Wilson's current opponents share direct ties to this exact history of white-collar crime.
+    widget_date: "2020-07-10"
+    generated_at: "2026-11-07T16:02:04.625730Z"
+    model_name: gemini-3.5-flash-lite
+  you-win-some-you-lose-some:
+    brief: |-
+      THE CONFLICT:
+      - 2016: Author backed Karin Wilson and current city council including Burrell Boone and Robert Brown. Author got one out of four right: Karin Wilson. Author was wrong to trust Burrell Boone or Robert Brown; author alleged all three betrayed Fairhope and used elected office for personal gain.
+      - 2016: Mayor Kant received 3066 votes.
+      - 2020: Author backs Mayor Karin Wilson for re-election. Wilson has degree in finance, small business owner, used degree 25 years, mayor for 4 years, reversed $6 million annual debt to fiscal health, increased city and utility cash funds 59.18% ($17 million), paid off city long term debt and utility debt 33%, obtained $23 million in grants and restoration funds, introduced responsible growth objectives, infrastructure revitalization plan without borrowing, increased citizen engagement, received 4 Nappi Awards.
+      - 2020: Fairhope has 4 mayoral candidates; 3 with college degrees, one Sullivan with high school education.
+      - Sullivan: former BP "good Vibes" guy on paddle board; while Sullivan employed, former Mayor and former State Senator stole $639,000 BP grant money; Sullivan fired in 2017; since then worked for city, internet company, Foley Main Street, Riviera Utilities, resigned; one job a year over 4 years.
+      - Catalyst supported by three B's: Burrell Boone, Robert Brown, Kevin Boone; incumbents faced challengers: Jack Burrell (vs Deb Hokpkins), Robert Brown (vs Howell Gibbens), Kevin Boone (vs Joshua Gammon).
+
+      THE DISCOVERY:
+      - Article 2 (older): Fresh Start Fairhope filed petition with 800 names for change of government; council thought political bear trap; council thought without legal research could select at large or districts; no decision to make; law outlines guidelines; fallout caused flood of false/misleading info; council instructed city attorney to cancel Oct. special election; true to Baldwin politics, did it; intentional; knew odds of referendum during general election had history of failing; Catalyst and good ole boys spread fear/misinformation; Fresh Start spent thousands on first proposed election date, tapped out by Nov. 6 general election.
+      - Fairhope missed opportunity; majority elected not to change government; continue unsuccessful way.
+      - Seven precincts crowded; Baptist Church on Fairhope Av. traffic hazard, one voting booth, long waits; civic center lines up to two hours; many left without voting.
+      - Catalyst "at large" council alive and well; support from same core group believing in "Can't doctrine."
+      - State Rep HD 92: Joe Faust vs Danielle Mashburn-Myrick; Faust unchallenged; council teamed with Can't core group; Kevin Boone and son Scott teamed with Joe Faust, shook locals out the door.
+      - Yes vote did not wait in line or wake up on election day.
+      - Catalyst and good ole boys can be beaten; core group dying off while thousands move to Fairhope each year.
+      - Special election: NO vote 3887; turnout 38% (6,649 total votes); 2016 total 6,589; Catalyst/NO/Cant core group approx 3,500 ceiling; not growing base with new residents; will be overwhelmed by new voters in few years.
+      - Good ole boys can rally troops; need to vote no no matter how long stand in line.
+      - In 2020 Fairhope will have another general election; 3,500 core group will not be as strong.
+      - Teaser: One major event could topple whole Catalyst movement and prove corruption: ## INDICTMENT.
+
+      THE PIVOT:
+      - Article 2 is older and serves as background/historical context for Article 1.
+      - Article 2 covered council's attempt to cancel Oct. special election and spread misinformation; this context frames Article 1's allegations against CATALYST and the three B's.
+      - Article 2's "INDICTMENT" teaser foreshadows corruption allegations in Article 1.
+      - Article 2 explains Catalyst council's indecision/obstruction/misinformation that Article 1 cites as corruption.
+
+      THE KEY ENTITIES:
+      - Karin Wilson - Mayor, 2020 candidate, degree in finance, small business owner, 4 years mayor, 4 Nappi Awards.
+      - Sullivan - mayoral candidate, high school education, BP "good Vibes" candidate, former mayor/state senator stole $639,000 BP grant money, fired 2017, employment history (city, internet company, Foley Main Street, Riviera Utilities).
+      - Catalyst - political group, run by Scott Boone.
+      - Scott Boone - Catalyst leader, Kevin Boone's son, councilman.
+      - Kevin Boone - Fairhope City Councilman, Catalyst, son Scott.
+      - Burrell Boone - Fairhope City Councilman, Catalyst.
+      - Robert Brown - Fairhope City Councilman, Catalyst, faced Howell Gibbens.
+      - Jack Burrell - Fairhope City Councilman, Catalyst, faced Deb Hokpkins.
+      - Howell Gibbens - challenger to Robert Brown.
+      - Deb Hokpkins - challenger to Jack Burrell.
+      - Joshua Gammon - challenger to Kevin Boone.
+      - Fresh Start Fairhope - petition with 800 names for change of government.
+      - Fairhope City Council - Catalyst majority; instructed city attorney to cancel special election.
+      - City Attorney - instructed to cancel Oct. special election.
+      - Baldwin County - jurisdiction/context.
+      - Fairhope, Alabama - location.
+      - Joe Faust - State Rep HD 92 candidate.
+      - Danielle Mashburn-Myrick - State Rep HD 92 candidate.
+      - BP - oil spill; $639,000 grant money; "good Vibes" candidate.
+      - Can't doctrine - core group belief.
+      - Good ole boys - Catalyst-aligned group.
+      - Nappi Awards - 4 awards to Mayor Wilson.
+      - Mayor Kant - received 3066 votes in 2016.
+      - Foley Main Street - employer of Sullivan.
+      - Riviera Utilities - employer of Sullivan (resigned).
+      - Internet company - employer of Sullivan.
+    llm_text: Karin Wilson flipped Fairhope's $6 million debt into fiscal health, yet Catalyst's Burrell Boone and Robert Brown faced betrayal claims. The new allegations could topple the whole movement and spark a criminal indictment.
+    text: Karin Wilson flipped Fairhope's $6 million debt into fiscal health, yet Catalyst's Burrell Boone and Robert Brown faced betrayal claims. The new allegations could topple the whole movement and spark a criminal indictment.
+    widget_date: "2018-11-07"
+    generated_at: "2026-11-07T16:02:56.249079Z"
+    model_name: recursive/flint-v1.0:free
+  fly-on-the-wall:
+    refined_source: 84125436067d48d51504b687bda18da2ec247c6b5aacd75eecee441c65aaaa86
+    brief: |-
+      THE CONFLICT: Prior administration under Mayor Kant involved corruption, giving contracts to friends, and utilizing a "money making machine" by billing excessive legal hours.
+      THE DISCOVERY: Widget Article shows Sherry was part of the corrupt Kant regime, benefited from it, and opposed Mayor Wilson's administration despite Wilson's efforts to integrate departments.
+      THE PIVOT: Widget Article establishes the historical corruption tied to the previous administration (Kant/Sherry), providing context for Main Article claims that the "three B's" (Burrell, Boone, Brown) and CATALYST represent ongoing corruption they are trying to perpetuate.
+      KEY ENTITIES: Kant, Sherry, Karin Wilson, Jack Burrell, Kevin Boone, Robert Brown, Scott Boone, Sullivan, Wilson, Burrell, Boone, Brown, CATALYST, Joseph
+    llm_text: Sherry benefited directly from Mayor Kant's corruption, opposing Mayor Wilson's reforms. See how this history connects to current claims from Burrell, Boone, and Brown.
+    text: Sherry Sullivan benefited from Mayor Tim Kant's corruption while opposing Mayor Karin Wilson's reforms. That history connects directly to current claims from Jack Burrell, Kevin Boone, and Robert Brown.
+    widget_date: "2020-07-25"
+    generated_at: "2026-11-07T16:02:05.155670Z"
+    model_name: plugsky-lite
+  truth:
+    brief: |-
+      THE CONFLICT: In past local politics and governance in Fairhope, Mayor Karin Wilson faced obstruction and a hostile "CATALYST council" and bloc—specifically the "three B's" (City Councilmen Jack Burrell, Robert Brown, and Kevin Boone)—who opposed her initiatives, including a working waterfront project funded by a $6 million grant. Councilman Robert Brown publicly criticized the waterfront project, leading to a public rebuke from citizen Leslie Callies Hollis regarding his obstructionism, lack of cooperation, and hypocrisy concerning public input and municipal spending (such as the purchase and expansion of a soccer field without public input). Additionally, a former mayor and former state senator was accused of stealing $639,000 of BP grant money via a no-bid contract paid to a private contractor friend.
+
+      THE DISCOVERY: Article 2 (the widget article) reveals historical context and contemporaneous public outrage directed at Councilman Robert Brown, exposing his pattern of undermining Mayor Karin Wilson's administrative achievements (like the marina and waterfront grants) out of political animus while deflecting scrutiny from his own questionable use of taxpayer money for projects like the soccer field. Furthermore, it highlights that Brown had a pending Attorney General Complaint and an Ethics Complaint filed against him.
+
+      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it documents the exact behavioral pattern, political obstruction, and ethical clouds surrounding Councilman Robert Brown and the "three B's" that Article 1 later uses to rally voters against them in the 2020 municipal election, proving that their opposition to Mayor Wilson was rooted in a multi-year campaign of bad-faith politics, self-serving actions, and corruption rather than legitimate governance.
+
+      KEY ENTITIES:
+      - Karin Wilson (Mayor of Fairhope)
+      - Robert Brown (City Councilman / "Three B's")
+      - Jack Burrell (City Councilman / "Three B's")
+      - Kevin Boone (City Councilman / "Three B's")
+      - Scott Boone (CATALYST leader / Councilman Boone's son)
+      - Sullivan (Mayoral candidate / former city employee)
+      - Leslie Callies Hollis (Citizen commenter)
+      - Deb Hopkins (Council challenger)
+      - Howell Gibbens (Council challenger)
+      - Joshua Gammon (Council challenger)
+      - CATALYST (Political group/organization)
+    llm_text: Before Councilman Robert Brown torpedoed Mayor Karin Wilson’s $6 million waterfront grant, citizen Leslie Callies Hollis exposed his blatant hypocrisy and pending ethics complaints. Read the explosive historical evidence proving how Brown and the "three B's" waged a multi-year campaign of bad-faith obstruction against Fairhope taxpayers.
+    text: Before Councilman Robert Brown torpedoed Mayor Karin Wilson’s $6 million waterfront grant, citizen Leslie Callies Hollis exposed his blatant hypocrisy and pending ethics complaints. Read the explosive historical evidence proving how Brown and the "three B's" waged a multi-year campaign of bad-faith obstruction against Fairhope taxpayers.
+    widget_date: "2020-07-20"
+    generated_at: "2026-11-07T16:02:10.972246Z"
+    model_name: gemini-3.5-flash-lite
+  fairhope-waterfront:
+    refined_source: 7aaae11244cea7b87981b9630f1298c9bdace1722255160b49e24b621b00b988
+    brief: |-
+      THE CONFLICT: Former Mayor stole $639,000 of BP grant money when Sullivan was employed.
+      THE DISCOVERY: The Fairhope Waterfront project is a $6.2 million BP grant, initially approved with $500,000 for planning based on 493 community questionnaire responses.
+      THE PIVOT: Article 2 establishes the BP grant source ($6.2M) and initial public involvement in the Waterfront project, contradicting claims in Article 1 that the project is solely the Mayor's plan and framing the CATALYST Council's actions around resource management and public input rather than just corruption.
+      KEY ENTITIES: Karin Wilson, Burrell, Boone, Brown, Sullivan, CATALYST, BP, Fairhope Waterfront, Jack Burrell, Kevin Boone, Robert Brown, Deb Hopkins, Howell Gibbens, Joshua Gammon
+    llm_text: Former Mayor Sullivan stole $639,000 from the $6.2M Fairhope Waterfront BP grant. See how public input from 493 residents shaped this project, not just corruption.
+    text: Former Mayor Tim Kant took $639,000 from the $6.2 million Fairhope Waterfront BP grant. Public input from 493 residents shaped that project despite municipal corruption.
+    widget_date: "2020-06-27"
+    generated_at: "2026-11-07T16:02:10.972128Z"
+    model_name: plugsky-lite

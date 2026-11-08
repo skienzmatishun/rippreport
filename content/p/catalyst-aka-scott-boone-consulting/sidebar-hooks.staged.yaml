@@ -1,0 +1,225 @@
+metadata:
+  generated_at: "2026-11-07T16:35:08.263472Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-aka-scott-boone-consulting
+  main_date: "2020-08-05"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  vote-jerry-carl-today:
+    refined_source: e7c966922bcce7d02608446442c7badbf3edb3f739979da018b74dca31debed3
+    brief: |-
+      THE CONFLICT:
+      *   CATALYST/Scott Boone is linked to the Strawman land fraud series in Lagniappe.
+      *   Involved individuals include Scott Boone, his father Kevin Boone (Fairhope councilman), and past County Commissioner Tucker Dorsey.
+      *   The actions are described as operating like a criminal enterprise and exploiting Baldwin County resources.
+
+      THE DISCOVERY:
+      *   Article 2 provided support and visibility for Jerry Carl during an election period.
+
+      THE PIVOT:
+      *   Article 2 establishes Jerry Carl's campaign presence, which Article 1 confirms resulted in CATALYST losing the First Congressional Race.
+      *   This loss is framed by Article 1 as a victory for Baldwin County citizens against CATALYST/Scott Boone Consulting.
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   Scott Boone Consulting (formerly CATALYST)
+      *   Jerry Carl
+      *   Kevin Boone (Fairhope councilman)
+      *   Tucker Dorsey (past County Commissioner)
+      *   Baldwin County
+      *   Spanish Fort
+      *   Daphne
+      *   Fairhope
+      *   Bay Minette
+      *   AUG 25th (Municipal Election Date)
+    llm_text: Scott Boone and his father Kevin Boone exploited Baldwin County resources through Lagniappe land fraud. This corruption ultimately cost Scott Boone Consulting the First Congressional Race to Jerry Carl, a victory for local citizens.
+    text: Scott Boone and Kevin Boone exploited Baldwin County resources through land fraud schemes. This corruption ultimately cost Scott Boone Consulting the First Congressional race to Jerry Carl.
+    widget_date: "2020-07-14"
+    generated_at: "2026-11-07T16:34:56.635337Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  first-congressional-district:
+    refined_source: ee22b9ba0551dc9ed71839a2360be089d23f3d71373c171bad6f883abef18c97
+    brief: |-
+      THE CONFLICT: In the July 14, 2020, AL-1 race, Jerry Carl opposed "Lowtower" (Hightower).
+      THE DISCOVERY: The Widget Article identified "Lowtower" as CATALYST—representing the "status quo" and "good ole boys" using politics for personal gain.
+      THE PIVOT: Article 2 established the CATALYST identity in the Congressional race; Article 1 confirms CATALYST recently lost the First Congressional Race to Mr. Jerry Carl and reveals the successor entity, Scott Boone Consulting, which is linked to land fraud (Strawman series) and developer corruption in Baldwin County.
+      KEY ENTITIES: Jerry Carl, Scott Boone, CATALYST, Scott Boone Consulting, Kevin Boone (Fairhope councilman), Tucker Dorsey (past County Commissioner), Business Council of Alabama, AL-1.
+    llm_text: Jerry Carl beat "Lowtower" (CATALYST) in the AL-1 race. The successor, Scott Boone Consulting, links to land fraud and developer corruption in Baldwin County.
+    text: Jerry Carl beat his opponent in the First Congressional District race. Scott Boone Consulting links directly to land fraud and developer corruption in Baldwin County.
+    widget_date: "2020-07-02"
+    generated_at: "2026-11-07T16:32:46.619814Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stealing-our-democracy:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County elections described as "fixed."
+      - Fairhope elections of 2008 and 2012 "so far out of wack that they defied statistics and common sense"; oversight by Alabama Secretary of State in 2016 before citizens were "confident of a fair election."
+      - Baldwin County Sheriff Hoss Mack won last two elections without opposition after then Sen. Tripp Pittman wrote exclusive sheriff qualifications for Baldwin County, "different than any county in the state"; Mack accepted re-election donations in both elections despite having no competition.
+      - Judge Michelle Thompson eliminated her competition by having the Baldwin County Republican Party declare her competition "not Republican enough."
+      - Former Governor Don Siegelman (served as Sec. of State, Attorney General, Lt. Governor, and Governor) was declared the winner, then Baldwin County "creatively came up with mysterious ballots" that flipped final results in favor of Bob Riley; those mysterious votes "have never seen the light of day."
+
+      THE DISCOVERY:
+      - Article 2 ("Stealing Our Democracy") revealed background context on how elections in Baldwin County were fixed.
+      - Documented methods of "FIX" elections: Judge Michelle Thompson's competition dismissal via Republican Party; Hoss Mack's no-opposition sheriff win via Tripp Pittman's exclusive qualifications; Fairhope's 2008/2012 election issues.
+      - Highlighted Don Siegelman's history as the depth of corruption in Alabama.
+
+      THE PIVOT:
+      - Article 2's "mysterious ballots" flipping the final results in favor of Bob Riley is called the "greatest fix in Alabama" — the smoking gun tying Baldwin County election fraud to the CATALYST/Scott Boone corruption narrative.
+      - Serves as key historical context for Article 1's claims that CATALYST/Scott Boone Consulting operates like a criminal enterprise and that CATALYST candidates ran dirty tricks in Fairhope municipal elections.
+      - Supports Article 1's call for voters in Baldwin County ahead of the Aug. 25th municipal election to reject CATALYST candidates.
+
+      THE KEY ENTITIES:
+      - Scott Boone / CATALYST / Scott Boone Consulting / Good Ole Boys
+      - Kevin Boone (Fairhope councilman, Scott Boone's father)
+      - Tucker Dorsey (Baldwin County sewer / former County Commissioner)
+      - Jerry Carl (defeated CATALYST in First Congressional Race)
+      - Hoss Mack (Baldwin County Sheriff)
+      - Tripp Pittman (then Sen.)
+      - Michelle Thompson (Judge)
+      - Don Siegelman (former Gov., Sec. of State, AG, Lt. Gov, Gov)
+      - Bob Riley (candidate beneficiary of mysterious ballots)
+      - Baldwin County, Fairhope, Spanish Fort, Daphne, Bay Minette, Lagniappe, Strawman series
+      - Alabama Secretary of State, FBI, Baldwin County Republican Party
+      - Atticus and the Architect (YouTube), Page and Pallette (book signing)
+    llm_text: Don Siegelman's mysterious ballots flipped Baldwin County's election for Bob Riley—the "greatest fix in Alabama." The Ripp Report links those suspicious votes to CATALYST's Scott Boone and the corruption allegations threatening Fairhope's elections.
+    text: Don Siegelman's mysterious ballots flipped Baldwin County's election for Bob Riley—the "greatest fix in Alabama." The Ripp Report links those suspicious votes to CATALYST's Scott Boone and the corruption allegations threatening Fairhope's elections.
+    widget_date: "2020-06-17"
+    generated_at: "2026-11-07T16:32:52.846918Z"
+    model_name: recursive/flint-v1.0:free
+  scary:
+    refined_source: 4943c7677bddeb29fb8b0c3caad81f9fe520dd1706f41fda394a3b75f9e49933
+    brief: |-
+      THE CONFLICT:
+      - Political instability in Fairhope, Alabama, involving efforts to undermine Mayor Karin Wilson.
+      - Sherry Sullivan ("Scary Sherry") and two co-workers, identified as former employees, were fired for insubordination after working with the CATALYST council to destabilize the Mayor's administration.
+      - A local individual (identified as the "BP good vibes guy" on a paddle board) broke a public pledge to remain neutral, instead endorsing Jack Burrell and aligning himself with CATALYST/Scott Boone.
+
+      THE DISCOVERY:
+      - CATALYST operated through local proxies and specific interest groups, including "The 3 B's" and Sherry Sullivan, to influence Fairhope municipal elections.
+      - The group's strategy involved utilizing disgruntled former employees and specific candidates (Jack Burrell, Tim Cant) to regain municipal control and install "good ole boys."
+
+      THE PIVOT:
+      - While Article 1 describes CATALYST as a shadowy, "criminal enterprise" utilizing a complex web of LLCs to hide its true actors, Article 2 provides the specific identities and real-world political maneuvers used by that enterprise to exert control in Baldwin County. Article 2 serves as the evidence of the "intricate web" in action, naming the specific individuals acting as the operational arm of Scott Boone.
+
+      KEY ENTITIES:
+      - Scott Boone
+      - Scott Boone Consulting
+      - CATALYST
+      - Sherry Sullivan ("Scary Sherry")
+      - Karin Wilson (Mayor of Fairhope)
+      - Kevin Boone (Fairhope Councilman)
+      - Jack Burrell
+      - Tim Cant
+      - Tucker Dorsey (Former County Commissioner)
+      - The 3 B's
+    llm_text: Scott Boone’s CATALYST group uses a web of local proxies to destabilize Fairhope Mayor Karin Wilson’s administration. This article exposes the specific players, including "Scary Sherry" Sullivan and "The 3 B's," who act as the operational arm for this political takeover.
+    text: Scott Boone’s group used local proxies to destabilize Fairhope Mayor Karin Wilson’s administration. Specific players like Sherry Sullivan and council members acted as the operational arm for this political takeover.
+    widget_date: "2020-08-01"
+    generated_at: "2026-11-07T16:31:05.548575Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  oil-slick:
+    brief: |-
+      THE CONFLICT:
+      - Deepwater Horizon oil spill (2010). BP. Former BP executive (John Manelos) personally oversaw BP "cleanup"; was one of a select few BP employees appointed to head the Deepwater Horizon oil spill disaster cleanup.
+      - BP dumped nearly 2 million gallons of Corexit dispersant on the Gulf of Mexico during cleanup.
+      - Corexit made the oil 52 times more toxic. Causes damage to all organs of the body, wreaks havoc on neurological systems, causes cancer.
+      - Oil spill sparked massive health crisis all along the Gulf Coast; health effects exacerbated by BP's unprecedented use of Corexit and deliberate putting of cleanup workers, response personnel, residents and tourists in harm's way to save face and reduce fines; deemed unconscionable.
+      - Lesley Pacey comment (posted Tue, Jul 28): Mayor Karin Wilson already started process to revamp aging sewage system in Fairhope – something that would not have been done without her pushing for change; ADEM and state attorney general mandating improvements she started; city leaders could no longer look the other way while polluting the bay.
+      - CATALYST / Scott Boone Consulting: Strawman land fraud series (Lagniappe); CATALYST/Scott Boone fingerprints all over Strawman along with Baldwin County sewer and past County Commissioner Tucker Dorsey.
+      - CATALYST lost First Congressional Race to Mr. Jerry Carl; victory for citizens of Baldwin County; VOTE in municipal election in Baldwin County Aug. 25th.
+
+      THE DISCOVERY:
+      - Article 2 ("OIL "SLICK"") revealed context at the time: BP executive (John Manelos) on paddle board; outdoor scene featured American flag, fountain, manicured lawns.
+      - BP guy on paddle board seemed to be living up to BP standards; blocked comments on Facebook page; comment taken down within couple hours of being posted.
+      - Fairhope "Good Vibes" Pledge: John Manelos and Sherry Sullivan issued pledges of positive campaigns, no negative comments; in his Lagniappe interview, Manelos said, "I am running a positive campaign and will not say anything negative about our current mayor or any other candidate."
+      - Sherry Sullivan declared candidacy a few days later and issued same pledge.
+      - Incumbent Karin Wilson and fourth candidate Annette Sanders had not yet echoed pledges.
+      - Days after full slate announced, vitriolic, slanderous claims began appearing online – not written by candidates themselves, but by their partisans.
+      - Lesley Pacey comment questioned BP executive's environmental credibility; asked where his concern was during oil spill when BP dumped nearly 2 million gallons of Corexit.
+
+      THE PIVOT:
+      - Article 2 is the key/background context (older) for Article 1 because Article 1 (CATALYST / Scott Boone Consulting) alleges the "good ole boys" hide behind Christianity, lack ethics/transparency/accountability, use inside information for municipal/public contracts.
+      - Widget article shows BP executive hiding behind "good Vibes" / free speech suppression via comment blocking/deletion – parallels CATALYST rebranding from CATALYST to Scott Boone Consulting and alleged concealment.
+      - Ripp Report Pledge: expose those who trample on Free Speech, like the BP paddle board guy with "good Vibes."
+      - "So lets walk on eggs and not discuss the BP history, BP Fraud, or how Alabama is number one in political corruption?"
+      - "What about the 3B's and Scary Sherry all being CATALYST."
+
+      KEY ENTITIES:
+      - John Manelos – Fairhope City Council candidate; former BP executive; paddle board; Good Vibes Pledge.
+      - Sherry Sullivan – "Scary Sherry"; CATALYST; Good Vibes Pledge.
+      - Karin Wilson – Fairhope Mayor; started sewage revamp; ADEM and state attorney general mandated improvements.
+      - Annette Sanders – fourth Fairhope mayoral candidate.
+      - Lesley Pacey – commenter re: BP oil spill exposure.
+      - BP – British Petroleum.
+      - Deepwater Horizon – oil spill.
+      - Corexit – dispersant; 52x more toxic.
+      - Mobile Bay – contamination site.
+      - Gulf of Mexico – oil spill location.
+      - Fairhope – location.
+      - Baldwin County – location.
+      - Jerry Carl – defeated Scott Boone/CATALYST in First Congressional Race.
+      - Scott Boone – CATALYST; Scott Boone Consulting.
+      - Kevin Boone – Scott Boone's father; Fairhope councilman.
+      - Tucker Dorsey – past Baldwin County Commissioner; sewer.
+      - Burrell Boone and Brown – Ripp Report Pledge: "VOTE OUT the BULLIES OF WOMEN."
+      - ADEM – Alabama Department of Environmental Management.
+      - Alabama state attorney general.
+      - Strawman – Lagniappe land fraud series.
+      - Lagniappe – reporting series.
+    llm_text: BP dumped nearly 2 million gallons of Corexit on the Gulf, making the oil 52 times more toxic. Now Fairhope's John Manelos pushed a 'Good Vibes' pledge while hiding behind free speech—and voters should care about that cover-up.
+    text: BP dumped nearly 2 million gallons of Corexit on the Gulf, making the oil 52 times more toxic. Now Fairhope's John Manelos pushed a 'Good Vibes' pledge while hiding behind free speech—and voters should care about that cover-up.
+    widget_date: "2020-07-29"
+    generated_at: "2026-11-07T16:31:38.239959Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-last-stand:
+    refined_source: c33afc327cf00ae3627afeaeb0ed027f9d80a1223450014cab55bbed6ba9eb7b
+    brief: |-
+      THE CONFLICT:
+      *   The "three B's"—Jack Burrell, Kevin Boone, and Robert Brown—were labeled as part of "CATALYST" for using office for personal gain and costing taxpayers millions in Fairhope. (Widget Article)
+      *   Kevin Boone (Fairhope councilman) had multiple LLCs linking him to developers and "good ole boys" interests. (Widget Article)
+      *   Former Mayor Cant and Sherry Sullivan were involved in covering up BP fraud and infrastructure issues; Mayor Wilson successfully stopped Pittman from receiving preferred city contracts and secured $18 million in BP RESTORE Act funds for sewer upgrades. (Widget Article)
+      *   CATALYST was linked to land fraud ("Strawman land fraud") involving Kevin Boone and Tucker Dorsey in Baldwin County. (Main Article)
+
+      THE DISCOVERY:
+      *   CATALYST transitioned its identity to Scott Boone Consulting. (Main Article)
+      *   CATALYST is financed by developers and landowners profiting from unbridled development, opposing regulations and impact fees. (Main Article)
+      *   The organization utilizes intricate, multi-layered LLC structures intended to conceal relationships and insulate principal actors from liability. (Main Article)
+      *   CATALYST candidates are running in Spanish Fort, Daphne, Fairhope, and Bay Minette. (Main Article)
+
+      THE PIVOT:
+      *   Article 2 established the "CATALYST" label and documented the specific local corruption in Fairhope (e.g., Pittman contracts, BP fraud cover-up) involving Kevin Boone and his associates.
+      *   Article 1 confirms this historical connection by identifying Scott Boone (and his father, Kevin Boone) as central players in the "Strawman land fraud" series, extending the scope of "CATALYST" corruption from local Fairhope politics to broader Baldwin County issues (sewer/Dorsey).
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   Kevin Boone (Fairhope councilman)
+      *   CATALYST / Scott Boone Consulting
+      *   Jack Burrell
+      *   Robert Brown
+      *   Cory Martin
+      *   Jimmy Conyers
+      *   Sherry Sullivan
+      *   Mayor Wilson
+      *   Tucker Dorsey
+      *   Pittman (State Senator boom boom Pittman)
+      *   BP (Oil Spill/RESTORE Act)
+      *   Fairhope
+      *   Baldwin County
+      *   Jerry Carl
+    llm_text: Jack Burrell, Kevin Boone, and Robert Brown faced the "CATALYST" label for misusing taxpayer money in Fairhope. Kevin Boone's multiple LLCs connect him to developers and "Strawman land fraud," showing corruption spans from Fairhope council to Baldwin County.
+    text: Jack Burrell, Kevin Boone, and Robert Brown faced accusations of misusing taxpayer money in Fairhope. Kevin Boone's multiple LLCs connect him to developers and land fraud, showing corruption spans from the city council to Baldwin County.
+    widget_date: "2020-07-22"
+    generated_at: "2026-11-07T16:31:42.768970Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  history-repeating-itself:
+    refined_source: 0b5581b7975a93882fde188982ffe42795260758eb182e2ef612dc21969cd737
+    brief: |-
+      THE CONFLICT: Howell Raines was dismissed from the New York Times in 2003 due to a scandal; in July 2020, a political conflict arose regarding the Fairhope waterfront grant and infrastructure project.
+      THE DISCOVERY: In 2020, the Fairhope waterfront project was identified as the first infrastructure project in 50 years, was ADA compliant, and was supported by a survey of 570 Fairhope citizens, contradicting critics' claims of "historic bluff destruction."
+      THE PIVOT: The Main Article identifies Scott Boone and his father, Kevin Boone (Fairhope councilman), as being involved in "Strawman land fraud" and political corruption, directly linking a key Fairhope council member to the land development and inside deal issues discussed in the 2020 context.
+      KEY ENTITIES: Scott Boone, Kevin Boone, Howell Raines, Mayor Wilson, Tucker Dorsey, Jerry Carl, Francis Paul Ripp, The Ripp Report
+    llm_text: Howell Raines, dismissed from the NYT in 2003, connects to current Fairhope corruption. Scott Boone and councilman Kevin Boone used "Strawman land fraud" over the waterfront grant.
+    text: Howell Raines, dismissed from the New York Times in 2003, connects to current Fairhope corruption. Scott Boone and Councilman Kevin Boone used land fraud schemes over the waterfront grant.
+    widget_date: "2020-07-15"
+    generated_at: "2026-11-07T16:33:47.228272Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

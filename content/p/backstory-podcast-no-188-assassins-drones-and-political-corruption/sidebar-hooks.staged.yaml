@@ -5,40 +5,43 @@ metadata:
   main_date: "2024-12-13"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
+  hanky-panky-at-the-po-po:
+    refined_source: d6380a355f15fa561945c5ce8e6007e0fe6c771f34b7ec90c2006cf93aad35eb
     brief: |-
       THE CONFLICT:
       *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
-      *   Mack vs Hadley involved the Baldwin County Sheriff's Department stealing a 1968 Camaro.
-      *   Murray Lawrence Jr. filed a Rule 32 Petition after two autopsies (ordered in 2005 by Coroner of Baldwin County) were never disclosed (Brady Violation).
-      *   Alabama Federal Judge Mark Fuller (Mobile, Alabama) was identified as a corrupt judge.
-      *   The Dothan Summer Feeding Scandal highlighted corruption in Alabama's legal and political systems.
+      *   The Mack vs Hadley case involved the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      *   In 2005, two autopsies were ordered by the Coroner of Baldwin County (Sheriff Mack's father) but were never disclosed to the Defense (a Brady Violation).
+      *   Allegations of corruption exist in Alabama's legal and political systems, exemplified by the Dothan Summer Feeding Scandal.
 
       THE DISCOVERY:
-      *   Governor Kay Ivey fired Admiral Kent Davis, disrupting veterans' programs and turning the board role into a political issue.
-      *   A true crime story in Clarke County revealed a hospice business had shady ties to a judge, confirming Alabama's "good old boy" system.
-      *   A court case established that people cannot sue over a wrong SWAT raid, raising police accountability questions.
+      *   Captain Andre Reid (Baldwin County Major Crimes Unit, CID, Forensics) faced allegations of an affair but was tied to a "Sheriff's Circle of Protection."
+      *   A Federal Investigation is ongoing regarding evidence handled by Baldwin County Sheriff's Deputies serving as Federal Agents under OCDEFT.
+      *   An Alabama Attorney General forwarded a Choctaw County murder-for-hire complaint to the local Sheriff due to his family connection to one of the alleged participants ("Hanky Panky at the Po Po").
 
       THE PIVOT:
-      *   The Clarke County judge/hospice link and Governor Ivey's politically motivated actions (firing Davis) demonstrate the ongoing systemic, entrenched corruption in Alabama, mirroring the historical issues detailed in Article 1 (e.g., Mark Fuller, Dothan Scandal).
+      *   Article 2 establishes a history of systemic protection, evidence compromise (OCDEFT, Reid investigation), and familial bias within the Baldwin County Sheriff's Department.
+      *   This history provides the essential context for the 2005 Brady Violation involving Sheriff Mack's father and the current allegations of institutional corruption related to the Manjone murder and Dothan Scandal detailed in Article 1.
 
       KEY ENTITIES:
       *   Luigi Manjone
       *   United Healthcare CEO
       *   Baldwin County Sheriff's Department
-      *   Mack
-      *   Hadley
-      *   Murray Lawrence Jr.
-      *   Mark Fuller (Mobile, Alabama)
+      *   Captain Andre Reid
+      *   Sheriff Mack
+      *   Coroner of Baldwin County
+      *   Mark Fuller (Alabama Federal Judge)
       *   Dothan Summer Feeding Scandal
-      *   Governor Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County
-    llm_text: From the Luigi Manjone murder case and the Dothan Scandal, Alabama corruption is historic. Now, Governor Kay Ivey fired Admiral Kent Davis, proving the "good old boy" system still controls legal and veteran programs in Clarke County.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T15:29:29.252930Z"
+      *   OCDEFT
+      *   Choctaw County
+      *   Alabama Court of Civil Appeals
+    llm_text: Luigi Manjone's murder case reveals systemic corruption within the Baldwin County Sheriff's Department. Sheriff Mack's father ordered a 2005 Brady Violation, proving deep institutional bias linked to OCDEFT and the Dothan Summer Feeding Scandal.
+    text: Sheriff Mack's father ordered a 2005 Brady violation to hide vital autopsies. That hidden evidence proves deep institutional bias within the Baldwin County Sheriff's Department.
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T15:40:37.340238Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: 1572bc96d6783b1f32b3c6d00b9007f95d8101388c28629dc76ff6ba4b614a71
     brief: |-
       THE CONFLICT:
       *   Mack vs Hadley case involved theft of a 1968 Camaro by Baldwin County Sheriff's Department.
@@ -65,10 +68,77 @@ hooks:
       *   Alabama Court of Civil Appeals
       *   Baldwin County District Attorney (building project)
     llm_text: Baldwin County law enforcement hid a 1968 Camaro theft and violated Murray Lawrence Jr.'s rights in 2005. This historic lack of accountability mirrors today's corrupt system where politically tied companies score million-dollar contracts.
+    text: Baldwin County law enforcement hid a 1968 Camaro theft and violated Murray Lawrence Jr.'s rights in 2005. That historic lack of accountability mirrors today's corrupt million-dollar contracts.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T15:31:42.674116Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 88618db0c169fef83a9debb8bc65df994fd89a4f198101ca00e785abd7c2b4d8
+    brief: |-
+      THE CONFLICT:
+      *   2005: Coroner of Baldwin County ordered two autopsies related to the Mack vs Hadley case (theft of a 1968 Camaro by the Baldwin County Sheriff's Department).
+      *   The autopsies were never disclosed to the defense, constituting a Brady Violation.
+      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
+
+      THE DISCOVERY:
+      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      *   The City of Bay Minette is being sued by the family of OJ French Jr., who was killed by BMPD Officer Brandon Thompson.
+
+      THE PIVOT:
+      *   Article 2 provides the current local context (Baldwin County governance, Sheriff's ongoing actions, local legal maneuvering) that frames the historical corruption detailed in Article 1 (Mack vs Hadley/Brady Violation).
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Sheriff Mack
+      *   Murray Lawrence Jr.
+      *   Coroner of Baldwin County
+      *   Mark Fuller (Alabama Federal Judge)
+      *   OJ French Jr.
+      *   Brandon Thompson (BMPD Officer)
+      *   Andy Ruten (Mobile Attorney)
+      *   Bob Wills (Bay Minette Mayor)
+      *   Governor Ivey
+    llm_text: The Mack vs Hadley case exposed a 2005 Brady Violation when the Coroner of Baldwin County withheld key autopsies. See how this historical corruption connects to current local battles, including the OJ French Jr. lawsuit against BMPD Officer Brandon Thompson.
+    text: The Baldwin County Coroner withheld key autopsies during the 2005 Mack versus Hadley case. That historical corruption directly connects to the current OJ French Jr. lawsuit.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T15:30:40.415597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 6d5621af10a9cac51a57b18af96f3c65780d96b2b1f54632927013c43a089a65
+    brief: |-
+      THE CONFLICT:
+      1. In 2005, two autopsies were ordered by Sheriff Mack's father, the Coroner of Baldwin County, which were never disclosed to the Defense in the Mack vs Hadley case (theft of a 1968 Camaro).
+      2. This failure to disclose constituted a Brady Violation.
+      3. Corrupt Alabama Federal Judge Mark Fuller (Mobile, Alabama) is noted as one of the Most Corrupt Judges in American History.
+      4. The Dothan Summer Feeding Scandal illustrates corruption in Alabama's legal and political systems.
+
+      THE DISCOVERY:
+      1. On July 31, 2024, the family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson.
+      2. The lawsuit alleges Officer Thompson lacked probable cause for a stop and escalated the situation, resulting in the shooting death of the victim over a taser.
+      3. Sheriff Mack announced his resignation in mid-July, with Chief Deputy Anthony Lowery being considered for appointment by Governor Ivey, competing with County Commissioner Matt McKenzie.
+
+      THE PIVOT:
+      1. The OJ French lawsuit demonstrates ongoing local law enforcement misconduct and political cover-ups (e.g., Mayor Robert Bob Wills lying about family consensus) within Baldwin County.
+      2. This incident connects to the historical pattern of legal and political corruption previously detailed in the context of Sheriff Mack's legal issues and the systemic failures (Brady Violation) within Baldwin County's legal structure.
+
+      KEY ENTITIES:
+      1. Sheriff Mack
+      2. OJ French Jr.
+      3. Officer Brandon Thompson
+      4. Mayor Robert Bob Wills
+      5. Chief Deputy Anthony Lowery
+      6. County Commissioner Matt McKenzie
+      7. Alabama Federal Judge Mark Fuller
+      8. Baldwin County
+      9. City of Bay Minette
+      10. Governor Ivey
+    llm_text: OJ French Jr. sued the City of Bay Minette over Officer Brandon Thompson's shooting death, exposing ongoing misconduct in Baldwin County. This connects directly to past failures, including Sheriff Mack's Brady Violation and the corruption of Alabama Federal Judge Mark Fuller.
+    text: OJ French Jr. sued the City of Bay Minette over Officer Brandon Thompson's actions. This lawsuit exposes ongoing misconduct that connects directly to Sheriff Mack's past Brady violation.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T15:39:10.427476Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: bf131b00c4b2fd5c9ac521ea1db6406f3007e8d08db70cc8346b5139d9040ba1
     brief: |-
       THE CONFLICT:
       *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
@@ -99,10 +169,12 @@ hooks:
       *   USS Enterprise
       *   New Jersey (Iranian drones)
     llm_text: Luigi Manjone's murder of a United Healthcare CEO exposes deep Alabama corruption, from Mark Fuller to the Baldwin County Sheriff's Department theft. This local legal failure links directly to presidential pardons and COVID response failures, showing justice fails everywhere.
+    text: The Baldwin County Sheriff's Department hides key evidence while local theft cases stall. This legal failure proves justice consistently misses the powerful.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T15:32:49.137373Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 94ce2454a9bbb5010e41287f868ea969a908b57ae98acc0a0dc4bb851d04881d
     brief: |-
       THE CONFLICT: Dothan Summer Feeding Scandal (Alabama corruption); Mack vs Hadley theft of a 1968 Camaro by Baldwin County Sheriff's Department; discovery of two autopsies in 2005 ordered by Coroner of Baldwin County (Sheriff Mack's father) which were not disclosed to the Defense (Brady Violation); corrupt Alabama Federal Judge Mark Fuller from Mobile, Alabama.
 
@@ -112,39 +184,12 @@ hooks:
 
       KEY ENTITIES: Luigi Manjone, United Healthcare CEO, Dothan Summer Feeding Scandal, Mack vs Hadley, Baldwin County Sheriff's Department, Murray Lawrence Jr., Mark Fuller, Alabama Court of Civil Appeals, Alabama.
     llm_text: Alabama is navigating major political shifts, yet deep corruption remains. Corrupt Federal Judge Mark Fuller and the Dothan Summer Feeding Scandal expose systemic rot within the state, including the Mack vs Hadley theft.
+    text: Federal Judge Mark Fuller and the Dothan Summer Feeding Scandal expose systemic rot in Alabama. The Mack versus Hadley theft adds to the state's long record of corruption.
     widget_date: "2024-11-27"
     generated_at: "2026-11-06T15:34:12.395578Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      *   2005: Coroner of Baldwin County ordered two autopsies related to the Mack vs Hadley case (theft of a 1968 Camaro by the Baldwin County Sheriff's Department).
-      *   The autopsies were never disclosed to the defense, constituting a Brady Violation.
-      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
-
-      THE DISCOVERY:
-      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
-      *   The City of Bay Minette is being sued by the family of OJ French Jr., who was killed by BMPD Officer Brandon Thompson.
-
-      THE PIVOT:
-      *   Article 2 provides the current local context (Baldwin County governance, Sheriff's ongoing actions, local legal maneuvering) that frames the historical corruption detailed in Article 1 (Mack vs Hadley/Brady Violation).
-
-      KEY ENTITIES:
-      *   Baldwin County
-      *   Sheriff Mack
-      *   Murray Lawrence Jr.
-      *   Coroner of Baldwin County
-      *   Mark Fuller (Alabama Federal Judge)
-      *   OJ French Jr.
-      *   Brandon Thompson (BMPD Officer)
-      *   Andy Ruten (Mobile Attorney)
-      *   Bob Wills (Bay Minette Mayor)
-      *   Governor Ivey
-    llm_text: The Mack vs Hadley case exposed a 2005 Brady Violation when the Coroner of Baldwin County withheld key autopsies. See how this historical corruption connects to current local battles, including the OJ French Jr. lawsuit against BMPD Officer Brandon Thompson.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T15:30:40.415597Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: 51f66ebc24563dd6c424fa8060d1cd4a70139f832b0e11f880a9ea17b6339542
     brief: |-
       THE CONFLICT:
       Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022.
@@ -171,10 +216,47 @@ hooks:
       Katie Britt
       Adm. Kent Davis
     llm_text: Thomas Daniel "Danny" Williams Jr's 2022 death in Orange Beach highlights more than one case. This tragedy links to systemic Alabama corruption, including the Dothan Summer Feeding Scandal and Mark Fuller's past legal violations.
+    text: Thomas Daniel Danny Williams Jr. died in Orange Beach under unexplained circumstances. His tragic 2022 death links directly to the Dothan Summer Feeding Scandal.
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T15:35:37.197335Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 6ea924c4688f04eb52b256127f0936d9149085551f65d5c078429e0cea74f25c
+    brief: |-
+      THE CONFLICT:
+      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
+      *   Mack vs Hadley involved the Baldwin County Sheriff's Department stealing a 1968 Camaro.
+      *   Murray Lawrence Jr. filed a Rule 32 Petition after two autopsies (ordered in 2005 by Coroner of Baldwin County) were never disclosed (Brady Violation).
+      *   Alabama Federal Judge Mark Fuller (Mobile, Alabama) was identified as a corrupt judge.
+      *   The Dothan Summer Feeding Scandal highlighted corruption in Alabama's legal and political systems.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis, disrupting veterans' programs and turning the board role into a political issue.
+      *   A true crime story in Clarke County revealed a hospice business had shady ties to a judge, confirming Alabama's "good old boy" system.
+      *   A court case established that people cannot sue over a wrong SWAT raid, raising police accountability questions.
+
+      THE PIVOT:
+      *   The Clarke County judge/hospice link and Governor Ivey's politically motivated actions (firing Davis) demonstrate the ongoing systemic, entrenched corruption in Alabama, mirroring the historical issues detailed in Article 1 (e.g., Mark Fuller, Dothan Scandal).
+
+      KEY ENTITIES:
+      *   Luigi Manjone
+      *   United Healthcare CEO
+      *   Baldwin County Sheriff's Department
+      *   Mack
+      *   Hadley
+      *   Murray Lawrence Jr.
+      *   Mark Fuller (Mobile, Alabama)
+      *   Dothan Summer Feeding Scandal
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+    llm_text: From the Luigi Manjone murder case and the Dothan Scandal, Alabama corruption is historic. Now, Governor Kay Ivey fired Admiral Kent Davis, proving the "good old boy" system still controls legal and veteran programs in Clarke County.
+    text: Governor Kay Ivey fired Admiral Kent Davis amid ongoing political friction. The good old boy system still controls legal and veteran programs across Clarke County.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T15:29:29.252930Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: bf7a3324ac8702210081d91f24c705315f34a6c77df4839499d80705ee5b1cc4
     brief: |-
       THE CONFLICT: 2005—Coroner of Baldwin County ordered two autopsies for Mack vs Hadley regarding theft of a 1968 Camaro, which were not disclosed to the Defense (Brady Violation).
 
@@ -184,10 +266,12 @@ hooks:
 
       KEY ENTITIES: Luigi Manjone, United Healthcare CEO, Dothan Summer Feeding Scandal, USS Enterprise, Mark Fuller, Mack vs Hadley, Baldwin County Sheriff's Department, Alabama Court of Civil Appeals, Murray Lawrence Jr., Kent David, Sylacauga Alabama, David R. Jones, Renaissance School, Brandon Moseley, RFK Jr, Tulsi Gabbards, Russell Brand
     llm_text: The Mack vs Hadley case revealed a Brady Violation over a 1968 Camaro, but political turmoil in Sylacauga prompted Kent David's departure over a whistleblower complaint. Explore how systemic corruption—from the Dothan scandal to Baldwin County issues—shakes Alabama's governance.
+    text: The Mack versus Hadley case exposed a Brady violation over a stolen 1968 Camaro. Meanwhile, political turmoil in Sylacauga forced Kent David to resign over a whistleblower complaint.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T15:36:56.220062Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: 1f17ac5e7bde0b5797436fccde1f33b638565ab0740bfba1f2060523f81c54c5
     brief: |-
       THE CONFLICT:
       *   Mack vs Hadley case involved the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
@@ -211,71 +295,7 @@ hooks:
       *   United Healthcare CEO
       *   Dothan Summer Feeding Scandal
     llm_text: Sheriff Mack faced a Brady Violation in the Mack vs Hadley case after the Coroner of Baldwin County hid critical 2005 autopsies. Political instability in Baldwin County, Alabama, now reveals the ethical corruption surrounding Mack's final term and his office transition.
+    text: The Baldwin County Coroner hid critical 2005 autopsies in the Mack versus Hadley case. Political instability now surrounds Sheriff Mack's final term and office transition.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T15:38:08.827811Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT:
-      1. In 2005, two autopsies were ordered by Sheriff Mack's father, the Coroner of Baldwin County, which were never disclosed to the Defense in the Mack vs Hadley case (theft of a 1968 Camaro).
-      2. This failure to disclose constituted a Brady Violation.
-      3. Corrupt Alabama Federal Judge Mark Fuller (Mobile, Alabama) is noted as one of the Most Corrupt Judges in American History.
-      4. The Dothan Summer Feeding Scandal illustrates corruption in Alabama's legal and political systems.
-
-      THE DISCOVERY:
-      1. On July 31, 2024, the family of OJ French Jr. filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson.
-      2. The lawsuit alleges Officer Thompson lacked probable cause for a stop and escalated the situation, resulting in the shooting death of the victim over a taser.
-      3. Sheriff Mack announced his resignation in mid-July, with Chief Deputy Anthony Lowery being considered for appointment by Governor Ivey, competing with County Commissioner Matt McKenzie.
-
-      THE PIVOT:
-      1. The OJ French lawsuit demonstrates ongoing local law enforcement misconduct and political cover-ups (e.g., Mayor Robert Bob Wills lying about family consensus) within Baldwin County.
-      2. This incident connects to the historical pattern of legal and political corruption previously detailed in the context of Sheriff Mack's legal issues and the systemic failures (Brady Violation) within Baldwin County's legal structure.
-
-      KEY ENTITIES:
-      1. Sheriff Mack
-      2. OJ French Jr.
-      3. Officer Brandon Thompson
-      4. Mayor Robert Bob Wills
-      5. Chief Deputy Anthony Lowery
-      6. County Commissioner Matt McKenzie
-      7. Alabama Federal Judge Mark Fuller
-      8. Baldwin County
-      9. City of Bay Minette
-      10. Governor Ivey
-    llm_text: OJ French Jr. sued the City of Bay Minette over Officer Brandon Thompson's shooting death, exposing ongoing misconduct in Baldwin County. This connects directly to past failures, including Sheriff Mack's Brady Violation and the corruption of Alabama Federal Judge Mark Fuller.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T15:39:10.427476Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-at-the-po-po:
-    brief: |-
-      THE CONFLICT:
-      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
-      *   The Mack vs Hadley case involved the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-      *   In 2005, two autopsies were ordered by the Coroner of Baldwin County (Sheriff Mack's father) but were never disclosed to the Defense (a Brady Violation).
-      *   Allegations of corruption exist in Alabama's legal and political systems, exemplified by the Dothan Summer Feeding Scandal.
-
-      THE DISCOVERY:
-      *   Captain Andre Reid (Baldwin County Major Crimes Unit, CID, Forensics) faced allegations of an affair but was tied to a "Sheriff's Circle of Protection."
-      *   A Federal Investigation is ongoing regarding evidence handled by Baldwin County Sheriff's Deputies serving as Federal Agents under OCDEFT.
-      *   An Alabama Attorney General forwarded a Choctaw County murder-for-hire complaint to the local Sheriff due to his family connection to one of the alleged participants ("Hanky Panky at the Po Po").
-
-      THE PIVOT:
-      *   Article 2 establishes a history of systemic protection, evidence compromise (OCDEFT, Reid investigation), and familial bias within the Baldwin County Sheriff's Department.
-      *   This history provides the essential context for the 2005 Brady Violation involving Sheriff Mack's father and the current allegations of institutional corruption related to the Manjone murder and Dothan Scandal detailed in Article 1.
-
-      KEY ENTITIES:
-      *   Luigi Manjone
-      *   United Healthcare CEO
-      *   Baldwin County Sheriff's Department
-      *   Captain Andre Reid
-      *   Sheriff Mack
-      *   Coroner of Baldwin County
-      *   Mark Fuller (Alabama Federal Judge)
-      *   Dothan Summer Feeding Scandal
-      *   OCDEFT
-      *   Choctaw County
-      *   Alabama Court of Civil Appeals
-    llm_text: Luigi Manjone's murder case reveals systemic corruption within the Baldwin County Sheriff's Department. Sheriff Mack's father ordered a 2005 Brady Violation, proving deep institutional bias linked to OCDEFT and the Dothan Summer Feeding Scandal.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T15:40:37.340238Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

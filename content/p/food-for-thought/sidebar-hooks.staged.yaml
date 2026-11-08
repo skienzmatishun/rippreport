@@ -5,37 +5,32 @@ metadata:
   main_date: "2025-08-15"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  know-before-you-vote-2:
-    brief: |-
-      THE CONFLICT: Fairhope City Council ignored repeated concerns from constituents regarding local issues. (Specific names and past dates not provided in the text.)
-      THE DISCOVERY: The Fairhope City Council has a documented history of ignoring public concerns leading up to the August 26, 2025 election.
-      THE PIVOT: The historical pattern of the Fairhope City Council ignoring constituents provides context for the current, previously undisclosed issue regarding strategically placed, publicly owned land in Baldwin County with mismatched zoning.
-      KEY ENTITIES: Fairhope City Council, Baldwin County
-    llm_text: 'Fairhope City Council repeatedly ignored constituents, creating a documented pattern of disregarding public concerns leading up to the August 26, 2025 election. Now, see why this matters: investigate the undisclosed issue of mismatched zoning on publicly owned land in Baldwin County.'
-    widget_date: "2025-08-11"
-    generated_at: "2026-11-06T13:16:44.594812Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   russian-roulette-fairhope-style-rerun:
+    refined_source: 9f719ea4aa0ba5ddd17f0ce7a3f73f95e193b2ea9301a19480c8fad61fdeaa11
     brief: |-
       THE CONFLICT: Dyas, Triangle lawsuit occurred; Mayor Timmy and council members Boone and Burrell falsely claimed a settlement and land purchase was a "WIN"; this action cost Fairhope $11.25 million; the lawsuit could have been settled for under $1 million.
       THE DISCOVERY: A publicly owned parcel of land in Baldwin County exists with a strategic placement and a zoning designation that does not match its actual use, and this has only recently become public.
       THE PIVOT: The historical pattern of council misrepresentation and legal mismanagement (e.g., the Dyas lawsuit) establishes a precedent of hidden land dealings and financial negligence, making the current undisclosed, strategically located, and mis-zoned land parcel suspect.
       KEY ENTITIES: Fairhope; Baldwin County; Tim Kant; Timmy (Mayor); Boone; Burrell (Council); Jack Burrell (Council President); Councilmen Robinson and Conyers; Mr. Buddy Breland; O’Rear (attorney); Dyas, Triangle; Catalyst Council.
     llm_text: Mayor Timmy and council members Boone and Burrell cost Fairhope $11.25 million by misrepresenting the Dyas lawsuit. A newly public, mis-zoned parcel in Baldwin County raises serious questions about hidden land dealings and financial negligence.
+    text: Mayor Timmy and council members Boone and Burrell cost Fairhope $11.25 million over the Dyas lawsuit. What does a mis-zoned parcel reveal about hidden land deals?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T13:18:51.364624Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote:
+    refined_source: 4395d7c92a88b4cf916a5e8e98ec0b8cff9cb872eff4c278ffe238cb69595733
     brief: |-
       THE CONFLICT: Fairhope City Council ignored repeated concerns from constituents prior to the August 26, 2025 ballot.
       THE DISCOVERY: Article 2 revealed the Fairhope City Council was disregarding public input regarding local concerns.
       THE PIVOT: The Council's established pattern of ignoring public concerns (Article 2) provides the historical context for the undisclosed, strategically placed, publicly owned land parcel in Baldwin County with a zoning designation that does not match the actual usage (Article 1).
       KEY ENTITIES: Fairhope City Council, Baldwin County, August 26, 2025.
-    llm_text: Fairhope City Council ignored constituent concerns before the August 26, 2025 ballot. Discover how this pattern of public disregard led to an undisclosed Baldwin County land parcel with a zoning designation that doesn't match its actual usage.
+    llm_text: Fairhope City Council ignored constituent concerns before the August 26, 2025 ballot. Read how this pattern of public disregard led to an undisclosed Baldwin County land parcel with a zoning designation that doesn't match its actual usage.
+    text: Fairhope City Council ignored constituent concerns prior to the August 26, 2025 ballot. What does this public disregard reveal about local land zoning?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T13:19:47.748356Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: add5c800414b672a301b51096d5b1da5de5503b1e6e2cc2fd5bcb198a9ec3c11
     brief: |-
       THE CONFLICT:
       *   Fauxhope municipal elections occurred, culminating on Aug 26, 2025.
@@ -62,10 +57,12 @@ hooks:
       *   Karen Wilson
       *   Catalyst
     llm_text: Jack Burrell and the Catalyst network control Fauxhope, using special interests to maintain questionable zoning on Baldwin County land. See how this political power allowed unqualified Mayor Sherry Sullivan to take office.
+    text: Jack Burrell and the Catalyst network control local zoning on Baldwin County land. How did this political power push Sherry Sullivan into office?
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T13:20:48.134796Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county-dhr-lawsuit:
+    refined_source: e3422e6637eb9a1cbdf1afca2243b3d26ccbafd3b1a379b18a859d0a25a130c3
     brief: |-
       THE CONFLICT:
       Two minor children (one 13, one 11) were left unprotected for over five months in Baldwin County, despite clear signs of abuse and involvement from law enforcement and a court-appointed guardian.
@@ -84,10 +81,12 @@ hooks:
       Spanish Fort (Law firm location)
       Two minor children (ages 13 and 11)
     llm_text: Two minor children, ages 13 and 11, endured five months of unprotected abuse in Baldwin County despite law enforcement involvement. Systemic failures in Baldwin County DHR sparked a federal class action, and this corruption links directly to a crucial public land zoning issue.
+    text: Two children endured five months of abuse in Baldwin County despite law enforcement involvement. Why did systemic failures in DHR spark a federal class action?
     widget_date: "2025-04-03"
     generated_at: "2026-11-06T13:17:54.615167Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   go-to-hell-veterans:
+    refined_source: e117f1b978579bc65766848bd330331fb8237534b8ef12da80880a8f434cc43f
     brief: |-
       THE CONFLICT:
       *   Lawmakers voted to cut Alabama Veterans support (House vote 56 to 39).
@@ -114,11 +113,13 @@ hooks:
       *   Andrew Jones (State Sen. from Cherokee County)
       *   $7 million (ARPA diverted funds)
       *   Baldwin County (land location)
-    llm_text: Alabama cut veteran support and restructured the ADVA, but was it retaliation for Kent Davis's ethics complaint? Investigate how $7 million in ARPA funds were allegedly diverted by Kimberly Boswell, tied to a strategic Baldwin County land parcel.
+    llm_text: Alabama cut veteran support and restructured the ADVA, but was it retaliation for Kent Davis's ethics complaint? Investigate how $7 million in ARPA funds were diverted by Kimberly Boswell, tied to a strategic Baldwin County land parcel.
+    text: Alabama cut veteran support and restructured the ADVA after Kent Davis filed an ethics complaint. Was this official action direct retaliation?
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T13:21:52.582199Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: 57430185aabb1cbacb59d43ed8ccbecd521c5b0ea2a2f5d4c61be71f43e22cb1
     brief: |-
       THE CONFLICT:
       *   Killing of O.J. French of Bay Minette during a traffic stop.
@@ -150,7 +151,20 @@ hooks:
       *   Baldwin County Commission
       *   Bay Minette
       *   Baldwin County Major Crimes Unit
-    llm_text: Sheriff Hoss Mack and Robert Wilters orchestrated cover-ups involving O.J. French and Johnathan Victor, wrongly convicting Murray Lawrence Jr. Discover how a hidden, mismatched zoning land parcel in Baldwin County ties directly to this systemic corruption.
+    llm_text: Sheriff Hoss Mack and Robert Wilters orchestrated cover-ups involving O.J. French and Johnathan Victor, wrongly convicting Murray Lawrence Jr. Read how a hidden, mismatched zoning land parcel in Baldwin County ties directly to this systemic corruption.
+    text: Sheriff Hoss Mack and Robert Wilters orchestrated cover-ups and wrongly convicted Murray Lawrence Jr. How does a hidden land parcel tie into this corruption?
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T13:23:02.551986Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  know-before-you-vote-2:
+    refined_source: be6aaeaaa5102e01ea08bbdf167b35b4d5858988413253f26131b48579d9c849
+    brief: |-
+      THE CONFLICT: Fairhope City Council ignored repeated concerns from constituents regarding local issues. (Specific names and past dates not provided in the text.)
+      THE DISCOVERY: The Fairhope City Council has a documented history of ignoring public concerns leading up to the August 26, 2025 election.
+      THE PIVOT: The historical pattern of the Fairhope City Council ignoring constituents provides context for the current, previously undisclosed issue regarding strategically placed, publicly owned land in Baldwin County with mismatched zoning.
+      KEY ENTITIES: Fairhope City Council, Baldwin County
+    llm_text: 'Fairhope City Council repeatedly ignored constituents, creating a documented pattern of disregarding public concerns leading up to the August 26, 2025 election. Now, see why this matters: investigate the undisclosed issue of mismatched zoning on publicly owned land in Baldwin County.'
+    text: Fairhope City Council repeatedly ignored public concerns leading up to the August 26, 2025 election. Why does mismatched zoning on public land matter now?
+    widget_date: "2025-08-11"
+    generated_at: "2026-11-06T13:16:44.594812Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

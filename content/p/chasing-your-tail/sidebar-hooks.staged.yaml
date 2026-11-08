@@ -1,0 +1,115 @@
+metadata:
+  generated_at: "2026-11-08T05:07:15.590501Z"
+  generator_version: 1.0.0
+  post_slug: chasing-your-tail
+  main_date: "2018-12-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  daphne-decision:
+    brief: |-
+      THE CONFLICT:
+      Joe Davis, III, vacated the District 7 Council seat on November 13, 2018.
+
+      THE DISCOVERY:
+      The Daphne City Council sought replacements for the vacancy, with Catalyst recruiting Johnathan Armstrong, who was associated with Jeb Ball and the County Commission. Catalyst originated from Elliott Haygood and Stacy, Elliott, Haygood, and is linked to the Mayor of Daphne.
+
+      THE PIVOT:
+      Article 2 establishes Catalyst as an entrenched, organized political entity that historically dictates local appointments (like Armstrong) and influences city leadership, providing the context for the "Catalyst, at large council" referenced in Article 1 which is accused of derailing change of government and lacking leadership.
+
+      KEY ENTITIES:
+      Daphne City Council
+      Joe Davis, III
+      Johnathan Armstrong
+      Jeb Ball
+      Frank Burt
+      Michelle Thomasson
+      Elliott Haygood
+      Stacy, Elliott
+      Mayor of Daphne
+      Catalyst
+    llm_text: Joe Davis vacated the District 7 seat, but Catalyst placed Johnathan Armstrong there. This entrenched group, linked to Jeb Ball and the Mayor of Daphne, dictates local appointments and controls the direction of the City Council.
+    widget_date: "2018-12-07"
+    generated_at: "2026-11-08T05:00:42.001315Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  russian-roulette-fairhope-style:
+    brief: |-
+      THE CONFLICT: Dyas, Triangle lawsuit resulted in Fairhope assuming the entire cost of the settlement, amounting to $11.25 million; this involved former Mayor Tim Kant and then Council members Boone and Burrell.
+      THE DISCOVERY: Article 2 revealed that the Dyas settlement was misrepresented as a "WIN" by the city council, and that for nearly 11 years, the city has been engulfed in another unresolved lawsuit (Breland case) despite council inaction and failure to inform the public.
+      THE PIVOT: Article 2 establishes a documented history of poor council leadership, lack of public transparency, and costly negligence (e.g., Dyas lawsuit), providing context for the present council's failure to manage the Breland case, deliver a budget, or address pending litigation (as detailed in Article 1).
+      KEY ENTITIES: Fairhope City Council, Tim Kant, Jack Burrell (Council President), Attorney O’Rear, Mr. Buddy Breland, Councilmen Robinson, Councilmen Conyers, School Board.
+    llm_text: Fairhope spent $11.25M on the Dyas lawsuit, which former Mayor Tim Kant and Council members Boone and Burrell misrepresented as a win. This history of council negligence now leaves the city trapped in an 11-year unresolved Breland case.
+    widget_date: "2018-12-06"
+    generated_at: "2026-11-08T05:02:48.767533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  barstool:
+    brief: |-
+      THE CONFLICT: Ronan McSharry, a bar owner, assaulted his wife during divorce settlement procedures in 2010. McSharry had multiple subsequent recorded incidents, including an incident this year where he knocked a bartender from a bar stool, causing a concussion.
+      THE DISCOVERY: The Fairhope Police, Municipal Judge, City Attorney, and Mayor Kant were aware of McSharry's domestic violence and violent temper since 2010, yet the "at large" council ignored the serious problems.
+      THE PIVOT: Article 2 establishes a historical pattern of the Fairhope City Council failing to uphold public safety and accountability by ignoring serious documented misconduct, providing context for the council's current failures in transparency, such as the Breland case ($11.25 million loss) and budget delays cited in Article 1.
+      KEY ENTITIES: Ronan McSharry, Jack Burrell (Councilman/President), Mayor Kant, Mr. Burrell, Nall, Fairhope City Council (at large), American Legion Tiki Bar.
+    llm_text: Ronan McSharry assaulted his wife in 2010 and recently knocked a bartender from a stool. Despite Mayor Kant and Fairhope police knowing his violent history since 2010, the City Council ignored the danger, setting a pattern of public safety failures impacting the Breland case.
+    widget_date: "2018-11-30"
+    generated_at: "2026-11-08T05:03:52.662396Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst:
+    brief: |-
+      THE CONFLICT: The "at large" Catalyst Council was identified as the worst and least effective council in Fairhope in 20 years following the General Election.
+      THE DISCOVERY: Article 2 showed that the council's inability to pass a budget was deliberate, intended to obstruct the Mayor and City Supervisors, costing taxpayers.
+      THE PIVOT: Article 2 establishes the historical pattern of obstruction and the influence of "Catalyst connections" and "special interests," providing the foundational context for Article 1's claims that the council is "chasing its tail" on current issues like the Breland case and the Entertainment District.
+      KEY ENTITIES: Fairhope City Council, The Catalyst, Mayor, City Supervisors, City Attorney, Mr. Burrell, Dyas lawsuit, Breland case, K-1 center, School Board, Entertainment District.
+    llm_text: Fairhope's Catalyst Council intentionally blocked the budget, proving it is the worst council in 20 years and costing taxpayers. Discover how "Catalyst connections" obstruct the Mayor and City Supervisors on issues like the Breland case.
+    widget_date: "2018-11-28"
+    generated_at: "2026-11-08T05:04:49.718936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ignorance-is-bliss:
+    brief: |-
+      THE CONFLICT:
+      1. A referendum election took place in Fairhope concerning the political control of the City Council.
+      2. The Catalyst faction maintained control of the City Council.
+      3. The Council president, Mr. Burrell, handled the Dyas lawsuit, resulting in a $11.25 million loss and property purchase, without public participation.
+      4. The Council has not explained the Breland case status to the public.
+
+      THE DISCOVERY:
+      1. The Forever Fairhope movement was backed by Can't loyalists who invested in a political PAC.
+      2. Banner carriers for Forever Fairhope, Gary Thorson (5 years resident) and Bill Pennington (7 years resident), admitted to being unaware of city government problems prior to the referendum petition.
+
+      THE PIVOT:
+      1. Article 2 demonstrates that opposition to the Council (Catalyst) was not uniformly based on informed civic engagement, but potentially on recruitment or ignorance, confirming the effectiveness of Catalyst in maintaining control and limiting informed public action detailed in Article 1.
+
+      KEY ENTITIES:
+      1. Fairhope
+      2. City Council
+      3. Catalyst
+      4. Can't
+      5. Mr. Burrell
+      6. Gary Thorson
+      7. Bill Pennington
+      8. Forever Fairhope
+      9. Dyas lawsuit ($11.25 million loss)
+      10. Breland case
+      11. K-1 center
+      12. Entertainment District
+    llm_text: Catalyst controls Fairhope following the referendum, despite Mr. Burrell's $11.25 million Dyas lawsuit loss. Gary Thorson and Bill Pennington admitted their opposition wasn't based on informed civic engagement, proving political control trumps public awareness.
+    widget_date: "2018-11-16"
+    generated_at: "2026-11-08T05:05:50.301645Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fear:
+    brief: |-
+      THE CONFLICT: Political struggle for change in Fairhope; Mr. Gary Thorson (Forever Fairhope PAC) advocated a NO vote on Nov. 6th to change the city's power structure.
+      THE DISCOVERY: Article 2 established the political climate, arguing that a YES vote would prevent corruption from SPECIAL INTERESTS and promote common government, countering Thorson's NO vote.
+      THE PIVOT: Article 2 sets the context of corruption concerns and the demand for government change, which Article 1 demonstrates the City Council (Catalyst at-large council) is failing to deliver, evidenced by the $11.25 million loss in the Dyas lawsuit and the protracted, unexplained Breland case.
+      KEY ENTITIES: Fairhope City Council, Catalyst (at-large council), Mr. Gary Thorson, Forever Fairhope, Mr. Burrell, Mayor, City Attorney, Dyas lawsuit, Breland case, K-1 center, Entertainment District, School Board.
+    llm_text: Gary Thorson and Forever Fairhope want a NO vote on Nov 6th to change Fairhope's power structure. Yet, the City Council (Catalyst) fails residents, evidenced by the $11.25M Dyas lawsuit loss and the unexplained Breland case.
+    widget_date: "2018-11-02"
+    generated_at: "2026-11-08T05:01:45.332518Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  special-interest:
+    brief: |-
+      THE CONFLICT: A Referendum for Change of Government was held in Fairhope on November 6th, 2018.
+      THE DISCOVERY: The 2018 widget article revealed the current Fairhope City Council was an "at Large Catalyst council" with a dismal record, specifically failing to deliver a budget on time, and that "special interests" (representing 30% of the population) opposed this change to maintain control.
+      THE PIVOT: Article 2 provides the historical context (2018) showing that the need for governmental change was already recognized due to council failures, while Article 1 demonstrates that the council has continued these failures (e.g., failure to deliver a budget, handling the Breland case resulting in an 11.25 million loss) and is actively derailing change.
+      KEY ENTITIES: Fairhope, City Council, Catalyst, Fresh Start Fairhope, Mr. Burrell, Breland case, Dyas lawsuit.
+    llm_text: Fairhope's City Council continues its dismal record—failing budgets and losing the $11.25 million Breland case. Special interests are actively blocking the change recognized in 2018, so see why the community needs a Fresh Start.
+    widget_date: "2018-10-26"
+    generated_at: "2026-11-08T05:07:03.681108Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

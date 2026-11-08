@@ -5,90 +5,8 @@ metadata:
   main_date: "2022-07-14"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  water:
-    brief: |-
-      THE CONFLICT:
-      * Baldwin County Commission is tearing down a 112-year-old goblet water tower in Fairhope for a new Jail. (Article 2 is older)
-
-      THE DISCOVERY:
-      * Baldwin County Commission was demolishing a 112-year-old water tower in Fairhope, Alabama.
-
-      THE PIVOT:
-      * Both articles highlight systemic corruption and lack of accountability involving the Attorney General, State Bar, and Ethics Commission within Alabama state government.
-
-      KEY ENTITIES:
-      * Tom Albritton (Ethics Commission Executive Director)
-      * Ethics Commission
-      * Alabama Bar
-      * Attorney General
-      * Baldwin County Commission
-      * Fairhope
-      * Roy Moore
-      * $37,000 (paid to McCallum after resignation)
-    llm_text: Baldwin County Commission tears down a 112-year-old Fairhope water tower for a new jail. This project exposes systemic corruption involving the AG, State Bar, and Ethics Commission, including Tom Albritton.
-    widget_date: "2022-07-10"
-    generated_at: "2026-11-06T22:09:45.106456Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  top-shelf-corruption:
-    brief: |-
-      THE CONFLICT:
-      * Tom Albritton was confirmed by the State Senate as Executive Director of the Alabama Ethics Commission in March 2015.
-      * McCallum ("Employee 1") was involved in transgressions that the Ethics Commission handled administratively.
-
-      THE DISCOVERY:
-      * Albritton's children received scholarships totaling $105,000 between 2014 and 2018 from the trust, according to 990 records.
-      * Steve Marshall, Attorney General, approved the forwarding of McCallum’s case but did not pursue criminal charges; the Ethics Commission only meted out fines.
-      * McCallum was paid his salary for a couple of months after resigning and received another $37,000 from the State Bar about 10 months after resignation.
-
-      THE PIVOT:
-      * Article 2 establishes Albritton's financial entanglements (scholarships) and the initial lack of legal accountability for McCallum (AG approval, fines only), setting the historical precedent for his failure to uphold ethics.
-      * Article 1 uses this historical context of systemic failure (impunity for McCallum, lack of state action) to justify the current civil lawsuit against Tom Albritton, the trustees, and Regions Bank as the only recourse for justice.
-
-      KEY ENTITIES:
-      * Tom Albritton (Ethics Commission Executive Director)
-      * McCallum ("Employee 1")
-      * Steve Marshall (Attorney General)
-      * Alabama Ethics Commission
-      * Alabama Bar
-      * Regions Bank
-      * State Senate
-      * Sweet Home Alabama
-      * Lauderdale County Agriculture
-    llm_text: Ethics Director Tom Albritton received $105,000 in scholarships for his children. AG Steve Marshall only fined McCallum for transgressions, proving Albritton's history of ethical failure and justifying the current lawsuit.
-    widget_date: "2022-07-09"
-    generated_at: "2026-11-06T22:11:58.093544Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-corruption-insurance:
-    brief: |-
-      THE CONFLICT:
-      *   Prior to current events, Alabama exhibited systemic political corruption across municipalities, including Columbia, Mobile, Jefferson County, and Fairhope.
-      *   In the past (related to 2010), State Representative Mike Ball proposed AL HB179 to force the Alabama Ethics Commission to approve prosecutions of elected officials by the Attorney General and District Attorneys.
-      *   Specific historical allegations in Columbia included conflicts of interest involving Ben Freeman (Columbia local municipal prosecutor/town lawyer) representing Lori Mock (Chief of Police Jim Mock's wife), and Mayor misconduct (illegal work for cronies, illegal property transfer, tax money misuse).
-
-      THE DISCOVERY:
-      *   Article 2 revealed the existence of "Alabama Corruption Insurance," a free mechanism available to all elected officials (Sheriff, City Council, Judges, Mayor) provided by the Alabama Ethics Commission, Attorney General, and Bar Association.
-      *   This insurance functions as a "get out of jail card," giving officials "protection from prosecution" if they receive a favorable formal advisory opinion from the Ethics Commission, regardless of lying on the request.
-
-      THE PIVOT:
-      *   Article 2 established that Alabama's ethics framework (via the Ethics Commission/Insurance) is designed to aid and abet political corruption, resulting in a lack of accountability across the state.
-      *   This systemic failure provides the context for Article 1, explaining why the Ethics Commission and the Attorney General have taken no criminal action against Ethics Director Tom Albritton regarding the alleged misuse of state payroll and perks involving McCallum, despite the civil lawsuit being filed.
-
-      KEY ENTITIES:
-      *   Tom Albritton (Ethics Commission Executive Director)
-      *   McCallum (Employee 1/Ethics Commission staff)
-      *   Alabama Ethics Commission
-      *   State Bar (Alabama Bar)
-      *   Attorney General
-      *   Mike Ball (State Representative)
-      *   Columbia (Municipality)
-      *   Ben Freeman (Columbia Municipal Prosecutor)
-      *   Lori Mock (Columbia Officer Jim Mock's wife)
-      *   $37,000 (Amount paid to McCallum by State Bar after resignation)
-    llm_text: Tom Albritton and McCallum allegedly misused state payroll, yet the Alabama Ethics Commission protects them. This "Corruption Insurance" gives officials a "get out of jail card," ensuring accountability fails across the state.
-    widget_date: "2020-12-17"
-    generated_at: "2026-11-06T22:13:13.042502Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   dirty-underwear:
+    refined_source: b9d3f7c6c847b95b391efef764944053a01a0ccf161d9a985c24962a9c674b35
     brief: |-
       THE CONFLICT: Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. Between 2014 and 2018, Albritton’s children received $105,000 in scholarships from the trust he was a trustee of. McCallum was fined $100,000 by the Alabama Ethics Commission for violations. The Bar Association paid McCallum $37,437 in August 2021, roughly 10 months after his resignation.
 
@@ -98,10 +16,12 @@ hooks:
 
       KEY ENTITIES: Tom Albritton, McCallum, Alabama Ethics Commission, Alabama Bar, Attorney General, The Ripp Report, Sweet Home Alabama, Lauderdale County
     llm_text: Tom Albritton used his trustee position to give his children $105,000 in scholarships. Meanwhile, the Alabama Ethics Commission sugarcoated McCallum's violations, revealing a pattern of impunity the Bar and AG overlooked.
+    text: Tom Albritton used his trustee position to give his children scholarships. Meanwhile, the Alabama Ethics Commission hid McCallum's violations from the public.
     widget_date: "2022-07-01"
     generated_at: "2026-11-06T22:14:34.339453Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pot-calling-the-kettle-black:
+    refined_source: 5198dd7ca9c12d9505154efa3c3c5123c0551fdbbae503a04890429c473bfca2
     brief: |-
       THE CONFLICT:
       *   Former State Senator Tripp Pittman took $750,000.00 of B.P. money while acting as trustee.
@@ -126,10 +46,12 @@ hooks:
       *   The Ripp Report
       *   Attorney General (Alabama)
     llm_text: Former State Senator Tripp Pittman stole $750k from B.P. in Baldwin County, costing the region millions. Ethics Director Tom Albritton faces scrutiny over $100k in college tuition payments, revealing deep state corruption.
+    text: Former State Senator Tripp Pittman took money from BP in Baldwin County. Ethics Director Tom Albritton now faces scrutiny over college tuition payments.
     widget_date: "2022-02-19"
     generated_at: "2026-11-06T22:10:55.483344Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   perfect-puzzle:
+    refined_source: ec689185a399810b11cb673cc10f27cece035620e0ba5b2e73ac1cf2692c05ec
     brief: |-
       THE CONFLICT:
       *   Tom Albritton, Executive Director of the Ethics Commission, was accused of having his children’s college tuition paid for from a charitable trust upon which he was a board member.
@@ -155,16 +77,108 @@ hooks:
       *   Governor (unspecified)
       *   St. John’s office ($4.3 million party house)
     llm_text: Tom Albritton misused a charitable trust for his children's tuition, proving high-level ethical breaches within the Alabama Ethics Commission. New payroll data shows employee McCallum received $37,000 post-resignation, confirming systemic corruption and zero accountability.
+    text: Tom Albritton misused a charitable trust for his children's tuition. New payroll data shows employee McCallum received money after resigning, proving zero accountability.
     widget_date: "2021-12-08"
     generated_at: "2026-11-06T22:15:45.274146Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   writ-of-mandamus-update:
+    refined_source: e4d40b56ab357c4c3a1c6d928cfb97d9fad9fa5221b2177bd62576936f35620d
     brief: |-
       THE CONFLICT: Tom Albritton, Executive Director of the Ethics Commission, engaged in "self Dealing" of the Mabel Amos Memorial Fund while acting as a trustee. (Allegations were previously detailed in Lagniappe articles).
       THE DISCOVERY: Francis Paul Ripp filed a Writ of Mandamus on October 18th. Judge Johnny Hardwick initially reviewed the case on November 1st but subsequently recused himself from the November 25th Status Review due to potential conflict of interest.
       THE PIVOT: The initial allegations of Albritton's misconduct as a trustee (Article 2) provide the foundational context for the subsequent civil lawsuit (Article 1), which uncovered evidence of payroll fraud, including a $37,000 payment to "Employee 1" (identified as McCallum) 10 months after his resignation.
       KEY ENTITIES: Tom Albritton, Francis Paul Ripp, Harry Still, Judge Johnny Hardwick, Chief Justice Tom Parker, Regions Bank, Mabel Amos Memorial Fund, Ethics Commission, Alabama Bar.
     llm_text: Tom Albritton faced ethics charges for "self dealing" with the Mabel Amos Memorial Fund. Francis Paul Ripp's lawsuit now exposes $37,000 in payroll fraud, including a post-resignation payment to McCallum.
+    text: Tom Albritton faced ethics charges over the Mabel Amos Memorial Fund. A new lawsuit now exposes payroll fraud and a post-resignation payment to McCallum.
     widget_date: "2021-10-26"
     generated_at: "2026-11-06T22:16:29.900288Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  water:
+    refined_source: 24f43333155f38f4dc3d8e1546adf27f0a95ffb9d6d829dd300efd36550394d4
+    brief: |-
+      THE CONFLICT:
+      * Baldwin County Commission is tearing down a 112-year-old goblet water tower in Fairhope for a new Jail. (Article 2 is older)
+
+      THE DISCOVERY:
+      * Baldwin County Commission was demolishing a 112-year-old water tower in Fairhope, Alabama.
+
+      THE PIVOT:
+      * Both articles highlight systemic corruption and lack of accountability involving the Attorney General, State Bar, and Ethics Commission within Alabama state government.
+
+      KEY ENTITIES:
+      * Tom Albritton (Ethics Commission Executive Director)
+      * Ethics Commission
+      * Alabama Bar
+      * Attorney General
+      * Baldwin County Commission
+      * Fairhope
+      * Roy Moore
+      * $37,000 (paid to McCallum after resignation)
+    llm_text: Baldwin County Commission tears down a 112-year-old Fairhope water tower for a new jail. This project exposes systemic corruption involving the AG, State Bar, and Ethics Commission, including Tom Albritton.
+    text: The Baldwin County Commission tore down a historic Fairhope water tower for a jail. This project exposes corruption involving the Attorney General and Tom Albritton.
+    widget_date: "2022-07-10"
+    generated_at: "2026-11-06T22:09:45.106456Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  top-shelf-corruption:
+    refined_source: 683d8bda445c324a8d6bab009630ffc53abbfff3664bec5596c8df3de33cdf91
+    brief: |-
+      THE CONFLICT:
+      * Tom Albritton was confirmed by the State Senate as Executive Director of the Alabama Ethics Commission in March 2015.
+      * McCallum ("Employee 1") was involved in transgressions that the Ethics Commission handled administratively.
+
+      THE DISCOVERY:
+      * Albritton's children received scholarships totaling $105,000 between 2014 and 2018 from the trust, according to 990 records.
+      * Steve Marshall, Attorney General, approved the forwarding of McCallum’s case but did not pursue criminal charges; the Ethics Commission only meted out fines.
+      * McCallum was paid his salary for a couple of months after resigning and received another $37,000 from the State Bar about 10 months after resignation.
+
+      THE PIVOT:
+      * Article 2 establishes Albritton's financial entanglements (scholarships) and the initial lack of legal accountability for McCallum (AG approval, fines only), setting the historical precedent for his failure to uphold ethics.
+      * Article 1 uses this historical context of systemic failure (impunity for McCallum, lack of state action) to justify the current civil lawsuit against Tom Albritton, the trustees, and Regions Bank as the only recourse for justice.
+
+      KEY ENTITIES:
+      * Tom Albritton (Ethics Commission Executive Director)
+      * McCallum ("Employee 1")
+      * Steve Marshall (Attorney General)
+      * Alabama Ethics Commission
+      * Alabama Bar
+      * Regions Bank
+      * State Senate
+      * Sweet Home Alabama
+      * Lauderdale County Agriculture
+    llm_text: Ethics Director Tom Albritton received $105,000 in scholarships for his children. AG Steve Marshall only fined McCallum for transgressions, proving Albritton's history of ethical failure and justifying the current lawsuit.
+    text: Ethics Director Tom Albritton secured scholarships for his children. Attorney General Steve Marshall only fined McCallum, proving a long history of ethical failures.
+    widget_date: "2022-07-09"
+    generated_at: "2026-11-06T22:11:58.093544Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-corruption-insurance:
+    refined_source: c103944f8afc37fd7e1f00a8a504efb7749618358aebe6553e52cfc0b805b3a2
+    brief: |-
+      THE CONFLICT:
+      *   Prior to current events, Alabama exhibited systemic political corruption across municipalities, including Columbia, Mobile, Jefferson County, and Fairhope.
+      *   In the past (related to 2010), State Representative Mike Ball proposed AL HB179 to force the Alabama Ethics Commission to approve prosecutions of elected officials by the Attorney General and District Attorneys.
+      *   Specific historical allegations in Columbia included conflicts of interest involving Ben Freeman (Columbia local municipal prosecutor/town lawyer) representing Lori Mock (Chief of Police Jim Mock's wife), and Mayor misconduct (illegal work for cronies, illegal property transfer, tax money misuse).
+
+      THE DISCOVERY:
+      *   Article 2 revealed the existence of "Alabama Corruption Insurance," a free mechanism available to all elected officials (Sheriff, City Council, Judges, Mayor) provided by the Alabama Ethics Commission, Attorney General, and Bar Association.
+      *   This insurance functions as a "get out of jail card," giving officials "protection from prosecution" if they receive a favorable formal advisory opinion from the Ethics Commission, regardless of lying on the request.
+
+      THE PIVOT:
+      *   Article 2 established that Alabama's ethics framework (via the Ethics Commission/Insurance) is designed to aid and abet political corruption, resulting in a lack of accountability across the state.
+      *   This systemic failure provides the context for Article 1, explaining why the Ethics Commission and the Attorney General have taken no criminal action against Ethics Director Tom Albritton regarding the alleged misuse of state payroll and perks involving McCallum, despite the civil lawsuit being filed.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Ethics Commission Executive Director)
+      *   McCallum (Employee 1/Ethics Commission staff)
+      *   Alabama Ethics Commission
+      *   State Bar (Alabama Bar)
+      *   Attorney General
+      *   Mike Ball (State Representative)
+      *   Columbia (Municipality)
+      *   Ben Freeman (Columbia Municipal Prosecutor)
+      *   Lori Mock (Columbia Officer Jim Mock's wife)
+      *   $37,000 (Amount paid to McCallum by State Bar after resignation)
+    llm_text: Tom Albritton and McCallum misused state payroll, yet the Alabama Ethics Commission protects them. This "Corruption Insurance" gives officials a "get out of jail card," ensuring accountability fails across the state.
+    text: Tom Albritton and McCallum misused state payroll funds, yet the Alabama Ethics Commission protects them. This insurance gives officials a free pass from accountability.
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-06T22:13:13.042502Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

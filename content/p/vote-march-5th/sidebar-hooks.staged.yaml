@@ -5,7 +5,127 @@ metadata:
   main_date: "2024-03-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  vote-smart:
+    refined_source: 03b60b817beef69b7296d0c53372127538487334ff4313caaf221365b8e06029
+    brief: |-
+      THE CONFLICT:
+      Lynn Stacy was a political operative in Baldwin County, representing the hardened "Good Ole Boys" (GOB).
+      Successors included Stacy Haygood (Mayor of Daphne) and Elliott (County Commissioner).
+      The political group name evolved from GOB $\rightarrow$ Catalyst $\rightarrow$ Scott Boone Consulting.
+
+      THE DISCOVERY:
+      The purpose of the GOB/Catalyst system, regardless of name change, is to place select candidates who tow the line for the status quo in Baldwin County.
+
+      THE PIVOT:
+      Article 2 establishes that the control over Baldwin County by the GOB/Catalyst is not a recent phenomenon but a multi-generational, documented pattern, providing historical context for the current claims of a decades-long corrupt cycle in Article 1.
+
+      KEY ENTITIES:
+      Lynn Stacy
+      Stacy Haygood (Mayor of Daphne)
+      Elliott (County Commissioner)
+      Catalyst
+      Scott Boone Consulting
+      Baldwin County
+      Kim Earl (Circuit Clerk)
+      Carrie Hosier
+      Andrea Lindsey
+      Eddie Tyler
+      John Gray
+      Sheriff Hoss Mack
+      Jerry Carl
+      Board of Education District 2
+      Fairhope
+    llm_text: Lynn Stacy and her successors, including Stacy Haygood and Elliott, used Catalyst and Scott Boone Consulting to maintain Baldwin County’s status quo control. Read how this multi-generational pattern of local power has documented roots stretching far beyond recent claims.
+    text: Lynn Stacy, Stacy Haygood, and Chris Elliott used Catalyst and Scott Boone Consulting to maintain control in Baldwin County. This multi-generational pattern of power reaches far back.
+    widget_date: "2024-02-13"
+    generated_at: "2026-11-06T18:10:48.346141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sunday-sermon:
+    brief: "THE CONFLICT: \n- Approximately 10 years prior (around 2012), State Senator Chris Elliott was part of the political consultant group Stacy, Elliott, and Haygood (later morphing into Catalyst, then Scott Boone Consulting), which operated as a \"good ole boys\" network in Baldwin County.\n- In 2012, Chris Elliott played a major role in electing Bay Minette Mayor Bob Wills.\n- Chris Elliott faced a prior DUI charge where he attempted to avoid license suspension by arguing \"irreparable harm\" to his elected position as a Baldwin County commissioner, and was previously involved in a hidden lawsuit settlement after being fired for not showing up to work following the sale of his business.\n\nTHE DISCOVERY: \n- The Baldwin County Legislative Delegation entered into a lucrative taxpayer-funded lease agreement to rent office space in Bay Minette Mayor Bob Wills’ law office, presented to the Baldwin County Commission.\n- The 15-year lease totals $867,000 in taxpayer funds directed to Mayor Bob Wills' family bank account ($245,000 for the first 5 years at $4,090/month; followed by extensions costing roughly $283,000 and $339,000).\n- State Senator Chris Elliott is identified as a major architect defending the lease, while Mayor Bob Wills faces pending ethics and bar complaints.\n- Baldwin County Commissioner Billie Jo Underwood questioned the lack of transparency and pushed to use existing county inventory, while Commissioner James Ball (Jeb Ball) helped push the lease through, with Ball noted as accepting two checks from the county (\"double dipper\").\n\nTHE PIVOT: \n- The historical political alliance between Chris Elliott and Mayor Bob Wills dating back to 2012 exposes the current legislative lease deal not as an isolated administrative decision, but as a continuation of long-standing cronyism and insider back-scratching by the \"Catalyst\" / \"Good Ole Boys\" cabal that both articles warn voters to reject.\n\nKEY ENTITIES: \n- Chris Elliott (State Senator / former Commissioner)\n- Bob Wills (Mayor of Bay Minette / \"Greedy Bob\")\n- Jeb Ball (James Ball / Baldwin County Commissioner)\n- Billie Jo Underwood (Baldwin County Commissioner)\n- Hoss Mack (Sheriff)\n- Eddie Tyler (School Superintendent)\n- John Gray\n- Kim Earl (Candidate for Circuit Clerk)\n- Carrie Hosier (Candidate for Board of Education District 2)\n- Andrea Lindsey (Candidate for Board of Education District 2)\n- Jerry Carl (U.S. Representative)\n- Stacy, Elliott, and Haygood / Catalyst / Scott Boone Consulting (Political consulting groups)"
+    llm_text: State Senator Chris Elliott and Mayor Bob Wills trace their cronyism back to 2012, now cashing in on an $867,000 taxpayer-funded lease deal. Read how this old political machine drains your wallet, and demand accountability today!
+    text: State Senator Chris Elliott and Mayor Bob Wills trace their cronyism back to 2012, now cashing in on an $867,000 taxpayer-funded lease deal. Read how this old political machine drains your wallet, and demand accountability today!
+    widget_date: "2022-12-18"
+    generated_at: "2026-11-06T18:09:56.867356Z"
+    model_name: gemini-3.5-flash-lite
+  schools-and-taxes:
+    refined_source: 147bb0b675484a4df200f5ac644d846cb9e2fb8d298c61b4dba479f885dba547
+    brief: |-
+      THE CONFLICT:
+      - August 2022: Baldwin County paid $140,269,185.76 in local Sales/Use Tax to Baldwin County BOE and Gulf Shores BOE for the first eleven months of FY 2022.
+      - August 30 (2022): Daphne residents were urged to vote, with warnings about tax increases if not.
+
+      THE DISCOVERY:
+      - Article 2 revealed high local tax revenue ($140M+ in FY 2022) funding BCBOE, and that BCBOE was hiring high-level positions ($91k-$103k) despite perceived lack of teacher funding.
+
+      THE PIVOT:
+      - Article 2 provides concrete, historical data on the massive local tax revenue going to the school board (BCBOE), substantiating Article 1's claims regarding the school system's guaranteed job security and lack of accountability, which the "GOB" controls.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - BCBOE
+      - Gulf Shores BOE (GSBOE)
+      - Jeanne Carney
+      - David Peterson
+      - Chris Elliott
+      - Eddie and Gray
+      - Sheriff Hoss Mack
+      - Kim Earl
+      - Carrie Hosier
+      - Andrea Lindsey
+      - Tyler (School Superintendent)
+      - Eddie Tyler
+      - John Gray
+      - Catalyst
+      - Fairhope (Mayor)
+    llm_text: Baldwin County paid over $140M in local tax revenue to BCBOE, yet teachers face funding concerns. See how BCBOE hired high-level staff despite the cash flow to understand the GOB's lack of accountability.
+    text: Baldwin County paid over $140 million in local tax revenue to BCBOE while teachers faced funding shortages. Why did BCBOE hire high-level staff despite these cash flow limits?
+    widget_date: "2022-08-15"
+    generated_at: "2026-11-06T18:09:58.811367Z"
+    model_name: plugsky-lite
+  win-for-baldwin:
+    brief: "THE CONFLICT: \n- A political power struggle in Baldwin County, Alabama, pitting anti-establishment citizens against a political machine known as the \"Good Ole Boys\" (GOB) and a consulting firm called Catalyst (Scott Boone Consulting).\n- In past and ongoing elections leading up to the March 5, 2024 primary, Catalyst-backed candidates have sought to control local offices, including the County Commission, Circuit Clerk, and Board of Education.\n- Matt McKenzie previously ran for County Commission District 2 against a candidate attempting to draw two payroll checks, and against the favored Catalyst machine. \n- In a prior major political race, Jerry Carl defeated Catalyst's candidate (Lowtower/Lowery) in the Republican House race.\n\nTHE DISCOVERY: \n- The older widget article revealed that Matt McKenzie (a Marine) successfully defeated the Catalyst-backed candidate for County Commission District 2, aided by grassroots groups like Baldwin County Citizens for Government Accountability (CGA).\n- It exposed that Scott Boone Consulting (Catalyst) was overconfident, miscalculated the grassroots momentum, and suffered its second major electoral defeat in the county (following Jerry Carl's previous win over Catalyst's House candidate).\n\nTHE PIVOT: \n- The older article serves as the \"smoking gun\" because it shows that the entrenched Catalyst/GOB political machine is vulnerable and has been successfully beaten before by organized citizens. \n- It establishes a historical precedent for the March 5, 2024 elections: voters *can* reject GOB/Catalyst rubber-stamp candidates (like Kim Earl opposing the Catalyst Circuit Clerk control, and Carrie Hosier opposing Board of Education candidate Andrea Lindsey), providing a blueprint and morale boost to break the county's corrupt political cycle.\n\nKEY ENTITIES: \n- Matt McKenzie (County Commission District 2 candidate/winner)\n- Jerry Carl (U.S. Representative)\n- Scott Boone Consulting / Catalyst\n- Sheriff Hoss Mack\n- Kim Earl (Circuit Clerk candidate)\n- Carrie Hosier (Board of Education District 2 candidate)\n- Andrea Lindsey (Board of Education District 2 candidate)\n- Tyler (School Superintendent)\n- Eddie and John Gray (School system administration)\n- Lowtower / Lowery (Defeated Catalyst House candidate)\n- Baldwin County Citizens for Government Accountability (CGA)"
+    llm_text: Marine Matt McKenzie crushed Scott Boone Consulting’s machine to win District 2, proving the entrenched Good Ole Boys bleed. Read how grassroots grit shattered their grip and gives you the exact blueprint to beat Catalyst rubber-stamps on March 5.
+    text: Marine Matt McKenzie crushed Scott Boone Consulting’s machine to win District 2, proving the entrenched Good Ole Boys bleed. Read how grassroots grit shattered their grip and gives you the exact blueprint to beat Catalyst rubber-stamps on March 5.
+    widget_date: "2022-06-22"
+    generated_at: "2026-11-06T18:10:02.498261Z"
+    model_name: gemini-3.5-flash-lite
+  last-chance:
+    refined_source: 878aa8a4314058b1b5b5977c214adc37298a740f621018a516acc6532e96c941
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County has a history of a "good ole boy" mentality, maintaining control over local governance and causing taxpayer costs.
+      - Corruption in Baldwin County's Judiciary and 14 municipal governments has been common for years.
+
+      THE DISCOVERY:
+      - Catalyst (aka Scott Boone Consulting) is the "talking head" for "good ole boy Christians" and is linked to conflicts of interest, inside contracts, fixed bids, fraud lawsuits, fixed elections, and judicial shenanigans.
+      - Specific Catalyst-aligned figures mentioned include Steve Carey (supported by Tucker Dorsey) and Johnathan Armstrong (who receives two county checks monthly and could ally with Jeb Ball to block citizen interests).
+
+      THE PIVOT:
+      - Article 2 establishes that Catalyst and the "good ole boy" structure are long-standing, systemic issues in Baldwin County (historical context). Article 1 leverages this history to frame current elections (March 5, 2024) as a necessary break from this established, corrupt cycle controlled by the "GOB" and Catalyst.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Catalyst (Scott Boone Consulting)
+      - Johnathan Armstrong
+      - Matt McKenzie
+      - Eddie Tyler
+      - John Gray
+      - Sheriff Hoss Mack
+      - Kim Earl
+      - Carrie Hosier
+      - Andrea Lindsey
+      - Tyler (School Superintendent)
+      - Jeb Ball
+      - Tucker Dorsey
+      - Eddie Tyler's wife
+      - Fairhope Mayors
+    llm_text: Catalyst and "good ole boy" figures like Johnathan Armstrong have fueled Baldwin County corruption for years. See how the March 5 elections offer a real chance to break this entrenched system.
+    text: Johnathan Armstrong and other local figures fueled Baldwin County corruption for years. Watch how the March 5 elections offer voters a real chance to break this system.
+    widget_date: "2022-05-23"
+    generated_at: "2026-11-06T18:10:08.848069Z"
+    model_name: plugsky-lite
   alabama-attorney-general:
+    refined_source: 5eec918eac8842567893f39ca72de12abbd69fadf4292ca079c016a3af526cf5
     brief: |-
       THE CONFLICT:
       *   Tom Albritton, Alabama Executive Director of the Ethics Commission and Mabel Amos Trust trustee, awarded himself $135,000 for children's university attendance from the trust.
@@ -20,7 +140,7 @@ hooks:
 
       THE PIVOT:
       *   Article 2 provides historical evidence of systemic corruption and failure of state ethics oversight (Albritton dismissing complaints) which validates the claims in Article 1 that Baldwin County suffers from a lack of accountability and transparency due to GOB control.
-      *   It proves that the mechanisms designed to enforce ethics are vulnerable to self-interest, reinforcing the need for independent candidates like Kim Earl and Carrie Hosier against Catalyst/GOB candidates like Andrea Lindsey.
+      *   It shows that the mechanisms designed to enforce ethics are vulnerable to self-interest, reinforcing the need for independent candidates like Kim Earl and Carrie Hosier against Catalyst/GOB candidates like Andrea Lindsey.
 
       KEY ENTITIES:
       *   Tom Albritton
@@ -35,6 +155,7 @@ hooks:
       *   Fairhope (Mayor)
       *   March 5, 2024
     llm_text: Tom Albritton used the Mabel Amos Trust to award himself $135,000, discrediting the Alabama Ethics Commission. This misuse proves why Baldwin County needs independent candidates like Kim Earl and Carrie Hosier against GOB figures.
+    text: Tom Albritton used the Mabel Amos Trust to award himself funds, discrediting the Ethics Commission. This misuse proves why Baldwin County needs independent candidates against establishment figures.
     widget_date: "2024-02-22"
     generated_at: "2026-11-06T18:12:07.477750Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -42,7 +163,7 @@ hooks:
     brief: |-
       THE CONFLICT:
       - Baldwin County voters faced March 5, 2024 vote; article title “VOTE MARCH 5th.”
-      - GOB (Good Ole Boys) allegedly had stranglehold on Baldwin County; controlled candidates.
+      - GOB (Good Ole Boys) had stranglehold on Baldwin County; controlled candidates.
       - Circuit Clerk of Baldwin County controlled by GOB/Catalyst for years.
       - Kim Earl: Circuit Clerk candidate; 35 years in Circuit Clerk’s office; new eyes/new ideas/independent thinking; break corrupt cycle.
       - Sheriff Hoss Mack called shots; Mayors such as Fairhope bent over; Mayors charter members of Sheriffs cabal.
@@ -56,7 +177,7 @@ hooks:
       - Article 2, “SMELL TEST,” older/background: alleged Andrea Lindsey, incumbent Daphne school board member seeking reelection, received $1000 campaign donation (verified by State campaign finance reports) from Superintendent Tyler’s wife on Jan 17.
       - Jan 18 at school board meeting (video available to verify): Ms. Lindsey seconded motion to give Mrs. Tyler a promotion and voted for the motion.
       - No documentation: required credentials for position changed a few months earlier so Mrs. Tyler could qualify.
-      - GOB allegedly down pat walking line of legal and illegal; did not care if conflict of interest, unethical, or smells high heaven, just as long as barely legal.
+      - GOB down pat walking line of legal and illegal; did not care if conflict of interest, unethical, or smells high heaven, just as long as barely legal.
       - GOB did not care if political parties changed; all cared GOB got rubber stamp candidate Andrea Lindsey elected.
 
       THE PIVOT:
@@ -91,117 +212,7 @@ hooks:
       - Lowery
       - Wilters
     llm_text: Baldwin County voters faced a March 5, 2024 vote, but Kim Earl and Carrie Hosier fought the Good Ole Boys' stranglehold. Andrea Lindsey got a promotion from Eddie Tyler's wife, so readers should reject the Catalyst candidate.
+    text: Baldwin County voters faced a March 5, 2024 vote, but Kim Earl and Carrie Hosier fought the Good Ole Boys' stranglehold. Andrea Lindsey got a promotion from Eddie Tyler's wife, so readers should reject the Catalyst candidate.
     widget_date: "2024-02-19"
     generated_at: "2026-11-06T18:11:07.936371Z"
     model_name: recursive/flint-v1.0:free
-  vote-smart:
-    brief: |-
-      THE CONFLICT:
-      Lynn Stacy was a political operative in Baldwin County, representing the hardened "Good Ole Boys" (GOB).
-      Successors included Stacy Haygood (Mayor of Daphne) and Elliott (County Commissioner).
-      The political group name evolved from GOB $\rightarrow$ Catalyst $\rightarrow$ Scott Boone Consulting.
-
-      THE DISCOVERY:
-      The purpose of the GOB/Catalyst system, regardless of name change, is to place select candidates who tow the line for the status quo in Baldwin County.
-
-      THE PIVOT:
-      Article 2 establishes that the control over Baldwin County by the GOB/Catalyst is not a recent phenomenon but a multi-generational, documented pattern, providing historical context for the current claims of a decades-long corrupt cycle in Article 1.
-
-      KEY ENTITIES:
-      Lynn Stacy
-      Stacy Haygood (Mayor of Daphne)
-      Elliott (County Commissioner)
-      Catalyst
-      Scott Boone Consulting
-      Baldwin County
-      Kim Earl (Circuit Clerk)
-      Carrie Hosier
-      Andrea Lindsey
-      Eddie Tyler
-      John Gray
-      Sheriff Hoss Mack
-      Jerry Carl
-      Board of Education District 2
-      Fairhope
-    llm_text: Lynn Stacy and her successors, including Stacy Haygood and Elliott, used Catalyst and Scott Boone Consulting to maintain Baldwin County’s status quo control. Discover how this multi-generational pattern of local power has documented roots stretching far beyond recent claims.
-    widget_date: "2024-02-13"
-    generated_at: "2026-11-06T18:10:48.346141Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sunday-sermon:
-    brief: "THE CONFLICT: \n- Approximately 10 years prior (around 2012), State Senator Chris Elliott was part of the political consultant group Stacy, Elliott, and Haygood (later morphing into Catalyst, then Scott Boone Consulting), which operated as a \"good ole boys\" network in Baldwin County.\n- In 2012, Chris Elliott played a major role in electing Bay Minette Mayor Bob Wills.\n- Chris Elliott faced a prior DUI charge where he attempted to avoid license suspension by arguing \"irreparable harm\" to his elected position as a Baldwin County commissioner, and was previously involved in a hidden lawsuit settlement after being fired for not showing up to work following the sale of his business.\n\nTHE DISCOVERY: \n- The Baldwin County Legislative Delegation entered into a lucrative taxpayer-funded lease agreement to rent office space in Bay Minette Mayor Bob Wills’ law office, presented to the Baldwin County Commission.\n- The 15-year lease totals $867,000 in taxpayer funds directed to Mayor Bob Wills' family bank account ($245,000 for the first 5 years at $4,090/month; followed by extensions costing roughly $283,000 and $339,000).\n- State Senator Chris Elliott is identified as a major architect defending the lease, while Mayor Bob Wills faces pending ethics and bar complaints.\n- Baldwin County Commissioner Billie Jo Underwood questioned the lack of transparency and pushed to use existing county inventory, while Commissioner James Ball (Jeb Ball) helped push the lease through, with Ball noted as accepting two checks from the county (\"double dipper\").\n\nTHE PIVOT: \n- The historical political alliance between Chris Elliott and Mayor Bob Wills dating back to 2012 exposes the current legislative lease deal not as an isolated administrative decision, but as a continuation of long-standing cronyism and insider back-scratching by the \"Catalyst\" / \"Good Ole Boys\" cabal that both articles warn voters to reject.\n\nKEY ENTITIES: \n- Chris Elliott (State Senator / former Commissioner)\n- Bob Wills (Mayor of Bay Minette / \"Greedy Bob\")\n- Jeb Ball (James Ball / Baldwin County Commissioner)\n- Billie Jo Underwood (Baldwin County Commissioner)\n- Hoss Mack (Sheriff)\n- Eddie Tyler (School Superintendent)\n- John Gray\n- Kim Earl (Candidate for Circuit Clerk)\n- Carrie Hosier (Candidate for Board of Education District 2)\n- Andrea Lindsey (Candidate for Board of Education District 2)\n- Jerry Carl (U.S. Representative)\n- Stacy, Elliott, and Haygood / Catalyst / Scott Boone Consulting (Political consulting groups)"
-    llm_text: State Senator Chris Elliott and Mayor Bob Wills trace their cronyism back to 2012, now cashing in on an $867,000 taxpayer-funded lease deal. Read how this old political machine drains your wallet, and demand accountability today!
-    widget_date: "2022-12-18"
-    generated_at: "2026-11-06T18:09:56.867356Z"
-    model_name: gemini-3.5-flash-lite
-  schools-and-taxes:
-    brief: |-
-      THE CONFLICT:
-      - August 2022: Baldwin County paid $140,269,185.76 in local Sales/Use Tax to Baldwin County BOE and Gulf Shores BOE for the first eleven months of FY 2022.
-      - August 30 (2022): Daphne residents were urged to vote, with warnings about tax increases if not.
-
-      THE DISCOVERY:
-      - Article 2 revealed high local tax revenue ($140M+ in FY 2022) funding BCBOE, and that BCBOE was hiring high-level positions ($91k-$103k) despite perceived lack of teacher funding.
-
-      THE PIVOT:
-      - Article 2 provides concrete, historical data on the massive local tax revenue going to the school board (BCBOE), substantiating Article 1's claims regarding the school system's guaranteed job security and lack of accountability, which the "GOB" controls.
-
-      KEY ENTITIES:
-      - Baldwin County
-      - BCBOE
-      - Gulf Shores BOE (GSBOE)
-      - Jeanne Carney
-      - David Peterson
-      - Chris Elliott
-      - Eddie and Gray
-      - Sheriff Hoss Mack
-      - Kim Earl
-      - Carrie Hosier
-      - Andrea Lindsey
-      - Tyler (School Superintendent)
-      - Eddie Tyler
-      - John Gray
-      - Catalyst
-      - Fairhope (Mayor)
-    llm_text: Baldwin County paid over $140M in local tax revenue to BCBOE, yet teachers face funding concerns. See how BCBOE hired high-level staff despite the cash flow to understand the GOB's lack of accountability.
-    widget_date: "2022-08-15"
-    generated_at: "2026-11-06T18:09:58.811367Z"
-    model_name: plugsky-lite
-  win-for-baldwin:
-    brief: "THE CONFLICT: \n- A political power struggle in Baldwin County, Alabama, pitting anti-establishment citizens against a political machine known as the \"Good Ole Boys\" (GOB) and a consulting firm called Catalyst (Scott Boone Consulting).\n- In past and ongoing elections leading up to the March 5, 2024 primary, Catalyst-backed candidates have sought to control local offices, including the County Commission, Circuit Clerk, and Board of Education.\n- Matt McKenzie previously ran for County Commission District 2 against a candidate attempting to draw two payroll checks, and against the favored Catalyst machine. \n- In a prior major political race, Jerry Carl defeated Catalyst's candidate (Lowtower/Lowery) in the Republican House race.\n\nTHE DISCOVERY: \n- The older widget article revealed that Matt McKenzie (a Marine) successfully defeated the Catalyst-backed candidate for County Commission District 2, aided by grassroots groups like Baldwin County Citizens for Government Accountability (CGA).\n- It exposed that Scott Boone Consulting (Catalyst) was overconfident, miscalculated the grassroots momentum, and suffered its second major electoral defeat in the county (following Jerry Carl's previous win over Catalyst's House candidate).\n\nTHE PIVOT: \n- The older article serves as the \"smoking gun\" because it proves that the entrenched Catalyst/GOB political machine is vulnerable and has been successfully beaten before by organized citizens. \n- It establishes a historical precedent for the March 5, 2024 elections: voters *can* reject GOB/Catalyst rubber-stamp candidates (like Kim Earl opposing the Catalyst Circuit Clerk control, and Carrie Hosier opposing Board of Education candidate Andrea Lindsey), providing a blueprint and morale boost to break the county's corrupt political cycle.\n\nKEY ENTITIES: \n- Matt McKenzie (County Commission District 2 candidate/winner)\n- Jerry Carl (U.S. Representative)\n- Scott Boone Consulting / Catalyst\n- Sheriff Hoss Mack\n- Kim Earl (Circuit Clerk candidate)\n- Carrie Hosier (Board of Education District 2 candidate)\n- Andrea Lindsey (Board of Education District 2 candidate)\n- Tyler (School Superintendent)\n- Eddie and John Gray (School system administration)\n- Lowtower / Lowery (Defeated Catalyst House candidate)\n- Baldwin County Citizens for Government Accountability (CGA)"
-    llm_text: Marine Matt McKenzie crushed Scott Boone Consulting’s machine to win District 2, proving the entrenched Good Ole Boys bleed. Read how grassroots grit shattered their grip and gives you the exact blueprint to beat Catalyst rubber-stamps on March 5.
-    widget_date: "2022-06-22"
-    generated_at: "2026-11-06T18:10:02.498261Z"
-    model_name: gemini-3.5-flash-lite
-  last-chance:
-    brief: |-
-      THE CONFLICT:
-      - Baldwin County has a history of a "good ole boy" mentality, maintaining control over local governance and causing taxpayer costs.
-      - Corruption in Baldwin County's Judiciary and 14 municipal governments has been common for years.
-
-      THE DISCOVERY:
-      - Catalyst (aka Scott Boone Consulting) is the "talking head" for "good ole boy Christians" and is linked to conflicts of interest, inside contracts, fixed bids, fraud lawsuits, fixed elections, and judicial shenanigans.
-      - Specific Catalyst-aligned figures mentioned include Steve Carey (supported by Tucker Dorsey) and Johnathan Armstrong (who receives two county checks monthly and could ally with Jeb Ball to block citizen interests).
-
-      THE PIVOT:
-      - Article 2 establishes that Catalyst and the "good ole boy" structure are long-standing, systemic issues in Baldwin County (historical context). Article 1 leverages this history to frame current elections (March 5, 2024) as a necessary break from this established, corrupt cycle controlled by the "GOB" and Catalyst.
-
-      KEY ENTITIES:
-      - Baldwin County
-      - Catalyst (Scott Boone Consulting)
-      - Johnathan Armstrong
-      - Matt McKenzie
-      - Eddie Tyler
-      - John Gray
-      - Sheriff Hoss Mack
-      - Kim Earl
-      - Carrie Hosier
-      - Andrea Lindsey
-      - Tyler (School Superintendent)
-      - Jeb Ball
-      - Tucker Dorsey
-      - Eddie Tyler's wife
-      - Fairhope Mayors
-    llm_text: Catalyst and "good ole boy" figures like Johnathan Armstrong have fueled Baldwin County corruption for years. See how the March 5 elections offer a real chance to break this entrenched system.
-    widget_date: "2022-05-23"
-    generated_at: "2026-11-06T18:10:08.848069Z"
-    model_name: plugsky-lite

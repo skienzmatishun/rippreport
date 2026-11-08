@@ -5,7 +5,20 @@ metadata:
   main_date: "2022-11-04"
   model_name: plugsky-lite
 hooks:
+  mcsharry-madness:
+    refined_source: a3a6fb66bfb7d6e7509ad5de9a6e36801fb04f5f7e7ded377eed3ba120a8a83f
+    brief: |-
+      THE CONFLICT: Ronan Mc Sharry assaulted Paula DiNardi at the Little Whiskey Christmas Club; Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of intoxication (180 days); Baldwin County Circuit Judge Clark Stankoski dismissed the assault charge; McSharry's attorney is James Pittman; Marcus McDowell represented DiNardi in the case.
+      THE DISCOVERY: Article 2 reveals a pattern of alleged judicial/council corruption (Judge Haymes Snedeker is a developer; City Council and Mayor share a bed; Jack Burrell has undisclosed police report) and prior incidents of McSharry's behavior.
+      THE PIVOT: Article 2 establishes the local political environment of alleged bias and impunity among city officials/judiciary, providing context for the later 10 million dollar lawsuit (Article 1) where the city changed rules and incurred massive taxpayer fees ($11.25 Million total) despite prior broken promises (Attorney Cain O’Rear promising no legal fees).
+      KEY ENTITIES: Ronan Mc Sharry, Paula DiNardi, Haymes Snedeker, Clark Stankoski, Marcus McDowell, James Pittman, Cain O’Rear, Jack Burrell, Fairhope City Council, Hand Anderall Sale, Single Tax Corporation, Gables on Lawrence, Skyline Village
+    llm_text: Ronan Mc Sharry assaulted Paula DiNardi, but Judge Haymes Snedeker's rulings raise red flags about local corruption. See how alleged bias in Fairhope affects the $11.25M taxpayer lawsuit.
+    text: Ronan McSharry assaulted Paula DiNardi, but Judge Haymes Snedeker made rulings that spark questions. Watch how local bias shapes the $11.25 million taxpayer lawsuit.
+    widget_date: "2021-11-26"
+    generated_at: "2026-11-06T20:25:19.799679Z"
+    model_name: plugsky-lite
   this-is-the-new-logo-for-fairhope:
+    refined_source: 018cadeff4a8956fb60f295f27b84cca72d51a71cf803779829cb7d6cfdd7b0e
     brief: |-
       THE CONFLICT:
       Triangle lawsuit resulted in $11.25 million in taxpayer costs (including $3 million in legal fees) for Fairhope.
@@ -35,6 +48,7 @@ hooks:
       Oct. 27
       Councilman Jack Burrell
     llm_text: Fairhope paid $11.25M in the Triangle lawsuit, despite Attorney Cain O’Rear's promises. See Fairhope's new branding now to see how the city presents itself today.
+    text: Fairhope paid $11.25 million in the Triangle lawsuit despite Attorney Cain O’Rear's earlier promises. Look at Fairhope's new branding to see how city leaders hide reality.
     widget_date: "2022-10-28"
     generated_at: "2026-11-06T20:24:47.265482Z"
     model_name: plugsky-lite
@@ -110,10 +124,12 @@ hooks:
       - IRS
       - Backstory Podcast, Facebook sites
     llm_text: Fairhope, Alabama taxpayers face a $10 million lawsuit over Gables on Lawrence and Skyline Village, after a $11.25 million
+    text: Fairhope, Alabama taxpayers face a $10 million lawsuit over Gables on Lawrence and Skyline Village, after a $11.25 million
     widget_date: "2022-10-21"
     generated_at: "2026-11-06T20:25:30.883481Z"
     model_name: recursive/flint-v1.0:free
   boycott-mcsharry:
+    refined_source: ae36c8ef54d650553dac3690950aa03a2943d16b7a6b225f80e4294a964ce079
     brief: |-
       THE CONFLICT:
       *   March 19, 2017: Ronan McSharry was accused of harassing Nall Hollis, resulting in 12 months probation.
@@ -139,20 +155,24 @@ hooks:
       *   Single Tax Corporation
       *   Karin Wilson
     llm_text: Marcus McDowell failed to enforce Ronan McSharry's probation despite repeated arrests. This legal failure enabled the $11.25M Triangle lawsuit and the current $10 million Gables settlement.
+    text: Marcus McDowell refused to enforce Ronan McSharry's probation after multiple arrests. Did that failure trigger costly multi-million dollar city lawsuits?
     widget_date: "2022-08-05"
     generated_at: "2026-11-06T20:25:38.223359Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-eat-their-own:
+    refined_source: 31fa5b5e98f327027f7d4613023e8aecac9ceb7aae427cb56e9ac06b84d05e7d
     brief: |-
       THE CONFLICT: Jennifer Fidler and Sherry Sullivan were fired by then-Mayor Karen Wilson in 2017, sparking a council petition for Wilson’s removal.
       THE DISCOVERY: The CATALYST group, supported by Councilman Kevin Boone and Jack Burrell, exerted significant political control, leading to Sullivan being rewarded with a raise and a second check as head of utilities.
       THE PIVOT: Article 2 establishes the history of political control and alleged corruption by CATALYST, providing context for the current accusations in Article 1 regarding the city’s infamous reputation for changing rules (e.g., the $11.25 million Triangle lawsuit and the current $10 million federal lawsuit) under the influence of figures like Jack Burrell and Mayor Can’t.
       KEY ENTITIES: Jennifer Fidler, Sherry Sullivan, Karen Wilson, Kevin Boone, Jack Burrell, Mayor Can’t, Hand Anderall Sale, Cain O’Rear, Single Tax Corporation, Gables on Lawrence, Skyline Village, U.S. District Court for the Southern District of Alabama, Councilman Jack Burrell.
     llm_text: Mayor Karen Wilson fired Jennifer Fidler and Sherry Sullivan in 2017, triggering a removal petition. Councilman Kevin Boone and Jack Burrell used the CATALYST group to reward Sullivan while driving city corruption, from the $11.25 million Triangle lawsuit to current federal claims.
+    text: Mayor Karen Wilson fired top staff in 2017 and triggered a recall fight. How did council members use the CATALYST group to reward allies?
     widget_date: "2022-05-20"
     generated_at: "2026-11-06T20:26:50.935291Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   threesome:
+    refined_source: 65ae2d5526c65929a3d8fae2688a47d8f0ff17ec6e43323daf520bf259781ea6
     brief: |-
       THE CONFLICT:
       Spanish Fort resolution reached involving city insurance company and Lyndsey Cooper; City Attorney David Conner stated no city funds involved.
@@ -188,26 +208,19 @@ hooks:
       Municipal attorney Spencer Davis
       Jack Burrell
     llm_text: Fairhope taxpayers paid $11.25M; Baldwin County officials in Spanish Fort and Summerdale show a similar pattern. See how Mayors and Judges use insurance, not city funds, to manage legal issues.
+    text: Fairhope taxpayers lost $11.25 million while leaders in Spanish Fort and Summerdale copied the same playbook. Watch how mayors and judges use insurance funds to dodge legal trouble.
     widget_date: "2022-02-25"
     generated_at: "2026-11-06T20:24:58.774713Z"
     model_name: plugsky-lite
   happy-days:
+    refined_source: de6e85b9904757e1600e82156cc9996062b47aad53f27aaa9e8695415af6c458
     brief: |-
       THE CONFLICT: Fairhope taxpayers faced a multi-million dollar lawsuit involving the Triangle property, costing taxpayers 11.25 Million, including 3 Million in legal fees. This occurred before Oct. 27 (when the new lawsuit was filed).
       THE DISCOVERY: Widget article reveals historical context of political corruption in Baldwin County, including ethical issues with Attorney General (pac to pac funds), Ethics Executive Director Tom Albritton, and general mismanagement of taxpayer funds by Fairhope council/municipal attorney/municipal judge, noting support from developers.
       THE PIVOT: Widget article establishes a pattern of systemic, long-standing political corruption and misuse of taxpayer money by Fairhope officials and council members, providing context for the later $10 million lawsuit and the city's "infamous reputation of changing rules after the fact."
       KEY ENTITIES: Fairhope, Baldwin County, Triangle, Hand Anderall Sale, Cain O’Rear, Mayor Can’t, U.S. District Court for the Southern District of Alabama, Gables on Lawrence, Skyline Village, Single Tax Corporation, Councilman Jack Burrell, Tom Albritton, Hoss Mack, Tripp Pittman, State Senator Elliott, Berry Steam Plant.
     llm_text: Fairhope taxpayers lost $11.25 million on the Triangle property lawsuit. Discover the long-standing Baldwin County corruption involving Tom Albritton and council mismanagement before the new filings.
+    text: Fairhope taxpayers lost millions on a failed property lawsuit. Who bears the blame for years of council mismanagement and secret deals?
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T20:25:10.199237Z"
-    model_name: plugsky-lite
-  mcsharry-madness:
-    brief: |-
-      THE CONFLICT: Ronan Mc Sharry assaulted Paula DiNardi at the Little Whiskey Christmas Club; Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of intoxication (180 days); Baldwin County Circuit Judge Clark Stankoski dismissed the assault charge; McSharry's attorney is James Pittman; Marcus McDowell represented DiNardi in the case.
-      THE DISCOVERY: Article 2 reveals a pattern of alleged judicial/council corruption (Judge Haymes Snedeker is a developer; City Council and Mayor share a bed; Jack Burrell has undisclosed police report) and prior incidents of McSharry's behavior.
-      THE PIVOT: Article 2 establishes the local political environment of alleged bias and impunity among city officials/judiciary, providing context for the later 10 million dollar lawsuit (Article 1) where the city allegedly changed rules and incurred massive taxpayer fees ($11.25 Million total) despite prior broken promises (Attorney Cain O’Rear promising no legal fees).
-      KEY ENTITIES: Ronan Mc Sharry, Paula DiNardi, Haymes Snedeker, Clark Stankoski, Marcus McDowell, James Pittman, Cain O’Rear, Jack Burrell, Fairhope City Council, Hand Anderall Sale, Single Tax Corporation, Gables on Lawrence, Skyline Village
-    llm_text: Ronan Mc Sharry assaulted Paula DiNardi, but Judge Haymes Snedeker's rulings raise red flags about local corruption. See how alleged bias in Fairhope affects the $11.25M taxpayer lawsuit.
-    widget_date: "2021-11-26"
-    generated_at: "2026-11-06T20:25:19.799679Z"
     model_name: plugsky-lite

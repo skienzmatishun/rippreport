@@ -214,7 +214,7 @@ hooks:
       - City Attorney (Fairhope)
       - American Legion
     generated_at: '2026-06-13T17:45:28.463749Z'
-    text: Judge Marcus McDowell let a violent attacker walk free in the McSherry case while aggressively targeting Harry Still on bogus charges. This pattern of judicial misconduct proves that in Baldwin County, justice depends on which politician you know, not what the law says.
+    text: Judge Marcus McDowell let a violent attacker walk free in the McSherry case while aggressively targeting Harry Still on bogus charges. This pattern of judicial misconduct shows that in Baldwin County, justice depends on which politician you know, not what the law says.
   judicial-trick:
     brief: |-
       THE CONFLICT:

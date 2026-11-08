@@ -5,27 +5,112 @@ metadata:
   main_date: "2025-08-22"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  pretty-flowers-rotten-roots:
+    refined_source: dc2fcd23dd3bd60f6e02217c93a3cbfb583e2e25e32fafefdc8979bcd5586676
+    brief: |-
+      THE CONFLICT:
+      *   Previous Mayor Karen Wilson refused to accept a second paycheck from the city.
+      *   Under Mayor Wilson, a qualified utility engineer was employed to manage utilities.
+      *   The waterfront project, secured during the Wilson Administration, saw the projected cost increase from $6.3 million to $10 million.
+
+      THE DISCOVERY:
+      *   The Widget Article established that the Mayor receiving two paychecks (Mayor/Head of Utilities) was a reward granted by the council for winning the 2020 Covid election.
+      *   The Widget Article identified the current council as supporting the status quo of "good ole boys" and developers (Catalyst).
+
+      THE PIVOT:
+      *   Article 2 provides the historical context (Mayor Wilson's ethical refusal and qualified hiring) which Article 1 details as being actively overridden by Councilman Jack Burrell and the current council (firing the qualified engineer and rewarding the Mayor with a second paycheck).
+      *   Article 2 frames the Mayor's dual paycheck as a council-granted reward; Article 1 details the resulting operational failures (infrastructure neglect, water shortages).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Mayor Wilson (Karen Wilson)
+      *   Troy Vickers
+      *   Sherry Sullivan
+      *   Ronan McSherry
+      *   Catalyst
+      *   Fairhope City Council
+      *   Jade Consulting ($500 accepted by Burrell)
+    llm_text: Karen Wilson refused a second paycheck, setting an ethical standard the council later ignored. Now, Jack Burrell's Fairhope City Council rewards the Mayor while supporting Catalyst, ballooning waterfront costs from $6.3M to $10M.
+    text: Karen Wilson refused a second paycheck to protect city funds from political abuse. Now, Jack Burrell's council rewards the Mayor and balloons waterfront costs to ten million dollars.
+    widget_date: "2025-07-18"
+    generated_at: "2026-11-06T12:46:04.065596Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-or-fairhope:
+    refined_source: 20a6ec4334be9df73315ef59128928705524cbde08f624f240b3c2ea17960739
+    brief: |-
+      THE CONFLICT: Municipal election challenges occurred near the qualification deadline on Aug 26, leading incumbents (Council and Mayor) to face challengers running as a slate.
+      THE DISCOVERY: Replacing only 2 or 3 council members would not dismantle the existing "good ole boy culture" of the council and Mayor; the entire council and Mayor needed to be replaced.
+      THE PIVOT: Article 1 provides specific evidence (Jack Burrell's actions, $10 million waterfront cost increase, 2020 double-dipping, environmental lawsuits) that substantiates the need for the complete overhaul of the "good ole boy culture" identified in Article 2, justifying the push for Troy Vickers.
+      KEY ENTITIES: Jack Burrell, Troy Vickers, Mayor Wilson, Mayor Sullivan, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Jade Consulting, Ronan McSherry, Former Councilman Brown, Former Councilman Boone.
+    llm_text: The "good ole boy culture" entrenched in Mayor Wilson and the council requires a total overhaul, not just swapping a few members. Jack Burrell's $10 million waterfront cost increase and 2020 double-dipping prove why Troy Vickers must win this election.
+    text: Mayor Wilson and the council protect an entrenched political network across our towns. Jack Burrell's ten million dollar waterfront budget proves why Troy Vickers must win.
+    widget_date: "2025-07-03"
+    generated_at: "2026-11-06T12:51:09.798799Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-march-5th:
+    refined_source: c961a7f6dd9efbbd825ad1f0ffd0866edafffd8deb3ec3a6d578edb4e03c5759
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell served on Fairhope City Council, implicated in questionable actions, side deals, and conflicts of interest spanning over 23 years, including a reward (second paycheck) for winning the 2020 COVID election.
+      Specific past events include: The waterfront project cost ballooning from 6.3 million to 10 million; ignoring infrastructure upgrades funded by Mayor Wilson; accepting $500 from Jade Consulting; and ignoring environmental violations (Publix on Parker road) leading to 5 lawsuits.
+      THE DISCOVERY:
+      Baldwin County is controlled by a "Good Ole Boys" (GOB) cabal, which exerts a stranglehold on local institutions (Sheriff Hoss Mack, school system (Eddie and Gray), and the Circuit Clerk's office).
+      THE PIVOT:
+      The Widget Article shows that the corruption detailed in the Main Article (Jack Burrell’s local actions) is not isolated but is part of a systemic, decades-long lack of accountability in Baldwin County, endorsed by figures like Sheriff Hoss Mack.
+      KEY ENTITIES:
+      Jack Burrell (Fairhope City Council)
+      Troy Vickers (Fairhope City Council candidate)
+      Mayor Wilson (Former Fairhope Mayor)
+      Hoss Mack (Baldwin County Sheriff)
+      Kim Earl (Baldwin County Circuit Clerk candidate)
+      Carrie Hosier (Board of Education District 2 candidate)
+      Ronan McSherry
+      Jade Consulting
+      Andrea Lindsey (Board of Education District 2 candidate)
+      Eddie Tyler and John Gray (School Superintendents)
+    llm_text: Jack Burrell's 23 years of questionable Fairhope City Council deals—like the waterfront project cost ballooning to $10M—aren't isolated. This corruption is part of a systemic "Good Ole Boys" cabal endorsed by Sheriff Hoss Mack across Baldwin County.
+    text: Jack Burrell spent 23 years pushing questionable projects through the Fairhope City Council. That spending aligns directly with Sheriff Hoss Mack and the Baldwin County political network.
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T12:52:27.111178Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  switching-hats:
+    refined_source: 3ad32c915007e0be1273deb87463c64db7223a1e0bc2f7351822263fac3bb3b6
+    brief: |-
+      THE CONFLICT: Jack Burrell served as City Council President for the last 5 years, during which the Fairhope City Council was criticized for obstruction, conflicts of interest, and mismanagement of city projects (e.g., Airport debacle, triangle lawsuit, sewer plant, gift of wetlands from Corte).
+      THE DISCOVERY: Article 2 establishes that Burrell's tenure as Council President for five years involved obstructing the Mayor, influencing other council members, and being involved in significant past city failures (Airport, triangle lawsuit, soccer fields, sewer plant). Article 2 also identified Lee Turner holding dual, potentially conflicting, roles as head of Planning and Zoning and Single Tax.
+      THE PIVOT: Article 2 provides the historical context (Burrell's five-year tenure as Council President and documented past failures like the Airport debacle and triangle lawsuit) that underpins Article 1's broader claims regarding Burrell's systemic role in the "Good Ole Boy Club," conflicts of interest, and governance issues (e.g., waterfront project cost increase, utility double-dipping in 2020).
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Lee Turner, Troy Vickers, Jade Consulting, Ronan McSherry, Fairhope City Council, Fly Creek, Publix, Fairhope Airport Authority, Corte.
+    llm_text: Jack Burrell presided over five years of Fairhope City Council failure, including the Airport debacle and triangle lawsuit. Plus, Lee Turner holds conflicting roles managing both Planning/Zoning and Single Tax—read how these conflicts impact your city.
+    text: Jack Burrell presided over five years of failed city projects and expensive lawsuits. Lee Turner manages both Planning and Single Tax offices, creating severe conflicts of interest.
+    widget_date: "2017-09-29"
+    generated_at: "2026-11-06T12:53:32.501747Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   two-questions-decide-fairhopes-future:
+    refined_source: a5b84159a2da017e90b57e8b8f2243b6b6f03da1144d94e31c9d1e4721735ce3
     brief: |-
       THE CONFLICT: Karin Wolff Wilson, as mayor, refused to take a second salary as utilities director and secured $40 million in BP funding for utility upgrades. After she left office, Mayor Sherry Sullivan fired the utilities engineer and took the second salary.
       THE DISCOVERY: Article 2 documented Wilson's commitment to hiring a qualified engineer, refusing double pay, and pushing for council districts to combat special interests.
       THE PIVOT: Article 1 uses Wilson's successful policies (qualified engineer, refusal of double pay, infrastructure grants) as a benchmark to prove the current council, led by Jack Burrell, is reversing these improvements by having the mayor receive a second paycheck, employing unqualified staff (high school graduate), and failing to complete Wilson's millions in infrastructure grants.
       KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Jack Burrell, Troy Vickers, BP, Jade Consulting, Ronan McSherry, Former Councilman Brown, Former Councilman Boone
     llm_text: Karin Wolff Wilson secured $40M in BP funding and refused a second salary. Now, Mayor Sherry Sullivan and Jack Burrell reverse her wins, taking double pay while firing qualified staff.
+    text: Karin Wolff Wilson secured 40 million dollars in BP funds and refused extra pay. Now, Mayor Sherry Sullivan and Jack Burrell reverse those gains by taking double pay and firing staff.
     widget_date: "2025-08-21"
     generated_at: "2026-11-06T12:44:51.902772Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream:
+    refined_source: 8a3a57cde37d650e3bfd7189bca66f36a699304efc0174cdbf9f05c95917ca25
     brief: |-
       THE CONFLICT: Murray "Bubba" Lawrence, Jr. maintained innocence regarding a wrongful conviction after completing two decades of imprisonment, having exhausted district, appeal, and state-level avenues.
       THE DISCOVERY: The Birmingham law firm Maxwell-Tillman accepted a down-payment for drafting a federal writ of habeas corpus but subsequently issued a Non-Engagement Letter, denying an attorney-client relationship and raising concerns about privileged information disclosure.
       THE PIVOT: Article 2 (Habeas case misconduct) provides historical context demonstrating a pattern of professional abandonment and failure to uphold justice, mirroring the institutional conflicts of interest, cover-ups (e.g., Ronan McSherry), and political corruption detailed against Jack Burrell in Article 1 (Fairhope politics).
       KEY ENTITIES: Jack Burrell, Troy Vickers, Mayor Wilson, Ronan McSherry, Jade Consulting, Murray "Bubba" Lawrence, Jr., Maxwell-Tillman, Francis Paul Ripp, Nancy R. Koerner, Leroy Maxwell, Gabby Humber
     llm_text: Murray "Bubba" Lawrence, Jr. spent two decades wrongfully imprisoned, only to have the firm Maxwell-Tillman deny him representation. This legal abandonment mirrors the institutional corruption surrounding Jack Burrell, revealing deeper failures of justice in our state.
+    text: Murray Lawrence Jr. spent twenty years in prison before the Maxwell-Tillman firm denied him legal help. That abandonment exposes deep flaws in our state justice system.
     widget_date: "2025-08-19"
     generated_at: "2026-11-06T12:47:51.726960Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote-2:
+    refined_source: 11f0f5b8a9373cddc83f7e68b225983640916e89fef8295ab7b0d0c830935268
     brief: |-
       THE CONFLICT:
       *   Jack Burrell served on the Fairhope City Council.
@@ -52,10 +137,12 @@ hooks:
       *   Fairhope City Council
       *   Baldwin County
     llm_text: Jack Burrell took $500 from Jade Consulting while guiding Mayor Wilson to a double paycheck and ballooning the waterfront project to $10 million. See how the Fairhope City Council ignored constituent concerns before the August 26, 2025 vote.
+    text: Jack Burrell took 500 dollars from Jade Consulting while the waterfront budget surged to ten million. The Fairhope City Council ignored public concerns right up until the election.
     widget_date: "2025-08-11"
     generated_at: "2026-11-06T12:48:53.700792Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote:
+    refined_source: 1fc6d739bc9b1d4c83fb591334101331bdf702f9929152c38942142432ca6f97
     brief: |-
       THE CONFLICT:
       Jack Burrell has been a key player in the Fairhope "Good Ole Boy Club."
@@ -81,79 +168,8 @@ hooks:
       Boone (former councilman)
       Fairhope City Council
       Baldwin County
-    llm_text: Jack Burrell allegedly doubled-dipped as Mayor, while the Fairhope City Council ignored major environmental violations at Publix on Parker road. Voters deserve this documented proof of neglect before the August 26, 2025, election.
+    llm_text: Jack Burrell doubled-dipped as Mayor, while the Fairhope City Council ignored major environmental violations at Publix on Parker road. Voters deserve this documented proof of neglect before the August 26, 2025, election.
+    text: Jack Burrell collected two paychecks while the Fairhope City Council ignored environmental violations at Publix. Voters deserve the facts about this neglect before election day.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T12:50:00.168981Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pretty-flowers-rotten-roots:
-    brief: |-
-      THE CONFLICT:
-      *   Previous Mayor Karen Wilson refused to accept a second paycheck from the city.
-      *   Under Mayor Wilson, a qualified utility engineer was employed to manage utilities.
-      *   The waterfront project, secured during the Wilson Administration, saw the projected cost increase from $6.3 million to $10 million.
-
-      THE DISCOVERY:
-      *   The Widget Article established that the Mayor receiving two paychecks (Mayor/Head of Utilities) was a reward granted by the council for winning the 2020 Covid election.
-      *   The Widget Article identified the current council as supporting the status quo of "good ole boys" and developers (Catalyst).
-
-      THE PIVOT:
-      *   Article 2 provides the historical context (Mayor Wilson's ethical refusal and qualified hiring) which Article 1 details as being actively overridden by Councilman Jack Burrell and the current council (firing the qualified engineer and rewarding the Mayor with a second paycheck).
-      *   Article 2 frames the Mayor's dual paycheck as a council-granted reward; Article 1 details the resulting operational failures (infrastructure neglect, water shortages).
-
-      KEY ENTITIES:
-      *   Jack Burrell
-      *   Mayor Wilson (Karen Wilson)
-      *   Troy Vickers
-      *   Sherry Sullivan
-      *   Ronan McSherry
-      *   Catalyst
-      *   Fairhope City Council
-      *   Jade Consulting ($500 accepted by Burrell)
-    llm_text: Karen Wilson refused a second paycheck, setting an ethical standard the council later ignored. Now, Jack Burrell's Fairhope City Council rewards the Mayor while supporting Catalyst, ballooning waterfront costs from $6.3M to $10M.
-    widget_date: "2025-07-18"
-    generated_at: "2026-11-06T12:46:04.065596Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT: Municipal election challenges occurred near the qualification deadline on Aug 26, leading incumbents (Council and Mayor) to face challengers running as a slate.
-      THE DISCOVERY: Replacing only 2 or 3 council members would not dismantle the existing "good ole boy culture" of the council and Mayor; the entire council and Mayor needed to be replaced.
-      THE PIVOT: Article 1 provides specific evidence (Jack Burrell's actions, $10 million waterfront cost increase, 2020 double-dipping, environmental lawsuits) that substantiates the need for the complete overhaul of the "good ole boy culture" identified in Article 2, justifying the push for Troy Vickers.
-      KEY ENTITIES: Jack Burrell, Troy Vickers, Mayor Wilson, Mayor Sullivan, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Jade Consulting, Ronan McSherry, Former Councilman Brown, Former Councilman Boone.
-    llm_text: The "good ole boy culture" entrenched in Mayor Wilson and the council requires a total overhaul, not just swapping a few members. Jack Burrell's $10 million waterfront cost increase and 2020 double-dipping prove why Troy Vickers must win this election.
-    widget_date: "2025-07-03"
-    generated_at: "2026-11-06T12:51:09.798799Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-march-5th:
-    brief: |-
-      THE CONFLICT:
-      Jack Burrell served on Fairhope City Council, implicated in questionable actions, side deals, and conflicts of interest spanning over 23 years, including a reward (second paycheck) for winning the 2020 COVID election.
-      Specific past events include: The waterfront project cost ballooning from 6.3 million to 10 million; ignoring infrastructure upgrades funded by Mayor Wilson; accepting $500 from Jade Consulting; and ignoring environmental violations (Publix on Parker road) leading to 5 lawsuits.
-      THE DISCOVERY:
-      Baldwin County is controlled by a "Good Ole Boys" (GOB) cabal, which exerts a stranglehold on local institutions (Sheriff Hoss Mack, school system (Eddie and Gray), and the Circuit Clerk's office).
-      THE PIVOT:
-      The Widget Article proves that the corruption detailed in the Main Article (Jack Burrell’s local actions) is not isolated but is part of a systemic, decades-long lack of accountability in Baldwin County, endorsed by figures like Sheriff Hoss Mack.
-      KEY ENTITIES:
-      Jack Burrell (Fairhope City Council)
-      Troy Vickers (Fairhope City Council candidate)
-      Mayor Wilson (Former Fairhope Mayor)
-      Hoss Mack (Baldwin County Sheriff)
-      Kim Earl (Baldwin County Circuit Clerk candidate)
-      Carrie Hosier (Board of Education District 2 candidate)
-      Ronan McSherry
-      Jade Consulting
-      Andrea Lindsey (Board of Education District 2 candidate)
-      Eddie Tyler and John Gray (School Superintendents)
-    llm_text: Jack Burrell's 23 years of questionable Fairhope City Council deals—like the waterfront project cost ballooning to $10M—aren't isolated. This corruption is part of a systemic "Good Ole Boys" cabal endorsed by Sheriff Hoss Mack across Baldwin County.
-    widget_date: "2024-03-01"
-    generated_at: "2026-11-06T12:52:27.111178Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  switching-hats:
-    brief: |-
-      THE CONFLICT: Jack Burrell served as City Council President for the last 5 years, during which the Fairhope City Council was criticized for obstruction, conflicts of interest, and mismanagement of city projects (e.g., Airport debacle, triangle lawsuit, sewer plant, gift of wetlands from Corte).
-      THE DISCOVERY: Article 2 establishes that Burrell's tenure as Council President for five years involved obstructing the Mayor, influencing other council members, and being involved in significant past city failures (Airport, triangle lawsuit, soccer fields, sewer plant). Article 2 also identified Lee Turner holding dual, potentially conflicting, roles as head of Planning and Zoning and Single Tax.
-      THE PIVOT: Article 2 provides the historical context (Burrell's five-year tenure as Council President and documented past failures like the Airport debacle and triangle lawsuit) that underpins Article 1's broader claims regarding Burrell's systemic role in the "Good Ole Boy Club," conflicts of interest, and governance issues (e.g., waterfront project cost increase, utility double-dipping in 2020).
-      KEY ENTITIES: Jack Burrell, Mayor Wilson, Lee Turner, Troy Vickers, Jade Consulting, Ronan McSherry, Fairhope City Council, Fly Creek, Publix, Fairhope Airport Authority, Corte.
-    llm_text: Jack Burrell presided over five years of Fairhope City Council failure, including the Airport debacle and triangle lawsuit. Plus, Lee Turner holds conflicting roles managing both Planning/Zoning and Single Tax—read how these conflicts impact your city.
-    widget_date: "2017-09-29"
-    generated_at: "2026-11-06T12:53:32.501747Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

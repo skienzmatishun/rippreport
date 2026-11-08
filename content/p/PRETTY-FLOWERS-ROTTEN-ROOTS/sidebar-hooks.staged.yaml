@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   fauxhope-or-fairhope:
+    refined_source: 342d9fe1e9015d872475beafaeff045ead196f309cdbed63bd55d481a37dca21
     brief: |-
       THE CONFLICT:
       - Previous Mayor Karen Wilson refused a second paycheck/Head of Utilities role.
@@ -32,10 +33,12 @@ hooks:
       - George Ferniany
       - Aug 26 2025
     llm_text: Mayor Sullivan received an unearned second paycheck despite Karen Wilson's refusal. Now, election challengers are targeting Jack Burrell's millions-costing influence just before the Aug 26 municipal vote.
+    text: Mayor Sullivan received an unearned second paycheck in Fairhope. Election challengers target Jack Burrell before the municipal vote.
     widget_date: "2025-07-03"
     generated_at: "2026-11-06T14:01:26.857674Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: 77600ba24d5f9e066152a7c49d20dcc062aec5e688793eee25f29a94ab6a60f4
     brief: |-
       THE CONFLICT:
       *   Baldwin County political cabal operated for years under the banner CATALYST.
@@ -71,11 +74,13 @@ hooks:
       *   Karen Wilson (Previous Mayor)
       *   Aug 26, 2025 (Election Date)
       *   January 25, 2021 (Annexation Date)
-    llm_text: Scott Boone Consulting (SBC) built a cabal that drove the January 2021 Fairhope annexation and rewarded Mayor Sherry Sullivan with a utility job. Discover how entrenched developers and Jack Burrell still control the city before the August 2025 municipal election.
+    llm_text: Scott Boone Consulting (SBC) built a cabal that drove the January 2021 Fairhope annexation and rewarded Mayor Sherry Sullivan with a utility job. Read how entrenched developers and Jack Burrell still control the city before the August 2025 municipal election.
+    text: Scott Boone Consulting drove the Fairhope annexation in 2021. Developers and Jack Burrell still control the city before the next election.
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T14:03:30.227189Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county-dhr-lawsuit:
+    refined_source: 223b73c92b6c40f13ca028ef51e73bb5fda5619b813b3a8018f5aae8244d1f13
     brief: |-
       THE CONFLICT:
       *   Two minor children (one 13, one 11) were left unprotected for over five months in mother's custody in Baldwin County. (Details provided in Widget Article)
@@ -96,20 +101,24 @@ hooks:
       *   Baldwin County Family Court (System)
       *   August 26, 2025 (Election Date)
     llm_text: Two minor children, ages 13 and 11, endured five months of unprotected care in Baldwin County. A federal class action lawsuit now targets Baldwin County DHR and Family Court for systemic failures in child welfare.
+    text: Two young children endured five months of unprotected care. A federal lawsuit targets Baldwin County DHR and Family Court for child welfare failures.
     widget_date: "2025-04-03"
     generated_at: "2026-11-06T14:04:56.220470Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   go-to-hell-veterans:
+    refined_source: 5dacd61090bdf848a5a7611073a3981ed0b7d6d3018f915f070df307c3734112
     brief: |-
       THE CONFLICT: Lawmakers cut Alabama Veterans' funding; legislation to restructure the State Board of Veterans Affairs passed the Alabama State Senate 21-9 earlier this month.
       THE DISCOVERY: The cut to veterans' funds was linked to an ethics complaint filed by ADVA Commissioner Kent Davis against Department of Mental Health Director Kimberly Boswell, alleging she “colluded” to divert $7 million from the American Rescue Plan Act intended for the ADVA.
       THE PIVOT: Article 2 provides historical context demonstrating a pattern of political retaliation and vindictiveness by Governor Ivey and associated state officials (e.g., Ed Oliver's 2020 showdown with Davis), which parallels the entrenched, self-serving status quo described in the Fauxhope municipal elections (Article 1).
       KEY ENTITIES: Jack Burrell, Sherry Sullivan, Mayor, Karen Wilson, Napoleon Bracy, Chip Brown, Barbara Drummond, Brett Easterbrook, Jennifer Fidler, Donna Givens, Frances Holk-Jones, Chris Pringle, Mark Shirey, Matt Simpson, Shane Stringer, Margie Wilcox, Alan Baker, Gret Albritton, Andrew Jones, Ed Oliver, Kimberly Boswell, Kent Davis, Ivey, Catalyst, Fauxhope.
     llm_text: Alabama cut veteran funding after ADVA Commissioner Kent Davis accused Director Kimberly Boswell of diverting $7 million. This political retaliation, echoing Governor Ivey's history, reveals a self-serving status quo impacting vulnerable communities.
+    text: Kent Davis accused Kimberly Boswell of diverting $7 million in funds. Alabama cut veteran funding after this political dispute.
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T14:06:12.315098Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: 561643d61e6dc20f36bf50058da4deb194a58f87779a85c2abe85e65a881e7bf
     brief: |-
       THE CONFLICT:
       O.J. French was killed during a traffic stop in Bay Minette.
@@ -142,15 +151,17 @@ hooks:
       Baldwin County Major Crimes Unit
       Aug 26 2025
     llm_text: Bob "cover-up" Wills lied about the O.J. French shooting, while Sheriff Hoss Mack and Robert Wilters protected special interests. Learn how this Baldwin County corruption mirrors the entrenched cabal protecting Fauxhope.
+    text: Bob Wills lied about the O.J. French shooting in Baldwin County. Sheriff Hoss Mack and Robert Wilters protected special interests.
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T14:02:18.785142Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   red-lips-award:
+    refined_source: 335f2b882fba946620d2917e4286a37b982dc13660724f01f16607f7108b2f26
     brief: |-
       THE CONFLICT:
       *   Tom Albritton (Ethics Director) used the trust of the Mabel Amos Memorial Fund to award himself $120,000 for kids' scholarships.
       *   Montgomery County Circuit Court Judge Greg Griffin ordered Special Fiduciary Jim White to investigate the Amos Fund operations, removing Regions bank as Trustee.
-      *   Kimberly Boswell (Director, Dept. of Mental Health) faced an ethics complaint from ADVA Commissioner Admiral Kent Davis for allegedly colluding to prevent ADVA from receiving $7 million in American Rescue Plan Act funds.
+      *   Kimberly Boswell (Director, Dept. of Mental Health) faced an ethics complaint from ADVA Commissioner Admiral Kent Davis for colluding to prevent ADVA from receiving $7 million in American Rescue Plan Act funds.
       *   State Senate passed legislation (21-9) to "restructure" the State Board of Veterans Affairs, driven by Governor Ivey's vindictiveness against Alabama Veterans.
       *   State Senator Andrew Jones and State Representative Ed Oliver were awarded the "RED LIPS AWARD" for fueling Ivey’s drive against veterans.
 
@@ -174,11 +185,13 @@ hooks:
       *   Governor Ivey
       *   Catalyst
       *   Aug 26 2025
-    llm_text: Tom Albritton embezzled $120,000 from the Mabel Amos Trust, while Kimberly Boswell allegedly blocked ADVA from $7 million in ARPA funds. This systemic corruption shows how high-level officials exploit power against veterans and the public trust.
+    llm_text: Tom Albritton embezzled $120,000 from the Mabel Amos Trust, while Kimberly Boswell blocked ADVA from $7 million in ARPA funds. This systemic corruption shows how high-level officials exploit power against veterans and the public trust.
+    text: Tom Albritton faced accusations of taking funds from the Mabel Amos Trust. Kimberly Boswell blocked ADVA funds at the same time.
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T14:07:20.602440Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   veterans-rally:
+    refined_source: 44183520bf8b77fbc80b3cf7d1c852407b86d50986b531b0462569f2f8d48ce7
     brief: |-
       THE CONFLICT:
       Past Fauxhope council cycles involved members running independently, which changed in the current election cycle.
@@ -201,10 +214,12 @@ hooks:
       Mayor Sullivan
       Head of Utilities
     llm_text: Veterans gather at the Alabama State House, yet Fauxhope corruption is happening locally. Councilman Jack Burrell and Karen Wilson shaped the city, from the Publix Project to Wilson refusing a second paycheck.
+    text: Veterans gathered at the Alabama State House to protest. Councilman Jack Burrell and Karen Wilson shaped local projects in Fairhope.
     widget_date: "2025-02-23"
     generated_at: "2026-11-06T14:08:42.442413Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   i-quit:
+    refined_source: e7afb05511e08b45dbfa0f577b1158a54873741f4a089098ea2dfcf8343005d2
     brief: |-
       THE CONFLICT:
       *   2016/2020 City Council cycle in Fairhope.
@@ -230,6 +245,7 @@ hooks:
       *   August 26, 2025 (Upcoming Election Date)
       *   Council (current incumbent cabal)
     llm_text: Jack Burrell used the 2016 Robert Brown resignation to install Jay Robinson, prioritizing CSB/Catalyst development interests over public need. This pattern shows how Burrell maintains the entrenched system that compromises Mayor Sherry Sullivan today.
+    text: Jack Burrell used a 2016 resignation to install Jay Robinson. He prioritized development interests over public need in Fairhope.
     widget_date: "2021-02-26"
     generated_at: "2026-11-06T14:09:42.969525Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

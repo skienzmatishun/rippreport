@@ -1,0 +1,96 @@
+metadata:
+  generated_at: "2026-11-08T09:30:14.713371Z"
+  generator_version: 1.0.0
+  post_slug: fact-and-fiction-a-b-c
+  main_date: "2018-08-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  law-and-disorder-part-2:
+    brief: |-
+      THE CONFLICT:
+      *   Saturday, August 25, at about 9:45 p.m., Fairhope Police responded to a party at a residence in the 16000 Block of County Road 13.
+      *   An estimated 100 juveniles were present; approximately 40 to 50 juveniles were detained for alcohol consumption.
+      *   The police report stated no adults were present upon arrival, though adults later showed up to pick up children.
+      *   Councilman Jack Burrell was involved, though his initial disclosure did not include any arrest or police records prior to running for office.
+
+      THE DISCOVERY:
+      *   Fairhope Police (Sergeant Craig Sawyer) confirmed the incident occurred and documented the detention of juveniles.
+      *   Police policy prohibited releasing the property owner's name to protect the identity of at least one juvenile.
+      *   The law (13A-11-10.1) requires an adult to authorize AND be present for Open House Party charges, meaning adult charges were unlikely.
+
+      THE PIVOT:
+      *   Article 2 establishes the verified police report (August 25) regarding the party location and events.
+      *   Article 1 shows Jack Burrell later denied any party was held at his house on WACO radio, omitting that his son sponsored the party at his in-laws' residence, which contradicts the factual basis established by the police investigation.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Sergeant Craig Sawyer
+      *   Fairhope Police Department
+      *   WKRG
+      *   WACO radio
+      *   Courier
+      *   Fairhope City Council
+      *   County Road 13 (16000 Block)
+    llm_text: Police confirmed 40-50 juveniles were detained at a County Road 13 party, yet Councilman Jack Burrell later denied the incident. See Sergeant Craig Sawyer's verified August 25 police report detailing the facts.
+    widget_date: "2018-08-29"
+    generated_at: "2026-11-08T09:25:50.106475Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  law-and-disorder-part-1:
+    brief: |-
+      THE CONFLICT: Party held at Jack Burrell’s in-laws' house (date relative to Aug 27, 2018); involved minors from Fairhope High School and Bayside; alcohol and marijuana present; police were called but no arrests were made, despite over 75 underage kids present.
+      THE DISCOVERY: On August 27, 2018, The Ripp Report reported that City Council President Jack Burrell’s involvement in the party led to calls for his immediate resignation due to lack of accountability and transparency in the Fairhope City Council.
+      THE PIVOT: The 2018 incident establishes a historical pattern of Jack Burrell's conduct and the Council's accountability issues, providing context for the current allegations of corruption and recent incidents (e.g., Jack bus running over in-laws and son) mentioned in Article 1.
+      KEY ENTITIES: Jack Burrell (Council President), Councilman Brown, Mayor Wilson, Francis Paul Ripp, City of Fairhope, Fairhope High School, Bayside, WACO radio, Courier.
+    llm_text: Jack Burrell was involved in a 2018 party at his in-laws' house with over 75 underage minors from Fairhope High School and Bayside. Examine this history to understand the pattern fueling current calls for accountability amid Fairhope corruption allegations.
+    widget_date: "2018-08-28"
+    generated_at: "2026-11-08T09:26:46.440836Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope Airport Authority (FAA) lacked public scrutiny since inception.
+      *   FAA received $500,000 annually from the Fairhope budget, exceeding education contributions by approximately $200,000.
+      *   Mayor Wilson exercised an option on the original airport loan, allowing the city to reclaim 258 acres for $10.00 if the principal was not paid by 2012.
+      *   Mr. Burrell, a remnant of a failed previous administration, held the position of Fairhope City Council President and city’s liaison for the FAA.
+
+      THE DISCOVERY:
+      *   FAA board appointments were based on aviation knowledge but constituted a potential conflict of interest.
+      *   Mr. Burrell consistently supported the FAA over the interests of Fairhope citizens and mocked Mayor Wilson's administration.
+
+      THE PIVOT:
+      *   Article 2 establishes Mr. Burrell’s long-standing, conflicted political position (Council President/FAA Liaison) prioritizing the Authority’s interests over citizens, providing the historical context and motive for the current corruption allegations mentioned in Article 1.
+      *   Article 1 details recent personal and political controversy involving Jack Burrell (denial of a party, involvement in an accident involving his in-laws and son), alongside allegations of secret deals and corruption in Fairhope.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fairhope City Council President, FAA Liaison)
+      *   Mayor Wilson
+      *   Fairhope Airport Authority
+      *   Fairhope
+      *   2012
+      *   John Sharp
+      *   Lagniappe Jane Nicholes
+      *   Lagniappi Ron Sivak
+    llm_text: Jack Burrell, Fairhope City Council President and FAA Liaison, consistently prioritized the Airport Authority over Fairhope citizens. Discover how Burrell's long-standing conflicted position fuels recent corruption allegations against him and Mayor Wilson.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-08T09:29:01.482989Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  snakes-in-the-schools:
+    brief: |-
+      THE CONFLICT: Chris Elliott forced a permanent extension of the penny sales tax for the Baldwin County School System without a vote. This action occurred within the context of the BCA contributing $35,000 to Elliott and during the primary run-off elections on July 17th.
+      THE DISCOVERY: Jonathan Gray, a school board consultant, worked with Superintendent Eddie Tyler and political strategist roles to implement the tax extension.
+      THE PIVOT: Article 2 establishes a history of political manipulation and corruption within the Baldwin County School System (Fairhope) involving Tyler and Gray, providing the context for Article 1's claims of ongoing corruption and secret deals in Fairhope involving Jack Burrell.
+      KEY ENTITIES: Chris Elliott, Eddie Tyler (Baldwin County Superintendent), Jonathan Gray, Jack Burrell, Baldwin County School System, Catalyst, BCA, David Northcutt, Fairhope.
+    llm_text: Chris Elliott forced a permanent penny sales tax extension for the Baldwin County School System without a vote. Discover how Superintendent Eddie Tyler and Jonathan Gray orchestrated this move amid allegations of long-running corruption in Fairhope.
+    widget_date: "2018-06-21"
+    generated_at: "2026-11-08T09:27:47.353086Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elliotttuckercatalyst-selling-your-soul:
+    brief: |-
+      THE CONFLICT: Chris Elliott sought a Senate seat previously held by Boom Boom Pittman.
+      THE DISCOVERY: Elliott and Tucker Dorsey used tens of thousands in donations from developers and Catalyst, utilizing County Funds for PR and facilitating a $35 million "mega-site" deal (cow pasture) paid for on taxpayers' backs, involving county reserves and BP money.
+      THE PIVOT: The historical pattern of "good ole boy deals" and corruption in Baldwin County (Article 2) provides context for the later allegations of secret deals and corruption in Fairhope involving Jack Burrell (Article 1).
+      KEY ENTITIES: Chris Elliott, Tucker Dorsey, Boom Boom Pittman, Catalyst, Jack Burrell, Clarence Burke
+    llm_text: Chris Elliott and Tucker Dorsey used taxpayer funds and BP money to facilitate a $35 million "mega-site" deal on Baldwin County cow pasture. This corruption mirrors local "good ole boy deals," linking to recent secret-deal allegations involving Jack Burrell in Fairhope.
+    widget_date: "2018-05-24"
+    generated_at: "2026-11-08T09:29:58.215424Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

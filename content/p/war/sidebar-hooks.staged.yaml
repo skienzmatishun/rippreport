@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: f9ea59362fee5c9f015930a570b606d89a3b8d3488fc9c823a75621098dccaa7
     brief: |-
       THE CONFLICT:
       *   Veterans Commissioner Kent Davis filed an ethics complaint with Alabama Ethics Commissioner Kim Boswell.
@@ -36,16 +37,19 @@ hooks:
       *   February 11, 2025
       *   Senate Bill 67 (SB67)
     llm_text: Governor Kay Ivey tried to strip the Veterans Board of power via Senate Bill 67 after firing Kent Davis. Lt. Governor Will Ainsworth and Senators Weaver and Elliott publicly oppose this move, protecting ADVA governance.
+    text: Governor Kay Ivey tried to strip the Veterans Board of power via Senate Bill 67 after firing Kent Davis. Lieutenant Governor Will Ainsworth and Senators Weaver and Elliott publicly oppose this move.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:59:31.956003Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: 6fe9e907a53eb9279c149533322f8a913f37f696fa5bf825d876a1fc3ec43bb4
     brief: |-
       THE CONFLICT: Governor “poison Ivy” used “supreme executive power” to remove ADVA director Admiral Kent Davis; this action was retaliation against the current veterans board which opposed her move to strip veterans representation by creating a cabinet position for the ADVA director and reducing the veterans board to an advisory position.
       THE DISCOVERY: The State of Alabama approved the Compassion Act on May 17, 2021, allowing medical cannabis for qualified patients, but the legislation became a legal morass, and the Alabama Board of Medical Examiners could not issue the first patient license by 2025.
       THE PIVOT: Both conflicts illustrate state-level overreach, vindictiveness, and legislative failures (2021 Compassion Act compromise/current veterans representation strip) leading to institutional gridlock and harm to constituents (patients/veterans).
       KEY ENTITIES: Governor “poison Ivy”; Admiral Kent Davis; Senator Tim Melson (R-Florence); Chey Garrigan (President, Alabama Cannabis Industry Association); Alabama Department of Veterans Affairs (ADVA); Montgomery (rally location).
     llm_text: Governor "poison Ivy" removed Admiral Kent Davis from ADVA, showing how state overreach harms veterans. This vindictiveness mirrors the Compassion Act's failure, leaving Alabama patients without crucial medical cannabis licenses.
+    text: Governor Kay Ivey removed Admiral Kent Davis from ADVA, showing state overreach against veterans. This action mirrors the Compassion Act failure that denies medical cannabis licenses to Alabama patients.
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T15:00:47.316120Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

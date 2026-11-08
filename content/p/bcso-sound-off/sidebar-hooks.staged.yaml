@@ -5,35 +5,8 @@ metadata:
   main_date: "2026-03-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  read-the-comments:
-    brief: |-
-      THE CONFLICT:
-      *   Wrongful conviction case of Murray Lawrence Jr.
-      *   Hoss Mack was the lead investigator on the case.
-      *   Robert Wilters (DA) was the presiding judge over the case.
-      *   The case produced zero evidence against Mr. Lawrence.
-
-      THE DISCOVERY:
-      *   Widget Article revealed internal hanky panky within the Baldwin County Sheriff's Department.
-      *   A top officer was involved in an extra-curricular activity with a subordinate female employee married to a fellow officer.
-      *   The department had a history of cover-ups and lack of transparency under Hoss Mack.
-
-      THE PIVOT:
-      *   Article 2 establishes Hoss Mack's prior history of non-accountability, lack of transparency, and institutional cover-ups (e.g., the Lawrence Jr. case and the sexual incident).
-      *   This history provides the context for Article 1, where Hoss Mack is blamed for dumping "20 years of problems" onto Lowery, confirming a systemic, entrenched "GOB" culture favoring favoritism and internal cover-ups within BCSO.
-
-      KEY ENTITIES:
-      *   Hoss Mack (Sheriff/Lead Investigator)
-      *   Lowery (Successor/Appointee by Governor Ivy)
-      *   Murray Lawrence Jr.
-      *   Robert Wilters (DA/Presiding Judge)
-      *   Governor Ivy
-      *   BCSO (Baldwin County Sheriff's Office)
-    llm_text: Hoss Mack's history of institutional cover-ups—including the zero-evidence wrongful conviction of Murray Lawrence Jr.—reveals systemic rot within the BCSO. Discover how Mack created a culture of favoritism that dumped two decades of problems onto Lowery.
-    widget_date: "2026-03-18"
-    generated_at: "2026-11-06T08:57:36.923896Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-news:
+    refined_source: 11ac10aeceedc315f2c0af735ce3ce9ca1ba651b8b0c8401388261721fceb507
     brief: |-
       THE CONFLICT:
       *   GOB network operated in Baldwin County involving corrupt politicians, judges, and lawyers.
@@ -62,10 +35,12 @@ hooks:
       *   Bob Wills
       *   BCSO (Baldwin County Sheriff Department)
     llm_text: Baldwin County's GOB network involved corrupt politicians like Hoss Mack and Chris Elliott. Anthony Lowery inherited that culture inside the BCSO, directly linking historical manipulation to today's department cover-ups.
+    text: Chris Elliott and Hoss Mack ran a political network that protected insiders in Baldwin County. Anthony Lowery inherited that exact departmental culture, tying past cover-ups to modern policing.
     widget_date: "2026-03-12"
     generated_at: "2026-11-06T08:59:26.964059Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   new-sheriff-no-changes:
+    refined_source: 97d7fba2f817da514de59d74f93c36345bfab51436be1b8363ac641682eaca05
     brief: |-
       THE CONFLICT:
       Hoss Mack's tenure at BCSO involved 2 pending federal lawsuits and the wrongful conviction of Murray Lawrence, tied to the Steve Nodine case.
@@ -89,10 +64,12 @@ hooks:
       Steve Nodine
       Major Crimes Unit
     llm_text: Governor Kay Ivey ignored federal lawsuits while Hoss Mack oversaw wrongful convictions like Murray Lawrence's. Anthony Lowery inherited this BCSO mess, where 10 innocent lives were lost in Baldwin County.
+    text: Governor Kay Ivey ignored federal lawsuits while Hoss Mack oversaw wrongful convictions like Murray Lawrence's. Anthony Lowery inherited a troubled department where ten people lost their lives.
     widget_date: "2024-08-29"
     generated_at: "2026-11-06T09:00:19.428883Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   listen-closely:
+    refined_source: bba84c7d10b2720951e94047d4519e1e63816b5167509d1ad41bbfd55ded91c3
     brief: |-
       THE CONFLICT:
       *   2019: Filmmakers Andrew Jarecki and Charlotte Kaufman investigated abuse and systemic failures at Easterling Correctional Facility, Alabama.
@@ -122,34 +99,40 @@ hooks:
       *   Melvin Ray
       *   Easterling Correctional Facility
       *   The Alabama Solution (2025 documentary)
-    llm_text: '*The Alabama Solution* documented Steven Davis’s death and the solitary confinement of activists Robert Earl Council and Melvin Ray at Easterling Correctional Facility. Discover how deep systemic corruption runs through Alabama''s BCSO, mirroring past institutional failures under Hoss Mack and Lowery.'
+    llm_text: '*The Alabama Solution* documented Steven Davis’s death and the solitary confinement of activists Robert Earl Council and Melvin Ray at Easterling Correctional Facility. Read how deep systemic corruption runs through Alabama''s BCSO, mirroring past institutional failures under Hoss Mack and Lowery.'
+    text: The Alabama Solution documented the death of Steven Davis and the isolation of activists at Easterling prison. How do these state prison failures mirror past corruption under Hoss Mack?
     widget_date: "2026-03-09"
     generated_at: "2026-11-06T09:01:25.222296Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-exposure-mljr:
+    refined_source: eb80755ff52b27590d74b6509cd2175030127f085f30fc34a55152c83aadbc0d
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama.
       THE DISCOVERY: The conviction case is grounded in documented fact, revealing extensive failures across law enforcement, prosecutors, defense counsel, the courts, and the prison system.
       THE PIVOT: The documented systemic failures detailed in the account of Murray Lawrence Jr. demonstrate the deep, historical corruption within Baldwin County, providing context for the current internal issues (favoritism, cover-ups) cited within BCSO.
       KEY ENTITIES: Murray Lawrence Jr, BCSO, Hoss Mack, Lowery, Governor Ivy, Baldwin County, Fairhope.
     llm_text: Murray Lawrence Jr.'s wrongful conviction in Baldwin County exposed deep systemic failures across law enforcement and courts. This history of corruption provides vital context for current BCSO internal issues, including favoritism in Fairhope.
+    text: The wrongful conviction of Murray Lawrence Jr. exposed deep failures across local courts and police departments. How do these historical cover-ups explain current favoritism inside Fairhope?
     widget_date: "2026-02-20"
     generated_at: "2026-11-06T08:58:19.327261Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture-2:
+    refined_source: f66d9bd9e774ea03facd51f92d16b81907b72936f989d20ec9574289624ab02a
     brief: |-
       THE CONFLICT: BCSO culture of "ABSOLUTE IMMUNITY" developed by former Sheriff Hoss Mack; this culture has existed for 18 years, marked by justified officer loss of life, unsolved cases, and wrongful convictions (e.g., conviction of Murray Lawrence Jr. by DA where Anthony Lowery was lead investigator).
       THE DISCOVERY: Article 2 revealed that Baldwin County has an organized "good ole boy" group (formerly Catalyst, now Scott Boone Consulting) supporting the established power structure within the BCSO.
       THE PIVOT: Article 2 establishes that the problematic BCSO "culture" was established by Hoss Mack and inherited by Anthony Lowery, providing the historical context for Article 1's claim that Lowery "inherited, and adopted" 20 years of department problems.
       KEY ENTITIES: Hoss Mack, Anthony Lowery, Governor Ivy, Matt McKenzie, KcKenzie, Murray Lawrence Jr., Baldwin County Major Crimes Division, Scott Boone Consulting, BCSO.
     llm_text: Hoss Mack created 18 years of "absolute immunity" at the BCSO. Scott Boone Consulting reveals how a "good ole boy" group sustains this culture, impacting cases like Murray Lawrence Jr.'s wrongful conviction.
+    text: Hoss Mack built an eighteen-year shield of absolute immunity at the Baldwin County Sheriff's Office. How did an insider political group sustain this culture during the Murray Lawrence case?
     widget_date: "2026-01-13"
     generated_at: "2026-11-06T09:02:10.439896Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture:
+    refined_source: a1b51dcdc588626a18ac9e187bb7bf8fba4244bd1f0c151b1e43d74829db0620
     brief: |-
       THE CONFLICT:
-      *   Wrongful conviction of Murray Lawrence Jr. occurred when Hoss Mack, Judge Robert Wilters, and David Whetstone allegedly hid exculpatory evidence.
+      *   Wrongful conviction of Murray Lawrence Jr. occurred when Hoss Mack, Judge Robert Wilters, and David Whetstone hid exculpatory evidence.
       *   Stephen Nodine murder trial was alleged to be a political hit piece orchestrated by Mack, Lowery, and Newcomb.
       *   On Friday (date not specified, but relates to 2017 event), Baldwin County Sheriff Anthony Lowery lauded a federal jury clearing Deputy Lt. Matthew Hunady of wrongdoing in the 2017 fatal shooting of Jonathan Victor.
       *   OJ French was shot to death in Bay Minette after being stopped for a broken taillight; the unit ruled it a "justified shooting" with assistance from then Mayor Wills.
@@ -178,7 +161,38 @@ hooks:
       *   Peyton Little
       *   Justin Correa
       *   Newcomb
-    llm_text: Hoss Mack dumped 20 years of problems on Anthony Lowery, fueling BCSO's culture of lies and wrongful convictions. Discover how Mack's alleged actions led to Murray Lawrence Jr.'s wrongful conviction and systemic injustice.
+    llm_text: Hoss Mack dumped 20 years of problems on Anthony Lowery, fueling BCSO's culture of lies and wrongful convictions. Read how Mack's alleged actions led to Murray Lawrence Jr.'s wrongful conviction and systemic injustice.
+    text: Hoss Mack left twenty years of unresolved scandals to Anthony Lowery inside the Sheriff's Office. Read how Mack's actions created a lasting culture of wrongful convictions.
     widget_date: "2025-10-05"
     generated_at: "2026-11-06T09:03:08.099696Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  read-the-comments:
+    refined_source: 3aea879681fad5d4179cc8d4d4526c5c0ba911ee88507f176f208e14ab8f2c52
+    brief: |-
+      THE CONFLICT:
+      *   Wrongful conviction case of Murray Lawrence Jr.
+      *   Hoss Mack was the lead investigator on the case.
+      *   Robert Wilters (DA) was the presiding judge over the case.
+      *   The case produced zero evidence against Mr. Lawrence.
+
+      THE DISCOVERY:
+      *   Widget Article revealed internal hanky panky within the Baldwin County Sheriff's Department.
+      *   A top officer was involved in an extra-curricular activity with a subordinate female employee married to a fellow officer.
+      *   The department had a history of cover-ups and lack of transparency under Hoss Mack.
+
+      THE PIVOT:
+      *   Article 2 establishes Hoss Mack's prior history of non-accountability, lack of transparency, and institutional cover-ups (e.g., the Lawrence Jr. case and the sexual incident).
+      *   This history provides the context for Article 1, where Hoss Mack is blamed for dumping "20 years of problems" onto Lowery, confirming a systemic, entrenched "GOB" culture favoring favoritism and internal cover-ups within BCSO.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Sheriff/Lead Investigator)
+      *   Lowery (Successor/Appointee by Governor Ivy)
+      *   Murray Lawrence Jr.
+      *   Robert Wilters (DA/Presiding Judge)
+      *   Governor Ivy
+      *   BCSO (Baldwin County Sheriff's Office)
+    llm_text: Hoss Mack's history of institutional cover-ups—including the zero-evidence wrongful conviction of Murray Lawrence Jr.—reveals systemic rot within the BCSO. Read how Mack created a culture of favoritism that dumped two decades of problems onto Lowery.
+    text: Hoss Mack oversaw the zero-evidence wrongful conviction of Murray Lawrence Jr. and other cover-ups. How did Mack create a culture of favoritism that he ultimately handed down to Lowery?
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-06T08:57:36.923896Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

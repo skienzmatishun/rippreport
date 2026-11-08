@@ -5,93 +5,111 @@ metadata:
   main_date: "2026-06-12"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  a-new-hope:
-    brief: |-
-      THE CONFLICT: City of Bay Minette v Harry Still III verdict on Thursday, concerning the assault of Bay Minette City Council Member Matthew J Franklin.
-      THE DISCOVERY: A Baldwin County Jury found Harry Still III NOT GUILTY.
-      THE PIVOT: The past political conflict involving Bay Minette City Council Member Matthew J Franklin (Article 2) provides the local political and legal context within Bay Minette, Alabama, where Tommy Bass and Darryl Patton's work (Article 1) is situated.
-      KEY ENTITIES: Harry Still III, Matthew J Franklin, Darryl Patton, Tommy Bass, Danielle Duggar, Al Tolbert, Bay Minette, Baldwin County.
-    llm_text: A Baldwin County Jury cleared Harry Still III in the assault case against Bay Minette Council Member Matthew J Franklin. Read how this verdict ties into the local political conflicts Tommy Bass and Darryl Patton track throughout Bay Minette.
-    widget_date: "2026-05-25"
-    generated_at: "2026-11-06T06:34:56.910938Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-2026:
-    brief: |-
-      THE CONFLICT: Baldwin County elections featured primaries on May 19, focused on demanding change from career politicians; District 32 incumbent Mike Van faced 20 years of criticism regarding "Stealing BP money."
-      THE DISCOVERY: Article 2 revealed concerns about Baldwin County political corruption, including the influence of PACs and lobbyists, alleged GOB-regulated rigged elections, and the need to force term limits.
-      THE PIVOT: Article 2 provides the context of local political corruption and institutional issues within Baldwin County, while Article 1 provides anthropological and medicinal knowledge about Alabama native plants from Tommy Bass, but there is no direct factual link connecting the two topics in the provided texts.
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle Dugger, Joe Freeman, Baldwin County, Bay Minette, Alabama, GOB.
-    llm_text: Mike Van faced 20 years of criticism over "Stealing BP money" during the Baldwin County primaries. Discover how PACs and GOB influence fuel local corruption, forcing Baldwin County to demand term limits now.
-    widget_date: "2026-05-18"
-    generated_at: "2026-11-06T06:37:17.256833Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  anonymous-bb:
-    brief: |-
-      THE CONFLICT: BCSO culture under Hoss Mack and Anthony Lowery is characterized by corruption, police cover-ups, and failures of justice, leading to incidents like the death of Robert Yeats (alleged involvement of deputy Justin Correa), the wrongful conviction of Murray Lawrence Jr., the death of O J French, and a deadly interstate crash on I-10 (five lives lost).
-      THE DISCOVERY: The Baldwin Beat (BB) newsletter anonymously exposed the systemic corruption and lack of accountability within the Baldwin County Sheriff Office over the last 10 years, citing over 60 articles regarding BCSO culture.
-      THE PIVOT: No factual pivot connects the two articles. Article 1 details the herbal remedies and anthropological knowledge of Tommy Bass and his apprentice, Darryl Patton, using native Alabama plants (magnolia bark, buckeye, cross vine). Article 2 details political corruption and law enforcement misconduct in Baldwin County, Alabama. The only shared context is Alabama geography.
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Magnolia bark, Buckeye, Cross vine, Baldwin County, Hoss Mack, Anthony Lowery, Matt Mc Kenzie, Kristi Hagood, Robert Wilters, Murray Lawrence Jr., Robert Yeats, Justin Correa, O J French, BCSO, Baldwin Beat.
-    llm_text: Darryl Patton uses native Alabama plants like magnolia bark, but Baldwin County faces deep BCSO corruption under Hoss Mack and Anthony Lowery. Discover how police cover-ups led to the death of Robert Yeats and the wrongful conviction of Murray Lawrence Jr.
-    widget_date: "2026-05-10"
-    generated_at: "2026-11-06T06:38:24.720676Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  not-qualified:
-    brief: |-
-      THE CONFLICT: Murray Bubba Lawrence Jr. conviction; presided over by Circuit Judge DA Wilters. Willie Huntley testified regarding Jeff Sessions and Jefferson Beauregard Session's role in bankrupting the Ku Klux Klan.
-      THE DISCOVERY: Election primary is May 19, 2026, in Baldwin County; Kristi Hagood (Baldwin County Assistant District Attorney) is being challenged.
-      THE PIVOT: Both articles detail significant events and figures within the state of Alabama, establishing a regional context for both the historical legal events (Murray Lawrence Jr. trial) and the cultural/anthropological history (Tommy Bass/Mountain Medicine).
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Kristi Hagood, Murray Bubba Lawrence Jr., DA Wilters, Willie Huntley, Jeff Sessions, Kevin Brock, Bay Minette, Alabama.
-    llm_text: Murray Bubba Lawrence Jr.'s conviction, overseen by DA Wilters, reveals deep Alabama history, including Willie Huntley's testimony on Jeff Sessions and the KKK. See how this legal drama connects to the May 2026 challenge against Kristi Hagood in Baldwin County.
-    widget_date: "2026-05-09"
-    generated_at: "2026-11-06T06:39:40.282439Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  gambling-money-run-amok:
-    brief: |-
-      THE CONFLICT: Steve Raby (Speaker's lobbyist) ran out-of-state gambling interest money to influence the Alabama Legislature and Speaker Ledbetter.
-      THE DISCOVERY: Raby's funds were reportedly used by executives in the Mayor of Birmingham's LGBTQ Office to support Democrat Rep Juandalynn Givan (Alabama House District 60).
-      THE PIVOT: Article 2 provides context regarding political financial influence in Alabama; Article 1 discusses native Alabama herbal remedies (Tommy Bass/Darryl Patton). There is no direct factual link between the two topics provided in the texts.
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Steve Raby, Juandalynn Givan, Speaker Ledbetter, Joshua Coleman, Dax Swatek, Elliott, Simpson, Albritton, Holk-Jones, Bay Minette, Alabama, SVB PAC.
-    llm_text: Steve Raby used out-of-state gambling money to influence Alabama Speaker Ledbetter. Birmingham Mayor's LGBTQ Office executives then backed Rep Juandalynn Givan. See how political cash shapes Alabama power.
-    widget_date: "2026-04-16"
-    generated_at: "2026-11-06T06:36:04.727808Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  by-appointment-only:
-    brief: |-
-      THE CONFLICT: A cabal controls judicial appointments in Baldwin County, Alabama, using political influence coordinated with the State Executive Branch.
-      THE DISCOVERY: Draft Kings supported pro-gaming legislators for four years, leading to the creation of the Alabama Gaming Commission, potentially negotiating a merger/acquisition with PCI Gaming.
-      THE PIVOT: Article 2 establishes the political and economic context (Alabama Gaming Commission, Baldwin County influence) within which the local history and knowledge detailed in Article 1 (Mountain Medicine, Tommy Bass, native Alabama herbs) was developed and recorded.
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Mountain Medicine, Alabama Gaming Commission, Draft Kings, PCI Gaming, Bay Minette, Alabama, Baldwin County
-    llm_text: A Baldwin County cabal uses political influence, backed by Draft Kings, to control judicial appointments and shape the Alabama Gaming Commission. Discover how this powerful economic context shaped local history, including Tommy Bass and Mountain Medicine.
-    widget_date: "2026-04-10"
-    generated_at: "2026-11-06T06:40:25.576427Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  eddie-tyler-exits-stage-left:
-    brief: |-
-      THE CONFLICT: Eddie Tyler's era ended; $16.3 Million was allocated for Golden Triangle bridge/boulevard over Fish River; a 20-year Baldwin County Sheriffs Deputy resigned citing "Ungodly men."
-      THE DISCOVERY: Article 2 revealed local financial and political corruption centered on the Fish River development and involving figures like Eddie Tyler, Brandon Moseley, and Harry Still.
-      THE PIVOT: Article 2 establishes the historical context of local power and financial conflict in Baldwin County, which connects to the family members (Mrs. Tom Bradley Jr/Pat Bradley) associated with Tommy Bass (featured in Article 1).
-      KEY ENTITIES: Darryl Patton, Tommy Bass, Eddie Tyler, Brandon Moseley, Harry Still, Fish River, Baldwin County, Pat Bradley, Afroman, Bay Minette, Alabama.
-    llm_text: $16.3M for the Fish River development masks deep local corruption involving Eddie Tyler, Brandon Moseley, and Harry Still. Discover how this political conflict in Baldwin County ties directly to the legacy of Tommy Bass and Pat Bradley.
-    widget_date: "2026-03-27"
-    generated_at: "2026-11-06T06:41:16.864846Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  southern-gothic:
-    brief: |-
-      THE CONFLICT: In 2005, the prosecution of Orange Beach Mayor Steve Russo and City Attorney Larry Sutley was the last public corruption case in Baldwin County, Alabama. In 2010, familiar faces on the Baldwin County Commission exploited special interests, notably Catalyst Scott Boone Consulting (CSB).
-      THE DISCOVERY: Darryl Patton, master herbalist and author of *Mountain Medicine*, documented the herbal remedies of Tommy Bass, who learned from an old Cherokee woman, utilizing native Alabama plants (e.g., magnolia bark, buckeye, cross vine) in Bay Minette, Alabama.
-      THE PIVOT: The Widget Article establishes a historical context of entrenched judicial and municipal corruption in Baldwin County, AL (founded 1809), detailing the political environment (2005-2010) within which local issues, such as those in Bay Minette, Alabama (Main Article location), occurred.
-      KEY ENTITIES: Darryl Patton; Tommy Bass; Harry Still; Steve Russo; Larry Sutley; Catalyst Scott Boone Consulting (CSB); Baldwin County, Alabama; Bay Minette, Alabama; Judge Charles Hall; Constable Edward Steadham.
-    llm_text: Baldwin County saw corruption from Steve Russo and Larry Sutley to CSB in 2010. Understand this local history before reading about Tommy Bass's native Alabama remedies documented by Darryl Patton in Bay Minette.
-    widget_date: "2021-04-02"
-    generated_at: "2026-11-06T06:42:29.055711Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   american-citizen:
+    refined_source: e8a527a9700528bf7f854f461948b002127acf9128c72d4fa1ba55503895539b
     brief: |-
       THE CONFLICT: Ronan McSharry, an Irish Green Card holder, assaulted Paula Dinardi in Fairhope in November 2018, leading to legal failure in Baldwin County.
       THE DISCOVERY: Article 2 exposed Baldwin County judicial failure, political interference (involving City Council and Council President Burrell), and lack of ethics that allowed McSharry to escape prosecution despite past convictions.
       THE PIVOT: Article 2 provides historical context of local judicial and political failure within Baldwin County, Alabama, contrasting with Article 1’s discussion of native Alabama herbalism (Tommy Bass/Darryl Patton) and local issues in Bay Minette, establishing a regional theme of local governance and community focus within the state.
       KEY ENTITIES: Paula Dinardi, Ronan McSharry, Darryl Patton, Tommy Bass, Marcus McDowell, Judge Snedeker, Judge Stankowski, Council President Burrell, Dinardi, City Attorney, Baldwin County, Bay Minette, Alabama
     llm_text: Ronan McSharry assaulted Paula Dinardi in Fairhope, yet Baldwin County shielded him from prosecution despite past convictions. Council President Burrell's political interference exposed deep judicial failure across the entire county.
+    text: Ronan McSharry assaulted Paula DiNardi in Fairhope. Council President Jack Burrell intervened to shield the offender from criminal charges.
     widget_date: "2020-04-22"
     generated_at: "2026-11-06T06:43:45.891065Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-new-hope:
+    refined_source: 0849f78f922661e4d38167f64789c66ca65a860f97fc1d99f003d03278d0c4a7
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III verdict on Thursday, concerning the assault of Bay Minette City Council Member Matthew J Franklin.
+      THE DISCOVERY: A Baldwin County Jury found Harry Still III NOT GUILTY.
+      THE PIVOT: The past political conflict involving Bay Minette City Council Member Matthew J Franklin (Article 2) provides the local political and legal context within Bay Minette, Alabama, where Tommy Bass and Darryl Patton's work (Article 1) is situated.
+      KEY ENTITIES: Harry Still III, Matthew J Franklin, Darryl Patton, Tommy Bass, Danielle Duggar, Al Tolbert, Bay Minette, Baldwin County.
+    llm_text: A Baldwin County Jury cleared Harry Still III in the assault case against Bay Minette Council Member Matthew J Franklin. Read how this verdict ties into the local political conflicts Tommy Bass and Darryl Patton track throughout Bay Minette.
+    text: A Baldwin County jury cleared Harry Still III of assaulting Matthew Franklin. Tommy Bass and Darryl Patton tracked the fallout in Bay Minette.
+    widget_date: "2026-05-25"
+    generated_at: "2026-11-06T06:34:56.910938Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gambling-money-run-amok:
+    refined_source: 44b359c5b73d7933de4618cd5760cd4e3c82109d89f17f9739059ac8d7190f03
+    brief: |-
+      THE CONFLICT: Steve Raby (Speaker's lobbyist) ran out-of-state gambling interest money to influence the Alabama Legislature and Speaker Ledbetter.
+      THE DISCOVERY: Raby's funds were reportedly used by executives in the Mayor of Birmingham's LGBTQ Office to support Democrat Rep Juandalynn Givan (Alabama House District 60).
+      THE PIVOT: Article 2 provides context regarding political financial influence in Alabama; Article 1 discusses native Alabama herbal remedies (Tommy Bass/Darryl Patton). There is no direct factual link between the two topics provided in the texts.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Steve Raby, Juandalynn Givan, Speaker Ledbetter, Joshua Coleman, Dax Swatek, Elliott, Simpson, Albritton, Holk-Jones, Bay Minette, Alabama, SVB PAC.
+    llm_text: Steve Raby used out-of-state gambling money to influence Alabama Speaker Ledbetter. Birmingham Mayor's LGBTQ Office executives then backed Rep Juandalynn Givan. See how political cash shapes Alabama power.
+    text: Steve Raby used out-of-state gambling money to influence Alabama Speaker Ledbetter. Birmingham Mayor's Office executives then backed Rep Juandalynn Givan.
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-06T06:36:04.727808Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  eddie-tyler-exits-stage-left:
+    refined_source: 94e600772605b956d31ad3958e615e9674ae236192dc0c1a01db7730d681e5b1
+    brief: |-
+      THE CONFLICT: Eddie Tyler's era ended; $16.3 Million was allocated for Golden Triangle bridge/boulevard over Fish River; a 20-year Baldwin County Sheriffs Deputy resigned citing "Ungodly men."
+      THE DISCOVERY: Article 2 revealed local financial and political corruption centered on the Fish River development and involving figures like Eddie Tyler, Brandon Moseley, and Harry Still.
+      THE PIVOT: Article 2 establishes the historical context of local power and financial conflict in Baldwin County, which connects to the family members (Mrs. Tom Bradley Jr/Pat Bradley) associated with Tommy Bass (featured in Article 1).
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Eddie Tyler, Brandon Moseley, Harry Still, Fish River, Baldwin County, Pat Bradley, Afroman, Bay Minette, Alabama.
+    llm_text: $16.3M for the Fish River development masks deep local corruption involving Eddie Tyler, Brandon Moseley, and Harry Still. Read how this political conflict in Baldwin County ties directly to the legacy of Tommy Bass and Pat Bradley.
+    text: Eddie Tyler and Brandon Moseley spent $16.3 million on the Fish River project. This taxpayer-funded deal masked deep local government corruption.
+    widget_date: "2026-03-27"
+    generated_at: "2026-11-06T06:41:16.864846Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-2026:
+    refined_source: af62acbd3765455da7adac2e7089de99f8952a4b6611d6526058494fef2dd8ec
+    brief: |-
+      THE CONFLICT: Baldwin County elections featured primaries on May 19, focused on demanding change from career politicians; District 32 incumbent Mike Van faced 20 years of criticism regarding "Stealing BP money."
+      THE DISCOVERY: Article 2 revealed concerns about Baldwin County political corruption, including the influence of PACs and lobbyists, alleged GOB-regulated rigged elections, and the need to force term limits.
+      THE PIVOT: Article 2 provides the context of local political corruption and institutional issues within Baldwin County, while Article 1 provides anthropological and medicinal knowledge about Alabama native plants from Tommy Bass, but there is no direct factual link connecting the two topics in the provided texts.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle Dugger, Joe Freeman, Baldwin County, Bay Minette, Alabama, GOB.
+    llm_text: Mike Van faced 20 years of criticism over "Stealing BP money" during the Baldwin County primaries. Read how PACs and GOB influence fuel local corruption, forcing Baldwin County to demand term limits now.
+    text: Mike Van faced 20 years of criticism over BP money in Baldwin County primaries. PACs and GOB influence fuel local corruption and push term limits.
+    widget_date: "2026-05-18"
+    generated_at: "2026-11-06T06:37:17.256833Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  by-appointment-only:
+    refined_source: 134397ae56f7f19658b3291cdbdcc89922d05add486c212b1ecc62a2a8950d91
+    brief: |-
+      THE CONFLICT: A cabal controls judicial appointments in Baldwin County, Alabama, using political influence coordinated with the State Executive Branch.
+      THE DISCOVERY: Draft Kings supported pro-gaming legislators for four years, leading to the creation of the Alabama Gaming Commission, potentially negotiating a merger/acquisition with PCI Gaming.
+      THE PIVOT: Article 2 establishes the political and economic context (Alabama Gaming Commission, Baldwin County influence) within which the local history and knowledge detailed in Article 1 (Mountain Medicine, Tommy Bass, native Alabama herbs) was developed and recorded.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Mountain Medicine, Alabama Gaming Commission, Draft Kings, PCI Gaming, Bay Minette, Alabama, Baldwin County
+    llm_text: A Baldwin County cabal uses political influence, backed by Draft Kings, to control judicial appointments and shape the Alabama Gaming Commission. Read how this powerful economic context shaped local history, including Tommy Bass and Mountain Medicine.
+    text: A Baldwin County political faction used DraftKings money to buy judicial seats. This group controls appointments to the Alabama Gaming Commission.
+    widget_date: "2026-04-10"
+    generated_at: "2026-11-06T06:40:25.576427Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  anonymous-bb:
+    refined_source: 4c3209910bc24fa95bf44f96553e768d8db82222dae75cd126cab689c1872dc8
+    brief: |-
+      THE CONFLICT: BCSO culture under Hoss Mack and Anthony Lowery is characterized by corruption, police cover-ups, and failures of justice, leading to incidents like the death of Robert Yeats (alleged involvement of deputy Justin Correa), the wrongful conviction of Murray Lawrence Jr., the death of O J French, and a deadly interstate crash on I-10 (five lives lost).
+      THE DISCOVERY: The Baldwin Beat (BB) newsletter anonymously exposed the systemic corruption and lack of accountability within the Baldwin County Sheriff Office over the last 10 years, citing over 60 articles regarding BCSO culture.
+      THE PIVOT: No factual pivot connects the two articles. Article 1 details the herbal remedies and anthropological knowledge of Tommy Bass and his apprentice, Darryl Patton, using native Alabama plants (magnolia bark, buckeye, cross vine). Article 2 details political corruption and law enforcement misconduct in Baldwin County, Alabama. The only shared context is Alabama geography.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Magnolia bark, Buckeye, Cross vine, Baldwin County, Hoss Mack, Anthony Lowery, Matt Mc Kenzie, Kristi Hagood, Robert Wilters, Murray Lawrence Jr., Robert Yeats, Justin Correa, O J French, BCSO, Baldwin Beat.
+    llm_text: Darryl Patton uses native Alabama plants like magnolia bark, but Baldwin County faces deep BCSO corruption under Hoss Mack and Anthony Lowery. Read how police cover-ups led to the death of Robert Yeats and the wrongful conviction of Murray Lawrence Jr.
+    text: Sheriff Hoss Mack oversaw a corrupt department in Baldwin County. Police cover-ups led to the tragic death of Robert Yeats.
+    widget_date: "2026-05-10"
+    generated_at: "2026-11-06T06:38:24.720676Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  not-qualified:
+    refined_source: abf6176f889ae51538e4dedc6121b329320ae82617070de0623ccba76971b0d1
+    brief: |-
+      THE CONFLICT: Murray Bubba Lawrence Jr. conviction; presided over by Circuit Judge DA Wilters. Willie Huntley testified regarding Jeff Sessions and Jefferson Beauregard Session's role in bankrupting the Ku Klux Klan.
+      THE DISCOVERY: Election primary is May 19, 2026, in Baldwin County; Kristi Hagood (Baldwin County Assistant District Attorney) is being challenged.
+      THE PIVOT: Both articles detail significant events and figures within the state of Alabama, establishing a regional context for both the historical legal events (Murray Lawrence Jr. trial) and the cultural/anthropological history (Tommy Bass/Mountain Medicine).
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Kristi Hagood, Murray Bubba Lawrence Jr., DA Wilters, Willie Huntley, Jeff Sessions, Kevin Brock, Bay Minette, Alabama.
+    llm_text: Murray Bubba Lawrence Jr.'s conviction, overseen by DA Wilters, reveals deep Alabama history, including Willie Huntley's testimony on Jeff Sessions and the KKK. See how this legal drama connects to the May 2026 challenge against Kristi Hagood in Baldwin County.
+    text: DA Wilters oversaw Murray Bubba Lawrence Jr.'s conviction. Willie Huntley testified on Jeff Sessions and the KKK during this legal battle.
+    widget_date: "2026-05-09"
+    generated_at: "2026-11-06T06:39:40.282439Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  southern-gothic:
+    refined_source: 49511329785d40e70d80d143a50fe9f5cb47951412c5739b24c6a6abcb8f86cd
+    brief: |-
+      THE CONFLICT: In 2005, the prosecution of Orange Beach Mayor Steve Russo and City Attorney Larry Sutley was the last public corruption case in Baldwin County, Alabama. In 2010, familiar faces on the Baldwin County Commission exploited special interests, notably Catalyst Scott Boone Consulting (CSB).
+      THE DISCOVERY: Darryl Patton, master herbalist and author of *Mountain Medicine*, documented the herbal remedies of Tommy Bass, who learned from an old Cherokee woman, utilizing native Alabama plants (e.g., magnolia bark, buckeye, cross vine) in Bay Minette, Alabama.
+      THE PIVOT: The Widget Article establishes a historical context of entrenched judicial and municipal corruption in Baldwin County, AL (founded 1809), detailing the political environment (2005-2010) within which local issues, such as those in Bay Minette, Alabama (Main Article location), occurred.
+      KEY ENTITIES: Darryl Patton; Tommy Bass; Harry Still; Steve Russo; Larry Sutley; Catalyst Scott Boone Consulting (CSB); Baldwin County, Alabama; Bay Minette, Alabama; Judge Charles Hall; Constable Edward Steadham.
+    llm_text: Baldwin County saw corruption from Steve Russo and Larry Sutley to CSB in 2010. Understand this local history before reading about Tommy Bass's native Alabama remedies documented by Darryl Patton in Bay Minette.
+    text: Steve Russo and Larry Sutley brought corruption to Baldwin County in 2010. Darryl Patton documented native Alabama remedies in Bay Minette.
+    widget_date: "2021-04-02"
+    generated_at: "2026-11-06T06:42:29.055711Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

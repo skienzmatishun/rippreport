@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   the-crime-of-the-century:
+    refined_source: d10ff79ac01290c1606cefb0b3b8c2e06aa20386af6dcb1bda108907e6670503
     brief: |-
       THE CONFLICT:
       *   May 24th primary election in Baldwin County.
@@ -31,109 +32,72 @@ hooks:
       *   Clarke County
       *   May 24th
     llm_text: Kay Ivey fired Admiral Kent Davis, upsetting veterans who traditionally support Republicans. This state action destabilizes the environment for Baldwin County races, including Steve Marshall's May 24th primary against Robert Craft.
+    text: Kay Ivey fired Admiral Kent Davis, upsetting veterans who traditionally support Republicans. This state action destabilizes the environment for Baldwin County races, including Steve Marshall's May 24th primary.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T23:04:56.198917Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Primary Election held May 24th; Steve Marshall (former Democrat and Don Siegleman appointee) sought office; Mayor Robert Craft faced criticism regarding Gulf Shores citizenry.
-      THE DISCOVERY: Companies with political ties secured million-dollar contracts; construction bid for new Baldwin County District Attorney building was awarded; public scholarships were diverted to insiders.
-      THE PIVOT: Article 2 reveals systemic corruption, including contract scoring by politically connected companies and lack of law enforcement accountability, providing critical context to the political choices and status quo challenges highlighted in the May 24th primary preview (Article 1).
-      KEY ENTITIES: Steve Marshall; Robert Craft; Don Siegleman; Baldwin County; Andrew Donald; Baldwin County District Attorney (building project).
-    llm_text: Did the May 24th primary miss the real issue? Politically tied companies secured million-dollar Baldwin County contracts, diverting public scholarships and awarding the DA building bid.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T23:07:07.420253Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT: Primary Election preview scheduled for May 24th in Baldwin County; focus is on voting out Steve Marshall (former Democrat and Don Siegleman appointee); local concerns include Gulf Shores Mayor Robert Craft.
-      THE DISCOVERY: The Alabama Court of Civil Appeals released a decision today regarding the Mack vs Hadley case, which involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-      THE PIVOT: Article 2 reveals historical legal and institutional corruption within Baldwin County (2005 autopsies ordered by the Baldwin County Coroner's father were undisclosed to the Defense, constituting a Brady Violation), providing context to the political scrutiny of local officials highlighted in the May 24th election preview.
-      KEY ENTITIES: Steve Marshall, Don Siegleman, Robert Craft, Baldwin County Sheriff's Department, Mack, Hadley, Murray Lawrence Jr., Mark Fuller, Luigi Manjone, Baldwin County Coroner.
-    llm_text: Before the May 24th election targets Steve Marshall, the Mack vs Hadley case reveals deep Baldwin County corruption. Court decisions on the Camaro theft expose historical Brady Violations, proving local institutional issues run deeper than the current political fight.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T23:08:25.355757Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Primary election on May 24th focused on Baldwin County, urging voters to remove Steve Marshall (a former Democrat and Don Siegleman appointee) from office. Robert Craft was identified as Gulf Shores Mayor, criticized for civic neglect.
-      THE DISCOVERY: A podcast update detailed allegations of misconduct against various officials, controversies surrounding political appointments, and the wrongful arrests of individuals who exposed corruption within a local school district.
-      THE PIVOT: The local political criticisms in Article 1 (e.g., Robert Craft's actions) are contextualized by Article 2's reports on systemic local corruption exposure and the wrongful arrest of critics, linking local governance issues to First Amendment concerns.
-      KEY ENTITIES: Robert Craft, Steve Marshall, Don Siegleman, Baldwin County, Gulf Shores
-    llm_text: Voters in Baldwin County should examine Robert Craft's civic neglect as Steve Marshall faces his primary challenge. Local corruption, including wrongful arrests of critics, links these governance issues directly to First Amendment concerns.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T23:09:21.030799Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 8ebe99e338cffd2333c17aebba44b124875ae6858314f713fda609d409bf7c3b
     brief: |-
       THE CONFLICT: Primary election in Baldwin County occurred on May 24th, featuring candidates including Steve Marshall and Gulf Shores Mayor Robert Craft.
       THE DISCOVERY: Backstory Podcast No. 186 provides an update covering broader 2024 Alabama political and social issues, including the closing of rural hospitals and proposed constitutional amendments in Alabama.
       THE PIVOT: The local Baldwin County election (Article 1) is part of a wider political context in Alabama, which Article 2 details through significant state-level crises (rural hospital closures, constitutional changes).
       KEY ENTITIES: Steve Marshall, Robert Craft, Baldwin County, Alabama, Backstory Podcast No. 186, 2024 US Presidential election.
     llm_text: Baldwin County voters backed Steve Marshall and Robert Craft in May. Backstory Podcast No. 186 explains how these local races reflect Alabama’s larger 2024 crises, including rural hospital closures and proposed constitutional amendments.
+    text: Baldwin County voters backed Steve Marshall and Robert Craft. A local podcast explains how these races reflect statewide crises.
     widget_date: "2024-11-27"
     generated_at: "2026-11-06T23:06:02.021629Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT: Death of OJ French Jr. by BMPD Officer Brandon Thompson (past event leading to lawsuit).
-      THE DISCOVERY: Mobile Attorney Andy Ruten is representing the City of Bay Minette against the French Jr. family; Ruten then hired Mayor Bob Wills, who is currently facing a Malpractice lawsuit.
-      THE PIVOT: Article 2 details specific local government failures (police action, legal defense, mayor malpractice suit) providing critical context and specific local issues for the general election preview mentioned in Article 1.
-      KEY ENTITIES: Steve Marshall, Robert Craft, Baldwin County, Governor Ivey, OJ French Jr., BMPD Officer Brandon Thompson, Andy Ruten, City of Bay Minette, Mayor Bob Wills.
-    llm_text: OJ French Jr.'s death by BMPD Officer Brandon Thompson sparked a lawsuit, but local failures persist. Mayor Bob Wills faces a malpractice suit after representing the City of Bay Minette, critical context for the general election.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T23:10:10.889154Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT:
-      *   Primary Election scheduled for May 24th.
-      *   Gulf Shores Mayor Robert Craft criticized for not addressing meth-heads at Hangout Fest weekend.
-      *   Andrew Donald graduated Summa cum laude from Baldwin County High School Class of 2022.
-      *   Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022.
-      *   Williams Jr. body was recovered on Sunday, May 29, 2022.
-
-      THE DISCOVERY:
-      *   Article 2 confirms the date of death (May 27, 2022) and recovery (May 29, 2022) related to Thomas Daniel "Danny" Williams Jr in Orange Beach.
-
-      THE PIVOT:
-      *   Article 2 provides specific, confirmed details (dates, location, reward) regarding the death investigation that is related to the local community context referenced in Article 1 (Baldwin County/Gulf Shores).
-
-      KEY ENTITIES:
-      *   Steve Marshall
-      *   Robert Craft (Gulf Shores Mayor)
-      *   Andrew Donald
-      *   Baldwin County High School Class of 2022
-      *   Thomas Daniel "Danny" Williams Jr
-      *   Orange Beach, Alabama
-      *   May 24, 2022
-      *   May 27, 2022
-      *   May 29, 2022
-    llm_text: Mayor Robert Craft faces local heat over Hangout Fest, but a critical Orange Beach investigation demands your attention. Article 2 confirms Thomas Daniel "Danny" Williams Jr died May 27, 2022, and recovered May 29, 2022.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T23:10:59.388276Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: 50969d87bbaa0683b6f87acfafff3e02e42d2c593b606c0452a2f84fd4a5ba61
     brief: |-
       THE CONFLICT: Republican Primary Election scheduled for May 24th; focus on voting against Steve Marshall and Gulf Shores Mayor Robert Craft in Baldwin County.
       THE DISCOVERY: Baldwin County experienced a Renaissance School robbery (inside job suspected); the Sheriff Department of Baldwin County has a new Command Staff; Former Real Admiral and Jag Officer Kent David is leaving the Alabama Veterans Affairs Commissioner position.
       THE PIVOT: Article 2 provides an updated context of statewide political and institutional instability in Alabama (e.g., Kent David leaving, corruption awards, local issues) that frames the importance of the local elections discussed in Article 1.
       KEY ENTITIES: Steve Marshall, Robert Craft, Baldwin County, Kent David, Donald Trump, David R. Jones.
     llm_text: 'Baldwin County instability—from the Renaissance School robbery to Kent David leaving—demands attention. Shape Alabama''s future: Vote against Steve Marshall and Gulf Shores Mayor Robert Craft on May 24th.'
+    text: Baldwin County instability demands urgent voter attention. Citizens can vote against Steve Marshall and Robert Craft on May 24th.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T23:12:06.822327Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: a8ee0fb2fd02925ca5dd6770a3d2ac9d27883c7039784e1914a42d7726576430
     brief: |-
       THE CONFLICT: Primary election polls open May 24th; Steve Marshall (former Democrat and Don Siegleman appointee) is mentioned regarding the Republican sample ballot; Gulf Shores Mayor Robert Craft is criticized regarding the Hangout Fest issues.
       THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has only one week remaining in office; the Governor is currently selecting a replacement.
       THE PIVOT: Article 2 provides a recent update on the leadership transition (Sheriff Mack replacement) that provides current political context to the primary election preview discussed in Article 1.
       KEY ENTITIES: Steve Marshall, Robert Craft, Sheriff Mack, Don Siegleman, Baldwin County, Kamala Harris
     llm_text: Sheriff Mack has only one week left in Baldwin County office, triggering a critical leadership transition. See how this shift impacts the May 24th primary, where Steve Marshall and Robert Craft face local political scrutiny.
+    text: Sheriff Mack has only one week left in Baldwin County office, triggering a critical leadership transition. See how this shift impacts the May 24th primary, where Steve Marshall and Robert Craft face local political scrutiny.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T23:13:12.818735Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: c353e5122329cbac169a1018ba4401a87c0eaa0b1bbc9fb0dedb4ae2fe2a0fcc
+    brief: |-
+      THE CONFLICT: Primary Election preview scheduled for May 24th in Baldwin County; focus is on voting out Steve Marshall (former Democrat and Don Siegleman appointee); local concerns include Gulf Shores Mayor Robert Craft.
+      THE DISCOVERY: The Alabama Court of Civil Appeals released a decision today regarding the Mack vs Hadley case, which involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      THE PIVOT: Article 2 reveals historical legal and institutional corruption within Baldwin County (2005 autopsies ordered by the Baldwin County Coroner's father were undisclosed to the Defense, constituting a Brady Violation), providing context to the political scrutiny of local officials highlighted in the May 24th election preview.
+      KEY ENTITIES: Steve Marshall, Don Siegleman, Robert Craft, Baldwin County Sheriff's Department, Mack, Hadley, Murray Lawrence Jr., Mark Fuller, Luigi Manjone, Baldwin County Coroner.
+    llm_text: Before the May 24th election targets Steve Marshall, the Mack vs Hadley case reveals deep Baldwin County corruption. Court decisions on the Camaro theft expose historical Brady Violations, proving local institutional issues run deeper than the current political fight.
+    text: The Mack versus Hadley case reveals deep Baldwin County corruption. Court decisions on a stolen Camaro expose historical Brady violations.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T23:08:25.355757Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: b413fbfed2a419d0560e45cebf98f08178ead1ed68bbb2f1730c2bccfc2d9404
+    brief: |-
+      THE CONFLICT: Death of OJ French Jr. by BMPD Officer Brandon Thompson (past event leading to lawsuit).
+      THE DISCOVERY: Mobile Attorney Andy Ruten is representing the City of Bay Minette against the French Jr. family; Ruten then hired Mayor Bob Wills, who is currently facing a Malpractice lawsuit.
+      THE PIVOT: Article 2 details specific local government failures (police action, legal defense, mayor malpractice suit) providing critical context and specific local issues for the general election preview mentioned in Article 1.
+      KEY ENTITIES: Steve Marshall, Robert Craft, Baldwin County, Governor Ivey, OJ French Jr., BMPD Officer Brandon Thompson, Andy Ruten, City of Bay Minette, Mayor Bob Wills.
+    llm_text: OJ French Jr.'s death by BMPD Officer Brandon Thompson sparked a lawsuit, but local failures persist. Mayor Bob Wills faces a malpractice suit after representing the City of Bay Minette, critical context for the general election.
+    text: OJ French Jr.'s death by BMPD Officer Brandon Thompson sparked a lawsuit, but local failures persist. Mayor Bob Wills faces a malpractice suit after representing the City of Bay Minette.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T23:10:10.889154Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 9dc2fcbac88f5c4798dfd74f1b6094901ff9a35285a633f8a6b21102b14a927c
     brief: |-
       THE CONFLICT:
       *   Primary Election occurred on May 24th in Baldwin County.
@@ -160,6 +124,62 @@ hooks:
       *   Bay Minette Justice League
       *   May Jung LLC
     llm_text: OJ French Jr.'s lawsuit targets Bay Minette Mayor Robert Bob Wills and Officer Brandon Thompson, exposing serious local governance failures. With Sheriff Mack resigning, this crisis demands attention to immediate leadership misconduct in Baldwin County.
+    text: OJ French Jr.'s lawsuit targets Bay Minette Mayor Robert Bob Wills and Officer Brandon Thompson. With Sheriff Mack resigning, this crisis demands attention to immediate leadership misconduct in Baldwin County.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T23:14:26.823079Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 0f3a539464fe55ddab1f42a9250727368750cf86dfd174078c251c228c1496bb
+    brief: |-
+      THE CONFLICT: Primary election on May 24th focused on Baldwin County, urging voters to remove Steve Marshall (a former Democrat and Don Siegleman appointee) from office. Robert Craft was identified as Gulf Shores Mayor, criticized for civic neglect.
+      THE DISCOVERY: A podcast update detailed allegations of misconduct against various officials, controversies surrounding political appointments, and the wrongful arrests of individuals who exposed corruption within a local school district.
+      THE PIVOT: The local political criticisms in Article 1 (e.g., Robert Craft's actions) are contextualized by Article 2's reports on systemic local corruption exposure and the wrongful arrest of critics, linking local governance issues to First Amendment concerns.
+      KEY ENTITIES: Robert Craft, Steve Marshall, Don Siegleman, Baldwin County, Gulf Shores
+    llm_text: Voters in Baldwin County should examine Robert Craft's civic neglect as Steve Marshall faces his primary challenge. Local corruption, including wrongful arrests of critics, links these governance issues directly to First Amendment concerns.
+    text: Voters should examine Robert Craft's civic neglect in Baldwin County. Wrongful arrests of critics link these local issues to First Amendment rights.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T23:09:21.030799Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: daefaa5f3305cb7e0f82ad5095d974589b44b3b1f6af92c719df3482431fa1c5
+    brief: |-
+      THE CONFLICT:
+      *   Primary Election scheduled for May 24th.
+      *   Gulf Shores Mayor Robert Craft criticized for not addressing meth-heads at Hangout Fest weekend.
+      *   Andrew Donald graduated Summa cum laude from Baldwin County High School Class of 2022.
+      *   Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022.
+      *   Williams Jr. body was recovered on Sunday, May 29, 2022.
+
+      THE DISCOVERY:
+      *   Article 2 confirms the date of death (May 27, 2022) and recovery (May 29, 2022) related to Thomas Daniel "Danny" Williams Jr in Orange Beach.
+
+      THE PIVOT:
+      *   Article 2 provides specific, confirmed details (dates, location, reward) regarding the death investigation that is related to the local community context referenced in Article 1 (Baldwin County/Gulf Shores).
+
+      KEY ENTITIES:
+      *   Steve Marshall
+      *   Robert Craft (Gulf Shores Mayor)
+      *   Andrew Donald
+      *   Baldwin County High School Class of 2022
+      *   Thomas Daniel "Danny" Williams Jr
+      *   Orange Beach, Alabama
+      *   May 24, 2022
+      *   May 27, 2022
+      *   May 29, 2022
+    llm_text: Mayor Robert Craft faces local heat over Hangout Fest, but a critical Orange Beach investigation demands your attention. Article 2 confirms Thomas Daniel "Danny" Williams Jr died May 27, 2022, and recovered May 29, 2022.
+    text: Mayor Robert Craft faces local heat over Hangout Fest, but a critical Orange Beach investigation demands your attention. Thomas Daniel Williams Jr died May 27, 2022, and was recovered May 29, 2022.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T23:10:59.388276Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: a5f841e0c1cd3fe763c458e52e15457fbc61cb1f3d8f884fb2cd65ca6583f574
+    brief: |-
+      THE CONFLICT: Primary Election held May 24th; Steve Marshall (former Democrat and Don Siegleman appointee) sought office; Mayor Robert Craft faced criticism regarding Gulf Shores citizenry.
+      THE DISCOVERY: Companies with political ties secured million-dollar contracts; construction bid for new Baldwin County District Attorney building was awarded; public scholarships were diverted to insiders.
+      THE PIVOT: Article 2 reveals systemic corruption, including contract scoring by politically connected companies and lack of law enforcement accountability, providing critical context to the political choices and status quo challenges highlighted in the May 24th primary preview (Article 1).
+      KEY ENTITIES: Steve Marshall; Robert Craft; Don Siegleman; Baldwin County; Andrew Donald; Baldwin County District Attorney (building project).
+    llm_text: Did the May 24th primary miss the real issue? Politically tied companies secured million-dollar Baldwin County contracts, diverting public scholarships and awarding the DA building bid.
+    text: Did the May 24th primary miss the real issue? Politically tied companies secured million-dollar Baldwin County contracts, diverting public scholarships and awarding the DA building bid.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T23:07:07.420253Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

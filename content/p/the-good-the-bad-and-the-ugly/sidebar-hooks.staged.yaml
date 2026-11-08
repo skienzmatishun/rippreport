@@ -1,0 +1,243 @@
+metadata:
+  generated_at: "2026-11-08T03:33:05.012264Z"
+  generator_version: 1.0.0
+  post_slug: the-good-the-bad-and-the-ugly
+  main_date: "2019-02-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  communication:
+    brief: |-
+      THE CONFLICT:
+      *   Oct 2018: Lack of communication between Mayor’s office and City Attorney Marcus McDowell began regarding Golf Course equipment.
+      *   Jan 28th: Fairhope City Council meeting demonstrated City Attorney McDowell and Council President Captain Jack making decisions without advising the Mayor.
+      *   Past: McDowell was a holdover from the Mayor Can’t era; Captain Jack and the Council selected McDowell to support a Catalyst overthrow attempt in 2020.
+      *   Past: McDowell and Captain Jack compounded a Federal lawsuit (school yard brawl) which was ultimately settled by the City’s insurance company.
+      *   Past: Council and City Attorney ignored police report about Mr. Burrell.
+
+      THE DISCOVERY:
+      *   Article 2 (Widget) established that the relationship between Mayor and City Attorney McDowell was characterized by insubordination and lack of communication dating back to Oct 2018.
+      *   Article 2 revealed the suspicious connection between City Attorney Jack Burrell and Ronan McSharry (McSharrys bar/restaurant features a J. Burrell sandwich).
+      *   Article 2 noted McDowell's past representation of citizens against McSharry's assaults/harassment.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context proving that City Attorney McDowell was aligned with the Catalyst political agenda (2020 overthrow) and was insubordinate to the Mayor, not just an administrative failure.
+      *   This context shows that the City Attorney's poor performance (e.g., handling the Triangle lawsuit, delaying McSharry charges) is not isolated but tied to political obstruction and protecting council members (like Burrell) rather than the community interest.
+
+      KEY ENTITIES:
+      *   Marcus McDowell (City Attorney)
+      *   Captain Jack (Council President)
+      *   Mayor Can’t
+      *   Ronan McSharry
+      *   McSharry Bar and Restaurant (McSharrys)
+      *   Jack Burrell (Council member)
+      *   Catalyst Council
+      *   Mayor Wilson
+      *   Boone
+      *   Burrell
+      *   Kant
+      *   mcdowell
+      *   Triangle Lawsuit ($11.25 million)
+      *   Buddy Breland
+      *   Dean Mosher
+      *   Matt Bowers
+      *   Breland court decision (favored developer, appealed to Alabama Supreme Court)
+    llm_text: Marcus McDowell defied the Mayor since 2018, tying his insubordination to Captain Jack's 2020 Catalyst agenda. Learn how McDowell protected council members like Jack Burrell instead of serving the community.
+    widget_date: "2019-02-07"
+    generated_at: "2026-11-08T03:27:46.997018Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  knock-on-doors:
+    brief: |-
+      THE CONFLICT:
+      - Triangle Lawsuit: Fairhope; cost to city: 11.25 million; potential settlement: under 1 million.
+      - Mayor Wilson and city staff; Catalyst Council; City Council members Boone and Burrell; plus 3 council members voted out.
+      - Boone and Burrell, with 3 voted out, refused to settle or discuss settlement.
+      - Catalyst Council refused to discuss settlement; spent tens of thousands in attorney fees and court costs.
+      - Mayor Wilson and staff; Catalyst Council agenda described as obstruction; goal to overthrow present government in 2020.
+      - Buddy Breland: Alabama Supreme Court unanimously favored developer; lower court verdict now being appealed back to Supreme Court.
+      - Ronan McSharry / McSharry Bar and Restaurant: charges never heard on scheduled date; delayed until March; McSharry green card holder, not U.S. citizen; bad behavior; drunken assaults and harassment.
+      - Marcus McDowell: City Attorney; poor job protecting community; past offenses not enough; did good job protecting council, especially Burrell, with tax dollars; changed voting date at last minute; provided 1 voting booth per precinct; long waits to vote.
+
+      THE DISCOVERY:
+      - Article 2: “KNOCK ON DOORS”; source: Lagniappe Mobile.
+      - Baldwin County experiencing explosion of growth, especially middle and coastal part.
+      - 2018: no mega deals developed for Baldwin County; county enjoyed stellar year of growth in manufacturing and retail; Baldwin County number one in state in incoming business, workforce talent attraction, and job growth.
+      - Baldwin County gain of 200 jobs; four new or relocated companies; 200 jobs gained; offset by 200 job loss; lack of manufacturing.
+      - North Baldwin still has onion/mega site; nobody knocking on doors, full time, trying to sell mega site; nobody; waiting on phone to ring.
+      - Baldwin County Commission, State Senator and Representatives, and Mayors should look for sales people who knock on doors.
+      - Specific marketing approach should target large and small scale manufacturing in North Baldwin; possible incentives for independent sales people; more knocking on doors better.
+      - Stop waiting for the phone to ring, knock on doors.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 showed/revealed Baldwin County economic development context as of 2018.
+      - Article 1 Fairhope conflict involves Catalyst Council, Triangle Lawsuit, council, development, obstruction, and local government.
+      - Article 2 context of Baldwin County growth, mega site, lack of manufacturing is key background for Article 1.
+      - Article 2 is the “smoking gun” or key context because its “knock on doors” theme and inaction contrast with Article 1’s accusations of obstruction, Catalyst Council, and council inaction.
+
+      KEY ENTITIES:
+      - Lowery, Wilters, etc.
+      - Fairhope, Alabama
+      - Mayor Wilson
+      - Catalyst Council
+      - City Council members Boone and Burrell
+      - Buddy Breland
+      - Triangle Lawsuit
+      - Ronan McSharry / McSharrys / McSharry Bar and Restaurant
+      - Marcus McDowell
+      - Baldwin County Commission
+      - Baldwin County, Alabama
+      - Lagniappe Mobile
+      - North Baldwin
+      - Onion/Mega Site
+      - State Senator and State Representatives
+      - Baldwin County Mayors
+      - Dean Mosher
+      - Matt Bowers
+      - Kant
+      - McSharrys
+      - Boone, Burrell, Breland, Catalyst, McSharry, Ronan, Triangle Lawsuit, Wilson
+    llm_text: Fairhope’s Mayor Wilson and the Catalyst Council refused to settle the Triangle Lawsuit, even as Baldwin County booms with manufacturing growth. Buddy Breland’s Alabama Supreme Court win and the call to knock on doors show how local obstruction and missed economic opportunity collide.
+    widget_date: "2019-02-01"
+    generated_at: "2026-11-08T03:27:48.802835Z"
+    model_name: recursive/flint-v1.0:free
+  chasing-your-tail:
+    brief: |-
+      THE CONFLICT:
+      *   Dyas lawsuit resulted in a loss of $11.25 million, requiring the city to buy the property.
+      *   Council President Burrell negotiated the Dyas legal settlement without public participation.
+      *   The Triangle lawsuit cost the city $11.25 million (potential settlement under $1 million).
+      *   City council members Boone and Burrell, along with 3 voted-out members, refused to discuss or settle the Triangle lawsuit.
+
+      THE DISCOVERY:
+      *   The Catalyst Council was successful in derailing any change of government in Fairhope.
+      *   The City Attorney takes orders from the council and keeps the Mayor in the dark.
+      *   The council failed to deliver a city budget on time.
+      *   The council displayed a total lack of leadership in allowing the Breland case to progress without attempting to settle.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of council obstruction, secretive decision-making (Dyas/settlement), and poor financial management ($11.25M loss) which directly informs the current refusal by Boone and Burrell to settle the Triangle lawsuit and the continued lack of leadership in the Breland case (Article 1).
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Catalyst Council
+      *   Boone (Council Member)
+      *   Burrell (Council Member/Council President)
+      *   Buddy Breland (Developer)
+      *   Ronan McSharry (Subject of charges)
+      *   Marcus McDowell (City Attorney)
+      *   Dean Mosher (Developer)
+      *   Matt Bowers (Developer)
+      *   Triangle Lawsuit
+      *   Breland Case
+      *   Dyas lawsuit
+      *   Fairhope City Council
+    llm_text: Council President Burrell negotiated the $11.25 million Dyas loss without public input. Council Members Boone and Burrell now refuse to settle the Triangle lawsuit, revealing a clear pattern of obstruction and poor leadership in Fairhope.
+    widget_date: "2018-12-14"
+    generated_at: "2026-11-08T03:30:10.514717Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-of-the-city-2019:
+    brief: |-
+      THE CONFLICT:
+      *   Triangle Lawsuit cost the city $11.25 million; could have settled for under $1 million.
+      *   City Council members Boone, Burrell, and Kant, along with three voted-out members, refused settlement/discussion.
+      *   Previous Mayor and Council misused utility funds; previous Mayor drew a second city paycheck from the utility fund of $60,000 a year.
+
+      THE DISCOVERY:
+      *   In 2019, the City Debt of $6.83 million was scheduled to be paid in full by June 2019.
+      *   Fairhope secured $18 million in BP Restore Act Funded Projects, including $10 million for sewer upgrades, which the previous administration overlooked.
+      *   Mayor Wilson ceased the unethical practice of the previous administration drawing a second city paycheck from the utility fund.
+      *   Fairhope secured $21 million in Grant funding.
+
+      THE PIVOT:
+      *   Article 2 (2019 State of the City) provides concrete financial evidence ($6.83M debt, $18M grant, $60k salary misuse) detailing the financial mismanagement and fractured bookkeeping system inherited from the previous administration, which Article 1 criticizes (e.g., Triangle lawsuit handling, need for sewer upgrades).
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Boone
+      *   Burrell
+      *   Kant
+      *   Breland
+      *   Catalyst Council
+      *   Ronan McSharry
+      *   Stephanie Hollinghead (Police Chief)
+      *   Marcus McDowell (City Attorney)
+      *   Fairhope
+    llm_text: Council members Boone, Burrell, and Kant allowed a Triangle lawsuit to cost Fairhope $11.25 million instead of settling for under $1 million. Mayor Wilson stopped the previous administration’s $60k utility fund misuse while securing $21 million in vital grants.
+    widget_date: "2019-01-26"
+    generated_at: "2026-11-08T03:31:22.412786Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boiling-frog:
+    brief: |-
+      THE CONFLICT: Triangle Lawsuit cost Fairhope $11.25 million because Mayor Can’t, Council members Boone and Burrell, and three voted-out members refused settlement; historically (A2), the Fairhope, Catalyst, and City Council approved 300 units on Fly Creek (off 98/Parker Road).
+
+      THE DISCOVERY: Article 2 (older) documented the approval of 300 units on Fly Creek (off 98/Parker Road) which, when completed, would add 700-1000 vehicles daily, leading to severe congestion issues on Parker Road and Hwy 98.
+
+      THE PIVOT: Article 2 establishes that the Catalyst Council and City Council have a pattern of prioritizing development/political agenda (approving Fly Creek units) over community well-being (traffic/infrastructure), directly mirroring the obstruction and refusal to settle seen in the Triangle Lawsuit and the ongoing Breland case (Article 1).
+
+      KEY ENTITIES: Fairhope, Catalyst Council, Mayor Wilson, Mayor Can’t, Boone, Burrell, Ronan McSharry, Buddy Breland, Matt Bowers, Dean Mosher, Marcus McDowell, Fly Creek, Parker Road, Hwy 98.
+    llm_text: Fairhope paid $11.25 million in the Triangle Lawsuit because Council members Boone and Burrell refused settlement. They previously approved 300 Fly Creek units, adding 700-1000 daily cars and creating major congestion on Parker Road.
+    widget_date: "2019-01-18"
+    generated_at: "2026-11-08T03:32:45.945882Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  captain-jack:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope, Alabama: Catalyst Council accused of obstruction; alleged goal to overthrow present government in 2020.
+      - Mayor Wilson and staff; Mayor “Can’t”; City Council members Boone and Burrell; three council members voted out.
+      - Fairhope infrastructure, sewer, planning/zoning issues received new administration attention; Catalyst Council had yet accomplished significant; council agenda obstruction.
+      - Triangle lawsuit: cost city 11.25 million; could have been settled for under 1 million; Mayor Can’t, Boone, Burrell, and three voted out refused to settle or discuss settlement.
+      - Fairhope prevailed in Breland court; followed unanimous Alabama Supreme Court decision favoring developer Buddy Breland; lower court verdict appealed back to Supreme Court.
+      - If Mr. Breland wins lawsuit and all previous project permits expire, Fairhope could face millions in damages; city again held hostage by council more intent on obstruction and Catalyst wishes than community good.
+
+      THE DISCOVERY:
+      - Article 2 / Widget: Fairhope Airport Authority special meeting Jan. 8; discussed “notice of availability.”
+      - Notice covered many issues; final draft, particularly leases, bidding procedures, fuel farms, revisited from “failed” process in late 2016.
+      - Subject of series of Ripp Report articles; first article posted Nov. 2016.
+      - Council President Burrell, City liaison on board, showed up late without pen, paper, or notes, borrowed; let Airport Authority Chairman Joe McEnerney know who was Captain.
+      - Captain Jack blasted Joe at about minute 14:00.
+      - Joe McEnerney, Chairman of Board, guaranteed certain “chosen ones” hanger locations prior to any bid process; Joe gave Ripp Report shout out at end of meeting.
+      - Captain Jack made clear no one gets hanger location without Captain Jack’s approval; he should not hold title of city liaison; he has not represented citizens or best interests of community.
+      - Captain Jack ran Airport Authority to satisfaction of 1% or less that use Airport; made sure City Attorney and Municipal Judge appointments went as he wished; hopefully all three leave posts in next election.
+      - Captain Jack dominated Council President position for 7 years; Council learned what Joe has not: Captain Jack is flying the plane, they are only passengers.
+      - Captain Jack needs to be demoted to private.
+
+      THE PIVOT:
+      - Article 2 is older / background / historical context: late 2016 failed lease process, Nov. 2016 first Ripp Report article, Jan. 8 special meeting.
+      - Main Article 1: Catalyst Council, Triangle lawsuit, Burrell, Boone, Mayor Wilson, City Attorney Marcus McDowell, Ronan McSharry, Buddy Breland.
+      - Article 2 is smoking gun / key context for Article 1 because it documents Council President Burrell / Captain Jack control of Airport Authority, failed lease/bidding/fuel farm process, appointments pattern, and City liaison conduct.
+      - Connects to Main Article 1’s claims of council obstruction, Burrell / Catalyst influence, and failed governance.
+
+      KEY ENTITIES:
+      - Lowery
+      - Wilters
+      - Fairhope, Alabama
+      - Mayor Wilson
+      - Mayor Can’t
+      - Catalyst Council
+      - City Council members Boone and Burrell; three members voted out
+      - Buddy Breland
+      - Marcus McDowell, City Attorney
+      - Ronan McSharry / McSharry Bar and Restaurant
+      - Joe McEnerney, Airport Authority Chairman
+      - Burrell / Captain Jack
+      - Joe / Captain Jack
+      - Dean Mosher
+      - Matt Bowers
+      - Ripp Report
+      - Fairhope Airport Authority
+      - Alabama Supreme Court
+      - City Attorney / Municipal Judge appointments
+    llm_text: Captain Jack dominated Fairhope’s Airport Authority while Council President Burrell played along, and the failed 2016 lease fight shows how Catalyst Council’s obstruction reached the Triangle lawsuit. If Buddy Breland wins, Fairhope could pay millions instead of settling for under one million.
+    widget_date: "2019-01-11"
+    generated_at: "2026-11-08T03:28:32.426762Z"
+    model_name: recursive/flint-v1.0:free
+  congratulations-fairhope:
+    brief: |-
+      THE CONFLICT: Triangle Lawsuit cost the city $11.25 million because former Mayor Kant, council members Boone and Burrell, and 3 voted-out members refused to discuss or settle the suit.
+      THE DISCOVERY: Mayor Wilson and Economic Director Sherry Botop secured $20 million in BP funds, including $10 million for long-neglected sewer projects and $650,000 for an updated comprehensive land use plan.
+      THE PIVOT: Article 2 provides the historical context that Mayor Kant’s earlier proposals (e.g., buying Triangle property or land in the Breland case) were unacceptable and failed, establishing Mayor Wilson's current administration's success in securing necessary infrastructure funds, which addresses the neglect noted in Article 1.
+      KEY ENTITIES: Mayor Wilson, Mayor Kant, Sherry Botop, Wayne Dyess, Boone, Burrell, Breland, Triangle Lawsuit, Catalyst Council, Ronan McSharry, Marcus McDowell, Dean Mosher, Matt Bowers
+    llm_text: Mayor Kant’s refusal to settle the Triangle Lawsuit cost the city $11.25 million. Now, Mayor Wilson and Sherry Botop secured $20 million in BP funds, finally funding neglected sewer projects and updating the comprehensive land use plan.
+    widget_date: "2019-01-04"
+    generated_at: "2026-11-08T03:28:58.427346Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

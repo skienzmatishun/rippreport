@@ -1,0 +1,186 @@
+metadata:
+  generated_at: "2026-11-07T02:03:57.790559Z"
+  generator_version: 1.0.0
+  post_slug: threesome
+  main_date: "2022-02-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pot-calling-the-kettle-black:
+    refined_source: d29a1c02f15d907ef4aa247db4cfd10019c36f226e7fd69775de5893b656ac29
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 of B.P. money while serving as a trustee, resulting in Baldwin County losing millions of B.P. money.
+
+      THE DISCOVERY: Article 2 revealed systemic, high-level corruption in Baldwin County, including political malfeasance (Pittman) and ethical conflicts (Tom Albritton, Ethics Director, using private trust for over $100,000 for college tuition).
+
+      THE PIVOT: Article 2 establishes a documented historical pattern of massive, high-level political corruption within Baldwin County, providing context for the localized, ongoing municipal cover-ups (e.g., insurance settlements instead of city funds, ignoring speed traps) detailed in Article 1.
+
+      KEY ENTITIES:
+      Tripp Pittman
+      B.P.
+      Tom Albritton (Alabama Ethics Commission)
+      David Conner (Spanish Fort City Attorney)
+      Lyndsey Cooper (Spanish Fort)
+      David Wilson (Summerdale Mayor, 28 years)
+      Robert Stankowski (Summerdale Municipal Judge)
+      Spencer Davis (Summerdale Municipal Attorney)
+      Jack Burrell (Fairhope)
+      Baldwin County
+      Spanish Fort
+      Summerdale
+      Fairhope
+    llm_text: 'Former State Senator Tripp Pittman took $750,000 of B.P. money, costing Baldwin County millions. This corruption is systemic: Ethics Director Tom Albritton also misused a private trust for over $100,000 in tuition.'
+    text: Former State Senator Tripp Pittman took $750,000 of BP money, costing Baldwin County millions. Ethics Director Tom Albritton also misused a private trust for tuition.
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-07T01:55:24.994630Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-yes-today:
+    refined_source: ad5bb42e08ac6c456f7f5383ffb7ed31abad936a9d2c929d6ca4f96841c15ec9
+    brief: |-
+      THE CONFLICT: Corruption involving elected officials (Mayors, Municipal Judges, Municipal Attorneys) in Baldwin County, including Spanish Fort, Summerdale, and Fairhope.
+      THE DISCOVERY: Widget Article (Vote YES Today/District Zoning 8) provides no historical conflict facts; it is a current electoral call to action.
+      THE PIVOT: Article 2 does not serve as a smoking gun or key historical context for the corruption described in Article 1, as it contains no specific names, dates, or prior events related to the municipal conflicts.
+      KEY ENTITIES: Baldwin County; Spanish Fort; Summerdale; Fairhope (Fauxhope); David Conner (City Attorney); Lyndsey Cooper; David Wilson (Mayor, 28 years); Robert Stankowski (Municipal Judge); Spencer Davis (Municipal Attorney); Jack Burrell; 2019 annual report; 4,000 traffic citations.
+    llm_text: Baldwin County officials, including Mayor David Wilson and City Attorney David Conner, face corruption allegations across Spanish Fort, Summerdale, and Fairhope. Demand accountability and review the municipal conflicts affecting your local government.
+    text: Baldwin County officials face corruption allegations across Spanish Fort, Summerdale, and Fairhope. Demand accountability and review the municipal conflicts in your local government.
+    widget_date: "2022-02-15"
+    generated_at: "2026-11-07T01:57:58.861455Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-days:
+    refined_source: 4cc2dab2917bd5a852b2f8618376349011bb6d4fdde7f29bec8c98e4e1674a5f
+    brief: |-
+      THE CONFLICT: Systemic political corruption in Baldwin County; Sheriff Hoss Mack used State Senator Tripp Pittman's legislation to eliminate competition, allowing Mack to run unopposed for three terms; State Senator Elliott and Sheriff Mack have a design-based political connection (Elliott's wife works for Mack); Fairhope council, municipal attorney, and municipal judge are linked to developers and misspent millions on projects.
+
+      THE DISCOVERY: Article 2, the older context, revealed that Baldwin County corruption was deeply rooted in political cronyism, exemplified by the $65 million plan for a 900+ bed jail (Hoss Mack Judicial Center) in Bay Minette, and lack of police accountability (no officer ever found guilty by Mack’s Major Crimes Division).
+
+      THE PIVOT: Article 2 demonstrates the established, high-level system of political and judicial collusion (e.g., Fairhope's "good ole boys," Mack/Elliott connection) which provides the foundational context for the specific municipal corruption events detailed in Article 1, where Mayors, Municipal Judges, and Municipal Attorneys across Spanish Fort, Summerdale, and Fairhope are implicated in questionable activities.
+
+      KEY ENTITIES:
+      Baldwin County
+      Hoss Mack (Sheriff)
+      State Senator Tripp Pittman
+      State Senator Elliott
+      Tom Albritton (Ethics Executive Director)
+      Fairhope Council/Municipal Attorney/Municipal Judge
+      Bay Minette
+      $65 million (Jail cost)
+      Mayor David Wilson (Summerdale)
+      Robert Stankowski (Summerdale Municipal Judge)
+      Spencer Davis (Summerdale Municipal Attorney)
+      David Conner (Spanish Fort City Attorney)
+      Lyndsey Cooper (Spanish Fort settlement)
+      Jack Burrell (Fairhope Airport)
+      2019 (Summerdale annual report date)
+      2020 (Summerdale census date)
+    llm_text: Sheriff Hoss Mack used State Senator Tripp Pittman's legislation to eliminate competition and run unopposed in Baldwin County. This systemic cronyism, linking Mack and State Senator Elliott to Fairhope council corruption, shows how millions were misspent by local officials.
+    text: Sheriff Hoss Mack used legislation from State Senator Tripp Pittman to run unopposed in Baldwin County. This cronyism links local officials to millions in misspent funds.
+    widget_date: "2022-02-11"
+    generated_at: "2026-11-07T01:59:19.181269Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mcsharry-madness:
+    refined_source: 7fe37471f2561f4c4198348d5cd4aa6d58d69488114c1057ba77ab4dd3bf82b3
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted Paula DiNardi at Little Whiskey Christmas Club in Fairhope; Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts and imposed 180 days; Baldwin County Circuit Judge Clark Stankoski dismissed the serious assault charge.
+      THE DISCOVERY: Article 2 revealed that Fairhope’s judicial system was compromised, with Municipal Judge Haymes Snedeker being a major developer, the City Council and Mayor Jack Burrell having ties to McSharry's bar, and Fairhope City Attorney Marcus McDowell failing to file the assault charge.
+      THE PIVOT: Article 2 establishes the specific judicial corruption and influence in Fairhope (Snedeker/Burrell/McDowell), providing the concrete example of a failed justice system that mirrors the pattern of generalized cover-ups and reliance on insurance settlements (e.g., Spanish Fort/Lyndsey Cooper) detailed in Article 1.
+      KEY ENTITIES: Ronan McSharry, Paula DiNardi, Haymes Snedeker, Clark Stankoski, Marcus McDowell, Jack Burrell, David Conner, David Wilson, Robert Stankowski, Spencer Davis, Lyndsey Cooper, Baldwin County Sheriff.
+    llm_text: Judge Haymes Snedeker, a developer, compromised justice when he found Ronan McSharry guilty of assaulting Paula DiNardi. Marcus McDowell failed to file charges while Mayor Jack Burrell tied the local power structure to McSharry's bar.
+    text: Judge Haymes Snedeker found Ronan McSharry guilty of assaulting Paula DiNardi. Marcus McDowell failed to file charges while Mayor Jack Burrell tied the local power structure to the bar.
+    widget_date: "2021-11-26"
+    generated_at: "2026-11-07T02:00:58.017545Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  get-zoned-or-get-screwed:
+    refined_source: b197921f942170c7a67ae44602798b47742ad4a308aef3d0abc96466113e4e35
+    brief: |-
+      THE CONFLICT: Fairhope Mayor Sullivan and City Council chose to "embrace development" through proposed zoning districts 8 and 37, prioritizing developer interests over community quality of life.
+      THE DISCOVERY: The older article (Widget) revealed that county land within the 5-mile limit (District 37) lacked regulation, creating a "wild west" environment susceptible to unchecked development, and detailed the impact of proposed District 8 development on the African American community near RSA/Thomason Hall Road.
+      THE PIVOT: Article 2 establishes that Fairhope's leadership actively supported development over regulation, setting the context for the pattern of official misconduct (involving the Judge and Municipal Attorney, as noted in Article 1) where city officials evade accountability by ensuring legal issues are settled by insurance funds rather than city funds (e.g., Jack Burrell's conflict and the general trend in Spanish Fort/Summerdale).
+      KEY ENTITIES: Fairhope Mayor Sullivan, Jack Burrell, David Conner, Lyndsey Cooper, Mayor David Wilson, Robert Stankowski, Spencer Davis, Elizabeth Gabel Wilso
+    llm_text: Fairhope Mayor Sullivan championed Zoning 8 and 37, creating a "wild west" environment that pressures the African American community near RSA/Thomason Hall Road. Read how city officials evade accountability, using insurance funds instead of city resources to protect developer interests.
+    text: Fairhope Mayor Sullivan pushed Zoning 8 and 37, pressuring the African American community near Thomason Hall Road. City officials use insurance funds to protect developers.
+    widget_date: "2021-11-19"
+    generated_at: "2026-11-07T01:56:35.867250Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-cloud:
+    refined_source: 33b425d684f7b397ed241d06da88400c7f6848d3214a35d4704af4ab6cc404f6
+    brief: |-
+      THE CONFLICT:
+      1. Land fraud involving Bass, Burke (President of Baldwin County Sewer Service), and Delaney (South Alabama lender) over the past two decades.
+      2. Judicial voter disenfranchisement involving successive reappointment of Judge Thomason for more than a decade, violating a 180-day limit.
+      3. Ethics violations by Tom Albritton (Executive Director of Alabama Ethics Commission) for "self-dealing" using a private charitable trust to pay over $100,000 for college tuition.
+      4. Baldwin County Sheriff "Boss" Mack's attempt to hide investigation materials (video/documentary evidence) despite needing $700,000 for body/car cameras, reinforced by Chief Justice Tom Parker's ruling restricting public access to investigation materials.
+
+      THE DISCOVERY:
+      1. Baldwin County suffers from pervasive corruption across 14 municipalities (Spanish Fort, Summerdale, Fairhope).
+      2. Mayor David Wilson (28 years) in Summerdale admitted to speed trap operations, which requires the Baldwin County Sheriff’s non-involvement.
+      3. In Spanish Fort, a resolution was reached dismissing a case, involving a confidential settlement between the city's insurance company and Lyndsey Cooper (City Attorney David Conner).
+      4. Fairhope issues involve Jack Burrell and the municipal Judge, with no city funds used for related lawsuits (insurance payment only).
+
+      THE PIVOT:
+      1. The Widget Article establishes that systemic corruption, judicial misconduct (Judge Thomason), and lack of transparency are entrenched issues across Baldwin County for decades.
+      2. This background context shows that the municipal-level corruption detailed in the Main Article (Spanish Fort, Summerdale, Fairhope) is not isolated incident but part of the larger, documented "Machine" of unaccountable power (Mayors, Judges, Municipal Attorneys).
+      3. The reliance on insurance payments across all three municipalities (Spanish Fort, Summerdale, Fairhope) reflects the lack of public financial oversight and transparency documented in the Widget Article.
+
+      KEY ENTITIES:
+      1. Baldwin County
+      2. Spanish Fort Mayor
+      3. David Conner (City Attorney, Spanish Fort)
+      4. Lyndsey Cooper
+      5. David Wilson (Mayor, Summerdale, 28 years)
+      6. Robert Stankowski (Municipal Judge, Summerdale)
+      7. Spencer Davis (Municipal Attorney, Summerdale)
+      8. Jack Burrell (Fairhope Airport)
+      9. Tom Albritton (Executive Director, Alabama Ethics Commission)
+      10. Bass, Burke, Delaney
+      11. Judge Thomason
+      12. "Boss" Mack (Baldwin County Sheriff)
+      13. Chief Justice Tom Parker
+    llm_text: Baldwin County hides decades of corruption, from Bass/Burke land fraud to Tom Albritton's ethics violations. See how this systemic failure affects Spanish Fort and Summerdale, where Mayor David Wilson rules for 28 years.
+    text: Baldwin County hides decades of corruption from land fraud to ethics violations. Mayor David Wilson ruled Spanish Fort and Summerdale for 28 years while systemic failures grew.
+    widget_date: "2021-10-08"
+    generated_at: "2026-11-07T02:02:00.075648Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope:
+    refined_source: d2ac6f61045041314db63dc40d8d064927562658e6ffc3506db119073795c2ba
+    brief: |-
+      THE CONFLICT: Municipal corruption and mismanagement in Baldwin County, involving elected officials (Mayors, Judges, Municipal Attorneys) across multiple cities. Specific events include Spanish Fort litigation (settlement involving Lyndsey Cooper, David Conner) and Summerdale speed trap allegations (2019 report, Mayor David Wilson’s 28-year tenure).
+      THE DISCOVERY: Fauxhope's municipal governance involves staggering waste of taxpayer money, delays in projects (waterfront), and questionable land deals (Jack Burrell's liability gifts, $2.5 million K-1 Center purchase in 2019).
+      THE PIVOT: Article 2 (FAUXHOPE) provides historical context showing systemic patterns of favoring developers and mismanaging public funds under past leadership (e.g., Mayor Wilson's initial efforts vs. later Council decisions), reinforcing the claim in Article 1 (THREESOME) that Mayors, Judges, and Municipal Attorneys are consistently involved in questionable practices to avoid accountability (reliance on insurance funds).
+      KEY ENTITIES: Jack Burrell, Mayor Sherry Sullivan, Mayor David Wilson, Council President Burrell, Jay Robinson, David Conner, Lyndsey Cooper, Robert Stankowski, Spencer Davis, City of Fairhope, Spanish Fort, Summerdale, Baldwin County.
+    llm_text: Baldwin County officials—from Mayor David Wilson to Jack Burrell—systemically misuse taxpayer money across multiple cities. See how questionable land deals and municipal waste prove elected officials consistently avoid accountability.
+    text: Baldwin County officials misuse taxpayer money across multiple cities. Questionable land deals and municipal waste prove elected officials avoid accountability.
+    widget_date: "2021-09-24"
+    generated_at: "2026-11-07T02:02:59.634491Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-triangle-mega-site:
+    refined_source: 42af8009acfda8922d676123c637845b3a8fa0496954ffd8eeac61a2c532ec1d
+    brief: |-
+      THE CONFLICT:
+      *   The City of Fairhope purchased the Triangle property to settle a lawsuit.
+      *   This settlement was concealed by Councilman Burrell and Councilman Boone for 6 years, including Mayor Kant.
+      *   The settlement lacked public participation.
+
+      THE DISCOVERY:
+      *   The lawsuit settlement cost the City of Fairhope $11.25 million.
+      *   Associated legal fees totaled $3 million.
+      *   The property was purchased as a settlement, not a voluntary city park/conservation easement.
+      *   The total cost ($14.25M) contradicts the later claim that no city funds were involved.
+
+      THE PIVOT:
+      *   Article 1 claims that in Fairhope, the lawsuit settlement only involved insurance money and "no city funds" (citing the municipal attorney).
+      *   Article 2 proves this claim false by detailing the $11.25 million city settlement cost and the $3 million in legal fees, establishing a significant public financial liability.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Triangle property
+      *   Councilman Burrell
+      *   Councilman Boone
+      *   Mayor Kant
+      *   Baldwin County Commissioners
+      *   Municipal Judge
+      *   City hired attorneys
+      *   BP Restore funds ($17.2 million)
+    llm_text: Councilmen Burrell and Boone, along with Mayor Kant, concealed a $14.25 million lawsuit settlement involving the Triangle property in Fairhope for six years. Learn how this massive secret contradicts claims that "no city funds" were involved and why taxpayers deserve the full truth.
+    text: Councilmen Burrell and Boone, along with Mayor Kant, hid a $14.25 million lawsuit settlement in Fairhope for six years. Taxpayers deserve the full truth about these city funds.
+    widget_date: "2018-03-30"
+    generated_at: "2026-11-07T02:03:40.687417Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

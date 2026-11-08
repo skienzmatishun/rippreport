@@ -5,102 +5,20 @@ metadata:
   main_date: "2026-01-26"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  fauxhope-know-the-backstory:
-    brief: |-
-      THE CONFLICT:
-      *   Former Mayor Tim Kant first proposed re-establishing creek biological and hydraulic connectivity in 2014.
-      *   The Publix project on Parker Road and subsequent apartment construction caused culvert, sewer line, and wetland issues near Fly Creek.
-      *   A culvert failure occurred in 2023, requiring emergency repairs.
-      *   The city applied for a $20 million BUILD grant to replace failed Fly Creek box-culverts, but applications in 2024 and 2025 were unsuccessful.
-
-      THE DISCOVERY:
-      *   The Fairhope City Council aided and abetted developer Angelo Corte, supporting development over overwhelming public outcry.
-      *   Dredging at Fairhope Marina is necessary every five years due to development on Fly Creek (Publix/apartments).
-      *   The mud in the marina matches the DNA profile of the Publix construction.
-      *   Fly Creek at Highway 98 shows high bacteria levels (> 104 MPN/100ml), reported by Baykeeper.
-
-      THE PIVOT:
-      *   The historical record (Widget Article) demonstrates a pattern of local government (Fairhope City Council) prioritizing developer profit over community and environmental health, providing context for the current accusations of systemic failure ("Catalyst Cabal," "Faux Pas") cited in the Main Article.
-      *   The neglect of infrastructure and environmental standards in Fairhope establishes precedent for political corruption in local development, relevant to the political race (Richard Cox) and current legislative issues (Donna Givens/Summerdale).
-
-      KEY ENTITIES:
-      *   Richard Cox
-      *   Donna Givens
-      *   Brandon Moseley
-      *   Whitney Scapecchi
-      *   Harry Still
-      *   Hoss Mack
-      *   BCSO
-      *   Summerdale
-      *   Fly Creek Culvert
-      *   Publix
-      *   Mayor Kant (Former)
-      *   Mayor Sullivan
-      *   Mayor Wilson
-      *   Angelo Corte
-      *   Baldwin County Commission District 1
-    llm_text: Angelo Corte's Publix project led to Fly Creek culvert failure and high bacteria, yet the Fairhope City Council aided and abetted the development. See how local government prioritized profit over community health.
-    widget_date: "2026-01-25"
-    generated_at: "2026-11-06T09:39:48.341083Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  summerdale-sunshine:
-    brief: |-
-      THE CONFLICT:
-      *   Donna Black Givens made a publicly deleted comment outlining behind-the-scenes coordination regarding who was invited and allowed to speak at SUMMERDALE SUNRISE.
-      *   Donna Givens supported bill HB51, which threatened constitutional free speech rights regarding "harassment."
-      *   Donna Givens attempted to turn on Jeremiah Giles and Billy Jo Underwood to support Kristy Haygood.
-      *   Scott Boone (aka Catalyst) and his associates faced significant political backlash, with candidates advising against voting for Catalyst candidates.
-
-      THE DISCOVERY:
-      *   Whitney Scapecchi documented evidence (screenshots, audio references) proving Donna Givens' private intent to control events, contradicting her public claims.
-      *   The widget article established that Scott Boone's Catalyst group was viewed as "toxic" and a source of political stain in Baldwin County.
-      *   The widget article detailed Kristy Haygood’s disqualification for judge due to Rule 32 filing errors in Murray Lawrence Jr.'s wrongful conviction case, linked to Robert Wilters.
-
-      THE PIVOT:
-      *   Article 2 provides the historical "receipts" (Scapecchi's documentation) of Donna Givens' manipulative intent and the documented history of the "Catalyst" toxicity, validating the current claims in Article 1 that the "Catalyst Cabal" is real and the "Faux Pas" is not fictitious.
-
-      KEY ENTITIES:
-      *   Donna Givens (Donna Black Givens)
-      *   Jeremiah Giles
-      *   Scott Boone (Catalyst)
-      *   Jon Gray
-      *   Kristy Haygood
-      *   Frances Jones
-      *   Summerdale / Fort Morgan
-      *   Richard Cox
-      *   Brandon Moseley
-      *   Hoss Mack
-      *   Lowery
-      *   Robert Wilters
-      *   Whitney Scapecchi
-      *   Chris Elliott
-      *   Eddie Tyler
-      *   HB51
-    llm_text: Whitney Scapecchi found receipts proving Donna Givens planned to control Summerdale Sunrise events, contradicting her public stance on HB51. See how Givens manipulated Jeremiah Giles and Billy Jo Underwood, validating why Scott Boone’s Catalyst group is a political stain in Baldwin County.
-    widget_date: "2026-01-24"
-    generated_at: "2026-11-06T09:41:56.494765Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  new-years-2026:
-    brief: |-
-      THE CONFLICT: Whitney Scapecchi and Dr. John Sophocleus discussed the year 2025 in a "NEW YEARS SPECIAL" podcast.
-      THE DISCOVERY: Article 2 established Whitney Scapecchi's involvement in discussions regarding Epstein, THC, Venezuela, and Trump.
-      THE PIVOT: Article 2 provides the background context of Scapecchi's activist platform prior to her participation in the discussion about the "Faux Pas" by Rep Donna Givens in Summerdale (Article 1).
-      KEY ENTITIES: Whitney Scapecchi, Dr. John Sophocleus, Donna Givens, Richard Cox, Brandon Moseley, Huey Mack, Southern Freedom Press, Summerdale, BCSO, Alabama Gazette
-    llm_text: Whitney Scapecchi discussed 2025, Epstein, THC, and Trump with Dr. John Sophocleus on their "New Years Special." Discover the background of her platform before the Donna Givens "Faux Pas" in Summerdale, revealing deeper connections.
-    widget_date: "2026-01-01"
-    generated_at: "2026-11-06T09:43:05.868740Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   former-summerdale-police-chief-kevin-brock:
+    refined_source: b2d928497d16b661580e9c92883f82c7c143398143649c06f03624519791bdb6
     brief: |-
       THE CONFLICT: Chief Kevin Brock was investigated, fired, and indicted two years after being targeted by the Baldwin County Law Enforcement Propaganda Machine; charges were later dropped. Harry Still was arrested for an unlawful misdemeanor outside officer presence, violating the Code of Alabama.
       THE DISCOVERY: The Baldwin County law enforcement apparatus, led by Anthony Lowery (formerly DA’s Office), used WKRG News 5 and Debbie Williams to cover and propagate negative stories regarding Brock and Still.
       THE PIVOT: This documented history of law enforcement misconduct (Article 2) provides the necessary context for understanding the current "dirty politics" and the alleged "Catalyst Cabal" (Donna Givens' "Faux Pas") detailed in Article 1, establishing a pattern of political manipulation within Summerdale/Baldwin County.
       KEY ENTITIES: Kevin Brock, Dr. Lori Brock, Anthony Lowery, Harry Still, Debbie Williams, Richard Cox, Donna Givens, Huey Mack, Brandon Moseley, BCSO, Summerdale, Baldwin County Commission District 1.
     llm_text: Baldwin County law enforcement used WKRG News 5 to propagate negative stories against Kevin Brock and Harry Still. This documented pattern of misconduct reveals how the "Catalyst Cabal" and current "dirty politics" operate in Summerdale.
+    text: Baldwin County law enforcement used local media to publish negative stories against Kevin Brock and Harry Still. This documented pattern of misconduct reveals how local political figures operate.
     widget_date: "2025-11-26"
     generated_at: "2026-11-06T09:44:13.743221Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   heart-of-dixie-podcast:
+    refined_source: 256ac8eaa68020cffd5746d5c34526211a440c1348ae839aa48348baadfc5210
     brief: |-
       THE CONFLICT:
       *   Harry Still was arrested and incarcerated following an incident involving Bay Minette City Councilman Matthew Franklin.
@@ -131,10 +49,12 @@ hooks:
       *   Brandon Moseley
       *   Francis Paul Ripp
     llm_text: Matthew Franklin threatened Harry Still, yet Sheriff Anthony Lowery ordered BCSO deputies to pre-target Still at a Republican event. Leaked emails prove this wasn't a simple incident but political corruption targeting Still.
+    text: Matthew Franklin threatened Harry Still, and Sheriff Anthony Lowery ordered deputies to pre-target Still at a public event. Leaked emails exposed this targeted political operation against Still.
     widget_date: "2025-11-21"
     generated_at: "2026-11-06T09:40:43.905276Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shadow-government:
+    refined_source: 40a9a732dfb3b28766d432c92f4a8009f265211471acfa6138be3438ad90483d
     brief: |-
       THE CONFLICT:
       *   Baldwin County/Fairhope was historically run by a shadow government referred to as Catalyst or Gumbo.
@@ -174,6 +94,98 @@ hooks:
       *   Baldwin County Commission District 1
       *   Fairhope
     llm_text: The Catalyst shadow government historically targeted Mayor Wilson and Chief Pettis in Fairhope. Article 2 proves this powerful local cabal is real, connecting their pattern of manipulation to Rep Donna Givens' recent "Faux Pas."
+    text: Local political networks previously targeted Mayor Karin Wilson and Police Chief J.B. Pettis in Fairhope. This powerful cabal maintains a documented pattern of manipulation across the county.
     widget_date: "2018-08-03"
     generated_at: "2026-11-06T09:45:41.123601Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-know-the-backstory:
+    refined_source: 404bf80550c92f89c2d5cac220c14adcdcf2b97a114546b103e6fc52c1ccee66
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Tim Kant first proposed re-establishing creek biological and hydraulic connectivity in 2014.
+      *   The Publix project on Parker Road and subsequent apartment construction caused culvert, sewer line, and wetland issues near Fly Creek.
+      *   A culvert failure occurred in 2023, requiring emergency repairs.
+      *   The city applied for a $20 million BUILD grant to replace failed Fly Creek box-culverts, but applications in 2024 and 2025 were unsuccessful.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council aided and abetted developer Angelo Corte, supporting development over overwhelming public outcry.
+      *   Dredging at Fairhope Marina is necessary every five years due to development on Fly Creek (Publix/apartments).
+      *   The mud in the marina matches the DNA profile of the Publix construction.
+      *   Fly Creek at Highway 98 shows high bacteria levels (> 104 MPN/100ml), reported by Baykeeper.
+
+      THE PIVOT:
+      *   The historical record (Widget Article) demonstrates a pattern of local government (Fairhope City Council) prioritizing developer profit over community and environmental health, providing context for the current accusations of systemic failure ("Catalyst Cabal," "Faux Pas") cited in the Main Article.
+      *   The neglect of infrastructure and environmental standards in Fairhope establishes precedent for political corruption in local development, relevant to the political race (Richard Cox) and current legislative issues (Donna Givens/Summerdale).
+
+      KEY ENTITIES:
+      *   Richard Cox
+      *   Donna Givens
+      *   Brandon Moseley
+      *   Whitney Scapecchi
+      *   Harry Still
+      *   Hoss Mack
+      *   BCSO
+      *   Summerdale
+      *   Fly Creek Culvert
+      *   Publix
+      *   Mayor Kant (Former)
+      *   Mayor Sullivan
+      *   Mayor Wilson
+      *   Angelo Corte
+      *   Baldwin County Commission District 1
+    llm_text: Angelo Corte's Publix project led to Fly Creek culvert failure and high bacteria, yet the Fairhope City Council aided and abetted the development. See how local government prioritized profit over community health.
+    text: Angelo Corte's development project caused a culvert failure and high bacteria levels while the city council aided the construction. Local government prioritized developer profit over community health.
+    widget_date: "2026-01-25"
+    generated_at: "2026-11-06T09:39:48.341083Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  summerdale-sunshine:
+    refined_source: 1d9e9b636f04cd5dd2d15cd43549fae70741510a0bf34e0eb99eacccf82e0513
+    brief: |-
+      THE CONFLICT:
+      *   Donna Black Givens made a publicly deleted comment outlining behind-the-scenes coordination regarding who was invited and allowed to speak at SUMMERDALE SUNRISE.
+      *   Donna Givens supported bill HB51, which threatened constitutional free speech rights regarding "harassment."
+      *   Donna Givens attempted to turn on Jeremiah Giles and Billy Jo Underwood to support Kristy Haygood.
+      *   Scott Boone (aka Catalyst) and his associates faced significant political backlash, with candidates advising against voting for Catalyst candidates.
+
+      THE DISCOVERY:
+      *   Whitney Scapecchi documented evidence (screenshots, audio references) proving Donna Givens' private intent to control events, contradicting her public claims.
+      *   The widget article established that Scott Boone's Catalyst group was viewed as "toxic" and a source of political stain in Baldwin County.
+      *   The widget article detailed Kristy Haygood’s disqualification for judge due to Rule 32 filing errors in Murray Lawrence Jr.'s wrongful conviction case, linked to Robert Wilters.
+
+      THE PIVOT:
+      *   Article 2 provides the historical "receipts" (Scapecchi's documentation) of Donna Givens' manipulative intent and the documented history of the "Catalyst" toxicity, validating the current claims in Article 1 that the "Catalyst Cabal" is real and the "Faux Pas" is not fictitious.
+
+      KEY ENTITIES:
+      *   Donna Givens (Donna Black Givens)
+      *   Jeremiah Giles
+      *   Scott Boone (Catalyst)
+      *   Jon Gray
+      *   Kristy Haygood
+      *   Frances Jones
+      *   Summerdale / Fort Morgan
+      *   Richard Cox
+      *   Brandon Moseley
+      *   Hoss Mack
+      *   Lowery
+      *   Robert Wilters
+      *   Whitney Scapecchi
+      *   Chris Elliott
+      *   Eddie Tyler
+      *   HB51
+    llm_text: Whitney Scapecchi found receipts proving Donna Givens planned to control Summerdale Sunrise events, contradicting her public stance on HB51. See how Givens manipulated Jeremiah Giles and Billy Jo Underwood, validating why Scott Boone’s Catalyst group is a political stain in Baldwin County.
+    text: Whitney Scapecchi found records showing Donna Givens planned to control public events in Summerdale. Givens manipulated local figures, revealing deep political corruption in Baldwin County.
+    widget_date: "2026-01-24"
+    generated_at: "2026-11-06T09:41:56.494765Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-years-2026:
+    refined_source: bcc01bab79a74e979f168b6800560111fb617f17cad49c0e1d2405f4ff9c1e51
+    brief: |-
+      THE CONFLICT: Whitney Scapecchi and Dr. John Sophocleus discussed the year 2025 in a "NEW YEARS SPECIAL" podcast.
+      THE DISCOVERY: Article 2 established Whitney Scapecchi's involvement in discussions regarding Epstein, THC, Venezuela, and Trump.
+      THE PIVOT: Article 2 provides the background context of Scapecchi's activist platform prior to her participation in the discussion about the "Faux Pas" by Rep Donna Givens in Summerdale (Article 1).
+      KEY ENTITIES: Whitney Scapecchi, Dr. John Sophocleus, Donna Givens, Richard Cox, Brandon Moseley, Huey Mack, Southern Freedom Press, Summerdale, BCSO, Alabama Gazette
+    llm_text: Whitney Scapecchi discussed 2025, Epstein, THC, and Trump with Dr. John Sophocleus on their "New Years Special." Discover the background of her platform before the Donna Givens "Faux Pas" in Summerdale, revealing deeper connections.
+    text: Whitney Scapecchi discussed public policy topics with Dr. John Sophocleus on a holiday broadcast. This interview revealed the background of her political platform in Summerdale.
+    widget_date: "2026-01-01"
+    generated_at: "2026-11-06T09:43:05.868740Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

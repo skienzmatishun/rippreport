@@ -1,0 +1,125 @@
+metadata:
+  generated_at: "2026-11-07T09:44:38.688645Z"
+  generator_version: 1.0.0
+  post_slug: got-fleas
+  main_date: "2021-04-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-76-a-plague-of-apathy:
+    refined_source: 4dd8ce5e2ed346bb9090083ef9374eef51bbfd557fb2006a3c411d2c7a69a004
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted a rival bar manager in Fairhope on Thanksgiving night 2018; in 2020, Mr. Ripp demanded answers regarding the McSharry Assault Case before the Fairhope City Council.
+      THE DISCOVERY: Article 2 revealed apathy in Baldwin County regarding the 2018 assault case and pointed to issues within the Mobile County Sheriffs Office.
+      THE PIVOT: Article 2 establishes a historical pattern of local political apathy and systemic failures within Baldwin County government (2020 City Council/Mobile County Sheriffs Office), providing context for the political distortions and special interests affecting the $6.2 million Fairhope Waterfront Project in Article 1.
+      KEY ENTITIES: Fairhope, Ronan McSharry, Ripp, Mayor Wilson, Sherry Sullivan, Howell Raines, Jack Burrell, RESTORE Act, Mobile County Sheriffs Office.
+    llm_text: Ronan McSharry assaulted a rival bar manager in Fairhope in 2018. Ripp demanded answers, but systemic apathy within the Mobile County Sheriffs Office allowed the case to fail, fueling the political distortions around the $6.2M Waterfront Project.
+    text: Ronan McSharry assaulted a bar manager in Fairhope in 2018. The Mobile County Sheriff Office dropped the investigation while political disputes grew around the waterfront project.
+    widget_date: "2021-03-21"
+    generated_at: "2026-11-07T09:40:42.137512Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-justice:
+    refined_source: 9c71409b6a9cd62659d283cf9a5f3911966c153c7441553136254be953b84d32
+    brief: |-
+      THE CONFLICT:
+      *   Former elected officials involved in corruption include Sen Tripp Pittman (theft of $750,000 BP money), former Mayor Cant (misuse of FEMA funds), Councilman Robert Brown (inside deal with Fairhope Art Center), and Jack Burrell (bid rigging).
+      *   The McSharry case involved Ronan McSharry assaulting Paula DiNardi; Municipal Attorney Marcus McDowell failed in his duties by not adequately handling the physical assault charge.
+      *   These actions are linked to the organization CATALYST.
+
+      THE DISCOVERY:
+      *   Article 2 establishes CATALYST as the common denominator linking multiple instances of political corruption and abuse of law among Fairhope and Baldwin County elected officials.
+
+      THE PIVOT:
+      *   Article 2 provides historical context, specifically linking Council President Jack Burrell to bid rigging and systemic corruption (CATALYST), which contextualizes the political distortions and lack of public vetting seen in the $6.2 million Fairhope Waterfront Project (Article 1).
+
+      KEY ENTITIES:
+      *   Fairhope Waterfront Project
+      *   $6.2 million
+      *   RESTORE Act (BP oil spill funds)
+      *   Mayor Wilson
+      *   Sherry Sullivan
+      *   Howell Raines
+      *   Jack Burrell
+      *   Ronan McSharry
+      *   Paula DiNardi
+      *   Marcus McDowell (Municipal Attorney)
+      *   CATALYST
+      *   Council President Jack Burrell (historical corruption)
+    llm_text: Sen Tripp Pittman stole $750,000 in BP money, but CATALYST links him to other corrupt officials like Jack Burrell. Read how this systemic network ties local bid rigging directly to the $6.2 million Fairhope Waterfront Project.
+    text: Trip Pittman took $750,000 in BP funds while political networks tied local bid rigging to the Fairhope Waterfront Project. Read the documented connections between these officials.
+    widget_date: "2020-05-21"
+    generated_at: "2026-11-07T09:41:50.585194Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-party:
+    refined_source: dab1637f6008bb1f00f9d8b65b84414c08dbc823f88d336f40f7a0bb79f548e6
+    brief: |-
+      THE CONFLICT:
+      *   During COVID-19 advisement and Governor's orders, Fairhope City Council postponed all public hearings (City Council, Planning Commission, Board of Adjustments and Appeals).
+      *   Council President Jack Burrell negotiated a $525,000 purchase of 1000 square feet of land for a clock, later requiring a $10,000 Environmental Site Assessment.
+      *   The City executed an Extension No. 2 of Bid 020-18 (Disaster Debris Removal) with Crowder Gulf, LLC, a contract previously held by Sen Tripp Pittman under the previous Mayor.
+      *   The City of Fairhope purchased an E-ONE Custom Rescue Pumper Fire Truck for $517,157.00 from a joint 60/40 split with the Fairhope Volunteer Fire Department.
+
+      THE DISCOVERY:
+      *   The City Council, led by Jack Burrell, made significant financial and contractual decisions (e.g., clock purchase, fire truck acquisition, farmland deals) while adhering to or circumventing public gathering limitations (COVID-19 restrictions).
+      *   Council President Burrell authorized the cancellation of public participation during the "stay at home order."
+      *   Sherry Sullivan was promoted by Council members (Burrell, Brown) as a potential "CATALYST" candidate for Mayor.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of council actions (prior to the current Waterfront debate) involving limited public participation, politically influenced contracts, and short-sighted deals during a public health crisis.
+      *   This history undercuts the argument (made by Howell Raines in Article 1) that the current administration's lack of public vetting is a unique or newly developed failure, showing a precedent for limited public input dating back to COVID-19 council actions.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Mayor Karin Wilson
+      *   Howell Raines
+      *   Sherry Sullivan
+      *   Jack Burrell
+      *   Mr. Brown
+      *   Sen Tripp Pittman
+      *   Goodwin, Mills and Cawood
+      *   Crowder Gulf, LLC
+      *   RESTORE Act
+      *   Mobile Bay
+      *   $6.2 million
+      *   $517,157.00
+      *   $2.65 million (farmland)
+    llm_text: Jack Burrell led the Fairhope City Council to spend $517,157 on a fire truck and secure clock land while bypassing public hearings during COVID-19. This pattern shows limited public input is not a new failure but a long-standing history of council decisions.
+    text: Jack Burrell led the Fairhope City Council to spend $517,157 on a fire truck without public hearings during COVID-19. The council bypassed public input on major purchases.
+    widget_date: "2020-04-16"
+    generated_at: "2026-11-07T09:43:10.612049Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lost-opportunity:
+    refined_source: b694fa9bffe7626db4926825d69144e081e6dbe3e482c2d22332503693cd0733
+    brief: |-
+      THE CONFLICT: Councilman Burrell Boone and Burrell insisted on purchasing recreation land near the airport, a $2.6 million expenditure, rather than leasing the same property for $9,000 annually (prior to Aug 25 municipal election).
+      THE DISCOVERY: The $2.6 million land purchase led to the Mayor cutting the city budget (staff, police, fire) to compensate for anticipated COVD-19 income loss.
+      THE PIVOT: The prior pattern of "CATALYST" council prioritizing special interests (the $2.6 million land purchase) provides context for the current political distortions used to water down the $6.2 million Fairhope Waterfront Project, shifting it from a sustainable plan to short-sighted maintenance.
+      KEY ENTITIES: Fairhope, $6.2 million (Waterfront Project), $2.6 million (Budget Cut), RESTORE Act, Mayor Wilson, Sherry Sullivan, Howell Raines, Council President Jack Burrell, Councilman Burrell Boone.
+    llm_text: Councilman Burrell Boone and Burrell spent $2.6 million buying recreation land instead of leasing it for $9,000. This decision forced Mayor Wilson to cut city budgets, context readers need before the $6.2 million Fairhope Waterfront Project gets watered down.
+    text: Council members spent $2.6 million to buy recreation land instead of leasing it for $9,000. That purchase forced Mayor Karin Wilson to cut municipal budgets.
+    widget_date: "2020-03-26"
+    generated_at: "2026-11-07T09:44:23.209985Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-of-concern:
+    refined_source: 85fd98bc3b0b3380a7384de3f75170673f10a0d4f0398082f9d45834e45ccd2b
+    brief: |-
+      THE CONFLICT: In August 2019, Mayor Wilson addressed Mobile Baykeeper regarding the lack of strategic planning and critical infrastructure upgrades (utilities/sewer system) in Fairhope due to inherited neglect.
+      THE DISCOVERY: Mayor Wilson stated that while there was no plan or funding before her term, both were established within less than three years of her taking office to address long-term utility neglect.
+      THE PIVOT: Article 2 establishes the administration's historical focus on foundational, long-term infrastructure solutions (utilities) and the critical need for planning, providing context for Article 1's critique that the $6.2 million Waterfront Project was reduced from a resilient/sustainable plan to "short sighted maintenance" due to political distortion, not a lack of prior commitment to planning.
+      KEY ENTITIES: Mayor Wilson, Howling Raines, Sherry Sullivan, Jack Burrell, Fairhope Waterfront Project, RESTORE Act, City of Fairhope, Mobile Baykeeper
+    llm_text: Mayor Wilson addressed Fairhope's inherited utility neglect in 2019, establishing critical plans within three years. Critics claim the $6.2 million Waterfront Project was short sighted, but Wilson's administration prioritized long-term foundational solutions.
+    text: Mayor Karin Wilson addressed neglected utilities in 2019 and built foundational long-term plans. Critics questioned the waterfront project while her administration fixed basic infrastructure.
+    widget_date: "2019-08-09"
+    generated_at: "2026-11-07T09:39:25.464723Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-slap-on-the-wrist:
+    refined_source: 6f003ed67ab5a8fe496c9ff49725fa6f120ee63d28304aef820c93a3a54c4562
+    brief: |-
+      THE CONFLICT: 2017 incident where Ronan McSharry harassed artist Nall Hollis, resulting in 12-month probation; 2018 incident involving assault on Paula DiNiardi by McSharry, who refused to pay medical expenses; operation of a political cabal (CATALYST/Scott Boone Consulting SBC) involving politicians, judges, and developers in Baldwin County.
+      THE DISCOVERY: Baldwin County/Fairhope municipal government, led by figures like Jack Burrell and Municipal Judge Haymes Snedeker, operates under a political stranglehold by special interests (SBC), undermining public trust and justice.
+      THE PIVOT: The historical pattern of corruption and cronyism (A2) demonstrates the institutional vulnerability and special interest influence that allows the current administration (Mayor Wilson/Council) to distort the $6.2 million Fairhope Waterfront Project, shifting it from a sustainable bluff stabilization plan (funded by the RESTORE Act) to a short-sighted maintenance project for political gain (A1).
+      KEY ENTITIES: Ronan McSharry, Nall Hollis, Paula DiNiardi, Jack Burrell, Haymes Snedeker, Kevin Boone/Scott Boone, Baldwin County Circuit Court Judge Stankoski, Mayor Wilson, Howling Raines, Sherry Sullivan, RESTORE Act, Scott Boone Consulting (SBC).
+    llm_text: Ronan McSharry's 2017 harassment of Nall Hollis and 2018 assault on Paula DiNiardi mirror a larger Baldwin County corruption. Special interests like Scott Boone Consulting now distort the $6.2 million Fairhope Waterfront Project for political gain, not public good.
+    text: Ronan McSharry harassed Nall Hollis in 2017 and assaulted Paula DiNiardi in 2018. Political consultants now use the Fairhope Waterfront Project for political campaigns.
+    widget_date: "2021-03-26"
+    generated_at: "2026-11-07T09:38:38.529592Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

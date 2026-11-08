@@ -1,0 +1,138 @@
+metadata:
+  generated_at: "2026-11-08T04:20:53.451130Z"
+  generator_version: 1.0.0
+  post_slug: captain-jack
+  main_date: "2019-01-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  consequences:
+    brief: |-
+      THE CONFLICT: State Rep. Randy Davis of Daphne was indicted last year on federal conspiracy and bribery charges; Davis is attempting to avoid prosecution via pretrial diversion.
+      THE DISCOVERY: The Council President of Fairhope (Burrell) possesses a police report he did not disclose during his campaign.
+      THE PIVOT: Randy Davis's indictment provides legal precedent and justification for investigating alleged corruption by Fairhope officials ("the three B’s") like Council President Burrell, who was implicated in the failed 2016 lease process and was linked to questionable hanger location guarantees by Chairman Joe McEnerney.
+      KEY ENTITIES: Randy Davis, Tripp Pittman, Council President Burrell (Captain Jack), Joe McEnerney, Fairhope Airport Authority, City Attorney, Municipal Judge
+    llm_text: Randy Davis's federal indictment justifies investigating alleged corruption among Fairhope officials. Council President Burrell holds a crucial, undisclosed police report linking him to past lease process issues.
+    widget_date: "2019-01-09"
+    generated_at: "2026-11-08T04:13:34.190121Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  congratulations-fairhope:
+    brief: |-
+      THE CONFLICT: Mayor Kant previously proposed buying the Triangle property, which led to a lawsuit costing the city 11.25 million. Past corruption involved Pittman and Bentley.
+      THE DISCOVERY: Mayor Wilson and Economic Director Sherry Botop secured 20 million in BP funds, allocated as 6.2 million (waterfront), 10 million (sewer), and 650,000 (comprehensive land use plan).
+      THE PIVOT: Article 2 demonstrates the city's capacity for successful, non-corrupt, financially sound governance (securing BP funds), contrasting sharply with the self-serving and politically entrenched power struggles over airport leases and bids detailed in Article 1 (Jan 8th meeting, revisiting late 2016 failures).
+      KEY ENTITIES: Captain Jack (Council President), Joe McEnerney (Airport Authority Chairman), Mayor Wilson, Sherry Botop (Economic Director), Wayne Dyess (Planning Director), Mayor Kant, Fairhope Airport Authority, Council President Burrell, Pittman, Bentley.
+    llm_text: Mayor Kant’s failed Triangle purchase cost the city $11.25M amid past corruption. Mayor Wilson and Economic Director Sherry Botop secured $20 million in BP funds for vital sewer and waterfront projects, proving sound governance.
+    widget_date: "2019-01-04"
+    generated_at: "2026-11-08T04:19:12.088754Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  listening-not-reading:
+    brief: |-
+      THE CONFLICT:
+      *   In 2011, Mayor filed an ethics complaint against Council President Jack Burrell and Mr. Hix regarding public service and potential ethical violations (linked to the BP oil spill context).
+      *   Jack Burrell engaged in political maneuvering, reportedly agreeing not to run for Mayor in exchange for promised support from Mayor Kant in the next election.
+      *   Following this period, Karin Wilson became Mayor in a first fair/social media supervised election.
+      *   In late 2016, the Fairhope Airport Authority failed a lease process, leading to a 2016 Ripp Report article regarding an infamous lease.
+      *   In January 2017, the Fairhope Airport Authority revisited the failed lease/bidding process, specifically regarding leases, bidding procedures, and fuel farms.
+
+      THE DISCOVERY:
+      *   Article 2 proved that Burrell's alleged conduct—including actions defying standard bidding rules and facing ethics scrutiny—was not new but rooted in past political and ethical conflicts (c. 2011).
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of Burrell using his position for political and personal gain, defying ethics standards, and influencing appointments, providing context that his 2016 actions (guaranteeing "chosen ones" hanger locations prior to bidding) were not isolated incidents but part of a long-standing pattern of improper influence.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Joe McEnerney (Airport Authority Chairman)
+      *   Mr. Hix
+      *   Rick Kingrea (Councilman, 1/12/11)
+      *   Mayor Kant
+      *   Karin Wilson (Mayor)
+      *   Ethics Commission
+      *   Fairhope Airport Authority
+      *   Pittman (Senator)
+    llm_text: Jack Burrell faced ethics complaints in 2011, defying bidding rules and political standards. His actions weren't isolated; a pattern of improper influence shaped the Fairhope Airport Authority's 2016 lease decisions.
+    widget_date: "2017-03-10"
+    generated_at: "2026-11-08T04:15:44.809253Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  in-the-dark:
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell (Council President) was involved in a "failed" airport lease process in late 2016.
+      On Jan 8th, the Airport Authority revisited issues (leases, bidding procedures) related to the 2016 failure.
+      Joe McEnerney (Airport Authority Chairman) was alleged to have guaranteed hanger locations for "chosen ones" prior to bidding.
+
+      THE DISCOVERY:
+      In 2018, the City Council was dominated by non-drinking "Christians"/Baptists.
+      The council secured Municipal Judge Snedecker for another two years, a council pick led by Council President Burrell.
+      Mayor Karin Wilson authorized legal services for a Third-Party Complaint against Charter Oak Fire Insurance Company (Charles K/ Breland, Jr. V. The City of Fairhope, et al., CV-2013-901096).
+      The city faced the multi-million dollar Triangle lawsuit ($11.25M cost, $3M legal fees).
+
+      THE PIVOT:
+      Article 2 (2018) demonstrates a pattern of Council power being used for factional gain, political appointments (Snedecker), and favoring specific religious/voting blocks, providing historical context for the alleged cronyism and abuse of authority by Captain Jack Burrell (Council President) in the Airport Authority and City appointments (City Attorney, Municipal Judge).
+
+      KEY ENTITIES:
+      Jack Burrell (Council President/Captain Jack)
+      Joe McEnerney (Airport Authority Chairman)
+      Snedecker (Municipal Judge)
+      Karin Wilson (Mayor)
+      Former Mayor Can’t
+      Ronan McSharry
+      Charter Oak Fire Insurance Company
+      Charles K/ Breland, Jr.
+      Fairhope Airport Authority
+      Fairhope City Council
+    llm_text: Council President Jack Burrell allegedly used power for factional gain, from the 2016 airport lease failure with Joe McEnerney to securing Municipal Judge Snedecker. See how this pattern of cronyism and political appointments reveals a history of abuse within the Fairhope City Council.
+    widget_date: "2018-12-22"
+    generated_at: "2026-11-08T04:16:59.475574Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  chasing-your-tail:
+    brief: |-
+      THE CONFLICT:
+      *   Mr. Burrell negotiated the Dyas lawsuit settlement, resulting in a $11.25 million loss for the city, without public participation.
+      *   Council President Burrell has dominated the position for 7 years.
+      *   The City Council failed to deliver a budget on time.
+      *   The council has faced issues with the Breland case and the proposed Entertainment District (Fairhope Ave/Bourbon Street).
+
+      THE DISCOVERY:
+      *   Article 2 established Burrell's pattern of non-transparent decision-making and control over legal and governmental appointments (City Attorney, Municipal Judge).
+      *   Article 2 detailed the council's failure of leadership, exemplified by the $11.25 million Dyas loss.
+
+      THE PIVOT:
+      *   Article 2 provides historical proof of Burrell's consistent prioritization of closed-door, non-public arrangements (e.g., Dyas settlement) over public process, validating Article 1's claim that he is running the Airport Authority for the "1%" and not the public.
+      *   This history sets the context for the "failed process in late 2016" regarding leases and bidding procedures at Fairhope Airport Authority.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Joe McEnerney (Airport Authority Chairman)
+      *   Fairhope Airport Authority
+      *   Dyas lawsuit ($11.25 million)
+      *   Breland case
+      *   Jan 8th (Special meeting date)
+      *   Nov 2016 (First Ripp Report article reference)
+      *   K-1 center
+      *   City Attorney (Fairhope)
+      *   Municipal Judge
+    llm_text: Jack Burrell secured a $11.25 million loss for the city via the Dyas lawsuit without public input. His 7-year control shows a pattern of closed-door deals, proving he prioritizes the "1%" over Fairhope residents.
+    widget_date: "2018-12-14"
+    generated_at: "2026-11-08T04:18:06.598914Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  barstool:
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted his wife in 2010 during divorce settlement procedures.
+      THE DISCOVERY: McSharry has a long list of domestic incidents and assault charges; Fairhope Police, Municipal Judge, and City Attorney were aware of these issues since 2010; Mayor Kant was aware but remained silent.
+      THE PIVOT: Both articles illustrate systemic local corruption in Fairhope—McSharry’s legal impunity and Jack Burrell’s political dominance over the Fairhope Airport Authority (related to the failed 2016 lease process).
+      KEY ENTITIES: Jack Burrell, Joe McEnerney, Ronan McSharry, Mayor Kant, Fairhope Airport Authority, City Attorney, Municipal Judge
+    llm_text: Ronan McSharry assaulted his wife in 2010, yet officials like Mayor Kant knew and remained silent. This local impunity reveals deeper Fairhope corruption involving Jack Burrell and the Airport Authority.
+    widget_date: "2018-11-30"
+    generated_at: "2026-11-08T04:14:31.532052Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst:
+    brief: |-
+      THE CONFLICT: Failed lease process at Fairhope Airport Authority in late 2016; Special meeting held Jan 8th to revisit leases and bidding procedures.
+      THE DISCOVERY: The "at large" catalyst council is the least effective in 20 years, unable to pass a budget because special interests (Catalyst connections, Tim Can’t Club) deliberately obstruct government change.
+      THE PIVOT: Jack Burrell's assertion of absolute control over airport hanger locations and appointments (City Attorney/Municipal Judge) is a specific example of the systemic control and obstruction by special interests (Catalyst) noted in the historical context.
+      KEY ENTITIES: Jack Burrell (Council President, City liaison), Joe McEnerney (Airport Authority Chairman), Fairhope Airport Authority, Catalyst, Tim Can’t Club, Council President (7 years).
+    llm_text: Special interests like Catalyst deliberately obstruct Fairhope government change, leaving the "at large" council unable to pass a budget. Jack Burrell asserts absolute control over Fairhope Airport Authority hangers and key appointments, directly impacting local life.
+    widget_date: "2018-11-28"
+    generated_at: "2026-11-08T04:20:25.710784Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

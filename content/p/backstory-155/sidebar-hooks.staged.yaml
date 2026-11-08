@@ -5,43 +5,8 @@ metadata:
   main_date: "2023-05-13"
   model_name: recursive/flint-v1.0:free
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      - ESG stands for Environmental, Social, and Governance Criteria; defined as standards for a company's behavior used by socially conscious investors to screen potential investments.
-      - Alabama Attorney General Steve Marshall called ESG "Woke Capitalism incarnate"; testified against ESG investing before Congress (image context: testimony shown in podcast graphic).
-      - Alabama requested $1,000,000 from the education budget to fund an ESG study at Troy University ("Alabama Mecca of Economic Theory").
-      - Alabama Policy Institute pushing ESG narrative; expected to proliferate on Fox News.
-      - Donald Trump received a forum from CNN; exploited it to his political advantage.
-
-      THE DISCOVERY:
-      - Article 2 is the newer article; frame as update to Article 1.
-      - Backstory Podcast covers Alabama's messy politics: Gov. Kay Ivey under fire for firing Adm. Kent Davis and attempting to control the veterans' board; upset veterans who usually support Republicans.
-      - Court case says people cannot sue over a wrong SWAT raid; raises questions about police accountability.
-      - Backstory Podcast uncovers true crime in Clarke County: hospice business had shady ties to a judge; exposes Alabama's "good old boy" system.
-      - Veterans' programs in chaos after Davis was ousted; leaders turned the job into a political role.
-
-      THE PIVOT:
-      - Article 2 provides key context for Article 1: the ESG fight in Alabama is nested within broader political power struggles, veterans' board firings, true crime, and money dynamics.
-      - Article 2's reporting reframes Article 1's ESG spectacle as part of a larger pattern of power and money affecting regular people.
-
-      KEY ENTITIES:
-      - Steve Marshall, Kay Ivey, Kent Davis, Alabama Policy Institute, Troy University, Donald Trump, CNN, Backstory Podcast, Clarke County, hospice business, judge, Fox News, Alabama lawmakers, veterans, SWAT raid, military rules, Biden, Kamala Harris, Lowery, Wilters.
-    llm_text: Alabama Attorney General Steve Marshall called ESG Woke Capitalism incarnate and now Alabama is spending $1 million of its education budget on a Troy University ESG study. This Backstory Podcast episode ties that fight to a bigger power struggle over Kay Ivey, Kent Davis, and a veterans board gone political.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T19:52:15.290643Z"
-    model_name: recursive/flint-v1.0:free
-  scalped:
-    brief: |-
-      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing; required $1 million from education budget for ESG study at Troy University; Alabama Policy Institute is promoting this stance.
-      THE DISCOVERY: Corruption involving million-dollar contracts awarded to politically tied companies in Baldwin County; Baldwin County District Attorney building construction bid award announced via Facebook post.
-      THE PIVOT: Article 2 details local corruption (contract awards, DA building) which contrasts the high-level political debate of ESG mentioned in Article 1, illustrating systemic failure in Alabama governance beyond just investment criteria.
-      KEY ENTITIES: Steve Marshall, Alabama Attorney General, Troy University, Alabama Policy Institute, Baldwin County District Attorney, Donald Trump
-    llm_text: Steve Marshall's ESG fight clashes with Baldwin County corruption, where politically tied companies snagged million-dollar contracts. See how local graft exposes systemic failures beyond just investment debates.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T19:52:00.030907Z"
-    model_name: plugsky-lite
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 9d5bcf9bf93a794ad0f6773a03ceb8f729b347ad69798b138bb5fe0ad8df0cda
     brief: |-
       THE CONFLICT:
       Alabama Federal Judge Mark Fuller (Mobile, Alabama) was identified as a corrupt judge; Dothan Summer Feeding Scandal allegations exist; Mack vs Hadley involves the Baldwin County Sheriff's Department stealing a 1968 Camaro.
@@ -63,56 +28,31 @@ hooks:
       Alabama Court of Civil Appeals
       Troy University
     llm_text: Alabama Judge Mark Fuller and the Baldwin County Sheriff's Department stole a 1968 Camaro. This documented corruption, including a Brady violation, provides crucial context for how Alabama Attorney General Steve Marshall argues against ESG investing.
+    text: Alabama Judge Mark Fuller and the Baldwin County Sheriff's Department stole a 1968 Camaro. This documented corruption provides context for AG Steve Marshall's fight against ESG.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T19:52:53.265089Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: a5390ad6ddcdc928aedc56c68408723d7ffec45c36eef2dfe51dd8e54bb7d9e3
     brief: |-
       THE CONFLICT: Alabama Attorney General Steve Marshall proclaimed ESG (Environmental, Social, and Governance Criteria) is "Woke Capitalism incarnate" and testified before Congress regarding the standards.
       THE DISCOVERY: A recent podcast discussed President Biden's pardon of his son Hunter, a damning report on the US government's COVID-19 response, and wrongful arrests of individuals exposing corruption in a local school district.
       THE PIVOT: Article 2 provides context regarding broader political misconduct (Biden pardon, local corruption, First Amendment issues) but does not offer specific factual evidence or data to support or refute the ESG claims made in Article 1.
       KEY ENTITIES: Steve Marshall, Alabama Attorney General's Association, Troy University, Alabama Policy Institute, Donald Trump, President Biden, Hunter Biden
     llm_text: Alabama AG Steve Marshall calls ESG "Woke Capitalism incarnate." Yet, reports reveal deeper political misconduct, including the Biden pardon for Hunter Biden and local school corruption.
+    text: Alabama AG Steve Marshall calls ESG woke capitalism. Reports reveal deeper political misconduct, including the Biden pardon for Hunter Biden and local school corruption.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T19:53:56.479379Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing; Alabama Policy Institute advocated for a $1 million study on ESG at Troy University.
-      THE DISCOVERY: Backstory Podcast No. 186 covered news stories from Alabama, including the closing of rural hospitals and proposed constitutional amendments in Alabama.
-      THE PIVOT: Podcast No. 186 provides current Alabama political/legal context (e.g., proposed constitutional amendments) alongside past ESG commentary.
-      KEY ENTITIES: Steve Marshall, Alabama Policy Institute, Troy University, Donald Trump, Alabama, Google
-    llm_text: Alabama AG Steve Marshall clashed with ESG investing while the Alabama Policy Institute pushes a $1M study at Troy University. Tune into Backstory Podcast No. 186 to see how this ESG debate fits Alabama's bigger political picture.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T19:52:06.977824Z"
-    model_name: plugsky-lite
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing
-      THE DISCOVERY: Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama
-      THE PIVOT: No direct connection found; Article 1 focuses on national/political ESG debate while Article 2 focuses on local Alabama governance/lawsuits
-      KEY ENTITIES: Steve Marshall, Alabama Attorney General, Troy University, Governor Ivey, Veteran's Affairs Commissioner for Alabama, Baldwin County, City of Bay Minette, OJ French Jr, Brandon Thompson, Mobile Attorney Andy Ruten, Bay Minette Mayor Bob Wills
-    llm_text: Alabama AG Steve Marshall battles ESG in Congress, but Governor Ivey pushes for the Veteran's Affairs Commissioner's resignation. See how national political fights intersect with local Alabama governance.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T19:52:14.855194Z"
-    model_name: plugsky-lite
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing (date not specified, context implies recent activity).
-      THE DISCOVERY: Article 2 contains no update related to ESG, Steve Marshall, or the Alabama Mecca of Economic Theory.
-      THE PIVOT: Article 2 does not provide key context or a 'smoking gun' for Article 1.
-      KEY ENTITIES: Steve Marshall, Alabama Attorney General's Association, Troy University, Alabama Policy Institute, Donald Trump, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, Katie Britt, Adm. Kent Davis, Montgomery Alabama Mayor.
-    llm_text: Alabama AG Steve Marshall testified against ESG, but Article 2 offers no context on the Alabama Mecca of Economic Theory. See how this lack of detail impacts the bigger story involving Troy University and local leaders.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T19:52:19.693342Z"
-    model_name: plugsky-lite
   hatians-eating-cats:
+    refined_source: 578231cd6531599d7f92e4ee274736d6d4381f203d186cc10b74facb20baa195
     brief: |-
       THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing.
       THE DISCOVERY: Sylacauga, Alabama, is featuring a debate around "Haitian Immigrant Eating Cats" news coverage, and Former Real Admiral/Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving office due to a whistleblower Ethics Complaint.
       THE PIVOT: Article 2 demonstrates a broader pattern of local political narratives in Alabama (e.g., immigration debates, political rallies) operating alongside or independent of the specific ESG policy focus mentioned in Article 1, showing diverse local political activity.
       KEY ENTITIES: Steve Marshall, Donald Trump, Alabama Attorney General's Association, Troy University, Alabama Policy Institute, Sylacauga Alabama, Kent David, RFK Jr, Tulsi Gabbards, Russell Brand, Brandon Moseley, BamaCarry Inc, David R. Jones
-    llm_text: Steve Marshall clashes on ESG, but local Alabama politics reveal deeper currents in Sylacauga. Discover how Kent David's departure and local debates show diverse action beyond national policy.
+    llm_text: Steve Marshall clashes on ESG, but local Alabama politics reveal deeper currents in Sylacauga. Read how Kent David's departure and local debates show diverse action beyond national policy.
+    text: Steve Marshall clashes on ESG, but local Alabama politics reveal deeper currents in Sylacauga. Read how Kent David's departure and local debates show diverse action.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T19:52:28.077931Z"
     model_name: plugsky-lite
@@ -168,16 +108,94 @@ hooks:
       - TIME magazine.
       - Baldwin County seal.
     llm_text: Alabama Attorney General Steve Marshall calls ESG “Woke Capitalism incarnate,” while new details about Vice President Kamala Harris, RFK Jr., and Donald Trump are rewriting the fight. Here’s why this Alabama story now matters for politics, Troy University, and the University of Alabama Football dynasty.
+    text: Alabama Attorney General Steve Marshall calls ESG “Woke Capitalism incarnate,” while new details about Vice President Kamala Harris, RFK Jr., and Donald Trump are rewriting the fight. Here’s why this Alabama story now matters for politics, Troy University, and the University of Alabama Football dynasty.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T19:52:56.388278Z"
     model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 5538a932c626462010db91d6cec65979f45de1a3927d9f1112abdc6b94166753
+    brief: |-
+      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing; Alabama Policy Institute advocated for a $1 million study on ESG at Troy University.
+      THE DISCOVERY: Backstory Podcast No. 186 covered news stories from Alabama, including the closing of rural hospitals and proposed constitutional amendments in Alabama.
+      THE PIVOT: Podcast No. 186 provides current Alabama political/legal context (e.g., proposed constitutional amendments) alongside past ESG commentary.
+      KEY ENTITIES: Steve Marshall, Alabama Policy Institute, Troy University, Donald Trump, Alabama, Google
+    llm_text: Alabama AG Steve Marshall clashed with ESG investing while the Alabama Policy Institute pushes a $1M study at Troy University. Tune into Backstory Podcast No. 186 to see how this ESG debate fits Alabama's bigger political picture.
+    text: Alabama AG Steve Marshall clashed with ESG investing while the Alabama Policy Institute pushes a $1 million study at Troy University. Tune into Backstory Podcast No. 186.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T19:52:06.977824Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    refined_source: 1e2bca5983a2cd5c9712a791035985e4120f9c425dabef0570a235513180773f
+    brief: |-
+      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing (date not specified, context implies recent activity).
+      THE DISCOVERY: Article 2 contains no update related to ESG, Steve Marshall, or the Alabama Mecca of Economic Theory.
+      THE PIVOT: Article 2 does not provide key context or a 'smoking gun' for Article 1.
+      KEY ENTITIES: Steve Marshall, Alabama Attorney General's Association, Troy University, Alabama Policy Institute, Donald Trump, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, Katie Britt, Adm. Kent Davis, Montgomery Alabama Mayor.
+    llm_text: Alabama AG Steve Marshall testified against ESG, but Article 2 offers no context on the Alabama Mecca of Economic Theory. See how this lack of detail impacts the bigger story involving Troy University and local leaders.
+    text: Alabama AG Steve Marshall testified against ESG. See how the story involves Troy University and local leaders.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T19:52:19.693342Z"
+    model_name: plugsky-lite
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT:
+      - ESG stands for Environmental, Social, and Governance Criteria; defined as standards for a company's behavior used by socially conscious investors to screen potential investments.
+      - Alabama Attorney General Steve Marshall called ESG "Woke Capitalism incarnate"; testified against ESG investing before Congress (image context: testimony shown in podcast graphic).
+      - Alabama requested $1,000,000 from the education budget to fund an ESG study at Troy University ("Alabama Mecca of Economic Theory").
+      - Alabama Policy Institute pushing ESG narrative; expected to proliferate on Fox News.
+      - Donald Trump received a forum from CNN; exploited it to his political advantage.
+
+      THE DISCOVERY:
+      - Article 2 is the newer article; frame as update to Article 1.
+      - Backstory Podcast covers Alabama's messy politics: Gov. Kay Ivey under fire for firing Adm. Kent Davis and attempting to control the veterans' board; upset veterans who usually support Republicans.
+      - Court case says people cannot sue over a wrong SWAT raid; raises questions about police accountability.
+      - Backstory Podcast uncovers true crime in Clarke County: hospice business had shady ties to a judge; exposes Alabama's "good old boy" system.
+      - Veterans' programs in chaos after Davis was ousted; leaders turned the job into a political role.
+
+      THE PIVOT:
+      - Article 2 provides key context for Article 1: the ESG fight in Alabama is nested within broader political power struggles, veterans' board firings, true crime, and money dynamics.
+      - Article 2's reporting reframes Article 1's ESG spectacle as part of a larger pattern of power and money affecting regular people.
+
+      KEY ENTITIES:
+      - Steve Marshall, Kay Ivey, Kent Davis, Alabama Policy Institute, Troy University, Donald Trump, CNN, Backstory Podcast, Clarke County, hospice business, judge, Fox News, Alabama lawmakers, veterans, SWAT raid, military rules, Biden, Kamala Harris, Lowery, Wilters.
+    llm_text: Alabama Attorney General Steve Marshall called ESG Woke Capitalism incarnate and now Alabama is spending $1 million of its education budget on a Troy University ESG study. This Backstory Podcast episode ties that fight to a bigger power struggle over Kay Ivey, Kent Davis, and a veterans board gone political.
+    text: Alabama Attorney General Steve Marshall called ESG Woke Capitalism incarnate and now Alabama is spending $1 million of its education budget on a Troy University ESG study. This Backstory Podcast episode ties that fight to a bigger power struggle over Kay Ivey, Kent Davis, and a veterans board gone political.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T19:52:15.290643Z"
+    model_name: recursive/flint-v1.0:free
+  scalped:
+    refined_source: b28eafd506a580944200d825dc4d905e0dba4132220ec57c9e6efdb5116e35d3
+    brief: |-
+      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing; required $1 million from education budget for ESG study at Troy University; Alabama Policy Institute is promoting this stance.
+      THE DISCOVERY: Corruption involving million-dollar contracts awarded to politically tied companies in Baldwin County; Baldwin County District Attorney building construction bid award announced via Facebook post.
+      THE PIVOT: Article 2 details local corruption (contract awards, DA building) which contrasts the high-level political debate of ESG mentioned in Article 1, illustrating systemic failure in Alabama governance beyond just investment criteria.
+      KEY ENTITIES: Steve Marshall, Alabama Attorney General, Troy University, Alabama Policy Institute, Baldwin County District Attorney, Donald Trump
+    llm_text: Steve Marshall's ESG fight clashes with Baldwin County corruption, where politically tied companies snagged million-dollar contracts. See how local graft exposes systemic failures beyond just investment debates.
+    text: Steve Marshall fights ESG, but Baldwin County corruption gave politically tied companies million-dollar contracts. See how local graft exposes systemic failures.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T19:52:00.030907Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    refined_source: 43e65dedcfcab799d4f7038df1c2d630a054f8610964b511a88887bb8f4caeb4
+    brief: |-
+      THE CONFLICT: Alabama Attorney General Steve Marshall testified before Congress against ESG investing
+      THE DISCOVERY: Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama
+      THE PIVOT: No direct connection found; Article 1 focuses on national/political ESG debate while Article 2 focuses on local Alabama governance/lawsuits
+      KEY ENTITIES: Steve Marshall, Alabama Attorney General, Troy University, Governor Ivey, Veteran's Affairs Commissioner for Alabama, Baldwin County, City of Bay Minette, OJ French Jr, Brandon Thompson, Mobile Attorney Andy Ruten, Bay Minette Mayor Bob Wills
+    llm_text: Alabama AG Steve Marshall battles ESG in Congress, but Governor Ivey pushes for the Veteran's Affairs Commissioner's resignation. See how national political fights intersect with local Alabama governance.
+    text: Alabama AG Steve Marshall testified against ESG while Governor Ivey pushes for the Veterans Affairs Commissioner's resignation. National fights intersect with local governance.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T19:52:14.855194Z"
+    model_name: plugsky-lite
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 4c9edca13211110e1ac65d3c7b8dacfeaa841119212d313cb3d73178e503d1dd
     brief: |-
       THE CONFLICT: Alabama Attorney General Steve Marshall has publicly opposed ESG investing, labeling it "Woke Capitalism incarnate."
       THE DISCOVERY: On July 31, 2024, the French Family (represented by May Jung LLC) filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson regarding the death of OJ French Jr., alleging Officer Thompson lacked probable cause and escalated the situation.
       THE PIVOT: Article 2 provides a specific, recent local legal and political conflict in Baldwin County (Bay Minette) that contrasts with the broader, national/state policy debate (ESG) detailed in Article 1, highlighting local governance issues alongside state-level political commentary.
       KEY ENTITIES: Steve Marshall, Troy University, Alabama Policy Institute, OJ French Jr., Bay Minette Justice League, May Jung LLC, Brandon Thompson, Mayor Robert Bob Wills, Sheriff (resigning mid-August), Anthony Lowery, Governor Ivey, Matt McKenzie, Donald Trump.
     llm_text: Alabama AG Steve Marshall fights "Woke Capitalism," but the French family is suing Bay Minette over OJ French Jr.'s death. See how local governance issues clash with big state politics in Baldwin County.
+    text: Alabama AG Steve Marshall fights ESG, but the French family is suing Bay Minette over OJ French Jr.'s death. Local governance issues clash with big state politics in Baldwin County.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T19:52:35.871986Z"
     model_name: plugsky-lite

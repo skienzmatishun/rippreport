@@ -1,0 +1,199 @@
+metadata:
+  generated_at: "2026-11-07T20:06:13.597800Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-kiss
+  main_date: "2020-02-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-state-of-the-city:
+    refined_source: c76e552d1c3832dacb8f44cbb2366bb609ae6f0ea05278a1c4ebbf16921c4f6c
+    brief: |-
+      THE CONFLICT: Councilmen Burrell, Brown, and Boone (the 3B's) purchased 105 Farmable Acres for $2.65 million in December 2019, rejecting the State Park Board's preference. This property was declared surplus in January 2020 and leased for $9,000.00 annually.
+      THE DISCOVERY: The council utilized tax dollars for non-recreation land, diverting millions needed for city infrastructure (e.g., City Hall roof, K1 center repairs), and the initial appraisal was dated June 28, 2019.
+      THE PIVOT: Article 2 provides historical evidence of the council's self-serving, questionable financial practices and potential commission dealings (who got the check?), supporting Article 1's assertion that the CATALYST council operates like a "criminal enterprise" and does not represent Fairhope.
+      KEY ENTITIES: Jack Burrell, Bill Hightower, Karin Wilson, Councilmen Brown, Councilman Boone, Fairhope City Council, CATALYST, 105 Farmable Acres.
+    llm_text: Councilmen Burrell, Brown, and Boone spent $2.65 million on 105 Farmable Acres, diverting millions from critical city infrastructure like the City Hall roof. Read how the CATALYST council operates like a criminal enterprise and who benefited from this questionable deal.
+    text: Councilmen spent millions on farmland, diverting money from critical city infrastructure. The CATALYST council operates with self-interest regarding this questionable deal.
+    widget_date: "2020-02-05"
+    generated_at: "2026-11-07T20:05:55.514203Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  whose-agenda:
+    refined_source: 49b72b3c9115c48b72a3e4e5e3ba7639300db57ed6375c526a90df4f1a29911c
+    brief: |-
+      THE CONFLICT: March 8th City Council agenda included resolutions concerning K-1 Center purchase, $500k dredging contract with Fairhope Yacht Club, 3 Mill Ad Valorem School District Tax Election request, and Library Envelope Repairs (Change Order No. 2 to Bid No. 005-18).
+      THE DISCOVERY: Council President Jack Burrell engaged in a public display (a "KISS") towards CATALYST candidate Bill Hightower at a recent Monday night City Council meeting, promoting CATALYST agenda.
+      THE PIVOT: Article 2 details the historical actions and unresolved issues (e.g., K-1 Center purchase history, ignored accountability in library repairs, use of Executive Session) that establish a pattern of council behavior and hidden agendas, providing context for the political maneuvers seen in Article 1.
+      KEY ENTITIES: Jack Burrell, Bill Hightower, Karin Wilson, Baldwin County Board of Education, K-1 Center, Fairhope Yacht Club, Fidler, Kant, Wilson, M&N of Alabama, LLC, MW Rogers Construction Co., LLC
+    llm_text: Jack Burrell's public display toward Bill Hightower masks deeper council issues, including the K-1 Center purchase and $500k dredging deal. Read how past actions reveal a pattern of hidden agendas impacting your taxes and local services.
+    text: Jack Burrell's public display masks deeper council issues like the K-1 Center purchase. Past actions reveal a pattern of hidden agendas impacting taxes and local services.
+    widget_date: "2019-03-08"
+    generated_at: "2026-11-07T20:03:59.125673Z"
+    model_name: plugsky-lite
+  catalyst-central:
+    brief: "THE CONFLICT: In past municipal and mid-term elections (specifically the 2018 Baldwin County mid-term elections and prior Fairhope municipal elections), a political/good-ole-boy network called CATALYST attempted to seize control of local government. Historically, political power brokers like Lynn Stacy partnered with Chris Elliott and Dane Haygood (forming Stacy, Haygood and Elliott) to reward developers and ignore infrastructure. CATALYST emerged from this concept, managed by Scott Boone (son of Fairhope Councilman Kevin Boone), with the goal of obstructing Fairhope government, attacking the Mayor, and running block-voting candidates. During the 2018 midterms, CATALYST-backed county commission candidates Joe Davis and Jeb Ball won election and subsequently voted in favor of developers (such as the 392-house Savannah Estates project on County Road 54 E. and 64, despite opposition from engineers and citizens like William Rando). \n\nTHE DISCOVERY: Article 2 revealed that CATALYST operates as a secretive, dangerous political machine backed by self-serving developers, entrenched in the Baldwin County District Attorney’s office, Sheriff’s office, judiciary, and County Commission. It exposed how the entire Fairhope City Council—led by Council President Jack Burrell for over 7 years—swore allegiance to CATALYST, using Councilman Kevin Boone as a conduit to feed internal information to Scott Boone. It also documented how Baldwin County operates without sewer regulations due to CATALYST's influence, and how commissioners like Joe Davis ignore constituent letters while greenlighting developer projects.\n\nTHE PIVOT: Article 2 serves as the historical background and \"smoking gun\" because it exposes the deeper, criminal-enterprise-like machinery of CATALYST that explains the current events in Article 1. While Article 1 observes Council President Jack Burrell publicly throwing a \"KISS\" to candidate Bill Hightower at a Fairhope City Council meeting, Article 2 proves *why* that gesture matters: Hightower is running for the First Congressional District as a CATALYST candidate, backed by the exact same corrupt network of developers, power brokers, and block-voting council members who have spent years obstructing local government and manipulating Baldwin County politics.\n\nKEY ENTITIES:\n- Jack Burrell (Fairhope City Council President)\n- Bill Hightower (First Congressional District candidate / CATALYST candidate)\n- Scott Boone (CATALYST Manager)\n- Kevin Boone (Fairhope Councilman / father of Scott Boone)\n- Lynn Stacy (Political power broker)\n- Chris Elliott (County Commissioner / former partner in Stacy, Haygood and Elliott)\n- Dane Haygood (Mayor of Daphne / former partner in Stacy, Haygood and Elliott)\n- Joe Davis (Baldwin County Commissioner)\n- Jeb Ball (Baldwin County Commissioner)\n- William Rando (Concerned citizen / CGA member)\n- CATALYST (Political organization / good-ole-boy network)\n- Baldwin County Citizens for Government Accountability (CGA)"
+    llm_text: When Fairhope Council President Jack Burrell blew a kiss to congressional candidate Bill Hightower, he exposed a much darker political machine. Read how CATALYST—the secretive network run by Scott Boone—controls local elections, backs developers, and rigs Baldwin County politics.
+    text: When Fairhope Council President Jack Burrell blew a kiss to congressional candidate Bill Hightower, he exposed a much darker political machine. Read how CATALYST—the secretive network run by Scott Boone—controls local elections, backs developers, and rigs Baldwin County politics.
+    widget_date: "2020-02-01"
+    generated_at: "2026-11-07T20:03:56.329149Z"
+    model_name: gemini-3.5-flash-lite
+  congressional-catalyst:
+    brief: |-
+      THE CONFLICT:
+      - 2018: CATALYST made a move to take over Baldwin County.
+      - Fairhope City Council operates as a block vote in 2020; only supports and promotes CATALYST candidates.
+      - Council President Jack Burrell has occupied his position for 7+ years; never shared the gavel with other councilman.
+      - Last Monday Fairhope City Council meeting and work session: unnecessary long; meeting extended by 30+ minutes; Burrell spent 10 minutes making excuses about agenda mistakes and apologized to attendees of the canceled item.
+
+      THE DISCOVERY:
+      - Article 2 (older/widget): Alabama's First Congressional District has 5 Republican candidates running to fill Bradley Byrne's seat; only one is CATALYST.
+      - CATALYST should be feared; threatens honest government; represents the opposite of political corruption.
+      - CATALYST candidates occupy the Fairhope City Council; Fairhope City Attorney is a hand-me-down; Fairhope Municipal Judge is a hand-me-down of the good ole boy CATALYST network of past Fairhope administrations.
+      - CATALYST and the Fairhope City Council operate like a criminal enterprise.
+      - FBI defines a criminal enterprise as "a group of individuals with an identified hierarchy, or comparable structure, engaged in significant criminal activity."
+      - CATALYST hijacked the soul of the Baldwin County Republicans and banks on the party to cover their tracks, while dragging the party and good people through the mud.
+      - CATALYST wants to regain control of Fairhope and Baldwin County and now the First Congressional District.
+      - Bill Hightower IS the CATALYST candidate, supported by Fairhope Municipal Judge/developer Snedeker and former State Senator BP Boom Boom Pittman and of course the CATALYST Fairhope City Council.
+
+      THE PIVOT:
+      - Article 2 is older/background context: established CATALYST as an organization operating like a criminal enterprise and seeking control of Fairhope, Baldwin County, and the First Congressional District.
+      - Article 1 (main) shows the CATALYST-aligned local government in action: Council President Jack Burrell threw a KISS to Bill Hightower, CATALYST candidate for the First Congressional District, in the audience at the Fairhope City Council meeting.
+      - The kiss: Burrell threw a KISS to Bill Hightower at the council meeting; the Fairhope CATALYST council runs as a block vote in 2020 and only supports and promotes CATALYST candidates, which is why Bill got a kiss.
+      - Article 1 frames Bill Hightower as having "thrown in with the most corrupt good ole boys in Baldwin County, CATALYST"; council is being run like a criminal enterprise; vote for Hightower is a vote for CATALYST.
+
+      THE PIVOT (continued):
+      - Article 2 is the smoking gun/key context for Article 1 because it laid out CATALYST's takeover ambitions and criminal-enterprise structure before the local-level action in Article 1.
+
+      KEY ENTITIES:
+      - Jack Burrell - Fairhope City Council President.
+      - Bill Hightower - CATALYST congressional candidate for the First Congressional District.
+      - CATALYST - organization.
+      - Fairhope City Council - block vote; operates like criminal enterprise.
+      - Fairhope City Attorney - hand-me-down from the CATALYST network.
+      - Fairhope Municipal Judge - hand-me-down; developer Snedeker.
+      - Snedeker - Fairhope Municipal Judge/developer; Hightower supporter.
+      - BP Boom Boom Pittman - former State Senator; Hightower supporter.
+      - Bradley Byrne - Congressman whose seat Hightower was running to fill.
+      - Baldwin County Republicans - hijacked by CATALYST.
+      - Baldwin County - location/context of CATALYST operation.
+      - Alabama's First Congressional District - district context.
+    llm_text: Fairhope City Council President Jack Burrell gave Bill Hightower a kiss at the council meeting, then the group voted as a block to back CATALYST's pick. That cozy moment shows how the local government runs like a criminal enterprise, and why Hightower's congressional bid should worry every Alabama voter.
+    text: Fairhope City Council President Jack Burrell gave Bill Hightower a kiss at the council meeting, then the group voted as a block to back CATALYST's pick. That cozy moment shows how the local government runs like a criminal enterprise, and why Hightower's congressional bid should worry every Alabama voter.
+    widget_date: "2020-01-22"
+    generated_at: "2026-11-07T20:04:15.085843Z"
+    model_name: recursive/flint-v1.0:free
+  passport-to-paris:
+    brief: |-
+      THE CONFLICT:
+      - State Senator Chris Elliott (aka "TAX MAN") co-sponsored a bill upon being newly elected to secure $7,500 per year in personal travel expenses.
+      - Elliott used the proposed travel expenditure to strong-arm other legislators by holding up unrelated bills in Goat Hill (Montgomery).
+      - Elliott defended the funding reallocation—which diverted money traditionally awarded to the Baldwin County legislative delegation—specifically to fund trips like the Paris Air Show, an international event he had previously attended multiple times as a county commissioner.
+      - Elliott dismissed traditional community funding as "pet" projects, specifically cutting down a $50,000 delegation grant used for a Fort Mims Massacre painting by Fairhope artist Dean Mosher, which also funded a highly successful art show at the Eastern Shore Art Center during the state's bicentennial celebration.
+      - Orange Beach pushed Elliott into office, backed by the political machine/group known as CATALYST.
+
+      THE DISCOVERY:
+      - Article 2 (the older background piece) exposed State Senator Chris Elliott as a self-serving "TAX MAN" tied directly to the CATALYST political network.
+      - It revealed that Elliott's legislative priorities centered on self-enrichment (tax-funded travel, air miles, Paris Air Show trips) at the expense of local cultural and economic development projects.
+      - It established that Baldwin County made a severe mistake by electing a CATALYST-backed candidate.
+
+      THE PIVOT:
+      - Article 2 serves as the smoking gun because it historically unmasks the exact nature of the CATALYST political network operating in Baldwin County. While the main article exposes Fairhope City Council President Jack Burrell throwing a public "KISS" to congressional candidate Bill Hightower and running the Fairhope City Council as a "criminal enterprise" block vote for CATALYST, Article 2 shows that this is a systemic disease. It connects the local Fairhope council corruption directly to state-level operatives like Chris Elliott, proving that CATALYST candidates (whether Elliott, Hightower, or Burrell) consistently advance self-serving agendas under the guise of good ole boy politics.
+
+      KEY ENTITIES:
+      - Chris Elliott (State Senator / "TAX MAN")
+      - Jack Burrell (Fairhope City Council President)
+      - Bill Hightower (First Congressional District Candidate)
+      - Dean Mosher (Fairhope Artist)
+      - CATALYST (Political network / good ole boy organization)
+      - Eastern Shore Art Center
+      - Goat Hill (Montgomery legislature)
+      - Paris Air Show
+    llm_text: State Senator Chris Elliott traded Baldwin County community grants for personal trips to the Paris Air Show, proving why Orange Beach voters regret backing the CATALYST machine. Read our background piece to see how Elliott's self-serving tax scams connect directly to Jack Burrell's corrupt Fairhope council block vote.
+    text: State Senator Chris Elliott traded Baldwin County community grants for personal trips to the Paris Air Show, proving why Orange Beach voters regret backing the CATALYST machine. Read our background piece to see how Elliott's self-serving tax scams connect directly to Jack Burrell's corrupt Fairhope council block vote.
+    widget_date: "2019-07-01"
+    generated_at: "2026-11-07T20:04:01.872846Z"
+    model_name: gemini-3.5-flash-lite
+  fairhope-petition:
+    refined_source: 3b9f655d60b2da0e978fd1ebb8bfe4217b9a1e77a2ee11c886abc7643d319b72
+    brief: |-
+      THE CONFLICT: Council and Weeks Bay planned to transfer control of 106 acres, valued at 20 million, without public input; the city LOST a legal settlement and had to purchase the property.
+      THE DISCOVERY: The petition demands the City Council not dispose of city property until the scheduled land use and comprehensive plan is completed, reflecting citizen pushback against closed-door decision-making.
+      THE PIVOT: Article 2 establishes the CATALYST Council's history of closed-door financial dealings (20 million property transfer) which provides the context for Article 1's assertion that the Council operates like a "criminal enterprise" and promotes CATALYST candidates (Bill Hightower).
+      KEY ENTITIES: Jack Burrell, Bill Hightower, CATALYST, Fairhope City Council, Weeks Bay, First Congressional District
+    llm_text: The Fairhope City Council tried to quietly sell 106 acres for $20 million without public input. See how the CATALYST movement and Bill Hightower are fighting this closed-door deal to protect city property.
+    text: The Fairhope City Council tried to quietly sell 106 acres without public input. The CATALYST movement and Bill Hightower are fighting this closed-door deal.
+    widget_date: "2019-06-26"
+    generated_at: "2026-11-07T20:04:08.913103Z"
+    model_name: plugsky-lite
+  gob-coup:
+    brief: |-
+      THE CONFLICT:
+      - Mayor Karin Wilson won election, upsetting the political plans of former Mayor Tim Kant, Council President Jack Burrell, and their cronies backed by the political group Catalyst.
+      - The old guard/good ole boys (GOB) network hatched a plan to oust Mayor Wilson within a year of her taking office, involving employee insubordination, slowing down her requests, and deliberate political obstruction.
+      - City employees Fiddler and Sullivan were fired, followed by a council-imposed hiring freeze.
+      - Judge Snedeker (partner at Hix/Snedeker companies, airport bid controversy figure, and council contributor) was sworn in immediately as municipal judge without public comment.
+      - An HR Director filed a secret police incident report on January 25 (incident dated December 29, 2017) and later filed a $100,000 damage claim on May 19, 2017, with details concealed from Mayor Wilson while Council President Jack Burrell had prior knowledge.
+      - Councilman Kevin Boone and his son Scott Boone (heading Catalyst) utilized privileged, confidential city business for political maneuvering.
+
+      THE DISCOVERY:
+      - The older article (Widget Article / "GOB COUP") exposes the systematic, coordinated conspiracy by Council President Jack Burrell and the Catalyst political machine to undermine, harass, and drive Mayor Karin Wilson out of office.
+      - It documents specific acts of municipal sabotage, including engineered employee insubordination, suspicious firings (Fiddler and Sullivan), a retaliatory hiring freeze, and the rushed, clandestine appointment of politically connected Judge Snedeker.
+      - It reveals covert internal actions, such as the HR Director's concealed claims and police reports handled directly by Burrell behind the Mayor's back.
+      - It unmasks the entrenched web of financial and political corruption involving Hix/Snedeker, the Fairhope Airport bids, and local media manipulation via The Courier and WABF AM.
+
+      THE PIVOT:
+      - The historical background ("GOB COUP") shows that Council President Jack Burrell's public display of allegiance to Catalyst candidate Bill Hightower in the main article is not an isolated political endorsement, but the logical continuation of a multi-year, criminal-enterprise-style municipal coup designed to capture local and regional power.
+
+      KEY ENTITIES:
+      - Jack Burrell (Council President)
+      - Karin Wilson (Mayor)
+      - Bill Hightower (First Congressional District Candidate / Catalyst Candidate)
+      - Tim Kant (Former Mayor)
+      - Snedeker / Judge Snedeker (Municipal Judge / Hix/Snedeker companies)
+      - Ray Hix (Hix/Snedeker companies partner)
+      - Fiddler (Fired city employee)
+      - Sullivan (Fired city employee)
+      - Kevin Boone (Councilman)
+      - Scott Boone (Head of Catalyst / Son of Kevin Boone)
+      - Jay Robinson (Radio host, WABF AM)
+      - Catalyst (Political group / Good Ole Boys network)
+      - Fairhope Airport
+      - The Courier
+      - WABF AM
+      - Lagniappe
+    llm_text: Council President Jack Burrell and the Catalyst network engineered a relentless sabotage campaign to oust Mayor Karin Wilson. Read the shocking history behind this municipal coup to see why Burrell's current backing of Bill Hightower threatens Fairhope's future.
+    text: Council President Jack Burrell and the Catalyst network engineered a relentless sabotage campaign to oust Mayor Karin Wilson. Read the shocking history behind this municipal coup to see why Burrell's current backing of Bill Hightower threatens Fairhope's future.
+    widget_date: "2017-05-26"
+    generated_at: "2026-11-07T20:04:08.247425Z"
+    model_name: gemini-3.5-flash-lite
+  survey:
+    refined_source: d8a380024a52e4b9e7b55ef4135d19cba3a3c95cb95ac6e416af8ec0adc31a57
+    brief: |-
+      THE CONFLICT:
+      *   CATALYST City Council was criticized for obstructing the Mayor's efforts and prioritizing personal ambition over city welfare.
+      *   The council, against public outcry, purchased 2.65 million worth of farmland for recreation.
+      *   This farmland was subsequently leased out for farming at 9 thousand dollars a year, labeled "surplus."
+      *   Fairhope's city debt was paid in full in June 2019.
+
+      THE DISCOVERY:
+      *   The CATALYST City Council prioritized controversial financial decisions (2.65M farmland purchase, $9k lease) despite overall city financial improvements.
+      *   Fairhope is developing the "Fairhope Working Waterfront and Green Space Project" with a total investment of 6.2 million to promote Gulf Coast tourism.
+
+      THE PIVOT:
+      *   Article 2 establishes CATALYST's pattern of self-serving financial and political obstruction and mismanagement (e.g., the 2.65M farmland deal).
+      *   This history of self-interest provides context for Article 1, where Council President Jack Burrell (a CATALYST leader) uses his position to overtly promote a CATALYST candidate (Bill Hightower) through political actions (the KISS), linking political power to organized, self-serving block voting.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Bill Hightower (CATALYST candidate, First Congressional District)
+      *   CATALYST City Council
+      *   Fairhope City Council
+      *   Fairhope Working Waterfront and Green Space Project
+      *   Baldwin County
+      *   June 2019
+      *   2.65 million
+      *   6.2 million
+    llm_text: CATALYST Council bought $2.65 million in farmland while Fairhope paid off its debt in 2019. See how Council President Jack Burrell now uses that history of self-interest to push CATALYST candidate Bill Hightower.
+    text: CATALYST Council bought farmland while Fairhope paid off its debt in 2019. Jack Burrell now uses that history of self-interest to push candidate Bill Hightower.
+    widget_date: "2020-02-08"
+    generated_at: "2026-11-07T20:04:42.395143Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

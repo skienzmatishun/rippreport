@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   po-po-hoss-mack-ccuo:
+    refined_source: 6abe31a252774460263bb76ee863686d58851f43fa6f3759acf472e65eeae4a4
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. (Fairhope, Baldwin County). The conflict involves the withholding of evidence by the Judge, Prosecutor, and Sheriff.
       THE DISCOVERY: A letter from the Alabama Department of Forensic Sciences, accompanying the second autopsy report, was sent on May 17, 2004. Hoss Mack and his father, Wilters, and Whetstone were all aware of this report before Lawrence’s trial.
@@ -23,26 +24,32 @@ hooks:
       Jon Grey
       Walter McMillan (Parallel case)
     llm_text: Murray Lawrence Jr. endured a wrongful conviction in Baldwin County. Sheriff Hoss Mack and others deliberately withheld the May 17, 2004, forensic report, finally proving the system failed him.
+    text: Sheriff Hoss Mack and other officials hid the May 17, 2004, forensic report that proved Murray Lawrence Jr. was innocent. Why did the state hide the exact documents that cleared his name?
     widget_date: "2024-06-15"
     generated_at: "2026-11-06T17:04:43.527484Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hanky-panky-by-the-po-po:
+    refined_source: f57f7a966d5b4c966a187bc2a282ff3c43c7c5539767743a12cd77946f2422e7
     brief: "THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Fairhope, Baldwin County, Alabama. Allegations involve the Judge, Prosecutor, and Sheriff/Lead Investigator withholding evidence and conducting an inefficient investigation.\n\nTHE DISCOVERY: Historical internal corruption within the Baldwin County Sheriff's Department (BCSO) involving a cover-up of an affair between a high-ranking officer and a subordinate married to another officer. Sheriff Hoss Mack is accused of suppressing these details to avoid accountability.\n\nTHE PIVOT: The documented pattern of cover-ups and lack of transparency within the BCSO provides the systemic context for the alleged corruption in the Murray Lawrence Jr. case, specifically linking the conduct of Sheriff Hoss Mack (Lead Investigator) and Robert Wilters (Presiding Judge/DA) to a culture of administrative misconduct.\n\nKEY ENTITIES: \n- Murray Lawrence Jr. (Convicted individual)\n- Hoss Mack (Sheriff / Lead Investigator in Lawrence case)\n- Robert Wilters (District Attorney / Presiding Judge)\n- BCSO (Baldwin County Sheriff's Department)\n- Maxwell/Tillman (Pro bono defense attorneys)\n- Francis Paul Ripp (The Ripp Report)"
     llm_text: Murray Lawrence Jr. lost his freedom in Fairhope to a justice system that thrives on secrets. Once you see how Sheriff Hoss Mack and Robert Wilters cover up internal scandals, you'll understand how that same culture allowed them to withhold evidence and secure this conviction.
+    text: Sheriff Hoss Mack and Judge Robert Wilters hid evidence to secure a wrongful conviction in Baldwin County. How many other innocent people sit in prison because local leaders bury the files?
     widget_date: "2024-05-31"
     generated_at: "2026-11-06T17:04:18.931076Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   lee-county-no-justice-center:
+    refined_source: 89730956f80fb50d9be9420dc793f8d81f38bd7a2fa09fd09bdc3fd1ad06b51f
     brief: |-
       THE CONFLICT: Cole Barkley was convicted of attempted murder in Lee County, Alabama, following police misconduct (firing through a closed door without announcing identity) by an Auburn Police Department officer in 2021 (or prior to 2021).
       THE DISCOVERY: The conviction was supported by Judge Tickle (a former prosecutor) and local legal figures who imposed an excessive sentence of 45 years, despite the lack of intent to murder and police fault.
       THE PIVOT: The Barkley case (Lee County) demonstrates a systemic pattern of police/judicial/prosecutorial collusion and excessive sentencing in Alabama, providing context for the allegations of withheld evidence and corruption in the wrongful conviction of Murray Lawrence Jr. (Baldwin County).
       KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, BCSO, Cole Barkley, Nicole, Judge Tickle, Baldwin County, Lee County, Auburn PD
     llm_text: Cole Barkley received a 45-year attempted murder sentence after Auburn PD misconduct in Lee County, Alabama. This systemic judicial collusion connects to the wrongful conviction of Murray Lawrence Jr. in Baldwin County.
+    text: Cole Barkley received a 45-year sentence after police misconduct in Lee County. This judicial failure matches the exact pattern used to wrongfully convict Murray Lawrence Jr. in Baldwin County.
     widget_date: "2024-03-11"
     generated_at: "2026-11-06T17:07:24.514734Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   but-i-didnt-do-it:
+    refined_source: 51773ec370271ae69de767c1d129860edc22301db8c4e002ee080b02cbe81393
     brief: |-
       THE CONFLICT:
       *   In 2004, Murray Lawrence Jr., then 24 and working at the Grand Hotel in Fairhope, was arrested in Baldwin County, Alabama.
@@ -62,11 +69,13 @@ hooks:
       *   Hoss Mack
       *   Maxwell/Tillman (attorneys, pro bono)
       *   Francis Paul Ripp (The Ripp Report)
-    llm_text: In 2004, Murray Lawrence Jr. was falsely convicted of murder in Baldwin County, Alabama, earning an 18-year sentence for a crime he didn't commit. Discover how deep corruption within the BCSO and local officials framed him and led to this wrongful conviction.
+    llm_text: In 2004, Murray Lawrence Jr. was falsely convicted of murder in Baldwin County, Alabama, earning an 18-year sentence for a crime he didn't commit. Read how deep corruption within the BCSO and local officials framed him and led to this wrongful conviction.
+    text: Murray Lawrence Jr. served 18 years in prison for a murder he did not commit in Baldwin County. Local officials and the sheriff's office framed an innocent man and hid the truth.
     widget_date: "2023-08-16"
     generated_at: "2026-11-06T17:08:21.732819Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   no-justice:
+    refined_source: 0c454dd3fecbd72b0453b9ddfab439231c6967131f25b7e5347363edde7e2d89
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was sentenced to life without parole for the 2003 murder of Brandon Hastings in Baldwin County, Alabama.
@@ -94,10 +103,12 @@ hooks:
       *   2003 (Murder Date)
       *   July 2026 (Main Article Update)
     llm_text: Robert Wilters, Hoss Mack, and David Whetstone suppressed a critical 2003 autopsy report proving Brandon Hastings suffocated, not died from a gunshot. Learn how this deliberate misconduct led to Murray Lawrence Jr.'s life sentence and challenge the deep corruption in Baldwin County.
+    text: Robert Wilters, Hoss Mack, and David Whetstone hid a 2003 autopsy report that proved Brandon Hastings suffocated instead of dying from a gunshot. This cover-up sent Murray Lawrence Jr. to prison for life.
     widget_date: "2024-01-26"
     generated_at: "2026-11-06T17:06:10.208022Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   rule-32:
+    refined_source: 564280398edc6fd05861aa441437e5be10190943ef2ad203493faf1d2ec274c4
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted in Baldwin County, Alabama.
@@ -124,10 +135,12 @@ hooks:
       *   Maxwell/Tillman (Attorneys)
       *   The Ripp Report
     llm_text: Murray Lawrence Jr. spent 20 years wrongfully incarcerated after Baldwin County authorities willfully suppressed evidence. Signed documents implicate Sheriff Hoss Mack, DA Robert Wilters, and Prosecutor David Whetstone in this systemic cover-up.
+    text: Murray Lawrence Jr. spent 20 years in prison because Baldwin County authorities hid key evidence. Signed documents tie Sheriff Hoss Mack, District Attorney Robert Wilters, and Prosecutor David Whetstone to the cover-up.
     widget_date: "2023-12-14"
     generated_at: "2026-11-06T17:09:17.169287Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
+    refined_source: fca9f44387b11dc73abc38d37c50a50935166ccc45a7924b61734a93cf96deea
     brief: |-
       THE CONFLICT:
       - Systematic misconduct and excessive force by the Baldwin County Sheriff’s Office (BCSO) under Sheriff Huey “Hoss” Mack.
@@ -139,12 +152,12 @@ hooks:
       THE DISCOVERY:
       - Article 2 reveals a pattern of "secret police" behavior, including the selective release of body camera footage and the use of legal decisions (Lagniappe decision) to restrict public access to law enforcement records, 911 transcripts, and autopsy information.
       - Evidence of judicial bias, specifically involving Judge Scully, who is alleged to rule in favor of the BCSO in cases involving the Sheriff.
-      - Documentation of taxpayer funds ($700,000 for cameras) being used under the guise of transparency, while actual transparency is allegedly undermined by the department.
+      - Documentation of taxpayer funds ($700,000 for cameras) being used under the guise of transparency, while actual transparency is undermined by the department.
 
       THE PIVOT:
       - Article 2 establishes that Sheriff Hoss Mack was the lead investigator in the Murray Lawrence Jr. case.
       - The systemic patterns identified in Article 2—specifically the withholding of evidence, judicial collusion, and the culture of lack of accountability—provide the necessary context for the specific allegations in Article 1 regarding Lawrence’s wrongful conviction.
-      - Article 2 proves that the "inefficient investigation" and "withholding of evidence" alleged by Lawrence’s defense are not isolated incidents but part of a documented operational pattern within the BCSO.
+      - Article 2 shows that the "inefficient investigation" and "withholding of evidence" alleged by Lawrence’s defense are not isolated incidents but part of a documented operational pattern within the BCSO.
 
       KEY ENTITIES:
       - Murray Lawrence Jr. (Wrongfully convicted)
@@ -158,7 +171,8 @@ hooks:
       - Peyton Little (Deceased)
       - Mack Funeral Home (Private business of Sheriff Mack)
       - Alabama Press Association/Chief Justice Tom Parker (Regarding record access)
-    llm_text: Sheriff Huey “Hoss” Mack and Judge Scully allegedly run a "secret police" operation to hide Baldwin County's systemic misconduct. This pattern of withholding evidence and judicial bias reveals how the BCSO secured a wrongful conviction against Murray Lawrence Jr.
+    llm_text: Sheriff Huey “Hoss” Mack and Judge Scully run a "secret police" operation to hide Baldwin County's systemic misconduct. This pattern of withholding evidence and judicial bias reveals how the BCSO secured a wrongful conviction against Murray Lawrence Jr.
+    text: Sheriff Huey Hoss Mack and Judge Scully run a secret operation to hide misconduct in Baldwin County. Their pattern of hiding evidence led directly to the wrongful conviction of Murray Lawrence Jr.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T17:08:22.048569Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'

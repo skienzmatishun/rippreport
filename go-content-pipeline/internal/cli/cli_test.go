@@ -138,7 +138,7 @@ func TestApp_NewPodcastPost(t *testing.T) {
 	}{
 		{"podcast URL", []string{"--title", "Friday Roundup", "--podcast", "https://www.youtube.com/watch?v=pXUsuYKgCmk", "--tags", "roundup"}, true},
 		{"podcast ID before title", []string{"--podcast", "pXUsuYKgCmk", "--title", "Friday Roundup"}, true},
-		{"youtube flag", []string{"--title", "Friday Roundup", "--youtube", "pXUsuYKgCmk", "--categories", "local,podcast"}, true},
+		{"youtube flag", []string{"--title", "Friday Roundup", "--youtube", "pXUsuYKgCmk", "--categories", "local,dixie-podcast"}, true},
 		{"boolean podcast", []string{"--title", "Friday Roundup", "--podcast", "--categories", "local"}, false},
 	} {
 		t.Run(tc.name, func(t *testing.T) {
@@ -195,8 +195,8 @@ esac
 				t.Fatal(err)
 			}
 			content := string(post)
-			if strings.Count(content, "  - podcast\n") != 1 {
-				t.Fatalf("expected one podcast category: %s", content)
+			if strings.Count(content, "  - dixie-podcast\n") != 1 {
+				t.Fatalf("expected one dixie-podcast category: %s", content)
 			}
 			if strings.Contains(strings.Join(tc.args, " "), "local") && !strings.Contains(content, "  - local\n") {
 				t.Fatal("lost explicit category")

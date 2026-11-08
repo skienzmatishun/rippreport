@@ -1,0 +1,190 @@
+metadata:
+  generated_at: "2026-11-07T17:28:29.780092Z"
+  generator_version: 1.0.0
+  post_slug: wear-a-mask
+  main_date: "2020-07-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  howling-rains:
+    refined_source: 6cc62f909846deb3707cc6d923a279c756c81b6c415e53820b780bf45ed53d9d
+    brief: "THE CONFLICT:\n- 2008 and 2012 Fairhope municipal elections suspected of being rigged.\n- 2016 election where Mayor Karin Wilson defeated a 16-year incumbent.\n- Ongoing obstruction by the Fairhope City Council against Mayor Wilson’s administration.\n- Disputes over the $11.25 million \"Triangle Park\" and a $6.2 million Waterfront Grant funded by the Restore Act (BP Deepwater Horizon oil spill funds).\n- Alleged political manipulation of the Fairhope Waterfront project by opponents.\n\nTHE DISCOVERY:\n- \"Howling Rains\" is identified as a \"Catalyst HACK\" with a documented history of plagiarism and manufacturing quotes.\n- \"Chuckie Cheeze\" serves as Aid De Camp for the Baldwin County legislative delegation and is linked to the \"Status Quo.\"\n- \"Catalyst\" (Scott Boone Consulting) is identified as the entity controlling the local political narrative and acting as the \"Status Quo\" in Baldwin County.\n- The Fairhope City Council is accused of prioritizing self-interest (voted themselves raises/insurance) and political control over community needs.\n\nTHE PIVOT:\n- Article 2 identifies the specific demographic—the \"Status Quo\" and \"Catalyst\" network—that controls local social and political behavior. \n- The \"selfish\" and \"intelligent\" individuals described in Article 1 as refusing to wear masks and endangering the community represent the same \"Status Quo\" group identified in Article 2: a power structure accused of prioritizing personal interests, political maneuvering, and \"party\" behavior over the welfare, safety, and legal/ethical responsibilities to the broader community.\n\nKEY ENTITIES:\n- Jani Handwerger (Mobile resident/Author)\n- Howling Rains (Journalist/Political actor)\n- Chuckie Cheeze (Aid De Camp, Baldwin County legislative delegation)\n- Mayor Karin Wilson (Fairhope Mayor)\n- Catalyst / Scott Boone Consulting (Political consulting group)\n- Fairhope City Council\n- Jerry Carl (Candidate)\n- Baldwin County legislative delegation"
+    llm_text: A shadow network uses Catalyst and "Howling Rains" to manipulate Fairhope’s political narrative and obstruct Mayor Karin Wilson. See how these "Status Quo" insiders weaponize local projects and public funds to protect their own power at the community's expense.
+    text: A shadow network uses Catalyst to manipulate Fairhope’s political narrative and obstruct Mayor Karin Wilson. These insiders weaponize public funds to protect their own power.
+    widget_date: "2020-07-06"
+    generated_at: "2026-11-07T17:23:37.339842Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  dark-wednesday:
+    refined_source: 1f877828ba51fd0e8d118a1cdb698b567f431a18c72d385c3b5642902f5e0ae5
+    brief: |-
+      THE CONFLICT: 100,000 American deaths due to Covid-19 occurred within 111 days.
+      THE DISCOVERY: Covid-19 is confirmed as real ("no hoax"); masks and social distancing are effective; Alabama experienced a 50% rise in Covid-19 cases (one of three states).
+      THE PIVOT: The documented high mortality and regional case spikes (Article 2) provide the factual basis for the anxiety and warning (SPIKING numbers) expressed by Jani Handwerger Mobile in Article 1, urging the public to stop congregating and start wearing masks.
+      KEY ENTITIES: Jani Handwerger Mobile, Alabama, Covid-19
+    llm_text: Alabama saw a 50% Covid-19 spike, contributing to 100,000 US deaths in 111 days. Jani Handwerger Mobile uses these facts to urge the public to wear masks and stop congregating.
+    text: Alabama saw a 50 percent COVID-19 spike during a period of 100,000 US deaths in 111 days. Jani Handwerger uses these facts to urge the public to wear masks.
+    widget_date: "2020-05-27"
+    generated_at: "2026-11-07T17:25:53.585284Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  money-on-the-table:
+    brief: |-
+      THE CONFLICT:
+      - Main Article (Article 1) is a letter to the editor by Jani Handwerger concerning COVID-19.
+      - Writer states they are mad, worried, and scared.
+      - Writer blames non-mask wearers and partygoers for endangering family, friends, and ME.
+      - Writer says numbers are spiking.
+      - Writer says demographic testing positive now is the non-mask wearers/partygoers.
+      - Writer says they are transmitting COVID-19 to families.
+      - Writer mentions high-risk parents and children at home who may get sicker.
+      - Writer says all want to get out and have fun, but cannot because of non-mask wearers.
+      - Writer says older generation worked and saved so younger generation could have childhood memories and enjoy lives.
+      - Writer says older generation hoped for fun in Golden Years, but cannot because of non-mask wearers.
+      - Writer begs people to stop partying, stop congregating, start wearing masks in public.
+      - Writer says do not let the world blame you.
+
+      - Article 2 (widget) is older/background context: Fairhope City Council is CATALYST through and through.
+      - Article 2 states council opposes, procrastinates, or refuses anything Mayor may propose.
+      - Article 2 states even projects previously endorsed by council are delayed or canceled by council.
+      - Article 2 states after 3.5 years, Fairhope Waterfront Project is finally on drawing board.
+      - Article 2 states Fairhope Waterfront Project is $6.2 million.
+      - Article 2 states in work session, prior to council meeting, detailed 48 min presentation was given to council.
+      - Article 2 states timing important with permitting phase; council asked for guidance or OK to proceed.
+      - Article 2 states mayor was passionate about project, however fell on deaf ears.
+      - Article 2 states council took no immediate action on plan but will likely revisit during council meeting at later date.
+      - Article 2 states next meeting is May 11th, another delay and money on table.
+
+      THE DISCOVERY:
+      - Article 2 revealed council refused Mayor’s Marketing Plan for all businesses in Fairhope.
+      - Article 2 revealed Mayor wished to hire marketing firm and come up with strategy for Fairhope business owners affected by COVID-19 pandemic.
+      - Article 2 revealed included plan to welcome tourists back to Fairhope.
+      - Article 2 revealed to finance $65,000 proposal, Mayor suggested raising lodging tax from 6% to 7%, paid by tourists, and implement ½ cent gas tax.
+      - Article 2 revealed Fairhope is only municipality that does not have gas tax where average is 1%.
+      - Article 2 revealed council refused to accept either proposal, leaving MONEY ON THE TABLE.
+
+      - Article 2 revealed council refused to consider Mayor’s Marketing Plan.
+      - Article 2 revealed council refused to finance $3,000,000 school tax Mayor proposed.
+      - Article 2 revealed Mayor had plan to finance same $3,000,000 without tax.
+      - Article 2 revealed council refused; taxpayers got blindsided by politics.
+
+      - Article 2 revealed Mayor suggested annual payments made to Hatch program and Baldwin County Economic Development Alliance should be appropriations.
+      - Article 2 revealed Mayor supported Hatch program from beginning.
+      - Article 2 revealed council rejected idea without suggestions, except wait and see approach.
+
+      - Article 2 revealed City of Fairhope annually donates $35,000 to Baldwin County Economic Development Alliance, $15,000 to Eastern Shore Chamber of Commerce, and $21,000 to Downtown Business Association.
+      - Article 2 revealed latter two are member based.
+
+      - Article 2 revealed council rejected any help to business community, instead reinforced position with BCEDA.
+      - Article 2 revealed BCEDA’s $35,000 will most likely go to executive salary or payroll for BCEDA.
+
+      - Article 2 revealed council supported raising its salary and full family insurance for entire council, approximately $125,000.
+
+      - Article 2 revealed Councilman Burrell, Brown and Boone, the 3 B’s, without public participation, purchased 2.65 million for recreation land then leased it for $9,000 a year.
+      - Article 2 revealed Fairhope desperately needs that money now.
+      - Article 2 revealed council has no plan and no money for development of this property.
+      - Article 2 revealed deal stinks of CATALYST.
+
+      - Article 2 revealed council made repeated efforts to give away Triangle property that cost taxpayers $13 million in legal settlement.
+      - Article 2 revealed beware they will try it again before municipal elections.
+
+      - Article 2 revealed council paid $2.5 million for K-1 Center, Fairhope Community Park and Nix Center.
+      - Article 2 revealed council allowed nothing for immediate repairs and elected to put temporary roof on K-1 Center and have no renovation plans, or money, for properties.
+
+      - Article 2 revealed council, especially Burrell, spent over half a million dollars on Clock property, final price may exceed $600,000 for 1,000 sq ft.
+      - Article 2 revealed Burrell and council oppose spending $65,000 for Fairhope business interest while ignoring trillions federal government spending to protect business and employees.
+
+      - Article 2 revealed council’s attention to opening Quail Creek Golf Course.
+      - Article 2 revealed in angry outburst, Burrell blamed Mayor for closing golf course.
+      - Article 2 revealed what Burrell did not explain is council could have opened golf course anytime they wished, they just dropped the ball and wanted to blame Mayor for lack of action.
+      - Article 2 revealed Mayor closed course for public health concerns.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun or key context for Article 1 because it documents Fairhope City Council actions and inaction during COVID-19.
+      - Article 2 provides background for local political conflict between Mayor Dane Haygood and CATALYST council.
+      - Article 2 shows council refusal
+    llm_text: Jan Handwerger is mad, worried, and scared, blaming maskless partygoers for spiking COVID cases that threaten her family. Fairhope's council refused the Mayor's $65,000 marketing plan and millions more, leaving money on the table as the pandemic drags on.
+    text: Jan Handwerger is mad, worried, and scared, blaming maskless partygoers for spiking COVID cases that threaten her family. Fairhope's council refused the Mayor's $65,000 marketing plan and millions more, leaving money on the table as the pandemic drags on.
+    widget_date: "2020-04-29"
+    generated_at: "2026-11-07T17:24:04.885711Z"
+    model_name: recursive/flint-v1.0:free
+  american-citizen:
+    refined_source: db8c1412f25cdb736e368bbba2876fab7cc437f79fe45c1a5c6a81f7bdf27804
+    brief: |-
+      THE CONFLICT:
+      *   Paula Dinardi was assaulted by Ronan McSharry in November 2018 in Fairhope.
+      *   The assault resulted in physical injury to Dinardi.
+      *   McSharry is a Green Card holder from Ireland with an extensive police record.
+      *   Judicial failure occurred due to a defect in the first charging document (lacking the wording "Did cause physical injury to another") which was not amended within the one-year statute.
+
+      THE DISCOVERY:
+      *   The procedural defect allowed McSharry to plead guilty and escape full prosecution despite medical evidence supporting the claim of physical injury.
+      *   The City Attorney and Municipal Judge were involved in the failure, both of whom were appointed by the City Council.
+      *   Dinardi, an American Citizen, suffered job loss and 17 months of stress due to the judicial process.
+
+      THE PIVOT:
+      *   The 2018 case exposes alleged Baldwin County incompetence, political interference (Council President Burrell), and judicial failure in protecting local citizens (Paula Dinardi) against the influence of non-citizen perpetrators (Ronan McSharry).
+      *   This context of local governance failure and citizen welfare vulnerability provides a backdrop to current public concern over civic responsibility and public health compliance (COVID-19) highlighted in the newer article.
+
+      KEY ENTITIES:
+      *   Paula Dinardi (American Citizen, victim)
+      *   Ronan McSharry (Green Card holder, perpetrator)
+      *   Jani Handwerger Mobile
+      *   Fairhope City Prosecutor Marcus McDowell
+      *   Municipal Judge Snedeker/Stankowski
+      *   City Attorney (appointed by City Council)
+      *   Council President Burrell
+      *   American Legion Tiki Bar
+    llm_text: Paula Dinardi was assaulted by Ronan McSharry in Fairhope, yet a procedural defect allowed McSharry to escape full prosecution. This judicial failure, involving City Attorney and Council President Burrell, exposes local governance flaws impacting citizen welfare.
+    text: Paula Dinardi was assaulted by Ronan McSharry in Fairhope, but a procedural defect allowed McSharry to escape full prosecution. City Attorney and Council President Jack Burrell shares blame in this judicial failure.
+    widget_date: "2020-04-22"
+    generated_at: "2026-11-07T17:27:06.808784Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  april-fool:
+    refined_source: eb22fc13e1f07f95abd28d1e72cb2fe2fad51b3efa8e74ccca6892ca96e4cfd9
+    brief: |-
+      THE CONFLICT:
+      *   April Fool's Day context established in Alabama.
+      *   Citizens in Alabama exhibited skepticism regarding COVID-19, believing it was a hoax or a China conspiracy, or merely a flu.
+      *   Current conflict (Article 1): Jani Handwerger Mobile protests non-mask wearing and public congregation, noting SPIKING COVID-19 numbers and the resulting endangerment of families and the "Golden Years" of the older generation.
+
+      THE DISCOVERY:
+      *   Alabama is ranked dead last nationally in health, education, and job opportunities.
+      *   Alabama is ranked first in the nation for political corruption.
+      *   A $10,000.00 COVID-19 economic injury disaster loan was available through the Small Business Administration (SBA).
+
+      THE PIVOT:
+      *   Article 2 establishes the historical context of political corruption and widespread scientific skepticism in Alabama, framing the crisis as linked to political apathy ("virus and politics are a lot alike").
+      *   This foundational skepticism is the root cause of the non-compliance and public risk lamented by Jani Handwerger Mobile in Article 1, where the demographic testing positive is the non-mask wearing/partying public.
+
+      KEY ENTITIES:
+      *   Jani Handwerger Mobile
+      *   Alabama
+      *   Small Business Administration (SBA)
+      *   COVID-19
+    llm_text: Jani Handwerger Mobile warns Alabama about spiking COVID-19, challenging skepticism rooted in state failure. Alabama ranks first in political corruption, missing out on $10k SBA relief and facing a severe national health crisis.
+    text: Jani Handwerger warns Alabama about spiking COVID-19 cases and challenges state skepticism. Alabama ranks first in political corruption while missing out on $10,000 SBA relief funds.
+    widget_date: "2020-04-01"
+    generated_at: "2026-11-07T17:24:57.441877Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  virus-vs-catalyst:
+    refined_source: e2596f5bc24854e98d90c4f516b2f161e25263cc16bed7222afc542b7638fa5a
+    brief: |-
+      THE CONFLICT: Alabama primary runoff elections (March 31, 2020) were delayed to July 14, 2020, affecting the First Congressional seat race. Jerry Carl won the primary over Hightower and the CATALYST candidate.
+      THE DISCOVERY: Jerry Carl, as President of the Mobile County Commission and member of Mobile’s Health Board, was actively handling the COVD-19 crisis during the political race, contrasting with CATALYST candidates whose support was linked to local political corruption (e.g., Mayor Haygood in Daphne, TAX MAN Elliott in Orange Beach).
+      THE PIVOT: Article 2 establishes Jerry Carl's established, proactive leadership and commitment to public health during the COVD-19 crisis *before* the widespread public frustration detailed in Article 1, legitimizing his later calls for mask-wearing and compliance.
+      KEY ENTITIES: Jerry Carl, Hightower, CATALYST, Jani Handwerger Mobile, Chris Pringle, Wes Lambert, Stacy, Elliott, Haygood, Scott Boone, Mobile County Commission, Mobile’s Health Board.
+    llm_text: Jerry Carl proactively managed the COVID-19 crisis through the Mobile County Commission, contrasting sharply with corrupt CATALYST figures like Mayor Haygood and TAX MAN Elliott. See how his health board leadership legitimized his calls for compliance during the Alabama runoff.
+    text: Jerry Carl managed the COVID-19 crisis through the Mobile County Commission. His health board leadership contrasts sharply with Catalyst figures like Mayor Stacy Haygood and Chris Elliott.
+    widget_date: "2020-03-19"
+    generated_at: "2026-11-07T17:28:10.396007Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  attention-baldwin-county:
+    refined_source: 61f967f25fd7852b68fbd4622b2236a0c28f0c7fb69c70bc2a4a92c69d878cb5
+    brief: |-
+      THE CONFLICT: Jerry Carl was a congressional candidate campaigning for the July 14th election.
+      THE DISCOVERY: The Widget article highlighted the political dynamic, questioning whether "Lowtower" was a "CATALYST."
+      THE PIVOT: The political context established in the older Widget article provides the backdrop for the public health and social behavior debate (masking/congregating) raised in the newer Main article.
+      KEY ENTITIES: Jerry Carl; Jani Handwerger; Mobile; July 14th
+    llm_text: Jerry Carl is running for the July 14th election in Mobile. Does the "Lowtower" dynamic act as a catalyst, connecting his political race to the wider public health debates on masking and congregating?
+    text: Jerry Carl runs in the July 14th election in Mobile. Does the Lowtower dynamic connect his political race to wider public health debates on masking?
+    widget_date: "2020-07-07"
+    generated_at: "2026-11-07T17:23:45.859321Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

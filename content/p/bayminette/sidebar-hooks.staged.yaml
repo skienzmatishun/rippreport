@@ -6,12 +6,14 @@ metadata:
   model_name: plugsky-lite
 hooks:
   delight:
+    refined_source: 5791260c3c4388f879f4f134100c6f6662e6e401f1d62f0c0d8a599e95f09db8
     brief: |-
       THE CONFLICT: Fairhope taxpayers face a $10 million federal lawsuit filed on Oct. 27 concerning Gables on Lawrence and Skyline Village; previous incident involved the Triangle costing taxpayers $11.25 million.
       THE DISCOVERY: Widget Article is older than Main Article (implied by temporal context rule) but focuses on Fairhope financial mismanagement, not Bay Minette land deals.
       THE PIVOT: Widget Article establishes a pattern of financial controversy and rule-changing within local Alabama government (Fairhope), setting a tone of taxpayer vulnerability and political disregard that underpins the Bay Minette self-dealing allegations in the Main Article.
       KEY ENTITIES: Fairhope, Mayor Can't, Hand Anderall Sale, Attorney Cain O’Rear, Single Tax Corporation, Bob Wills, Guy Busby, Baldwin County Commission, Commissioner Billie Jo Underwood, Commissioner Jeb Ball, Cliff McCollum, Robert A. Wills, Sr.
     llm_text: Fairhope taxpayers now face a $10 million lawsuit over Gables and Skyline Village. Discover this pattern of local financial mismanagement before the Bay Minette self-dealing allegations take center stage.
+    text: Fairhope taxpayers now face a $10 million lawsuit over Gables and Skyline Village. Discover this pattern of local financial mismanagement before Bay Minette self-dealing allegations take center stage.
     widget_date: "2022-11-04"
     generated_at: "2026-11-06T20:23:42.755001Z"
     model_name: plugsky-lite
@@ -57,6 +59,7 @@ hooks:
       - Fairhope.
       - Alabama.
     llm_text: The Baldwin County Commission voted to lease 125 D’Olive Street to the Baldwin County Legislative Delegation, but Mayor Bob Wills pushed a justice center and a new downtown jail. Now Veterans Day in Alabama gives that lease a patriotic backdrop, and ethics complaints and an Alabama Bar complaint hang over the mayor.
+    text: The Baldwin County Commission voted to lease 125 D’Olive Street to the Baldwin County Legislative Delegation, but Mayor Bob Wills pushed a justice center and a new downtown jail. Now Veterans Day in Alabama gives that lease a patriotic backdrop, and ethics complaints and an Alabama Bar complaint hang over the mayor.
     widget_date: "2022-11-04"
     generated_at: "2026-11-06T20:24:33.038735Z"
     model_name: recursive/flint-v1.0:free

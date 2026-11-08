@@ -5,92 +5,16 @@ metadata:
   main_date: "2024-06-20"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid (Baldwin County) was accused of an affair with a subordinate; the Sheriff Department investigated and found policy violations but no evidence of an affair.
-      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and is attempting to control the veterans’ board; a true crime story in Clarke County exposed shady ties between a hospice and a judge.
-      THE PIVOT: Both articles document instances of institutional failure and systemic corruption within Alabama, specifically involving law enforcement/local government (Baldwin County) and state political/judicial bodies (Ivey/Clarke County).
-      KEY ENTITIES: Captain Andre Reid, Baldwin County, Governor Kay Ivey, Admiral Kent Davis, John Wahl, Clarke County.
-    llm_text: Captain Andre Reid faced policy violations in Baldwin County, but Governor Kay Ivey is also wrestling with corruption after firing Admiral Kent Davis. See how systemic failure—from local law enforcement to state politics—is reshaping power across Alabama.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T16:57:59.978148Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT:
-      - Captain Andre Reid (Baldwin County) accused of having an affair with a subordinate.
-      - Investigation by Baldwin County Sheriff's Department found policy violations but no evidence of an affair; Reid suffered no loss of pay and was assigned as Captain of the Baldwin County Correction Center.
-      - Allegations of a "Sheriff's Circle of Protection" used to cover up misconduct.
-      - Federal investigation ongoing regarding missing evidence in the possession of Baldwin County deputies working under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
-      - In Choctaw County, a murder-for-hire complaint was forwarded to the local Sheriff instead of the AG due to the suspect's family connection to the Sheriff.
-
-      THE DISCOVERY:
-      - Confirms a systemic pattern of law enforcement investigating its own "mishaps" with "no accountability."
-      - Identifies broader corruption where companies with political ties secure million-dollar contracts.
-      - Reveals a scandal involving public scholarship funds being diverted to political insiders.
-
-      THE PIVOT:
-      - Article 2 provides the systemic framework for Article 1; it transforms the Andre Reid/Baldwin County incident from an isolated personnel issue into evidence of a documented, widespread pattern of law enforcement impunity and political corruption in the region.
-
-      KEY ENTITIES:
-      - Captain Andre Reid
-      - Baldwin County Sheriff's Department
-      - Baldwin County Correction Center
-      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
-      - Choctaw County Sheriff
-      - AG Marshall
-      - John Wahl (ALGOP Party Chairman)
-    llm_text: Captain Andre Reid kept his position and pay in Baldwin County despite serious misconduct allegations. This case exposes a systemic "Circle of Protection" where corrupt officials and political insiders investigate their own mishaps to avoid any real accountability.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T16:57:19.098174Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023 and Commander of the Major Crimes Unit, was accused of having an affair with a subordinate; the Sheriff Department investigated and found policy violations in 2024.
-      THE DISCOVERY: The Baldwin County Sheriff's Department is linked to the theft of a 1968 Camaro (Mack vs Hadley case); historical misconduct involving Sheriff Mack's father/Coroner in 2005 related to undisclosed autopsies (Brady Violation) was uncovered.
-      THE PIVOT: Article 2 demonstrates systemic and historical corruption within the Baldwin County Sheriff's Department, providing context to the specific conduct allegations against Captain Andre Reid in Article 1.
-      KEY ENTITIES: Captain Andre Reid, Baldwin County Sheriff's Department, Mack vs Hadley, Sheriff Mack, Coroner of Baldwin County, Mark Fuller, Luigi Manjone
-    llm_text: Captain Andre Reid faced policy violations, but his case reveals deeper issues. Historical misconduct, including the Mack vs Hadley theft and Sheriff Mack's father's 2005 Brady violation, exposes systemic corruption in the Baldwin County Sheriff's Department.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T17:00:13.620318Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid (Baldwin County, Major Crimes Unit) was accused of having an affair with a subordinate; the Sheriff Department investigated and found policy violations but no evidence of an affair.
-      THE DISCOVERY: The podcast (June 20, 2024) covers President Biden's pardon of his son Hunter, alongside broader allegations of misconduct against various officials and wrongful arrests exposing local corruption.
-      THE PIVOT: Article 2 places the localized cover-up in the "Sheriff's Circle of Protection" within a larger context of national political impunity (Biden/Hunter pardon) and documented misconduct by state/local officials.
-      KEY ENTITIES: Captain Andre Reid, Baldwin County, Sheriff Department, President Biden, Hunter Biden, John Wahl
-    llm_text: Baldwin County Captain Andre Reid faced misconduct claims, but the Sheriff Department found no affair evidence. Discover how this local cover-up connects to national impunity, linking to President Biden's Hunter pardon and documented local corruption.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-06T17:01:18.093867Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid, Baldwin County (Baldwin Countian of the Year 2023), was accused of having an affair with a subordinate. The Sheriff Department investigated, finding policy violations but no evidence of an affair.
-      THE DISCOVERY: Backstory Podcast No. 186 (June 20, 2024) covered various Alabama topics including closing rural hospitals and changes to hunting seasons.
-      THE PIVOT: Article 2 (Podcast No. 186) does not provide new facts or context regarding the Captain Andre Reid affair allegations or the Baldwin County investigation.
-      KEY ENTITIES: Captain Andre Reid, Baldwin County, Sheriff Department, RSA, David Bronner, John Wahl, Christopher Bauer
-    llm_text: Captain Andre Reid, Baldwin County’s 2023 Countian of the Year, faced serious affair allegations that rocked the community. The Sheriff Department investigated, finding policy violations but determining they found no evidence of the affair itself.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T16:58:59.732995Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: 67f8000cbaeed9bafacfc442ae81436c06fd5fedbff0d90f2740a04bf0dc22d8
     brief: "THE CONFLICT: \n- Captain Andre Reid (Baldwin County Major Crimes/CID) accused of having an affair with a subordinate.\n- Allegations surfaced regarding a \"Sheriff's Circle of Protection\" used to cover up misconduct within the Baldwin County Sheriff's Department.\n- Result: No loss of pay for Reid; he was subsequently placed in charge of the Baldwin County Correction Center.\n\nTHE DISCOVERY: \n- Update regarding legal efforts to suppress evidence in local law enforcement cases.\n- The City of Bay Minette is being sued by the family of OJ French Jr. following his death involving BMPD Officer Brandon Thompson.\n- Attorney Andy Ruten is representing the City and has requested a judge block the public release of officer bodycam footage.\n\nTHE PIVOT: \n- Article 2 provides the operational evidence of the \"Circle of Protection\" alleged in Article 1. \n- It demonstrates the mechanism of accountability avoidance: using legal counsel (Ruten) to shield evidence (bodycam) and utilizing reciprocal professional relationships (Ruten’s firm hiring Bay Minette Mayor Bob Wills) to maintain a closed loop of local power.\n\nKEY ENTITIES: \n- Andre Reid (Captain, Baldwin County)\n- OJ French Jr. (Deceased)\n- Brandon Thompson (BMPD Officer)\n- Andy Ruten (Mobile Attorney)\n- Bob Wills (Mayor of Bay Minette)\n- Baldwin County Sheriff's Department\n- Bay Minette Police Department (BMPD)"
     llm_text: Captain Andre Reid walked away from misconduct allegations with a promotion, fueling claims of a "Sheriff's Circle of Protection." See how attorney Andy Ruten uses legal maneuvers and ties to Mayor Bob Wills to suppress bodycam footage and shield local officers from accountability.
+    text: Captain Andre Reid received a promotion despite documented policy violations. Attorney Andy Ruten used legal strategies to suppress body camera footage and protect local officers.
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T16:59:12.456989Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid (Baldwin County, Major Crimes Unit) was accused of having an affair with a subordinate; the Sheriff Department found no evidence of affair but confirmed policy violations. The death of Thomas Daniel "Danny" Williams Jr. occurred on May 27, 2022, in Orange Beach, Alabama.
-      THE DISCOVERY: On June 20, 2024, a reward is offered for information regarding the unsolved death of Thomas Daniel "Danny" Williams Jr. Article 2 also reports on MS-13 Operations in Baldwin County.
-      THE PIVOT: Article 2 provides context of ongoing serious criminal activity (MS-13, unsolved 2022 murder) within Baldwin County, aligning with the concerns of police corruption and the "Sheriff's Circle of Protection" cited in Article 1.
-      KEY ENTITIES: Captain Andre Reid, Baldwin County, Thomas Daniel "Danny" Williams Jr., Orange Beach, MS-13, Sheriff Department.
-    llm_text: 'Baldwin County faces serious threats: Captain Andre Reid faced policy violations, while MS-13 operates locally. Help solve the 2022 murder of Thomas Daniel "Danny" Williams Jr. now, as a reward is available.'
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T17:02:39.822242Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: e5446edbeaac01a202299ab788cd43d5d8e7b1fb03a5218d858c6b03c59791c9
     brief: |-
       THE CONFLICT:
       - Captain Andre Reid (Baldwin County, 2023 Nappie Award winner, former Commander of Major Crimes Unit) accused of having an affair with a subordinate.
@@ -113,20 +37,24 @@ hooks:
       - The Renaissance School
       - Christopher Bauer (former FBI agent/Alabama State Trooper)
     llm_text: Captain Andre Reid avoided consequences after policy violations while federal agents investigated OCDEFT evidence tampering in Baldwin County. Now, a new command staff must navigate the wreckage of a department that used a "Circle of Protection" to shield its own.
+    text: Captain Andre Reid avoided severe discipline after policy violations during federal evidence investigations. New command staff now manage a department facing intense public scrutiny.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T17:00:34.452840Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   the-180:
+    refined_source: f5978ea269fb04e53c38d5152885701f1ab20f11b51d39442ebb8c953058977f
     brief: |-
       THE CONFLICT: Captain Andre Reid, Commander of the Major Crimes Unit in Baldwin County, was accused of an affair with a subordinate, leading to policy violations (though no evidence of the affair was found). A Federal Investigation is ongoing regarding evidence held by Baldwin County Sheriff's Deputies serving as OCDEFT Federal Agents. Former FBI agent Christopher Bauer, who raped a co-worker and a child, became an Alabama State Trooper in 2019. An Alabama Attorney General forwarded a murder for hire complaint in Choctaw County to the local Sheriff due to the AG's family connection to an alleged participant.
       THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has only one week remaining in office, and the Governor is currently selecting a replacement.
       THE PIVOT: The local corruption and police misconduct detailed in the earlier reporting (e.g., Andre Reid's situation, the OCDEFT investigation, and the AG's conflict of interest in Choctaw County) is happening immediately prior to a major political transition in the Baldwin County Sheriff's office.
       KEY ENTITIES: Captain Andre Reid, Sheriff Mack, Baldwin County, Kamala Harris, Christopher Bauer, Alabama Attorney General, OCDEFT.
-    llm_text: Captain Andre Reid's policy violations and the OCDEFT investigation are happening right before Sheriff Mack leaves his Baldwin County post. Discover how this local corruption shapes the critical transition of the Sheriff's office.
+    llm_text: Captain Andre Reid's policy violations and the OCDEFT investigation are happening right before Sheriff Mack leaves his Baldwin County post. Read how this local corruption shapes the critical transition of the Sheriff's office.
+    text: Captain Andre Reid faced policy violations just as Sheriff Hoss Mack prepared to leave office. This transition period highlights long-standing governance issues in the sheriff department.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T17:03:39.352752Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: f4069afb7598ada10ba3b2c8631d982a5611b29c8015206636907035d50362f7
     brief: |-
       THE CONFLICT:
       - Allegations of a "Sheriff's Circle of Protection" in Baldwin County involving Captain Andre Reid, who faced misconduct allegations but retained his position and was moved to lead the Baldwin County Correction Center.
@@ -154,6 +82,98 @@ hooks:
       - Baldwin County Major Crimes Unit
       - Organized Crime Drug Enforcement Taskforce (OCDEFT)
     llm_text: The OJ French Jr. lawsuit exposes the "Sheriff's Circle of Protection" through a web of alleged cover-ups. From Mayor Robert Bob Wills’ blatant lies to the suppression of critical video, this case reveals how Baldwin County leaders shield their own from justice.
+    text: The OJ French Jr. lawsuit details allegations of suppressed video evidence and official dishonesty. City and county leaders consistently shield their own employees from legal consequences.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T17:01:42.996635Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 36fee865ec4613fdf19a0b2943c2c3373de2d0d3679ff48a1671e483444c4cee
+    brief: |-
+      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023 and Commander of the Major Crimes Unit, was accused of having an affair with a subordinate; the Sheriff Department investigated and found policy violations in 2024.
+      THE DISCOVERY: The Baldwin County Sheriff's Department is linked to the theft of a 1968 Camaro (Mack vs Hadley case); historical misconduct involving Sheriff Mack's father/Coroner in 2005 related to undisclosed autopsies (Brady Violation) was uncovered.
+      THE PIVOT: Article 2 demonstrates systemic and historical corruption within the Baldwin County Sheriff's Department, providing context to the specific conduct allegations against Captain Andre Reid in Article 1.
+      KEY ENTITIES: Captain Andre Reid, Baldwin County Sheriff's Department, Mack vs Hadley, Sheriff Mack, Coroner of Baldwin County, Mark Fuller, Luigi Manjone
+    llm_text: Captain Andre Reid faced policy violations, but his case reveals deeper issues. Historical misconduct, including the Mack vs Hadley theft and Sheriff Mack's father's 2005 Brady violation, exposes systemic corruption in the Baldwin County Sheriff's Department.
+    text: Captain Andre Reid faced policy violations while older department scandals resurfaced. Past cases like the Mack and Hadley theft expose persistent internal problems in the department.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T17:00:13.620318Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: 80fb969085a843d3ab548de9d77fc8532229e348e4decb8ed787a84ef9ab19dc
+    brief: |-
+      THE CONFLICT: Captain Andre Reid (Baldwin County, Major Crimes Unit) was accused of having an affair with a subordinate; the Sheriff Department found no evidence of affair but confirmed policy violations. The death of Thomas Daniel "Danny" Williams Jr. occurred on May 27, 2022, in Orange Beach, Alabama.
+      THE DISCOVERY: On June 20, 2024, a reward is offered for information regarding the unsolved death of Thomas Daniel "Danny" Williams Jr. Article 2 also reports on MS-13 Operations in Baldwin County.
+      THE PIVOT: Article 2 provides context of ongoing serious criminal activity (MS-13, unsolved 2022 murder) within Baldwin County, aligning with the concerns of police corruption and the "Sheriff's Circle of Protection" cited in Article 1.
+      KEY ENTITIES: Captain Andre Reid, Baldwin County, Thomas Daniel "Danny" Williams Jr., Orange Beach, MS-13, Sheriff Department.
+    llm_text: 'Baldwin County faces serious threats: Captain Andre Reid faced policy violations, while MS-13 operates locally. Help solve the 2022 murder of Thomas Daniel "Danny" Williams Jr. now, as a reward is available.'
+    text: Captain Andre Reid faced policy violations while local law enforcement investigated regional safety threats. Investigators still seek tips to solve the 2022 murder of Thomas Williams Jr.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T17:02:39.822242Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 4591abbdddf7adb60bbbf752a458f7e80ae2a30b52bc02be613ddb159f0e8aa6
+    brief: |-
+      THE CONFLICT: Captain Andre Reid, Baldwin County (Baldwin Countian of the Year 2023), was accused of having an affair with a subordinate. The Sheriff Department investigated, finding policy violations but no evidence of an affair.
+      THE DISCOVERY: Backstory Podcast No. 186 (June 20, 2024) covered various Alabama topics including closing rural hospitals and changes to hunting seasons.
+      THE PIVOT: Article 2 (Podcast No. 186) does not provide new facts or context regarding the Captain Andre Reid affair allegations or the Baldwin County investigation.
+      KEY ENTITIES: Captain Andre Reid, Baldwin County, Sheriff Department, RSA, David Bronner, John Wahl, Christopher Bauer
+    llm_text: Captain Andre Reid, Baldwin County’s 2023 Countian of the Year, faced serious affair allegations that rocked the community. The Sheriff Department investigated, finding policy violations but determining they found no evidence of the affair itself.
+    text: Captain Andre Reid faced policy violations after an internal investigation into misconduct claims. The Sheriff Department found policy breaches but no evidence of an affair.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T16:58:59.732995Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 3811f318de26c5b4cdb5976a0180ea66ea165bad9e52de48e45eb18b4231b7fa
+    brief: |-
+      THE CONFLICT: Captain Andre Reid (Baldwin County) was accused of an affair with a subordinate; the Sheriff Department investigated and found policy violations but no evidence of an affair.
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and is attempting to control the veterans’ board; a true crime story in Clarke County exposed shady ties between a hospice and a judge.
+      THE PIVOT: Both articles document instances of institutional failure and systemic corruption within Alabama, specifically involving law enforcement/local government (Baldwin County) and state political/judicial bodies (Ivey/Clarke County).
+      KEY ENTITIES: Captain Andre Reid, Baldwin County, Governor Kay Ivey, Admiral Kent Davis, John Wahl, Clarke County.
+    llm_text: Captain Andre Reid faced policy violations in Baldwin County, but Governor Kay Ivey is also wrestling with corruption after firing Admiral Kent Davis. See how systemic failure—from local law enforcement to state politics—is reshaping power across Alabama.
+    text: Captain Andre Reid faced policy violations while Governor Kay Ivey fired Admiral Kent Davis over state corruption. Systemic failures across local and state agencies continue to emerge.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T16:57:59.978148Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 72047d778337688a4e08602c4a74ea9733e4e3dab4386c19117c0cbd6024c5d3
+    brief: |-
+      THE CONFLICT:
+      - Captain Andre Reid (Baldwin County) accused of having an affair with a subordinate.
+      - Investigation by Baldwin County Sheriff's Department found policy violations but no evidence of an affair; Reid suffered no loss of pay and was assigned as Captain of the Baldwin County Correction Center.
+      - Allegations of a "Sheriff's Circle of Protection" used to cover up misconduct.
+      - Federal investigation ongoing regarding missing evidence in the possession of Baldwin County deputies working under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
+      - In Choctaw County, a murder-for-hire complaint was forwarded to the local Sheriff instead of the AG due to the suspect's family connection to the Sheriff.
+
+      THE DISCOVERY:
+      - Confirms a systemic pattern of law enforcement investigating its own "mishaps" with "no accountability."
+      - Identifies broader corruption where companies with political ties secure million-dollar contracts.
+      - Reveals a scandal involving public scholarship funds being diverted to political insiders.
+
+      THE PIVOT:
+      - Article 2 provides the systemic framework for Article 1; it transforms the Andre Reid/Baldwin County incident from an isolated personnel issue into evidence of a documented, widespread pattern of law enforcement impunity and political corruption in the region.
+
+      KEY ENTITIES:
+      - Captain Andre Reid
+      - Baldwin County Sheriff's Department
+      - Baldwin County Correction Center
+      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
+      - Choctaw County Sheriff
+      - AG Marshall
+      - John Wahl (ALGOP Party Chairman)
+    llm_text: Captain Andre Reid kept his position and pay in Baldwin County despite serious misconduct allegations. This case exposes a systemic "Circle of Protection" where corrupt officials and political insiders investigate their own mishaps to avoid any real accountability.
+    text: Captain Andre Reid kept his position and pay despite serious misconduct allegations. Internal investigations routinely shield department insiders from public accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T16:57:19.098174Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 5863beb9386499f7df0fa0603c9a325d4a365b87a956cfd034b71e1a548934c4
+    brief: |-
+      THE CONFLICT: Captain Andre Reid (Baldwin County, Major Crimes Unit) was accused of having an affair with a subordinate; the Sheriff Department investigated and found policy violations but no evidence of an affair.
+      THE DISCOVERY: The podcast (June 20, 2024) covers President Biden's pardon of his son Hunter, alongside broader allegations of misconduct against various officials and wrongful arrests exposing local corruption.
+      THE PIVOT: Article 2 places the localized cover-up in the "Sheriff's Circle of Protection" within a larger context of national political impunity (Biden/Hunter pardon) and documented misconduct by state/local officials.
+      KEY ENTITIES: Captain Andre Reid, Baldwin County, Sheriff Department, President Biden, Hunter Biden, John Wahl
+    llm_text: Baldwin County Captain Andre Reid faced misconduct claims, but the Sheriff Department found no affair evidence. Read how this local cover-up connects to national impunity, linking to President Biden's Hunter pardon and documented local corruption.
+    text: Captain Andre Reid faced policy violations while the Sheriff Department investigated misconduct claims. Local transparency failures parallel broader political controversies nationwide.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T17:01:18.093867Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

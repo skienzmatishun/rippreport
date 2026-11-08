@@ -1,0 +1,181 @@
+metadata:
+  generated_at: "2026-11-08T05:42:29.182284Z"
+  generator_version: 1.0.0
+  post_slug: no-guardrails
+  main_date: "2018-11-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  ignorance-is-bliss:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope experienced 15 years of corruption.
+      *   A recent referendum election in Fairhope resulted in a "no vote," holding the city in the grasp of Catalyst.
+      *   Forever Fairhope was backed by Can't loyalists who invested in a political PAC.
+
+      THE DISCOVERY:
+      *   Fairhope banner carriers Gary Thorson (5 years resident) and Bill Pennington (7 years resident) admitted prior to the referendum they were ignorant of Fairhope city government problems.
+
+      THE PIVOT:
+      *   The historical pattern of localized, entrenched corruption (Fairhope/Catalyst) illustrates the systemic lack of guardrails in Alabama.
+      *   The removal of public corruption prosecutor Matt Hart by Attorney General Steve Marshall highlights the failure of existing oversight mechanisms.
+
+      KEY ENTITIES:
+      *   Alabama AG
+      *   Ethics Commission
+      *   Steve Marshall
+      *   Matt Hart
+      *   Mike Hubbard (former/convicted Speaker of the House)
+      *   Fairhope
+      *   Catalyst
+      *   Can't
+      *   Gary Thorson
+      *   Bill Pennington
+    llm_text: Fairhope endured 15 years of Catalyst corruption, prompting a decisive "no vote." Local banner carriers Gary Thorson and Bill Pennington admitted ignorance of the city's problems, revealing Alabama's systemic lack of guardrails after Steve Marshall removed Matt Hart.
+    widget_date: "2018-11-16"
+    generated_at: "2026-11-08T05:35:27.934674Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blind-voting-straight-ticket:
+    brief: |-
+      THE CONFLICT: Straight ticket voting, used by 65% of Republicans in the last general election, keeps corrupt officials in power in Alabama.
+      THE DISCOVERY: Alabama uses straight ticket voting, a practice shared by 8 states, which encourages political corruption by prioritizing party affiliation over individual candidate merit.
+      THE PIVOT: The systemic problem of blind voting (Article 2) provides the underlying context for Article 1, explaining how officials influenced by figures like Mike Hubbard can remain in office despite the removal of a key guardrail (Matt Hart) by AG Steve Marshall.
+      KEY ENTITIES: Alabama, Steve Marshall (Attorney General), Matt Hart (Public corruption prosecutor), Mike Hubbard (Former/convicted Speaker of the House), Ethics Commission, Straight Ticket Voting, Republican Party.
+    llm_text: Straight ticket voting keeps corrupt officials like Mike Hubbard in power across Alabama. Discover how AG Steve Marshall's removal of Matt Hart weakened key guardrails, allowing systemic corruption to thrive.
+    widget_date: "2018-11-09"
+    generated_at: "2026-11-08T05:38:52.437944Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  look-in-the-mirror:
+    brief: |-
+      THE CONFLICT:
+      *   Mike Hubbard, former and convicted Speaker of the House, was convicted of a crime.
+      *   Luther Strange, then Attorney General, allowed Senator Pittman to receive $750,000 from BP without addressing anchor damage.
+      *   Roy Moore, Supreme Court Justice, was removed from the bench twice for breaking the law.
+      *   Voter turnout in the senate primary was only 17%; Fairhope was 14%.
+
+      THE DISCOVERY:
+      *   Systemic corruption and ethical breaches involving high-ranking officials (Hubbard, Strange, Moore) secured Alabama's ranking as number one in political corruption.
+      *   Ethics Commission rules were partially written by Mike Hubbard.
+
+      THE PIVOT:
+      *   Article 2 established the deep, systemic corruption (e.g., Hubbard's influence on ethics rules, Strange's complicity) that predates the current events.
+      *   Article 1 shows that the removal of a single guardrail (Matt Hart) by the new AG (Steve Marshall) is inadequate to combat corruption when the underlying system, shaped by figures like Hubbard, remains intact.
+
+      KEY ENTITIES:
+      *   Alabama Attorney General (Steve Marshall)
+      *   Matt Hart (Public corruption prosecutor)
+      *   Mike Hubbard (Convicted former Speaker of the House)
+      *   Luther Strange (Former Attorney General)
+      *   Roy Moore (Former Supreme Court Justice)
+      *   Senator Pittman
+      *   Alabama Ethics Commission
+      *   Baldwin County
+    llm_text: 'Alabama ranks #1 in political corruption, shaped by figures like Mike Hubbard and Luther Strange. Ignoring BP payments and writing weak ethics rules, these leaders built a system one AG change cannot fix.'
+    widget_date: "2017-08-18"
+    generated_at: "2026-11-08T05:37:49.266164Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity:
+    brief: |-
+      THE CONFLICT:
+      *   Public corruption prosecutor Matt Hart resigned from the Alabama Attorney General's Office (confirmed Nov 19, 2018, via linked source).
+      *   The removal was linked to the influence of Mike Hubbard, former and convicted Speaker of the House, and his allies.
+      *   This action severely weakened the Attorney General's guardrail against political corruption in Alabama.
+
+      THE DISCOVERY:
+      *   Chris Elliott's campaign for State Senate Seat 32 spent over $600,000.
+      *   Elliott's campaign relies on indebtedness to local figures including Sheriff Eddie Tyler, Baldwin County School Superintendent, Mayor Craft, and Mayors Kennon and Gumbo.
+      *   The campaign strategy advocates for the "Kay Ivey approach," relying on straight ticket voting.
+
+      THE PIVOT:
+      *   Both articles demonstrate systemic political corruption in Alabama, cited as the #1 most corrupt state.
+      *   The straight ticket voting pattern (65% of Republicans voted straight ticket in the last general election) is presented as a mechanism that perpetuates the power of corrupt figures, as highlighted in both the context of Mike Hubbard's influence and Chris Elliott's campaign.
+      *   The removal of Matt Hart (Article 1) removed a key legal guardrail, allowing the local political corruption described in Article 2 to continue unchecked.
+
+      KEY ENTITIES:
+      *   Matt Hart
+      *   Steve Marshall (Alabama Attorney General)
+      *   Mike Hubbard (Former/Convicted Speaker of the House)
+      *   Alabama Ethics Commission
+      *   Chris Elliott (State Senate Seat 32 candidate)
+      *   Kay Ivey
+      *   Eddie Tyler (Sheriff)
+      *   Mayor Craft
+      *   Mayor Kennon
+      *   Mayor Gumbo
+      *   Jason Fisher (State Senate Seat 32 candidate)
+      *   Alabama
+    llm_text: Matt Hart's removal, linked to Mike Hubbard's influence, weakened Alabama's anti-corruption guardrails. Now, Chris Elliott's $600K campaign, reliant on figures like Sheriff Eddie Tyler, exploits straight ticket voting to cement local power.
+    widget_date: "2018-10-10"
+    generated_at: "2026-11-08T05:40:23.224856Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-senate-seat-district-32-bombs-away:
+    brief: |-
+      THE CONFLICT:
+      Former State Senator Boom Boom Pittman skimmed $750,000 of BP money for his personal tractor company.
+      Baldwin County received only slightly over $100 million from a $1 billion BP spill total, due to the failure of the Baldwin County delegation/Commission.
+
+      THE DISCOVERY:
+      Baldwin County, affected by the BP spill, suffered significant financial losses due to political negligence and mismanagement by its local representatives.
+
+      THE PIVOT:
+      The historical financial mismanagement and lack of accountability in Baldwin County (Article 2) demonstrates the systemic failure of anti-corruption guardrails in Alabama, evidenced by the removal of public corruption prosecutor Matt Hart from AG Steve Marshall's office (Article 1), and the influence of former convicted Speaker Mike Hubbard on Ethics rules.
+
+      KEY ENTITIES:
+      Alabama Attorney General Steve Marshall
+      Public corruption prosecutor Matt Hart
+      Mike Hubbard (former/convicted Speaker of the House)
+      State Senate District 32
+      Boom Boom Pittman
+      David Northcutt
+      Jeff Boyd
+      Bill Roberts
+      Chris Elliott
+      Jason Fisher
+      Baldwin County
+      BP (oil spill funds)
+    llm_text: Former Senator Boom Boom Pittman skimmed $750,000 of BP money for his tractor company. Baldwin County received little from the $1 billion spill because local leaders failed, exposing Alabama’s systemic corruption.
+    widget_date: "2018-05-21"
+    generated_at: "2026-11-08T05:41:30.424530Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-sec-of-state-the-only-one:
+    brief: |-
+      THE CONFLICT:
+      *   Complaints regarding possible election tampering in Baldwin County were filed with the Alabama Judiciary (against Michelle Thomason and Buddy Bracken), Alabama Bar Association (against Steven Johnson), and Alabama Ethics Commission (involving Sen. Trip Pittman and his $750,000 from BP).
+      *   These complaint bodies failed to take action against the alleged violations.
+
+      THE DISCOVERY:
+      *   John Merrill, Alabama Secretary of State, acted on complaints from the Ripp Report regarding suspicious 2016 Fairhope elections.
+      *   Merrill's office monitored the 2016 Fairhope election, resulting in Karin Wilson winning by approximately 600 votes over a 16-year incumbent.
+
+      THE PIVOT:
+      *   The historical failure of other oversight bodies (as documented in the older article) establishes the need for robust guardrails.
+      *   The resignation of public corruption prosecutor Matt Hart from the Alabama Attorney General's Office (in the newer article) removed a critical, existing guardrail, demonstrating the system's fragility despite past efforts like Merrill’s.
+
+      KEY ENTITIES:
+      *   John Merrill (Alabama Secretary of State)
+      *   Matt Hart (Public corruption prosecutor)
+      *   Steve Marshall (Alabama Attorney General)
+      *   Mike Hubbard (Former/convicted Speaker of the House)
+      *   Karin Wilson
+      *   Trip Pittman
+      *   Michelle Thomason
+      *   Buddy Bracken
+      *   Steven Johnson
+      *   Alabama Ethics Commission
+      *   Baldwin County
+      *   Fairhope
+      *   2016 (Election year)
+      *   2018 (Hart's resignation/Main Article timeframe)
+    llm_text: Baldwin County oversight bodies ignored alleged tampering against Michelle Thomason and Buddy Bracken. Now that Matt Hart resigned, John Merrill's success monitoring the 2016 Fairhope election highlights how fragile Alabama's election guardrails are.
+    widget_date: "2018-04-11"
+    generated_at: "2026-11-08T05:36:48.964754Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-the-beautiful:
+    brief: |-
+      THE CONFLICT: Roy Moore was found guilty of Ethics charges, violated his oath of office, and was thrown off the bench during the Senate race.
+      THE DISCOVERY: The "Moore Factor" demonstrates that 48% of Alabama voters prioritize personal/religious beliefs over factual evidence, undermining accountability and straight-ticket voting.
+      THE PIVOT: The Moore Factor (Article 2) explains *why* straight-ticket voting continues to keep the "most corrupt in office" (Article 1), despite the lack of guardrails.
+      KEY ENTITIES: Roy Moore, Mike Hubbard, Steve Marshall (Alabama AG), Matt Hart, Alabama Attorney General’s Office, Alabama Ethics Commission.
+    llm_text: Roy Moore violated his oath, yet the "Moore Factor" reveals 48% of Alabama voters prioritize belief over factual evidence. This dangerous trend means straight-ticket voting keeps corrupt officials in office, undermining accountability for voters like you.
+    widget_date: "2017-12-13"
+    generated_at: "2026-11-08T05:42:08.267539Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

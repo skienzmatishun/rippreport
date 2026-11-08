@@ -5,42 +5,8 @@ metadata:
   main_date: "2024-12-07"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
-    brief: |-
-      THE CONFLICT:
-      *   President Biden issued a pardon to his son Hunter.
-      *   Article 1 addressed allegations of misconduct against various officials and wrongful arrests of individuals exposing local school district corruption.
-
-      THE DISCOVERY:
-      *   Article 2 confirms Biden's pardons for family and allies.
-      *   Article 2 uncovers a true crime in Clarke County, Alabama, detailing shady ties between a hospice business and a local judge, exposing the "good old boy" system.
-      *   Governor Kay Ivey fired Admiral Kent Davis and attempted to control the veterans’ board in Alabama.
-
-      THE PIVOT:
-      *   The Clarke County/Alabama corruption detailed in Article 2 provides concrete examples of the local misconduct and exposure of corruption (mentioned generally in Article 1) outside of the national political sphere.
-
-      KEY ENTITIES:
-      *   President Biden
-      *   Hunter Biden
-      *   Governor Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County
-      *   Alabama
-    llm_text: President Biden pardoned Hunter, but local corruption in Clarke County, Alabama, is far messier. A hospice business tied to a local judge exposes the "good old boy" system Governor Kay Ivey fights against.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T15:41:47.541906Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  scalped:
-    brief: |-
-      THE CONFLICT: Allegations of misconduct against various officials; wrongful arrests of individuals who exposed corruption in a local school district. (Specific names and dates not provided in source text.)
-      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts; law enforcement is investigating its own mishaps with no accountability; local corruption extends to the awarding of construction bid contracts for the new Baldwin County District Attorney building.
-      THE PIVOT: The confirmed awarding of million-dollar contracts to politically connected companies (Baldwin County DA building construction bid) validates the initial reports of local corruption and misconduct within the area.
-      KEY ENTITIES: Alabama; Baldwin County District Attorney; local school district; state leaders/lawmakers; President Biden (pardon of Hunter); healthcare CEO (murder victim).
-    llm_text: 'Baldwin County misconduct allegations prove real: politically tied companies snagged million-dollar contracts for the new DA building. Local corruption runs deep, showing law enforcement investigates its own mishaps without accountability.'
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T15:44:02.127205Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: ed1d1dadd50ca31ecdd227bc12135cfbc008d8c42539c09866ef6f23157f2420
     brief: |-
       THE CONFLICT:
       *   Allegations of misconduct against various officials and a murder of a healthcare CEO were discussed (Article 1).
@@ -66,40 +32,84 @@ hooks:
       *   Alabama Court of Civil Appeals
       *   Mark Fuller (Alabama Federal Judge, Mobile, Alabama)
     llm_text: Luigi Manjone murdered a United Healthcare CEO, but the Baldwin County Sheriff's Department hid crucial evidence. A 2005 Brady Violation involving autopsies exposes deep local corruption.
+    text: The Baldwin County Sheriff's Department hid crucial evidence in a 2005 case. A documented Brady violation exposes deep local corruption.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T15:46:14.075553Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Wrongful arrests of individuals exposing corruption in a local school district (Article 1).
-      THE DISCOVERY: Backstory Podcast No. 186 (Article 2) covered the 2024 US Presidential election results, Trump Cabinet 2.0, and proposed constitutional amendments in Alabama.
-      THE PIVOT: Article 2 established the background of legal and political issues within Alabama, providing context for the local corruption and wrongful arrests discussed in Article 1.
-      KEY ENTITIES: Alabama, US government, President Biden, Hunter Biden, local school district, Google, Veterans/Consumer Advocate, journalist, attorney.
-    llm_text: Local corruption is exposed by wrongful arrests in an Alabama school district. Need context? Podcast 186 covers the 2024 election, Trump Cabinet 2.0, and constitutional amendments that shape this fight.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T15:45:04.582924Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: 4e985edce19d8d6c61ae21f6167070ebbfe41d164afa14e238fc7cc960ef11fb
     brief: |-
       THE CONFLICT: OJ French Jr. was killed by BMPD Officer Brandon Thompson in the City of Bay Minette, Alabama.
       THE DISCOVERY: City of Bay Minette is being sued by OJ French Jr.'s family; Mobile Attorney Andy Ruten asked the Judge to review the bodycam but prevent its public release; Ruten's firm hired Bay Minette Mayor Bob Wills, who is now sued for Malpractice.
       THE PIVOT: Article 2 provides concrete local examples of official misconduct, legal maneuvering, and corruption (e.g., Bay Minette lawsuit, Baldwin County zoning approval) that establish the pattern of local corruption discussed generally in Article 1, particularly regarding "allegations of misconduct against various officials" and "wrongful arrests of individuals who exposed corruption in their local school district."
       KEY ENTITIES: OJ French Jr., BMPD Officer Brandon Thompson, Andy Ruten, Bob Wills, Governor Ivey, Baldwin County, City of Bay Minette, Veteran's Affairs Commissioner for Alabama.
     llm_text: OJ French Jr. was killed by BMPD Officer Brandon Thompson in Bay Minette. His family is suing the City, and Mayor Bob Wills now faces malpractice claims, exposing a pattern of local official misconduct.
+    text: The family of OJ French Jr. is suing the City of Bay Minette over his death. Mayor Bob Wills now faces serious malpractice claims regarding the police shooting.
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T15:42:55.700832Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: 3be4aad904a522d4cde0e6e2a5b0c165edab2bb253a28a0b5368bab3cf97e0f9
     brief: |-
       THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27-29, 2022.
       THE DISCOVERY: Article 2 documented specific 2022 regional issues including MS-13 operations in Baldwin County, Mobile Cop rape, and Montgomery Alabama Mayor's travel records.
       THE PIVOT: Article 2 establishes a historical context of local crime and potential law enforcement misconduct in Alabama (2022), providing background for the broader discussion of local corruption and wrongful arrests mentioned in Article 1.
       KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Katie Britt, Adm. Kent Davis, MS-13, Montgomery Alabama, President Biden, Hunter Biden
     llm_text: The death of Thomas Daniel "Danny" Williams Jr in Orange Beach uncovers deeper Alabama issues. We trace MS-13 operations and Mobile Cop rape, linking local misconduct to broader corruption concerns.
+    text: Thomas Daniel Danny Williams Jr. died under suspicious circumstances in Orange Beach. Investigators link this tragedy to broader misconduct concerns across Mobile.
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T15:47:24.152465Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: b0b7386fcff93c9c2476bb998b9a513b619b670d90579091b760f9c23845810a
+    brief: |-
+      THE CONFLICT: Wrongful arrests of individuals exposing corruption in a local school district (Article 1).
+      THE DISCOVERY: Backstory Podcast No. 186 (Article 2) covered the 2024 US Presidential election results, Trump Cabinet 2.0, and proposed constitutional amendments in Alabama.
+      THE PIVOT: Article 2 established the background of legal and political issues within Alabama, providing context for the local corruption and wrongful arrests discussed in Article 1.
+      KEY ENTITIES: Alabama, US government, President Biden, Hunter Biden, local school district, Google, Veterans/Consumer Advocate, journalist, attorney.
+    llm_text: Local corruption is exposed by wrongful arrests in an Alabama school district. Need context? Podcast 186 covers the 2024 election, Trump Cabinet 2.0, and constitutional amendments that shape this fight.
+    text: Local corruption is exposed by wrongful arrests in a rural Alabama school district. Podcast 186 covers the 2024 election and constitutional amendments shaping this fight.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T15:45:04.582924Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: eabb981830fda056cb003b9d8a6c81ad53423c61bbd227d457d30a5564e356fa
+    brief: |-
+      THE CONFLICT: OJ French Jr. was killed following an incident involving Bay Minette Police Officer Brandon Thompson. The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Thompson on July 31, 2024.
+      THE DISCOVERY: The lawsuit alleges Officer Thompson lacked probable cause, escalated a situation over a taser, and shot Mr. French. A Grand Jury viewed the incident video, and Officer Thompson was subsequently cleared.
+      THE PIVOT: The French lawsuit provides a concrete example of the local government misconduct, official corruption (Mayor Robert Bob Wills lying about family approval), and challenges to authority against officials referenced in the podcast discussion regarding local corruption and wrongful arrests.
+      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Sheriff, Anthony Lowery, Matt McKenzie, Governor Ivey, City of Bay Minette.
+    llm_text: OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson, prompting a lawsuit against the City of Bay Minette. This case exposes deeper local corruption, including Mayor Robert Bob Wills' misstatements, connecting directly to our podcast on wrongful arrests.
+    text: Bay Minette Police Officer Brandon Thompson killed OJ French Jr., triggering a federal lawsuit. Mayor Robert Bob Wills made false public statements about the deadly encounter.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T15:51:10.393353Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-at-the-po-po:
+    refined_source: 2b9e2367806bcd4ff37795e8d87bc842653de9cd6adc7a1c56d591b1e1745e18
+    brief: |-
+      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023 and Commander of the Major Crimes Unit, was accused of having an affair with a subordinate.
+      THE DISCOVERY: The Ripp Report revealed allegations of a cover-up within the "Sheriff's Circle of Protection" regarding Reid and other instances of misconduct; the Alabama Attorney General forwarded a murder-for-hire complaint in Choctaw County to the local Sheriff due to the Sheriff's family connection to an alleged participant.
+      THE PIVOT: The Baldwin County corruption (Reid's misconduct, policy violations, family influence in murder-for-hire investigation) demonstrates the systemic local government misconduct and cover-ups mentioned in the Main Article, directly connecting to the discussion of "allegations of misconduct against various officials" and the "wrongful arrests of individuals who exposed corruption in their local school district."
+      KEY ENTITIES: Captain Andre Reid, Baldwin County Correction Center, Sheriff's Circle of Protection, Alabama Attorney General, Choctaw County, President Biden, Hunter Biden, OCDEFT
+    llm_text: Captain Andre Reid, Baldwin Countian of the Year 2023, faces misconduct allegations amid a Sheriff's Circle of Protection cover-up. The Alabama Attorney General forwarded a murder-for-hire complaint because local family influence blocked the investigation.
+    text: Captain Andre Reid faces serious misconduct allegations and a cover-up. The Alabama Attorney General stepped in after local family influence blocked the investigation.
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T15:52:19.849381Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 52bdedf1d71b19449d92eafbd6e01fe144ecfae7d78a0256e510c41011f32529
+    brief: |-
+      THE CONFLICT: Allegations of misconduct against various officials; wrongful arrests of individuals who exposed corruption in a local school district. (Specific names and dates not provided in source text.)
+      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts; law enforcement is investigating its own mishaps with no accountability; local corruption extends to the awarding of construction bid contracts for the new Baldwin County District Attorney building.
+      THE PIVOT: The confirmed awarding of million-dollar contracts to politically connected companies (Baldwin County DA building construction bid) validates the initial reports of local corruption and misconduct within the area.
+      KEY ENTITIES: Alabama; Baldwin County District Attorney; local school district; state leaders/lawmakers; President Biden (pardon of Hunter); healthcare CEO (murder victim).
+    llm_text: 'Baldwin County misconduct allegations prove real: politically tied companies snagged million-dollar contracts for the new DA building. Local corruption runs deep, showing law enforcement investigates its own mishaps without accountability.'
+    text: Politically connected companies secured million-dollar contracts for the new district attorney building. Law enforcement investigates its own mishaps without public accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T15:44:02.127205Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: 6df094cc0e32c8a10ac1f2db77008c072ee62acd8309c3eaae0f5bfbb9f6c476
     brief: |-
       THE CONFLICT:
       *   Renaissance School in Baldwin County was robbed (inside job possible).
@@ -124,36 +134,46 @@ hooks:
       *   Hunter Biden
       *   1819 News
     llm_text: Renaissance School in Baldwin County faced a robbery, and Kent David resigned following a whistleblower Ethics Complaint. See how local corruption, from Sylacauga debates to judicial misconduct, affects your community.
+    text: Kent David resigned following a whistleblower ethics complaint at the Renaissance School. Local corruption reaches from Sylacauga debates straight to judicial misconduct.
     widget_date: "2024-09-20"
     generated_at: "2026-11-06T15:48:53.056526Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: 7e4c207a9b6404b925de7f800893627926fa47100f27671b7fa0dc7ec42e8b61
     brief: |-
       THE CONFLICT: Sheriff Mack was in office for one week in Baldwin County, Alabama, while the Governor selected a replacement.
       THE DISCOVERY: VP Kamala Harris transitioned politically from "scourge of the democratic party to their darling savior" following the Democratic National Convention.
       THE PIVOT: The local political instability and transition in Baldwin County (Article 2) provides the background context for the current discussions regarding wrongful arrests, exposure of local school district corruption, and misconduct against officials (Article 1).
       KEY ENTITIES: VP Kamala Harris, RFK Jr, Candidate Trump, Sheriff Mack, Baldwin County, Alabama, President Biden, Hunter Biden
     llm_text: 'Sheriff Mack held Baldwin County, Alabama, for just one week during local political instability. See how that brief chaos reveals bigger issues: wrongful arrests, school corruption, and official misconduct.'
+    text: Sheriff Mack held office in Baldwin County during a week of severe political instability. That brief chaos highlights wrongful arrests and ongoing official misconduct.
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T15:49:50.760018Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sheriff-mack-out-oj-french-lawsuit-in:
+  the-crime-of-the-century:
+    refined_source: b2076bcbfc236601ed8a6f6a66fce7af39d8402fc42710bf77262c381d61f71a
     brief: |-
-      THE CONFLICT: OJ French Jr. was killed following an incident involving Bay Minette Police Officer Brandon Thompson. The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Thompson on July 31, 2024.
-      THE DISCOVERY: The lawsuit alleges Officer Thompson lacked probable cause, escalated a situation over a taser, and shot Mr. French. A Grand Jury viewed the incident video, and Officer Thompson was subsequently cleared.
-      THE PIVOT: The French lawsuit provides a concrete example of the local government misconduct, official corruption (Mayor Robert Bob Wills lying about family approval), and challenges to authority against officials referenced in the podcast discussion regarding local corruption and wrongful arrests.
-      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Sheriff, Anthony Lowery, Matt McKenzie, Governor Ivey, City of Bay Minette.
-    llm_text: OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson, prompting a lawsuit against the City of Bay Minette. This case exposes deeper local corruption, including Mayor Robert Bob Wills' misstatements, connecting directly to our podcast on wrongful arrests.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T15:51:10.393353Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-at-the-po-po:
-    brief: |-
-      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023 and Commander of the Major Crimes Unit, was accused of having an affair with a subordinate.
-      THE DISCOVERY: The Ripp Report revealed allegations of a cover-up within the "Sheriff's Circle of Protection" regarding Reid and other instances of misconduct; the Alabama Attorney General forwarded a murder-for-hire complaint in Choctaw County to the local Sheriff due to the Sheriff's family connection to an alleged participant.
-      THE PIVOT: The Baldwin County corruption (Reid's misconduct, policy violations, family influence in murder-for-hire investigation) demonstrates the systemic local government misconduct and cover-ups mentioned in the Main Article, directly connecting to the discussion of "allegations of misconduct against various officials" and the "wrongful arrests of individuals who exposed corruption in their local school district."
-      KEY ENTITIES: Captain Andre Reid, Baldwin County Correction Center, Sheriff's Circle of Protection, Alabama Attorney General, Choctaw County, President Biden, Hunter Biden, OCDEFT
-    llm_text: Captain Andre Reid, Baldwin Countian of the Year 2023, faces misconduct allegations amid a Sheriff's Circle of Protection cover-up. The Alabama Attorney General forwarded a murder-for-hire complaint because local family influence blocked the investigation.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T15:52:19.849381Z"
+      THE CONFLICT:
+      *   President Biden issued a pardon to his son Hunter.
+      *   Article 1 addressed allegations of misconduct against various officials and wrongful arrests of individuals exposing local school district corruption.
+
+      THE DISCOVERY:
+      *   Article 2 confirms Biden's pardons for family and allies.
+      *   Article 2 uncovers a true crime in Clarke County, Alabama, detailing shady ties between a hospice business and a local judge, exposing the "good old boy" system.
+      *   Governor Kay Ivey fired Admiral Kent Davis and attempted to control the veterans’ board in Alabama.
+
+      THE PIVOT:
+      *   The Clarke County/Alabama corruption detailed in Article 2 provides concrete examples of the local misconduct and exposure of corruption (mentioned generally in Article 1) outside of the national political sphere.
+
+      KEY ENTITIES:
+      *   President Biden
+      *   Hunter Biden
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+      *   Alabama
+    llm_text: President Biden pardoned Hunter, but local corruption in Clarke County, Alabama, is far messier. A hospice business tied to a local judge exposes the "good old boy" system Governor Kay Ivey fights against.
+    text: A hospice business tied to a local judge exposes systemic corruption in Clarke County. Governor Kay Ivey vows to fight this entrenched good old boy system.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T15:41:47.541906Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

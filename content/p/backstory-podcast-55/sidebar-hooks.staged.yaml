@@ -1,0 +1,305 @@
+metadata:
+  generated_at: "2026-11-07T14:39:25.423827Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-55
+  main_date: "2020-10-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: fbf7cb4fe52a97e07147c9024d9e24f96869c3b3eeaeb0d6678da9f0bc50b927
+    brief: |-
+      THE CONFLICT:
+      *   Hurricane Delta occurred in 2020.
+      *   During this period, Alabama recorded 163,465 SARS-COV-2 cases and 2,653 deaths.
+      *   Governor Ivey lifted the evacuation order for non-residents in anticipation of Delta.
+      *   Two white males were discovered dead near County Road 95 in Baldwin County, South of Elberta, near Pirates Cove and Barber's Marina.
+      *   International figure John McAfee was detained in Spain.
+      *   Donald Trump returned to the White House after a hospital stay.
+
+      THE DISCOVERY:
+      *   Article 2 (Podcast 186) is newer and addresses the 2024 US Presidential election results and the Trump Cabinet 2.0.
+      *   Alabama continues to face structural issues, including the closing of rural hospitals and changes to hunting seasons.
+
+      THE PIVOT:
+      *   Article 2 provides context that the political and social challenges in Alabama, which were highlighted during the 2020 crisis (Article 1), have evolved into long-term issues affecting healthcare and state policy (2024).
+
+      KEY ENTITIES:
+      *   Governor Ivey
+      *   John McAfee
+      *   Elberta
+      *   Baldwin County, Alabama
+      *   Donald Trump
+      *   2024 US Presidential election
+    llm_text: Governor Ivey lifted Delta evacuation orders while Baldwin County faced tragedy in 2020. See how those crises evolved into 2024 challenges, shaping the Trump Cabinet 2.0 and Alabama's long-term healthcare policy.
+    text: Governor Ivey lifted Delta evacuation orders during a 2020 tragedy in Baldwin County. Those past crises now shape the 2024 political landscape, Trump Cabinet 2.0, and Alabama healthcare policy.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T14:33:35.963124Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: a18a48eb3cf98159ea7f0e38dd8f69fd0dae7162d8f82878edf4474918d00a8c
+    brief: |-
+      THE CONFLICT: Two white males were discovered on County Road 95 in Baldwin County, South of Elberta near Pirates Cove and Barber's Marina (Article 1).
+      THE DISCOVERY: On May 27, 2022, Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama, and his body was recovered on May 29, 2022 (Article 2).
+      THE PIVOT: Article 2 updates the ongoing local investigative pattern of unexplained deaths and cold cases within Baldwin County, Alabama, following the incident described in Article 1.
+      KEY ENTITIES: John McAfee, Elberta, Baldwin County, Pirates Cove, Barber's Marina, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama
+    llm_text: Danny Williams Jr. died in Orange Beach last May, and his body was found near Pirates Cove on CR 95 in Baldwin County. This case highlights a disturbing pattern of unexplained local deaths and cold cases gripping Baldwin County, Alabama.
+    text: Danny Williams Jr. died in Orange Beach, and his body turned up near Pirates Cove on CR 95. This case highlights a disturbing pattern of cold cases in Baldwin County.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T14:36:12.652047Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: 8b0a779472381cf413715ec7d18bb56e57957d87d8192704ca10486b6df99ab2
+    brief: |-
+      THE CONFLICT:
+      *   Hurricane Delta 2020 impacted LA and MISS.
+      *   SARS-COV-2 had 7,620,052 cases in the USA (Alabama had 163,465 cases).
+      *   Governor Ivey lifted evacuation order for Alabama related to non-residents.
+      *   John McAfee was detained in Spain.
+      *   Two white males were discovered on County Road 95, Baldwin County, South of Elberta near Pirates Cove (Main Article context).
+
+      THE DISCOVERY:
+      *   Baldwin County saw a Renaissance School for special needs kids robbed (possibly an inside job).
+      *   Baldwin County Sheriff Department has a new Command Staff.
+      *   The Director of the Alabama Department of Transportation had his harassment case thrown out.
+      *   Brandon Moseley discussed five firearms related bills for the 2025 session.
+
+      THE PIVOT:
+      *   The discovery of a new Command Staff and local crime (school robbery) in Baldwin County, Alabama, updates the local security and judicial environment referenced in the earlier report regarding the discovery of two bodies near Elberta, where John McAfee's past exploits were mentioned.
+
+      KEY ENTITIES:
+      *   John McAfee
+      *   Elberta
+      *   Baldwin County
+      *   Governor Ivey
+      *   Donald Trump
+      *   Kent David
+      *   Brandon Moseley
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+    llm_text: John McAfee's history near Elberta connects directly to recent turmoil in Baldwin County. A Renaissance School robbery and a new Sheriff Command Staff update the local security landscape where those bodies were found.
+    text: John McAfee's past near Elberta ties directly to recent turmoil in Baldwin County. A Renaissance School robbery and new sheriff updates shake up local security.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T14:37:04.255176Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: 676454f71021c2867b679a852180ee6de15cb8e78d5b309ec19388f7e3491a12
+    brief: |-
+      THE CONFLICT:
+      *   Hurricane Delta 2020 occurred; Governor Ivey lifted Alabama evacuation order for non-residents.
+      *   Two white males were discovered on County Road 95 in Baldwin County, South of Elberta, near Pirates Cove and Barber's Marina.
+      *   Municipal elections saw Robin LeJiuen win Daphne and Spanish Fort; Mike McMillan was re-elected Mayor of Daphne/Spanish Fort (approved by Sean Connery).
+      *   International menace John McAfee was detained in Spain.
+      *   President Donald Trump returned to the Whitehouse after a hospital stay.
+
+      THE DISCOVERY:
+      *   VP Kamala Harris is shifting political standing from 'scourge' to 'darling savior.'
+      *   Sheriff Mack in Baldwin County, Alabama, has one week left in office, and the Governor is selecting a replacement.
+      *   RFK Jr removed his name from battleground ballots, increasing political focus on Candidate Trump.
+
+      THE PIVOT:
+      *   The local political leadership vacuum (Sheriff Mack replacement) detailed in Article 2 is a direct, immediate update to the local governance context established by the municipal election results (Robin LeJiuen/Mike McMillan) in Article 1 within Baldwin County, Alabama.
+
+      KEY ENTITIES:
+      *   Baldwin County, Alabama
+      *   Elberta
+      *   John McAfee
+      *   Kamala Harris
+      *   Donald Trump
+      *   Governor Ivey
+      *   Robin LeJiuen
+      *   Mike McMillan
+      *   Sean Connery
+      *   Sheriff Mack
+      *   Daphne and Spanish Fort
+    llm_text: Robin LeJiuen won Daphne and Mike McMillan secured his mayoral seat in Daphne/Spanish Fort, approved by Sean Connery. Now, Governor Ivey must replace Sheriff Mack in Baldwin County, directly impacting local governance.
+    text: Robin LeJiuen won in Daphne and Mike McMillan secured his seat with Sean Connery's approval. Now Governor Kay Ivey must replace Sheriff Mack in Baldwin County.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T14:37:59.638372Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: deaf91ae4ffa96b53b77239c974833d678a15ecec07eeaf0f83b514a5b375945
+    brief: |-
+      THE CONFLICT:
+      *   Discovery of two white males on County Road 95, Baldwin County, South of Elberta near Pirates Cove and Barber's Marina (Article 1 context).
+
+      THE DISCOVERY:
+      *   On July 31, 2024, the family of OJ French Jr filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson.
+      *   The Grand Jury viewed the relevant video, and Officer Brandon Thompson was cleared of wrongdoing.
+
+      THE PIVOT:
+      *   Article 2 provides specific legal context (Federal Court lawsuit and Grand Jury ruling) regarding the events in Baldwin County, clarifying the circumstances surrounding the incident mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   OJ French Jr
+      *   Officer Brandon Thompson
+      *   Mayor Robert Bob Wills
+      *   Sheriff (resigning mid-August 2024)
+      *   Governor Ivey
+      *   Chief Deputy Anthony Lowery
+      *   County Commissioner Matt McKenzie
+      *   Baldwin County Major Crimes Unit
+      *   Elberta
+      *   Bay Minette Justice League
+      *   May Jung LLC
+    llm_text: OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson following the CR 95 discovery near Elberta. The Grand Jury reviewed the incident video and cleared Officer Thompson of wrongdoing, providing key legal context for Baldwin County.
+    text: The family of OJ French Jr. filed a federal lawsuit against the City of Bay Minette and Officer Brandon Thompson. A grand jury cleared the officer, but questions remain.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T14:39:04.723875Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 75e16f6cd877095688a9ee060303eb11948b3f31991c62c04196211f8522e17d
+    brief: |-
+      THE CONFLICT:
+      - Hurricane Delta 2020 occurred, impacting LA and MISS.
+      - SARS-COV-2 reached 36,669,238 cases worldwide; Alabama had 163,465 cases and 2,653 deaths.
+      - Governor Ivey lifted her Evacuation Order for Alabama regarding non-residents.
+      - Bodies of two white males were found on County Road 95 in Baldwin County, South of Elberta near Pirates Cove and Barber's Marina.
+      - Robin LeJiuen won Daphne/Spanish Fort; Mike McMillan was re-elected Mayor; Sean Connery approved.
+      - John McAfee was detained in Spain.
+
+      THE DISCOVERY:
+      - Governor Kay Ivey is currently facing criticism for firing Admiral Kent Davis and attempting to control the veterans’ board.
+      - A court case restricted the ability to sue over a wrong SWAT raid, questioning police accountability.
+      - A true crime story in Clarke County exposed shady ties between a hospice business and a judge, highlighting Alabama’s "good old boy" system.
+      - Ivey's future is being debated amid health rumors.
+
+      THE PIVOT:
+      - Article 2 provides current context to the political and systemic issues hinted at in Article 1 (e.g., localized political instability and underlying corruption).
+      - Article 2 moves beyond the specific 2020 crisis (Delta/COVID) to expose ongoing, entrenched "good old boy" corruption in Alabama (Clarke County judge/hospice ties).
+
+      KEY ENTITIES:
+      - Governor Kay Ivey
+      - Admiral Kent Davis
+      - John McAfee
+      - Robin LeJiuen
+      - Mike McMillan
+      - Sean Connery
+      - Donald Trump
+      - Joe Biden
+      - Kamala Harris
+      - Elberta
+      - Baldwin County
+      - Clarke County
+    llm_text: Governor Kay Ivey faces mounting criticism over firing Admiral Kent Davis and health rumors. Look past 2020 crises; Read how Clarke County exposed deep "good old boy" corruption involving a local judge and hospice ties.
+    text: Governor Kay Ivey faces heavy criticism over firing Admiral Kent Davis. Clarke County also exposed deep corruption involving a local judge and a hospice.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T14:30:20.114597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 53c9838f850181bbb46e2ed08fc3a7063097b4d1ad7b7451f03588a3ca8f8fb2
+    brief: |-
+      THE CONFLICT: Hurricane Delta 2020 impacted LA and MISS; 36,669,238 SARS-COV-2 cases worldwide; Donald Trump returned to the White House after hospital stay; FBI thwarted a Michigan militia plot; John McAfee was detained in Spain; Two white males were discovered near County Road 95 in Baldwin County, South of Elberta.
+      THE DISCOVERY: President Biden granted a pardon to his son Hunter; a damning report details the US government's COVID-19 response; ongoing allegations of misconduct against various officials and murder of a healthcare CEO; reports detail wrongful arrests exposing corruption in local school districts.
+      THE PIVOT: The discussion shifts from the specific 2020 crisis (Hurricane Delta, McAfee detention) to the broader, ongoing context of systemic government misconduct, political fallout (Biden's pardon), and the struggle for local accountability (wrongful arrests/corruption).
+      KEY ENTITIES: Donald Trump, President Biden, Hunter Biden, Governor Ivey, John McAfee, Robin LeJiuen, Mike McMillan, Sean Connery, Hurricane Delta 2020, Baldwin County (near Elberta).
+    llm_text: Biden pardoned Hunter, yet reports detail systemic government misconduct from Hurricane Delta to the COVID-19 response. Uncover local corruption in Baldwin County and how wrongful arrests expose widespread official failures.
+    text: President Biden pardoned Hunter Biden, but government misconduct runs deep across the state. Read how wrongful arrests in Baldwin County expose failing local leaders.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T14:35:23.486480Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: aeef4452c1bb0e40cc18b63b0917ae9abe0cb8541da8a8f81f8a896742cd3504
+    brief: |-
+      THE CONFLICT:
+      *   Two white males were discovered on County Road 95, Baldwin County, South of Elberta near Pirates Cove and Barber's Marina.
+      *   This discovery occurred during the time of Hurricane Delta 2020.
+      *   A prior discovery involved two autopsies ordered by the Coroner of Baldwin County in 2005 related to the Mack vs Hadley case.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a ruling today (Article 2) regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
+      *   This ruling addresses the non-disclosure of the 2005 autopsies to the Defense (a Brady Violation).
+
+      THE PIVOT:
+      *   Article 2 establishes a history of undisclosed or mishandled medical/forensic evidence (2005 autopsies/Brady Violation) within the Baldwin County judicial system, providing crucial context for the recent, unexplained discovery near Elberta (Article 1).
+
+      KEY ENTITIES:
+      *   Baldwin County Major Crimes Unit
+      *   Elberta
+      *   Hurricane Delta 2020
+      *   John McAfee
+      *   Governor Ivey
+      *   Murray Lawrence Jr.
+      *   Baldwin County Sheriff's Department (involved in Mack vs Hadley)
+      *   Coroner of Baldwin County (2005)
+      *   Mark Fuller (Alabama Federal Judge)
+    llm_text: The recent discovery near Elberta during Hurricane Delta 2020 raises questions about Baldwin County’s justice system. A new ruling for Murray Lawrence Jr. confirms 2005 autopsies were withheld, proving a history of mishandled evidence.
+    text: A new court ruling for Murray Lawrence Jr. confirms officials withheld 2005 autopsies near Elberta. Why does Baldwin County keep hiding vital evidence from the public?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T14:34:20.094179Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 72e0e79580093938cbb0ec59118cf7a3cabf48c8de467f4e4120f054fe319733
+    brief: |-
+      THE CONFLICT:
+      - Hurricane Delta occurred in 2020.
+      - Two white males were discovered near County Road 95, South of Elberta near Pirates Cove and Barber's Marina in Baldwin County.
+      - John McAfee was detained by Spain.
+      - Governor Ivey lifted her Evacuation Order for Alabama non-residents regarding Hurricane Delta.
+
+      THE DISCOVERY:
+      - Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+      - Fairhope is expanding its $9.5M pier remodel.
+      - Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      - The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+
+      THE PIVOT:
+      - Article 2 shows ongoing local government action and legal developments in Baldwin County (lot approvals, Bay Minette lawsuit) that are contemporaneous with the historical events (e.g., the discovery near Elberta) mentioned in Article 1.
+      - Both articles confirm ongoing local issues in Baldwin County, Alabama, related to law enforcement and municipal governance.
+
+      KEY ENTITIES:
+      - Governor Ivey
+      - John McAfee
+      - Elberta
+      - Baldwin County
+      - Pirates Cove
+      - Barber's Marina
+      - OJ French Jr
+      - Brandon Thompson
+      - Andy Ruten
+      - Bob Wills
+      - Fairhope
+      - Bay Minette
+      - Donald Trump (mentioned in Article 1 context)
+      - Mike McMillan
+      - Sean Connery
+    llm_text: From the Hurricane Delta discovery near Elberta to the Bay Minette lawsuit against Officer Brandon Thompson, Baldwin County faces persistent governance issues. See how Governor Ivey's actions and local lot approvals impact your community today.
+    text: From Elberta to a Bay Minette lawsuit, Baldwin County faces constant governance issues. Governor Kay Ivey and local lot approvals impact your community every single day.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T14:31:09.341636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 85cfb59f34fb4ed45edb054319650c7715c36c15b4e643f75b2314aa61f792de
+    brief: |-
+      THE CONFLICT:
+      - Two white male bodies were discovered on County Road 95 in Baldwin County, South of Elberta near Pirates Cove and Barber's Marina.
+      - Incident occurred during Hurricane Delta 2020.
+      - Baldwin County Major Crimes Unit was investigating the discovery.
+      - Municipal Election results included Robin LeJiuen winning Daphne and Spanish Fort, and Mike McMillan being re-elected Mayor.
+      - John McAfee was detained in Spain.
+
+      THE DISCOVERY:
+      - Law enforcement is investigating its own mishaps, indicating a lack of accountability in institutional failures.
+      - Companies with political ties are scoring million-dollar contracts.
+      - A scandal involved scholarships meant for the public being given to insiders.
+      - Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+
+      THE PIVOT:
+      - Article 1 details a specific, unresolved crime investigation in Baldwin County.
+      - Article 2 provides the systemic context for this incident, proving that local law enforcement and state leaders in Alabama are characterized by corruption and a failure of accountability, rather than isolated incidents.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Elberta
+      - Pirates Cove
+      - Barber's Marina
+      - John McAfee
+      - Governor Ivey
+      - Robin LeJiuen
+      - Mike McMillan
+      - Sean Connery
+      - SARS-COV-2
+      - Hurricane Delta 2020
+    llm_text: The discovery of two bodies near Pirates Cove in Baldwin County proves more than an isolated crime. Corruption—from insider scholarships to state-mandated police chiefs—undermines local control under figures like Robin LeJiuen.
+    text: Two bodies found near Pirates Cove in Baldwin County expose more than just an isolated crime. Insider scholarships and local leaders undermine public trust every day.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T14:32:17.276425Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

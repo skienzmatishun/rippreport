@@ -1,0 +1,226 @@
+metadata:
+  generated_at: "2026-11-07T08:35:25.238699Z"
+  generator_version: 1.0.0
+  post_slug: tiny-steps
+  main_date: "2021-05-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  portables-and-prisons:
+    refined_source: 43ba28b18ee31f8b8a1cb1333d113ba431f239750cb8df57ba702e49f3998ade
+    brief: |-
+      THE CONFLICT:
+      *   2013: PCI has pumped $4.5 million in campaign contributions into Alabama politics, ranking near the Business Council of Alabama’s Progress PAC.
+      *   Senator Chris Elliott received $27,000 from the PCI-Tribe for his election.
+      *   2016: Chris Elliott was dismissed as a contractor for wanting personal information that would favor him in the bidding process for the SAH program.
+      *   2013-2021: Alabama politicians repeatedly turned down billions in potential revenue (e.g., education lotto) in favor of debt payoff and prison expansion.
+      *   2021 legislative session: Alabama Legislature failed to pass serious bills regarding prisons, healthcare/Medicaid, and a gambling bill.
+
+      THE DISCOVERY:
+      *   Article 2 shows that Alabama politics is heavily influenced by lobbyists and special interests (PCI/Business Council of Alabama).
+      *   Article 2 establishes a pattern of political corruption, with Elliott repeatedly favoring special interests over public promises.
+
+      THE PIVOT:
+      *   Article 2 establishes Senator Elliott's history of receiving large payments from the PCI-Tribe and his documented dismissal (2016) due to contract issues.
+      *   This historical context explains his actions in the 2021 session (Article 1), where he stalled State Rep. Chip Brown's bill to increase SAH funding, using the opportunity to settle an old personal score rather than support a beneficial public program.
+
+      KEY ENTITIES:
+      *   Chris Elliott (R-Fairhope, State Senator)
+      *   Chip Brown (State Rep, Mobile County)
+      *   Brian Powell (SAH director)
+      *   PCI-Tribe
+      *   Business Council of Alabama
+      *   Alabama Board of Education
+      *   Strengthen Alabama Homes (SAH)
+      *   Baldwin County
+      *   Alabama Legislature
+    llm_text: PCI-Tribe funded Senator Chris Elliott with $27,000, but he repaid that influence. Elliott now blocks Chip Brown's SAH funding, showing special interests still trump public health in Alabama.
+    text: The PCI Tribe funded Senator Chris Elliott with $27,000. Elliott now blocks Chip Brown's SAH funding, showing special interests trump public health in Alabama.
+    widget_date: "2019-05-08"
+    generated_at: "2026-11-07T08:35:08.100542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  weasel-contractor:
+    refined_source: 34dfcc216d5d42cc9fce8a9de3b7d6bf0e8f3b749f0232e57f82489791754c94
+    brief: |-
+      THE CONFLICT:
+      Chris Elliott was removed as an eligible contractor from the Strengthen Alabama Homes (SAH) program in 2016.
+      The removal occurred after Elliott attempted to gain confidential information (other contractors' bids) to achieve an "unfair competitive advantage."
+      Powell alleged Elliott planned to "profile applicants and ‘cherry pick’ applications" and exhibited demeaning behavior toward applicants.
+
+      THE DISCOVERY:
+      The older article reveals that Chris Elliott, a former Baldwin County commissioner and contractor (Elliott Builders Inc.), was involved in a political machine (Stacy Elliott/Haygood, Catalyst/Scott Boone Consulting) and faced disciplinary action from SAH in 2016.
+
+      THE PIVOT:
+      Elliott's opposition to HB-188 (a bill strengthening grant funding, introduced by Rep. Chip Brown in February) during the 2021 legislative session is framed as a personal "old score" or vendetta stemming from his 2016 removal from the SAH program, not legitimate policy concern.
+
+      KEY ENTITIES:
+      Chris Elliott
+      Brian Powell (SAH Director)
+      Strengthen Alabama Homes (SAH)
+      HB-188
+      Chip Brown (State Rep, Mobile County)
+      Baldwin County
+      2016
+      2021 legislative session
+      Lynn Stacy
+      Michelle Thomasson
+      Tucker Dorsey
+      Scott Boone
+      Tim Can’t
+      Robert Wilters (District Attorney)
+      Catalyst
+    llm_text: Chris Elliott lost his Strengthen Alabama Homes status in 2016 after attempting to steal contractor bids, according to SAH Director Brian Powell. His 2021 opposition to HB-188 likely stems from this old vendetta, not legitimate policy concerns.
+    text: Chris Elliott lost his Strengthen Alabama Homes status in 2016 after attempting to take contractor bids, according to Brian Powell. His opposition to HB-188 stems from this old vendetta.
+    widget_date: "2021-05-14"
+    generated_at: "2026-11-07T08:27:33.520581Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  s-o-s:
+    refined_source: a8563f89b4b7dab16b31de63b1f010c3db6cdfccd248c5c2ad25d7b93be08761
+    brief: |-
+      THE CONFLICT:
+      Hoss Mack, head of the Baldwin County Sheriff Office, faced Federal Court scrutiny for conduct of "deliberate indifference" following multiple loss-of-life cases.
+      In 2016, Chris Elliott was dismissed as a contractor from the SAH program after being accused of “profiling” and “cherry-picking” applicants.
+      In February, State Rep. Chip Brown introduced a bill to increase funding for SAH, which passed the House (96-1).
+
+      THE DISCOVERY:
+      Article 2 established Hoss Mack's long-standing pattern of using Qualified Immunity to avoid accountability for "deliberate indifference."
+      Article 2 documented the Fairhope Waterfront $6.2 million RESTORE Act grant approval, noting the council's initial plans for bluff stabilization and ADA access requirements.
+      Article 2 predicted the movement of the medical marijuana bill and the Alabama gaming bill.
+
+      THE PIVOT:
+      Article 2 provides the historical context of political accountability failures (Hoss Mack/Qualified Immunity) and specific local political struggles (Fairhope City Council vs. grant requirements), demonstrating the systemic political environment of stagnation that led to the legislative failures (prisons, healthcare, gambling) highlighted in Article 1.
+
+      KEY ENTITIES:
+      Hoss Mack
+      Baldwin County Sheriff Office
+      Chris Elliott
+      Chip Brown
+      Brian Powell
+      State Sen. Chris Elliott
+      Fairhope City Council
+      Fairhope Waterfront
+      Governor Ivy
+      Mobile Baykeeper
+      SAH (Strengthen Alabama Homes)
+      Alabama Legislature
+      Board-of-Education
+    llm_text: From Hoss Mack's Qualified Immunity to the Fairhope Waterfront $6.2 million grant fight, local accountability fails. These systemic issues stalled legislative wins, including the Alabama gaming bill.
+    text: From Hoss Mack and qualified immunity to the Fairhope waterfront grant fight, local accountability fails. These systemic issues stalled legislative wins like the gaming bill.
+    widget_date: "2021-05-07"
+    generated_at: "2026-11-07T08:29:43.164714Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  insanity-2:
+    refined_source: 55ee0fa2c00236178d2a0e35691a10c5e475355ebdbf0e15097b223788adbfa8
+    brief: |-
+      THE CONFLICT:
+      *   2015: Governor Bentley left $3 Billion on the table regarding Medicaid expansion.
+      *   2021: Governor Ivy pursued a private partnership prison plan costing $3 Billion.
+      *   2016: Chris Elliott was removed as a contractor from the Strengthen Alabama Homes (SAH) program.
+      *   February (2021): State Rep. Chip Brown introduced a bill to increase SAH funding.
+      *   2021: Alabama Legislature failed to pass a lottery or gaming bill despite its potential to fund healthcare/broadband.
+
+      THE DISCOVERY:
+      *   The Widget Article (2015/2021) documented historical political decisions by Governors Bentley and Ivy regarding Medicaid expansion and prison contracts, suggesting a pattern of prioritizing profit over public health and lost revenue (estimated $15-$20 Billion in lost Medicaid dollars since 2015).
+      *   The Main Article (2021) showed the legislature failed to pass major reforms (prisons, healthcare/Medicaid, gambling) but did pass a bill for home alcohol delivery and traction for medical cannabis.
+
+      THE PIVOT:
+      *   The Widget Article establishes a historical precedent of high-level political decisions prioritizing private profit (prison contracts, neglecting Medicaid expansion) over state economic health and citizen welfare, providing context for the 2021 legislative failure (Main Article).
+      *   This pattern of political inaction and profit-seeking is the context for State Sen. Chris Elliott's 2021 attempt to halt SAH funding, which stemmed from his personal vendetta following his 2016 dismissal, illustrating how personal disputes override beneficial public programs (SAH).
+
+      KEY ENTITIES:
+      *   Governor Bentley
+      *   Governor Ivy
+      *   State Sen. Chris Elliott
+      *   State Rep. Chip Brown
+      *   Brian Powell (SAH director)
+      *   Alabama Board of Education
+      *   Strengthen Alabama Homes (SAH)
+      *   Mobile County
+      *   Fairhope
+      *   Alabama Legislature (2021 session)
+      *   Medicaid
+      *   $3 Billion (prison contract)
+      *   $15 Billion to $20 Billion (estimated lost Medicaid revenue)
+    llm_text: Bentley and Ivy sacrificed $15-$20 billion in Medicaid revenue and approved a $3 billion private prison deal, prioritizing profit over public health. See how that history fuels State Sen. Chris Elliott’s vendetta against the Strengthen Alabama Homes (SAH) program.
+    text: State leaders sacrificed Medicaid revenue and approved a private prison deal to prioritize profit. That history fuels State Senator Chris Elliott's vendetta against the SAH program.
+    widget_date: "2021-02-19"
+    generated_at: "2026-11-07T08:30:46.493649Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-suicide:
+    refined_source: 257b70c588e6b1d2d40e9805eff599f2f361bbc84697299ed94399e1b64d59c3
+    brief: |-
+      THE CONFLICT: January 6th, 2021, involved the assault on the Capitol, the Electoral College confirming Biden/Harris, and Alabama politicians including Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, and Tommy Tuberville contesting the election outcome.
+      THE DISCOVERY: The Widget Article revealed that Alabama politicians' actions (contesting the Electoral College) were driven by blindly following political leaders and self-interest, resulting in political embarrassment and financial cost to the state.
+      THE PIVOT: The historical pattern of political self-interest and lack of foresight demonstrated during the January 6th crisis (Article 2) explains the failure of the Alabama Legislature to pass crucial constituent-focused bills (prisons, healthcare/Medicaid, gambling) in the last session (Article 1), proving the state prioritizes political posturing over serious state needs.
+      KEY ENTITIES: Brian Powell, Chip Brown, Chris Elliott, Alabama Board of Education, Tommy Tuberville, Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, Baldwin County State Senator "DUI" Elliott.
+    llm_text: Alabama politicians, including Tommy Tuberville and Barry Moore, challenged the 2021 election outcome based on self-interest. This blind posturing caused the Legislature to ignore crucial state needs, failing to pass vital bills on prisons and Medicaid.
+    text: Alabama politicians challenged the 2021 election outcome based on self-interest. This posturing caused the Legislature to ignore state needs and fail on prisons and Medicaid.
+    widget_date: "2021-01-08"
+    generated_at: "2026-11-07T08:31:43.229577Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-corruption-insurance:
+    refined_source: b97bc15a5381706d5ad8945cf11d7ea155b2dd0d83d8238bcecb000b2912353d
+    brief: |-
+      THE CONFLICT: Systemic political corruption in Alabama, demonstrated by alleged issues in Columbia, Alabama (Mayor and Chief of Police), where officials rely on the Alabama Corruption Insurance mechanism.
+      THE DISCOVERY: The Alabama Ethics Commission provides "protection from prosecution" via Alabama Corruption Insurance, enabling elected officials (e.g., Judges, Mayors, City Council) to evade accountability and maintain corruption.
+      THE PIVOT: This systemic lack of accountability (A2) allows specific political vendettas, such as State Sen. Chris Elliott utilizing his 2016 dismissal from the SAH program to stall the SAH funding bill introduced by State Rep. Chip Brown in February, despite the program’s 6-to-1 return on investment.
+      KEY ENTITIES: Brian Powell (SAH Director), Chip Brown (State Rep), Chris Elliott (State Sen), Alabama Corruption Insurance, Alabama Ethics Commission, Columbia, Fairhope, SAH (Strengthen Alabama Homes).
+    llm_text: Alabama Corruption Insurance allows officials like Columbia's Mayor to evade accountability. State Sen. Chris Elliott is stalling Chip Brown's SAH funding bill, proving systemic corruption trumps a 6-to-1 return on investment.
+    text: Alabama corruption insurance allows local officials to evade accountability. State Senator Chris Elliott stalls Chip Brown's SAH funding bill, ignoring public returns on investment.
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-07T08:32:57.592629Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  first-congressional-district:
+    refined_source: 67b0b50206f55171ca8e4dda0d030a27752d494419f2c38d694eeffb77598826
+    brief: |-
+      THE CONFLICT:
+      2020 election in the AL-1 district: Jerry Carl (backed by Business Council of Alabama, Alabama Farmers Federation, Byrne) vs. "Lowtower" (Catalyst/Hightower) (backed by conservative flame Club for Growth).
+      2016: Licensed contractor Chris Elliott was removed from the SAH program after accusations of "profiling" and "cherry-picking" applicants.
+      2021 legislative session: State Sen. Chris Elliott stalled a bill introduced by State Rep. Chip Brown of Mobile County aimed at increasing SAH funding.
+
+      THE DISCOVERY:
+      The 2020 AL-1 race reflected a deep political split in Baldwin County between the activist and business wings of the Republican Party.
+
+      THE PIVOT:
+      The 2020 election context establishes the partisan and ideological internal conflict within the Alabama Republican party, which provides the political environment where State Sen. Chris Elliott used his position in 2021 to settle a personal vendetta against SAH, overriding public policy (funding) for personal gain.
+
+      KEY ENTITIES:
+      Jerry Carl
+      "Lowtower"/Hightower
+      Chip Brown
+      Chris Elliott (R-Fairhope)
+      Brian Powell (SAH director)
+      Business Council of Alabama
+      Alabama Farmers Federation
+      Strengthen Alabama Homes (SAH)
+    llm_text: The 2020 AL-1 race between Jerry Carl and "Lowtower" exposed a deep rift in the Alabama GOP. Despite public policy goals, Chris Elliott used his 2021 position to stall Chip Brown's SAH funding bill, settling a personal vendetta instead of helping Baldwin County.
+    text: The 2020 AL-1 race exposed a deep rift in the Alabama GOP. Chris Elliott used his position to stall Chip Brown's SAH funding bill to settle a personal vendetta.
+    widget_date: "2020-07-02"
+    generated_at: "2026-11-07T08:28:52.072413Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature:
+    refined_source: f480530ebbd74a4caaa616ad44fe16443b905055889f56d60cd0e7e8343f093f
+    brief: |-
+      THE CONFLICT:
+      1. In 1993, the Alabama Board of Education banned yoga from public schools due to ties to the Hindu religion.
+      2. In 2016, State Rep. Chip Brown was removed from the Strengthen Alabama Homes (SAH) program after being accused of “profiling” and “cherry-picking” applicants.
+
+      THE DISCOVERY:
+      1. The last Alabama Legislature session failed to pass major bills including Prisons, healthcare/Medicaid, and a gaming/lottery bill.
+      2. Medical marijuana gained traction in the state, though it was presented as a "baby-step start."
+
+      THE PIVOT:
+      1. State Sen. Chris Elliott (R-Fairhope) leveraged his legislative position to halt funding for the SAH program, a bill introduced by Chip Brown in February, despite the House passing it 96-1.
+      2. Elliott's action was linked to a personal vendetta stemming from his dismissal of Chip Brown as a contractor in 2016.
+
+      KEY ENTITIES:
+      1. Brian Powell (SAH director)
+      2. Chip Brown (Mobile County State Rep.)
+      3. Chris Elliott (R-Fairhope State Sen.)
+      4. Alabama Board of Education
+      5. Strengthen Alabama Homes (SAH)
+      6. Alabama Legislature
+    llm_text: State Sen. Chris Elliott leveraged a personal vendetta against Chip Brown to halt Strengthen Alabama Homes (SAH) funding. This political drama proves how local grudges derail critical bills in the Alabama Legislature.
+    text: State Senator Chris Elliott leveraged a personal vendetta against Chip Brown to halt SAH funding. Local grudges derail critical bills in the Alabama Legislature.
+    widget_date: "2020-02-19"
+    generated_at: "2026-11-07T08:34:07.267729Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

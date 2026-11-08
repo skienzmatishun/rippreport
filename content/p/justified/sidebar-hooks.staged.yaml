@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   red-lips-award:
+    refined_source: 8a4832a9fdd39c85593e37e75ae8c7ca3546ebe496ebaa4322ff4e30cb3e36a0
     brief: |-
       THE CONFLICT:
       *   Tom Albritton, Ethics Director, used Mabel Amos Trust funds, awarding himself $120,000 for children's scholarships.
@@ -41,21 +42,25 @@ hooks:
       *   Ed Oliver
       *   Chris Elliott (Baldwin County State Senator)
       *   Vivian Figures (Baldwin County State Senator)
-    llm_text: Tom Albritton took $120,000 from the Mabel Amos Trust while Kimberly Boswell allegedly diverted $7 million from the American Rescue Plan. See how this deep institutional corruption in Baldwin County mirrors internal policing issues involving Robert Wilters.
+    llm_text: Tom Albritton took $120,000 from the Mabel Amos Trust while Kimberly Boswell diverted $7 million from the American Rescue Plan. See how this deep institutional corruption in Baldwin County mirrors internal policing issues involving Robert Wilters.
+    text: Tom Albritton took $120,000 from the Mabel Amos Trust while Kimberly Boswell diverted $7 million from the American Rescue Plan. Institutional corruption plagues Baldwin County.
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T14:43:38.385633Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   veterans-rally:
+    refined_source: ff9387f8655b7d24e4309c92d131dcfce9171d22d6d2e7543964e51ce08d7df7
     brief: |-
       THE CONFLICT: Killing of O.J. French in Bay Minette during a traffic stop; Johnathan Victor killed by a sheriff deputy; Five deaths resulted from an I-10 chase involving a sheriff deputy; Murray Lawrence wrongfully convicted of murder for almost 20 years.
       THE DISCOVERY: Article 2 (VETERANS RALLY) provides no specific facts, dates, or revelations connecting to the police misconduct, wrongful convictions, or events in Baldwin County mentioned in Article 1.
       THE PIVOT: Article 2 does not serve as a 'smoking gun' or key context for Article 1, as it is a general rally image and contains zero factual information related to the Baldwin County Major Crimes Unit or the specific individuals and legal cases.
       KEY ENTITIES: O.J. French, Johnathan Victor, Al Tolbert (Chief of Bay Minette Police), Sheriff Hoss Mack, Bob Willis (Mayor of Bay Minette), Robert Wilters (Baldwin County District Attorney), David Whetstone, Murray Lawrence, Antony Lowery, Baldwin County Major Crimes Unit, County Commission.
     llm_text: O.J. French and Johnathan Victor died during violent Baldwin County incidents, including a deputy killing. Murray Lawrence spent two decades wrongly convicted; see how the Major Crimes Unit handled this systemic injustice.
+    text: O.J. French and Johnathan Victor died during violent Baldwin County incidents involving deputies. Murray Lawrence spent two decades wrongly convicted while the Major Crimes Unit hid facts.
     widget_date: "2025-02-23"
     generated_at: "2026-11-06T14:46:10.141853Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   war:
+    refined_source: 3880b829f37bb0ac0d0e96589fd18da3b68455a8b1dd757a40e7161f7a02fa22
     brief: |-
       THE CONFLICT:
       O.J. French of Bay Minette was killed during a traffic stop in Baldwin County.
@@ -86,10 +91,12 @@ hooks:
       Baldwin County Major Crimes Unit
       County Commission
     llm_text: From Murray Lawrence’s 20-year wrongful conviction involving Sheriff Mack and DA Robert Wilters to Governor "poison Ivy" attacking veterans, Alabama faces deep corruption. These powerful figures abuse local justice and state power, undermining every resident's rights.
+    text: From Murray Lawrence's 20-year wrongful conviction involving Sheriff Mack and DA Robert Wilters to Governor Ivey attacking veterans, Alabama faces deep corruption and abuse of power.
     widget_date: "2025-02-22"
     generated_at: "2026-11-06T14:47:34.295934Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: e29bc72e92cde0855b4dfa4ce0b94a8cd64f41d8f9b9fc4801d189175479c66d
     brief: |-
       THE CONFLICT:
       *   O.J. French was killed during a traffic stop in Bay Minette.
@@ -126,10 +133,12 @@ hooks:
       *   I-10
       *   SB67
     llm_text: Local police corruption in Bay Minette wrongly convicted Murray Lawrence, involving Mayor Bob Willis and Sheriff Mack. Separately, Lt. Governor Will Ainsworth challenged Governor Kay Ivey's SB67 push to control the Veterans Board.
+    text: Police corruption in Bay Minette wrongly convicted Murray Lawrence with Mayor Bob Willis and Sheriff Mack. Lt. Governor Will Ainsworth challenged Governor Kay Ivey over the Veterans Board.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:49:07.665324Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: c518b9c27bc4d66f1d324b8c4006655a0494c4be2e5e9aed64f27d5e3bd4584f
     brief: |-
       THE CONFLICT:
       1. O.J. French of Bay Minette was killed during a traffic stop in Baldwin County.
@@ -160,6 +169,7 @@ hooks:
       12. Compassion Act (2021 legislation)
       13. Senator Tim Melson (R-Florence)
     llm_text: Sheriff Mack and former DA David Whetstone enabled Murray Lawrence's 20-year wrongful conviction in Bay Minette. This institutional corruption mirrors Alabama's failure to implement the 2021 Compassion Act, proving systemic government oversight is broken.
+    text: Sheriff Mack and former DA David Whetstone enabled Murray Lawrence's 20-year wrongful conviction in Bay Minette. This institutional corruption mirrors statewide government failures.
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T14:45:10.669852Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

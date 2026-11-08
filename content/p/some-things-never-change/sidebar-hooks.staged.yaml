@@ -5,17 +5,32 @@ metadata:
   main_date: "2026-04-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  5000-00-cash-reward-rerun:
+    refined_source: 365f8298030ee64c722c43b230c916ae1d592123ceaa7b03d5621ef4d1c80e62
+    brief: |-
+      THE CONFLICT: Formal complaint filed against Fairhope Councilman Jack Burrell regarding receipt of free airplane transportation from a winning bidder while serving as Airport Authority Board member. (Context provided by Article 2, predating Article 1).
+      THE DISCOVERY: The Ripp Report and BCLE offered a $5,000 cash reward for proof that the formal complaint against Jack Burrell was false or based on malicious intent.
+      THE PIVOT: Article 2 establishes the documented history of Burrell's alleged past political misconduct (improper gifts/bid influence), which Article 1 uses to question his fitness for a potential run for Congress (Bradly Byrne's seat) by referencing his "past political antics" and unexplained police report.
+      KEY ENTITIES: Jack Burrell, The Ripp Report, BCLE, Fairhope Council President, Fairhope Airport, Bradly Byrne, Chris Elliott, Eddie Tyler, Sherry Sullivan.
+    llm_text: Fairhope Councilman Jack Burrell accepted free airplane transport from a winning bidder while serving the Airport Authority Board. Does this past misconduct disqualify Burrell from challenging Bradly Byrne for Congress?
+    text: Fairhope Councilman Jack Burrell accepted free airplane rides from a winning bidder while serving on the Airport Authority Board.
+    widget_date: "2025-08-05"
+    generated_at: "2026-11-06T08:41:28.787914Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   by-appointment-only:
+    refined_source: eb6d7ee1262ca630b15cdfd5da6c04e06bbbc64c069e517b958e133d293dbc6c
     brief: |-
       THE CONFLICT: Baldwin County features a political cabal coordinating with the State Executive Branch to control the judicial bench.
       THE DISCOVERY: The Alabama Gaming Commission was created, supported by DraftKings, who may have been negotiating a merger or acquisition with PCI Gaming (Porch Band of Creek Indians) for four years.
       THE PIVOT: Article 2 establishes the systemic political influence and control (the cabal/gaming influence) within Baldwin County, providing the context for the local corruption and political maneuvering detailed in Article 1 (e.g., the unvoted penny tax, the school separation lawsuit involving Tyler, and the local political appointments/retaliation).
       KEY ENTITIES: Baldwin County; State Executive Branch; Alabama Gaming Commission; DraftKings; PCI Gaming (Porch Band of Creek Indians); Chris Elliott ("TAX MAN," State Senator); Eddie Tyler (Baldwin County Superintendent); Jack Burrell; Sherry Sullivan; Jennifer Fidler; Pandora Heathcoat; Chucky Cheese; CATALYST (tabloid/group).
     llm_text: Baldwin County officials like Chris Elliott and Eddie Tyler operate under a cabal coordinating with the State Executive Branch. This systemic influence connects to the Alabama Gaming Commission and DraftKings' four-year negotiations with PCI Gaming.
+    text: Chris Elliott and Eddie Tyler operate inside a cabal connected to the State Executive Branch. That influence reaches the Alabama Gaming Commission and DraftKings.
     widget_date: "2026-04-10"
     generated_at: "2026-11-06T08:34:55.272335Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   eddie-tyler-exits-stage-left:
+    refined_source: 19029ec4b1b62c5b7572eef599a2923ee113406fb3827d387ec7b30d44120412
     brief: |-
       THE CONFLICT:
       *   Eddie Tyler, Baldwin County Superintendent, went back on a published promise regarding the State Board of Education decision.
@@ -47,21 +62,25 @@ hooks:
       *   CATALYST (tabloid, council, am radio station)
       *   Bradly Byrne
       *   Cant (former Mayor)
-    llm_text: Eddie Tyler breached a promise, triggering a costly lawsuit in Baldwin County over Gulf Shores school separation. Discover how $16.3M for the Golden Triangle/Fish River benefited one developer, distracting from taxpayer corruption.
+    llm_text: Eddie Tyler breached a promise, triggering a costly lawsuit in Baldwin County over Gulf Shores school separation. Read how $16.3M for the Golden Triangle/Fish River benefited one developer, distracting from taxpayer corruption.
+    text: Eddie Tyler broke a promise and triggered a costly lawsuit over Gulf Shores school separation. Taxpayers funded sixteen million dollars for a single developer.
     widget_date: "2026-03-27"
     generated_at: "2026-11-06T08:36:59.390756Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   blast-from-the-past:
+    refined_source: 7200074eda5d3e9cad25974d696939808c0a7d1a3c4ee9d26dbc57c7fb4b56d8
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. (Hoss Mack was lead investigator) and BC Sheriff's Department cover-ups regarding internal affairs (senior officer/subordinate employee).
       THE DISCOVERY: The Baldwin County Sheriff's Department lacks supervision, transparency, and accountability.
       THE PIVOT: The historical pattern of institutional cover-ups and legal failure (Article 2) contextualizes current political issues in Baldwin County, including State Senator Chris Elliott covering for Superintendent Eddie Tyler on a penny tax and Tyler's broken promise to taxpayers/teachers regarding the State Board of Education decision.
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr., Robert Wilters, Chris Elliott, Eddie Tyler, Jack Burrell, Sherry Sullivan
     llm_text: Murray Lawrence Jr.'s wrongful conviction, tied to Hoss Mack and Baldwin County Sheriff's cover-ups, reveals a lack of departmental accountability. Understand how this history of institutional failure connects to State Senator Chris Elliott and Superintendent Eddie Tyler's current political promises.
+    text: Murray Lawrence Jr. suffered a wrongful conviction tied to Sheriff Hoss Mack and department cover-ups. State Senator Chris Elliott and Superintendent Eddie Tyler now ignore this history.
     widget_date: "2026-01-21"
     generated_at: "2026-11-06T08:38:07.568665Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-law-enforcement-narrative-2:
+    refined_source: 0da19d3397a3c854e646b66a4d013f9f491b32c820f66128516ba654033275f7
     brief: |-
       THE CONFLICT:
       *   Death of a beloved Bay Minette Community member following a 10am traffic stop (one month prior to Widget Article publication).
@@ -93,10 +112,12 @@ hooks:
       *   Bay Minette Justice League
       *   CATALYST (tabloid/council/am radio)
     llm_text: Sheriff Huey Mack fabricated the official narrative following deaths like Jonathan Victor’s and Robert Yates’ eviction. See how this documented police misconduct fuels Baldwin County’s tax hikes and local corruption involving Chris Elliott.
+    text: Sheriff Huey Mack fabricated official reports after deaths like Jonathan Victor's and Robert Yates' eviction. Tax hikes and corruption followed.
     widget_date: "2025-09-10"
     generated_at: "2026-11-06T08:39:20.318717Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   russian-roulette-fairhope-style-rerun:
+    refined_source: 3d75cb100641193bb3b92c618a506331e46a4ab57df63a976cfd4eb899054361
     brief: |-
       THE CONFLICT: Dyas, Triangle lawsuit resulted in Fairhope assuming $11.25 million in costs; Mayor Tim Kant and Council members (Boone and Burrell) lied about the settlement and land purchase; ongoing development lawsuit involving Mr. Buddy Breland.
 
@@ -106,10 +127,12 @@ hooks:
 
       KEY ENTITIES: Tim Kant, Boone, Burrell, Mr. Buddy Breland, Chris Elliott, Eddie Tyler, Sherry Sullivan, Jennifer Fidler, Pandora Heathcoat, CATALYST.
     llm_text: Mayor Tim Kant and the Fairhope City Council lied about the Dyas lawsuit, forcing the city to assume $11.25 million in costs. This historical financial mismanagement reveals a pattern of institutional corruption relevant to today's issues involving Jack Burrell and the CATALYST machine.
+    text: Mayor Tim Kant and the Fairhope City Council lied about the Dyas lawsuit. taxpayers absorbed eleven million dollars in legal costs.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T08:36:09.595936Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-good-the-bad-and-the-ugly-repost:
+    refined_source: 6117403fdccc0d0c70724b96b036ac4a983a0efe29ccb4e73662db3eb2567b78
     brief: |-
       THE CONFLICT:
       *   The Triangle Lawsuit cost Fairhope $11.25 million, which could have been settled for under $1 million.
@@ -141,16 +164,7 @@ hooks:
       *   Baldwin County
       *   Catalyst
     llm_text: Council members Can’t, Boone, and Burrell let Fairhope pay $11.25 million in the Triangle Lawsuit instead of settling for under $1 million. This documented obstruction reveals a pattern of self-protection by the Catalyst Council, linking to the corruption criticized against Chris Elliott.
+    text: Council members Kant, Boone, and Burrell forced Fairhope to pay eleven million dollars in the Triangle Lawsuit instead of settling early.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T08:40:34.519732Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  5000-00-cash-reward-rerun:
-    brief: |-
-      THE CONFLICT: Formal complaint filed against Fairhope Councilman Jack Burrell regarding receipt of free airplane transportation from a winning bidder while serving as Airport Authority Board member. (Context provided by Article 2, predating Article 1).
-      THE DISCOVERY: The Ripp Report and BCLE offered a $5,000 cash reward for proof that the formal complaint against Jack Burrell was false or based on malicious intent.
-      THE PIVOT: Article 2 establishes the documented history of Burrell's alleged past political misconduct (improper gifts/bid influence), which Article 1 uses to question his fitness for a potential run for Congress (Bradly Byrne's seat) by referencing his "past political antics" and unexplained police report.
-      KEY ENTITIES: Jack Burrell, The Ripp Report, BCLE, Fairhope Council President, Fairhope Airport, Bradly Byrne, Chris Elliott, Eddie Tyler, Sherry Sullivan.
-    llm_text: Fairhope Councilman Jack Burrell accepted free airplane transport from a winning bidder while serving the Airport Authority Board. Does this past misconduct disqualify Burrell from challenging Bradly Byrne for Congress?
-    widget_date: "2025-08-05"
-    generated_at: "2026-11-06T08:41:28.787914Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

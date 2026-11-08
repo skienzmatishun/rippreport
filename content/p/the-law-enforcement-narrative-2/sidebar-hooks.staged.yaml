@@ -5,53 +5,8 @@ metadata:
   main_date: "2025-09-10"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  good-ole-boys-lose-front-teeth:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County experienced a political shift away from the established "good ole boy" (GOB) culture toward transparency through recent local elections.
-      *   In Bay Minette, ex-Mayor Bob Wills lost to Joshua Brown.
-      *   In Spanish Fort, Mayor Brad Bass won a significant victory over Mike.
-      *   In Robertsdale, 8-term incumbent Charlie Murphy finished third, leading to a run-off between Ruthie Campbell and Russell Johnson.
-      *   In Summerdale, Mayor Randy Farris won after 17 years without a mayoral vote.
-
-      THE DISCOVERY:
-      *   The elections showed a widespread public fatigue with blatant local corruption and the GOB system in Baldwin County.
-      *   Catalyst (Scott Boone Consulting) promoted this shift, indicating that GOB candidates were losing electoral support.
-
-      THE PIVOT:
-      *   Article 2 establishes that the public has already rejected the established local power structure (GOB) prior to the current crisis.
-      *   This historical context validates the distrust seen in Article 1, where the Bay Minette Justice League challenges Sheriff Huey Mack's official narrative regarding a death, suggesting the cover-up is part of a long-standing institutional failure.
-
-      KEY ENTITIES:
-      *   Bob Wills
-      *   Joshua Brown
-      *   Brad Bass
-      *   Charlie Murphy
-      *   Ruthie Campbell
-      *   Russell Johnson
-      *   Randy Farris
-      *   Huey Mack (Baldwin County Sheriff)
-      *   Bay Minette Justice League
-      *   Catalyst / Scott Boone Consulting
-      *   Bay Minette
-      *   Spanish Fort
-      *   Robertsdale
-      *   Summerdale
-    llm_text: Baldwin County voters rejected the GOB system, sending Bob Wills down in Bay Minette and electing Randy Farris in Summerdale. This widespread fatigue validates the Bay Minette Justice League challenging Sheriff Huey Mack's official narrative.
-    widget_date: "2025-08-27"
-    generated_at: "2026-11-06T11:45:15.223477Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  end-the-good-ole-boy-culture-in-baldwin-county:
-    brief: |-
-      THE CONFLICT: Lynn Stacy initiated the "good ole boy system" in Baldwin County; Hoss Mack was the driving force, placing Judges and Mayors in office; Mack retired, leaving reins to Anthony Lowery.
-      THE DISCOVERY: Scott Boone Consulting and the group known as Catalyst are the current entities representing the entrenched cabal of Baldwin County politics.
-      THE PIVOT: Article 2 establishes a long-term history of institutional control and political entrenchment (15-30+ years in office) within Baldwin County, providing the systemic context for the alleged cover-ups and disinformation detailed by Sheriff Huey Mack's office in Article 1.
-      KEY ENTITIES: Lynn Stacy, Hoss Mack, Anthony Lowery, Chris Elliott, Haygood, Catalyst, Scott Boone Consulting, Brad Brass, Craft, Bay Minette, Sheriff Huey Mack, Scott Johnson, Forest Bullin, Steve Nodine, Jonathan Victor, Peyton Little.
-    llm_text: Hoss Mack and Lynn Stacy built Baldwin County's "good ole boy system," now driven by Anthony Lowery and represented by Catalyst. See how 15-30 years of institutional control created the cover-ups Sheriff Huey Mack exposed.
-    widget_date: "2025-08-25"
-    generated_at: "2026-11-06T11:47:25.505329Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   russian-roulette-fairhope-style-rerun:
+    refined_source: 9d94a7d97c2b9c2694f9703c460287bbf8e4f4c80e6b94e147441981ca1cf861
     brief: |-
       THE CONFLICT:
       1. Tim Kant (former Mayor) and then council members (Boone and Burrell) mishandled the Dyas, Triangle lawsuit in Fairhope.
@@ -85,10 +40,12 @@ hooks:
       16. Fairhope City Council
       17. Bay Minette Justice League
     llm_text: Tim Kant and council members Boone and Burrell cost Fairhope $11.25 million over the Dyas Triangle lawsuit. Now, Jack Burrell’s council ignores the $10 million threat from Mr. Buddy Breland, showing a pattern of institutional failure in Baldwin County.
+    text: Tim Kant and council members Boone and Burrell cost Fairhope millions over the Dyas Triangle lawsuit. Why does Jack Burrell's council now ignore a threat from Buddy Breland?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T11:48:36.370024Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-good-the-bad-and-the-ugly-repost:
+    refined_source: 5444868201f3d616cd0a4681ea113703e2f50155e712778fcb87ad9cf530e8b2
     brief: |-
       THE CONFLICT:
       Triangle lawsuit cost Fairhope city $11.25 million, whereas settlement could have been under $1 million.
@@ -124,20 +81,24 @@ hooks:
       Matt Bowers
       Dean Mosher
     llm_text: Mayor Can’t, Boone, and Burrell refused a $1M settlement, letting the Triangle lawsuit cost Fairhope $11.25 million. This local obstruction mirrors the alleged fiction in Sheriff Huey Mack’s Baldwin County cover-up.
+    text: Mayor Kant, Boone, and Burrell refused a settlement and let the Triangle lawsuit cost Fairhope $11.25 million. Does this local obstruction mirror Sheriff Huey Mack's cover-up?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T11:49:40.795523Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   5000-00-cash-reward-rerun:
+    refined_source: 1239392cadaa0672b66d702c98c6c29582310625baf0b5fee32098686badd5e6
     brief: |-
       THE CONFLICT: Formal complaint against Councilman Jack Burrell of Fairhope regarding receiving free airplane transportation from a winning bidder while serving as Council President and Airport Authority Board member.
       THE DISCOVERY: The Ripp Report and BCLE offered a $5,000 cash reward to prove the complaint documents were false, fabricated, or based on willful malicious intent.
       THE PIVOT: The Burrell complaint establishes historical context of alleged local political and financial misconduct in Fairhope/Baldwin County, aligning with the broader narrative of cover-ups and disinformation cited in the Main Article (e.g., Sheriff Huey Mack's narrative).
       KEY ENTITIES: Jack Burrell, Fairhope, The Ripp Report, BCLE, Sheriff Huey Mack, Harry Still, Scott Johnson, Baldwin County Major Crimes Unit, Jonathan Victor, Robert Yates, Peyton Little, Steve Nodine, Forest Bullin, Michael Walker, Bay Minette Justice League, Fairhope Airport.
     llm_text: Councilman Jack Burrell faces a formal complaint in Fairhope over receiving free airplane rides from a winning bidder while serving as Council President. The Ripp Report and BCLE offer a $5,000 reward if you prove these documents are false, linking this misconduct to broader local cover-ups cited by Sheriff Huey Mack.
+    text: Councilman Jack Burrell faces a formal complaint in Fairhope over receiving free airplane rides from a winning bidder. Will you prove these documents are false and claim the $5,000 reward?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T11:46:19.446689Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: c097f2465aec4af54c55c69ed58f07e22787ed15cf129a8b5635be8064ee44ce
     brief: |-
       THE CONFLICT: A political cabal in Baldwin County operated for years under the banner CATALYST, rebranding to Scott Boone Consulting SBC in 2020 to exert control over Fairhope, involving a Triangle Lawsuit which cost taxpayers $3 million legal fees (handled by Hand Anderall Sale).
 
@@ -147,10 +108,12 @@ hooks:
 
       KEY ENTITIES: Scott Boone Consulting SBC (SBC), CATALYST, Fairhope, Baldwin County, Sheriff Huey Mack, Jonathan Victor, Peyton Little, Steve Nodine, Forest Bullin, Hand Anderall Sale, Municipal Judge, Kevin Boone, Publix, Fly Creek, Triangle Lawsuit, January 25, 2021.
     llm_text: Scott Boone Consulting (SBC) ran a Fairhope political cabal, costing taxpayers $3M and enabling deals like the Publix project. This history of Baldwin County corruption proves Sheriff Huey Mack's narrative regarding Jonathan Victor and Peyton Little is likely disinformation.
+    text: Scott Boone Consulting ran a Fairhope political cabal that cost taxpayers millions and enabled developer deals. Does this history prove Sheriff Huey Mack's narrative is disinformation?
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T11:51:02.144305Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   cameras:
+    refined_source: ca5e51efdeb324214728cf63d43fbb73f7abe5cd7e609e0cd4305eb7fdfd4f1e
     brief: |-
       THE CONFLICT:
       *   May 12, 2017: Jonathan Victor was shot by a Baldwin County Sheriff's Office (BCSO) deputy.
@@ -175,10 +138,12 @@ hooks:
       *   Peyton Little
       *   Bay Minette Justice League
     llm_text: The Alabama Supreme Court restricted access to Jonathan Victor's 2017 shooting video, letting Sheriff Mack control the narrative on Bay Minette Harry Still's recent traffic stop. See how legal precedent limits police transparency in Baldwin County.
+    text: The Alabama Supreme Court restricted access to the 2017 shooting video involving Jonathan Victor. How does this legal precedent limit police transparency during traffic stops in Bay Minette?
     widget_date: "2022-08-25"
     generated_at: "2026-11-06T11:52:23.495206Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   happy-days:
+    refined_source: 9b12e4c883fcce2aa68a998f2d071071d970dc523c4aa63b226a5882fd369fef
     brief: |-
       THE CONFLICT:
       *   Sheriff Huey Mack ran unopposed for the third time due to State Senator Tripp Pittman legislatively writing qualifications that eliminated competition.
@@ -206,6 +171,57 @@ hooks:
       *   Forest Bullin (Convicted of attempted murder of Deputy Michael Walker)
       *   Scott Johnson (Lagniappe Newspaper)
     llm_text: Sheriff Huey Mack secured his third term via Senator Tripp Pittman's restrictive laws. Read how compromised ethics, like Tom Albritton's involvement, built a foundation of corruption in the Baldwin County Major Crimes Unit.
+    text: Sheriff Huey Mack secured his third term through restrictive laws sponsored by Senator Tripp Pittman. How did compromised ethics build a foundation of corruption in the Major Crimes Unit?
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T11:53:26.264440Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-lose-front-teeth:
+    refined_source: 0f276cc5aeee673c0986cb389e478fc6fe2dcffb7101f81cb757011e9ccccb31
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County experienced a political shift away from the established "good ole boy" (GOB) culture toward transparency through recent local elections.
+      *   In Bay Minette, ex-Mayor Bob Wills lost to Joshua Brown.
+      *   In Spanish Fort, Mayor Brad Bass won a significant victory over Mike.
+      *   In Robertsdale, 8-term incumbent Charlie Murphy finished third, leading to a run-off between Ruthie Campbell and Russell Johnson.
+      *   In Summerdale, Mayor Randy Farris won after 17 years without a mayoral vote.
+
+      THE DISCOVERY:
+      *   The elections showed a widespread public fatigue with blatant local corruption and the GOB system in Baldwin County.
+      *   Catalyst (Scott Boone Consulting) promoted this shift, indicating that GOB candidates were losing electoral support.
+
+      THE PIVOT:
+      *   Article 2 establishes that the public has already rejected the established local power structure (GOB) prior to the current crisis.
+      *   This historical context validates the distrust seen in Article 1, where the Bay Minette Justice League challenges Sheriff Huey Mack's official narrative regarding a death, suggesting the cover-up is part of a long-standing institutional failure.
+
+      KEY ENTITIES:
+      *   Bob Wills
+      *   Joshua Brown
+      *   Brad Bass
+      *   Charlie Murphy
+      *   Ruthie Campbell
+      *   Russell Johnson
+      *   Randy Farris
+      *   Huey Mack (Baldwin County Sheriff)
+      *   Bay Minette Justice League
+      *   Catalyst / Scott Boone Consulting
+      *   Bay Minette
+      *   Spanish Fort
+      *   Robertsdale
+      *   Summerdale
+    llm_text: Baldwin County voters rejected the GOB system, sending Bob Wills down in Bay Minette and electing Randy Farris in Summerdale. This widespread fatigue validates the Bay Minette Justice League challenging Sheriff Huey Mack's official narrative.
+    text: Baldwin County voters rejected the old guard by defeating Bob Wills and electing Randy Farris. Does this widespread voter fatigue validate the Bay Minette Justice League?
+    widget_date: "2025-08-27"
+    generated_at: "2026-11-06T11:45:15.223477Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  end-the-good-ole-boy-culture-in-baldwin-county:
+    refined_source: 7e3e4ead74ef5de685816131dabde2a84b7c1b7b281075bba599ebacca33a422
+    brief: |-
+      THE CONFLICT: Lynn Stacy initiated the "good ole boy system" in Baldwin County; Hoss Mack was the driving force, placing Judges and Mayors in office; Mack retired, leaving reins to Anthony Lowery.
+      THE DISCOVERY: Scott Boone Consulting and the group known as Catalyst are the current entities representing the entrenched cabal of Baldwin County politics.
+      THE PIVOT: Article 2 establishes a long-term history of institutional control and political entrenchment (15-30+ years in office) within Baldwin County, providing the systemic context for the alleged cover-ups and disinformation detailed by Sheriff Huey Mack's office in Article 1.
+      KEY ENTITIES: Lynn Stacy, Hoss Mack, Anthony Lowery, Chris Elliott, Haygood, Catalyst, Scott Boone Consulting, Brad Brass, Craft, Bay Minette, Sheriff Huey Mack, Scott Johnson, Forest Bullin, Steve Nodine, Jonathan Victor, Peyton Little.
+    llm_text: Hoss Mack and Lynn Stacy built Baldwin County's "good ole boy system," now driven by Anthony Lowery and represented by Catalyst. See how 15-30 years of institutional control created the cover-ups Sheriff Huey Mack exposed.
+    text: Hoss Mack and Lynn Stacy built the Baldwin County good ole boy system. How did thirty years of institutional control create the cover-ups Sheriff Mack exposed?
+    widget_date: "2025-08-25"
+    generated_at: "2026-11-06T11:47:25.505329Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

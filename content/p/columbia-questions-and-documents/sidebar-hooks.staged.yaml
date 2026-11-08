@@ -1,0 +1,186 @@
+metadata:
+  generated_at: "2026-11-07T12:46:06.121613Z"
+  generator_version: 1.0.0
+  post_slug: columbia-questions-and-documents
+  main_date: "2020-12-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  wear-a-mask:
+    refined_source: 5dcd6c29e72e34dd61fd92568538a091d6065b47e044eb3cb40e462f40d7afbd
+    brief: |-
+      THE CONFLICT: Bid-rigging, FEMA fraud, and municipal corruption allegations in Columbia, Alabama. The Mayor and Police Chief have ignored allegations despite supporting documents existing.
+
+      THE DISCOVERY: Article 2 (older context) is a public health appeal from Jani Handwerger Mobile, urging non-mask wearers to stop congregating due to spiking COVID-19 numbers and the resulting social and health risks.
+
+      THE PIVOT: Article 2 provides a historical context of public health concern during the COVID-19 pandemic, whereas Article 1 focuses on local government financial misconduct (bid-rigging, unauthorized spending) in Columbia, AL. There is no direct factual link connecting the public health plea (A2) to the municipal corruption claims (A1).
+
+      KEY ENTITIES:
+      Columbia, Alabama
+      Columbia City Council
+      Mayor (Columbia)
+      Police Chief (Columbia)
+      James Whitehead
+      Concerned Citizen (Columbia)
+      Alabama Attorney General Opinion 2002-133
+      Fairhope City Council
+      Jani Handwerger Mobile
+    llm_text: Columbia's Mayor and Police Chief ignored serious bid-rigging and FEMA fraud allegations despite clear supporting documents. See how municipal corruption is impacting the community of Columbia, Alabama, and what the Alabama Attorney General opinion says.
+    text: Columbia leaders ignored serious bid-rigging and FEMA fraud allegations despite clear document proof. Read the Alabama Attorney General opinion on how municipal corruption affects the town.
+    widget_date: "2020-07-08"
+    generated_at: "2026-11-07T12:43:20.516301Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dark-wednesday:
+    refined_source: 4a9e6c5191b4c42c64d8548050f12594a8886c07399e1f31a82a050e9c7a75bc
+    brief: |-
+      THE CONFLICT: Allegations of bid-rigging, FEMA fraud, and misuse of town funds by the Columbia City Council; involved Mayor, Police Chief, City Attorney, and Municipal Judge.
+      THE DISCOVERY: COVID-19 case and death statistics for Alabama, showing 100,000 deaths in 111 days (March 15 to May 24).
+      THE PIVOT: Article 2 (COVID-19 data) provides no factual or contextual link to the municipal corruption allegations detailed in Article 1 (Columbia, Alabama); Article 2 is temporally older but thematically unrelated.
+      KEY ENTITIES: Columbia, Alabama; Concerned Citizen; Mayor; Police Chief; James Whitehead; Alabama Attorney General Opinion 2002-133.
+    llm_text: Forget the COVID statistics. Mayor James Whitehead and the Columbia City Council face severe fraud charges, including bid-rigging and FEMA misuse. Concerned citizens demand accountability for misused town funds.
+    text: Mayor James Whitehead and the Columbia City Council face severe fraud charges for bid-rigging and FEMA misuse. Local citizens demand answers regarding misspent town funds.
+    widget_date: "2020-05-27"
+    generated_at: "2026-11-07T12:39:20.211215Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  money-on-the-table:
+    refined_source: 6a9bd137d36268131aa0c1270e0b6bb793f50a92ed2153fa218bf05dca64a546
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council opposed Mayor Dane Haygood’s $65,000 Marketing Plan for businesses during the Covid-19 Pandemic.
+      *   Councilman Burrell, Robert Brown, and Kevin Boone purchased $2.65 million for recreation land, leasing it for $9,000 annually.
+      *   The City of Fairhope annually donated $35,000 to Baldwin County Economic Development Alliance (BCEDA).
+      *   BCEDA is run by Lee Lawson, brother-in-law to Mayor Dane Haygood.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council (CATALYST) prioritized self-interest (e.g., raising council salaries by $125,000, supporting $3,000,000 school tax) over local economic development.
+      *   The Council rejected the Mayor’s plan to finance the $3,000,000 school tax without a tax increase.
+
+      THE PIVOT:
+      *   The Fairhope case (Article 2) establishes a documented pattern of political corruption, misuse of public funds, and conflict between municipal leadership and council members in Alabama.
+      *   This pattern provides context for the allegations in Columbia, Alabama (Article 1), which include bid-rigging, FEMA fraud, illegal spending (flowers/gift baskets), and unauthorized land transfers, suggesting systemic municipal corruption rather than isolated incidents.
+
+      KEY ENTITIES:
+      *   Columbia, Alabama
+      *   Columbia City Council
+      *   Mayor (Columbia)
+      *   James Whitehead (witness with incriminating documents)
+      *   Fairhope City Council
+      *   Mayor Dane Haygood
+      *   Councilman Burrell
+      *   Robert Brown
+      *   Kevin Boone
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Lee Lawson
+    llm_text: Fairhope City Council opposed Mayor Dane Haygood's $65K plan, yet Councilmen Burrell, Brown, and Boone purchased $2.65M in land. This misuse of public funds and ties to BCEDA (run by Haygood's brother-in-law Lee Lawson) reveals a systemic pattern of municipal corruption across Alabama.
+    text: Fairhope City Council rejected Mayor Dane Haygood's spending plan, yet council members purchased land worth millions. This deal links to the economic development office run by the mayor's brother-in-law.
+    widget_date: "2020-04-29"
+    generated_at: "2026-11-07T12:45:46.729380Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-64-300000-dead:
+    refined_source: 28f57b455e3d6c3698428d0b5ca82bc150e68792c9c18983c70711041215baf0
+    brief: |-
+      THE CONFLICT: Corruption allegations including bid-rigging, FEMA fraud, fraudulent bids, and land fraud occurred within the Columbia, Alabama municipal government.
+      THE DISCOVERY: The older Article 2 (Widget) mentioned "Columbia, Alabama corruption" alongside the national context of 300,000 US COVID-19 deaths and Alabama Governor Kay Ivey extending the mask order.
+      THE PIVOT: Article 2 provided initial, generalized local mention of corruption in Columbia; Article 1 provides specific, documented evidence, including incriminating invoices and checks held by James Whitehead, supporting allegations against the Mayor, Police Chief, City Council, City Attorney, and Municipal Judge.
+      KEY ENTITIES: Columbia, Alabama; Mayor (Columbia); Police Chief (Columbia); City Council (Columbia); James Whitehead; Kay Ivey; Alabama Attorney General (Opinion 2002-133)
+    llm_text: Columbia, Alabama officials face major corruption charges, including FEMA fraud and bid-rigging. James Whitehead holds incriminating invoices targeting the Mayor, Police Chief, and City Council—read the specific evidence now.
+    text: Columbia, Alabama officials face major corruption charges, including FEMA fraud. James Whitehead holds incriminating invoices targeting the Mayor, Police Chief, and City Council.
+    widget_date: "2020-12-21"
+    generated_at: "2026-11-07T12:38:02.705831Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-corruption-insurance:
+    refined_source: 7f9ae60615f929abb2ff7937428ee47d346a0a24d70cb5d25492b86d730be693
+    brief: |-
+      THE CONFLICT:
+      1. Columbia, Alabama, was embroiled in "alleged corruption" involving the Mayor and Chief of Police.
+      2. Complaints were filed with the Attorney General and the Ethics Commission.
+      3. A conflict of interest was alleged: Ben Freeman (Columbia municipal prosecutor/town lawyer) was the personal lawyer for Lori Mock (Columbia Officer Jim Mock's wife).
+      4. Ben Freeman is reportedly the son of the Mayor and had documented loans with the Mayor and her mother-in-law (Senior Center Director).
+      5. Allegations included the Mayor favoring a crony friend (including her live-in boyfriend) with illegal work, town equipment, free water, and gifts using tax money.
+      6. Mike Ball, Alabama State Representative, proposed AL HB179 to require the Alabama Ethics Commission approval before prosecuting elected officials.
+
+      THE DISCOVERY:
+      1. The state has "Alabama Corruption Insurance" available to all elected officials (Sheriff, City Council, Mayors, Judges) which provides "protection from prosecution" if favorable advice is received from the Ethics Commission.
+      2. The Columbia City Council, Mayor, and Police Chief are reportedly banking on this insurance, leading to ignored complaints.
+      3. The Mayor’s authority to spend public funds (e.g., flowers/gift baskets) is prohibited under Alabama Constitution sections 68 & 94, supported by Alabama Attorney General Opinion 2002-133.
+
+      THE PIVOT:
+      1. Article 2 established the historical pattern of corruption protection via Alabama Corruption Insurance and the failure of authorities (AG, Ethics Commission) to act on earlier complaints against Columbia.
+      2. Article 1 presents newer, specific allegations (bid-rigging, FEMA fraud, fraudulent bids, land fraud) that build upon the existing corruption framework identified in Article 2.
+      3. Article 1 provides concrete evidence holders (James Whitehead) and demands (resolution for contractor hiring, bids) to bypass the perceived inaction of the authorities described in Article 2.
+
+      KEY ENTITIES:
+      1. Columbia, Alabama (municipality)
+      2. Fairhope (municipality, mentioned for comparative corruption)
+      3. Mayor (Columbia)
+      4. Police Chief (Columbia)
+      5. Ben Freeman (Columbia municipal prosecutor/town lawyer)
+      6. Lori Mock (Columbia Officer Jim Mock's wife)
+      7. James Whitehead (holder of incriminating documents: invoices and checks)
+      8. Alabama Ethics Commission
+      9. Alabama Attorney General
+      10. Alabama Constitution (Sections 68 & 94)
+      11. Mike Ball (Alabama State Representative)
+    llm_text: Columbia officials misuse tax money, but "Alabama Corruption Insurance" shields them from prosecution. James Whitehead holds the evidence proving Ben Freeman's conflict of interest and the Mayor's illegal cronyism.
+    text: Columbia officials misuse tax money while state insurance shields them from prosecution. James Whitehead holds evidence proving conflicts of interest and illegal cronyism.
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-07T12:40:34.754520Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  take-a-chance:
+    refined_source: c4dc90c36c609bb32a8df546611306a3bebc316e0ebba96710f1452d040d4518
+    brief: |-
+      THE CONFLICT:
+      In 2020, Fairhope (Baldwin County) faced a public health crisis due to COVID-19, leading Mayor Wilson to cancel the 2020 Arts and Crafts Show due to State and Federal guidelines.
+
+      THE DISCOVERY:
+      The 2020 Arts and Crafts Show cancellation was overridden by Council President Jack Burrell and Sherry Sullivan, who pushed to “take a chance” on the November 19th event, despite local medical community advice and pandemic statistics.
+
+      THE PIVOT:
+      The Fairhope incident (A2) illustrates a pattern of local municipal leaders (Sullivan/Burrell) prioritizing events over public safety/health guidelines, setting a historical context for the ongoing financial and ethical misconduct (bid-rigging, FEMA fraud, illegal spending) alleged against the Columbia City Council (A1).
+
+      KEY ENTITIES:
+      Jack Burrell
+      Sherry Sullivan
+      Robert Brown
+      Mayor Wilson
+      Columbia City Council
+      Columbia Mayor
+      Police Chief
+      James Whitehead
+      Columbia, Alabama
+      Fairhope, Alabama
+      2020
+      Alabama Constitution Sections 68 & 94
+    llm_text: In 2020, Jack Burrell and Sherry Sullivan ignored public health advice to hold the Fairhope Arts and Crafts Show, overriding Mayor Wilson’s cancellation. This pattern of prioritizing events over safety connects directly to the financial and ethical misconduct alleged against the Columbia City Council today.
+    text: Jack Burrell and Sherry Sullivan bypassed health advice to hold the Fairhope Arts and Crafts Show in 2020. This disregard for safety matches the ethical misconduct currently alleged in Columbia.
+    widget_date: "2020-11-18"
+    generated_at: "2026-11-07T12:41:59.623988Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-attack:
+    refined_source: 570fbd71eb13cf52117c88a9aef30c238679e0f74ea9e5977382bd6ac5824c5e
+    brief: |-
+      THE CONFLICT: CATALYST/Scott Boone Consulting (CSB) was a political group in Baldwin County, involved in a land fraud deal known as “Strawman.” In 2018, CATALYST attempted (and failed) to take over the entire county administration (county commissioners to probate judge). CATALYST suffered a bitter defeat in the congressional race, leading to the name change to Scott Boone Consulting (CSB).
+
+      THE DISCOVERY: The older article revealed that CSB is a profit-making political group representing developers (e.g., Prebble, DR Horton, Columbia Southern, Truland, Corte) and utilizes a triangular trade system to funnel over a million dollars in donations to vetted politicians in Fairhope, Daphne, Spanish Fort, and Bay Minette.
+
+      THE PIVOT: The historical evidence of organized, developer-backed corruption (CATALYST/CSB) in Baldwin County provides context for the current, specific allegations in Columbia, Alabama, which include bid-rigging, FEMA fraud, and fraudulent bids, suggesting systemic corruption rather than isolated incidents.
+
+      KEY ENTITIES:
+      *   Columbia, Alabama
+      *   Fairhope City Council
+      *   Baldwin County
+      *   CATALYST
+      *   Scott Boone Consulting (CSB)
+      *   Kevin Boone (Fairhope councilman)
+      *   Scott Boone
+      *   Prebble
+      *   DR Horton
+      *   Columbia Southern
+      *   Truland
+      *   Corte
+      *   Alabama Attorney General Opinion 2002-133
+      *   James Whitehead
+    llm_text: Developer-backed group Scott Boone Consulting (CSB) funneled over $1 million in donations from builders like Prebble and DR Horton in Baldwin County. This history of corruption provides crucial context for current bid-rigging and FEMA fraud allegations in Columbia, Alabama.
+    text: Scott Boone Consulting channeled over one million dollars from builders into Baldwin County politics. This developer network ties directly to current bid-rigging and fraud allegations in Columbia, Alabama.
+    widget_date: "2020-08-12"
+    generated_at: "2026-11-07T12:44:27.784126Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

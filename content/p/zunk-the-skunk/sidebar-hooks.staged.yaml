@@ -1,0 +1,141 @@
+metadata:
+  generated_at: "2026-11-08T12:46:50.376070Z"
+  generator_version: 1.0.0
+  post_slug: zunk-the-skunk
+  main_date: "2018-06-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  snakes-in-the-schools:
+    brief: |-
+      THE CONFLICT:
+      1. Airport Scandal involved Jack Burrell, the Airport Authority, and a dubious airplane hanger lease in Fairhope.
+      2. Chris Elliott manipulated the Baldwin County School System to force a permanent penny sales tax extension without public vote.
+      3. The political maneuverings in both cases involved using public institutions (Airport Authority/Schools) for self-serving political ends.
+
+      THE DISCOVERY:
+      1. Article 2 showed that political strategist Jonathan Gray works for the Baldwin County School System while receiving campaign money from Chris Elliott.
+      2. The Business Council of Alabama contributed $35,000 to Chris Elliott.
+      3. Eddie Tyler, Baldwin County Superintendent, endorsed Catalyst and resisted revisiting the penny sales tax, despite public calls.
+
+      THE PIVOT:
+      1. Article 2 establishes a pattern of using public institutions (schools/taxes) and backroom financial dealings for political gain in Baldwin County.
+      2. This pattern directly relates to Article 1, where Chuck Zunk used a private, unapproved survey (65 votes, 60% At-Large) to attempt to override Mayor Karin Wilson’s officially approved petition (supporting Districts) to push his personal political agenda (maintaining At-Large).
+      3. Both incidents demonstrate manipulation of established governance processes.
+
+      KEY ENTITIES:
+      1. Chuck Zunk
+      2. Mayor Karin Wilson
+      3. Jack Burrell
+      4. Eddie Tyler (Baldwin County Superintendent)
+      5. Chris Elliott
+      6. Jonathan Gray
+      7. Tim Russell (Probate Judge)
+      8. Sam Gaston
+      9. Airport Authority
+      10. Catalyst
+      11. Baldwin County Commission
+    llm_text: Chris Elliott used school system staff like Jonathan Gray to push a permanent penny sales tax extension. This pattern of manipulating governance, seen alongside Chuck Zunk's actions against Mayor Karin Wilson, reveals how local officials serve personal political gain.
+    widget_date: "2018-06-21"
+    generated_at: "2026-11-08T12:39:45.498183Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  america-the-golden-door:
+    brief: |-
+      THE CONFLICT: Airport scandal involving Jack Burrell and disputed Airport Authority property in Fairhope.
+      THE DISCOVERY: Judge Michelle Thomason has separated children from their mothers in Baldwin County Family Court, characterized as clinical child abuse.
+      THE PIVOT: There is no factual connection; the articles address distinct issues (Fairhope municipal governance/scandal and Baldwin County judicial/social issues) despite both mentioning Baldwin County.
+      KEY ENTITIES: Chuck Zunk, Jack Burrell, Mayor Karin Wilson, Judge Tim Russell, Sam Gaston, Michelle Thomason
+    llm_text: Jack Burrell's Fairhope airport scandal and Judge Michelle Thomason separating children in Baldwin County are not connected. Don't confuse municipal governance with clinical child abuse—read the full report to see how these distinct local crises truly stand.
+    widget_date: "2018-06-20"
+    generated_at: "2026-11-08T12:41:55.274250Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  missed-the-boat:
+    brief: |-
+      THE CONFLICT: Low voter turnout in Baldwin County (24% of 150,104 registered voters) created a political environment ripe for corruption, which coincided with high-stakes internal political conflict in Fairhope regarding the Council-Manager form of government. (Background: Article 2 is older.)
+
+      THE DISCOVERY: Baldwin County had a low voter participation rate (24%), meaning small numbers of non-voting citizens (e.g., 3,575 in District 4) were enough to swing commissioner seats.
+
+      THE PIVOT: Article 2 establishes the context of widespread regional political apathy and vulnerability to manipulation, explaining the environment in which Chuck Zunk attempted to leverage an unsubstantiated survey (65 votes, 60% for At-Large) to undermine Mayor Karin Wilson's officially approved petition for the Council-Manager form of government in Fairhope.
+
+      KEY ENTITIES:
+      *   Baldwin County (150,104 registered voters)
+      *   Chuck Zunk
+      *   Mayor Karin Wilson
+      *   Jack Burrell
+      *   Council-Manager form of government
+      *   Fairhope City Council
+      *   Probate Judge Tim Russell
+      *   Harry D’ Olive
+      *   Alan Lipscomb
+      *   Catalyst (political group)
+      *   June 21, 2018
+      *   July 5th (Petition deadline)
+      *   July 17th (Runoff date)
+    llm_text: Low voter turnout (24% in Baldwin County) made local politics vulnerable. See how Chuck Zunk tried to undermine Mayor Karin Wilson's Council-Manager petition in Fairhope.
+    widget_date: "2018-06-13"
+    generated_at: "2026-11-08T12:43:13.504937Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-senate-seat-district-32-bombs-away:
+    brief: |-
+      THE CONFLICT: Boom Boom Pittman skimmed $750,000 of BP money for a personal tractor company; Baldwin County received only $100 million of $1 billion in BP spill funds.
+      THE DISCOVERY: Article 2 revealed systemic corruption and poor representation within the Baldwin County delegation and County Commission regarding the BP spill funds.
+      THE PIVOT: The documented historical financial mismanagement and political fallout in Baldwin County (Article 2) provides the backdrop for the political conflict in Fairhope (Article 1), specifically Zunk's efforts to financially obstruct Mayor Wilson and push for the Council-Manager form to achieve better professional governance.
+      KEY ENTITIES: Chuck Zunk, Jack Burrell, Mayor Karin Wilson, David Northcutt, Chris Elliott, Jeff Boyd, Bill Roberts, Jason Fisher, Pittman, Fairhope, Baldwin County, Airport Authority.
+    llm_text: Pittman skimmed $750,000 from BP funds, proving systemic corruption in Baldwin County. See how Chuck Zunk challenges Mayor Karin Wilson in Fairhope, pushing for a Council-Manager form to achieve professional governance.
+    widget_date: "2018-05-21"
+    generated_at: "2026-11-08T12:44:23.398454Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-gentlemans-race-judge-of-probate:
+    brief: |-
+      THE CONFLICT:
+      *   Chuck Zunk, appointed by Councilman Jack Burrell, attempts to financially obstruct Mayor Karin Wilson's push for a Council-Manager form of government in Fairhope.
+      *   This animosity stems from the Airport Scandal and dubious airplane hanger lease, involving Airport property.
+      *   Zunk pushed an unapproved 65-vote survey result (39 votes/60%) to change the petition from districts to at-large, despite lacking Probate Judge/Secretary of State approval.
+
+      THE DISCOVERY:
+      *   Judge Tim Russell, Probate Judge for Baldwin County (handling $40M in 2017, $3.9M budget), is retiring.
+      *   The Probate Judge role is vital for processing the petition required for the Council-Manager form of government.
+      *   The 2018 Probate Judge race included Max Hansen, Alan Lipscomb, Matt McKenzie, Catalyst Candidate Lynn Perry, and Harry D’Olive.
+
+      THE PIVOT:
+      *   The petition for the Council-Manager form of government (due July 5th) requires filing and processing at the Probate Judge’s office.
+      *   Judge Tim Russell's role was essential for the legal validation of the petition, making his retirement relevant to the Fairhope political conflict.
+
+      KEY ENTITIES:
+      *   Chuck Zunk
+      *   Mayor Karin Wilson
+      *   Jack Burrell
+      *   Judge Tim Russell
+      *   Fairhope City
+      *   Airport Authority
+      *   Alan Lipscomb
+      *   Max Hansen
+      *   Matt McKenzie
+      *   Catalyst Candidate Lynn Perry
+      *   Harry D’Olive
+      *   June 21, 2018 (Mayor Wilson's statement)
+      *   July 5th (Petition deadline)
+      *   Baldwin County
+    llm_text: Chuck Zunk obstructs Mayor Karin Wilson’s Council-Manager push in Fairhope, fueled by the Airport Scandal. With Judge Tim Russell retiring, who will legally validate the crucial petition before the July 5th deadline?
+    widget_date: "2018-05-09"
+    generated_at: "2026-11-08T12:45:51.314195Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-quit-and-will-quit-again:
+    brief: |-
+      THE CONFLICT: Joe Davis quit representing Daphne for Baldwin County Commission Place Two because the Daphne City Council would not side with his views; John Lake has served on the Daphne City Council for 24 years without ethics complaints. (Widget Article)
+      THE DISCOVERY: The Ripp Report began in 2006 and formally organized in 2015 to expose corruption in Fairhope; Mayor Karin Wilson promoted a Council-Manager form of government, seeking a citizen vote by July 5th (June 2018). (Main Article)
+      THE PIVOT: The background context (Widget Article) establishes local political figures and the pattern of council members quitting due to political disagreements (Joe Davis), providing thematic context for the subsequent conflict in Fairhope where Chuck Zunk attempted to undermine the formal, legally approved Council-Manager petition by manipulating the vote from Districts to At-Large.
+      KEY ENTITIES: Karin Wilson, Chuck Zunk, Jack Burrell, John Lake, Joe Davis, Amber Smith, Tim Russell, Sam Gaston, Fairhope, Daphne.
+    llm_text: Joe Davis quit representing Daphne because the City Council rejected his views, showing a pattern of local political conflict. See how this context connects to Karin Wilson's Fairhope Council-Manager vote and Chuck Zunk's attempts to manipulate the process.
+    widget_date: "2018-03-21"
+    generated_at: "2026-11-08T12:40:42.518258Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-candidates:
+    brief: |-
+      THE CONFLICT: Airport Scandal and dubious airplane hanger lease; Jack Burrell monitored/financially obstructed Mayor Wilson via the Finance Committee.
+      THE DISCOVERY: Catalyst Candidates, including Michelle Thomason (Court of Civil Appeals), were seeded in many offices during the June 9, 2018 primary race for 2018 Local and State Candidates.
+      THE PIVOT: Catalyst failed to achieve the goal of Mayor Wilson's resignation, leading Zunk's alternative councilman group to organize a slate of candidates, necessitating the maintenance of the AT LARGE Council structure mentioned in Article 1.
+      KEY ENTITIES: Chuck Zunk, Mayor Karin Wilson, Jack Burrell, Airport Authority, Catalyst Candidates, Michelle Thomason, Sam Gaston, Judge Tim Russell, Fairhope City Council.
+    llm_text: Jack Burrell financially obstructed Mayor Karin Wilson amidst an Airport Authority scandal. See how Catalyst Candidates and Chuck Zunk shaped the Fairhope City Council structure despite the failed resignation effort.
+    widget_date: "2018-03-16"
+    generated_at: "2026-11-08T12:46:39.356630Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

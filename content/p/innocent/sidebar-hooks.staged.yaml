@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   priorities:
+    refined_source: 24f26fa46a78614e48977976c5b0de3b729afbb7ec89526c595ce995f1265b77
     brief: |-
       THE CONFLICT:
       Murray “Bubba” Lawrence was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama.
@@ -34,10 +35,12 @@ hooks:
       ADEM
       BCSO
     llm_text: Murray Lawrence received a wrongful capital murder conviction in Baldwin County based on sole accomplice testimony. As the county invests in a new 1,000-bed jail and hires 6 new deputies yearly, examine how local governance failures created this justice crisis.
+    text: Murray Lawrence received a wrongful capital murder conviction in Baldwin County based on sole accomplice testimony. The county invests in a new jail and hires deputies yearly while local governance fails.
     widget_date: "2022-04-17"
     generated_at: "2026-11-07T00:21:56.448661Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-roller-coaster:
+    refined_source: 61c9c64c1e1190e20759a000b9a73c6991c7efe71c381569d8206e3315b2d53d
     brief: |-
       THE CONFLICT:
       1. May 6, 2003: Brandon Hastings (victim) murdered in Baldwin County, Alabama.
@@ -67,16 +70,19 @@ hooks:
       8. Baldwin County, Alabama
       9. Fauxhope City Council
     llm_text: Murray Lawrence spent 18 years for Brandon Hastings' murder, a conviction fueled by local ego in Baldwin County. Don't overlook Fauxhope's council, which wasted $6 million on a non-ADA waterfront project, showing systemic local failure.
+    text: Murray Lawrence spent 18 years in prison for a conviction fueled by local ego in Baldwin County. The Fairhope council wasted $6 million on a non-ADA waterfront project, showing systemic local failure.
     widget_date: "2022-04-12"
     generated_at: "2026-11-07T00:23:14.013772Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bar-stool-continued:
+    refined_source: d1678f4cd7b9b61bc245aae57571cebb937240ce05dd62f33d637d4a03771255
     brief: |-
       THE CONFLICT: Murray Lawrence was convicted of capital murder on May 13, 2005, for the May 6, 2003, murder of Brandon Hastings in Baldwin County, Alabama.
       THE DISCOVERY: Article 2 reports on an ongoing assault case involving McSherry, which has moved from Fairhope Municipal Court to Circuit Court and faces delays due to obstruction claims.
       THE PIVOT: The articles address separate, unrelated legal cases (Lawrence's 2003 murder conviction and McSherry's assault case); there is no contextual connection established between the events or entities mentioned in Article 2 and Article 1.
       KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, David Whetstone, Willy Huntley, Robert Wilters, Jarius McNeil, Brandon Hastings, Rebecca Chambliss, McSherry, James Pittman, BCSO, Baldwin County Alabama, Foley Alabama.
     llm_text: Murray Lawrence Jr stands convicted for the 2003 murder of Brandon Hastings in Baldwin County, Alabama. Meanwhile, McSherry's assault case moves through Circuit Court, facing obstruction claims in Fairhope.
+    text: Murray Lawrence Jr. stands convicted for the 2003 murder of Brandon Hastings in Baldwin County, Alabama. Meanwhile, McSherry's assault case moves through Circuit Court amid obstruction claims.
     widget_date: "2020-01-25"
     generated_at: "2026-11-07T00:24:21.833180Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

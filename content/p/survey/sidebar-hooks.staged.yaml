@@ -1,0 +1,174 @@
+metadata:
+  generated_at: "2026-11-07T20:08:20.314302Z"
+  generator_version: 1.0.0
+  post_slug: survey
+  main_date: "2020-02-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-central:
+    brief: |-
+      - THE CONFLICT: In past municipal and county elections (including the 2018 midterm elections), a political apparatus and network known as CATALYST—descended from the political consulting firm Stacy, Haygood and Elliott (comprising Lynn Stacy, Chris Elliott, and Dane Haygood)—backed a slate of self-serving, developer-aligned candidates to seize political control of Fairhope and Baldwin County. The conflict centered on the CATALYST-backed Fairhope City Council (including Councilman Kevin Boone and Jack Burrell) systematically obstructing the Mayor's administration, attacking the Mayor, and pushing controversial measures like the purchase of $2.65 million worth of farmland for recreation (subsequently declared "surplus" and leased out for farming at a meager $9,000 a year). On the county level, Commissioners Joe Davis and Jeb Ball (running under the CATALYST banner) voted in favor of developers—such as the 392-home Savannah Estates project on Highway 54 and 64—against the will of the public and in the absence of county sewer regulations.
+
+      - THE DISCOVERY: Article 2 (Widget Article, historical context/background) exposed the inner workings, lineage, and operatives of the CATALYST organization, detailing how it operated as a successor to the "good ole boy" power broker network of Lynn Stacy. It revealed that Scott Boone (manager of CATALYST) was the son of Fairhope Councilman Kevin Boone, who acted as the "deep throat" of the council, feeding internal information to obstruct city business. It exposed infiltration by CATALYST operatives into the District Attorney’s office, Sheriff’s office, Baldwin County Judiciary, and County Commission (Joe Davis and Jeb Ball), and highlighted how they advanced developer interests (like ignoring county sewer regulations) while opposing governmental reforms like a city manager or districts.
+
+      - THE PIVOT: Article 2 serves as the ultimate "smoking gun" and necessary historical background for Article 1 because it unmasks the exact root cause of the current governance struggles detailed in Article 1. While Article 1 reports on the Fairhope City Council’s ongoing obstructionism (such as the disastrous $2.65 million farmland purchase/lease deal) and contrasts it with the Mayor's successful State of the City financial report (paying off city debt in June 2019), Article 2 explains *why* the council behaves this way: they are bound by allegiance to the CATALYST network, a coordinated developer-backed faction engineered specifically to obstruct the Mayor, control local government, and protect self-serving political interests rather than the citizens of Fairhope.
+
+      - KEY ENTITIES:
+        - Lynn Stacy
+        - Chris Elliott
+        - Dane Haygood
+        - Scott Boone
+        - Kevin Boone
+        - Jack Burrell
+        - Joe Davis
+        - Jeb Ball
+        - William Rando
+        - Stacy, Haygood and Elliott (Firm)
+        - CATALYST (Organization)
+        - Baldwin County Citizens for Government Accountability (CGA)
+    llm_text: Read how the CATALYST network—engineered by operatives like Lynn Stacy, Chris Elliott, and Scott Boone—infiltrated local government to back developer-aligned officials like Kevin Boone and Jack Burrell. Read this historical breakdown to see why these self-serving factions continuously obstruct the Mayor and betray Fairhope citizens.
+    text: Read how the CATALYST network—engineered by operatives like Lynn Stacy, Chris Elliott, and Scott Boone—infiltrated local government to back developer-aligned officials like Kevin Boone and Jack Burrell. Read this historical breakdown to see why these self-serving factions continuously obstruct the Mayor and betray Fairhope citizens.
+    widget_date: "2020-02-01"
+    generated_at: "2026-11-07T20:06:16.654781Z"
+    model_name: gemini-3.5-flash-lite
+  three-strikes:
+    refined_source: dbf8438d81c4954a9bacaacfbfaf15b12d5493431fd81f6e9d2974b1bcca158c
+    brief: |-
+      THE CONFLICT:
+      *   May 29th Council meeting involved debate over land use, including the Twin Beech road property and the Dyas/Triangle property.
+      *   Council President Burrell pushed for an appraisal on the property for City Parkland.
+      *   The City Council considered a Conservation Easement Agreement for the 109-acre Dyas/Triangle property with Weeks Bay Foundation, Inc.
+      *   The Dyas/Triangle property was valued at over $18 million.
+      *   Diana Brewer (former councilwoman) was involved in pushing the Conservation Easement, advancing a political agenda favoring developers.
+      *   Councilmen Boone and Burrell were alleged to be aligned with developers regarding wetlands responsibilities.
+      *   Councilman Brown was a contractor for the soccer field and Art Center, and a board member.
+      *   Past administration actions included purchasing farmland for $2.65 million, then leasing it out for $9,000 annually.
+      *   City debt was reported paid in full in June 2019.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a history of the Fairhope City Council prioritizing developer interests (e.g., Triangle property easement, Fly Creek Apartments) over citizen concerns and public good.
+      *   It showed that land valued at over $18 million was nearly given away via a conservation easement.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a historical pattern of Council obstruction, mismanagement, and prioritizing private interests (developers/political agendas) over city welfare and public assets (including waterfront/land).
+      *   This past pattern provides critical context for skepticism regarding the current $6.2 million “Fairhope Working Waterfront and Green Space Project,” which aims to improve the Pier and Park, despite past administrations ignoring this goal.
+
+      KEY ENTITIES:
+      *   Fairhope City Council (and CATALYST council)
+      *   Council President Burrell
+      *   Diana Brewer
+      *   Weeks Bay Foundation, Inc.
+      *   Dyas/Triangle property (109 acres, $18M+)
+      *   Fairhopes Working Waterfront and Green Space Project ($6.2 million investment)
+      *   Twin Beech road property
+      *   Councilman Boone
+      *   Councilman Brown
+      *   Arthur Corte
+      *   Jay Robinson
+      *   Mayor (unnamed in Article 1, referenced in Article 2)
+    llm_text: Council President Burrell pushed for an appraisal on the $18M Dyas/Triangle property, which Diana Brewer tried to give away via a conservation easement. Read how Councilmen Boone and Brown’s past developer ties reveal a history of prioritizing private interests over the city’s $6.2 million waterfront project.
+    text: Council President Burrell pushed for an appraisal on the $18 million Dyas property while Diana Brewer tried to give it away through a conservation easement. Councilmen Boone and Brown used developer ties to put private interests ahead of the public waterfront.
+    widget_date: "2019-06-01"
+    generated_at: "2026-11-07T20:08:01.379869Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-catalyst-a-dirty-little-secret:
+    refined_source: 2009561f71dca194f39509cba0a10e54043e6c408dd26a83713f2d40b59b285d
+    brief: |-
+      THE CONFLICT: Catalyst City Council, led by Council President Jack Burrell and Councilman Jay Robinson, attempted to block the October 2, 2018 referendum to change Fairhope's government to Council-Manager form, against the push by Fresh Start Fairhope.
+      THE DISCOVERY: The City of Fairhope paid off its debt in full in June 2019, and Mayor Karin Wilson/Superintendents/staff achieved these financial accomplishments, not the Catalyst Council.
+      THE PIVOT: Article 2 establishes the deep-seated resistance of the Catalyst Council to government reform (districts/Council-Manager), providing historical context for the current criticism in Article 1 regarding their obstructionism and lack of civic contribution despite financial success.
+      KEY ENTITIES: Karin Wilson, Tim Kant, Jay Robinson, Jack Burrell, Chuck Zunk, Fresh Start Fairhope, CATALYST, Mayor, Superintendents, City of Fairhope, Baldwin County
+    llm_text: Catalyst Council leaders Jack Burrell and Jay Robinson blocked Fairhope's 2018 reform push, yet Karin Wilson's team fully paid off city debt by June 2019. See how this council resisted progress despite the city's financial success.
+    text: Jack Burrell and Jay Robinson blocked Fairhope's 2018 reform efforts. Meanwhile, Mayor Karin Wilson and her team paid off all city debt by June 2019 despite intense council resistance.
+    widget_date: "2018-09-21"
+    generated_at: "2026-11-07T20:06:17.153215Z"
+    model_name: plugsky-lite
+  down-home-fairhope-jester:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council, described in the main article as the “CATALYST City Council,” was a huge disappointment; efforts were centered on obstructing the Mayor from achieving anything, even if it affected the city as a whole.
+      - Fairhope financial accomplishments: employee moral higher than previous years; “City debt was paid in full June 2019”; 35-page report presented at State of the City last night; accomplishments attributed to the Mayor, Superintendents and staff, not the CATALYST council.
+      - While the city was working hard on financial improvements and in the mist of the budget process, the CATALYST City Council elected, against public outcry, to purchase 2.65 million worth of farmland for recreation.
+      - Within weeks of purchase and no money for development, the council decided to call it “surplus” and lease it out for farming at 9 thousand dollars a year, which hardly pays the interest.
+      - Described as a “Good ole Boy deal.”
+
+      THE DISCOVERY:
+      - The last Fairhope City Council meeting should prove to everyone that the “Catalyst” Council is not going to listen to its constituents; they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.
+      - The last recreation piece of property Burrell and Council had authority over was the soccer fields.
+      - Millions was spent on a soccer field complex that had no plan, did not meet specifications, and was across from a gun range.
+      - Now Council wishes to locate another recreation property, in an area that is in an aircraft flight pattern.
+      - Deal stinks; Councilman Conyers and Robinson jumped ship, for the first time; Burrell, Boone and Brown were all in to purchase 2.6 million in property without public hearing; “FOLLOW THE MONEY.”
+      - Not in budget; now have to cut other services and departments and rearrange the whole budget; fourth year in a row the Council will not approve a City Budget on time.
+      - Council holding up infrastructure projects since they were elected.
+      - Council rejected land that had the most public support, for a piece of land Burrell Boone and Brown wanted that had no public support or public notice, and it did not pass muster with the National Park recommendations; appraisal is highly questionable and should be investigated.
+      - Councilman Brown got the soccer field clubhouse/bathroom contract over 750,000; this was a warm up to the ESAC contract; citizens should be asking how this was allowed to happen.
+      - Council was found guilty in Federal Court for violating the right of free speech; case is now being used in similar cases as a precedent around the country; Fairhope Council President Burrell and Council now have the dubious reputation of this case around their necks.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 showed or revealed the Catalyst Council’s lack of listening, ethics complaint limbo, personal gain, obstruction, budget issues, farmland purchase, soccer fields, ESAC contract, and Federal free speech case.
+      - Article 1 reports the State of the City financial accomplishments, employee moral, City debt paid in full June 2019, 35-page report, survey, Fairhope Working Waterfront and Green Space Project, 6.2 million investment, tourism/recreational fishing goal, and past administrations ignoring the pier and waterfront.
+      - Article 2 is the “smoking gun” or key context for Article 1 because it provides prior facts for Catalyst Council actions/personal gain and helps explain Article 1’s criticism and financial narrative.
+      - Article 2’s ethics/personal gain context makes Article 1’s financial accomplishments and Catalyst Council disappointment more connected; the farmland deal and ESAC contract are smoking guns.
+
+      KEY ENTITIES:
+      - Fairhope; Baldwin County; Gulf Coast; Eastern Shore; Alabama.
+      - City of Fairhope; CATALYST City Council; Catalyst Council; Fairhope City Council.
+      - Mayor; Superintendents and staff; staff.
+      - Jack Burrell; Councilman Burrell; Councilman Boone; Councilman Brown; Councilman Conyers; Councilman Robinson; Mr. Brown.
+      - Eastern Shore Art Center; ESAC; Ethics Commission; Attorney General; Federal Court; National Park recommendations.
+      - Fairhope Working Waterfront and Green Space Project; Fairhope Pier and Park; Backstory Podcast #21; Facebook.
+      - Locations: Fairhope, Baldwin County, Gulf Coast, Eastern Shore, aircraft flight pattern, soccer fields, farmland, recreation property, waterfront, pier, park.
+      - Dates: June 2019; May 2, 2018; over 7 years; fourth year; next week; last night; 2.65 million; 2.6 million; 9 thousand; 750,000; 102 acres; 6.2 million; 35 page.
+    llm_text: Fairhope’s self-proclaimed Catalyst Council spent $2.65 million on farmland nobody wanted, then called it surplus. Councilman Burrell, Boone and Brown bought it without public hearing, while the city finally paid its debt in full in June 2019 and ignored the mayor.
+    text: Fairhope’s self-proclaimed Catalyst Council spent $2.65 million on farmland nobody wanted, then called it surplus. Councilman Burrell, Boone and Brown bought it without public hearing, while the city finally paid its debt in full in June 2019 and ignored the mayor.
+    widget_date: "2019-09-13"
+    generated_at: "2026-11-07T20:06:59.487028Z"
+    model_name: recursive/flint-v1.0:free
+  bar-stool-continued:
+    brief: "THE CONFLICT: \n- An assault case involving McSherry, who had multiple convictions, was on probation, and faced a 180-day jail sentence.\n- The case was delayed for 15 months after being mishandled by the Fairhope Municipal Court and the City Attorney, then moved to Circuit Court.\n- McSherry's attorney, James Pittman, attempted to float conspiracy theories, challenge the state's Shield Law, and delay proceedings.\n- McSherry was scheduled to appear in court on Monday, January 27, for the criminal issue, amid accusations of obstruction involving a Circuit Judge and defense tactics.\n- The entire incident was captured on videotape.\n\nTHE DISCOVERY: \n- The older widget article revealed systemic failures and stalling tactics within the local judicial system regarding McSherry's assault case.\n- It exposed how individuals with prior convictions and suspended jail sentences manage to avoid justice through legal delays, attorney obstructions, and alleged mishandling by the Fairhope Municipal Court, City Attorney, and Circuit Court officials.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun regarding institutional obstruction and the \"good ole boy\" network in Fairhope. \n- While Article 1 exposes political obstruction by the \"CATALYST\" City Council (such as the $2.65 million farmland purchase and lease deal), Article 2 provides the direct background showing that obstruction is a systemic cultural issue in Fairhope—operating across both municipal governance and the local legal/court system to protect favored individuals and frustrate accountability.\n\nKEY ENTITIES: \n- McSherry\n- James Pittman\n- Fairhope Municipal Court\n- City Attorney\n- Circuit Court"
+    llm_text: McSherry dodged a 180-day jail sentence for 15 months while attorney James Pittman deployed wild delays and conspiracy theories. Read how Fairhope’s municipal and circuit courts shield repeat offenders, proving institutional obstruction runs far deeper than City Hall.
+    text: McSherry dodged a 180-day jail sentence for 15 months while attorney James Pittman deployed wild delays and conspiracy theories. Read how Fairhope’s municipal and circuit courts shield repeat offenders, proving institutional obstruction runs far deeper than City Hall.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T20:06:21.367323Z"
+    model_name: gemini-3.5-flash-lite
+  criminal-enterprise:
+    refined_source: 130116ea80ff6b737b8736c1a665f90d0d6458d9421d66fbb9841c709135887c
+    brief: |-
+      THE CONFLICT: Unspecified past events regarding Fairhope's governance. (No specific names or dates provided in Widget Article 2)
+      THE DISCOVERY: Widget Article 2 suggests Fairhope is run as a "Criminal Enterprise."
+      THE PIVOT: Widget Article 2 provides an allegation of criminal enterprise against the municipal operation, providing context for the accusations of obstruction and improper spending (2.65 million farmland purchase, $9k lease) detailed in Article 1.
+      KEY ENTITIES: Fairhope, CATALYST City Council, Mayor, Superintendents, City Hall, Baldwin County, Fairhope Working Waterfront and Green Space Project, 2.65 million, 9 thousand dollars a year
+    llm_text: Fairhope faces a "Criminal Enterprise" allegation against its City Council amid spending like a $2.65M farmland purchase and $9k lease. See how this governance crisis impacts your community.
+    text: Fairhope citizens face a criminal enterprise allegation against their city council over spending choices like a $2.65 million land purchase and a $9,000 lease. This governance crisis directly impacts the community.
+    widget_date: "2019-12-27"
+    generated_at: "2026-11-07T20:06:22.185115Z"
+    model_name: plugsky-lite
+  fairhope-state-of-the-city:
+    refined_source: 1c08f3e5416074d62324373d012cc91fb85b7b3e1e2cb9b96a6cc9f8505a5ea9
+    brief: |-
+      THE CONFLICT:
+      Councilmen Burrell, Brown, and Boone (CATALYST City Council) purchased 105 farmable acres of land for $2.65 million in December 2019, despite the land being the first choice of the State Park Board, citizens, city staff, and Mayor Karin Wilson.
+
+      THE DISCOVERY:
+      The Widget Article established that the $2.65 million property was designated "surplus and not needed for public or municipal purposes" via a January 2020 Ordinance and subsequently leased for $9,000.00 annually, shortly after purchase.
+
+      THE PIVOT:
+      The Widget Article provides the historical context (June 2019 appraisal, December 2019 purchase, January 2020 surplus declaration) that validates the Main Article's accusation that the CATALYST Council obstructed financial improvements and diverted city funds, impeding the current $6.2 million "Fairhope Working Waterfront and Green Space Project."
+
+      KEY ENTITIES:
+      Mayor Karin Wilson
+      CATALYST City Council
+      Councilmen Burrell, Brown, and Boone
+      Fairhope
+      Fairhope Working Waterfront and Green Space Project
+      $2.65 million (farmland purchase)
+      $9,000.00 (annual lease)
+      June 2019 (Debt paid in full/Appraisal date)
+      January 2020 (Surplus declaration)
+      $6.2 million (project investment)
+    llm_text: CATALYST Councilmen Burrell, Brown, and Boone bought 105 acres for $2.65 million, ignoring Mayor Karin Wilson and the State Park Board. The land was declared "surplus" in January 2020 but leased for just $9,000, obstructing the critical $6.2 million Fairhope Working Waterfront project.
+    text: Burrell, Brown, and Boone spent $2.65 million on 105 acres against the wishes of Mayor Wilson and the State Park Board. They declared the land surplus and leased it for just $9,000 to block the $6.2 million Fairhope Working Waterfront project.
+    widget_date: "2020-02-05"
+    generated_at: "2026-11-07T20:06:47.694103Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

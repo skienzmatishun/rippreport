@@ -5,45 +5,8 @@ metadata:
   main_date: "2025-03-14"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  justified:
-    brief: |-
-      THE CONFLICT:
-      *   The killing of O.J. French in Bay Minette occurred during a traffic stop.
-      *   Johnathan Victor was killed by a sheriff deputy while unarmed.
-      *   These incidents, along with other justified police shootings in Baldwin County, led to federal lawsuits.
-
-      THE DISCOVERY:
-      *   Baldwin County Major Crimes Unit investigated these incidents and ruled them justified, despite being assisted by the Baldwin County District Attorney Robert Wilters (using a "Secret" Grand Jury).
-      *   Robert Wilters, Sheriff Hoss Mack, and David Whetstone colluded to wrongfully convict Murray Lawrence JR of murder for almost 20 years.
-
-      THE PIVOT:
-      *   Article 2 demonstrates systemic, self-serving institutional corruption and cover-ups (local law enforcement/legal) in Alabama.
-      *   This parallels the state-level political and administrative corruption detailed in Article 1 (Ivey administration/ADVA) involving the alleged diversion of $7 million from the American Rescue Plan Act intended for veterans, and the retaliation against Kimberly Boswell following an ethics complaint filed by ADVA Commissioner Kent Davis.
-
-      KEY ENTITIES:
-      *   OJ French
-      *   Johnathan Victor
-      *   Al Tolbert
-      *   Sheriff Hoss Mack
-      *   Robert Wilters
-      *   David Whetstone
-      *   Murray Lawrence JR
-      *   Antony Lowery
-      *   Napoleon Bracy
-      *   Chip Brown
-      *   Barbara Drummond
-      *   Ed Oliver
-      *   Alan Baker
-      *   Andrew Jones
-      *   Kent Davis
-      *   Kimberly Boswell
-      *   Ivey
-      *   County Commission (Baldwin County)
-    llm_text: Sheriff Hoss Mack and Robert Wilters colluded to wrongfully convict Murray Lawrence JR for almost 20 years, covering up justified shootings involving OJ French and Johnathan Victor. This local corruption mirrors systemic failures in the Ivey administration, revealing deep institutional rot across Alabama.
-    widget_date: "2025-03-08"
-    generated_at: "2026-11-06T14:34:09.062628Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   red-lips-award:
+    refined_source: 4de6650dd46adabae3e1d0cd56218d58512b7d7d67f7a18959fcd2b03bcbaeeb
     brief: |-
       THE CONFLICT:
       *   Kimberly Boswell (Department of Mental Health Director) was accused by ADVA Commissioner Kent Davis of colluding with state officials to divert $7 million from the American Rescue Plan Act (ARPA) intended for the ADVA.
@@ -84,10 +47,12 @@ hooks:
       *   Margie Wilcox
       *   Alan Baker (State Representative, R-Brewton)
     llm_text: 'Governor Ivey retaliated against Department of Mental Health Director Kimberly Boswell after a $7M ARPA ethics complaint. Meanwhile, Ethics Director Tom Albritton misused the Mabel Amos Trust, proving Alabama''s #1 political corruption ranking.'
+    text: Governor Kay Ivey retaliated against Mental Health Director Kimberly Boswell after a $7 million ethics complaint. Did Ethics Director Tom Albritton misuse the Mabel Amos Trust?
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T14:37:02.129151Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: e8de74e90037b598437469a138da037fbbc2859a17aa9642000fc093aecfacee
     brief: |-
       THE CONFLICT:
       *   Veterans Commissioner Kent Davis filed an ethics complaint against Department of Mental Health Director Kimberly Boswell.
@@ -129,31 +94,37 @@ hooks:
       *   Senate Bill 67 (SB67)
       *   Alabama State Senate (21-9 vote)
       *   Alabama House of Representatives (56-39 vote)
-    llm_text: Kimberly Boswell allegedly diverted $7 million from ARPA funds, prompting Veterans Commissioner Kent Davis's firing by Governor Kay Ivey. Ivey responded by pushing Senate Bill 67, which strips the ADVA's power and puts Alabama veterans at serious risk.
+    llm_text: Kimberly Boswell diverted $7 million from ARPA funds, prompting Veterans Commissioner Kent Davis's firing by Governor Kay Ivey. Ivey responded by pushing Senate Bill 67, which strips the ADVA's power and puts Alabama veterans at serious risk.
+    text: Kimberly Boswell diverted $7 million from ARPA funds, leading to Veterans Commissioner Kent Davis getting fired by Governor Kay Ivey. Why did Ivey push Senate Bill 67 to strip the ADVA of its power?
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:38:20.914410Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   veterans-rally:
+    refined_source: 0515e58eb13e91ef3fa42463aa235f9c9b7b209fd9c42434ea3f2e53dd21b719
     brief: |-
       THE CONFLICT: 2020 showdown between Rep. Ed Oliver and ADVA Commissioner Kent Davis over COVID-era protocol at Bill Nichols State Veterans Home in Alexander City.
       THE DISCOVERY: ADVA Commissioner Kent Davis filed an ethics complaint against Department of Mental Health Director Kimberly Boswell regarding alleged collusion to divert $7 million from the American Rescue Plan Act intended for the ADVA.
       THE PIVOT: The recent legislation to "restructure" the State Board of Veterans Affairs (passed 21-9 earlier this month) is alleged by opponents to be retaliation for the prior ethics complaint filed against Kimberly Boswell.
       KEY ENTITIES: Governor Ivey, Kimberly Boswell, Kent Davis, Ed Oliver, Andrew Jones, Greg Albritton, Napoleon Bracy, Chip Brown, Barbara Drummond, Brett Easterbrook, Jennifer Fidler, Donna Givens, Frances Holk-Jones, Chris Pringle, Mark Shirey, Matt Simpson, Shane Stringer, Margie Wilcox, Alan Baker.
-    llm_text: Kent Davis filed an ethics complaint against DMH Director Kimberly Boswell after $7 million was allegedly diverted from the American Rescue Plan Act at Bill Nichols State Veterans Home. Opponents claim the new SBVA restructuring is direct retaliation for her ethics complaint.
+    llm_text: Kent Davis filed an ethics complaint against DMH Director Kimberly Boswell after $7 million was diverted from the American Rescue Plan Act at Bill Nichols State Veterans Home. Opponents claim the new SBVA restructuring is direct retaliation for her ethics complaint.
+    text: Kent Davis filed an ethics complaint against Kimberly Boswell after $7 million vanished from the Bill Nichols State Veterans Home. Is Senate Bill 67 direct retaliation for that complaint?
     widget_date: "2025-02-23"
     generated_at: "2026-11-06T14:39:35.848667Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   war:
+    refined_source: 38e414df3965003f7a74b954a7d76c9937d669c777376b59a3e00b7b05008bad
     brief: |-
       THE CONFLICT: Governor "poison Ivy" Ivey planned to strip veteran representation in Alabama by reducing the current veterans board to an advisory position/cabinet member subservient to the Governor. This action was retaliation against the veterans board for opposing Ivey’s use of "supreme executive power" to remove ADVA Director Admiral Kent Davis. An initial veterans rally was scheduled in Montgomery on Feb 25th.
       THE DISCOVERY: Article 2 revealed Governor Ivey's strategic attempt to dismantle veteran representation, framing the action as politically motivated retaliation against ADVA leadership.
       THE PIVOT: Article 2 established the retaliatory motive against Kent Davis and the current veterans board, which provided the context for the later legislative action in Article 1—the passage of the bill to "restructure" the State Board of Veterans Affairs (Senate 21-9, House 56-39) and the subsequent ethics complaint regarding the $7 million ARPA diversion.
       KEY ENTITIES: Governor Ivey, Admiral Kent Davis, Mental Health Director Kimberly Boswell, Rep. Ed Oliver (R-Dadeville, Military/Veterans Affairs Committee chairman), Rep. Alan Baker (R-Brewton), Rep. Napoleon Bracy, Rep. Chip Brown, Barbara Drummond, Brett Easterbrook, Jennifer Fidler, Donna Givens, Frances Holk-Jones, Chris Pringle, Mark Shirey, Matt Simpson, Shane Stringer, Margie Wilcox, Rep. Andrew Jones, Rep. Gret Albritton, $7 million (ARPA funds).
     llm_text: Governor Ivey retaliated against Admiral Kent Davis by attempting to strip veteran representation in Alabama. This strategic move challenges the board’s independence and threatens vital support, including $7 million in ARPA funds, for Alabama veterans.
+    text: Governor Kay Ivey tried to strip veteran representation in Alabama after Admiral Kent Davis filed ethics complaints. Does this move threaten vital support and $7 million in ARPA funds for veterans?
     widget_date: "2025-02-22"
     generated_at: "2026-11-06T14:35:22.384120Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-off-the-rails:
+    refined_source: bd520cef13e9b7411925c52034ee2fc7522e7ddc12b326cc01f99fb04f1213d8
     brief: |-
       THE CONFLICT:
       Alabama approved the medical cannabis bill (The Compassion Act) on May 17, 2021, allowing qualified patients to receive medical cannabis.
@@ -187,10 +158,12 @@ hooks:
       Alabama State Senate (21-9)
       Alabama House (56-39)
     llm_text: Alabama's Compassion Act stalled four years after approval, denying patients access while political retaliation targets veteran funding. ADVA Commissioner Kent Davis fought Department of Mental Health Director Kimberly Boswell over ethics, proving legislative spite trumps vital care.
+    text: Alabama's Compassion Act stalled for four years while political retaliation targeted veteran funding. Did ADVA Commissioner Kent Davis clash with Mental Health Director Kimberly Boswell over pure ethics?
     widget_date: "2025-02-06"
     generated_at: "2026-11-06T14:41:07.396238Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   faux-tax-gas-tax:
+    refined_source: 918642f2dfaee5d66c0260889f40d87c6f0bcefa8e6d78abdc71e4f0ae148f84
     brief: |-
       THE CONFLICT:
       Baldwin County elected Senator Chris Elliott ("THE TAX MAN") who supported the penny tax and subsequently skimmed $200,000 annually from the tax, costing Baldwin County Schools $1 million every 5 years. This was done under pressure from the Business Council of Alabama.
@@ -199,7 +172,7 @@ hooks:
       The Widget Article reveals a pattern of political corruption where state/county politicians (like Chris Elliott) prioritize special interests (Business Council of Alabama) and infrastructure projects (Mobile Bay ship channel dredging, $400k-$600k) over constituent welfare and proper fund allocation.
 
       THE PIVOT:
-      The historical pattern of politicians misdirecting tax funds for personal or special interest gain (Widget Article) provides context for the current conflict: Governor Ivey's administration (via Ed Oliver, Andrew Jones) allegedly diverting $7 million from the American Rescue Plan Act intended for the ADVA, leading to cuts against Alabama Veterans (Main Article).
+      The historical pattern of politicians misdirecting tax funds for personal or special interest gain (Widget Article) provides context for the current conflict: Governor Ivey's administration (via Ed Oliver, Andrew Jones) diverting $7 million from the American Rescue Plan Act intended for the ADVA, leading to cuts against Alabama Veterans (Main Article).
 
       KEY ENTITIES:
       Governor Kay Ivey
@@ -216,7 +189,48 @@ hooks:
       $7 million (ARPA funds)
       Baldwin County Schools
       Mobile Bay ship channel
-    llm_text: Chris Elliott stole $200k annually from Baldwin County Schools via the penny tax, pressured by the Business Council of Alabama. Understand this pattern of political corruption before reading how Ivey's team allegedly diverted $7 million from ARPA funds, harming Alabama Veterans.
+    llm_text: Chris Elliott stole $200k annually from Baldwin County Schools via the penny tax, pressured by the Business Council of Alabama. Understand this pattern of political corruption before reading how Ivey's team diverted $7 million from ARPA funds, harming Alabama Veterans.
+    text: Chris Elliott took $200,000 annually from Baldwin County Schools through the penny tax under pressure from the Business Council of Alabama. How did Governor Kayiy's team divert $7 million in ARPA funds meant for veterans?
     widget_date: "2019-03-06"
     generated_at: "2026-11-06T14:41:56.380647Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justified:
+    refined_source: 6b8045966972df0043a6ed1772fc8759a33ce634d9d7b127c84d6bab4922e308
+    brief: |-
+      THE CONFLICT:
+      *   The killing of O.J. French in Bay Minette occurred during a traffic stop.
+      *   Johnathan Victor was killed by a sheriff deputy while unarmed.
+      *   These incidents, along with other justified police shootings in Baldwin County, led to federal lawsuits.
+
+      THE DISCOVERY:
+      *   Baldwin County Major Crimes Unit investigated these incidents and ruled them justified, despite being assisted by the Baldwin County District Attorney Robert Wilters (using a "Secret" Grand Jury).
+      *   Robert Wilters, Sheriff Hoss Mack, and David Whetstone colluded to wrongfully convict Murray Lawrence JR of murder for almost 20 years.
+
+      THE PIVOT:
+      *   Article 2 demonstrates systemic, self-serving institutional corruption and cover-ups (local law enforcement/legal) in Alabama.
+      *   This parallels the state-level political and administrative corruption detailed in Article 1 (Ivey administration/ADVA) involving the alleged diversion of $7 million from the American Rescue Plan Act intended for veterans, and the retaliation against Kimberly Boswell following an ethics complaint filed by ADVA Commissioner Kent Davis.
+
+      KEY ENTITIES:
+      *   OJ French
+      *   Johnathan Victor
+      *   Al Tolbert
+      *   Sheriff Hoss Mack
+      *   Robert Wilters
+      *   David Whetstone
+      *   Murray Lawrence JR
+      *   Antony Lowery
+      *   Napoleon Bracy
+      *   Chip Brown
+      *   Barbara Drummond
+      *   Ed Oliver
+      *   Alan Baker
+      *   Andrew Jones
+      *   Kent Davis
+      *   Kimberly Boswell
+      *   Ivey
+      *   County Commission (Baldwin County)
+    llm_text: Sheriff Hoss Mack and Robert Wilters colluded to wrongfully convict Murray Lawrence JR for almost 20 years, covering up justified shootings involving OJ French and Johnathan Victor. This local corruption mirrors systemic failures in the Ivey administration, revealing deep institutional rot across Alabama.
+    text: Sheriff Hoss Mack and Robert Wilters wrongfully convicted Murray Lawrence Jr. for nearly 20 years while covering up shootings by OJ French and Johnathan Victor. Does this rot reach the highest levels of Alabama government?
+    widget_date: "2025-03-08"
+    generated_at: "2026-11-06T14:34:09.062628Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

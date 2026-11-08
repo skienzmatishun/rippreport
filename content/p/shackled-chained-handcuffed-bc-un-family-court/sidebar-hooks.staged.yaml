@@ -1,0 +1,148 @@
+metadata:
+  generated_at: "2026-11-07T05:46:12.431441Z"
+  generator_version: 1.0.0
+  post_slug: shackled-chained-handcuffed-bc-un-family-court
+  main_date: "2021-08-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-sec-of-state-the-only-one:
+    refined_source: c344cec8281a9dcba882677fda55b7a323b2b85008904f25317e090be56286b3
+    brief: |-
+      THE CONFLICT: Complaints regarding election tampering in Baldwin County were filed, including suspicious Fairhope elections (past two elections), targeting officials such as Michelle Thomason and Buddy Bracken.
+      THE DISCOVERY: John Merrill, Alabama Secretary of State, was the only state elected official to receive and act on these public complaints, leading his office to monitor the 2016 Fairhope election, where Karin Wilson won by approximately 600 votes.
+      THE PIVOT: Article 2 demonstrates that state-level accountability is possible via the Secretary of State, contrasting with the systemic failure of the Alabama Judiciary, Bar Association, and Ethics Commission detailed in Article 1, which allowed corruption (e.g., Michelle Thomason's decade-long appointment) to proceed unchecked.
+      KEY ENTITIES: John Merrill, Michelle Thomason, Buddy Bracken, Steven Johnson, Chey Garrigan, Austin Burdick, Karin Wilson, Tom Albritton, Brian Chun, Judge Jody Bishop, Baldwin County.
+    llm_text: Baldwin County election tampering complaints against Michelle Thomason and Buddy Bracken failed to reach the Alabama Judiciary. John Merrill, SOS, acted instead, monitoring the 2016 Fairhope election and proving state-level accountability is possible.
+    text: Baldwin County election tampering complaints failed to reach the judiciary. Secretary of State John Merrill monitored the 2016 Fairhope election.
+    widget_date: "2018-04-11"
+    generated_at: "2026-11-07T05:45:55.789876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-of-the-un-vaccinated:
+    refined_source: 2a45e2bceade777f797721737aef43c79f38ce0762475978f6a135db31daab94
+    brief: |-
+      THE CONFLICT: 2020 Arts and Craft show saw Fairhope City Council and candidate Sherry Sullivan push the mask debate regarding Covid, despite initial health expert advice; Jack Burrell (Council President) initially advocated for the Bayway Bridge without federal money.
+      THE DISCOVERY: The American Rescue Plan provided federal funding to Fairhope, leading the Mayor (Karen Wilson) and City Council to change their stance and offer vaccination incentives ($500 for full-time, $250 for part-time, $125 for seasonal).
+      THE PIVOT: The local political willingness to prioritize federal money over stated fiscal conservatism and health caution (Article 2) provides the backdrop for the deep, top-to-bottom political and judicial corruption and disenfranchisement observed in Baldwin County Family Court (Article 1).
+      KEY ENTITIES: Baldwin County; Fairhope City Council; Mayor Karen Wilson; Jack Burrell; Sherry Sullivan; Judge Michelle Thomason; Chey Garrigan; Austin Burdick; Steven Johnson; Brian Chun; John Merrill; Bayside Academy; Stephanie Durnin; Stephanie Hannon; Larry Fison.
+    llm_text: Jack Burrell and Fairhope City Council initially resisted health advice. The American Rescue Plan prompted Mayor Karen Wilson to offer $500 vaccination incentives; Read how this local money pivot connects to deep corruption in Baldwin County Family Court.
+    text: Jack Burrell and the Fairhope City Council initially resisted health advice. Mayor Karen Wilson offered vaccination incentives using local money.
+    widget_date: "2021-08-13"
+    generated_at: "2026-11-07T05:40:57.353550Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-94-alabamas-ethical-decay-and-delta:
+    refined_source: 5aff121f78692994a3355e0b99520e206d264293ab2e33ae1d578f2c2b8e5994
+    brief: |-
+      THE CONFLICT:
+      Baldwin County experienced documented instances of political and ethical decay, including Sheriff Mike Blakley’s conviction for corruption, disputes between Gulf Shores and Orange Beach (Steve Russo-Frank Burt, Tim James), and Sheriff Huey Mack's handling of COVID mandates during "last Spring Break."
+
+      THE DISCOVERY:
+      Article 2 revealed a background of systemic governmental issues in Baldwin County, including jurisdictional law conflicts (Elliott's Police Jurisdiction Law, Fairhope wetlands ordinance) and weak institutional oversight (response to Writ of Mandamus against Alabama Ethics Commission).
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of political dysfunction, corruption, and institutional failure within Baldwin County, providing the foundational context for the specific, severe judicial corruption and voter disenfranchisement detailed in Article 1 concerning Judge Michelle Thomason and the legal system's lack of accountability.
+
+      KEY ENTITIES:
+      Baldwin County
+      Judge Michelle Thomason
+      Chey Garrigan
+      John Merrill (Secretary of State)
+      Steven Johnson
+      Brian Chun
+      Jake Simkins
+      Buddy Brackin
+      Judge Jody Bishop
+      Sheriff Huey Mack
+      Eddie Tyler
+      Mike Blakley
+      Tom Albritton (Ethics Commission Executive Director)
+      Lagniappe
+      Fairhope Police
+      Bayside Academy
+    llm_text: Sheriff Mike Blakley’s corruption conviction and disputes between Gulf Shores and Orange Beach signal deep decay in Baldwin County. Read how this systemic dysfunction enabled legal failures involving Judge Michelle Thomason and failed institutional oversight.
+    text: Sheriff Mike Blakley's corruption conviction signaled deep decay. Institutional dysfunction enabled legal failures under Judge Michelle Thomason.
+    widget_date: "2021-08-07"
+    generated_at: "2026-11-07T05:42:19.296878Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  watering-hole:
+    refined_source: b52df70a6d4536677ac69425bfd47bf52b358bf86447287e8a1b9ac69d2fc957
+    brief: |-
+      THE CONFLICT: Ronan McSharry, a bar owner in Fairhope, AL, continuously broke laws and accrued multiple convictions; he was consistently allowed to "walk" without severe consequence, even in the presence of local politicians like Council President Jack Burrell.
+
+      THE DISCOVERY: Article 2 revealed that the local judiciary, attorneys, and politicians in Baldwin County protected McSharry despite his multiple arrests, a protection that only ceased becoming public after a specific election.
+
+      THE PIVOT: Article 2 established the historical pattern of local power (judges, attorneys, politicians) ignoring blatant conflicts of interest and criminal behavior in Baldwin County, setting the systemic precedent for the subsequent legal and judicial corruption detailed in Article 1, where Judge Michelle Thomason protected "cockroach attorneys" and engaged in voter disenfranchisement.
+
+      KEY ENTITIES:
+      Ronan McSharry
+      Jack Burrell (Council President)
+      Judge Michelle Thomason
+      Austin Burdick
+      Chey Garrigan
+      Steven Johnson
+      Brian Chun
+      Harry Still
+      David Simon
+      Cathy Brumback
+      Brenda Perry
+      Jake Simkins
+      Buddy Brackin
+      John Merrill (Secretary of State)
+      Tom Albritton (Ethics Commission Executive Director)
+      Judy Newcomb
+      Derek Rose
+      Judge Jody Bishop
+      Larry Fison (Director of Strickland youth center)
+      Bayside Academy
+      Fairhope Police
+      Lagniappe
+      The Ripp Report
+    llm_text: Ronan McSharry continuously broke laws, but local power—including Council President Jack Burrell—let him walk free in Fairhope, AL. The Ripp Report reveals how Baldwin County’s judiciary protected him, setting a dangerous precedent for systemic local corruption.
+    text: Ronan McSharry broke laws while Council President Jack Burrell let him walk free. Baldwin County's judiciary protected him from accountability.
+    widget_date: "2019-10-25"
+    generated_at: "2026-11-07T05:43:28.242941Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-un-family-court:
+    refined_source: 220e366a9af18256efa23239672f267867443ef21b81eb3dd728ad069b91202c
+    brief: |-
+      THE CONFLICT:
+      *   Judge Michelle Thomason (District Judge) presided over divorce cases in Baldwin County for over a decade, despite state law limiting special court appointments to 180 consecutive days.
+      *   Chey Garrigan spent 8 years attempting to gain visitation with her daughter in Thomason's court.
+      *   Garrigan was arrested by Fairhope Police (no Miranda rights) during a domestic dispute after being under the representation of attorney Steven Johnson.
+      *   The case eventually moved to Judge Jody Bishop's court, where Garrigan was shackled, chained, and handcuffed for 30 days with no appeal bond.
+      *   Attorney Austin Burdick filed a federal suit challenging Thomason's decade-long appointment, naming Secretary of State John Merrill.
+
+      THE DISCOVERY:
+      *   In 2018, The Ripp Report confirmed over 100 complaints regarding Baldwin County Family Court (BCFC) and Judge Thomasson.
+      *   These complaints documented family destruction, financial bankruptcy of clients, and a child suicide attributed to Thomason's decisions.
+      *   The 2018 article initiated the compilation of an anonymous list of court "victims."
+
+      THE PIVOT:
+      *   The 2018 findings established the systemic pattern of judicial incompetence, favoritism toward "bottom feeding attorneys," and family destruction within BCFC.
+      *   The Main Article provides a specific, detailed case (Chey Garrigan) that demonstrates how the historical pattern of corruption (identified in 2018) resulted in extreme judicial overreach, including shackling, chain-cuffing, and voter disenfranchisement.
+
+      KEY ENTITIES:
+      *   Baldwin County Un-Family Court (BCFC)
+      *   Judge Michelle Thomason
+      *   Chey Garrigan
+      *   Austin Burdick
+      *   Steven Johnson
+      *   Brian Chun
+      *   Harry Still
+      *   David Simon
+      *   John Merrill (Secretary of State)
+      *   Judge Jody Bishop
+      *   Larry Fison (Director of Strickland youth center)
+      *   Pricilla Comer
+      *   Bayside Academy
+      *   Tom Albritton (Executive Director of Ethics Commission)
+      *   Jake Simkins
+      *   Buddy Brackin
+      *   Cathy Brumback (PHD therapist)
+      *   Brenda Perry (retired DHR)
+      *   Judy Newcomb
+      *   Fairhope Police
+    llm_text: Judge Michelle Thomason defied state law by presiding over Baldwin County divorce cases for a decade. See how Chey Garrigan faced arrest by Fairhope Police and 30 days of shackling under Judge Jody Bishop—this exposes systemic judicial failure.
+    text: Judge Michelle Thomason presided over divorce cases in violation of state law. Chey Garrigan faced arrest and shackling under Judge Jody Bishop.
+    widget_date: "2021-08-03"
+    generated_at: "2026-11-07T05:44:54.145419Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

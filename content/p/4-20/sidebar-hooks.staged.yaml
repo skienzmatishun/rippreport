@@ -1,0 +1,241 @@
+metadata:
+  generated_at: "2026-11-07T19:23:54.705088Z"
+  generator_version: 1.0.0
+  post_slug: 4-20
+  main_date: "2020-04-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-virus:
+    brief: "THE CONFLICT: \n- April 20, 2010: The Deepwater Horizon (BP) Oil Spill occurred in the Gulf of Mexico, resulting in 13 deaths, 17 injuries, and 210,000,000 gallons of oil released, causing severe economic damage to Baldwin County.\n- May 3, 2010: Then-Fairhope Mayor and State Senator Tripp Pittman plotted to submit a personal contract for relief funds.\n- May 8, 2010: Alabama Governor Bob Riley appointed State Senator Tripp Pittman to serve as the \"trustee\" and banker to represent his district and disburse necessary oil spill recovery funds.\n- March 3, 2020: Date of a local election targeted by the \"CATALYST VIRUS\" warning regarding unbridled development and political corruption.\n- July 14, 2020: Runoff election date for the First Congressional seat involving Bill Hightower, backed by Tripp Pittman, the Fairhope City Council, and CATALYST.\n\nTHE DISCOVERY:\n- The widget article (CATALYST VIRUS), published prior to the March 3, 2020 election, exposed a local political network (\"CATALYST politicians\") accused of spreading a \"political virus\" characterized by unbridled development, zero impact fees, lack of planning, and using appointed or elected office for personal financial gain.\n\nTHE PIVOT:\n- The older widget article's exposure of the \"CATALYST VIRUS\" and corrupt politicians using office for personal gain serves as the foundational background for the main article. It connects the historical corruption of the CATALYST network directly to Tripp Pittman's past exploitation of the 2010 BP oil spill funds and his current 2020-era attempts to infiltrate the hemp industry and back congressional candidate Bill Hightower.\n\nKEY ENTITIES:\n- Tripp Pittman (Former State Senator / Tractor Salesman / \"Trustee\" / Hemp lobbyist wannabe)\n- Bill Hightower (Candidate for First Congressional seat, runoff on July 14, 2020)\n- Bob Riley (Former Alabama Governor)\n- The Alabama Cannabis Association\n- CATALYST / Catalyst politicians"
+    llm_text: When the Deepwater Horizon spill devastated our coast, former Senator Tripp Pittman grabbed a personal relief contract instead of helping. Read how this same corrupt political network fueled a local "CATALYST VIRUS" of unbridled development and still manipulates our elections today.
+    text: When the Deepwater Horizon spill devastated our coast, former Senator Tripp Pittman grabbed a personal relief contract instead of helping. Read how this same corrupt political network fueled a local "CATALYST VIRUS" of unbridled development and still manipulates our elections today.
+    widget_date: "2020-03-02"
+    generated_at: "2026-11-07T19:21:03.845902Z"
+    model_name: gemini-3.5-flash-lite
+  bury-the-body:
+    refined_source: 90ba4bf0e91be93a22fba41dc4bda607d04554f3e7ea62c13ef18ab4d67dce67
+    brief: |-
+      THE CONFLICT:
+      October 2, 2018: Fairhope City Council acted to prevent a vote to change the government in Fairhope; the vote was delayed and moved to the November 6, 2018 general election ballot.
+
+      THE DISCOVERY:
+      The Fairhope City Council instructed the City Attorney to find a loophole to delay the October 2, 2018 vote.
+
+      THE PIVOT:
+      Article 2 establishes prior documented manipulation/action by the Fairhope City Council, which connects contextually to Article 1's mention of Pittman and the Fairhope City Council supporting Bill "lowtower" for the July 14, 2020 runoff.
+
+      KEY ENTITIES:
+      Fairhope City Council
+      City Attorney
+      November 6, 2018
+      October 2, 2018
+      Tripp Pittman
+      Bill "lowtower"
+      Fairhope City Council
+      CATALYST
+    llm_text: The Fairhope City Council used a loophole to delay the October 2, 2018 vote, linking to Tripp Pittman's support for Bill "lowtower." See how this documented manipulation affects Fairhope now.
+    text: Did the Fairhope City Council use a procedural loophole to dodge a critical vote? Watch how Tripp Pittman's cozy ties to Bill "lowtower" continue to manipulate local decisions.
+    widget_date: "2018-10-01"
+    generated_at: "2026-11-07T19:21:07.268745Z"
+    model_name: plugsky-lite
+  hell-yea:
+    refined_source: abeb10736de3c02abca960c8a5e49a1cbf7660d7fb42612fec96bfad34a07d77
+    brief: |-
+      THE CONFLICT:
+      April 20, 2010: Deepwater Horizon Oil Spill (BP Oil Spill) occurred in Baldwin County, Alabama; 3 lives lost, 17 injured, 210,000,000 US gallons of oil released.
+      May 8, 2010: Alabama Governor Bob Riley appointed State Senator Tripp Pittman as "trustee" for Baldwin County funds.
+      May 3, 2010: Pittman planned to submit a personal contract for the entrusted funds prior to his official appointment.
+
+      THE DISCOVERY:
+      Fairhope City Council (at Large) exhibited resistance to government change, favoring the status quo.
+      Mayor Wilson supported Fresh Start Fairhope (June 21, 2020).
+      Kevin Boone filed a complaint against the Mayor’s efforts (July 10, 2020), appealing via social media.
+      Ripp filed a suit in the United States District Court, Southern District, alleging Burrell denied First and 14th Amendment rights.
+      The election date for Fairhope was set for October 2.
+
+      THE PIVOT:
+      Tripp Pittman, linked to the 2010 oil spill corruption, is politically aligned with the Fairhope City Council and Catalyst Council.
+      Pittman, Fairhope City Council, and CATALYST all supported Bill "lowtower" for the July 14, 2020, Congressional seat runoff, connecting 2010 corruption to 2020 political obstruction/censorship claims.
+
+      KEY ENTITIES:
+      Tripp Pittman
+      Bob Riley
+      BP
+      Bill "lowtower"
+      Fairhope City Council
+      Mayor Wilson
+      Catalyst
+      Kevin Boone
+      Alabama Cannabis Association
+    llm_text: Tripp Pittman, tied to the 2010 BP oil spill corruption under Bob Riley, now aligns with the Fairhope City Council. See how this connection fuels Kevin Boone's fight against Mayor Wilson's alleged political obstruction and First Amendment censorship.
+    text: BP oil spill fixer Tripp Pittman is back at it, aligning with the Fairhope City Council. Now Kevin Boone must fight Mayor Wilson's alleged censorship against this exact machine.
+    widget_date: "2018-09-24"
+    generated_at: "2026-11-07T19:23:30.014536Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ask-chris-elliott-catalyst-red-flags:
+    brief: "THE CONFLICT: \n- April 20, 2010: The Deepwater Horizon (BP) Oil Spill occurred, releasing 210,000,000 US gallons of oil into the Gulf of Mexico, resulting in 13 deaths and 17 injuries. Baldwin County suffered severe economic damage.\n- May 8, 2010: Alabama Governor Bob Riley formed a task force and appointed State Senator Tripp Pittman as the \"trustee\" and banker to disburse necessary relief funds to those in need.\n- May 3, 2010 (Prior to official appointment): Tripp Pittman conspired with the then-Mayor of Fairhope to submit his own personal contract to capture the very BP relief funds he was entrusted to oversee.\n- January 3, 2018: Chris Elliott and his wife purchased a waterfront priority property in Elberta on Key Hole Rd from Christopher G. Stradtman. The property was valued at $290,000, but the recorded purchase price was suspiciously low at $49,725.20, supplemented by a $100,000 purchase money mortgage from Trustee National Bank in Daphne.\n\nTHE DISCOVERY: \n- Public records from the Baldwin County Probate office expose questionable, highly discounted real estate transactions involving public figures like Chris Elliott (purchasing a $290,000 waterfront property for under $50,000 in January 2018).\n- Historical records prove Tripp Pittman leveraged his official government positions (State Senator/trustee) for self-enrichment, transitioning from managing BP oil spill boom installation and relief funds to attempting to position himself as a hemp lobbyist and farmer following the launch of the Alabama Cannabis Association on April 20, 2020.\n\nTHE PIVOT: \n- The historical background reveals a persistent pattern of self-dealing, corruption, and exploitation of public trusts by political actors in Baldwin County—connecting historical figures like Tripp Pittman (BP funds schemer turned wannabe hemp lobbyist) to current political candidates and operatives (such as Chris Elliott and Bill Hightower). \n- Article 2 serves as the smoking gun for local real estate/financial impropriety (Chris Elliott's suspicious property deal), while Article 1 exposes the broader network of corrupt political actors (Pittman, Elliott, and the Fairhope City Council) backing Bill Hightower for the First Congressional seat runoff on July 14, 2020.\n\nKEY ENTITIES: \n- Tripp Pittman (Former State Senator / \"Trustee\" / Tractor salesman / Hemp lobbyist wannabe)\n- Chris Elliott (Public figure / Property buyer)\n- Christopher G. Stradtman (Property seller)\n- Bob Riley (Former Alabama Governor)\n- Bill \"Lowtower\" / Bill Hightower (Candidate for First Congressional seat runoff, July 14, 2020)\n- Trustee National Bank (Daphne, AL)\n- Alabama Cannabis Association\n- Lagniappe / WACO Radio / The Courier (Local media outlets referenced)"
+    llm_text: Public records expose how former Senator Tripp Pittman schemed to cash in on the BP oil spill while politicians like Chris Elliott scored a $290,000 waterfront property for under $50,000. Read The Ripp Report to uncover the hidden corruption network backing Bill Hightower.
+    text: Public records expose how former Senator Tripp Pittman schemed to cash in on the BP oil spill while politicians like Chris Elliott scored a $290,000 waterfront property for under $50,000. Read The Ripp Report to uncover the hidden corruption network backing Bill Hightower.
+    widget_date: "2018-07-16"
+    generated_at: "2026-11-07T19:21:10.116703Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-sold-to-the-highest-bidder:
+    refined_source: caffe347853531e0814fc03689a6f23329a1ea725ec21079d7ad27a833065adf
+    brief: |-
+      THE CONFLICT:
+      May 8, 2010: Alabama Governor Bob Riley appointed State Senator Tripp Pittman as "trustee" to disburse funds from the Deepwater Horizon Oil Spill (BP Oil Spill) in Baldwin County.
+      May 3, 2010: Tripp Pittman planned with the then Mayor of Fairhope to submit a personal contract for the entrusted funds.
+
+      THE DISCOVERY:
+      Article 2 shows Chris Elliott and David Northcutt were candidates in a runoff election, and Elliott secured almost $500,000 in campaign funds, with support from Sheriff Hoss Mack and Superintendent Eddie Tyler.
+
+      THE PIVOT:
+      Article 2 establishes the pattern of self-enrichment and political maneuvering (Elliott/Pittman) that Article 1 highlights regarding Pittman's corruption concerning the Oil Spill funds, linking political interests (Pittman, Elliott) across different eras and issues (oil spill vs. election funding).
+
+      KEY ENTITIES:
+      Tripp Pittman
+      Bob Riley
+      BP
+      Fairhope Mayor
+      Chris Elliott
+      David Northcutt
+      Hoss Mack
+      Eddie Tyler
+      Bill "lowtower"
+      Catalyst
+      Stragtegy
+      Jon Gray
+    llm_text: Tripp Pittman misused Deepwater Horizon funds, and now Chris Elliott secured almost $500k in campaign cash. See how this pattern of self-enrichment connects local politics across years.
+    text: Tripp Pittman cashed in on Deepwater Horizon funds while Chris Elliott walked away with half a million in campaign cash. Why does self-enrichment always define local politics?
+    widget_date: "2018-07-09"
+    generated_at: "2026-11-07T19:21:15.081339Z"
+    model_name: plugsky-lite
+  restore-act-accountability:
+    brief: |-
+      THE CONFLICT:
+      - On April 20, 2010, the Deepwater Horizon (BP) Oil Spill released 210,000,000 gallons of oil into the Gulf of Mexico, killing 13 and injuring 17.
+      - On May 8, 2010, Alabama Governor Bob Riley appointed State Senator Lee "Trip" Pittman as the "trustee" and banker to oversee and disburse disaster relief funds to those in need.
+      - On May 3, 2010 (prior to formal appointments), Pittman plotted with the then-Mayor of Fairhope to submit his own personal contract for the entrusted funds.
+      - Senator Trip Pittman received $639,000 from the City of Fairhope and a $98,000 deal from the City of Perdido Key for BP boom contracts, violating grant terms.
+      - Brett Robinson received between $36 million and $40 million in BP disaster money for an unfinished project, and subsequently employed former Governor Bob Riley as a consultant/lobbyist.
+      - Mayor Stan Wright of Bayou La Batre was convicted of grant fraud and intimidating witnesses.
+      - The Mayor of Fairhope was subpoenaed to Federal Court in Mobile to testify regarding BP boom grants involving Trip Pittman amidst allegations of grant fraud, witness intimidation, forgery, and collusion.
+
+      THE DISCOVERY:
+      - Promised audits of the BP grant monies distributed through the Alabama Emergency Management Association were never performed by any local or state agency.
+      - Funds intended to make affected citizens whole were instead funneled to politicians and well-connected insiders (referred to as the "Resteal Act" regarding Restore Act funds).
+      - Trip Pittman secured lucrative heavy equipment and boom contracts county-wide following the disaster payouts.
+
+      THE PIVOT:
+      - Article 2 serves as the smoking gun because it details the historical financial corruption, unfulfilled audit promises, and specific illicit payouts (such as Pittman's $639,000 Fairhope contract and $98,000 Perdido Key deal) tied directly to Trip Pittman. This proves the foundational pattern of self-enrichment referenced in Article 1, warning the public that Pittman—now attempting to rebrand as a hemp lobbyist and tractor/boom salesman backing Bill Hightower—is the same corrupt actor who exploited the 2010 BP oil spill funds.
+
+      KEY ENTITIES:
+      - Trip Pittman (Lee "Trip" Pittman / Senator Tripp Pittman)
+      - Bob Riley (Governor Bob Riley)
+      - Bill Hightower (Bill "Lowtower")
+      - Stan Wright (Mayor Stan Wright)
+      - Brett Robinson
+      - Alabama Emergency Management Association
+      - Alabama Cannabis Association
+      - City of Fairhope
+      - City of Perdido Key
+      - City of Gulf Shores
+      - Bayou La Batre
+    llm_text: When the Deepwater Horizon spill devastated the Gulf, former Alabama Senator Trip Pittman pocketed $737,000 in illicit BP boom contracts while auditors looked away. Now he is rebranding as a hemp lobbyist backing Bill Hightower, but this smoking-gun report exposes how Pittman cashed in on disaster funds meant for suffering citizens.
+    text: When the Deepwater Horizon spill devastated the Gulf, former Alabama Senator Trip Pittman pocketed $737,000 in illicit BP boom contracts while auditors looked away. Now he is rebranding as a hemp lobbyist backing Bill Hightower, but this smoking-gun report exposes how Pittman cashed in on disaster funds meant for suffering citizens.
+    widget_date: "2014-04-01"
+    generated_at: "2026-11-07T19:21:15.910752Z"
+    model_name: gemini-3.5-flash-lite
+  judicial-trick:
+    refined_source: fdaba0c6dcbd74cb8386d75dde3329fe7428611a94de8e0652e85d275061bf79
+    brief: |-
+      THE CONFLICT:
+      1.  November 22, 2018: Ronan McSherry shoved Paula Dinardi off a bar stool in Fairhope, captured on film.
+      2.  2010 (April 20): Deepwater Horizon Oil Spill (BP) released 210,000,000 US gallons of oil into the Gulf of Mexico in Baldwin County, Alabama; 3 lives lost.
+      3.  May 8, 2010: Governor Bob Riley appointed State Senator Tripp Pittman to oversee funds for Baldwin County spill damage.
+      4.  May 3, 2010: Tripp Pittman planned a personal contract for the spill funds before his trustee appointment.
+      5.  July 14, 2020: Bill “lowtower” ran for First Congressional seat runoff, backed by Pittman, Fairhope City Council, and CATALYST.
+
+      THE DISCOVERY:
+      1.  Baldwin County has a reputation for judicial malfeasance, trickery, and corruption.
+      2.  Baldwin County Circuit Judge Clark Stankoski dismissed the serious assault charge against McSherry, citing a failure by municipal attorney Marcus McDowell to amend the charging document ("did cause bodily harm").
+      3.  James Pittman (brother of Boom Boom Pittman) issued subpoenas, leading to a ruling by Judge Stankoski concerning the State's shield law.
+
+      THE PIVOT:
+      1.  Article 2 establishes a historical pattern of systemic political and judicial corruption in Baldwin County, confirming that local figures (e.g., Mayor Jack Burrell, CATALYST council) prioritize political loyalty over citizen accountability.
+      2.  This pattern of institutional corruption provides the context for Article 1’s focus on Tripp Pittman's 2010 self-enrichment attempt (spill funds) and his continued political maneuvering in the 2020 election.
+
+      KEY ENTITIES:
+      1.  Tripp Pittman (State Senator, former trustee, candidate)
+      2.  Boom Boom Pittman
+      3.  Bill “lowtower”
+      4.  BP
+      5.  Baldwin County
+      6.  Ronan McSherry
+      7.  Paula Dinardi
+      8.  Judge Clark Stankoski
+      9.  Mayor Jack Burrell
+      10. Marcus McDowell
+      11. James Pittman
+      12. CATALYST
+      13. Alabama Cannabis Association
+    llm_text: Baldwin County exhibits systemic corruption, demonstrated when Judge Clark Stankoski dismissed the Ronan McSherry assault charge. This same system allowed Tripp Pittman to plan a personal contract for BP spill funds in 2010 while later running for office in 2020.
+    text: Judge Clark Stankoski dismissed Ronan McSherry's assault charge while Tripp Pittman plotted personal payouts from BP funds. This is how Baldwin County's rigged system operates.
+    widget_date: "2020-04-18"
+    generated_at: "2026-11-07T19:21:54.833477Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-party:
+    brief: |-
+      THE CONFLICT:
+      - Temporal context: Article 2 (Widget: CATALYST PARTY) is older than Article 1 (Main: 4-20); frame Article 2 as background/historical context for Article 1.
+      - April 20, 2010: Deepwater Horizon Oil Spill / BP Oil Spill in Baldwin County, Alabama. 3 lives lost, 17 injured. 210,000,000 US gallons of oil released into Gulf of Mexico.
+      - April 20, 2010: 4/20 cannabis culture; Deepwater Horizon spill marks date.
+      - Ten years later: Alabama still dealing with collateral damage from BP oil spill. Baldwin County suffered most economically; got screwed by state and own legislative representatives.
+      - May 3, 2010: Tripp Pittman planning with then Mayor of Fairhope re: personal contract for funds entrusted to Pittman to oversee.
+      - May 8, 2010: Alabama Governor Bob Riley forms task force; appoints State Senator Tripp Pittman as “trustee”, banker, to represent district and ensure necessary funds disbursed.
+      - Governor Bob Riley: little did he know Pittman was already planning with then Mayor of Fairhope on May 3rd to submit his own personal contract for funds entrusted to Pittman to oversee.
+
+      THE DISCOVERY:
+      - Widget article: Last Fairhope City Council meeting was only 30 minutes, maybe shortest on record.
+      - Widget article: Resolution #7: Due to limitations on public gatherings and social distancing pursuant to ADPH advisement and Governor’s Orders: all public hearings of City Council, Planning Commission, Board of Adjustments and Appeals postponed until further notice. Prior to resuming, announcement to be made by City Council at future meeting.
+      - Widget article: Council President Jack Burrell “promises”, 13:20, council canceling public participation during COVID-19 “stay at home order” as per Governor’s order. Burrell in charge. CATALYST City Council and no public participation? Hold breath; council already proven cannot be trusted. Make note; hope Burrell keeps promise and does not try something sneaky, like triangle conservation easement, or political party.
+      - Widget article: Resolution #8: Burrell authorized to negotiate and execute Professional Engineering Services Contract with Goodwin, Mills and Cawood to perform Environmental Site Assessment including groundwater testing on property at NE Corner of Fairhope Avenue and Section Street (Clock Corner). Contract negotiated with not to exceed amount of $10,000.00.
+      - Widget article: Burrell and council botched clock deal from day one. Burrell negotiated purchase of 1000 square feet, with a clock, for astounding $525,000. Now environmental site assessment for additional $10,000 necessary. Next Burrell will explain about old existing gas fuel tanks still buried on site, that have to be removed. Do not be surprised if clock does not go over 600 thousand dollars for 1000 square feet. WTH.
+      - Widget article: Burrell along with Boone and Brown purchased 2.65 million in farmland for recreation and then promptly leased same land back for farming for only 9 thousand a year. Now city desperately needs 2.65 million due to revenue loss from Covid-19.
+      - Widget article: Resolution #12: City of Fairhope voted to purchase one E-ONE Custom Rescue Pumper Fire Truck for Fire Station #1. Vehicle available for direct procurement through Houston-Galveston Area Council Contract FS12-19 which has been nationally bid; therefore not have to be let out for bid. Total cost is $517,157.000. Joint purchase between City of Fairhope and Fairhope Volunteer Fire Department with 60/40 split. City paying up to $331,000.00 from Impact Fees and Fairhope Volunteer Fire Department paying up to $200,000.00.
+      - Widget article: Burrell stated Volunteer Fire Department was “Gracious” in donating 200 thousand dollars towards purchase of Custom Fire Truck. Burrell did not mention that only a few months ago the fire chief told the Mayor in council chambers that he would not provide the city with any financial [???]. He was rude and made a speech that fire department did not have to tell Mayor anything, they were independent, but they take city money!
+      - Widget article: City pays 331,000.00 and Burrell says fire department is “GRACIOUS” for contributing 200,000.00. Fairhope needs a full time fire department, that are employees of city and answer to city.
+      - Widget article: COVID-19 should be taken seriously and it is not the time or place to be talking about political rallies disguised as a party.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it contains the same contract that the city gave to Sen Tripp Pittman for years, under the previous Mayor.
+      - Burrell fought tooth and nail to continue giving the contract to his “bible buddy”; however the newly elected Mayor said no dice.
+      - Pittman could not get the bid in an honest bidding process.
+      - This connects Pittman’s BP oil spill trustee behavior to Fairhope City Council actions during COVID-19.
+      - Article 2 provides context for Article 1’s allegations that Pittman had talent to see opportunity for self-enrichment at expense of others.
+
+      KEY ENTITIES:
+      - Tripp Pittman – State Senator, appointed trustee/banker after BP oil spill, later no longer State Senator, hemp/medical marijuana lobbyist/farmer.
+      - Bob Riley – Alabama Governor.
+      - Baldwin County – Alabama.
+      - Deepwater Horizon Oil Spill / BP Oil Spill – April 20, 2010; 3 lives lost, 17 injured, 210,000,000 US gallons oil released.
+      - Alabama Cannabis Association – press release announcing organization, 21 members, on 4/20.
+      - Bill “lowtower” Hightower – backed by Pittman, Fairhope City Council, CATALYST for First Congressional seat runoff July14 2020.
+      - Jack Burrell – Fairhope City Council President, “promises”, negotiator, authorized contracts.
+      - Fairhope City Council – no public participation during COVID-19, resolutions.
+      - CATALYST – political party/entity; Fairhope City Council and CATALYST back Bill.
+      - Karin Wilson – Fairhope Mayor.
+      - Boone and Brown – council members involved in farmland purchase/lease.
+      - Sherry Sullivan – former city employee, recreation center failed, CATALYST wants as next Mayor of Fairhope.
+      - Mr Brown – council member? brought up party/Arts and Craft Show.
+      - Goodwin, Mills and Cawood – engineering services contract.
+      - E-ONE Custom Rescue Pumper Fire Truck – Fire Station #1; $517,157; 60/40 split; city $331,000, VFDF $200,000.
+      - Houston-Galveston Area Council Contract FS12-19.
+      - Fairhope Volunteer Fire Department – $200,000 donation.
+      - Crowder Gulf, LLC – Disaster Debris Removal and Disposal 2018, Bid Number 020-18, additional one year.
+      - Impact Fees – city paying up to $331,000 for fire truck.
+    llm_text: Ten years after BP’s 210 million gallon Gulf oil spill, Tripp Pittman steered Alabama disaster funds—and now Fairhope’s Jack Burrell handed him a secret city contract. When the pandemic gutted Fairhope’s budget, Burrell’s council hid public input and bought a $517,157 fire truck while Pittman kept skimming.
+    text: Ten years after BP’s 210 million gallon Gulf oil spill, Tripp Pittman steered Alabama disaster funds—and now Fairhope’s Jack Burrell handed him a secret city contract. When the pandemic gutted Fairhope’s budget, Burrell’s council hid public input and bought a $517,157 fire truck while Pittman kept skimming.
+    widget_date: "2020-04-16"
+    generated_at: "2026-11-07T19:22:27.927592Z"
+    model_name: recursive/flint-v1.0:free

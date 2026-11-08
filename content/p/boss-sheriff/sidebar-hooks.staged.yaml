@@ -6,22 +6,26 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   fauxhope-crier:
+    refined_source: 7e4108e072ac468b0e436f633905d3a0eae69f467c64bc76a3c277f592d98df4
     brief: |-
       THE CONFLICT: Fauxhope government (Mayor, Council, Municipal Judge, Municipal Attorney) was supported 100% by special interests and developers for 20 to 30 years.
       THE DISCOVERY: Article 2 revealed that Fauxhope faced 20-year ignored infrastructure issues (water/utilities) and that Councilman Cory Martin supported the Municipal Judges project, prioritizing commercial infrastructure (ALDI store).
       THE PIVOT: Article 2 establishes a documented local pattern of developer/special interest control leading to municipal appointments (Municipal Judges), mirroring the county-level allegation in Article 1 that Sheriff Hoss Mack controls the DA and most Judges.
       KEY ENTITIES: Hoss Mack, Cory Martin, Baldwin County Sheriff Office (BCSO), Fauxhope City Council, Municipal Judges, DA, Mayor, Utility Director
     llm_text: Fauxhope ignored 20 years of critical water issues while Councilman Cory Martin prioritized an ALDI store over infrastructure. This developer control pattern mirrors Hoss Mack's county-level influence over the DA and Municipal Judges.
+    text: Fairhope ignored twenty years of water problems while Councilman Cory Martin prioritized an ALDI store over basic infrastructure. This developer control mirrors Sheriff Hoss Mack and his county-level influence.
     widget_date: "2023-09-05"
     generated_at: "2026-11-06T19:04:14.843561Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-mug-shot:
+    refined_source: bb1de445c7f64bd34452f3a7b7053518e02b74af7196ea5f25d7254d098d5897
     brief: |-
       THE CONFLICT: William Coleman Barkley was convicted of attempted murder of an Auburn Police Officer and received 35 years in prison (date not specified).
       THE DISCOVERY: The Widget Article noted the formation of a "Moms for Liberty" chapter in Baldwin County and the local political activity of State Senator Chris Elliott in Foley.
       THE PIVOT: No factual link exists between Sheriff Hoss Mack's alleged corruption in BCSO and the general news events of the Widget Article. The Widget Article provides general local context for Baldwin County political climate but does not serve as the 'smoking gun' for Mack's specific misconduct.
       KEY ENTITIES: Hoss Mack, Baldwin County Sheriff Office (BCSO), District Attorney, FBI, Chris Elliott, Foley, Moms for Liberty, Steve Marshall, Baldwin Bridge Company.
     llm_text: Baldwin County is buzzing with political action, from Moms for Liberty chapters to State Senator Chris Elliott's moves in Foley. How does this local climate connect to the serious corruption allegations against BCSO Sheriff Hoss Mack?
+    text: Baldwin County buzzes with political action from Foley to local Moms for Liberty chapters. How does this local climate connect to the serious corruption claims against Sheriff Hoss Mack?
     widget_date: "2023-08-28"
     generated_at: "2026-11-06T19:05:14.417211Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -87,10 +91,12 @@ hooks:
       - Lowery
       - Wilters
     llm_text: Baldwin County Sheriff Hoss “Boss” Mack’s office warned about serious BCSO problems, and police shot O.J. French after a mental health stop. The Major Crimes Unit, which includes Mack’s sheriff’s criminal unit, is investigating itself, while promised body cameras turned out to be total BS.
+    text: Baldwin County Sheriff Hoss “Boss” Mack’s office warned about serious BCSO problems, and police shot O.J. French after a mental health stop. The Major Crimes Unit, which includes Mack’s sheriff’s criminal unit, is investigating itself, while promised body cameras turned out to be total BS.
     widget_date: "2022-10-15"
     generated_at: "2026-11-06T19:05:02.285601Z"
     model_name: recursive/flint-v1.0:free
   wrongful-conviction:
+    refined_source: 7e4a1cebe5365495d662e5d84ae338be76583ae4432f68cf95fbe7454df5ea13
     brief: |-
       THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of murder and has been in jail since 2005. Key personnel involved were Lt. Hoss Mack (lead investigator), former DA David Whetstone, Judge Robert Wilters, and defense attorney Willy Huntley. The conviction lacked DNA, blood, fingerprints, witnesses, or ballistics evidence, and involved two conflicting medical examiner reports.
 
@@ -100,30 +106,36 @@ hooks:
 
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr., Robert Wilters, David Whetstone, Willy Huntley, Steve Nodine, Jonathan Victor, BCSO, Baldwin County Sheriff Office, O.J. French, Cato Institute.
     llm_text: Murray Lawrence Jr. endured a wrongful murder conviction since 2005, lacking any key evidence. Lead investigator Hoss Mack and Judge Robert Wilters tied this case to a pattern of law enforcement entanglement within the Baldwin County Sheriff Office.
+    text: Murray Lawrence Jr. endured a wrongful murder conviction since 2005 without key evidence. Lead investigator Hoss Mack and Judge Robert Wilters tied this case to law enforcement corruption in Baldwin County.
     widget_date: "2022-10-05"
     generated_at: "2026-11-06T19:06:27.399253Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   biased-investigation:
+    refined_source: 136f0b3ccec909987e3d37886e8bb62eb1a3e93592d5bd7a74caf03d839a0682
     brief: |-
       THE CONFLICT: 8 individuals killed by BCSO, including Mr O J French of Bay Minette. Deputies returned 114 rounds through French's demolished home.
       THE DISCOVERY: Bay Minette MCU Lt. Andre Reid stated officer body camera footage is unavailable, and the officer involved in French's death will not be named due to privacy, despite an Alabama Supreme Court ruling limiting public access to such footage.
       THE PIVOT: Article 2 establishes a pattern of biased investigation, lack of transparency (withholding camera footage), and high levels of local political power/influence (Sheriff being the most powerful politician) which directly supports Article 1's assertion that the DA takes orders from "Boss" Mack and Judges were appointed by him.
       KEY ENTITIES: Baldwin County Sheriff Hoss Mack, Bay Minette, Andre Reid, Mr O J French, Bay Minette Justice League (BMJL), Baldwin County Major Crimes Unit (MCU), Mayor Bob Wills, Scott Johnson, BCSO
     llm_text: BCSO killed Mr O J French in Bay Minette, but Lt. Andre Reid won't release body camera footage despite court rules. See how Sheriff Hoss Mack's influence blocks transparency in this deadly Baldwin County case.
+    text: The Baldwin County Sheriff Office killed Mr OJ French in Bay Minette. Lieutenant Andre Reid refuses to release body camera footage despite court rules.
     widget_date: "2022-09-24"
     generated_at: "2026-11-06T19:03:35.907584Z"
     model_name: plugsky-lite
   lethal-force:
+    refined_source: b09bd8a99d064403f183b7507a49d1706b91920070e6337171dd893a57efc426
     brief: |-
       THE CONFLICT: Excessive force incidents in Baldwin County resulted in 7 lives lost over 5 years; Mr. O J French's death was the 8th incident.
       THE DISCOVERY: Article 2 established a pattern of excessive force incidents dating back over 5 years, including the death of O J French in Bay Minette.
       THE PIVOT: Article 2 details the structure of the BCMCU, listing Sheriff Hoss Mack as a key participant, which provides context for Article 1's claim that the DA and Judges follow the "Boss" Mack and that the BCSO lacks accountability.
       KEY ENTITIES: Hoss Mack, BCSO, O J French, Bay Minette, Joshua Brown, Al Tolbert, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock, Baldwin County Commissioners, FBI
     llm_text: Hoss Mack's BCMCU controls Baldwin County; this structure links to the 7 lives lost, including O J French in Bay Minette. See how the BCSO lacks accountability in The Ripp Report.
+    text: Sheriff Hoss Mack and his unit control Baldwin County law enforcement. This system links to seven deaths, including OJ French in Bay Minette, with zero accountability.
     widget_date: "2022-09-10"
     generated_at: "2026-11-06T19:03:43.310546Z"
     model_name: plugsky-lite
   sheriff-huey-boss-mack-secret-police:
+    refined_source: 019b6f18a449b9a1dc20e5a728cb3082ac586653a66dbf65973dd8890f95673e
     brief: |-
       THE CONFLICT:
       JONATHAN VICTOR: May 2017 - Shot to death by Baldwin County Sheriff Office (BCSO).
@@ -160,6 +172,7 @@ hooks:
       District Attorney (DA)
       FBI
     llm_text: Hoss Mack secured his second term despite BCSO shooting Jonathan Victor and Robert Yates. See how Mack used $700k for body cameras while blocking public access to crucial law enforcement records.
+    text: Sheriff Hoss Mack won a second term even after deputies shot Jonathan Victor and Robert Yates. Mack spent 700,000 dollars on body cameras while blocking public access to police records.
     widget_date: "2021-10-01"
     generated_at: "2026-11-06T19:03:55.087710Z"
     model_name: plugsky-lite

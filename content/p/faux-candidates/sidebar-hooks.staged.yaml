@@ -1,0 +1,148 @@
+metadata:
+  generated_at: "2026-11-07T18:36:26.315126Z"
+  generator_version: 1.0.0
+  post_slug: faux-candidates
+  main_date: "2020-06-12"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  catalyst-candidates-⁠-excess-baggage:
+    refined_source: 15d985e909c3a98fb1f1a88c7aaf98d1def2b97cc963d78a37be9dd77928ae86
+    brief: |-
+      THE CONFLICT: Past corruption and political obstruction within Fairhope and Baldwin County involving Jack Burrell (Council President for two terms/8 years), Tim Can’t, and Sherry Sullivan. Specific events include Burrell's bid rigging at the Airport, the purchase of 2.65 million dollar recreation land (leased for 9 thousand/year), and the subsequent deficit of 1.5 million (from a 1.2 million surplus). Tim Can’t's administration involved the BP scandal, Fly Creek Apartments, and a triangle lawsuit. Sullivan assisted Cant in obstructing Mayor Karin Wilson’s transition, leading to her firing for insubordination.
+
+      THE DISCOVERY: Article 2 revealed that the current Fairhope Council was dominated by CATALYST figures and that Sherry Sullivan's history included covering up Cant’s involvement in various scandals (BP, Fly Creek Publix). This history is presented as 'excess baggage' that disqualifies them from public service.
+
+      THE PIVOT: Article 2 provides the detailed historical evidence (financial mismanagement, obstruction of Mayor Wilson, specific scandals) that validates Article 1's claim that CATALYST is stroking "FAUX candidates" who are not serving the public interest but are attempting to maintain power or oust existing players (e.g., Daphne Mayor Haygood).
+
+      KEY ENTITIES: CATALYST, Jack Burrell, Tim Can’t, Sherry Sullivan, Karin Wilson, Bill "Lowtower" Hightower, Jerry Carl, Fairhope City Council, Daphne, August 26th election (Main Article), July 14th (Congressional runoff), First Congressional District.
+    llm_text: Jack Burrell rigged Airport bids, while Sherry Sullivan covered up Tim Can't's BP and Fly Creek scandals. Learn how this history of financial mismanagement and obstruction disqualifies the current CATALYST council from truly serving Fairhope.
+    text: Jack Burrell rigged municipal airport bids while Sherry Sullivan covered up Tim Kant administration scandals. This history of financial mismanagement disqualifies current leaders from serving Fairhope.
+    widget_date: "2020-05-13"
+    generated_at: "2026-11-07T18:34:42.119397Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  public-servant:
+    refined_source: f52ca6e1d410a095cc9456acfc7e95539d91c4ef427450279135f6995356fe47
+    brief: |-
+      THE CONFLICT:
+      *   March 31: Jerry Carl was scheduled to vote in the First Congressional District runoff against Bill Hightower.
+      *   Baldwin County has a history of rigging elections and corruption, detailed in the "Strawman series" regarding property schemes involving county commissioners, lawyers, and Judges.
+
+      THE DISCOVERY:
+      *   Doug Snow (via [Baldwin County Citizens for Accountability]) stated Bill Hightower is associated with CATALYST.
+      *   Hightower’s campaigns are funded by out-of-state special interest money, contrasting with Jerry Carl's alleged loan of approximately $200,000 from a local bank for his campaign.
+
+      THE PIVOT:
+      *   Article 2 establishes the identity of CATALYST (Hightower) and the context of campaign finance and corruption in Baldwin County (e.g., the $200,000 debt vs. special interest money).
+      *   Article 1 applies this established CATALYST influence to local races, identifying "FAUX candidates" strategically positioned to oust current officeholders (e.g., Mayor Haygood, Jack Burrell) in Fairhope and Daphne.
+      *   Article 1 confirms CATALYST's attempt to place Bill "Lowtower" in congress, linking back to the conflict detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Jerry Carl (Public Servant candidate)
+      *   Bill Hightower (CATALYST figure)
+      *   Doug Snow
+      *   [Baldwin County Citizens for Accountability]
+      *   Mayor Haygood (Daphne)
+      *   Jack Burrell (Fairhope City Council)
+      *   Troy Vickers, Joshua Gammon, Tracy Gatewood
+      *   Tim Can’t
+      *   Sherry Sullivan
+      *   Bill “Lowtower”
+      *   CATALYST
+      *   August 26 (Fairhope election date)
+      *   July 14 (congressional runoff election date)
+      *   $200,000 (Carl's alleged loan amount)
+    llm_text: Bill Hightower, linked to CATALYST and out-of-state money, targets Jerry Carl in the July 14 congressional runoff. Read how Hightower's influence contrasts with Carl's alleged $200,000 local loan amid Baldwin County corruption.
+    text: Bill Hightower targeted Jerry Carl in the congressional runoff using out-of-state campaign donations. Hightower's financial backing contrasted with local campaign loans during the election.
+    widget_date: "2020-03-07"
+    generated_at: "2026-11-07T18:36:08.913688Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  runoff:
+    refined_source: 588140e2046080e50dfdd3dd04a534f878313e5631b9f673a70eb5097bc56bf0
+    brief: |-
+      THE CONFLICT:
+      *   First Congressional District runoff election took place on March 31.
+      *   Jerry Carl edged out Bill Hightower by 1226 votes.
+
+      THE DISCOVERY:
+      *   Bill Hightower (CATALYST candidate) scored 3126 votes more than Carl specifically in Baldwin County.
+      *   CATALYST predicted 10,000 votes and fell short by over 66%.
+      *   CATALYST seeks total political power in Baldwin County.
+
+      THE PIVOT:
+      *   Article 2 establishes CATALYST's significant, localized political strength and ambition within Baldwin County despite not winning the overall congressional race.
+      *   This ambition is the historical context for Article 1's current strategy of using "FAUX candidates" to target local officials (Mayor Haygood, Jack Burrell) and place "Lowtower" in Congress on July 14th.
+
+      KEY ENTITIES:
+      *   Jerry Carl
+      *   Bill Hightower (Bill “Lowtower”)
+      *   CATALYST
+      *   Baldwin County
+      *   Daphne
+      *   Fairhope
+      *   Mayor Haygood
+      *   Jack Burrell
+      *   Troy Vickers
+      *   Joshua Gammon
+      *   Tracy Gatewood
+      *   Chris Elliott
+      *   Tim Can’t
+      *   Sherry Sullivan
+      *   Stacy
+      *   August 26th (Fairhope City Council election)
+      *   July 14th (Congressional runoff)
+      *   First Congressional District
+    llm_text: Jerry Carl edged out Bill Hightower in the First Congressional District runoff. Yet, CATALYST scored 3126 more votes for Hightower in Baldwin County, fueling their strategy to target Mayor Haygood and Jack Burrell before the July 14th run.
+    text: Jerry Carl defeated Bill Hightower in the congressional runoff election. The political network secured thousands of votes for Hightower in Baldwin County before the election.
+    widget_date: "2020-03-05"
+    generated_at: "2026-11-07T18:32:18.867908Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  election-ad:
+    refined_source: bec6388e9889d673170e6c7602215c38e3b73b51fed411d4df59a4d327c85d29
+    brief: |-
+      THE CONFLICT: CATALYST (composed of members Stacy, Haygood, and Elliott) is using "faux candidates" to manipulate political races in Daphne and Fairhope. Specific objectives include removing Daphne Mayor Haygood, influencing the Fairhope mayoral race (involving Jack Burrell, Sherry Sullivan, and Tim Cant), and installing Bill “Lowtower” in the First Congressional District.
+
+      THE DISCOVERY: The "Strawman series" in *Lagniappe* revealed a historical scheme in Baldwin County where businessmen, a county commissioner, lawyers, and judges orchestrated a plot to defraud citizens of their property.
+
+      THE PIVOT: The Strawman series provides the historical context of systemic, organized corruption in Baldwin County, framing CATALYST's current electoral maneuvers as a continuation of documented patterns involving local officials and professionals.
+
+      KEY ENTITIES: CATALYST, Stacy, Haygood, Chris Elliott, Mayor Haygood, Jack Burrell, Sherry Sullivan, Tim Cant, Bill “Lowtower”, Jerry Carl, Lagniappe, Baldwin County.
+    llm_text: CATALYST members Stacy, Haygood, and Elliott are using faux candidates to manipulate elections in Daphne and Fairhope. Our Strawman series reveals these modern schemes mirror a long history of Baldwin County officials orchestrating plots to defraud citizens.
+    text: Local officials used allied candidates to manipulate elections in Daphne and Fairhope. These modern political schemes mirror a long history of county leaders orchestrating plots against citizens.
+    widget_date: "2020-02-22"
+    generated_at: "2026-11-07T18:33:24.513574Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  a-decade-of-corruption:
+    refined_source: 652220dd9203bc59986658dd70fa3ac802860555de3215709956f4409eccbc1d
+    brief: "THE CONFLICT: \n- In May 2010, Fairhope Mayor Tim Kant and State Senator Tripp “Boom Boom” Pittman were instructed by the County Commission (May 8, 2010) not to proceed with a specific bid.\n- Pittman and Kant bypassed this by submitting a second proposal under the name \"Oil Recovery.\"\n- On June 4, 2010, the Fairhope City Council held a special meeting and awarded a contract to Pittman Tractor.\n- On June 10, 2010, Pittman received a payment of $372,165.90 from the City of Fairhope for \"completed\" boom work.\n- Pittman performed work without a contract, general contractor's license, marine insurance, or necessary ethics/county approvals.\n- Over the following decade, Pittman secured approximately $750,000 in BP-related funds.\n- Jack Burrell and Tim Kant were instrumental in maintaining Pittman's debris contracts with Fairhope for over 8 years.\n\nTHE DISCOVERY: \n- Article 2 reveals a decade-long pattern of systemic corruption in Baldwin County involving the judiciary, the Bar, and the Ethics Commission.\n- It establishes that \"CATALYST\" is the common denominator in multiple corruption instances, including the Mega Site theft, the Strawman property scheme, and Fairhope Airport bid-rigging.\n- It documents the specific use of political influence to secure private financial gain through municipal contracts.\n\nTHE PIVOT: \n- Article 2 serves as the evidentiary foundation for Article 1's claims regarding \"CATALYST.\" \n- While Article 1 warns of current \"faux candidates\" and political manipulation, Article 2 provides the historical proof of how the CATALYST group operates through contract manipulation, bid-rigging, and the subversion of local government officials to achieve financial and political control.\n\nKEY ENTITIES:\n- Tripp “Boom Boom” Pittman (State Senator / Pittman Tractor)\n- Tim Kant (Former Fairhope Mayor)\n- Jack Burrell (Fairhope Councilman)\n- Sherry Sullivan\n- Chris Elliott\n- Bill “Lowtower” Hightower\n- Jerry Carl\n- Greg Mims\n- Jennifer Fidler\n- Karin Wilson\n- CATALYST (Political organization/pact)"
+    llm_text: Senator Tripp “Boom Boom” Pittman and Mayor Tim Kant bypassed county orders using a fake name to funnel massive payments to Pittman Tractor. Article 2 provides the historical blueprint of how the CATALYST group manipulates municipal contracts to seize political and financial control.
+    text: Senator Tripp Pittman and Mayor Tim Kant bypassed county purchase orders using fake names to funnel payments to Pittman Tractor. This group manipulated municipal contracts to seize political and financial control.
+    widget_date: "2020-06-10"
+    generated_at: "2026-11-07T18:30:54.948153Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  strawman-spiderweb:
+    refined_source: 852404a2819a6348215a187214daeb5b56d55726f8ec023623ba469bfd3ed3c1
+    brief: |-
+      THE CONFLICT: Scheme orchestrated by businessmen, county commissioner, lawyers, and judges in Baldwin County to cheat innocent citizens out of property, detailed in the "Strawman" series in Lagniappe.
+
+      THE DISCOVERY: Councilman Kevin Boone (LLC Boone) was linked to his son Scott Boone (a CATALYST front man), connecting him to Tucker Dorsey, John Avant, and Judge Norton, who was implicated in the corruption.
+
+      THE PIVOT: Article 2 provides the historical evidence (Boone's conflict of interest, Judge Norton's involvement, the "Strawman" case) that demonstrates the systemic corruption in Baldwin County, validating the claim in Article 1 that this historical corruption influences current political races (e.g., Haygood's fall and the "Faux Candidates" campaign).
+
+      KEY ENTITIES: Kevin Boone, Scott Boone, Tucker Dorsey, John Avant, Judge Norton, Daphne’s Bellaton, CATALYST, Mayor Haygood, Jack Burrell, Troy Vickers, Joshua Gammon, Tracy Gatewood, Tim Can’t, Sherry Sullivan, Jerry Carl, Baldwin County, Daphne, Fairhope
+    llm_text: Kevin Boone, Scott Boone, Tucker Dorsey, and Judge Norton orchestrated a "Strawman" scheme to cheat Baldwin County citizens out of property. Read how this historical corruption still influences current races, validating Mayor Haygood's fall.
+    text: Kevin Boone, Scott Boone, Tucker Dorsey, and Judge Norton orchestrated a property scheme to cheat Baldwin County citizens. This historical corruption influenced subsequent local elections.
+    widget_date: "2020-06-07"
+    generated_at: "2026-11-07T18:30:59.321936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-shit-creek:
+    refined_source: f13dda6acee491f6ce7e63e5d8499be71c68fbf95c374b2df17aaa6dfa6636d5
+    brief: |-
+      THE CONFLICT: Corruption in Baldwin County, outlined in the Strawman series, involves businessmen, county commissioners, lawyers, and judges cheating citizens out of property. Between 2016 and the time of the widget article, the CATALYST City Council in Fairhope refused to fund or hire engineers for the publicly published sewer infrastructure repair plan.
+      THE DISCOVERY: CATALYST City Council ignored complaints about Fly Creek and Publix and failed to prioritize sewer deficiencies despite Mayor Wilson's pledge; the Council also maintained its own biased justice system, supporting friends accused of domestic abuse while disparaging women.
+      THE PIVOT: Article 2 establishes CATALYST's history of municipal corruption and deliberate infrastructure decay (sewer issues since 2016), providing the context for Article 1, which reveals CATALYST is now actively manipulating "FAUX candidates" in the Daphne (Mayor Haygood) and Fairhope (Jack Burrell) elections to remove rivals and maintain control.
+      KEY ENTITIES: CATALYST, Fairhope, Daphne, Mayor Wilson, Mayor Haygood, Jack Burrell, Tim Can’t, Sherry Sullivan, Chris Elliott, Jerry Carl, Bill "Lowtower," Fly Creek, ADEM, Baldwin County.
+    llm_text: CATALYST City Council in Fairhope ignored vital sewer repairs since 2016, defying Mayor Wilson’s pledge. Now, they manipulate "FAUX candidates" like Jack Burrell and Mayor Haygood to maintain control across Daphne and Fairhope.
+    text: The city council ignored vital sewer repairs in Fairhope since 2016 in defiance of Mayor Karin Wilson. Officials used allied candidates to maintain political control across Daphne and Fairhope.
+    widget_date: "2020-05-22"
+    generated_at: "2026-11-07T18:33:25.795662Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

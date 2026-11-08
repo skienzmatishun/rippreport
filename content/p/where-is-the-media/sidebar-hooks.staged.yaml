@@ -1,0 +1,152 @@
+metadata:
+  generated_at: "2026-11-07T06:14:37.500169Z"
+  generator_version: 1.0.0
+  post_slug: where-is-the-media
+  main_date: "2021-08-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  baldwin-county-un-family-court:
+    refined_source: ee5dbd3e4049b944f7304ae23d5e7d2a5b3ecf35926b398d6d6bc685feaab1bf
+    brief: |-
+      THE CONFLICT: Over 100 complaints were filed against Baldwin County Family Court (BCFC) and attorneys regarding Judge Michelle Thomasson's arbitrary decisions and favoritism; in 2010, 60-80 million dollars of oil was pumped from Conecuh County, with lack of transparency from Regions Bank and Tom Albritton.
+      THE DISCOVERY: In 2018, The Ripp Report documented the damage (emotional/financial) inflicted by BCFC under Judge Thomasson, including family destruction and child suicide.
+      THE PIVOT: The 2018 documentation of judicial and institutional failure (BCFC) establishes a historical pattern of misconduct and lack of ethical oversight in Alabama, providing context for the 2021 revelation that Ethics Commission Director Tom Albritton misused the Mabel Amos Memorial Fund for his children’s education.
+      KEY ENTITIES: Tom Albritton (Alabama Ethics Commission Director), Regions Bank, Mabel Amos Memorial Fund, Judge Michelle Thomasson, Baldwin County Family Court (BCFC), Conecuh County, Rob Holbert (Editor of Lagniappe)
+    llm_text: Judge Michelle Thomasson’s arbitrary decisions at Baldwin County Family Court caused family destruction, including child suicide. This pattern of institutional failure connects directly to Tom Albritton misusing the Mabel Amos Memorial Fund for his children's education.
+    text: Judge Michelle Thomasson made custody decisions at Baldwin County Family Court that ended in tragedy. How does this failure connect to Tom Albritton misusing public education funds?
+    widget_date: "2021-08-03"
+    generated_at: "2026-11-07T06:05:52.992179Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-93-delta-hits-baldwin-county:
+    refined_source: 68ce69793e94b5eac056b4ee21bbc99129ec5d79ad92e33a164074199ffbc59e
+    brief: |-
+      THE CONFLICT: Tom Albritton, Director of the Alabama Ethics Commission, used the Mabel Amos Memorial Fund (a trust) to finance his children’s education, violating the trust's intent. Additionally, Regions Bank and Tom Albritton failed to inform Conecuh County citizens of the 2010 oil discovery (60 to 80 million dollars pumped).
+      THE DISCOVERY: The Lagniappe Mobile Newspaper published an editorial by Rob Holbert focusing on the Alabama Ethics Commission.
+      THE PIVOT: Article 2 establishes that the Alabama Ethics Commission was already a subject of media scrutiny via Rob Holbert's editorial, providing background context for the specific corruption allegations detailed in Article 1.
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Regions Bank, Mabel Amos Memorial Fund, Rob Holbert, Conecuh County, 2010
+    llm_text: Alabama Ethics Commission Director Tom Albritton misused the Mabel Amos Memorial Fund for his children's education. Learn how this corruption, alongside Regions Bank's silence on Conecuh County's 2010 oil discovery, affects local citizens.
+    text: Ethics Director Tom Albritton used the Mabel Amos Memorial Fund for his children's education. Why does Regions Bank stay silent on the Conecuh County oil discovery?
+    widget_date: "2021-08-02"
+    generated_at: "2026-11-07T06:08:35.127161Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mega-lost-opportunity:
+    refined_source: e059a9fec54128b7f968040a215861f4d0f0674552dc0795fc760cb4205b4b6c
+    brief: |-
+      THE CONFLICT:
+      *   Oil discovered in Conecuh County in 2010, yielding 60 to 80 million dollars of oil.
+      *   Tom Albritton (Alabama Ethics Commission Director) used the Mabel Amos Memorial Fund to finance his children’s education, violating trust intent (reported August 7, 2021).
+      *   Baldwin County invested $32 million in 2012 (totaling approximately $48 million) for the 3,009-acre Mega Site, with no substantial progress reported for nearly 10 years.
+
+      THE DISCOVERY:
+      *   Baldwin County officials (including Treasurer Kimberly Creech) confirmed the Mega Site debt structure: $13,425,798.99 owed from the county’s own oil and gas trust fund.
+      *   Lee Lawson (BCEDA CEO) repeatedly claimed the site was "shovel ready" despite lacking basic infrastructure (sign, gate) since 2011.
+      *   The county failed to inform citizens of the 2010 oil discovery.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of systemic financial mismanagement, lack of transparency, and self-serving actions by county/economic development entities (BCEDA) involving large public funds, which mirrors the corruption allegations against the Ethics Commission and Regions Bank in Article 1.
+      *   Article 2 provides specific examples (Mega Site cost, oil fund debt, delayed progress) of public funds being mismanaged or concealed, reinforcing the theme of pervasive Alabama corruption.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Alabama Ethics Commission Director)
+      *   Regions Bank
+      *   Rob Holbert (Editor of Lagniappe)
+      *   Lee Lawson (President/CEO of BCEDA)
+      *   Kimberly Creech (Baldwin County Treasurer)
+      *   Ron Cink (Baldwin County Budget Director)
+      *   Conecuh County
+      *   Baldwin County
+      *   Mabel Amos Memorial Fund
+      *   South Alabama Mega Site
+    llm_text: Baldwin County invested $48 million from 2010 oil funds into the Mega Site, yet Lee Lawson claimed it was "shovel ready." Treasurer Kimberly Creech confirmed $13.4M of that debt comes directly from the county's own oil trust fund.
+    text: Baldwin County spent $48 million of oil funds on the Mega Site despite Lee Lawson calling it ready. Where did the missing $13.4 million in debt originate?
+    widget_date: "2021-07-30"
+    generated_at: "2026-11-07T06:09:52.043918Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  live-like-a-coward-die-like-a-coward:
+    refined_source: 6701dc247ef04bb52cfa10d1bcc820dd32c53fc1f219737e07ccd343e2191b1f
+    brief: |-
+      THE CONFLICT: John McAfee was running from a wrongful death lawsuit in the U.S. and subsequently orchestrated a murder in Belize in 2011, leading to his flight from the country.
+      THE DISCOVERY: Article 2 documented McAfee's crimes, including the murder of Gregory Faull and his escape from Belize in 2011 with help from Tom Mangar.
+      THE PIVOT: Article 2 (McAfee's criminal history in Belize) provides no factual context or 'smoking gun' for Article 1 (Tom Albritton's misuse of the Mabel Amos Memorial Fund and corruption at Regions Bank in Alabama). The two articles cover entirely separate events and individuals.
+      KEY ENTITIES: John McAfee, Tom Mangar, Gregory Faull, Tom Albritton, Regions Bank, Mabel Amos Memorial Fund, Conecuh County, Rob Holbert, Nanette Burnstein, Belize, Alabama.
+    llm_text: John McAfee murdered Gregory Faull in Belize in 2011 while fleeing a U.S. wrongful death lawsuit. Read how McAfee and Tom Mangar escaped the country, revealing his full criminal history from Belize.
+    text: John McAfee killed Gregory Faull in Belize in 2011 while avoiding a United States lawsuit. How did McAfee and Tom Mangar escape the country?
+    widget_date: "2021-06-25"
+    generated_at: "2026-11-07T06:11:17.846650Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-red-flags-faux-hope:
+    refined_source: c7debee3b6d7f8c5a18a54421b99258720dace5163a072ea804c01ee956bf229
+    brief: |-
+      THE CONFLICT:
+      *   2010: Oil discovered in Conecuh County.
+      *   $60 million to $80 million of oil pumped from Conecuh County.
+      *   Tom Albritton (Alabama Ethics Commission Director) used the Mabel Amos Memorial Fund trust to finance his children’s education, violating the trust’s intent.
+
+      THE DISCOVERY:
+      *   Fairhope (Faux Hope) exhibits local governmental opacity and financial mismanagement, including $2.1 million tax abatement for a company hiring 5 employees and a $4 million K-1 center purchase.
+      *   The city voted unanimously on May 24 to approve a 25-year lease allowing FEEF to operate the K-1 site for $1 per year.
+      *   An electric substation was placed in the residential Hawthorn Glenn area, alleged to be "political payback" for seller Kathy Hoffren, who sold the property for $40,000 (under the $290,000 list price).
+
+      THE PIVOT:
+      *   The Widget article (older context) provides evidence of pervasive municipal lack of transparency (e.g., Fairhope Airport Authority meetings no longer video taped) and self-serving financial decisions (e.g., $1/year K-1 lease) in Faux Hope, establishing a pattern of unethical governance parallel to the specific corruption involving Tom Albritton and Regions Bank detailed in the Main Article (August 7, 2021).
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Regions Bank
+      *   Alabama Ethics Commission
+      *   Conecuh County
+      *   Jack Burrell
+      *   Lee Lawson
+      *   Fairhope City Council
+      *   Mabel Amos Memorial Fund
+      *   Kathy Hoffren
+      *   Karin Wilson
+      *   FEEF
+      *   Fairhope Airport Authority (FAA)
+    llm_text: Fairhope City Council approved a $1/year K-1 lease and gave $2.1M in tax abatement, showing deep municipal opacity. This local mismanagement parallels Tom Albritton’s violation of the Mabel Amos Memorial Fund trust, revealing systemic corruption in Conecuh County.
+    text: Fairhope City Council approved a cheap school lease and tax breaks worth millions. Does this local deal mirror Tom Albritton misusing the Mabel Amos Memorial Fund?
+    widget_date: "2021-06-18"
+    generated_at: "2026-11-07T06:13:05.921163Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  weasel-contractor:
+    refined_source: f1e397d686f5bcc4e3140b275aed5a0b7d890245b2d3bd4e15e58acd4c579d7a
+    brief: |-
+      THE CONFLICT: Chris Elliott, formerly Stacy Elliott and Haygood, was involved in the Baldwin County political machine (including Catalyst/Scott Boone Consulting) and was a contractor (Elliott Builders Inc.) in 2016.
+      THE DISCOVERY: In 2016, the Strengthen Alabama Homes (SAH) program director, Brian Powell, wrote to Chris Elliott notifying him of removal as an eligible contractor due to attempts to gain confidential information and potential profiling of applicants.
+      THE PIVOT: Article 2 establishes a history of localized, documented political and contractual malfeasance (Elliott's case), providing context for the broader systemic ethical violations and lack of accountability highlighted in Article 1 (Tom Albritton, Regions Bank, Conecuh County oil discovery, and Ethics Commission silence).
+      KEY ENTITIES: Tom Albritton, Regions Bank, Rob Holbert, Chris Elliott, Lynn Stacy, Thomasson (Michelle Thomasson), Tucker Dorsey, Tim Can’t, Scott “baby” Boone, Robert Wilters, Brian Powell, HB-188, Conecuh County, Mabel Amos Memorial Fund.
+    llm_text: Chris Elliott, linked to the Baldwin County political machine via Scott Boone Consulting, lost his SAH contractor status in 2016 for seeking confidential applicant information. This specific case proves the systemic ethical failures highlighted by the Tom Albritton and Regions Bank scandal.
+    text: Chris Elliott lost his contractor status in 2016 for seeking confidential records. Does this case prove the ethical failures seen in the Tom Albritton scandal?
+    widget_date: "2021-05-14"
+    generated_at: "2026-11-07T06:07:07.419734Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  s-o-s:
+    refined_source: 49c67bdaa39d38ce3cf3c033c1966b7df552672fe073a9c4025a937a2d30c3f8
+    brief: |-
+      THE CONFLICT:
+      *   2010: Oil discovered in Conecuh County.
+      *   2010-Present: 60 to 80 million dollars of oil pumped from Conecuh County.
+      *   2021 (August 7): Tom Albritton (Alabama Ethics Commission Director) used the Mabel Amos Memorial Fund for his children’s education, violating the trust's intent.
+
+      THE DISCOVERY:
+      *   Baldwin County Sheriff Hoss Mack faced Federal Court without qualified immunity.
+      *   The legal issue was a "well established pattern" and conduct of "deliberate indifference" by the Baldwin County Sheriff Office.
+
+      THE PIVOT:
+      *   Article 2 provides context on systemic lack of accountability (Hoss Mack/Baldwin County) demonstrating a broader pattern of ethical violations and media silence within Alabama governance, mirroring the concerns raised in Article 1 regarding Tom Albritton and Regions Bank.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Alabama Ethics Commission Director)
+      *   Regions Bank
+      *   Mabel Amos Memorial Fund
+      *   Conecuh County
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Fairhope City Council
+      *   Mobile Baykeeper
+      *   Alabama Power
+      *   $6.2 million (Fairhope Waterfront grant)
+    llm_text: Ethics Director Tom Albritton misused the Mabel Amos Memorial Fund, and Baldwin County Sheriff Hoss Mack faced federal court over deliberate indifference. These cases show a pattern of unaccountable power throughout Alabama governance.
+    text: Ethics Director Tom Albritton misused public funds while Sheriff Hoss Mack faced federal court over jail conditions. Who holds these Alabama officials accountable?
+    widget_date: "2021-05-07"
+    generated_at: "2026-11-07T06:14:19.037350Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

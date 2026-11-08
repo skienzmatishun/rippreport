@@ -1,0 +1,159 @@
+metadata:
+  generated_at: "2026-11-07T15:39:11.752083Z"
+  generator_version: 1.0.0
+  post_slug: baldwin-county
+  main_date: "2020-09-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-voters-guide:
+    refined_source: d49b8b7155962b9375f217938324e1caf594c2cf4484ffac1b390fa0a7fa7b84
+    brief: |-
+      THE CONFLICT: In 2016, incumbent Mayor Timothy Kant (16-year tenure) was defeated by Karin Wilson, the first woman Mayor of Fairhope, following an investigation by the Alabama Secretary of State's Office into alleged election tampering during the 2008 and 2012 voting cycles.
+      THE DISCOVERY: Article 2 revealed that despite Wilson’s victory, the City Council remained dominated by five individuals selected by the previous administration and controlled by the "CATALYST" faction, including Jack Burrell.
+      THE PIVOT: The historical control of the council by the CATALYST faction (Jack Burrell) provides the political context for the current political situation where Sherry Sullivan is positioned as a rubber stamp for Jack Burrell, who is now involved in the McSharry assault case, and where the Fairhope City Attorney has failed to properly file assault charges for Ronan McSharry.
+      KEY ENTITIES: Timothy Kant, Karin Wilson, Jack Burrell, Deb Hopkins, Kevin Boone, Scott Boone, Joshua Gammon, Robert Brown, Howell Gibbons, Sherry Sullivan, Ronan McSharry, James Pittman, Tripp Pittman, Hoss Mack, Little Whiskey Christmas Club, Fairhope City Attorney.
+    llm_text: Karin Wilson beat Mayor Timothy Kant, yet Jack Burrell's CATALYST faction still dominates the Fairhope City Council. Read how this historical control influences the McSharry assault case and the City Attorney's failure to file charges.
+    text: Karin Wilson defeats Mayor Timothy Kant, yet Jack Burrell's Catalyst faction maintains control of the Fairhope City Council. This historical control influences the McSharry assault case and the City Attorney's refusal to file charges.
+    widget_date: "2020-08-20"
+    generated_at: "2026-11-07T15:36:27.189554Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  questions-for-fairhope:
+    refined_source: 9e46743e3f1490d4b92ff97e039adf8cbc911ec66e63a94155e23b3456c93fd6
+    brief: |-
+      THE CONFLICT: Past allegations included a fired employee suing the city, claims of collusion between the City Attorney and at least three City Council members, and an unethical BP contract during the previous administration (Mayor Cant).
+      THE DISCOVERY: The older article (Widget) revealed systemic concerns regarding misuse of public funds ($2,650,000 for recreation land leased for $9,000/year), lack of public participation, and conflicts of interest involving figures like Kevin Boone and Scott Boone/Catalyst.
+      THE PIVOT: The current incident (McSharry assault case) proves the historical pattern of procedural failure, as the Fairhope City Attorney failed three times to properly file the assault charge, validating the historical concern (A2, Q4) about the City Attorney failing citizens.
+      KEY ENTITIES: Sherry Sullivan, Ronan McSharry, James Pittman, Tripp Pittman, Hoss Mack, Fairhope City Attorney, Jack Burrell, Mayor Cant, Kevin Boone, Scott Boone, Catalyst, Baldwin County Sheriff's Department, Jonathan Victor (2017), Little Whiskey Christmas Club.
+    llm_text: The Fairhope City Attorney failed Ronan McSharry's assault case, proving a pattern of procedural failure mirroring past $2.65 million misuse and conflicts involving Kevin Boone. See how historic corruption under Mayor Cant connects to today's lack of accountability.
+    text: The Fairhope City Attorney fails to prosecute Ronan McSharry's assault case, matching past misuse of $2.65 million and conflicts involving Kevin Boone. Historic corruption under Mayor Kant connects directly to today's lack of accountability.
+    widget_date: "2020-08-17"
+    generated_at: "2026-11-07T15:37:47.558888Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-signs:
+    refined_source: 517427e842f0ca7ecfd94470816e18cc78132e32e16edf3e02db169e4b43e9c0
+    brief: |-
+      THE CONFLICT:
+      *   In the 2016 Fairhope election, Jerry Carl defeated the CATALYST/Scott Boone movement.
+      *   CATALYST transitioned into Scott Boone Consulting (CSB), a political alliance operating like a Club for Growth PAC.
+      *   CSB deployed identical PVC framed signs across Fairhope, Daphne, Spanish Fort, and Bay Minette.
+      *   CSB sought to regain political power lost in 2016.
+
+      THE DISCOVERY:
+      *   The Widget article established CSB/CATALYST as a unified political unit, not just individuals.
+      *   The article linked CSB support to key local figures, including Sherry Snedeker, Municipal Judge, Boone, and Burrell, noting their participation in the 2016 landscape.
+
+      THE PIVOT:
+      *   The historical dominance of CSB (2016) provides context for the current political alignment in Fairhope, where Sherry Sullivan (who won 17% in 2024) is linked to the same core group (Jack Burrell, Boone).
+      *   This entrenched political structure influences current issues, such as the City Council's failure to properly file assault charges in the McSharry case and the lack of public transparency regarding BCSO body camera footage, despite a $662,567.00 county approval.
+
+      KEY ENTITIES:
+      *   Scott Boone / CATALYST / CSB
+      *   Jerry Carl
+      *   Sherry Sullivan (soon to be Mayor of Fairhope)
+      *   Jack Burrell (Fairhope City Council)
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Ronan McSharry (accused in assault/intoxication case)
+      *   Tripp Pittman (McSharry's legal representative)
+      *   Little Whiskey Christmas Club (location of assault)
+      *   Fairhope City Attorney
+      *   Jonathan Victor (victim of 2017 BCSO shooting death on I-10)
+      *   Baldwin County Sheriff’s Department (BCSO)
+      *   $662,567.00 (BCSO body camera funding)
+    llm_text: CSB, led by Scott Boone, still controls Fairhope politics, linking figures like Sherry Sullivan and Jack Burrell. This entrenched power structure influences current failures, including the McSharry assault case and BCSO transparency despite $662k in funding.
+    text: Scott Boone leads Community Service Bancorp and controls Fairhope politics alongside Sherry Sullivan and Jack Burrell. This power structure influences the McSharry assault case and limits BCSO transparency despite heavy funding.
+    widget_date: "2020-08-07"
+    generated_at: "2026-11-07T15:32:55.082643Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-aka-scott-boone-consulting:
+    refined_source: 1f6f9e6682cae6365fa2cbb4aa79c6058e19724cecf2809138ebb15068ade720
+    brief: |-
+      THE CONFLICT: Strawman land fraud series involving Tucker Dorsey and Kevin Boone.
+      THE DISCOVERY: CATALYST (now Scott Boone Consulting) is financed by developers and land owners, and is against regulations, impact fees, and infrastructure needs.
+      THE PIVOT: Article 2 provides the historical context of developer-backed corruption and conflicts of interest in Baldwin County, which relates to current political dynamics, such as Sherry Sullivan's position on embracing city growth over stringent regulation (Article 1).
+      KEY ENTITIES: Scott Boone, Kevin Boone, Tucker Dorsey, Sherry Sullivan, Hoss Mack, Ronan McSharry, James Pittman, Tripp Pittman, Jerry Carl, Little Whiskey Christmas Club.
+    llm_text: Tucker Dorsey and Scott Boone Consulting are tied to a strawman land fraud series that ignores Baldwin County regulations. Learn how developer funding influences policy, connecting this conflict directly to Sherry Sullivan's push for city growth.
+    text: Tucker Dorsey and Scott Boone Consulting link to a land fraud scheme that ignores Baldwin County regulations. Developer funding directly influences local policy and Sherry Sullivan's push for city growth.
+    widget_date: "2020-08-05"
+    generated_at: "2026-11-07T15:38:51.236194Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  absolute-power:
+    refined_source: 73f0762b8514a6799c7a4b73e9ab27633e66628cb475be026f70a92e23eefd93
+    brief: |-
+      THE CONFLICT:
+      *   McSharry case was an ignored issue during the Wilson Administration (4 years) and the Cant administration (10 years).
+      *   The McSherry case involved an assault in a downtown business (Little Whiskey Christmas Club) by a green card holder.
+      *   The Fairhope City Attorney failed repeatedly to file the proper assault charge.
+
+      THE DISCOVERY:
+      *   Article 2 (older) established that Jack Burrell was the dominant force ("king B") on the City Council, and Sherry Sullivan would inherit the corruption of the "3 B's" and the unresolved McSherry case.
+      *   Article 2 reported the low election turnout for Sherry Sullivan (17% of registered voters).
+
+      THE PIVOT:
+      *   Article 2 reveals that the McSherry case was a known, unresolved political liability *before* Sherry Sullivan became Mayor, explaining why she is now forced to address it (Article 1) rather than simply ignoring it.
+      *   Article 2 frames the current political structure, where Jack Burrell controls the council and Sullivan is expected to be a "rubber stamp," providing context for the City Attorney's inaction in Article 1.
+
+      KEY ENTITIES:
+      *   Sherry Sullivan
+      *   Jack Burrell
+      *   Ronan McSharry
+      *   James Pittman
+      *   Fairhope City Attorney
+      *   Little Whiskey Christmas Club
+      *   Hoss Mack
+      *   Baldwin County Sheriff's Department
+      *   Jonathan Victor (2017)
+      *   Catalyst/Scott Boone Consulting
+    llm_text: Sherry Sullivan must finally tackle the old Ronan McSharry assault case from Little Whiskey Christmas Club. Jack Burrell’s council control and years of inaction by the Fairhope City Attorney created this unresolved political liability.
+    text: Sherry Sullivan must finally address the old Ronan McSharry assault case from the Little Whiskey Christmas Club. Jack Burrell's council control and years of inaction by the Fairhope City Attorney create an unresolved political liability.
+    widget_date: "2020-08-28"
+    generated_at: "2026-11-07T15:31:31.358939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-golden-key:
+    refined_source: 2edc6b677038fda779bec658e5bf1145d56fcc23969f5c0e61b7657e3ff502ac
+    brief: |-
+      THE CONFLICT: 16 years of "blatant corruption" in Fairhope; this corruption reportedly ended in 2016; recent events include the McSharry assault case where the Fairhope City Attorney failed to file assault charges three times; and the 2017 officer-involved shooting death of Jonathan Victor.
+
+      THE DISCOVERY: The Fairhope City Council, led by Jack Burrell (for 8 years), formed a "Catalyst/Scott Boone Consulting CABAL" comprising Burrell, Kevin Boone, and Robert Brown; this cabal ignored calls for change and appointed unqualified officials (Marcus McDowell as Attorney, Judge Snedeker) despite Mayor Wilson's efforts.
+
+      THE PIVOT: The entrenched political structure documented in Article 2 (the CABAL resisting change and maintaining status quo appointments) explains the systemic failures in Article 1, such as the City Attorney's repeated failure to file proper charges in the McSharry case and the City Council's inaction regarding the downtown assault and the protection of a green card holder.
+
+      KEY ENTITIES: Jack Burrell, Kevin Boone, Robert Brown, Mayor Wilson, Sherry Sullivan, Hoss Mack, Ronan McSharry, Tripp Pittman, James Pittman, Marcus McDowell, Judge Snedeker, Jonathan Victor, Baldwin County Sheriff's Department, Little Whiskey Christmas Club, Catalyst/Scott Boone Consulting.
+    llm_text: Jack Burrell and his Catalyst/Scott Boone Consulting CABAL entrenched corruption in Fairhope, ignoring calls for change. This cabal's power led to systemic failures, including the City Attorney's three failed filings in the Ronan McSharry assault case.
+    text: Jack Burrell and his political cabal entrench corruption in Fairhope and ignore demands for reform. This leadership structure leads to systemic failures, including three failed filings by the City Attorney in the Ronan McSharry assault case.
+    widget_date: "2020-08-24"
+    generated_at: "2026-11-07T15:34:01.289785Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  where-is-justice:
+    refined_source: fff2a31d7fa0199ad80605d64b323151b6e584b6a5fe4a0227de0c3f02c75768
+    brief: |-
+      THE CONFLICT:
+      Ronan McSharry assaulted Paula DiNardi at the Little Whiskey Christmas Club in Fairhope on November 23, 2018. McSharry, a green card holder, pleaded guilty on March 26 in Fairhope municipal court. He was previously on probation for harassment against Nall Hollis.
+
+      THE DISCOVERY:
+      The 2020 letter revealed that the Fairhope judicial system (including City Attorney Marcus McDowell and Judge J. Clark Stankoski) dismissed McSharry's appeal denovo, preventing the city from amending the charging document (due to a 365-day limit). This led to a miscarriage of justice despite video evidence.
+
+      THE PIVOT:
+      The 2020 context established that the local judicial system and municipal officials (appointed by the CATALYST council) failed to hold McSharry accountable. This history explains why, following the election, the Fairhope City Attorney repeatedly failed to properly file assault charges in the current case, allowing McSharry to avoid full punishment.
+
+      KEY ENTITIES:
+      Ronan McSharry
+      Paula DiNardi
+      Sherry Sullivan (Soon-to-be Mayor of Fairhope)
+      Hoss Mack (Baldwin County Sheriff)
+      Tripp Pittman
+      James Pittman
+      Marcus McDowell (Fairhope City Attorney)
+      Judge J. Clark Stankoski
+      Nall Hollis
+      Robert Wilters (Baldwin County District Attorney)
+      Little Whiskey Christmas Club
+      American Legion
+      Fairhope City Council
+      Baldwin County Sheriff’s Department (BCSO)
+      The Ripp Report
+      Jack Burrell
+    llm_text: Ronan McSharry assaulted Paula DiNardi at the Little Whiskey Christmas Club. Local officials like Marcus McDowell and Judge J. Clark Stankoski dismissed his appeal, creating a miscarriage of justice despite video evidence.
+    text: Ronan McSharry assaults Paula DiNardi at the Little Whiskey Christmas Club. Local officials Marcus McDowell and Judge J. Clark Stankoski dismiss the appeal, creating a clear miscarriage of justice despite video evidence.
+    widget_date: "2020-04-25"
+    generated_at: "2026-11-07T15:35:06.960577Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

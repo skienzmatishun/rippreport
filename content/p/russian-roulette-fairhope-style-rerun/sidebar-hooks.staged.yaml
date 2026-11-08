@@ -5,44 +5,20 @@ metadata:
   main_date: "2025-08-05"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted in a 2005 capital murder trial after spending over 20 years in prison. Separately, the Dyas, Triangle lawsuit cost Fairhope $11.25 million, having been settled by Mayor Timmy and council members Boone and Burrell.
-
-      THE DISCOVERY: Article 2 revealed that key exculpatory evidence was suppressed, and the prosecution (led by David Whetstone and Huey Mack) coerced false confessions, falsely claiming the victim was shot in Alabama when autopsy proved strangulation in Mississippi.
-
-      THE PIVOT: Article 2 demonstrates a pattern of profound prosecutorial and law enforcement misconduct (suppressed evidence, false narratives) by local figures (Wilters, Lowery, Mack, Whetstone). This pattern mirrors the financial and political corruption in Article 1, where figures like Tim Kant and the Fairhope City Council used their authority to inflict millions in financial damages through negligent or dishonest legal settlements (Dyas, Triangle) and ongoing litigation (Breland case, potentially $10 million).
-
-      KEY ENTITIES:
-      Robert Wilters
-      Anthony Lowery (Baldwin County Sheriff)
-      Huey Mack (former Baldwin County Sheriff)
-      David Whetstone (former Baldwin County DA)
-      Murray Lawrence Jr.
-      Tim Kant (former Mayor, Fairhope)
-      Mayor Timmy
-      Boone and Burrell (Fairhope council)
-      Jack Burrell (Council President)
-      Robinson and Conyers (Fairhope councilmen)
-      Mr. Buddy Breland
-      Attorney O’Rear
-      BCSO
-      Fairhope City Council
-    llm_text: Murray Lawrence Jr. spent over 20 years wrongfully convicted after David Whetstone and Huey Mack suppressed key evidence. This prosecutorial misconduct mirrors the $11.25 million Dyas, Triangle settlement driven by Fairhope City Council figures like Tim Kant and Mayor Timmy.
-    widget_date: "2025-07-30"
-    generated_at: "2026-11-06T13:33:12.366212Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: 2527447f74479b7e07555c9626c6a6c05b6196aa76ce13dad2d64c21ad76f75e
     brief: |-
       THE CONFLICT: Dyas, Triangle lawsuit/land purchase led to a false "WIN" claim by Mayor Tim Kant and then council members Boone and Burrell, costing Fairhope $11.25 million (could have been under $1 million).
       THE DISCOVERY: Widget Article reveals Jack Burrell is identified as the "absolutely worst City Councilman," a "classic bully," and the council contact for "good ole boys, developers" and economic development projects, detailing his reputation for corruption (e.g., Publix Project, Triangle, Airport contracts).
       THE PIVOT: Burrell’s established history of corruption and influence over developers (Widget Article) provides context for his involvement in the Dyas Triangle misrepresentation and the resulting $11.25 million taxpayer loss (Main Article).
       KEY ENTITIES: Jack Burrell, Sherry Sullivan, Tim Kant (former Mayor), Boone, Catalyst Council, Mr. Buddy Breland, O’Rear (attorney), Karen Wilson (former Mayor), Lagniappe Mobile, Fairhope City Council, Dyas, Triangle.
     llm_text: Jack Burrell is identified as a "classic bully" and corrupt contact for developers like in the Publix and Triangle projects. His history explains how the Fairhope City Council falsely claimed a win on the Dyas Triangle lawsuit, costing taxpayers $11.25 million.
+    text: Jack Burrell acted as a bully and a friendly contact for developers on the Publix and Triangle projects. Why did the Fairhope City Council lie about winning a lawsuit that cost taxpayers $11.25 million?
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T13:34:00.533527Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: 6c74e0d0865dc8bd3583b58f1cfb8aba67b7ba7c32928548d9eb39f3cc11bc29
     brief: |-
       THE CONFLICT:
       *   The Dyas, Triangle lawsuit cost Fairhope taxpayers $11.25 million.
@@ -77,6 +53,36 @@ hooks:
       *   Parker Road / U. S. Highway 98 / Hwy 181
       *   Municipal Judge (appointed by SBC)
     llm_text: Scott Boone Consulting (SBC) ran a political cabal in Fairhope, controlling appointments like the Municipal Judge. This structure drove the $11.25 million Dyas/Triangle lawsuit losses and jeopardizes $10 million in the Breland case.
+    text: Scott Boone Consulting ran a political group in Fairhope that controlled key jobs like the Municipal Judge. This exact control caused $11.25 million in losses from the Dyas and Triangle lawsuits.
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T13:35:24.068626Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    refined_source: 115243b738ba98ae0ccf220d236a2d51554674d374fba99d2d85d2d2267de21f
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted in a 2005 capital murder trial after spending over 20 years in prison. Separately, the Dyas, Triangle lawsuit cost Fairhope $11.25 million, having been settled by Mayor Timmy and council members Boone and Burrell.
+
+      THE DISCOVERY: Article 2 revealed that key exculpatory evidence was suppressed, and the prosecution (led by David Whetstone and Huey Mack) coerced false confessions, falsely claiming the victim was shot in Alabama when autopsy proved strangulation in Mississippi.
+
+      THE PIVOT: Article 2 demonstrates a pattern of profound prosecutorial and law enforcement misconduct (suppressed evidence, false narratives) by local figures (Wilters, Lowery, Mack, Whetstone). This pattern mirrors the financial and political corruption in Article 1, where figures like Tim Kant and the Fairhope City Council used their authority to inflict millions in financial damages through negligent or dishonest legal settlements (Dyas, Triangle) and ongoing litigation (Breland case, potentially $10 million).
+
+      KEY ENTITIES:
+      Robert Wilters
+      Anthony Lowery (Baldwin County Sheriff)
+      Huey Mack (former Baldwin County Sheriff)
+      David Whetstone (former Baldwin County DA)
+      Murray Lawrence Jr.
+      Tim Kant (former Mayor, Fairhope)
+      Mayor Timmy
+      Boone and Burrell (Fairhope council)
+      Jack Burrell (Council President)
+      Robinson and Conyers (Fairhope councilmen)
+      Mr. Buddy Breland
+      Attorney O’Rear
+      BCSO
+      Fairhope City Council
+    llm_text: Murray Lawrence Jr. spent over 20 years wrongfully convicted after David Whetstone and Huey Mack suppressed key evidence. This prosecutorial misconduct mirrors the $11.25 million Dyas, Triangle settlement driven by Fairhope City Council figures like Tim Kant and Mayor Timmy.
+    text: Murray Lawrence Jr. spent more than 20 years in prison because David Whetstone and Huey Mack hid key evidence. How does this old prosecutorial misconduct match the $11.25 million settlement caused by Tim Kant and Timmy?
+    widget_date: "2025-07-30"
+    generated_at: "2026-11-06T13:33:12.366212Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

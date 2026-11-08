@@ -1,0 +1,31 @@
+metadata:
+  generated_at: "2026-11-07T11:58:41.666677Z"
+  generator_version: 1.0.0
+  post_slug: winner-and-loser
+  main_date: "2021-01-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  quarterback-sneak:
+    refined_source: 712a391641446b61fe61ab99188717ea3ee216b62f70c90d45f7685fec8d0221
+    brief: |-
+      THE CONFLICT: Jack Burrell used City Council to swear in Municipal Judge Haymes Snedeker in Fairhope, Baldwin County.
+      THE DISCOVERY: Burrell and his workers spent $2.65 million on recreation land and $600,000 on the town clock. Judge Snedeker, a major developer, was dependent on City Council authorization for developments; he attempted to reverse zoning approval for his property. Ronan McSharry escaped prosecution for the assault on Paula DiNardi, and Municipal Attorney Marcus McDowell failed to address his responsibilities.
+      THE PIVOT: The historical evidence of corruption (Burrell/Snedeker) in Alabama provides a contrast to Nick Saban's documented ethics and principle, specifically contrasting this local political failure with the national criticism against Congressman Tommy Tuberville for contributing to "inciting insurrection."
+      KEY ENTITIES: Nick Saban, Alabama Football, Tommy Tuberville, Jack Burrell, Haymes Snedeker, Ronan McSharry, Marcus McDowell, Paula DiNardi, Fairhope City Council, Scott Boone Consulting, Cory Martin.
+    llm_text: Jack Burrell used Fairhope City Council to swear in developer Haymes Snedeker amid $3.25M in recreation land spending. This local corruption contrasts sharply with Nick Saban’s ethics, highlighting how local politics impact national conversations like those involving Tommy Tuberville.
+    text: Jack Burrell used the Fairhope City Council to swear in developer Haymes Snedeker. Why did the city spend millions on recreation land?
+    widget_date: "2021-01-11"
+    generated_at: "2026-11-07T11:57:16.067963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-suicide:
+    refined_source: cacaf4409ab9b932fb43f19365ea5774d3b5b62caa31762f938f82e95fa27bbd
+    brief: |-
+      THE CONFLICT: January 6th assault on the Capitol; Electoral College confirmed Biden/Harris win; President Trump and Rudy Giuliani encouraged crowds to contest the election (over 250,000 attendees); multiple Alabama politicians contested the Electoral College.
+      THE DISCOVERY: Article 2 showed that Congressmen Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, and Gary Palmer, along with newly sworn Senator Tommy Tuberville, contested the Electoral College by blindly following the leader, leading to Tuberville being warned against by Richard Shelby and Mitch McConnell and predicted to be ostracized for six years.
+      THE PIVOT: Article 2 establishes Tommy Tuberville's "infamous" legacy tied to inciting insurrection on January 6th; Article 1 contrasts this negative legacy against Nick Saban’s legacy of Leadership, Ethics, Transparency, and Principle, diminishing the negative attention Tuberville caused for Alabama.
+      KEY ENTITIES: Nick Saban, Tommy Tuberville, Alabama Football, Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt, Gary Palmer, Richard Shelby, Mitch McConnell, Auburn.
+    llm_text: Tommy Tuberville and Alabama colleagues, including Barry Moore and Gary Palmer, blindly contested the Electoral College following the January 6th insurrection. How does this political legacy compare to Nick Saban's proven standard of Leadership, Ethics, and Principle at Auburn?
+    text: Tommy Tuberville and Alabama lawmakers contested the 2020 election results. How does this political record compare to standard leadership ethics?
+    widget_date: "2021-01-08"
+    generated_at: "2026-11-07T11:58:22.347524Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

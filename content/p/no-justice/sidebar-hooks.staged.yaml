@@ -5,39 +5,6 @@ metadata:
   main_date: "2024-01-26"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  deaf-ears:
-    brief: |-
-      THE CONFLICT:
-      1. 2003 murder of Brandon Hastings in Baldwin County.
-      2. Murray Lawrence Jr. was sentenced to life without parole for the 2003 murder.
-      3. Judge Robert Wilters (Baldwin County DA) and Sheriff Hoss Mack (Lead Investigator) and prosecutor David Whetstone signed a coroners report regarding the exhumation of Brandon Hastings.
-      4. This coroners report, which supports suffocation as the cause of death (not gunshot), was willfully suppressed and not provided to the defense during the trial.
-
-      THE DISCOVERY:
-      1. Article 2 (DEAF EARS) detailed research into the wrongful conviction of Murray Lawrence (2005).
-      2. Article 2 established a 30+ year "cozy, unhealthy relationship" between Judge Robert Wilters, Sheriff Hoss Mack, and prosecutor David Whetstone, linking them to political corruption in Baldwin County.
-      3. Article 2 confirmed that Mack and Whetstone had knowledge of Murray Lawrence’s innocence and the collusion to withhold vital information, including the Coroners Report.
-
-      THE PIVOT:
-      1. Article 2 provides historical proof that the same officials (Wilters, Mack, Whetstone) were involved in a proven wrongful conviction (Lawrence, 2005).
-      2. This established pattern of collusion and evidence suppression links the current withholding of the Brandon Hastings coroners report (Article 1) not to an inadvertent error, but to a systemic, deliberate act of corruption by the Baldwin County judicial and law enforcement apparatus.
-
-      KEY ENTITIES:
-      1. Murray Lawrence Jr.
-      2. Brandon Hastings
-      3. Robert Wilters (Judge/DA)
-      4. Hoss Mack (Sheriff/Lead Investigator)
-      5. David Whetstone (Prosecutor)
-      6. Haygood Kristi Deason (Assistant Baldwin County DA/Filer)
-      7. Scott P Taylor (Circuit Court Judge)
-      8. Steve Marshall
-      9. Tom Albrittion (Alabama Ethics Commission Executive Director)
-      10. Jarius McNeil
-      11. Kathleen Gordon
-    llm_text: Robert Wilters, Hoss Mack, and David Whetstone suppressed the Brandon Hastings coroners report, hiding the true cause of death. Their history of corrupt collusion, proven by the Murray Lawrence Jr. wrongful conviction, shows this was deliberate systemic corruption.
-    widget_date: "2024-01-21"
-    generated_at: "2026-11-06T18:22:29.035874Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   tides-end:
     brief: |-
       THE CONFLICT:
@@ -102,10 +69,12 @@ hooks:
       - Daphne
       - Bass Pro Shop
     llm_text: Murray “Bubba” Lawrence Jr. got life without parole for killing Brandon Hastings, but a second autopsy nobody knew about points to suffocation. Prosecutor David Whetstone pushed a gunshot theory while Judge Robert Wilters hid the report, and now Alabama’s top prosecutor says withheld Brady evidence isn’t reversible.
+    text: Murray “Bubba” Lawrence Jr. got life without parole for killing Brandon Hastings, but a second autopsy nobody knew about points to suffocation. Prosecutor David Whetstone pushed a gunshot theory while Judge Robert Wilters hid the report, and now Alabama’s top prosecutor says withheld Brady evidence isn’t reversible.
     widget_date: "2024-01-18"
     generated_at: "2026-11-06T18:22:54.406178Z"
     model_name: recursive/flint-v1.0:free
   rule-32:
+    refined_source: de4a50aa504f12720206d8b21bf4191a841ae74c5827e0ace0cbb2677b315a1e
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. was sentenced to life without parole in 2003 for the murder of Brandon Hastings in Baldwin County.
@@ -129,6 +98,7 @@ hooks:
       Jarius McNeil
       Debra Fudge
     llm_text: DA Robert Wilters and prosecutor David Whetstone suppressed a second autopsy proving Brandon Hastings suffocated, not died from a gunshot. This evidence challenges Murray Lawrence Jr.'s life sentence, fueling a Rule 32 petition against Hoss Mack and Judge Wilters.
+    text: DA Robert Wilters and prosecutor David Whetstone suppressed an autopsy proving Brandon Hastings suffocated. This evidence challenges Murray Lawrence Jr.'s life sentence today.
     widget_date: "2023-12-14"
     generated_at: "2026-11-06T18:23:27.907100Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -151,33 +121,74 @@ hooks:
       - Jarius McNeil
       - Mack Funeral Home
       - Baldwin County Sheriff's Office (BCSO)
-    llm_text: Was Murray "Bubba" Lawrence’s 2003 murder conviction doomed by a rigged system? Discover how Sheriff Hoss Mack and local officials suppressed crucial evidence to shield the Baldwin County Sheriff's Office from accountability for decades.
+    llm_text: Was Murray "Bubba" Lawrence’s 2003 murder conviction doomed by a rigged system? Read how Sheriff Hoss Mack and local officials suppressed crucial evidence to shield the Baldwin County Sheriff's Office from accountability for decades.
+    text: Was Murray "Bubba" Lawrence’s 2003 murder conviction doomed by a rigged system? Read how Sheriff Hoss Mack and local officials suppressed crucial evidence to shield the Baldwin County Sheriff's Office from accountability for decades.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T18:21:29.445490Z"
     model_name: gemini-3.5-flash-lite
   judge-vs-sheriff:
+    refined_source: 490b7ad75c4db7a5208fb565501b028a8f73389dec798ba7d59cceccef4aecbf
     brief: |-
       THE CONFLICT: 2003 murder of Brandon Hastings; Murray Lawrence Jr sentenced to life without parole; Hoss Mack Sr. was Baldwin County coroner.
       THE DISCOVERY: Widget Article established Hoss Mack's influence over judges and DA Robert Wilters over a 30+ year relationship; Pittman sponsored SB 312 (10 years prior to Widget context timeframe) to limit Sheriff qualifications; 2021 ruling in Lagniappe v. Mack granted privilege to law enforcement records.
       THE PIVOT: Widget Article establishes the pattern of political influence and lack of accountability involving Hoss Mack and Robert Wilters, context for their alleged willful suppression of the second autopsy report in the 2003 Hastings case described in Article 1.
       KEY ENTITIES: Hoss Mack, Robert Wilters, David Whetstone, Brandon Hastings, Murray Lawrence Jr, Scott P Taylor, Haygood Kristi Deason, Pittman, BCSO, John Wayne Mixon, Debra Fudge, Wendall Thomas
     llm_text: Hoss Mack's influence over judges and DA Robert Wilters may explain why the 2003 Brandon Hastings murder autopsy was suppressed. See how this 30-year pattern of political power shielded figures like Mack from accountability.
+    text: Hoss Mack's influence over judges and DA Robert Wilters may explain the suppressed autopsy in the 2003 Brandon Hastings murder. Political power has shielded figures like Mack for decades.
     widget_date: "2023-09-22"
     generated_at: "2026-11-06T18:21:24.995216Z"
     model_name: plugsky-lite
   boss-sheriff:
+    refined_source: ed5d7001fee25d9b34569a754ecc3080461ea0428a7c41743b332a93dd4b6676
     brief: |-
       THE CONFLICT: 2003 murder of a Baldwin County man (Brandon Hastings) and Murray Lawrence Jr. sentenced to life without parole after the 2003 murder.
       THE DISCOVERY: Article 2 (Widget) establishes a pattern of influence: BCSO (Hoss Mack) directs the District Attorney and influences judicial appointments in Baldwin County.
       THE PIVOT: Article 2 provides context that the alleged evidence suppression in the Murray Lawrence case (Article 1) was not an error but part of a systemic pattern of misconduct originating from Sheriff Hoss Mack's influence over local judicial and prosecutorial powers (Robert Wilters/DA).
       KEY ENTITIES: Hoss Mack, Robert Wilters, David Whetstone, Murray Lawrence Jr., Brandon Hastings, Haygood Kristi Deason, Judge Scott P Taylor, BCSO, Jarius McNeil, Wendall Thomas.
-    llm_text: Hoss Mack allegedly steered the Baldwin County DA and judicial picks, connecting the 2003 Brandon Hastings murder to the Murray Lawrence case. See how this systemic influence impacts local justice now.
+    llm_text: Hoss Mack steered the Baldwin County DA and judicial picks, connecting the 2003 Brandon Hastings murder to the Murray Lawrence case. See how this systemic influence impacts local justice now.
+    text: Hoss Mack steered Baldwin County district attorney and judicial picks for years. See how this political influence impacts local justice and connects to past murder cases now.
     widget_date: "2023-09-09"
     generated_at: "2026-11-06T18:21:51.355961Z"
     model_name: plugsky-lite
   rumors:
     brief: "THE CONFLICT: \n- On April 5, 2003, Brandon Hastings was murdered in Baldwin County, Alabama. \n- Murray \"Bubba\" Lawrence Jr. was convicted of the murder and sentenced to life without parole more than 18 years ago.\n- In April 2021, Jonathan Victor was shot four times and killed by Sheriff's Deputy Hunady.\n- On August 20, 2023, 32-year-old O.J. French was pulled over for a vehicle equipment violation and shot and killed by Bay Minette Police officer Brandon Thompson.\n\nTHE DISCOVERY: \n- Criminal rights advocates unearthed a second autopsy report for victim Brandon Hastings that proved the cause of death was suffocation, not a gunshot wound as claimed by the prosecution.\n- The coroner's report was ordered by the District Attorney and signed by the judge overseeing the case, but was never provided to the defense during the original trial.\n- Regarding historical police misconduct in Baldwin County, the Baldwin County Major Crimes Unit (BCMCU) investigated nine officer-involved deaths, clearing law enforcement in all previous eight instances and withholding camera footage from the public.\n- In the Jonathan Victor case, Judge William Cassady denied qualified immunity to Deputy Hunady and Sheriff Hoss Mack, ruling that the Sheriff provided untrue facts in court regarding the unarmed victim being shot from 7 yards away.\n- The Alabama Supreme Court upheld a Baldwin County ruling allowing the Baldwin County Sheriff's Office to withhold investigative records, dash cams, and body camera footage related to the 2017 Jonathan Victor shooting from media outlets like Lagniappe Mobile, despite closed investigations.\n\nTHE PIVOT: \n- The older historical context reveals a long-standing pattern and systemic practice within the Baldwin County Sheriff's Office (BCSO) and local justice system of suppressing exculpatory evidence, hiding investigative files, and generating false or misleading narratives to cover up police and prosecutorial misconduct (evident in both the 2003 Murray Lawrence murder trial suppression and the modern BCMCU/BCSO cover-ups of officer-involved shootings).\n\nKEY ENTITIES: \n- Murray \"Bubba\" Lawrence Jr.\n- Brandon Hastings\n- Robert Wilters (District Attorney, former Judge)\n- Hoss Mack (Sheriff, former lead investigator, former Lt. Hoss Mack)\n- David Whetstone (Prosecutor)\n- Kristi Deason Haygood (Assistant District Attorney)\n- Scott P. Taylor (Circuit Court Judge)\n- Jarius McNeil\n- O.J. French\n- Brandon Thompson\n- Jonathan Victor\n- Hunady (Sheriff Deputy)\n- Al Tolbert (Bay Minette Police Chief)\n- William Cassady (Judge)\n- Sam White (Rev.)"
     llm_text: For two decades, Baldwin County officials hid autopsy reports and suppressed evidence to convict Murray Lawrence. Now, that same entrenched playbook of police cover-ups protects officers in fatal shootings like O.J. French's. Read the full investigation.
+    text: For two decades, Baldwin County officials hid autopsy reports and suppressed evidence to convict Murray Lawrence. Now, that same entrenched playbook of police cover-ups protects officers in fatal shootings like O.J. French's. Read the full investigation.
     widget_date: "2022-10-15"
     generated_at: "2026-11-06T18:21:46.542708Z"
     model_name: gemini-3.5-flash-lite
+  deaf-ears:
+    refined_source: f9dec1666dc168b0f79e7ba615433e11598ddb80827a29314fa7b86c02e2b3fe
+    brief: |-
+      THE CONFLICT:
+      1. 2003 murder of Brandon Hastings in Baldwin County.
+      2. Murray Lawrence Jr. was sentenced to life without parole for the 2003 murder.
+      3. Judge Robert Wilters (Baldwin County DA) and Sheriff Hoss Mack (Lead Investigator) and prosecutor David Whetstone signed a coroners report regarding the exhumation of Brandon Hastings.
+      4. This coroners report, which supports suffocation as the cause of death (not gunshot), was willfully suppressed and not provided to the defense during the trial.
+
+      THE DISCOVERY:
+      1. Article 2 (DEAF EARS) detailed research into the wrongful conviction of Murray Lawrence (2005).
+      2. Article 2 established a 30+ year "cozy, unhealthy relationship" between Judge Robert Wilters, Sheriff Hoss Mack, and prosecutor David Whetstone, linking them to political corruption in Baldwin County.
+      3. Article 2 confirmed that Mack and Whetstone had knowledge of Murray Lawrence’s innocence and the collusion to withhold vital information, including the Coroners Report.
+
+      THE PIVOT:
+      1. Article 2 provides historical proof that the same officials (Wilters, Mack, Whetstone) were involved in a proven wrongful conviction (Lawrence, 2005).
+      2. This established pattern of collusion and evidence suppression links the current withholding of the Brandon Hastings coroners report (Article 1) not to an inadvertent error, but to a systemic, deliberate act of corruption by the Baldwin County judicial and law enforcement apparatus.
+
+      KEY ENTITIES:
+      1. Murray Lawrence Jr.
+      2. Brandon Hastings
+      3. Robert Wilters (Judge/DA)
+      4. Hoss Mack (Sheriff/Lead Investigator)
+      5. David Whetstone (Prosecutor)
+      6. Haygood Kristi Deason (Assistant Baldwin County DA/Filer)
+      7. Scott P Taylor (Circuit Court Judge)
+      8. Steve Marshall
+      9. Tom Albrittion (Alabama Ethics Commission Executive Director)
+      10. Jarius McNeil
+      11. Kathleen Gordon
+    llm_text: Robert Wilters, Hoss Mack, and David Whetstone suppressed the Brandon Hastings coroners report, hiding the true cause of death. Their history of corrupt collusion, proven by the Murray Lawrence Jr. wrongful conviction, shows this was deliberate systemic corruption.
+    text: Robert Wilters, Hoss Mack, and David Whetstone suppressed the Brandon Hastings coroner report. Their history of collusion shows deliberate systemic corruption inside the justice system.
+    widget_date: "2024-01-21"
+    generated_at: "2026-11-06T18:22:29.035874Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

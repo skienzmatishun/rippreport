@@ -5,59 +5,8 @@ metadata:
   main_date: "2026-01-21"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  foot-in-his-mouth:
-    brief: |-
-      THE CONFLICT:
-      1. Murray Lawrence Jr. experienced a wrongful conviction; Hoss Mack was the lead investigator.
-      2. Hoss Mack is implicated in a BCSO cover-up regarding an officer having an extramarital affair with a subordinate female employee.
-      3. Chris Elliott established a 'good ole boy culture' in Baldwin County, serving as the legislature puppet for Hoss Mack and Anthony Lowery.
-      4. Chris Elliott bypassed the Baldwin County Legislature to pass legislation beneficial to developers, restricting municipal police/planning jurisdictions.
-
-      THE DISCOVERY:
-      1. Chris Elliott, the Senator, leverages political influence (e.g., his wife securing a sheriff department job) to maintain control over local governance while claiming no conflict of interest.
-      2. Elliott's influence is tied directly to Hoss Mack and Anthony Lowery.
-
-      THE PIVOT:
-      1. Article 2 establishes the long-term systemic pattern of unchecked political influence and 'good ole boy culture' (Hoss Mack/Chris Elliott).
-      2. This established culture provides the foundational context for the lack of transparency, accountability, and alleged internal cover-ups within the BCSO detailed in Article 1.
-
-      KEY ENTITIES:
-      1. Hoss Mack
-      2. Chris Elliott (Senator)
-      3. Murray Lawrence Jr.
-      4. Robert Wilters (DA/presiding judge)
-      5. Anthony Lowery
-      6. Baldwin County Sheriff's Department (BCSO)
-      7. Matt Franklin (City Council of Bay Minette)
-    llm_text: Senator Chris Elliott and Hoss Mack built a 'good ole boy culture' in Baldwin County, which facilitated the BCSO cover-up linked to Murray Lawrence Jr.'s wrongful conviction. Discover how unchecked political influence allowed this system of unaccountability to thrive.
-    widget_date: "2026-01-18"
-    generated_at: "2026-11-06T10:13:21.894162Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  CAMPAIGN-KICKOFF-RECEPTION:
-    brief: |-
-      THE CONFLICT:
-      *   Wrongful conviction of Murray Lawrence Jr. occurred.
-      *   Hoss Mack served as the lead investigator for the Lawrence case.
-      *   Robert Wilters (DA) served as the presiding judge over the "kangaroo court" for the Lawrence case.
-
-      THE DISCOVERY:
-      *   Article 2 documented Matt McKenzie's Campaign Kickoff Reception involving BCSO.
-      *   Article 2 provides historical context regarding BCSO's political and electoral involvement prior to the current internal scandals.
-
-      THE PIVOT:
-      *   Article 2 demonstrates a historical pattern of BCSO involvement in political/electoral activities (Matt McKenzie) that reinforces the claim in Article 1 that the BCSO under Hoss Mack lacks transparency, supervision, and accountability.
-
-      KEY ENTITIES:
-      *   Baldwin County Sheriff's Department (BCSO)
-      *   Hoss Mack
-      *   Murray Lawrence Jr.
-      *   Robert Wilters
-      *   Matt McKenzie
-    llm_text: Hoss Mack’s BCSO oversaw the wrongful conviction of Murray Lawrence Jr. New evidence about Matt McKenzie's reception reveals BCSO has a history of opaque political involvement.
-    widget_date: "2026-01-15"
-    generated_at: "2026-11-06T10:15:14.807580Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-law-enforcement-narrative-2:
+    refined_source: def3dc7f0705fe6150a70b9d8726dfbe70a750b499a25486ee68584e7345f4ee
     brief: |-
       THE CONFLICT:
       *   Wrongful conviction of Murray Lawrence Jr. (Hoss Mack lead investigator, Robert Wilters presiding judge).
@@ -81,10 +30,12 @@ hooks:
       *   Scott Johnson (Lagniappe Newspaper)
       *   Bay Minette Justice League
     llm_text: Murray Lawrence Jr.'s wrongful conviction exposes a deep pattern of cover-ups under BCSO Sheriff Huey Mack. His unit mishandled cases like Peyton Little's, proving why we must investigate his current alleged cover-up.
+    text: Murray Lawrence Jr. suffered a wrongful conviction during the term of Sheriff Huey Mack. His unit also mishandled the case of Peyton Little. These failures demand an investigation into current misconduct.
     widget_date: "2025-09-10"
     generated_at: "2026-11-06T10:16:17.265025Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   russian-roulette-fairhope-style-rerun:
+    refined_source: bb70dc527e942388f71cc6fd51939bbf88b8f4e5aca820bc946c3e9dd595a13c
     brief: |-
       THE CONFLICT:
       *   Former Mayor Tim Kant led Fairhope through the Dyas, Triangle lawsuit, which the city falsely claimed was a "WIN."
@@ -111,10 +62,12 @@ hooks:
       *   Buddy Breland
       *   BCSO (Baldwin County Sheriff's Department)
     llm_text: Former Mayor Tim Kant led Fairhope to lose the Dyas, Triangle lawsuit for $11.25 million, despite claiming a "win." This historical mismanagement mirrors current BCSO cover-up allegations involving Hoss Mack, showing a pattern of institutional failure.
+    text: Former Mayor Tim Kant led Fairhope into an 11.25 million dollar lawsuit loss while claiming a win. This historical failure matches current cover-up claims against Sheriff Hoss Mack.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T10:17:27.551602Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-good-the-bad-and-the-ugly-repost:
+    refined_source: 75f82118864f1ea224aaa4c5e20bf760c06549bf48336890a19a7cd5f92f0652
     brief: |-
       THE CONFLICT:
       1. Murray Lawrence Jr. was involved in a wrongful conviction case where Hoss Mack was the lead investigator.
@@ -141,20 +94,24 @@ hooks:
       8. Breland (Developer)
       9. McSharry (Ronan McSharry)
     llm_text: Hoss Mack investigated Murray Lawrence Jr.'s wrongful conviction, while Council members Boone and Burrell refused to settle the $11.25 million Triangle Lawsuit. These cases reveal a long history of local obstruction and financial mismanagement in Fairhope.
+    text: Sheriff Hoss Mack investigated the wrongful conviction of Murray Lawrence Jr. At the same time, Council members Boone and Burrell refused to settle the 11.25 million dollar Triangle Lawsuit. These cases show a long history of local financial mismanagement.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T10:14:13.822151Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   5000-00-cash-reward-rerun:
+    refined_source: bd856579fedd3379c3286261c510ab96e34528e639e62b0f40cd02cf5cb1a8b6
     brief: |-
       THE CONFLICT: Wrongful conviction case of Murray Lawrence Jr.; Hoss Mack was the lead investigator; Robert Wilters was the presiding judge.
       THE DISCOVERY: Complaint against Councilman Jack Burrell of Fairhope alleged he and family received free airplane transportation from a winning bidder while serving as an elected official.
       THE PIVOT: Article 2 establishes a pattern of unaccountability and alleged misuse of public position (Burrell/Fairhope); this context mirrors the lack of transparency and cover-ups within the Baldwin County Sheriff's Department (BCSO) detailed in Article 1.
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr., Robert Wilters, Jack Burrell, BCSO, Fairhope Airport, BCLE.
     llm_text: Murray Lawrence Jr.'s wrongful conviction, investigated by Hoss Mack, exposes deep issues within Baldwin County. This mirrors allegations that Councilman Jack Burrell received free airplane rides, revealing a pattern of unaccountability in public office.
+    text: The wrongful conviction investigated by Hoss Mack exposes deep failures in Baldwin County. Did Councilman Jack Burrell accept free airplane rides in another local ethics breach?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T10:18:27.589191Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   deja-vu:
+    refined_source: 8e62a2b2e1e20733777c274b121157af4d3889707e7ad5a317b3df63a1928fdb
     brief: |-
       THE CONFLICT:
       *   Wrongful conviction of Murray Lawrence Jr. (Hoss Mack was lead investigator; Robert Wilters was presiding DA/Judge).
@@ -182,6 +139,63 @@ hooks:
       *   Scott Boone
       *   Kevin Boone
     llm_text: Scott Boone Consulting built a political cabal controlling Fairhope and Baldwin County. This systemic corruption fueled the $3 million Triangle Lawsuit and the wrongful conviction of Murray Lawrence Jr.
+    text: Scott Boone Consulting built a political machine that controls Fairhope and Baldwin County. How did this systemic corruption lead to the 3-million-dollar Triangle Lawsuit?
     widget_date: "2025-07-02"
     generated_at: "2026-11-06T10:19:21.065958Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  foot-in-his-mouth:
+    refined_source: 3d899767ffde0a479c5dc3fa68124e8f3dbd971ba80131e83c66d2e39e5bcfbb
+    brief: |-
+      THE CONFLICT:
+      1. Murray Lawrence Jr. experienced a wrongful conviction; Hoss Mack was the lead investigator.
+      2. Hoss Mack is implicated in a BCSO cover-up regarding an officer having an extramarital affair with a subordinate female employee.
+      3. Chris Elliott established a 'good ole boy culture' in Baldwin County, serving as the legislature puppet for Hoss Mack and Anthony Lowery.
+      4. Chris Elliott bypassed the Baldwin County Legislature to pass legislation beneficial to developers, restricting municipal police/planning jurisdictions.
+
+      THE DISCOVERY:
+      1. Chris Elliott, the Senator, leverages political influence (e.g., his wife securing a sheriff department job) to maintain control over local governance while claiming no conflict of interest.
+      2. Elliott's influence is tied directly to Hoss Mack and Anthony Lowery.
+
+      THE PIVOT:
+      1. Article 2 establishes the long-term systemic pattern of unchecked political influence and 'good ole boy culture' (Hoss Mack/Chris Elliott).
+      2. This established culture provides the foundational context for the lack of transparency, accountability, and alleged internal cover-ups within the BCSO detailed in Article 1.
+
+      KEY ENTITIES:
+      1. Hoss Mack
+      2. Chris Elliott (Senator)
+      3. Murray Lawrence Jr.
+      4. Robert Wilters (DA/presiding judge)
+      5. Anthony Lowery
+      6. Baldwin County Sheriff's Department (BCSO)
+      7. Matt Franklin (City Council of Bay Minette)
+    llm_text: Senator Chris Elliott and Hoss Mack built a 'good ole boy culture' in Baldwin County, which facilitated the BCSO cover-up linked to Murray Lawrence Jr.'s wrongful conviction. Read how unchecked political influence allowed this system of unaccountability to thrive.
+    text: Senator Chris Elliott and Hoss Mack built a powerful political machine in Baldwin County. How did their influence enable the cover-up behind Murray Lawrence Jr.'s wrongful conviction?
+    widget_date: "2026-01-18"
+    generated_at: "2026-11-06T10:13:21.894162Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  CAMPAIGN-KICKOFF-RECEPTION:
+    refined_source: 5b949911a6fd7f03265dcc9848ae3bc4f4d8563b159cf658ae1df80423481f7c
+    brief: |-
+      THE CONFLICT:
+      *   Wrongful conviction of Murray Lawrence Jr. occurred.
+      *   Hoss Mack served as the lead investigator for the Lawrence case.
+      *   Robert Wilters (DA) served as the presiding judge over the "kangaroo court" for the Lawrence case.
+
+      THE DISCOVERY:
+      *   Article 2 documented Matt McKenzie's Campaign Kickoff Reception involving BCSO.
+      *   Article 2 provides historical context regarding BCSO's political and electoral involvement prior to the current internal scandals.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a historical pattern of BCSO involvement in political/electoral activities (Matt McKenzie) that reinforces the claim in Article 1 that the BCSO under Hoss Mack lacks transparency, supervision, and accountability.
+
+      KEY ENTITIES:
+      *   Baldwin County Sheriff's Department (BCSO)
+      *   Hoss Mack
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Matt McKenzie
+    llm_text: Hoss Mack’s BCSO oversaw the wrongful conviction of Murray Lawrence Jr. New evidence about Matt McKenzie's reception reveals BCSO has a history of opaque political involvement.
+    text: Hoss Mack's department oversaw the wrongful conviction of Murray Lawrence Jr. What does new evidence regarding Matt McKenzie reveal about opaque political deals inside the Sheriff's Office?
+    widget_date: "2026-01-15"
+    generated_at: "2026-11-06T10:15:14.807580Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

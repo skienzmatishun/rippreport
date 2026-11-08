@@ -1,0 +1,130 @@
+metadata:
+  generated_at: "2026-11-07T12:26:12.985236Z"
+  generator_version: 1.0.0
+  post_slug: a-long-strange-day-jan-6-2021
+  main_date: "2021-01-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: a69157c06ded98f486d2642b257676351c60db1c16be64fb21905868f4dfb713
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building occurred on Jan 6, 2021.
+      THE DISCOVERY: Backstory Podcast No. 186 (newer episode) covers the 2024 US Presidential election results, Trump Cabinet 2.0, and news from Alabama (closing of rural hospitals, changes to hunting seasons).
+      THE PIVOT: There is no factual connection between the Jan 6, 2021 events and the topics in Podcast No. 186; both subjects are merely covered by the Backstory Podcast platform.
+      KEY ENTITIES: US Capitol Building, Jan 6, 2021, Backstory Podcast, Alabama, Google, Trump Cabinet 2.0
+    llm_text: Backstory Podcast No. 186 tackles the 2024 Presidential election results and the planned Trump Cabinet 2.0. Hear crucial updates from Alabama, including rural hospital closures and changes to hunting seasons.
+    text: Backstory Podcast No. 186 breaks down the 2024 election and Trump's Cabinet 2.0. Plus, get brutal updates on rural hospital closures and changing hunting seasons right here in Alabama.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T12:21:14.055246Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: 67537496d8c82470768384ee9963c219d9244ec52685ea05f6c7e6130f91fd7f
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building, Jan 6, 2021.
+
+      THE DISCOVERY: Article 2 provides current updates on Alabama local governance, including Governor Ivey calling for the resignation of the Veteran's Affairs Commissioner for Alabama and the Fairhope $9.5M pier remodel.
+
+      THE PIVOT: Article 2 contains no facts or context relating to the Jan 6, 2021 insurrection or its consequences; the articles cover separate, non-connected events.
+
+      KEY ENTITIES: Governor Ivey, Veteran's Affairs Commissioner for Alabama, Fairhope, Baldwin County, City of Bay Minette, OJ French Jr, BMPD Officer Brandon Thompson, Mobile Attorney Andy Ruten, Mayor Bob Wills, Southern Research (Institute).
+    llm_text: Governor Ivey demands the Veteran's Affairs Commissioner resign over local governance issues. See how Fairhope tackles its $9.5M pier remodel and updates from Baldwin County leadership.
+    text: Governor Ivey demanded the Veteran's Affairs Commissioner resign over gross mismanagement. Watch how Fairhope handles its $9.5M pier remodel while leadership looks the other way.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T12:17:05.749537Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: af0eda25d1048d3a5ee9375ddb2b90801c3e1fcb1b3852b75257cdb373e32db3
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building occurred on January 6, 2021.
+      THE DISCOVERY: An ongoing investigation into the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama, occurred on May 27, 2022; body recovered May 29, 2022.
+      THE PIVOT: Article 2 documents unrelated events (e.g., Pete Rose passing, Rescue the Republic Rally in DC on May 29, 2022) and contains no factual evidence connecting the May 2022 events to the January 6, 2021, insurrection.
+      KEY ENTITIES: US Capitol, January 6, 2021, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Pete Rose, Katie Britt, Adm. Kent Davis, Rescue the Republic Rally, Montgomery Alabama Mayor.
+    llm_text: The death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama, does not connect to the January 6, 2021, US Capitol storming. The May 2022 investigation holds no factual evidence linking those separate events.
+    text: The tragic death of Thomas Daniel "Danny" Williams Jr. in Orange Beach has zero to do with January 6. Stop buying the official narrative when local investigations hide real evidence.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T12:22:23.458623Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 6c09ac663b94e224c6c1b02aaeae91ce513f7d05fb02e07dce5089dc90904b89
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building on Jan 6, 2021 (insurrection/protesters).
+      THE DISCOVERY: Podcast covers arrest of Luigi Manjone for murdering a United Healthcare CEO; allegations of corruption in Alabama (Dothan Summer Feeding Scandal); decision by Alabama Court of Civil Appeals (released today at 1pm); Rule 32 Petition for Murray Lawrence Jr. regarding undisclosed 2005 autopsies (Brady Violation).
+      THE PIVOT: Article 2 contains no factual information connecting to the Jan 6, 2021 US Capitol insurrection. They are separate topics.
+      KEY ENTITIES: Luigi Manjone, United Healthcare, USS Enterprise, Alabama, Dothan Summer Feeding Scandal, Mack vs Hadley, Baldwin County Sheriff's Department, Murray Lawrence Jr., Alabama Court of Civil Appeals, Coroner of Baldwin County, Mark Fuller.
+    llm_text: The Alabama Court of Civil Appeals just dropped a major ruling. Read how Luigi Manjone murdered a United Healthcare CEO and how Murray Lawrence Jr. fought a Brady Violation involving undisclosed 2005 autopsies.
+    text: The Alabama Court of Civil Appeals issued a major ruling on the Murray Lawrence Jr case. Did officials hide 2005 autopsy files?
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T12:19:08.833039Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 4f7679ca33fb18cd5a84595e1f0f27e0df83dee4d21ce009641c776b874100a9
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building on January 6, 2021
+      THE DISCOVERY: President Biden granted a pardon to his son Hunter; current discussions include damning reports on the US government's COVID-19 response and First Amendment issues regarding local corruption
+      THE PIVOT: Article 2 provides broader contemporary political context (pardons, local corruption) but does not provide direct follow-up facts or updates regarding the January 6, 2021, insurrection
+      KEY ENTITIES: US Capitol Building, January 6, 2021, President Biden, Hunter (Biden's son), local school district
+    llm_text: President Biden granted Hunter a pardon, sparking debate over government power and local corruption. See how this connects to ongoing issues, from the US Capitol attack on January 6, 2021, to the national COVID-19 response.
+    text: President Biden pardoned Hunter, triggering a fresh debate over government power and accountability. How does federal immunity connect to local corruption and our COVID-19 response?
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T12:20:16.501604Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: ac418b3766d58c4256262a35adc3e8d1566025d0d392e188fa93a41ab1f6fd7a
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building occurred on January 6, 2021.
+      THE DISCOVERY: Article 2 is a newer news roundup (Backstory Podcast No 183) detailing local Alabama issues (Sylacauga, 1819 News) and upcoming events, including a DC rally on September 29, 2024.
+      THE PIVOT: Article 2 does not provide factual context, updates, or evidence related to the January 6, 2021, events; they are separate content pieces from the same Backstory Podcast series.
+      KEY ENTITIES: January 6, 2021, Backstory Podcast No 66, Backstory Podcast No 183, Sylacauga Alabama, Donald Trump, Kent David, Brandon Moseley, David R. Jones, RFK Jr, Tulsi Gabbards, Russell Brand, September 29, 2024.
+    llm_text: Don't confuse Jan 6, 2021, context with local news. Backstory Podcast No 183 covers Sylacauga, Alabama, and the September 29, 2024, DC rally, giving you crucial current updates.
+    text: Skip the federal spin and focus on the ground truth. Backstory Podcast No. 183 exposes what is really happening in Sylacauga and across Alabama right now.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T12:23:31.860652Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 63029502a05e2ca578739843408a46e96b58679ae2eacb7715ba4eb65574ba44
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol on January 6, 2021 (covered in Backstory Podcast No 66).
+      THE DISCOVERY: On July 31, 2024, the French Family, Bay Minette Justice League, and May Jung LLC filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson regarding the death of OJ French Jr.
+      THE PIVOT: Article 2 details a separate local civil/criminal matter in Bay Minette, Alabama, and does not provide context or evidence relating to the events of January 6, 2021. The only connection is coverage by the Backstory Podcast.
+      KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, City of Bay Minette, May Jung LLC
+    llm_text: OJ French Jr's family filed a federal lawsuit against the City of Bay Minette and Officer Brandon Thompson over his death. Read how this local civil matter in Bay Minette, Alabama, connects only through the Backstory Podcast to the January 6 Capitol storming.
+    text: The family of OJ French Jr filed a federal lawsuit against the City of Bay Minette and Officer Brandon Thompson. Why did this death happen?
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T12:25:45.820546Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: eb94fa71af350db7f95dcd6312484042540959e381c8a4d326f92f000f3f2c4a
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building occurred on January 6, 2021; discussed in Backstory Podcast No 66.
+      THE DISCOVERY: VP Harris has shifted perception from "scourge of the democratic party" to "darling savior"; RFK Jr removed his name from battleground ballots; Sheriff Mack in Baldwin County, Alabama has one week remaining; the Governor is selecting a replacement; Finebaum claims the University of Alabama Football Dynasty is over.
+      THE PIVOT: Article 2 does not provide factual context or proof related to the January 6, 2021 Capitol event.
+      KEY ENTITIES: VP Kamala Harris; RFK Jr; Candidate Trump; Sheriff Mack; Governor (unnamed); Finebaum; Baldwin County, Alabama; US Capitol Building.
+    llm_text: VP Harris flipped from "scourge" to "savior," while RFK Jr removed his name from battleground ballots. Sheriff Mack in Baldwin County has only one week left, and Finebaum claims the Alabama football dynasty is done.
+    text: VP Harris flipped her script while RFK Jr bailed on battleground ballots. Sheriff Mack has one week left, and Finebaum says the Alabama football dynasty is officially dead.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T12:24:44.585636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 6b22487b449a06f49e70935fc2a57145056c02302d3930ee329aa59d41cbc131
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building on January 6, 2021.
+      THE DISCOVERY: Backstory Podcast (Widget Article) covers Alabama politics (Governor Kay Ivey firing Admiral Kent Davis, veterans' board issues) and a true crime case in Clarke County involving a hospice business and a judge.
+      THE PIVOT: There is no factual connection between the January 6, 2021, Capitol event and the current topics (Alabama politics, Clarke County crime) covered in the newer article.
+      KEY ENTITIES: US Capitol Building, January 6, 2021, Governor Kay Ivey, Admiral Kent Davis, Joe Biden, Kamala Harris, Clarke County.
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis amid heated Alabama politics. Discover the disturbing true crime unfolding in Clarke County involving a local hospice business and a judge.
+    text: Governor Kay Ivey fired Admiral Kent Davis amid fiery political theater in Montgomery. Look deeper into the true crime unfolding in Clarke County with local hospice scams.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T12:15:59.947576Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 0b981b3b110121acec0d017133d9c337f89c38b366934e342e2419c2b9de297e
+    brief: |-
+      THE CONFLICT: Storming of the US Capitol Building on Jan 6, 2021, documented in Backstory Podcast No 66.
+      THE DISCOVERY: Ongoing corruption and systemic political failure in Alabama, including million-dollar contracts for the Baldwin County District Attorney building awarded to politically tied companies, and the misuse of public scholarship funds for insiders.
+      THE PIVOT: Article 2 reveals a pattern of local and state political failure—lack of accountability in law enforcement mishaps, insider contract awards, and efforts to strip local control—that mirrors the systemic governance failures discussed in the Jan 6 event, suggesting pervasive political games beyond national crises.
+      KEY ENTITIES: US Capitol Building, Jan 6, 2021, Baldwin County, District Attorney, Governor (Alabama)
+    llm_text: The Jan 6 storming revealed systemic failure, but local corruption mirrors that mess. In Baldwin County, politically tied companies snagged million-dollar DA building contracts while insiders misused public scholarship funds.
+    text: The January 6 riot proved institutional failure, but local government is just as dirty. Politically connected insiders in Baldwin County routinely loot public scholarship funds.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T12:18:06.880096Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

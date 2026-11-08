@@ -5,100 +5,8 @@ metadata:
   main_date: "2024-05-06"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  what-the:
-    brief: |-
-      THE CONFLICT: Senator Katie Britt was in the news regarding Alabama political activities (Gaming Bill, New Ethics Law, etc.) while serving in the Legislature in Montgomery. (Widget Article context)
-      THE DISCOVERY: The Widget Article established Senator Katie Britt's prominence within Alabama political circles and legislative affairs.
-      THE PIVOT: Article 2 establishes Britt's political standing, providing context for her later investment in 68 Ventures; Article 1 reveals Britt purchased $33,000 stock in 68V 181-Fairhope Avenue 2023, LLC on December 14/15, 2023, tying her political power to local Fairhope land deals (Park City).
-      KEY ENTITIES: Senator Katie Britt, 68 Ventures, Fairhope, Hix, Snedeker (Fairhope Municipal Judge), Hollie MacKellar, Nathan Cox, Jonathan Gray, Baldwin County Schools.
-    llm_text: Senator Katie Britt leveraged her Alabama political standing to buy $33,000 stock in 68 Ventures. Discover how her legislative influence connects directly to local Fairhope land deals near Park City.
-    widget_date: "2024-04-01"
-    generated_at: "2026-11-06T17:37:18.992009Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  poster-boy-of-corruption:
-    brief: |-
-      THE CONFLICT:
-      - 68 Ventures is engaged in a multi-year legal battle with the City of Fairhope regarding the denial of the Skyline and Gables applications.
-      - Allegations of entrapment: Planning Commissioner Hollie MacKellar signed an affidavit stating "impostors" (the Cuttinghams) were hired by 68 Ventures to secretly record her and solicit statements against Nathan Cox and 68 Ventures.
-      - Conflict of interest: Fairhope Municipal Judge Hix Snedeker sold land and an approved Planned Unit Development (PUD) for the "Park City" project to 68 Ventures, the same entity suing the city.
-      - Financial/Political ties: U.S. Senator Katie Britt reported a $33,000 purchase of 68V 181-Fairhope Avenue 2023, LLC stock on Dec. 14, 2023.
-      - Dual roles: Jon Gray serves simultaneously as the 68 Ventures public relations representative and the representative for Baldwin County Schools.
-
-      THE DISCOVERY:
-      - Historical evidence revealed that Tom Albritton, Executive Director of the Alabama Ethics Commission, engaged in unethical handling of the Mabel Amos Trust for personal benefit.
-      - Albritton has used his position to lobby against changes to Alabama Ethics Rules.
-      - The Alabama Bar declined to pursue complaints against Albritton despite ongoing legal actions regarding the trust.
-
-      THE PIVOT:
-      - Article 2 establishes that the state's primary oversight body for ethical violations—the Alabama Ethics Commission—is led by an individual accused of systemic corruption. This renders the Fairhope/68 Ventures conflicts of interest (Snedeker's land deal, Gray's dual roles, and Britt's investments) virtually impossible to adjudicate through standard state ethical channels.
-
-      KEY ENTITIES:
-      - 68 Ventures
-      - City of Fairhope
-      - Hollie MacKellar (Planning Commissioner)
-      - The Cuttinghams (alleged impostors)
-      - Hix Snedeker (Fairhope Municipal Judge)
-      - Senator Katie Britt
-      - Jon Gray (68V PR / Baldwin County Schools Rep)
-      - Tom Albritton (Executive Director, Alabama Ethics Commission)
-      - Mabel Amos Trust
-    llm_text: Judge Hix Snedeker and Senator Katie Britt face intense scrutiny over their ties to 68 Ventures. Because Alabama Ethics Commission Director Tom Albritton faces his own corruption allegations, the state's primary watchdog can no longer hold these powerful players accountable.
-    widget_date: "2024-03-13"
-    generated_at: "2026-11-06T17:36:53.915308Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  fauxhope-history:
-    brief: |-
-      THE CONFLICT: Mayor and Council in Fauxhope have historically prioritized development over historic preservation and constituent needs (e.g., demolition of Nancy Lewis's home) while being supported by developers (Councilman Kevin Boone).
-      THE DISCOVERY: The city government of Fauxhope, under Mayor Sherry Sullivan and the Council, is historically and currently 100% pro-development, favoring commercial projects and supporting the Municipal Judges' land/projects.
-      THE PIVOT: The historical pattern established in the older article—where Mayor, Council, and Municipal Judge are in alignment with developer interests—provides the context for the current situation where 68 Ventures purchased annexed land and an approved PUD from the Fairhope Municipal Judge, Hix Snedeker, after a two-year legal dispute with the city.
-      KEY ENTITIES: Mayor Sherry Sullivan, Councilman Kevin Boone, Mayor Sullivan, Cory the Crier, Hix Snedeker (Fairhope Municipal Judge), 68 Ventures, Jonathan Gray, Nathan Cox, Hollie MacKellar, Skyline and Gables applications, Park City, Senator Katie Britt, U.S. Senator Katie Britt (R-AL), Baldwin County Schools, City of Fairhope, Park City (Fairhope Avenue and Highway 181), March (affidavit date), 2020 (infrastructure approval date), December 14, 2023 (Britt stock purchase date).
-    llm_text: Mayor Sherry Sullivan and Councilman Kevin Boone prioritize development over historic preservation in Fauxhope. 68 Ventures recently secured annexed land and a PUD from Municipal Judge Hix Snedeker, proving the city's 100% pro-developer alignment.
-    widget_date: "2023-09-17"
-    generated_at: "2026-11-06T17:39:26.704126Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-crier:
-    brief: |-
-      THE CONFLICT: Fauxhope infrastructure issues (water/utilities) have existed and been ignored for 20 to 30 years; Fauxhope government (Mayor, Council, Municipal Judge) was supported 100% by special interests and developers. (Reference: FAUXHOPE CRIER)
-      THE DISCOVERY: Article 2 revealed that the City Council prioritized commercial projects (e.g., Municipal Judges east side project) and that ordinances required residents to annex inside city limits before tapping into Fairhope water.
-      THE PIVOT: Article 2 establishes that the current crises (water shortages, stalled sewer projects, and systemic favoritism) are not recent failures but the result of decades of political prioritization toward developer interests, providing historical context for the stalled 2020 infrastructure projects cited in Article 1.
-      KEY ENTITIES: Cory Martin, City Council, Municipal Judge, 68 Ventures, Hix Snedeker, Nathan Cox, Hollie MacKellar, Jonathan Gray, Senator Katie Britt, Park City, Fairhope.
-    llm_text: Fauxhope’s water crisis isn't a recent failure; decades of political favoritism fueled it. City Council prioritized developers like 68 Ventures, forcing residents to annex just to tap Fairhope water.
-    widget_date: "2023-09-05"
-    generated_at: "2026-11-06T17:40:30.662819Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bull:
-    brief: |-
-      THE CONFLICT:
-      *   Mayor Karen Wilson served 2016-2000 (stated tenure in Widget Article).
-      *   Wilson refused two positions (Mayor/Utility Director) and two salaries, forgoing $60k of $90k.
-      *   2017 and 2018 budgets included sewer system upgrades.
-      *   Fairhope City Council cut infrastructure funding in 2017, 2018, and 2019.
-      *   Working Waterfront project is 3 years behind schedule.
-
-      THE DISCOVERY:
-      *   Previous administration separated City operating expenses (tax dollars) from Utility Department operations (rate fees).
-      *   The Council actively opposed technical experience funding for utility upgrades (2017-2019).
-
-      THE PIVOT:
-      *   Article 2 establishes that infrastructure failure (sewer/utility issues) is not a new problem but resulted from Council-driven budget cuts (2017-2019), providing historical context for the current 3-year water shortage and incomplete 2020 projects mentioned in Article 1.
-
-      KEY ENTITIES:
-      *   Karen Wilson
-      *   Fairhope City Council
-      *   Hix Snedeker (Municipal Judge)
-      *   68 Ventures (68V)
-      *   Park City
-      *   Hollie MacKellar
-      *   Nathan Cox
-      *   Jonathan Gray
-      *   Katie Britt (U.S. Senator)
-      *   Baldwin County Schools
-      *   Fairhope (City)
-    llm_text: Mayor Karen Wilson forwent $60k in salary while the Fairhope City Council slashed infrastructure funding between 2017 and 2019. These council cuts caused the current 3-year delay in the Working Waterfront project and ongoing utility failures.
-    widget_date: "2023-08-09"
-    generated_at: "2026-11-06T17:38:32.345587Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   all-mouth:
+    refined_source: 35d6194734fc9b9027a126d3ed1ef1183d1a6ceaf9cedbc331823e8af1b0f07d
     brief: |-
       THE CONFLICT:
       - In 2013, the City Council rejected a $20 million proposal for a new sewer plant, opting instead for a $10 million upgrade that ballooned to $13 million by completion.
@@ -127,10 +35,12 @@ hooks:
       - Nathan Cox (68V)
       - The Cuttinghams (Impostors/68V agents)
     llm_text: Mayor Sullivan and Jack Burrell didn't just neglect our sewers; they engineered a system that favors 68 Ventures over basic infrastructure. This crisis stems from years of intentional mismanagement and 'double dipping' that prioritized developer interests over our community's stability.
+    text: Mayor Sherry Sullivan and Jack Burrell engineered a sewer system that rewards 68 Ventures over basic repairs. Years of intentional mismanagement and double-dipping pushed developer profits past community stability.
     widget_date: "2023-05-25"
     generated_at: "2026-11-06T17:38:56.553263Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   i-see-you:
+    refined_source: 4eea6eee019c17be28ebacd85091289de51e2cf01a8bcb78dd8539f339e1c027
     brief: |-
       THE CONFLICT:
       *   May 22, 2023: Fairhope City Council appointed Haymes Snedeker as Municipal Judge.
@@ -158,6 +68,110 @@ hooks:
       *   Baldwin County Schools
       *   Fairhope Avenue and Highway 181 (Location)
     llm_text: Fairhope Municipal Judge Haymes Snedeker is also the city's largest developer. Does Snedeker's dual role create conflicts, especially after 68 Ventures bought land from Hix/Snedeker following years of legal disputes with the City of Fairhope?
+    text: Fairhope Municipal Judge Haymes Snedeker operates as the city's largest developer. Does his dual role create conflicts of interest after 68 Ventures bought land from him following years of city lawsuits?
     widget_date: "2023-05-23"
     generated_at: "2026-11-06T17:41:58.351389Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  what-the:
+    refined_source: f1e9ef2e1675e921664a30fa7306f7e617ba30082fe44b787c94e657f1d99612
+    brief: |-
+      THE CONFLICT: Senator Katie Britt was in the news regarding Alabama political activities (Gaming Bill, New Ethics Law, etc.) while serving in the Legislature in Montgomery. (Widget Article context)
+      THE DISCOVERY: The Widget Article established Senator Katie Britt's prominence within Alabama political circles and legislative affairs.
+      THE PIVOT: Article 2 establishes Britt's political standing, providing context for her later investment in 68 Ventures; Article 1 reveals Britt purchased $33,000 stock in 68V 181-Fairhope Avenue 2023, LLC on December 14/15, 2023, tying her political power to local Fairhope land deals (Park City).
+      KEY ENTITIES: Senator Katie Britt, 68 Ventures, Fairhope, Hix, Snedeker (Fairhope Municipal Judge), Hollie MacKellar, Nathan Cox, Jonathan Gray, Baldwin County Schools.
+    llm_text: Senator Katie Britt leveraged her Alabama political standing to buy $33,000 stock in 68 Ventures. Read how her legislative influence connects directly to local Fairhope land deals near Park City.
+    text: Senator Katie Britt used her political standing to buy $33,000 of stock in 68 Ventures. Her legislative influence connects directly to local Fairhope land deals near Park City.
+    widget_date: "2024-04-01"
+    generated_at: "2026-11-06T17:37:18.992009Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  poster-boy-of-corruption:
+    refined_source: 0a51f93c5509c4280488cf0bc85bbfc379e49c8757662586d2bb8b23b10eec6e
+    brief: |-
+      THE CONFLICT:
+      - 68 Ventures is engaged in a multi-year legal battle with the City of Fairhope regarding the denial of the Skyline and Gables applications.
+      - Allegations of entrapment: Planning Commissioner Hollie MacKellar signed an affidavit stating "impostors" (the Cuttinghams) were hired by 68 Ventures to secretly record her and solicit statements against Nathan Cox and 68 Ventures.
+      - Conflict of interest: Fairhope Municipal Judge Hix Snedeker sold land and an approved Planned Unit Development (PUD) for the "Park City" project to 68 Ventures, the same entity suing the city.
+      - Financial/Political ties: U.S. Senator Katie Britt reported a $33,000 purchase of 68V 181-Fairhope Avenue 2023, LLC stock on Dec. 14, 2023.
+      - Dual roles: Jon Gray serves simultaneously as the 68 Ventures public relations representative and the representative for Baldwin County Schools.
+
+      THE DISCOVERY:
+      - Historical evidence revealed that Tom Albritton, Executive Director of the Alabama Ethics Commission, engaged in unethical handling of the Mabel Amos Trust for personal benefit.
+      - Albritton has used his position to lobby against changes to Alabama Ethics Rules.
+      - The Alabama Bar declined to pursue complaints against Albritton despite ongoing legal actions regarding the trust.
+
+      THE PIVOT:
+      - Article 2 establishes that the state's primary oversight body for ethical violations—the Alabama Ethics Commission—is led by an individual accused of systemic corruption. This renders the Fairhope/68 Ventures conflicts of interest (Snedeker's land deal, Gray's dual roles, and Britt's investments) virtually impossible to adjudicate through standard state ethical channels.
+
+      KEY ENTITIES:
+      - 68 Ventures
+      - City of Fairhope
+      - Hollie MacKellar (Planning Commissioner)
+      - The Cuttinghams (alleged impostors)
+      - Hix Snedeker (Fairhope Municipal Judge)
+      - Senator Katie Britt
+      - Jon Gray (68V PR / Baldwin County Schools Rep)
+      - Tom Albritton (Executive Director, Alabama Ethics Commission)
+      - Mabel Amos Trust
+    llm_text: Judge Hix Snedeker and Senator Katie Britt face intense scrutiny over their ties to 68 Ventures. Because Alabama Ethics Commission Director Tom Albritton faces his own corruption allegations, the state's primary watchdog can no longer hold these powerful players accountable.
+    text: Judge Hix Snedeker and Senator Katie Britt face intense scrutiny over financial ties to 68 Ventures. Alabama Ethics Commission Director Tom Albritton faces his own corruption claims, leaving the state without an active watchdog.
+    widget_date: "2024-03-13"
+    generated_at: "2026-11-06T17:36:53.915308Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  fauxhope-history:
+    refined_source: 4f56229e6bb2613936683e5b34c84f898e80fc5cfe778bbc01075cb88c527356
+    brief: |-
+      THE CONFLICT: Mayor and Council in Fauxhope have historically prioritized development over historic preservation and constituent needs (e.g., demolition of Nancy Lewis's home) while being supported by developers (Councilman Kevin Boone).
+      THE DISCOVERY: The city government of Fauxhope, under Mayor Sherry Sullivan and the Council, is historically and currently 100% pro-development, favoring commercial projects and supporting the Municipal Judges' land/projects.
+      THE PIVOT: The historical pattern established in the older article—where Mayor, Council, and Municipal Judge are in alignment with developer interests—provides the context for the current situation where 68 Ventures purchased annexed land and an approved PUD from the Fairhope Municipal Judge, Hix Snedeker, after a two-year legal dispute with the city.
+      KEY ENTITIES: Mayor Sherry Sullivan, Councilman Kevin Boone, Mayor Sullivan, Cory the Crier, Hix Snedeker (Fairhope Municipal Judge), 68 Ventures, Jonathan Gray, Nathan Cox, Hollie MacKellar, Skyline and Gables applications, Park City, Senator Katie Britt, U.S. Senator Katie Britt (R-AL), Baldwin County Schools, City of Fairhope, Park City (Fairhope Avenue and Highway 181), March (affidavit date), 2020 (infrastructure approval date), December 14, 2023 (Britt stock purchase date).
+    llm_text: Mayor Sherry Sullivan and Councilman Kevin Boone prioritize development over historic preservation in Fauxhope. 68 Ventures recently secured annexed land and a PUD from Municipal Judge Hix Snedeker, proving the city's 100% pro-developer alignment.
+    text: Mayor Sherry Sullivan and Councilman Kevin Boone favor new development over historic preservation. Municipal Judge Haymes Snedeker recently granted 68 Ventures annexed land and a PUD, proving total pro-developer alignment.
+    widget_date: "2023-09-17"
+    generated_at: "2026-11-06T17:39:26.704126Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-crier:
+    refined_source: 1e58482ecccdfb3106ab9f7a82193648a0ecae8778aee84b7dd0e46acad427a2
+    brief: |-
+      THE CONFLICT: Fauxhope infrastructure issues (water/utilities) have existed and been ignored for 20 to 30 years; Fauxhope government (Mayor, Council, Municipal Judge) was supported 100% by special interests and developers. (Reference: FAUXHOPE CRIER)
+      THE DISCOVERY: Article 2 revealed that the City Council prioritized commercial projects (e.g., Municipal Judges east side project) and that ordinances required residents to annex inside city limits before tapping into Fairhope water.
+      THE PIVOT: Article 2 establishes that the current crises (water shortages, stalled sewer projects, and systemic favoritism) are not recent failures but the result of decades of political prioritization toward developer interests, providing historical context for the stalled 2020 infrastructure projects cited in Article 1.
+      KEY ENTITIES: Cory Martin, City Council, Municipal Judge, 68 Ventures, Hix Snedeker, Nathan Cox, Hollie MacKellar, Jonathan Gray, Senator Katie Britt, Park City, Fairhope.
+    llm_text: Fauxhope’s water crisis isn't a recent failure; decades of political favoritism fueled it. City Council prioritized developers like 68 Ventures, forcing residents to annex just to tap Fairhope water.
+    text: Fairhope's water crisis stems from decades of political favoritism rather than recent mistakes. The City Council favored developers like 68 Ventures, forcing residents to annex property just to get city water.
+    widget_date: "2023-09-05"
+    generated_at: "2026-11-06T17:40:30.662819Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bull:
+    refined_source: 6755154c486077d0dd11102f15885a1ea715ba8bfd1f038503a0e25f4b180e92
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Karen Wilson served 2016-2000 (stated tenure in Widget Article).
+      *   Wilson refused two positions (Mayor/Utility Director) and two salaries, forgoing $60k of $90k.
+      *   2017 and 2018 budgets included sewer system upgrades.
+      *   Fairhope City Council cut infrastructure funding in 2017, 2018, and 2019.
+      *   Working Waterfront project is 3 years behind schedule.
+
+      THE DISCOVERY:
+      *   Previous administration separated City operating expenses (tax dollars) from Utility Department operations (rate fees).
+      *   The Council actively opposed technical experience funding for utility upgrades (2017-2019).
+
+      THE PIVOT:
+      *   Article 2 establishes that infrastructure failure (sewer/utility issues) is not a new problem but resulted from Council-driven budget cuts (2017-2019), providing historical context for the current 3-year water shortage and incomplete 2020 projects mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Karen Wilson
+      *   Fairhope City Council
+      *   Hix Snedeker (Municipal Judge)
+      *   68 Ventures (68V)
+      *   Park City
+      *   Hollie MacKellar
+      *   Nathan Cox
+      *   Jonathan Gray
+      *   Katie Britt (U.S. Senator)
+      *   Baldwin County Schools
+      *   Fairhope (City)
+    llm_text: Mayor Karen Wilson forwent $60k in salary while the Fairhope City Council slashed infrastructure funding between 2017 and 2019. These council cuts caused the current 3-year delay in the Working Waterfront project and ongoing utility failures.
+    text: Mayor Karen Wilson gave up $60,000 in salary while the Fairhope City Council slashed infrastructure funding from 2017 to 2019. Those council cuts caused a three-year delay on the Working Waterfront project and ongoing utility failures.
+    widget_date: "2023-08-09"
+    generated_at: "2026-11-06T17:38:32.345587Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

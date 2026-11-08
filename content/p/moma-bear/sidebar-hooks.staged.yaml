@@ -6,12 +6,14 @@ metadata:
   model_name: plugsky-lite
 hooks:
   alien-indictment:
+    refined_source: c2a5867ea6d8df559f02a8eb399f9ea444d55d02ac225057d95f6f0949d428aa
     brief: |-
       THE CONFLICT: No specific historical conflict with dates is presented in Article 2.
       THE DISCOVERY: Article 2 shows revelations regarding non-human remains/technology recovery by the Executive Branch (Defense Department) over the last 50 years.
       THE PIVOT: Article 2 contains the mention of "Baldwin County" regarding a potential $20B loss, linking a specific location mentioned in Article 2 to the local court focus in Article 1 (Baldwin County Family Court).
       KEY ENTITIES: Baldwin County, Hillary Clinton, FBI Director Comey, Steve Marshall, Lauren Bobert, President Biden, Judge Michelle Thomason, Nancy R. Koerner
     llm_text: The Defense Department recovered non-human tech in Baldwin County over 50 years, and a potential $20B loss links directly to the Baldwin County Family Court. See how this discovery impacts local figures like Steve Marshall and Lauren Bobert.
+    text: The Defense Department recovered advanced technology in Baldwin County. A $20 billion financial loss links directly to the local family court.
     widget_date: "2023-06-10"
     generated_at: "2026-11-06T19:38:49.905103Z"
     model_name: plugsky-lite
@@ -20,7 +22,7 @@ hooks:
       THE CONFLICT:
       - Article 1, "Maternal instinct propagates disorder in the court," by Nancy R. Koerner, copyright 2023, NK Marketing, LLC.
       - Alleged past domestic violence/custody conflict.
-      - Abusive husband allegedly began abuse; legal system allegedly allowed injustice.
+      - Abusive husband began abuse; legal system allowed injustice.
       - Victimized women may be scrutinized in courtroom; maternal instinct compared to mother bear torn from cub.
       - Custody sometimes awarded to father even when child abused.
       - Mother may abduct child against odds for legal jurisdictional advantage.
@@ -55,11 +57,13 @@ hooks:
       - Commander in Chief
       - Lowery, Wilters
       - NK Marketing, LLC
-    llm_text: Judge Michelle Thomason allegedly let an abusive husband take custody in Baldwin County Family Court, and Nancy R. Koerner's maternal instinct story now splits. The Ripp Report says her courtroom made victimized women fear the worst.
+    llm_text: Judge Michelle Thomason let an abusive husband take custody in Baldwin County Family Court, and Nancy R. Koerner's maternal instinct story now splits. The Ripp Report says her courtroom made victimized women fear the worst.
+    text: Judge Michelle Thomason let an abusive husband take custody in Baldwin County Family Court, and Nancy R. Koerner's maternal instinct story now splits. The Ripp Report says her courtroom made victimized women fear the worst.
     widget_date: "2023-06-05"
     generated_at: "2026-11-06T19:39:33.712624Z"
     model_name: recursive/flint-v1.0:free
   one-woman-2:
+    refined_source: b37d13a5cad1fd4df048481c99adba8f0e267ca9f680f942e3b3e941681e25c5
     brief: |-
       THE CONFLICT:
       *   Paula DiNardi, victim of Ronan McSharry (public intoxication and assault), faced legal victimization in Fairhope Municipal Court.
@@ -68,7 +72,7 @@ hooks:
 
       THE DISCOVERY:
       *   The case demonstrated systemic judicial failure, including defense attorney John Beck victimizing the victim and the City Attorney Marcus McDowell failing to vigorously represent DiNardi.
-      *   The political influence of Council President Jack Burrell was noted, as he allegedly secured the jobs of the City Attorney and Municipal Judge.
+      *   The political influence of Council President Jack Burrell was noted, as he secured the jobs of the City Attorney and Municipal Judge.
 
       THE PIVOT:
       *   The 2020 case (Article 2) provides historical evidence of how political manipulation and judicial neglect can undermine victims' rights in Baldwin County courts, validating the 2023 claim (Article 1) that the legal system perpetrates grave injustice against victimized women, specifically in matters of court scrutiny and family court.
@@ -88,12 +92,14 @@ hooks:
       *   Fairhope Municipal Court
       *   Baldwin County Family Court
     llm_text: Political pressure undermined Paula DiNardi’s rights after Ronan McSharry's Fairhope Municipal Court conviction. Council President Jack Burrell and City Attorney Marcus McDowell allowed systemic judicial failure, proving political manipulation damages victims across Baldwin County.
+    text: Political pressure silenced Paula DiNardi after Ronan McSharry’s assault conviction. Council President Jack Burrell protected the attacker from justice.
     widget_date: "2019-05-01"
     generated_at: "2026-11-06T19:39:40.403872Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   public-service-announcement-alabama-court-of-civil-appeals-judge-place-one:
     brief: "THE CONFLICT: Judge Michelle Thomasson of the Baldwin County Family Court inflicted systemic damage on hundreds of families and children, generating more complaints than all other judges in Baldwin County combined. Citizens organized opposition to remove her from the bench, leading up to an election date of July 17th to vote for challenger Christy Olinger Edwards.\n\nTHE DISCOVERY: The older widget article (\"Alabama Beware of the Catalyst Queen\" published by The Ripp Report) exposed Michelle Thomasson as labeled the \"worst Family Court Judge in the state\" and the \"Catalyst Queen,\" detailing a history of structural corruption, excessive citizen complaints, and hidden legal \"baggage.\"\n\nTHE PIVOT: Article 2 serves as the smoking gun because it provides the local, documented proof of the exact judicial corruption and anti-mother bias described theoretically in Article 1. When Article 1 discusses courts labeling traumatized mothers \"crazy\" to justify taking their children, Article 2 identifies the specific bad actor (Judge Michelle Thomasson) doing this in Baldwin County, proving that the systemic injustice is localized and ongoing.\n\nKEY ENTITIES: \n- Judge Michelle Thomasson (Baldwin County Family Court Judge)\n- Christy Olinger Edwards (Judicial Candidate, election date July 17th)\n- Nancy R. Koerner (Author, NK Marketing, LLC)\n- The Ripp Report (Sponsoring non-profit consumer organization)"
     llm_text: Judge Michelle Thomasson racked up more complaints than every other Baldwin County judge combined, weaponizing her family court against mothers. Read our explosive archives to see why voters are backing Christy Olinger Edwards on July 17th to stop this systemic corruption.
+    text: Judge Michelle Thomasson racked up more complaints than every other Baldwin County judge combined, weaponizing her family court against mothers. Read our explosive archives to see why voters are backing Christy Olinger Edwards on July 17th to stop this systemic corruption.
     widget_date: "2018-07-12"
     generated_at: "2026-11-06T19:38:49.189824Z"
     model_name: gemini-3.5-flash-lite

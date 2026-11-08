@@ -5,17 +5,32 @@ metadata:
   main_date: "2026-05-12"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  bcso-no-clones:
+    refined_source: 443848824cde29d075acdda095ac66ddae6f488dc4c2823e6dc7065bc69f78bb
+    brief: |-
+      THE CONFLICT: Internal tensions escalated between BCSO and Mobile ERO during the current sheriff’s election cycle over BCSO participation in the federal 287(g) immigration program. Sheriff Anthony Lowery contacted higher-ranking ERO leadership to complain that Mobile ERO was backing sheriffal candidate Matt McKenzie.
+      THE DISCOVERY: Widget Article suggests Sheriff Anthony Lowery is a "clone" of Hoss Mack and that their professional records are the same, linking their political and professional history.
+      THE PIVOT: Article 2 provides historical/political context regarding Sheriff Lowery's established record and relationship to Hoss Mack, which frames the political environment (election cycle) in which the 287(g) tensions described in Article 1 occurred.
+      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, David White, BCSO, Mobile Enforcement and Removal Operations (Mobile ERO), 287(g) program
+    llm_text: Sheriff Anthony Lowery shares professional records with Hoss Mack, linking his past to the current BCSO tensions. See how this history shapes the Mobile ERO dispute over the 287(g) program during Matt McKenzie's campaign.
+    text: Sheriff Anthony Lowery shares professional records with Hoss Mack, linking his past to current office tensions. This history shapes the Mobile ERO dispute over the 287(g) program.
+    widget_date: "2025-09-26"
+    generated_at: "2026-11-06T07:21:34.735975Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lowery-puts-campaign-first-immigration-enforcement:
+    refined_source: 16e0587c7a3344da6036de342e02e020dba242195ae9d84cca6dd10af25d8d59
     brief: |-
       THE CONFLICT: Initial public concerns circulated regarding BCSO quietly stepping back from federal immigration enforcement tied to the election cycle (May 19th); this escalated to internal BCSO tension where Chief Deputy David White instructed deputies to cease assisting Mobile ERO, citing concerns over negative public image during the election.
       THE DISCOVERY: The older article (Widget) revealed citizen concern that Sheriff Anthony Lowery might deliberately scale back public safety enforcement to protect his political standing.
       THE PIVOT: The older article raised the public doubt about Lowery prioritizing politics over safety; the newer article (Main) provided internal evidence (White’s instructions, Lowery’s complaint) showing that this tension resulted in the temporary suspension/pause of 287(g) cooperation between BCSO and Mobile ERO.
       KEY ENTITIES: Anthony Lowery, David White, Matt McKenzie, BCSO, Mobile ERO, 287(g) program, May 19th
     llm_text: Sheriff Anthony Lowery prioritized his political standing over public safety during the May 19th election. Chief Deputy David White instructed BCSO to pause 287(g) cooperation with Mobile ERO, raising serious questions about how local politics affect enforcement.
+    text: Sheriff Anthony Lowery prioritized his political standing over public safety during the May 19th election. Chief Deputy David White instructed deputies to pause 287(g) cooperation with Mobile ERO.
     widget_date: "2026-05-11"
     generated_at: "2026-11-06T07:20:44.975991Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   anonymous-bb:
+    refined_source: c7518405dc8983dd7b003d30269d467f92569b1fdfb52971aa299e30c6c5b526
     brief: |-
       THE CONFLICT:
       *   Hoss Mack established a BCSO culture over almost 20 years, described as supporting the GOB rather than justice.
@@ -48,10 +63,12 @@ hooks:
       *   Baldwin Beat (BB)
       *   Francis Paul Ripp (The Ripp Report)
     llm_text: Hoss Mack established a BCSO culture prioritizing the GOB over justice, leading to incidents like the Robert Yeats murder and Johnathan Victor's execution. Learn how this decades-long corruption informs Anthony Lowery's current political alignment supporting Matt McKenzie.
+    text: Hoss Mack established a sheriff's office culture that led to the Robert Yeats murder and Johnathan Victor's death. This decades-long corruption informs Anthony Lowery's political alignment supporting Matt McKenzie.
     widget_date: "2026-05-10"
     generated_at: "2026-11-06T07:22:37.388726Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   read-the-comments:
+    refined_source: fada80e34c4a8ce4ea423544a88ba403147e1e8183a781a5caf616e3b909ca63
     brief: |-
       THE CONFLICT: Internal issues at BCSO, including an alleged extramarital affair involving a top officer and subordinate female employee, were reported in the Widget Article; also, the wrongful conviction case of Murray Lawrence Jr. occurred, where Hoss Mack was the lead investigator and Robert Wilters was the presiding DA/judge.
 
@@ -60,11 +77,13 @@ hooks:
       THE PIVOT: The Widget Article establishes a historical pattern of internal issues and lack of accountability within BCSO, providing context for the current internal tensions (reported in the Main Article) regarding political neutrality and cooperation with federal agencies, suggesting systemic issues rather than isolated incidents.
 
       KEY ENTITIES: Hoss Mack, Murray Lawrence Jr., Robert Wilters, Anthony Lowery, David White, Matt McKenzie, Baldwin County Sheriff’s Office (BCSO), Mobile Enforcement and Removal Operations (Mobile ERO), 287(g) program.
-    llm_text: Hoss Mack's BCSO faced cover-ups, from the Murray Lawrence Jr. wrongful conviction to recent internal affairs involving a top officer. Discover how systemic failures, not just isolated incidents, fuel current BCSO tensions.
+    llm_text: Hoss Mack's BCSO faced cover-ups, from the Murray Lawrence Jr. wrongful conviction to recent internal affairs involving a top officer. Read how systemic failures, not just isolated incidents, fuel current BCSO tensions.
+    text: Hoss Mack's department faced cover-ups from the Murray Lawrence Jr. case to recent internal affairs investigations. Systemic failures fuel current tensions inside the sheriff's office.
     widget_date: "2026-03-18"
     generated_at: "2026-11-06T07:23:21.124559Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   po-po-hoss-mack-ccuo:
+    refined_source: f5011cbff5e203e9fbe5e35cc05d4af78c674bcf79e8e8a5ba4e867033768f8c
     brief: |-
       THE CONFLICT:
       1. Wrongful conviction of Murray Lawrence Jr.
@@ -72,7 +91,7 @@ hooks:
       3. Wilters wrote and signed the order allowing the second autopsy.
       4. Hoss Mack was the lead investigator on the case.
       5. Antony Lowery was also an investigator.
-      6. Mack, Wilters, and Whetstone allegedly hid evidence proving Lawrence's innocence.
+      6. Mack, Wilters, and Whetstone hid evidence proving Lawrence's innocence.
 
       THE DISCOVERY:
       1. The Widget Article exposes Hoss Mack’s past history of cover-ups involving sexual misconduct, missing evidence, incompetent investigations (including the Lawrence case), and high-ranking officers.
@@ -95,16 +114,7 @@ hooks:
       10. 287(g) program
       11. Mobile Enforcement and Removal Operations (ERO)
     llm_text: Hoss Mack, lead investigator on Murray Lawrence Jr.'s wrongful conviction, has a documented history of cover-ups involving misconduct and missing evidence. This pattern suggests the BCSO's "good ole boy" network may hide current political maneuvering involving Chief Deputy David White.
+    text: Hoss Mack led the investigation that produced Murray Lawrence Jr.'s wrongful conviction and has a history of cover-ups. This pattern suggests the good old boy network hides current political maneuvering.
     widget_date: "2024-06-15"
     generated_at: "2026-11-06T07:24:10.079477Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bcso-no-clones:
-    brief: |-
-      THE CONFLICT: Internal tensions escalated between BCSO and Mobile ERO during the current sheriff’s election cycle over BCSO participation in the federal 287(g) immigration program. Sheriff Anthony Lowery contacted higher-ranking ERO leadership to complain that Mobile ERO was backing sheriffal candidate Matt McKenzie.
-      THE DISCOVERY: Widget Article suggests Sheriff Anthony Lowery is a "clone" of Hoss Mack and that their professional records are the same, linking their political and professional history.
-      THE PIVOT: Article 2 provides historical/political context regarding Sheriff Lowery's established record and relationship to Hoss Mack, which frames the political environment (election cycle) in which the 287(g) tensions described in Article 1 occurred.
-      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, David White, BCSO, Mobile Enforcement and Removal Operations (Mobile ERO), 287(g) program
-    llm_text: Sheriff Anthony Lowery shares professional records with Hoss Mack, linking his past to the current BCSO tensions. See how this history shapes the Mobile ERO dispute over the 287(g) program during Matt McKenzie's campaign.
-    widget_date: "2025-09-26"
-    generated_at: "2026-11-06T07:21:34.735975Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

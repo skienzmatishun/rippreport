@@ -66,10 +66,97 @@ hooks:
       - Lowery
       - Wilters
     llm_text: Baldwin County Judge Clark Stankoski ordered a stolen 68 Chevy Camaro back, but late Friday a District Attorney and Sheriff demanded a reverse. The Backstory Podcast links that fight to Karen Read’s Boston police setup claim and wider SWAT, marijuana, and firearm questions.
+    text: Baldwin County Judge Clark Stankoski ordered a stolen 68 Chevy Camaro back, but late Friday a District Attorney and Sheriff demanded a reverse. The Backstory Podcast links that fight to Karen Read’s Boston police setup claim and wider SWAT, marijuana, and firearm questions.
     widget_date: "2025-02-01"
     generated_at: "2026-11-06T18:57:51.261540Z"
     model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 446917349ce9c5ac699d5d4427e95e1f7862930f12f58576da2546f8f09981a1
+    brief: |-
+      THE CONFLICT: Stephen Nodine (former Mobile County Commissioner) discussed 5th Circuit ruling on drug use/firearm possession; Baldwin County Circuit Judge Clark Stankoski ordered return of alleged stolen 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing, Alabama State Bar); District Attorney and Sheriff later pleaded to reverse the decision (late Friday).
+      THE DISCOVERY: Backstory Podcast No. 186 covers general Alabama legal and political issues, including proposed constitutional amendments in Alabama, but does not specifically confirm or update the Camaro dispute.
+      THE PIVOT: Article 2 does not provide direct evidence or context for the specific legal conflict detailed in Article 1.
+      KEY ENTITIES: Stephen Nodine, Hon. Jason Hadley, Clark Stankoski, Baldwin County, District Attorney, Sheriff, Backstory Podcast No. 186
+    llm_text: Stephen Nodine discussed the 5th Circuit ruling while Judge Clark Stankoski ordered the return of Hon. Jason Hadley's 68 Chevy Camaro in Baldwin County. See how the District Attorney and Sheriff later reversed that decision.
+    text: Stephen Nodine discussed the 5th Circuit ruling while Judge Clark Stankoski ordered the return of Jason Hadley's 68 Chevy Camaro in Baldwin County. The District Attorney and Sheriff later reversed that decision.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T18:57:05.380750Z"
+    model_name: plugsky-lite
+  the-180:
+    refined_source: b274dcf3e67d8b16ff34546898e8e130f3f782f6db9878fb82b6b64e7dded426
+    brief: |-
+      THE CONFLICT:
+      - Stephen Nodine (former Mobile County Commissioner) discussed a 5th Circuit ruling regarding marijuana possession with a firearm.
+      - Hon. Jason Hadley (Attorney in Good Standing of the Alabama State Bar) had a stolen 68 Chevy Camaro seized in Baldwin County.
+      - Baldwin County Circuit Judge Clark Stankoski ordered the vehicle return.
+      - The Baldwin County District Attorney and Sheriff opposed the order and demanded a reversal.
+
+      THE DISCOVERY:
+      - Baldwin County has one week remaining for Sheriff Mack in office.
+      - The Alabama Governor is selecting a replacement for Sheriff Mack.
+
+      THE PIVOT:
+      - Article 2 provides current administrative context (Sheriff Mack's term ending, replacement selection) within the same jurisdiction (Baldwin County, Alabama) where the legal dispute (Hadley/Stankoski/DA/Sheriff) occurred in Article 1.
+
+      KEY ENTITIES:
+      - Stephen Nodine
+      - Baldwin County
+      - Hon. Jason Hadley
+      - Clark Stankoski
+      - District Attorney (Baldwin County)
+      - Sheriff Mack
+      - Alabama Governor
+      - Mobile County Commissioner
+    llm_text: Stephen Nodine discussed a 5th Circuit ruling in Baldwin County just as Sheriff Mack's term ends. See how the Baldwin County legal fight involving Hon. Jason Hadley plays out before the Governor selects a replacement.
+    text: Stephen Nodine discussed a 5th Circuit ruling in Baldwin County just as Sheriff Mack's term ends. See how the Baldwin County legal fight involving Hon. Jason Hadley plays out.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T18:57:45.763484Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 814ed77ba98619380c795e1d85901cf5a0037a7c6edc9e337a9dd598d046814d
+    brief: |-
+      THE CONFLICT: Baldwin County Justice System prosecuted an individual for murder; Baldwin County Circuit Judge Clark Stankoski ordered the return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing of the Alabama State Bar); the District Attorney and Sheriff later decried this decision and demanded reversal.
+      THE DISCOVERY: OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024, alleging Thompson lacked probable cause, escalated a situation over a taser, and shot French, killing him.
+      THE PIVOT: Article 2 provides specific, recent details (July 31, 2024) regarding local law enforcement actions (Bay Minette/Brandon Thompson) and political shifts (Sheriff resignation/appointments) within Alabama, contrasting with the older general mention of the Baldwin County Sheriff's decision and the Camaro seizure in Article 1.
+      KEY ENTITIES: Stephen Nodine, Jason Hadley, Clark Stankoski, Sheriff, OJ French Jr, May Jung LLC, City of Bay Minette, Officer Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, Baldwin County.
+    llm_text: Did Judge Stankoski wrongly order the return of Jason Hadley's 68 Camaro? See how OJ French Jr's family is suing the City of Bay Minette over Officer Brandon Thompson's July 31, 2024, shooting.
+    text: Did Judge Stankoski wrongly order the return of Jason Hadley's 68 Camaro? OJ French Jr's family is suing the City of Bay Minette over Officer Brandon Thompson's July 31, 2024, shooting.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T18:57:56.219572Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    refined_source: db6f046e61ee613c12e5855508452cfedde41870367c36eaf397bf2cd8ed6cda
+    brief: |-
+      THE CONFLICT:
+      Baldwin County Justice System prosecuted Stephen Nodine for murder.
+      Baldwin County Circuit Judge Clark Stankoski ordered return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Alabama State Bar).
+      District Attorney and Sheriff later decried Stankoski's decision and demanded reversal.
+
+      THE DISCOVERY:
+      Article 2 (newer) establishes a connection to Orange Beach, Alabama, on May 27, 2022, regarding the death of Thomas Daniel "Danny" Williams Jr.
+
+      THE PIVOT:
+      Article 2 introduces a specific, unsolved death case (Danny Williams Jr.) in Orange Beach, Alabama, which provides a localized, factual context within the same general Gulf Coast/Alabama region mentioned in Article 1 (Baldwin County, Mobile County).
+
+      KEY ENTITIES:
+      Stephen Nodine
+      Baldwin County Justice System
+      Clark Stankoski
+      Jason Hadley
+      District Attorney
+      Sheriff
+      Thomas Daniel "Danny" Williams Jr
+      Orange Beach, Alabama
+      Mobile County Commissioner
+      Chris Elliott
+      Pensacola Beach
+    llm_text: Judge Clark Stankoski's Camaro ruling sparks conflict in Baldwin County; see how this connects to the unsolved death of Thomas Daniel "Danny" Williams Jr. Discover the Orange Beach details impacting the Gulf Coast now.
+    text: Judge Clark Stankoski's Camaro ruling sparks conflict in Baldwin County. This connects to the unsolved death of Thomas Daniel Williams Jr., impacting the Gulf Coast now.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T18:57:26.208564Z"
+    model_name: plugsky-lite
   scalped:
+    refined_source: 46de948fed165404d100e3482fa7b50d73dfb1d6bcd03ca30afcf9cae36c1895
     brief: |-
       THE CONFLICT:
       1. Hon. Jason Hadley (Alabama State Bar) was involved in the alleged seizure of a stolen 68 Chevy Camaro by the Baldwin County Justice System.
@@ -92,10 +179,12 @@ hooks:
       5. District Attorney
       6. Sheriff
     llm_text: Hon. Jason Hadley's Camaro seizure dispute with Judge Clark Stankoski reveals more than just a local legal fight in Baldwin County. This incident exposes how political ties and systemic lack of accountability influence local law enforcement decisions.
+    text: Hon. Jason Hadley's Camaro seizure dispute with Judge Clark Stankoski reveals more than just a local legal fight in Baldwin County. Political ties and a lack of accountability influence law enforcement decisions.
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T18:57:49.926725Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: a4c73054874a39fe6f51f4a5c5492043e40b6d56b3c6de2e3aa9916cf32a94bf
     brief: |-
       THE CONFLICT:
       *   Hon. Jason Hadley, Attorney in Good Standing of the Alabama State Bar, was involved in the seizure of an alleged stolen 1968 Chevy Camaro.
@@ -117,10 +206,12 @@ hooks:
       *   Alabama Court of Civil Appeals
       *   Baldwin County Justice System
     llm_text: Jason Hadley faced a 1968 Chevy Camaro seizure dispute involving Sheriff Mack and Judge Clark Stankoski. The Alabama Court of Civil Appeals released its ruling, giving the official update on this Baldwin County justice battle.
+    text: Jason Hadley faced a 1968 Chevy Camaro seizure dispute involving Sheriff Mack and Judge Clark Stankoski. The Alabama Court of Civil Appeals released its ruling on this Baldwin County justice battle.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T18:58:50.437267Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: a0e2e41c734e1a69146d58589e186367d52e73dc1becf46825cce44fd34e89f1
     brief: |-
       THE CONFLICT:
       *   Hon. Jason Hadley (Alabama State Bar Attorney) was involved in the seizure of a 68 Chevy Camaro in Baldwin County.
@@ -145,20 +236,42 @@ hooks:
       *   Baldwin County
       *   Alabama State Bar
     llm_text: The Baldwin County Camaro dispute involving Hon. Jason Hadley and Judge Clark Stankoski mirrors massive official corruption. Read how the Hunter Biden pardon and local school district scandals reveal systemic misconduct across Alabama.
+    text: The Baldwin County Camaro dispute involving Hon. Jason Hadley and Judge Clark Stankoski mirrors official corruption. The Hunter Biden pardon and local school district scandals reveal systemic misconduct.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T19:00:04.534781Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
+  hatians-eating-cats:
+    refined_source: 5af225a8ba75387a0407f8af5109e5b91b167865db0cb9babacb857075e70185
     brief: |-
-      THE CONFLICT: Stephen Nodine (former Mobile County Commissioner) discussed 5th Circuit ruling on drug use/firearm possession; Baldwin County Circuit Judge Clark Stankoski ordered return of alleged stolen 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing, Alabama State Bar); District Attorney and Sheriff later pleaded to reverse the decision (late Friday).
-      THE DISCOVERY: Backstory Podcast No. 186 covers general Alabama legal and political issues, including proposed constitutional amendments in Alabama, but does not specifically confirm or update the Camaro dispute.
-      THE PIVOT: Article 2 does not provide direct evidence or context for the specific legal conflict detailed in Article 1.
-      KEY ENTITIES: Stephen Nodine, Hon. Jason Hadley, Clark Stankoski, Baldwin County, District Attorney, Sheriff, Backstory Podcast No. 186
-    llm_text: Stephen Nodine discussed the 5th Circuit ruling while Judge Clark Stankoski ordered the return of Hon. Jason Hadley's 68 Chevy Camaro in Baldwin County. See how the District Attorney and Sheriff later reversed that decision.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T18:57:05.380750Z"
+      THE CONFLICT:
+      - Former Mobile County Commissioner Stephen Nodine discussed 5th Circuit ruling on drug use/firearm possession.
+      - Baldwin County Circuit Judge Clark Stankoski ordered return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing, Alabama State Bar).
+      - District Attorney and Sheriff later pleaded to reverse Stankoski's decision.
+
+      THE DISCOVERY:
+      - Baldwin County Sheriff Department has a new Command Staff.
+      - Renaissance School in Baldwin County was robbed, possibly an inside job, potentially shuttering the school.
+
+      THE PIVOT:
+      - The update confirms ongoing developments within Baldwin County (new Sheriff staff, school robbery) related to the local justice system issues previously highlighted (Stankoski ruling, DA/Sheriff opposition).
+
+      KEY ENTITIES:
+      - Stephen Nodine
+      - Hon. Jason Hadley
+      - Clark Stankoski
+      - Baldwin County
+      - District Attorney
+      - Sheriff (Baldwin County)
+      - Renaissance School
+      - Mobile County
+      - Alabama State Bar
+    llm_text: Stephen Nodine discussed the 5th Circuit ruling while Baldwin County Sheriff's new staff navigates the Renaissance School robbery and Clark Stankoski's Camaro decision. See how local justice battles connect to Baldwin County's biggest current issues.
+    text: Stephen Nodine discussed the 5th Circuit ruling while Baldwin County Sheriff's new staff navigates the Renaissance School robbery. Local justice battles connect to Baldwin County's biggest current issues.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T18:57:35.896174Z"
     model_name: plugsky-lite
   stirring-the-pot-bsp:
+    refined_source: d5cf1bd01ff37c185d9c9b8fd5e092a4b4ba7b0fb414111e13eb8e3e2673a26b
     brief: |-
       THE CONFLICT:
       * Baldwin County Justice System prosecuted Stephen Nodine for murder.
@@ -186,101 +299,7 @@ hooks:
       * BMPD Officer Brandon Thompson
       * Baldwin County
     llm_text: Judge Clark Stankoski ordered the return of Jason Hadley's Camaro in the Stephen Nodine murder case. See how Baldwin County handles everything from lot approvals to the OJ French Jr lawsuit.
+    text: Judge Clark Stankoski ordered the return of Jason Hadley's Camaro in the Stephen Nodine murder case. Baldwin County handles everything from lot approvals to the OJ French Jr lawsuit.
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T18:57:16.134771Z"
-    model_name: plugsky-lite
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT:
-      Baldwin County Justice System prosecuted Stephen Nodine for murder.
-      Baldwin County Circuit Judge Clark Stankoski ordered return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Alabama State Bar).
-      District Attorney and Sheriff later decried Stankoski's decision and demanded reversal.
-
-      THE DISCOVERY:
-      Article 2 (newer) establishes a connection to Orange Beach, Alabama, on May 27, 2022, regarding the death of Thomas Daniel "Danny" Williams Jr.
-
-      THE PIVOT:
-      Article 2 introduces a specific, unsolved death case (Danny Williams Jr.) in Orange Beach, Alabama, which provides a localized, factual context within the same general Gulf Coast/Alabama region mentioned in Article 1 (Baldwin County, Mobile County).
-
-      KEY ENTITIES:
-      Stephen Nodine
-      Baldwin County Justice System
-      Clark Stankoski
-      Jason Hadley
-      District Attorney
-      Sheriff
-      Thomas Daniel "Danny" Williams Jr
-      Orange Beach, Alabama
-      Mobile County Commissioner
-      Chris Elliott
-      Pensacola Beach
-    llm_text: Judge Clark Stankoski's Camaro ruling sparks conflict in Baldwin County; see how this connects to the unsolved death of Thomas Daniel "Danny" Williams Jr. Discover the Orange Beach details impacting the Gulf Coast now.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-06T18:57:26.208564Z"
-    model_name: plugsky-lite
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT:
-      - Former Mobile County Commissioner Stephen Nodine discussed 5th Circuit ruling on drug use/firearm possession.
-      - Baldwin County Circuit Judge Clark Stankoski ordered return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing, Alabama State Bar).
-      - District Attorney and Sheriff later pleaded to reverse Stankoski's decision.
-
-      THE DISCOVERY:
-      - Baldwin County Sheriff Department has a new Command Staff.
-      - Renaissance School in Baldwin County was robbed, possibly an inside job, potentially shuttering the school.
-
-      THE PIVOT:
-      - The update confirms ongoing developments within Baldwin County (new Sheriff staff, school robbery) related to the local justice system issues previously highlighted (Stankoski ruling, DA/Sheriff opposition).
-
-      KEY ENTITIES:
-      - Stephen Nodine
-      - Hon. Jason Hadley
-      - Clark Stankoski
-      - Baldwin County
-      - District Attorney
-      - Sheriff (Baldwin County)
-      - Renaissance School
-      - Mobile County
-      - Alabama State Bar
-    llm_text: Stephen Nodine discussed the 5th Circuit ruling while Baldwin County Sheriff's new staff navigates the Renaissance School robbery and Clark Stankoski's Camaro decision. See how local justice battles connect to Baldwin County's biggest current issues.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T18:57:35.896174Z"
-    model_name: plugsky-lite
-  the-180:
-    brief: |-
-      THE CONFLICT:
-      - Stephen Nodine (former Mobile County Commissioner) discussed a 5th Circuit ruling regarding marijuana possession with a firearm.
-      - Hon. Jason Hadley (Attorney in Good Standing of the Alabama State Bar) allegedly had a stolen 68 Chevy Camaro seized in Baldwin County.
-      - Baldwin County Circuit Judge Clark Stankoski ordered the vehicle return.
-      - The Baldwin County District Attorney and Sheriff opposed the order and demanded a reversal.
-
-      THE DISCOVERY:
-      - Baldwin County has one week remaining for Sheriff Mack in office.
-      - The Alabama Governor is selecting a replacement for Sheriff Mack.
-
-      THE PIVOT:
-      - Article 2 provides current administrative context (Sheriff Mack's term ending, replacement selection) within the same jurisdiction (Baldwin County, Alabama) where the legal dispute (Hadley/Stankoski/DA/Sheriff) occurred in Article 1.
-
-      KEY ENTITIES:
-      - Stephen Nodine
-      - Baldwin County
-      - Hon. Jason Hadley
-      - Clark Stankoski
-      - District Attorney (Baldwin County)
-      - Sheriff Mack
-      - Alabama Governor
-      - Mobile County Commissioner
-    llm_text: Stephen Nodine discussed a 5th Circuit ruling in Baldwin County just as Sheriff Mack's term ends. See how the Baldwin County legal fight involving Hon. Jason Hadley plays out before the Governor selects a replacement.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T18:57:45.763484Z"
-    model_name: plugsky-lite
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT: Baldwin County Justice System prosecuted an individual for murder; Baldwin County Circuit Judge Clark Stankoski ordered the return of a seized 68 Chevy Camaro from Hon. Jason Hadley (Attorney in Good Standing of the Alabama State Bar); the District Attorney and Sheriff later decried this decision and demanded reversal.
-      THE DISCOVERY: OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024, alleging Thompson lacked probable cause, escalated a situation over a taser, and shot French, killing him.
-      THE PIVOT: Article 2 provides specific, recent details (July 31, 2024) regarding local law enforcement actions (Bay Minette/Brandon Thompson) and political shifts (Sheriff resignation/appointments) within Alabama, contrasting with the older general mention of the Baldwin County Sheriff's decision and the Camaro seizure in Article 1.
-      KEY ENTITIES: Stephen Nodine, Jason Hadley, Clark Stankoski, Sheriff, OJ French Jr, May Jung LLC, City of Bay Minette, Officer Brandon Thompson, Mayor Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, Baldwin County.
-    llm_text: Did Judge Stankoski wrongly order the return of Jason Hadley's 68 Camaro? See how OJ French Jr's family is suing the City of Bay Minette over Officer Brandon Thompson's July 31, 2024, shooting.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T18:57:56.219572Z"
     model_name: plugsky-lite

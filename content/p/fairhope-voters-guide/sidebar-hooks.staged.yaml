@@ -1,0 +1,134 @@
+metadata:
+  generated_at: "2026-11-07T16:02:01.860046Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-voters-guide
+  main_date: "2020-08-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  scary:
+    refined_source: 64d79397175ecec3572540db98dd08da283b104f3cb2e978178ca4ef2a308668
+    brief: |-
+      THE CONFLICT: 2016 municipal election in Fairhope; incumbent Mayor Timothy Kant defeated by Karin Wilson with a 400-plus vote margin; prior complaints regarding election tampering in 2008 and 2012 voting cycles prompted Alabama Secretary of State Office investigation.
+      THE DISCOVERY: The Widget Article links Sherry Sullivan, the CATALYST candidate for Mayor, to undermining Mayor Karin Wilson and knowledge of BP fraud without reporting it.
+      THE PIVOT: The Widget Article establishes the history of the "CATALYST" machine's opposition to Mayor Wilson and its alleged corruption ties (including BP issues), providing context to the Main Article's claims about the current council being controlled by "CATALYST" and their intent to thwart Wilson's efforts.
+      KEY ENTITIES: Karin Wilson, Timothy Kant, Sherry Sullivan, CATALYST, Jack Burrell, Kevin Boone, Scott Boone, Robert Brown, Deb Hopkins, Joshua Gammon, Howell Gibbens, Wilson (as Mayor), BP
+    llm_text: Sherry Sullivan undermined Mayor Karin Wilson and knew about BP fraud; see how the CATALYST machine fought Wilson in the 2016 Fairhope election.
+    text: Sherry Sullivan opposed Mayor Karin Wilson and possessed knowledge of BP fund misuse. The political machine fought Wilson during the 2016 municipal election in Fairhope.
+    widget_date: "2020-08-01"
+    generated_at: "2026-11-07T16:00:21.762111Z"
+    model_name: plugsky-lite
+  oil-slick:
+    brief: "THE CONFLICT: \n- In the 2016 municipal election, the Alabama Secretary of State's Office Elections Division intervened by sending a legal representative to oversee voting and counting in Fairhope due to numerous complaints of election tampering during the 2008 and 2012 voting cycles.\n- Incumbent Mayor Timothy Kant was defeated by a 400-plus vote margin by political novice and bookstore proprietor Karin Wilson, making her Fairhope's first female mayor.\n- Despite the mayoral upset, the 2016 election populated the city council with five candidates backed by the previous administration—specifically operating under the local political machine known as \"CATALYST\" (or Scott Boone Consulting), led by Scott Boone and Kevin Boone.\n- Over the next four years, the council (led by Council President Jack Burrell, Kevin Boone, and Robert Brown) routinely opposed Mayor Karin Wilson's efforts regarding infrastructure, growth management, and wastewater/stormwater treatment.\n\nTHE DISCOVERY: \n- Article 2 exposes John Manelos—a former BP executive, Deepwater Horizon oil spill cleanup overseer, and 2020 Fairhope mayoral candidate—for attempting to suppress public criticism and free speech by deleting critical Facebook comments and promoting a \"Good Vibes\" pledge.\n- The widget background documents how Manelos and mayoral rival Sherry Sullivan utilized the \"Good Vibes\" pledge to deflect scrutiny and mask past controversies—specifically connecting Manelos to BP's use of 2 million gallons of toxic Corexit dispersant during the Deepwater Horizon disaster.\n- It highlights how candidate Sherry Sullivan was part of the corrupt, developer-friendly administration that was voted out in 2016, and is now being sponsored by the CATALYST machine (Scott and Kevin Boone) to unseat incumbent Mayor Karin Wilson in the August 25, 2020 election.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun by exposing the direct ties between the current municipal challengers (like Sherry Sullivan and John Manelos) and corporate/political entities that attempt to subvert transparency and free speech.\n- While Article 1 outlines the structural corruption of the \"CATALYST\" machine and the \"3 B's\" (Burrell, Boone, Brown) on the city council, Article 2 shows that the mayoral challengers running against incumbent Mayor Karin Wilson employ the exact same tactics of censorship, image-scrubbing, and avoidance of past accountability (typified by Manelos's BP history and Sullivan's ties to the ousted 2016 administration).\n\nKEY ENTITIES: \n- Karin Wilson\n- Timothy Kant\n- Jack Burrell\n- Scott Boone\n- Kevin Boone\n- Robert Brown\n- John Manelos\n- Sherry Sullivan\n- Deb Hopkins\n- Joshua Gammon\n- Howell Gibbens\n- Annette Sanders\n- Lesley Pacey\n- Paul Ripp\n- John Avant\n- CATALYST / Scott Boone Consulting"
+    llm_text: Ex-BP executive John Manelos and CATALYST-backed challenger Sherry Sullivan are using censorship and image-scrubbing to mask their deep ties to past local corruption. Read how they mirror the old guard's playbook to silence transparency and defeat Mayor Karin Wilson.
+    text: Ex-BP executive John Manelos and CATALYST-backed challenger Sherry Sullivan are using censorship and image-scrubbing to mask their deep ties to past local corruption. Read how they mirror the old guard's playbook to silence transparency and defeat Mayor Karin Wilson.
+    widget_date: "2020-07-29"
+    generated_at: "2026-11-07T16:00:23.757650Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-last-stand:
+    refined_source: 7fdadd3ac04f8801476ee78a8ee19bcc2874f5e0544e655a70cd490e398ac373
+    brief: |-
+      THE CONFLICT: In 2008 and 2012, Fairhope experienced complaints of election tampering. In 2016, the incumbent Mayor Timothy Kant was defeated by Karin Wilson (first woman Mayor), following oversight from the Alabama Secretary of State's Office. The previous administration (Kant/CATALYST) was linked to BP fraud cover-up involving Sherry Sullivan.
+
+      THE DISCOVERY: Article 2 identified Jack Burrell, Kevin Boone, and Robert Brown as the "three B's" and key members of the self-serving CATALYST council, confirming they used office for personal gain and cost taxpayers millions. It also revealed Mayor Wilson secured $18 million in BP RESTORE Act funds and restored fiscal health, ending a $6 million annual deficit.
+
+      THE PIVOT: Article 2 established the historical context and specific allegations of corruption (e.g., BP fraud cover-up, self-dealing by the B's) that led to the 2016 election defeat, providing the foundational evidence used in Article 1 to argue against the current CATALYST incumbents and for the candidates (Deb Hopkins, Joshua Gammon, Howell Gibbens) seeking to prevent a return to the status quo.
+
+      KEY ENTITIES: Karin Wilson (Mayor), Timothy Kant (Former Mayor), Jack Burrell, Deb Hopkins, Kevin Boone, Scott Boone, Joshua Gammon, Robert Brown, Howell Gibbens, Sherry Sullivan, Cory Martin, Jimmy Conyers, Paul Ripp, CATALYST, BP, Alabama Secretary of State's Office, $18 million (BP RESTORE funds), 2016.
+    llm_text: Did former Mayor Timothy Kant's self-dealing and BP fraud cover-up lead to the 2016 election defeat? See how Karin Wilson secured $18 million in BP RESTORE funds, proving why candidates like Deb Hopkins must stop CATALYST's corrupt status quo.
+    text: Former Mayor Timothy Kant faced a 2016 election defeat after self-dealing and BP fund scandals. Karin Wilson secured eighteen million dollars in BP RESTORE funds to repair the city budget.
+    widget_date: "2020-07-22"
+    generated_at: "2026-11-07T16:01:16.089303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-going-backwards:
+    refined_source: d6b3beca44c0bdddd0eb9a2abc3fafb9c8546786f402dc2b5d0c0506800adbd4
+    brief: |-
+      THE CONFLICT:
+      2016 municipal election in Fairhope: Incumbent Mayor Timothy Kant was defeated by Karin Wilson, the city's first woman Mayor, by a 400-plus vote margin.
+      Election oversight: The Alabama Secretary of State's Office sent a legal representative to Fairhope due to numerous complaints regarding election tampering in 2008 and 2012.
+
+      THE DISCOVERY:
+      Article 2 (older context) revealed that council members Jack Burrell, Kevin Boone, and Robert Brown (the "3 B's") betrayed Fairhope and used their elected office for personal gain.
+      Article 2 also exposed corruption linked to the BP Oil Spill, specifically the theft of $639,000 of BP grant money by a former Mayor and State Senator (Sullivan).
+      Article 2 detailed Mayor Wilson’s accomplishments during her four-year term, including reversing an annual $6 million debt, increasing city/utility cash funds by 59.18% ($17 million), and obtaining $23 million in grants.
+
+      THE PIVOT:
+      Article 2 establishes the historical foundation of corruption involving the 3 B's and the CATALYST machine, proving the current allegations in Article 1 (e.g., Burrell's 8 years, Brown's near-million-dollar contracts) are not isolated incidents but part of a documented pattern of self-serving governance that Mayor Wilson successfully fought against since 2016.
+
+      KEY ENTITIES:
+      Karin Wilson
+      Timothy Kant
+      Jack Burrell
+      Robert Brown
+      Kevin Boone
+      Scott Boone
+      Deb Hopkins
+      Howell Gibbens
+      Joshua Gammon
+      Sullivan
+      Timothy Kant
+      CATALYST
+      Alabama Secretary of State's Office
+      Paul Ripp
+      John Avant
+      BP
+    llm_text: Karin Wilson defeated Timothy Kant in 2016, but Fairhope’s corruption runs deeper than the election. Council members Jack Burrell and Robert Brown used their elected power for personal gain, proving Wilson successfully fought a documented pattern of self-serving governance.
+    text: Karin Wilson defeated Timothy Kant in 2016, but council members Jack Burrell and Robert Brown continued using their offices for personal gain. Wilson fought a documented pattern of self-serving governance throughout her term.
+    widget_date: "2020-08-19"
+    generated_at: "2026-11-07T16:00:03.672180Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  questions-for-fairhope:
+    refined_source: f10b458e5f6d0740f30bb98d23e7b6da0e37c49d1b4baba92f557ce37fdee428
+    brief: "THE CONFLICT:\n- 2016 Municipal Election: Incumbent Mayor Timothy Kant was defeated by newcomer Karin Wilson by a margin of 400+ votes.\n- Election Oversight: The Alabama Secretary of State's Office sent legal representatives to oversee the 2016 vote due to complaints of election tampering during the 2008 and 2012 cycles.\n- Emergence of CATALYST: A political machine/group of \"good ole boys\" supported by developers rose to power, attempting to thwart Mayor Wilson's administration through the City Council.\n\nTHE DISCOVERY:\n- Origin of CATALYST: The political group \"CATALYST\" was formed following the firing of Sherry Sullivan, who had worked under Mayor Kant for nearly 16 years.\n- Candidate Background: Sherry Sullivan, a mayoral candidate, is a former city employee who sued the city after her termination.\n- Systematic Collusion: Early records indicated a pattern of the City Attorney and council members colluding to obstruct the Mayor, leaking documents, and using office for personal gain.\n\nTHE PIVOT:\n- Article 2 establishes the \"origin story\" of the current political landscape, identifying Sherry Sullivan—the current CATALYST mayoral candidate—as the historical catalyst for the very machine now attempting to control the city. \n- It provides the foundational context for the specific corruption allegations in Article 1, such as the $2.65 million recreational land purchase and the \"3 B's\" (Burrell, Brown, Boone) political block, proving these are not isolated incidents but part of a long-standing, developer-backed pattern.\n\nKEY ENTITIES:\n- Karin Wilson (Current Mayor)\n- Timothy Kant (Former Mayor)\n- Sherry Sullivan (Mayoral Candidate/Former employee)\n- Jack Burrell (Council President)\n- Robert Brown (Councilman)\n- Scott Boone (Head of CATALYST/Scott Boone Consulting)\n- Kevin Boone (Council Candidate)\n- CATALYST (Political organization)\n- Alabama Secretary of State's Office Elections Division\n- John Avant (Business partner to Boone)"
+    llm_text: Sherry Sullivan didn’t just enter the race; she ignited the CATALYST machine now fighting to control our city. Uncover how a single firing launched this developer-backed "good ole boy" network that uses systematic collusion to sabotage Mayor Karin Wilson.
+    text: Sherry Sullivan entered the mayoral race backed by developer networks. A single firing launched this network of officials who used systematic collusion to oppose Mayor Karin Wilson.
+    widget_date: "2020-08-17"
+    generated_at: "2026-11-07T16:01:03.595465Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  catalyst-signs:
+    brief: |-
+      THE CONFLICT:
+      - 2016: Alabama Secretary of State's Office Elections Division sent a legal representative to Fairhope to oversee voting and counting of votes for official tabulation, after receiving numerous complaints regarding election tampering during the 2008 and 2012 voting cycles.
+      - Incumbent Mayor Timothy Kant defeated by Karin Wilson (first woman Mayor of Fairhope, political novice/bookstore proprietor) by a 400-plus vote margin in the 2016 municipal election.
+      - Council was populated by five individuals selected by the previous mayor and his compromised minions (CATALYST); good ole boys on council, CATALYST.
+      - Over the last four years (post-2016): current council thwarted Mayor Wilson's efforts to improve planning, growth management, and wastewater/storm water infrastructure.
+
+      THE DISCOVERY:
+      - Catalyst has been around for a long time under various names; recently became Scott Boone Consulting.
+      - CATALYST name had to be abandoned, it had become politically toxic; elected officials under the CATALYST banner were disassociating.
+      - CATALYST/Scott Boone, CSB, are one in the same.
+      - CSB operates much like the Club for Growth PAC, helps elect but owns from that day; they support each other and share gratuity; political alliance spans the county.
+      - CSB signs all same, pvc framed; CSG uses signs as number one tool; CSB put signs up in Fairhope, Daphne, Spanish Fort and Bay Minette overnight, hundreds of signs, all supporting CSB candidates.
+      - Combination of signs in Fairhope: Sherry, Boone (father of Scott Boone), Brown and Burrell = 100% CSB; voting for these four is going backwards and handing Fairhope over to developers and corrupt politicians.
+
+      THE PIVOT:
+      - Article 2 reveals how CATALYST/Scott Boone Consulting (CSB) operates through coordinated signs and political alliance; this is the smoking gun/context for Article 1's voter guide warning not to vote for CATALYST candidates.
+
+      KEY ENTITIES:
+      - Timothy Kant – former Mayor, defeated in 2016.
+      - Karin Wilson – Mayor, first woman of Fairhope, incumbent; defeated Kant in 2016; current mayor at time of article.
+      - Sherry Snedeker – CATALYST candidate for Mayor; fired disgruntled employee who sued the city; high school education; sponsored by CATALYST/Scott Boone and Kevin Boone; part of corrupt administration voted out in 2016.
+      - Scott Boone – self-proclaimed head of CATALYST; now Scott Boone Consulting; CSB.
+      - Kevin Boone – father of Scott Boone; council candidate; numerous LLCs; featured in Strawman fraud in Lagniappe; partner John Avant in LLCs.
+      - Joshua Gammon – young CSB candidate, not connected with CATALYST.
+      - Jack Burrell – incumbent council president, President of council for 8 years; refused local blogger Paul Ripp his right to free speech during public participation; Ripp sued City "CATALYST" council in federal court, vindicated with monetary settlement; corruption trail included Airport, bid rigging, Triangle lawsuit, voting himself full family insurance, purchase of 2.65 million farmland as recreational property then leasing it for 9,000/year back to farmers; bragged he would drive Mayor Wilson out of office.
+      - Deb Hopkins – running against Jack Burrell; fresh face; not CATALYST; honest; Fairhope's opportunity to vote out Burrell and CATALYST.
+      - Robert Brown – incumbent councilman; fleecing hometown; ethics complaint filed against him for using public office for personal gain, filed with Alabama Attorney General; used office and inside information to land concession building contract at soccer fields and Fairhope Art Center contract, totaling close to a million dollars.
+      - Howell Gibbens – running against Robert Brown; huge improvement over CATALYST Brown.
+      - Paul Ripp – local blogger; refused right to free speech during public participation; sued City "CATALYST" council in federal court; vindicated with monetary settlement.
+      - Jerry Carl – defeated CATALYST/SCOTT BOONE candidate "lowtower."
+      - Municipal Judge – devout supporter of CSB; city council voted in favor of judge multiple times; Burrell on bid committee that awarded judge prime location for jet airplane hanger; judge had Club for Growth candidate "lowtower" signs on his property, provided by CSB.
+      - Alabama Secretary of State Office Elections Division – sent legal rep to Fairhope; received complaints regarding election tampering during 2008 and 2012 voting cycles.
+      - CATALYST – local political machine; now Scott Boone Consulting; CSB.
+      - Fairhope, Alabama; Baldwin County (Daphne, Spanish Fort, Bay Minette).
+    llm_text: After Alabama's elections office got complaints about tampering in 2008 and 2012, Mayor Karin Wilson just beat Timothy Kant by 400-plus votes. Now Scott Boone's CATALYST machine is pushing council candidates with overnight signs—and Fairhope readers should care before they vote.
+    text: After Alabama's elections office got complaints about tampering in 2008 and 2012, Mayor Karin Wilson just beat Timothy Kant by 400-plus votes. Now Scott Boone's CATALYST machine is pushing council candidates with overnight signs—and Fairhope readers should care before they vote.
+    widget_date: "2020-08-07"
+    generated_at: "2026-11-07T16:01:06.974295Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-aka-scott-boone-consulting:
+    brief: "THE CONFLICT: In the 2016 Fairhope municipal election, incumbent Mayor Timothy Kant was defeated by political novice Karin Wilson by a 400-plus vote margin after the Alabama Secretary of State’s Office Elections Division intervened to oversee voting following complaints of election tampering from the 2008 and 2012 cycles. Despite Wilson's mayoral win, the city council remained populated by pro-development incumbents aligned with the local political machine.\n\nTHE DISCOVERY: The older article (Widget Article/Scott Boone Consulting) exposes the inner workings of \"CATALYST,\" a political machine financed by developers and landowners that rebranded to \"Scott Boone Consulting\" due to its toxic reputation. It reveals that the group—led by Scott Boone and his father, Fairhope Councilman Kevin Boone—operates an intricate web of undisclosed LLCs and insider deals involving municipal contracts, land fraud (as detailed in the *Lagniappe* \"Strawman\" series), and associates like John Avant and former County Commissioner Tucker Dorsey.\n\nTHE PIVOT: Article 2 serves as the smoking gun for Article 1 by providing the documented backstory of corruption, land fraud (the *Lagniappe* \"Strawman\" series), and hidden LLC networks that connect directly to the incumbent council members—specifically Kevin Boone, Jack Burrell, and Robert Brown—whom the main article urges voters to defeat in the August 25 municipal election.\n\nKEY ENTITIES: \n- Scott Boone (Head of CATALYST / Scott Boone Consulting)\n- Kevin Boone (Fairhope Councilman, Kevin's father)\n- Karin Wilson (Mayor of Fairhope)\n- Timothy Kant (Former Mayor of Fairhope)\n- Jack Burrell (Council President)\n- Robert Brown (Councilman)\n- John Avant (Business associate / LLC partner)\n- Tucker Dorsey (Former County Commissioner)\n- Jerry Carl (Congressional candidate)\n- Deb Hopkins (Council candidate)\n- Joshua Gammon (Council candidate)\n- Howell Gibbens (Council candidate)\n- Paul Ripp (Local blogger/plaintiff)"
+    llm_text: When political novice Karin Wilson defeated Mayor Timothy Kant in 2016, a developer-backed machine called CATALYST still controlled the city council. Read the shocking Scott Boone Consulting files to uncover the hidden LLCs and land fraud driving the corruption your vote must stop.
+    text: When political novice Karin Wilson defeated Mayor Timothy Kant in 2016, a developer-backed machine called CATALYST still controlled the city council. Read the shocking Scott Boone Consulting files to uncover the hidden LLCs and land fraud driving the corruption your vote must stop.
+    widget_date: "2020-08-05"
+    generated_at: "2026-11-07T16:00:18.480385Z"
+    model_name: gemini-3.5-flash-lite

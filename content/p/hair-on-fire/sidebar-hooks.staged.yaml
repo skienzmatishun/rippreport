@@ -5,13 +5,27 @@ metadata:
   main_date: "2023-05-18"
   model_name: plugsky-lite
 hooks:
+  catalyst-alabama-values:
+    refined_source: 5e73c4402b5a5e98946afcd6632b3f00b855ed2afbf9f78bbc4f86c4d37942b4
+    brief: |-
+      THE CONFLICT: Chris Elliott was appointed to Baldwin County Commission by Governor Robert Bentley; Elliott was involved in planning to take control of the Baldwin County Commission via 'Catalyst' group, which included Elliott Haygood and Stacy (consultant).
+      THE DISCOVERY: Elliott used his elected position to reduce DUI penalties and changed his story; Elliott previously took credit for the 1c sales tax renewal (2012 penny tax) and the 2015 Build Baldwin Now 8 mil property tax proposal.
+      THE PIVOT: Article 2 established Elliott's initial appointment via Bentley and his deep ties to the 'Catalyst' scheme aimed at County Control, providing context for his current questionable legislative actions (SB 306) detailed in Article 1.
+      KEY ENTITIES: Chris Elliott, Robert Bentley, Sen. Tripp Pittman, Sen. Greg Albritton, Sheriff Hoss Mack, Elliott Haygood, Stacy, Baldwin County Commission, SB 306, Tucker Dorsey, ACCA
+    llm_text: Chris Elliott, appointed by Robert Bentley, used his commission seat to cut DUI penalties after pushing the 'Catalyst' group's takeover. See how his past claims on tax renewals connect to his current SB 306 actions.
+    text: Chris Elliott used his commissioner seat to cut DUI penalties after pushing a political takeover. Examine his past tax claims alongside his recent Senate Bill actions.
+    widget_date: "2018-05-18"
+    generated_at: "2026-11-06T19:50:17.834943Z"
+    model_name: plugsky-lite
   backstory-155:
+    refined_source: 749349cb27060e8ae3b37630f46f552dad08e5c0eb3c10315d416ef43b82c930
     brief: |-
       THE CONFLICT: None specified in Article 2 (older context).
       THE DISCOVERY: Article 2 details Alabama Attorney General Steve Marshall's testimony against ESG investing before Congress.
       THE PIVOT: Article 2 provides context on political/governance debates (ESG, Woke Capitalism) which underpins the ethical concerns raised in Article 1 regarding local government conduct (Elliott's leadership).
       KEY ENTITIES: Steve Marshall, Chris Elliott, Sen. Greg Albritton, Sheriff Hoss Mack, Baldwin County, ACCA, ESG, Alabama Attorney General.
     llm_text: Alabama Attorney General Steve Marshall challenged ESG in Congress, showing how state politics shapes investment. See how this debate connects to local governance issues facing Chris Elliott in Baldwin County.
+    text: Attorney General Steve Marshall challenged environmental, social, and governance investments in Congress. See how state investment policies connect to governance in Baldwin County.
     widget_date: "2023-05-13"
     generated_at: "2026-11-06T19:49:36.219992Z"
     model_name: plugsky-lite
@@ -109,10 +123,12 @@ hooks:
       - Albritton? Elliott? (from metadata)
       - Lowery, Wilters, etc.
     llm_text: Sen. Chris Elliott carried water for Sheriff Hoss Mack while Baldwin County lawmakers ignored voters. Now Fairhope’s FAUXHOPE tunnel, triangle, and K-1 spending mess shows how local government secrecy and developer conflicts put politics before taxpayers.
+    text: Sen. Chris Elliott carried water for Sheriff Hoss Mack while Baldwin County lawmakers ignored voters. Now Fairhope’s FAUXHOPE tunnel, triangle, and K-1 spending mess shows how local government secrecy and developer conflicts put politics before taxpayers.
     widget_date: "2023-05-09"
     generated_at: "2026-11-06T19:50:42.595264Z"
     model_name: recursive/flint-v1.0:free
   go-to-hell-ethics:
+    refined_source: e747d84a9547baf222783f7eca47cabb4bc10cfb13dda803f073d59bfa3bf1fa
     brief: |-
       THE CONFLICT:
       Mayor Bob Wills (Bay Minette) originally leased his building to the Baldwin County Legislative Delegation for $4,090 per month for five years (December reporting).
@@ -130,20 +146,24 @@ hooks:
       KEY ENTITIES:
       Chris Elliott (State Senator), Sen. Greg Albritton, Sheriff Hoss Mack, Mayor Bob Wills, Brad Hicks (Baldwin Commission Attorney), Baldwin County Commission, ACCA, Alabama Ethics Commission.
     llm_text: Mayor Bob Wills' office lease to the Baldwin County Delegation raises ethical red flags. Despite Attorney Brad Hicks' dismissal, this financial pattern fuels opposition to Sen. Chris Elliott's county reform efforts.
+    text: Mayor Bob Willis leased office space to the Baldwin County Delegation, raising ethics questions. Attorney Brad Hicks dismissed the complaint amid ongoing county reform efforts.
     widget_date: "2023-01-28"
     generated_at: "2026-11-06T19:50:23.210950Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-black-hole:
+    refined_source: 67e9a3f9e24e6eca7fcb309e23e970aa63ff62e7dd65cc11e02dbc97b1f5c72c
     brief: |-
       THE CONFLICT: Allegations of "Self Dealing" against Ethics Executive Director Tom Albritton regarding the Mabel Amos trust, which began issues in 2014 and involved Albritton's 2015 appointment. Complaints were filed on July 16, 2021, and August 21, 2022.
       THE DISCOVERY: Tom Albritton and co-trustees/Regions Bank altered the trust handling in 2014, providing scholarships (e.g., Circuit Judge Ben Bowden received $45,000) to privileged children instead of needy students, and Albritton failed to disclose his trustee role on his 2015 economic statement.
       THE PIVOT: Article 2 reveals a history of systemic political and ethical corruption within Alabama state agencies (Ethics Commission, Alabama Bar), demonstrating a pattern of cover-up. This context supports Senator Greg Albritton’s opposition in Article 1 to Senator Chris Elliott’s Senate Bill 306, framing Elliott’s actions as part of broader political interference in Baldwin County.
       KEY ENTITIES: Chris Elliott, Hoss Mack, Greg Albritton, Tom Albritton, Clark Morris, Steve Marshall, Mabel Amos, Cynthia Raulston, Regions Bank, Baldwin County Commission, Senate Bill 306.
-    llm_text: Ethics Executive Tom Albritton faced "self dealing" claims over the Mabel Amos trust, allegedly giving $45,000 to privileged children instead of needy students. This scandal reveals systemic corruption in Alabama state agencies, fueling political clashes like Greg Albritton's opposition to Chris Elliott's Senate Bill 306.
+    llm_text: Ethics Executive Tom Albritton faced "self dealing" claims over the Mabel Amos trust, giving $45,000 to privileged children instead of needy students. This scandal reveals systemic corruption in Alabama state agencies, fueling political clashes like Greg Albritton's opposition to Chris Elliott's Senate Bill 306.
+    text: Tom Albritton faced self-dealing claims over the Mabel Amos trust by giving funds to privileged children. This state agency scandal links to local political clashes.
     widget_date: "2022-10-21"
     generated_at: "2026-11-06T19:51:34.446648Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   writ-of-mandamus-update:
+    refined_source: 97dd78ecf908c58a916d5cbf3b512dcbe80696e0bed44be2c90765d5e829b58d
     brief: |-
       THE CONFLICT:
       - October 18th: Francis Paul Ripp filed a Writ of Mandamus regarding ethics cases.
@@ -170,10 +190,12 @@ hooks:
       - Baldwin County
       - ACCA
     llm_text: Greg Albritton faces ethics questions over the Mabel Amos Fund, demanding his resignation from the Ethics Commission. See how this controversy connects to Francis Paul Ripp's Writ of Mandamus and Judge Hardwick's recusal.
+    text: Greg Albritton faced ethics questions over the Mabel Amos Fund and calls for his resignation. This controversy links to Francis Paul Ripp and Judge Hardwick.
     widget_date: "2021-10-26"
     generated_at: "2026-11-06T19:49:47.021583Z"
     model_name: plugsky-lite
   your-rights-your-money:
+    refined_source: ba6b66634ca7afe4253df82b322e03bba827a5e048a16ea48d49906725243037
     brief: |-
       THE CONFLICT:
       - 2017: Alabama Supreme Court rejected a request from Lagniappe in Mobile concerning a 2017 traffic stop and fatal shooting involving Baldwin County Sheriff Huey Hoss Mack.
@@ -199,10 +221,12 @@ hooks:
       - Baldwin County Commission
       - ACCA
     llm_text: Alabama's Supreme Court shielded Sheriff Huey Mack's BCSO from releasing $662K in camera footage. See how this lack of transparency fuels current political battles like Senate Bill 306.
+    text: The Alabama Supreme Court shielded Sheriff Huey Mack from releasing $662,000 in camera footage. Public transparency disputes continue to drive current legislative battles.
     widget_date: "2021-09-27"
     generated_at: "2026-11-06T19:49:58.142985Z"
     model_name: plugsky-lite
   license-to-steal:
+    refined_source: 04ae936cea490ce2e93943df5bf47a4a9aad9bef0a3191ecb7661845969822d6
     brief: |-
       THE CONFLICT:
       - Allegations of political corruption and white collar crime in Alabama.
@@ -226,16 +250,7 @@ hooks:
       - Alabama Ethics Commission
       - Baldwin County Commission
     llm_text: Did Alabama's Ethics Commission already face scrutiny over Tom Allbritton and John Plunk before the recent corruption claims? See how this history undermines trust when investigating figures like Chris Elliott and Sheriff Hoss Mack.
+    text: The Alabama Ethics Commission faced scrutiny over Tom Albritton and John Plunk. That history affects public trust during investigations into Chris Elliott and Hoss Mack.
     widget_date: "2021-07-28"
     generated_at: "2026-11-06T19:50:09.585560Z"
-    model_name: plugsky-lite
-  catalyst-alabama-values:
-    brief: |-
-      THE CONFLICT: Chris Elliott was appointed to Baldwin County Commission by Governor Robert Bentley; Elliott was involved in planning to take control of the Baldwin County Commission via 'Catalyst' group, which included Elliott Haygood and Stacy (consultant).
-      THE DISCOVERY: Elliott used his elected position to reduce DUI penalties and changed his story; Elliott previously took credit for the 1c sales tax renewal (2012 penny tax) and the 2015 Build Baldwin Now 8 mil property tax proposal.
-      THE PIVOT: Article 2 established Elliott's initial appointment via Bentley and his deep ties to the 'Catalyst' scheme aimed at County Control, providing context for his current questionable legislative actions (SB 306) detailed in Article 1.
-      KEY ENTITIES: Chris Elliott, Robert Bentley, Sen. Tripp Pittman, Sen. Greg Albritton, Sheriff Hoss Mack, Elliott Haygood, Stacy, Baldwin County Commission, SB 306, Tucker Dorsey, ACCA
-    llm_text: Chris Elliott, appointed by Robert Bentley, used his commission seat to cut DUI penalties after pushing the 'Catalyst' group's takeover. See how his past claims on tax renewals connect to his current SB 306 actions.
-    widget_date: "2018-05-18"
-    generated_at: "2026-11-06T19:50:17.834943Z"
     model_name: plugsky-lite

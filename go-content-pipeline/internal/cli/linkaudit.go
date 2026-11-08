@@ -4,12 +4,15 @@ import (
 	"context"
 	"flag"
 	"fmt"
+	"os"
 	"path/filepath"
 	"strings"
 	"time"
 
 	"github.com/rippreport/go-content-pipeline/internal/archive"
+	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/linkaudit"
+	"github.com/rippreport/go-content-pipeline/internal/server"
 )
 
 func auditPaths() (archive.Options, string) {
@@ -170,23 +173,28 @@ func (a *App) runLinkRepairs(ctx context.Context, args []string, redirects bool)
 
 func (a *App) runAuditContent(ctx context.Context, args []string) int {
 	defaults, input := auditPaths()
-	defaults.Model = "qwen/qwen3-30b-a3b-128k"
+	defaults.Model = ""
+	defaults.ModelURL = "http://localhost:8080/v1"
 	defaults.ModelTimeout = 600 * time.Second
 	defaults.MaxContent = 8000
 	o := linkaudit.ContentOptions{ContentDir: defaults.ContentDir, Report: filepath.Join(filepath.Dir(filepath.Dir(input)), "hugo_post_audit_report.json"), Resume: true, UseModel: true, Delay: 2 * time.Second, Model: defaults}
 	fs := flag.NewFlagSet("audit-content", flag.ContinueOnError)
 	fs.SetOutput(a.stdout)
+	configPath := fs.String("config", "config.yaml", "Path to pipeline configuration")
+	managed := fs.Bool("managed", false, "Auto-manage llama-server (default from config)")
 	fs.StringVar(&o.ContentDir, "content-dir", o.ContentDir, "Hugo post bundle directory")
 	fs.StringVar(&o.Report, "report", o.Report, "Resumable content audit JSON array")
-	fs.StringVar(&o.Model.ModelURL, "lmstudio-url", o.Model.ModelURL, "OpenAI-compatible API base URL")
-	fs.StringVar(&o.Model.Model, "model", o.Model.Model, "Content audit model")
+	fs.StringVar(&o.Model.ModelURL, "llama-server-url", o.Model.ModelURL, "llama-server API base URL (default from config)")
+	fs.StringVar(&o.Model.ModelURL, "lmstudio-url", o.Model.ModelURL, "Deprecated alias for --llama-server-url")
+	fs.StringVar(&o.Model.Model, "model", o.Model.Model, "GGUF model path or name (default: llama_server.llm_model)")
 	fs.DurationVar(&o.Model.ModelTimeout, "model-timeout", o.Model.ModelTimeout, "Timeout per model request")
 	fs.IntVar(&o.Model.Retries, "model-retries", o.Model.Retries, "Model request attempts")
 	fs.IntVar(&o.Model.MaxContent, "max-content-length", o.Model.MaxContent, "Maximum characters sent per post")
 	fs.DurationVar(&o.Delay, "request-delay", o.Delay, "Delay between posts")
 	fs.BoolVar(&o.Resume, "resume", true, "Skip already audited posts")
 	posts := fs.String("posts", "", "Comma-separated post slugs")
-	noModel := fs.Bool("no-lmstudio", false, "Use local conservative WordPress shortcode detection")
+	noModel := fs.Bool("no-model", false, "Use local conservative WordPress shortcode detection without llama-server")
+	fs.BoolVar(noModel, "no-lmstudio", false, "Deprecated alias for --no-model")
 	if err := fs.Parse(args); err != nil {
 		if err == flag.ErrHelp {
 			return 0
@@ -199,6 +207,62 @@ func (a *App) runAuditContent(ctx context.Context, args []string) int {
 	}
 	o.Posts = parseSlugs(*posts)
 	o.UseModel = !*noModel
+	// Validate before starting an expensive model process.
+	if o.Delay < 0 {
+		return a.auditError(ctx, fmt.Errorf("request delay must be nonnegative"))
+	}
+	if err := o.Model.Validate(); err != nil {
+		return a.auditError(ctx, err)
+	}
+	if o.UseModel {
+		cfg := config.DefaultConfig()
+		explicit := map[string]bool{}
+		fs.Visit(func(f *flag.Flag) { explicit[f.Name] = true })
+		if _, err := os.Stat(*configPath); err == nil || explicit["config"] {
+			loaded, err := config.LoadConfig(*configPath)
+			if err != nil {
+				return a.auditError(ctx, err)
+			}
+			cfg = loaded
+		} else if !os.IsNotExist(err) {
+			return a.auditError(ctx, err)
+		}
+		if o.Model.Model == "" {
+			o.Model.Model = cfg.LlamaServer.LLMModel
+		}
+		customURL := explicit["llama-server-url"] || explicit["lmstudio-url"]
+		if !customURL {
+			o.Model.ModelURL = cfg.LlamaServer.BaseURL
+		}
+		manage := cfg.LlamaServer.IsManaged()
+		if customURL {
+			manage = false
+		}
+		if explicit["managed"] {
+			manage = *managed
+		}
+		if manage {
+			c := cfg.LlamaServer
+			sm := server.NewServerManager(server.ManagerConfig{
+				Managed: true, BinaryPath: c.GetBinaryPath(), ModelsDir: c.GetModelsDir(),
+				Host: "127.0.0.1", Port: 8080, ContextSize: c.ContextSize, GPULayers: c.GPULayers,
+				BatchSize: c.BatchSize, UBatchSize: c.UBatchSize, StartupTimeout: c.StartupTimeout,
+				DraftModel: c.DraftModel, SpecType: c.SpecType, SpecDraftNMax: c.SpecDraftNMax,
+				ReasoningEffort: c.ReasoningEffort, PreserveThinking: c.PreserveThinking,
+			})
+			defer sm.Stop()
+			fmt.Fprintf(a.stdout, "Starting managed llama-server with model %s...\n", o.Model.Model)
+			if err := sm.EnsureModel(ctx, o.Model.Model, server.ModeCompletion); err != nil {
+				return a.auditError(ctx, err)
+			}
+			o.Model.ModelURL = sm.GetBaseURL()
+		}
+		o.Model.ModelURL = strings.TrimRight(o.Model.ModelURL, "/")
+		if !strings.HasSuffix(o.Model.ModelURL, "/v1") {
+			o.Model.ModelURL += "/v1"
+		}
+		fmt.Fprintf(a.stdout, "Content audit using llama-server at %s (model %s)\n", o.Model.ModelURL, o.Model.Model)
+	}
 	results, err := linkaudit.AuditContent(ctx, o, a.stdout)
 	if err != nil {
 		return a.auditError(ctx, err)

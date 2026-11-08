@@ -1,0 +1,98 @@
+metadata:
+  generated_at: "2026-11-07T06:18:08.338191Z"
+  generator_version: 1.0.0
+  post_slug: baldwin-county-un-family-court
+  main_date: "2021-08-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-podcast-no-93-delta-hits-baldwin-county:
+    refined_source: 73ec9b58f8ddffb86936f94aba8c6c063db1a7565f5c080f2843dfb1e30ab530
+    brief: |-
+      THE CONFLICT:
+      * Judge Michelle Thomasson (Baldwin County Family Court) made arbitrary/inconsistent child visitation decisions.
+      * Decisions led to family destruction and one credited child suicide.
+      * The Ripp Report accumulated over 100 to 150 complaints against BCFC and certain attorneys (2018).
+
+      THE DISCOVERY:
+      * The Delta variant of COVID-19 affected Baldwin County (Widget article context, older than 2018).
+      * Baldwin County School System required masking for 2nd-12th graders and all staff.
+      * Trial of Limestone County Sheriff Mike Blakely has been ongoing since 1983.
+
+      THE PIVOT:
+      * Article 2 contains no factual information regarding Baldwin County Family Court, Judge Michelle Thomasson, or related family/legal disputes, meaning it is not a 'smoking gun' or key context for Article 1.
+
+      KEY ENTITIES:
+      * Judge Michelle Thomasson
+      * Baldwin County Family Court (BCFC)
+      * Mike Blakely
+      * Gov Ivey
+      * Tim James
+      * Rob Holbert
+      * UAB
+    llm_text: Judge Michelle Thomasson’s arbitrary decisions at Baldwin County Family Court caused family destruction and one child suicide. Over 150 complaints confirm BCFC issues, but the ongoing Mike Blakely trial reveals deeper county conflicts.
+    text: Judge Michelle Thomasson makes arbitrary decisions in Baldwin County Family Court that destroy families and lead to one child suicide. Over 150 complaints confirm these family court issues as the Mike Blakely trial unfolds.
+    widget_date: "2021-08-02"
+    generated_at: "2026-11-07T06:15:38.301544Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mega-lost-opportunity:
+    refined_source: 4fe2e25f6f6a03c8879507f45f2ceaf9785cc81dd4ec04567bf99308a45cc32a
+    brief: |-
+      THE CONFLICT:
+      *   2012: Baldwin County purchased 3,009 acres for the Mega Site at $32 million.
+      *   2018: The Ripp Report began fielding over 100 complaints against Baldwin County Family Court (BCFC).
+
+      THE DISCOVERY:
+      *   The Mega Site project has been stalled for 10 years (since 2012) without adequate infrastructure (rail, water, power).
+      *   Total county investment in the Mega Site is reported at $48 million (including interest).
+      *   The county currently owes approximately $15 million in debt (including $10,350,000 tied to 2014 GOW).
+
+      THE PIVOT:
+      *   Article 2 (Mega Site) establishes a historical pattern of systemic financial mismanagement, lack of transparency, and a "self-serving" reputation within Baldwin County entities (county commissioners, board members, lawyers, judges).
+      *   This context supports the claims in Article 1 that BCFC is marred by poor decisions, favoritism, and judicial incompetence (Judge Thomasson's actions).
+
+      KEY ENTITIES:
+      *   Baldwin County Family Court (BCFC)
+      *   Judge Michelle Thomasson
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Lee Lawson (President/CEO of BCEDA)
+      *   Kimberly Creech (Baldwin County Treasurer)
+      *   Ron Cink (Baldwin County Budget Director)
+      *   Joe Davis (Baldwin County Commissioner)
+      *   Baldwin County (Location)
+    llm_text: '$48 million and 100+ complaints: Baldwin County''s systemic mismanagement spans the stalled Mega Site and the troubled Baldwin County Family Court. See how Judge Michelle Thomasson''s actions connect to the county''s $15 million debt.'
+    text: Baldwin County suffers from $48 million in mismanaged funds across the stalled Mega Site and the troubled Family Court. Judge Michelle Thomasson's actions connect directly to the county's massive debt.
+    widget_date: "2021-07-30"
+    generated_at: "2026-11-07T06:16:55.099779Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on-mayor-kant-hubbard-goes-down-youre-next:
+    refined_source: 227e7001e748dd395f5913a2f9deb7c9d7b698cf81ad10e3f5b03bd998b2efdc
+    brief: |-
+      THE CONFLICT:
+      *   Over 10 years ago, the Ripp Report was established to expose lack of honest information from Fairhope City Hall.
+      *   Mayor Kant Hubbard is identified as the worst public official in Baldwin County.
+      *   The Ripp Report suspected the last two Fairhope election results were tampered with.
+      *   Since 2018, the Ripp Report has received 100 to 150 complaints against Baldwin County Family Court (BCFC).
+      *   Judge Michelle Thomasson is the subject of numerous complaints regarding poor decisions, favoritism, and arbitrary child visitation schedules.
+      *   A child suicide was credited to a decision made by Judge Thomasson that separated children from their mother.
+
+      THE DISCOVERY:
+      *   The Ripp Report functions as a self-funded non-profit consumer group, not a political entity.
+      *   The organization's focus is on political and judicial corruption in Baldwin County.
+      *   The organization has compiled an anonymous list of victims affected by BCFC and specific attorneys.
+
+      THE PIVOT:
+      *   The Widget Article establishes the historical context and the organization's credibility/motive (exposing corruption, not political gain).
+      *   It shows that the Ripp Report has a long-standing, non-partisan history of targeting political and judicial corruption in Baldwin County, providing context for the later, focused complaints against BCFC.
+
+      KEY ENTITIES:
+      *   Ripp Report (non-profit consumer group)
+      *   Fairhope City Hall
+      *   Mayor Kant Hubbard
+      *   Baldwin County Family Court (BCFC)
+      *   Judge Michelle Thomasson
+      *   Baldwin County Legal Eagle
+    llm_text: The Ripp Report exposed Mayor Kant Hubbard's lack of honesty at Fairhope City Hall. Now, this non-profit focuses on Baldwin County Family Court, citing 150 complaints against Judge Michelle Thomasson following decisions linked to a child suicide.
+    text: The Ripp Report exposes former Mayor Tim Kant at Fairhope City Hall. A watchdog non-profit now focuses on Baldwin County Family Court, citing 150 complaints against Judge Michelle Thomasson after decisions tied to a child suicide.
+    widget_date: "2016-06-11"
+    generated_at: "2026-11-07T06:17:51.288571Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

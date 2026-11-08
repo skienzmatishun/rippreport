@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-08T06:47:23.080236Z"
+  generator_version: 1.0.0
+  post_slug: people-power-wake-up-gulf-shores
+  main_date: "2018-10-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  special-interest:
+    brief: |-
+      THE CONFLICT: On October 12, 2018, Fairhope residents were preparing to vote on a Council-Manager Referendum on November 6, 2018, driven by opposition to local political control. Separately, in Gulf Shores, opposition was mounting against the Regency Place Apartments Site Plan Approval (October 3, 2018).
+      THE DISCOVERY: Article 2 revealed that special interest groups (Catalyst connections, Tim Can’t Club) in Fairhope, representing about 30% of the population, opposed governmental change and sought to maintain control over Fairhope governance.
+      THE PIVOT: Article 2 establishes a precedent of concentrated local political opposition against established governing bodies (Fairhope Council) and economic/special interests (Catalyst/Tim Can’t Club) in a neighboring jurisdiction, mirroring the citizen opposition in Gulf Shores against the Planning Commission and out-of-state developer interests.
+      KEY ENTITIES: Gulf Shores, Regency Place Apartments, October 29, 2018, Pete Sims, Robert Craft, Philip Harris, Fairhope, Catalyst, Fresh Start Fairhope, November 6, 2018, Mayor Dane Haygood.
+    llm_text: Fairhope residents pushed the November 6 referendum while groups like Catalyst sought to maintain local control. This mirrored Gulf Shores' fight against Regency Place Apartments, showing how concentrated local opposition shapes both governance and development.
+    widget_date: "2018-10-26"
+    generated_at: "2026-11-08T06:45:34.423484Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  women-of-baldwin:
+    brief: |-
+      THE CONFLICT: Entrenched local power ("Catalyst," "good ole boy network") in Baldwin County led to political obstruction; this status quo was challenged by female public servants (Karin Wilson, Amber Smith, Danielle Mashburn-Myrick) and local residents opposing high-density development.
+      THE DISCOVERY: Baldwin County has been historically run by politically connected "old white men" (e.g., Joe Davis, Tripp Pittman); the political climate in 2018 saw local female leaders achieve prominence (Karin Wilson, first female Mayor in Fairhope).
+      THE PIVOT: The community opposition to the Regency Place Apartments (Oct 29, 2018) involved challenging unelected and unaccountable bodies (Planning Commission) and local elected officials (Philip Harris, Robert Craft) whose decisions prioritized out-of-state developer profits over resident character, mirroring the broader anti-establishment sentiment against the "good ole boy network" outlined in the election material.
+      KEY ENTITIES: Karin Wilson, Billie Jo Underwood, Amber Smith, Danielle Mashburn-Myrick, Joe Davis, Dane Haygood, Pete Sims, Robert Craft, Philip Harris, Regency Place Apartments, Gulf Shores City Council, Planning Commission.
+    llm_text: Baldwin County's "good ole boy network" faced a major challenge when Karin Wilson became Fairhope's first female Mayor. These local leaders, like Amber Smith and Danielle Mashburn-Myrick, fought off the Regency Place Apartments, protecting resident character from out-of-state developer profits.
+    widget_date: "2018-10-25"
+    generated_at: "2026-11-08T06:47:05.183406Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

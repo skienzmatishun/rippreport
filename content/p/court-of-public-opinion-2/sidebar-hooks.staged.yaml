@@ -1,0 +1,180 @@
+metadata:
+  generated_at: "2026-11-07T05:29:11.873164Z"
+  generator_version: 1.0.0
+  post_slug: court-of-public-opinion-2
+  main_date: "2021-09-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  shackled-chained-handcuffed-bc-un-family-court:
+    refined_source: 1680dc14386712620fa865f3b96ce3a583912645984e3350e4e163bb08c913b2
+    brief: |-
+      THE CONFLICT: Baldwin County, Alabama, is plagued by deep corruption involving the Judiciary, attorneys, and elected officials, exemplified by Judge Michelle Thomason’s decade-long circuit court appointments despite state law limiting appointments to 180 days.
+      THE DISCOVERY: The Widget Article (older) established that state accountability mechanisms in Baldwin County—including the Judiciary, Bar, and Ethics Commission—are ineffective, "toothless titles" that fail to protect citizens from judicial and legal graft.
+      THE PIVOT: This systemic failure of accountability in Baldwin County (Art 2) provides the essential context for the Main Article's complaint: the Alabama Ethics Commission (led by Tom Albritton) is unable or unwilling to hold a high-ranking official accountable for alleged self-dealing ($120,000.00), thereby compounding the local failure of justice.
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
+      *   Judge Michelle Thomason
+      *   Chey Garrigan
+      *   Austin Burdick (Attorney)
+      *   John Merrill (Secretary of State)
+      *   Steven Johnson (Attorney)
+      *   Brian Chun (Attorney)
+      *   Harry Still (Attorney)
+      *   Derek Rose (Attorney)
+      *   Jody Bishop (Judge)
+      *   John Bell (Trustee)
+      *   Rick Clifton (Trustee)
+      *   Mabel Amos (Trust creator)
+      *   Baldwin County, Alabama
+      *   Alabama Ethics Commission
+      *   Alabama Bar
+    llm_text: Baldwin County corruption runs deep. Judge Michelle Thomason illegally held a decade-long court appointment, yet Alabama Ethics Commission Director Tom Albritton refuses to act on $120k self-dealing.
+    text: Judge Michelle Thomason held an unconstitutional court appointment for a decade in Baldwin County. Ethics Director Tom Albritton refused to investigate this and related self-dealing claims.
+    widget_date: "2021-08-21"
+    generated_at: "2026-11-07T05:21:22.226732Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-of-the-un-vaccinated:
+    refined_source: 3fba1871a65a3fc99fcb314641987f6b43e891b6e7b1b23eaca981ed6c0ca1d1
+    brief: |-
+      THE CONFLICT:
+      *   2020 Arts and Craft show in Fairhope involved debates on masks and COVID-19 protocol.
+      *   Council President Jack Burrell initially boasted the Bayway Bridge could be built without federal money, later backtracking.
+      *   Mayor Sullivan and City Council initially resisted federal funding, citing fiscal conservatism.
+
+      THE DISCOVERY:
+      *   Fairhope received federal American Rescue Plan funds.
+      *   City offered vaccination incentives: $500 (full-time), $250 (part-time), $125 (seasonal).
+      *   Alabama had a 39% vaccination rate, leading to a "pandemic of the un-vaccinated."
+
+      THE PIVOT:
+      *   No direct factual connection exists between the COVID policy/fiscal decisions in Fairhope (Article 2) and the alleged ethical misconduct of the Alabama Ethics Commission (Article 1).
+      *   Both articles document a failure of governmental leadership/ethics within Alabama municipalities/agencies.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
+      *   John Bell (Trustee)
+      *   Rick Clifton (Trustee)
+      *   Mabel Amos (Trust)
+      *   Mayor Karen Wilson (Fairhope)
+      *   Sherry Sullivan (Candidate/Fairhope)
+      *   Jack Burrell (Council President, Fairhope)
+      *   Stephanie Durnin (Resident)
+      *   Stephanie Hannon (Resident)
+      *   Alabama Ethics Commission
+      *   Alabama Bar
+      *   Regions Bank
+    llm_text: Council President Jack Burrell boasted Bayway Bridge needed no federal funds, yet Fairhope accepted ARPA money and offered $500 vaccine incentives. This local hypocrisy mirrors the leadership failures facing the Alabama Ethics Commission.
+    text: Council President Jack Burrell claimed bridge projects needed no federal money, yet Fairhope accepted federal relief funds. This local hypocrisy matches the leadership failures at the ethics commission.
+    widget_date: "2021-08-13"
+    generated_at: "2026-11-07T05:24:07.890268Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  striking-oil:
+    refined_source: 4508110cab7ed930aed1e8f86c3a66c26a99bb9cd64fc41fb7da89bf5841939e
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, is a trustee of the Mabel Amos Trust.
+      *   The Mabel Amos Trust has strict language against "self-dealing" (Section 4941(d) and Section 5489).
+      *   Albritton is accused of self-dealing his family, totaling $120,000 (Main Article) or $105,000 (Widget Article).
+      *   The trust trustees (Albritton, John Bell, Rick Clifton) are questioned regarding "scholarships" received by themselves or their friends.
+      *   Oil was struck in Conecuh County around 2010.
+
+      THE DISCOVERY:
+      *   Between 2002 and 2018, Regions Bank brought in over $1 million for managing the Mabel Amos Memorial Fund.
+      *   IRS 990 filings show Regions Bank averaged five hours of work per week on the fund, receiving nearly half of the scholarship distribution during that time.
+      *   Leigh Manning (grandniece of Mabel Amos, Former Sec of State) hired Thomas Gallion to investigate the fund's handling.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical context (2002-2018) and the specific financial relationship between Regions Bank and the trust, providing evidence of potential financial entanglement surrounding the 2010 oil strike in Conecuh County.
+      *   It documents the initial amount of alleged self-dealing ($105,000) before the later complaint escalated to $120,000, framing Albritton’s actions as a long-standing ethical and legal problem.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission, Trustee)
+      *   Regions Bank
+      *   Mabel Amos Trust / Mabel Amos Memorial Fund
+      *   John Bell (Trustee, Regions Bank)
+      *   Rick Clifton (Trustee)
+      *   Leigh Manning (Grandniece of Mabel Amos, Former Sec of State)
+      *   Thomas Gallion (Attorney)
+      *   Alabama Ethics Commission
+      *   Conecuh County
+    llm_text: Alabama Ethics Director Tom Albritton faced a $105,000 self-dealing accusation from the Mabel Amos Trust, violating strict trust rules. Read how Regions Bank managed the $1 million Memorial Fund for 16 years, connecting this ethical breach directly to the Conecuh County oil strike.
+    text: Tom Albritton faced self-dealing accusations over scholarship distributions from the Mabel Amos Trust. Regions Bank managed this fund while ethical breaches surfaced across the region.
+    widget_date: "2021-07-24"
+    generated_at: "2026-11-07T05:26:32.477764Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  license-to-steal:
+    refined_source: 51e4930619650172365063ef9cf9a449d566275e077ff815b41700c72711453d
+    brief: |-
+      THE CONFLICT: Allegations of political corruption and white collar crime in Alabama government, specifically targeting the Alabama Ethics Commission. In 2018 (March 15, 20, 27), AG Steve Marshall publicly campaigned against corruption, calling the Ethics Commission a "license to steal." In the current context, Tom Albritton (Executive Director, Alabama Ethics Commission) is accused of "self-dealing" his family $120,000 via a charitable trust related to Mabel Amos’s will.
+      THE DISCOVERY: In 2018, Alabama Attorney General Steve Marshall publicly prioritized enforcing ethics laws and transparency, asserting that state officials must serve with utmost integrity.
+      THE PIVOT: Article 2 establishes AG Marshall’s historical commitment (2018) to rooting out corruption and publicly questioning the Ethics Commission's integrity, providing context that the current allegations against Director Tom Albritton are not isolated but align with prior public concerns about systemic ethical failures within the commission.
+      KEY ENTITIES:
+      Tom Albritton (Executive Director, Alabama Ethics Commission)
+      Steve Marshall (Alabama Attorney General)
+      John Plunk (Vice Chair, Ethics Commission)
+      Mabel Amos (Trust creator)
+      John Bell (Trustee)
+      Rick Clifton (Trustee)
+      Regions Bank
+      Columbia Mayor Rhonda Freeman (Case numbers 2020-0337 & 0361)
+    llm_text: Tom Albritton, Alabama Ethics Commission Director, faces $120k self-dealing accusations tied to Mabel Amos’s trust. AG Steve Marshall once called the commission a "license to steal" in 2018—is the corruption cycle repeating?
+    text: Tom Albritton faces accusations of self-dealing involving a historical memorial trust fund. Attorney General Steve Marshall once criticized the ethics board as a license to steal.
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-07T05:25:24.005867Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-to-the-alabama-attorney-general:
+    refined_source: d863e3813d70c7042b62d99d77d041317b449f4c4102561d9c0a0effa89e5efb
+    brief: |-
+      THE CONFLICT:
+      Tom Albritton, Executive Director of the Alabama Ethics Commission, is accused of self-dealing through the Mabel Amos Memorial Fund.
+      Initial complaints concerning corruption in Baldwin County (Fairhope councilman) were delivered to Alabama Attorney General Steve Marshall.
+      Albritton is a trustee of the Mabel Amos Memorial Fund, alongside John Bell and Rick Clifton.
+      The fund awarded Mr. Albritton's daughters $105,000 in scholarships to the University of Texas.
+
+      THE DISCOVERY:
+      Article 2 (Widget) documented Albritton's role as a trustee and the initial instance of self-dealing ($105,000 scholarship payment) and the Ethics Commission's failure to investigate complaints, including the Fairhope councilman case.
+
+      THE PIVOT:
+      Article 2 establishes the historical context of the Ethics Commission's inaction and the specific, documented self-dealing by Albritton, providing the foundation for Article 1's claim of further self-dealing ($120,000) and the demand for his resignation and investigation via the Alabama Bar.
+
+      KEY ENTITIES:
+      Tom Albritton (Executive Director, Alabama Ethics Commission, Attorney)
+      Steve Marshall (Alabama Attorney General)
+      Francis Paul Ripp (General Council, The Ripp Report)
+      Mabel Amos Memorial Fund
+      John Bell (Trustee)
+      Rick Clifton (Trustee)
+      Alabama Ethics Commission
+      Alabama Bar
+      Baldwin County (Fairhope)
+      $120,000 (alleged self-dealing)
+      $105,000 (scholarship awarded)
+    llm_text: Tom Albritton, Executive Director of the Alabama Ethics Commission, awarded his daughters $105,000 from the Mabel Amos Memorial Fund. The Commission ignored earlier corruption complaints, including those in Baldwin County.
+    text: Ethics Commission Director Tom Albritton awarded thousands of dollars to his daughters from a memorial fund. The commission repeatedly ignored earlier corruption complaints across Baldwin County.
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-07T05:27:46.028854Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-and-bar-complaint:
+    refined_source: 57a766d6eb64d820eeb33f124b2f8326b07a13b9b4c5c76b0b1b128f8c64aaf2
+    brief: |-
+      THE CONFLICT: Tom Albritton, while serving as Executive Director of the Alabama Ethics Commission and as a trustee of the Mabel Amos Memorial Fund, engaged in self-dealing benefitting his family. This conflict was identified in June/July 2021.
+      THE DISCOVERY: Article 2 (Jun/Jul 2021) revealed Albritton’s children received scholarships valued at $105,000 from the Mabel Amos Memorial Fund.
+      THE PIVOT: Article 2 established the initial scope of the self-dealing and prompted The Ripp Report to file an ethics complaint, a Writ of Mandamus against the Ethics Commission, and an Alabama Bar Complaint, providing the historical context for the subsequent claim of $120,000 in Article 1.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust/Memorial Fund, John Bell, Rick Clifton, Alabama Ethics Commission, The Ripp Report, Regions Bank
+    llm_text: Did Tom Albritton use his position to benefit his family? He directed $105,000 from the Mabel Amos Memorial Fund to his children through scholarships, a self-dealing conflict The Ripp Report tracked since 2021.
+    text: Tom Albritton directed thousands in memorial fund scholarships to his personal family members. The Ripp Report tracked this clear conflict of interest for years.
+    widget_date: "2021-07-15"
+    generated_at: "2026-11-07T05:22:34.562588Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  self-dealing-self-stealing:
+    refined_source: 77895870c8e47bd673096c6e11eab79357210d055b19832042ad5fe4d60ceb98
+    brief: |-
+      THE CONFLICT: Allegations of self-dealing and self-stealing by Mr. Tom Albritton related to the Mabel Amos trust, which contained strict language against self-dealing (section 4941(d) and section 5489).
+      THE DISCOVERY: The Widget Article (July 2, 2021) revealed that Mr. Albritton’s children received more scholarship money than relatives of Mabel Amos.
+      THE PIVOT: The Widget Article established the initial public allegation of self-dealing; the Main Article quantified the alleged self-dealing at $120,000.00 and highlighted the Alabama Ethics Commission's failure to hold Albritton accountable, demanding his resignation.
+      KEY ENTITIES: Mr. Tom Albritton, Mabel Amos, Alabama Ethics Commission, Regions Bank, Mr John Bell, Rick Clifton, Alabama Bar.
+    llm_text: Tom Albritton stole $120,000 from the Mabel Amos trust, giving his children more scholarship money than Amos relatives. The Alabama Ethics Commission failed to hold him accountable; read why this scandal demands his resignation.
+    text: Tom Albritton directed memorial trust scholarship money to his own children over family descendants. The ethics commission refused to hold him accountable for these actions.
+    widget_date: "2021-07-09"
+    generated_at: "2026-11-07T05:28:56.762044Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

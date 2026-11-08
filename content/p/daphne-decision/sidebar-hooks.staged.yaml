@@ -1,0 +1,92 @@
+metadata:
+  generated_at: "2026-11-08T05:11:30.618938Z"
+  generator_version: 1.0.0
+  post_slug: daphne-decision
+  main_date: "2018-12-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  russian-roulette-fairhope-style:
+    brief: |-
+      THE CONFLICT:
+      *   Dyas, Triangle lawsuit in Fairhope involved Mayor Tim Kant and council members Boone and Burrell.
+      *   This lawsuit settlement falsely claimed a "WIN" for city taxpayers, ultimately costing Fairhope $11.25 million.
+      *   Catalyst was formally founded by Stacy Elliott and Elliott Haygood, evolving from Catalyst Queen/Family Court context (March-April 2018).
+
+      THE DISCOVERY:
+      *   In Fairhope, the "Catalyst Council" is accused of dereliction of duty and serving special interests, leading to ongoing litigation (e.g., the Buddy Breland case) and significant taxpayer losses.
+      *   Catalyst is presented as a political cancer in Baldwin County that hand-picks candidates.
+
+      THE PIVOT:
+      *   Article 2 establishes Catalyst as a pervasive political entity responsible for fiscal mismanagement and lack of public transparency within Baldwin County (Fairhope).
+      *   This context explains Catalyst's recruitment influence in Daphne, demonstrated by their candidate Johnathan Armstrong filling the vacancy left by District 7 Councilman Joe Davis, III.
+
+      KEY ENTITIES:
+      *   Joe Davis, III
+      *   Johnathan Armstrong
+      *   Jeb Ball
+      *   Catalyst
+      *   Tim Kant
+      *   Stacy Elliott / Elliott Haygood
+      *   Candace G. Antinarella (Daphne City Clerk)
+      *   Fairhope City Council (including Jack Burrell, Robinson, and Conyers)
+      *   Buddy Breland
+      *   Baldwin County
+    llm_text: Fairhope taxpayers lost $11.25 million in the Dyas lawsuit, a settlement falsely claimed as a win by Mayor Tim Kant and council members Boone and Burrell. Catalyst, founded by Stacy Elliott and Elliott Haygood, fuels this fiscal mismanagement across Baldwin County, influencing Daphne's Johnathan Armstrong.
+    widget_date: "2018-12-06"
+    generated_at: "2026-11-08T05:08:22.841087Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  barstool:
+    brief: |-
+      THE CONFLICT:
+      *   In 2010, Ronan McSharry assaulted his wife during divorce settlement procedures in Fairhope.
+      *   Joe Davis, III vacated his Daphne City Council seat on November 13, 2018.
+
+      THE DISCOVERY:
+      *   Fairhope local officials (Fairhope Police, Municipal Judge, City Attorney, Mayor Kant) were aware of McSharry’s domestic and assault charges since 2010 but remained silent, enabling his business operation.
+      *   McSharry was placed on probation following an incident with artist Nall.
+
+      THE PIVOT:
+      *   Article 2 demonstrates how local officials can ignore serious misconduct and enable problem businesses (McSharry), highlighting systemic corruption in Fairhope.
+      *   This context relates to Article 1, which details the political maneuvering (Catalyst/Armstrong/Ball) and vacancy (Joe Davis, III) in Daphne City Council in December 2018, showing similar concerns over local political integrity and influence.
+
+      KEY ENTITIES:
+      *   Joe Davis, III (Daphne City Councilman)
+      *   Candace G. Antinarella (Daphne City Clerk)
+      *   Johnathan Armstrong
+      *   Jeb Ball
+      *   Catalyst (organization, linked to Elliott Haygood and Stacy Elliott)
+      *   Ronan McSharry (Fairhope bar owner)
+      *   Mayor Kant (Fairhope)
+      *   Jack Burrell (Fairhope Councilman)
+      *   Nall (Fairhope artist)
+    llm_text: How can Fairhope officials know about Ronan McSharry's 2010 assault and still let him run his business? This local corruption mirrors the political integrity issues surrounding Joe Davis, III's Daphne City Council vacancy.
+    widget_date: "2018-11-30"
+    generated_at: "2026-11-08T05:09:52.009835Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bury-the-body:
+    brief: |-
+      THE CONFLICT:
+      Fairhope City Council, rooted in Catalyst, manipulated election timing to delay an October 2, 2018, vote, moving it to November 6, 2018.
+      District 7 Councilman Joe Davis, III vacated his Daphne City Council seat on November 13, 2018.
+
+      THE DISCOVERY:
+      The Fairhope City Council used its authority to instruct the City Attorney to find a loophole to delay the October 2, 2018, election vote.
+
+      THE PIVOT:
+      Article 2 demonstrates Catalyst’s history of political manipulation and control over municipal governance in neighboring Fairhope, establishing the political context for Catalyst’s influence over Daphne candidates (e.g., Johnathan Armstrong, Jeb Ball) and the subsequent vacancy in Daphne City Council (Nov 13, 2018).
+
+      KEY ENTITIES:
+      Catalyst
+      Fairhope City Council
+      Joe Davis, III
+      Daphne City Council
+      Candace G. Antinarella (Daphne City Clerk)
+      Johnathan Armstrong
+      Jeb Ball
+      Frank Burt
+      Michelle Thomasson
+      Daphne City Hall
+    llm_text: Catalyst-linked Fairhope City Council manipulated the October 2, 2018, vote to November 6, 2018, using its authority. Discover how this political control over Fairhope influenced Daphne, ultimately forcing Joe Davis, III to vacate his City Council seat.
+    widget_date: "2018-10-01"
+    generated_at: "2026-11-08T05:11:08.893079Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

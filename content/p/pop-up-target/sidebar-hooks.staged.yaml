@@ -1,0 +1,189 @@
+metadata:
+  generated_at: "2026-11-08T09:24:51.407634Z"
+  generator_version: 1.0.0
+  post_slug: pop-up-target
+  main_date: "2018-08-31"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fact-and-fiction-a-b-c:
+    brief: |-
+      THE CONFLICT: Jack Burrell denied holding a party on WACO radio, omitting details about his son sponsoring a party at his in-laws'; Jack's bus ran over his in-laws (reported by WACO radio and Courier).
+      THE DISCOVERY: Article 2 revealed a pattern of secretive deals and questionable personal conduct by Jack Burrell, leading to allegations of corruption in Fairhope.
+      THE PIVOT: Article 2 establishes a historical pattern of secretive behavior by Jack Burrell, providing context for his current action (writing a private Letter of Intent for the K-1 Center without public disclosure), which is a continuation of the pattern identified previously.
+      KEY ENTITIES: Jack Burrell, City Council, School Board, Baldwin County Economic Development Alliance (BCEDA), WACO radio, Courier
+    llm_text: Jack Burrell denied a party, but a pattern of secretive deals and questionable conduct links him to corruption allegations in Fairhope. Discover how this history drives his private Letter of Intent for the K-1 Center, bypassing public disclosure.
+    widget_date: "2018-08-30"
+    generated_at: "2026-11-08T09:18:12.295355Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  law-and-disorder-part-2:
+    brief: |-
+      THE CONFLICT: Council President Jack Burrell had an undisclosed police report/arrest record prior to running for elected office.
+      THE DISCOVERY: On Saturday, August 25, Fairhope Police responded to a party at a residence in the 16000 Block of County Road 13, where approximately 100 juveniles were present; 40-50 juveniles were detained.
+      THE PIVOT: Article 2 establishes a pattern of secrecy and lack of transparency regarding Burrell’s personal history; this context supports Article 1's claim that Burrell and the council engage in secretive meetings and fail to disclose public information regarding the K-1 Center project.
+      KEY ENTITIES: Jack Burrell, Fairhope Police, Sergeant Craig Sawyer, Baldwin County Economic Development Alliance (BCEDA), City Council, K-1 Center, Fairhope.
+    llm_text: Council President Jack Burrell hid an undisclosed police report before running for office. This secrecy links to council failure on the K-1 Center project; read how Fairhope lacks transparency.
+    widget_date: "2018-08-29"
+    generated_at: "2026-11-08T09:20:15.111088Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  skunked:
+    brief: |-
+      THE CONFLICT:
+      1. 2020 Fairhope Municipal elections were contested by the "Fresh Start for Fairhope" PAC, aiming for government change.
+      2. The political debate centered on whether Fairhope should use Council At Large or Districts representation, a system that has existed for 20 years.
+      3. Chuck Zunk, supported by 39 people, advocated for maintaining the At Large council structure.
+
+      THE DISCOVERY:
+      1. The Widget Article established that the City Council's At Large structure provides cover and lacks accountability.
+      2. The Widget Article revealed ties between proponents of At Large representation (including Jack Burrell and CATALYST) and a desire to maintain control over the Airport and the Council/Mayor.
+
+      THE PIVOT:
+      1. Article 2 provides historical context showing Jack Burrell's established pattern of prioritizing private control (e.g., Airport, Council structure) over public accountability.
+      2. This historical pattern supports the allegation in Article 1 that the Council, led by Jack Burrell, is engaging in secretive actions (K-1 Center letter of intent) to eliminate public and competitive project views, maintaining control outside public scrutiny.
+
+      KEY ENTITIES:
+      1. Jack Burrell
+      2. Chuck Zunk
+      3. Fresh Start Fairhope
+      4. CATALYST
+      5. City Council (Fairhope)
+      6. K-1 Center
+      7. Baldwin County Economic Development Alliance (BCEDA)
+      8. Mega-Site
+      9. Airport Board
+      10. School Board
+    llm_text: Jack Burrell and CATALYST pushed for the At Large council, hiding private control over the Airport and City Council. Chuck Zunk fought this system; see how this pattern of prioritizing private interests affects Fairhope's future.
+    widget_date: "2018-08-25"
+    generated_at: "2026-11-08T09:20:59.935519Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-open-letter-to-baldwin-county-district-attorney:
+    brief: |-
+      THE CONFLICT:
+      *   Allegations of corruption and political maneuvering involving Fairhope City Councilmen, Mayor Wilson, and DA Robert Wilters occurred historically between 2016 and 2018.
+      *   City Councilman Kevin Boone publicly complained to DA Robert Wilters regarding Mayor Wilson, which was amplified by WACO radio and the Gulf Coast News Courier.
+      *   Article 2 alleged that a group called Catalyst was influencing government, noting DA Wilters' support for Lynn Perry (a Catalyst candidate) and discouraging Harry D’Olive from running for Probate Judge.
+      *   Other historical issues cited include Councilman Robert Brown securing a no-bid contract with the Fairhope Art Center and Councilman Kevin Boone’s relationship with John Avant and associated LLCs.
+
+      THE DISCOVERY:
+      *   Article 2 established a long-standing pattern of political conflict, alleged corruption, and improper influence (Catalyst) within the Fairhope government, extending back to 2016.
+
+      THE PIVOT:
+      *   Article 2 provides historical evidence that the City Council's pattern of secretive and non-public dealings (e.g., using media/DA Wilters to address issues rather than public forums) is not isolated, but a multi-year practice.
+      *   Article 1 presents a new, current example (K-1 Center) of this historical pattern: Council members, led by Jack Burrell, are discussing and acting on plans in private meetings without public disclosure or informing the Mayor.
+      *   The existence of the prior allegations (Article 2) lends context to the current accusations of secretive project development (Article 1).
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council/Council President)
+      *   Kevin Boone (City Councilman)
+      *   Mayor Wilson
+      *   Robert Wilters (Baldwin County District Attorney)
+      *   Catalyst (alleged shadow government)
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Robert Brown (City Councilman)
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   John Avant
+      *   Lynn Perry (Probate Judge candidate)
+      *   Harry D’Olive (Probate Judge candidate)
+      *   K-1 Center (Controversial project)
+    llm_text: Fairhope City Council's secretive dealings aren't new. Historical corruption involving Kevin Boone and DA Robert Wilters in 2016-2018 provides context for Jack Burrell's current K-1 Center plans without public disclosure.
+    widget_date: "2018-08-10"
+    generated_at: "2026-11-08T09:22:24.558654Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-busted:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Tripp Pittman skimmed $750,000 from Baldwin County BP funds.
+      *   Pittman also took municipal contracts from Fairhope.
+      *   Fairhope Mayor Can’t and City Council enabled Pittman's contract acquisition.
+      *   State Representatives Randy Davis and Joe Faust failed to publicly address Pittman's actions.
+      *   This corruption occurred alongside millions of BP dollars remaining in Montgomery while Baldwin County received only 10%.
+
+      THE DISCOVERY:
+      *   Article 2 reveals a history of corruption and systemic complicity within the Fairhope City Council involving Mayor Can’t regarding municipal contracts and BP funds, dating back to at least 2002 (when Davis and Faust were active).
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of self-serving, anti-transparent behavior (Mayor Can't/City Council complicity) which provides historical context for Article 1's current secretive actions (K-1 Center, Jack Burrell) by the Council/Council President over the last two years.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council)
+      *   Mayor Can’t (Fairhope Mayor)
+      *   Senator Tripp Pittman
+      *   Randy Davis (State Representative, Daphne)
+      *   Joe Faust (Baldwin County Representative)
+      *   K-1 Center
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Fairhope City Council
+    llm_text: Senator Tripp Pittman skimmed $750,000 from Baldwin County BP funds using contracts enabled by Fairhope Mayor Can’t. This isn't isolated corruption; the Fairhope City Council has shown systemic complicity in self-serving behavior since at least 2002.
+    widget_date: "2018-07-27"
+    generated_at: "2026-11-08T09:23:24.249034Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-meets-social-media:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope and Gulf Shores experienced developer-backed projects (apartments/condos) that were pushed without citizen notification.
+      *   Fairhope's apartment project led to three lawsuits by citizens and one pending lawsuit, costing the city hundreds of thousands of dollars in attorney fees.
+      *   Gulf Shores faced pushback over a planned apartment complex amid single-family homes, mirroring the Fairhope issue.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Fairhope’s Mayor and council previously supported developers over citizen interests, demonstrating a historical pattern of non-transparent municipal governance.
+      *   The lack of citizen notification was a repeated "clever trick" used by the City of Fairhope.
+
+      THE PIVOT:
+      *   Article 2 establishes that the City Council/Mayor has a history of bypassing public transparency and legal obligations in development decisions.
+      *   This historical pattern provides context for Article 1, where the council (led by Jack Burrell) is currently discussing the K-1 Center in private, issuing a letter of intent without public disclosure, reinforcing a pattern of secretive governance.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   K-1 Center
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   Mayor Karin Wilson
+      *   Catalyst
+      *   Mayor Haygood
+      *   Joe Davis
+      *   John Lake
+      *   Jonathan Armstrong
+      *   Mayor Craft
+      *   Fairhope
+      *   Gulf Shores
+      *   Baldwin County
+      *   Elliott
+      *   David Northcutt
+      *   Sheriff Hoss Mack
+      *   Eddie Tyler
+    llm_text: Fairhope's Mayor Karin Wilson and council previously bypassed citizens over apartment projects, leading to costly lawsuits. Now, Jack Burrell is pushing the K-1 Center privately, continuing a pattern of secretive governance you need to track.
+    widget_date: "2018-07-20"
+    generated_at: "2026-11-08T09:19:23.587696Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  million-dollar-swimming-pool:
+    brief: |-
+      THE CONFLICT:
+      *   Catalyst players utilized "follow the LLC's" shell game to influence local politics in Baldwin County.
+      *   Chris Elliott raised nearly $500,000 for a State Senate Seat ($42,000/year salary), supporting Catalyst.
+      *   Kevin Boone, Fairhope City Councilman, is linked to Catalyst (tattoo) and his son, Scott "baby" Boone, is the Catalyst chieftain.
+      *   John Avant (Prebble-Rish) is a business partner of Kevin Boone and contributes to Catalyst.
+
+      THE DISCOVERY:
+      *   Catalyst operates through convoluted LLCs and influences local elections and real estate (e.g., Bellaton subdivision/million dollar pools).
+      *   Tucker Dorsey and Chris Elliott are identified as Catalyst representatives advocating against consumer caution.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of secretive, money-driven political influence involving Catalyst, Boone, and Avant.
+      *   Article 1 demonstrates Jack Burrell (Council leader) is repeating this pattern by conducting secret, private meetings and withholding public information regarding the K-1 Center for two years via a non-public letter of intent to the School Board.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council leader/President)
+      *   Kevin Boone (Fairhope City Councilman)
+      *   John Avant (Prebble-Rish)
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Scott "baby" Boone
+      *   K-1 Center
+      *   Fairhope City Council
+      *   Baldwin County Economic Development Alliance (BCEDA)
+      *   School Board
+      *   Catalyst
+      *   Bellaton Subdivision
+      *   D. R. Horton
+    llm_text: Catalyst uses shell LLCs to fund local politics, influencing decisions like the Bellaton subdivision and K-1 Center. Councilman Kevin Boone, Chris Elliott, and leader Jack Burrell all participate in this pattern of secrecy affecting Fairhope and Baldwin County.
+    widget_date: "2018-07-06"
+    generated_at: "2026-11-08T09:24:35.540120Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

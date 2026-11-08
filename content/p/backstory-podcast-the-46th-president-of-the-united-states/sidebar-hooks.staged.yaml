@@ -1,0 +1,205 @@
+metadata:
+  generated_at: "2026-11-07T13:49:29.483604Z"
+  generator_version: 1.0.0
+  post_slug: backstory-podcast-the-46th-president-of-the-united-states
+  main_date: "2020-11-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  scalped:
+    refined_source: 616b5e7b29bda76f043a91ef19df78534741e47c6d4246e049716223a5ac9bb9
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election for Joseph Robinette Biden Jr.; media confidence in election results; state-level vote counts awaiting certification; discussion of transition politics and bureaucracy (date unspecified, but prior to Article 2).
+      THE DISCOVERY: Companies with political ties scored million-dollar contracts (e.g., Baldwin County District Attorney building construction bid award); public scholarships went to insiders; Alabama leaders are failing; local control is being stripped by state leaders (e.g., state handpicking police chiefs); terrorist attack narrowly avoided due to traffic jams.
+      THE PIVOT: While Article 1 discussed national political processes (2020 election/bureaucracy), Article 2 demonstrates simultaneous local corruption and systemic failure (misuse of public funds, lack of accountability for law enforcement mishaps) within Alabama governance, showing national political focus masks local decay.
+      KEY ENTITIES: Joseph Robinette Biden Jr.; Baldwin County District Attorney; Alabama leaders; governor (unnamed); state leaders.
+    llm_text: While national focus remains on Joseph Robinette Biden Jr., local decay plagues Alabama. Tied companies scored million-dollar contracts and state leaders strip local control, proving national politics masks deep local corruption.
+    text: National focus remains on President Biden, but local decay plagues Alabama. Tied companies score million-dollar contracts while state leaders strip local control.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T13:41:27.707469Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: c58281cb45cabf26f7d0d703fb40fec5e5bb5ebeb85f747adcb4ac2718658dcf
+    brief: |-
+      THE CONFLICT:
+      *   2020 Presidential Election results for Joseph Robinette Biden Jr. were called by media companies.
+      *   State-level counts were ongoing until certified.
+      *   No pardons were issued as of the time of Article 1.
+
+      THE DISCOVERY:
+      *   Article 2 (newer) addresses the "Haitians Eating Cats" debate in Sylacauga Alabama via 1819 News.
+      *   Former Real Admiral and Jag Officer Kent David resigned as Alabama Veterans Affairs Commissioner.
+      *   A political rally is scheduled in DC on September 29, 2024, featuring RFK Jr, Tulsi Gabbards, and Russell Brand.
+      *   Texas Federal Bankruptcy Judge David R. Jones received a Most Corrupt Judge Award.
+
+      THE PIVOT:
+      *   Article 2 provides a contemporary snapshot of specific state-level political and social issues (e.g., Alabama immigration strain, local corruption, specific political campaigns) that operate outside the certified 2020 national election outcome described in Article 1.
+      *   Article 2 highlights alternative political narratives (Donald Trump food fight with Taylor Swift, assassination attempt avoidance) running concurrently with the post-2020 transition period.
+
+      KEY ENTITIES:
+      *   Joseph Robinette Biden Jr.
+      *   Donald Trump
+      *   Sylacauga Alabama
+      *   1819 News
+      *   Kent David (Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner)
+      *   Brandon Moseley
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+      *   P Diddy
+      *   RFK Jr
+      *   Tulsi Gabbards
+      *   Russell Brand
+      *   September 29, 2024
+    llm_text: The 2020 Biden election closed, but local political turbulence continues, like the Sylacauga "Haitians Eating Cats" debate. Former Kent David resigned, and Texas Judge David R. Jones earned a Most Corrupt Judge Award ahead of the September 29 DC rally with RFK Jr and Tulsi Gabbard.
+    text: Local political turbulence continues across Alabama towns. Judge David Jones earned a corrupt judge award ahead of a Washington rally with RFK Jr. and Tulsi Gabbard.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T13:46:52.677631Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: 80b046db738f5981b70b9daeb838eab0d8f27187ac56b1d1a145571e4e0a049f
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election for Joseph Robinette Biden Jr. (as discussed in Article 1); status of pardons was "No pardons on the table as of tonight" (Article 1).
+      THE DISCOVERY: President Biden pardoned his son Hunter (Article 2 update).
+      THE PIVOT: Article 2 contradicts Article 1's assertion that there were "No pardons on the table," revealing a specific, high-profile pardon event occurred since Article 1 was written.
+      KEY ENTITIES: Joseph Robinette Biden Jr., Hunter (Biden's son), COVID-19, healthcare CEO, local school district officials.
+    llm_text: Joseph Robinette Biden Jr. unexpectedly pardoned his son Hunter, directly contradicting the previous report that no pardons were on the table. See how this high-profile decision changes the status of the 2020 election.
+    text: President Joe Biden pardoned his son Hunter, contradicting earlier claims that no pardons were coming. This high-profile decision changes the post-election landscape.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T13:43:27.383178Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: e066b14836c9e717d4d0d85a3eeefeb8b00c7eb1c62afcab8893ea485b2018fc
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election called for Joseph Robinette Biden Jr.; state-level counts were ongoing until certification; discussion included politics of transition and lack of presidential pardons.
+      THE DISCOVERY: An election is less than a fortnight away; Governor Ivey called for immediate resignation of the Veteran's Affairs Commissioner for Alabama; City of Bay Minette is being sued by the family of OJ French Jr. (killed by BMPD Officer Brandon Thompson).
+      THE PIVOT: Article 2 shifts the political focus from the certified 2020 presidential transition (Article 1) to current local/state accountability issues, including a specific upcoming election, local legal crises, and state government demands (Governor Ivey).
+      KEY ENTITIES: Joseph Robinette Biden Jr.; Trump; Governor Ivey; OJ French Jr.; Brandon Thompson; Andy Ruten; Bob Wills; Baldwin County; Fairhope; Bay Minette; Southern Research; BMPD; Veteran's Affairs Commissioner for Alabama.
+    llm_text: The 2020 presidential transition is history; local accountability is now. Governor Ivey demands the Veteran's Affairs Commissioner resign while Bay Minette fights a lawsuit from OJ French Jr.'s family regarding BMPD Officer Brandon Thompson.
+    text: The presidential transition is history, but local accountability remains urgent. Governor Ivey demands a resignation while Bay Minette fights a federal lawsuit over Officer Brandon Thompson.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T13:40:29.942908Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: c29dd5b6c2fdd84b3c32365f936b4c77b7eaae984919d09d00fd68f962c169b1
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election called for Joseph Robinette Biden Jr.; discussion included the politics of transition and lack of pardons.
+      THE DISCOVERY: On July 31, 2024, OJ French Jr.'s family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson regarding an alleged shooting during a taser struggle.
+      THE PIVOT: Article 2 is a local criminal justice and municipal politics update (Bay Minette, 2024) and does not provide context or factual support for the national 2020 Presidential Election commentary found in Article 1.
+      KEY ENTITIES: Joseph Robinette Biden Jr., Trump, OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, Sheriff Mack, Chief Deputy Anthony Lowery, Governor Ivey, County Commissioner Matt McKenzie, May Jung LLC, Bay Minette.
+    llm_text: OJ French Jr.'s family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson over an alleged shooting during a taser struggle. Read this local municipal politics update to Read how criminal justice issues directly impact Bay Minette residents right now.
+    text: The family of OJ French Jr. filed a federal lawsuit against Bay Minette and Officer Brandon Thompson. Criminal justice issues directly impact local residents right now.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T13:49:01.227571Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: aaa849b189760a6ec531fba459a6259f29a552d96cf5635479fe874e81e3dff8
+    brief: |-
+      THE CONFLICT:
+      *   Joseph Robinette Biden Jr. was called the winner of the 2020 Presidential Election by media companies.
+      *   State-level counts continued until certification following the 2020 election.
+
+      THE DISCOVERY:
+      *   A reward is offered for information regarding the death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama.
+      *   Thomas Daniel "Danny" Williams Jr.'s body was recovered on Sunday, May 29, 2022, following his death on May 27, 2022.
+
+      THE PIVOT:
+      *   No factual connection or update regarding the 2020 Presidential Election (Article 1) is provided in the 2022 update (Article 2). The articles cover entirely separate, unconnected events.
+
+      KEY ENTITIES:
+      *   Joseph Robinette Biden Jr.
+      *   2020 Presidential Election
+      *   Thomas Daniel "Danny" Williams Jr.
+      *   Orange Beach, Alabama
+      *   May 27, 2022
+      *   May 29, 2022
+      *   Pete Rose
+      *   Katie Britt
+      *   Adm. Kent Davis
+      *   Montgomery Alabama Mayor
+    llm_text: Forget the 2020 Presidential Election debate. Authorities offer a reward for information regarding the death of Thomas Daniel "Danny" Williams Jr. in Orange Beach, Alabama. Help investigators find answers about his death on May 27, 2022.
+    text: Forget presidential election debates for a moment. Authorities offer a reward for information regarding the death of Thomas Daniel Williams Jr. in Orange Beach.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T13:45:23.577965Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    refined_source: 520f672000a2dcb50b1763526d32eebad5bd6e0e9a83b04b5d74ba7483a5d9df
+    brief: |-
+      THE CONFLICT:
+      * 2020 Presidential Election for Joseph Robinette Biden Jr.
+      * State-level vote counts were ongoing until certified.
+      * As of the time of Article 1, there were no pardons on the table.
+
+      THE DISCOVERY:
+      * Biden is reportedly discussing/granting pardons for his family and allies.
+      * Governor Kay Ivey is under fire in Alabama for firing Admiral Kent Davis and attempting to control the veterans’ board.
+      * A true crime story was uncovered in Clarke County, involving a hospice business with shady ties to a judge.
+
+      THE PIVOT:
+      * Article 1 established the post-2020 transition and the initial lack of pardons; Article 2 updates this by confirming Biden pardons and shifting the focus to ongoing regional power struggles and political corruption in Alabama (Ivey/Davis/Clarke County).
+
+      KEY ENTITIES:
+      * Joseph Robinette Biden Jr.
+      * Trump
+      * Governor Kay Ivey
+      * Admiral Kent Davis
+      * Clarke County
+      * Baldwin County
+    llm_text: Biden reportedly grants pardons to family and allies, shifting post-2020 dynamics. Meanwhile, Governor Kay Ivey faces fire over Admiral Kent Davis, and a Clarke County judge ties into a local hospice true crime story.
+    text: President Biden grants pardons to family and allies. Meanwhile, Governor Ivey faces heavy fire over Admiral Kent Davis and a Clarke County true crime case.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T13:39:23.544255Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 22821bf5af7e264feccb998a1d7059df2578dd59bfe32e85aa67e8cd4054e170
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election; Joseph Robinette Biden Jr. was called the winner; state-level counts were ongoing until certification.
+      THE DISCOVERY: Ongoing political and legal corruption includes the Dothan Summer Feeding Scandal (Alabama); the Alabama Court of Civil Appeals released a decision today at 1pm regarding the Rule 32 Petition for Murray Lawrence Jr.; the Baldwin County Sheriff's Department was involved in the theft of a 1968 Camaro (Mack vs Hadley); and corrupt Alabama Federal Judge Mark Fuller (Mobile, Alabama) is documented.
+      THE PIVOT: Article 2 moves beyond the 2020 election transition bureaucracy to expose deep, specific, and ongoing systemic corruption within state and local legal/political systems (e.g., Alabama and Baldwin County), exemplified by unrevealed 2005 autopsies (Brady Violation) in the Mack vs Hadley case.
+      KEY ENTITIES: Joseph Robinette Biden Jr.; Luigi Manjone; Mark Fuller; Murray Lawrence Jr.; Baldwin County Sheriff's Department; Dothan Summer Feeding Scandal; Alabama Court of Civil Appeals; United Healthcare CEO.
+    llm_text: Biden won the 2020 election, but the systemic corruption runs deeper than election bureaucracy. Investigate the Dothan Summer Feeding Scandal, corrupt Federal Judge Mark Fuller, or the Baldwin County Sheriff's theft of a 1968 Camaro.
+    text: Systemic corruption in Alabama runs deeper than federal election bureaucracy. Investigate the Dothan Summer Feeding Scandal, Judge Mark Fuller, and local vehicle theft.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T13:42:41.641526Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: e448a1df513b4016f3943d384e59b7e2e506d20569556f99f6b08fe0fea0b0d0
+    brief: |-
+      THE CONFLICT: 2020 Presidential Election called for Joseph Robinette Biden Jr. by Media Companies/News Outlets; State-level counts continued until certification; No pardons on the table (as of that night).
+      THE DISCOVERY: Backstory Podcast No. 186 discusses 2024 US Presidential election results and The Trump Cabinet 2.0; Current Alabama issues include closing of rural hospitals, changes to hunting seasons, and proposed constitutional amendments.
+      THE PIVOT: Article 2 updates the political focus from the 2020 transition/certification to the current 2024 election cycle and ongoing state/legal challenges in Alabama.
+      KEY ENTITIES: Joseph Robinette Biden Jr., Trump, Backstory Podcast No. 186, Alabama, Google, Veterans/Consumer Advocate, journalist, attorney
+    llm_text: The 2020 Biden Jr. transition is history; focus on the 2024 election and how it shapes Alabama. Backstory Podcast No. 186 explores Trump Cabinet 2.0 amid rural hospital closures and proposed state amendments.
+    text: The Biden transition is history, but the 2024 election shapes Alabama's future. Backstory Podcast explores the Trump Cabinet amid rural hospital closures and proposed state amendments.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T13:44:28.044051Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    refined_source: e4f58c8854d0ed3f22fa7513c675d65259f03f5857b3c87b826ff69513a42d47
+    brief: |-
+      THE CONFLICT:
+      *   2020 Presidential Election was called for Joseph Robinette Biden Jr. by media companies.
+      *   State-level counts continued until certification.
+      *   No pardons were available as of the time of Article 1.
+
+      THE DISCOVERY:
+      *   VP Kamala Harris has shifted perception from "scourge" to "darling savior" following the Democratic National Convention.
+      *   RFK Jr removed his name from battleground ballots.
+      *   Candidate Trump is increasing political influence.
+      *   In Baldwin County, Alabama, Sheriff Mack has one week remaining in office.
+      *   The Governor is currently selecting a replacement for Sheriff Mack.
+
+      THE PIVOT:
+      *   Article 2 shows that despite the 2020 Presidential election outcome being settled (Article 1), local state-level transitions (Baldwin County, Alabama) and national political realignments (Trump/RFK Jr impact) are actively defining the current political climate.
+
+      KEY ENTITIES:
+      *   Joseph Robinette Biden Jr.
+      *   Kamala Harris
+      *   RFK Jr.
+      *   Trump
+      *   Sheriff Mack
+      *   Baldwin County, Alabama
+      *   Finebaum
+      *   University of Alabama
+    llm_text: 'Kamala Harris shifted from "scourge" to "darling savior" after the DNC. Don''t overlook local power: RFK Jr dropped ballots while Baldwin County, Alabama, selects a replacement for Sheriff Mack.'
+    text: Kamala Harris shifted from target to darling after the DNC. Don't overlook local power as Baldwin County selects a replacement for Sheriff Mack.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T13:47:56.698044Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

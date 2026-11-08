@@ -1,0 +1,151 @@
+metadata:
+  generated_at: "2026-11-07T20:03:53.454316Z"
+  generator_version: 1.0.0
+  post_slug: danger-zone
+  main_date: "2020-02-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  combat:
+    brief: "THE CONFLICT: \n- Highway 98 and Parker Road intersection safety issues caused by politicians and developers.\n- Political corruption in Fairhope, Alabama, led by the Fairhope City Council, former Mayor Can't, and property owner/CATALYST supporter Angelo Corte.\n- CATALYST group plotting to gain control of Fairhope City Hall in the 2020 elections to the detriment of taxpayers and property values, opposed by Mayor Wilson.\n\nTHE DISCOVERY: \n- Historical context from Article 2 (older): The author served as a Marine combat engineer during the Vietnam War (March 1968 Tet Offensive in Dong Ha), suffered severe injuries from an ammo dump explosion, refused the Purple Heart, and has had a pending VA claim for 51 years while undergoing 15 surgeries (including a complete reverse left shoulder replacement in December 2019/recent past at the Veterans Hospital in Birmingham, Alabama).\n- The author founded the Ripp Report as a non-profit consumer organization in 2010 after being classified 100% disabled, specifically dedicated to exposing political corruption in Fairhope and Baldwin County.\n\nTHE PIVOT: \n- Article 2 establishes the author's lifelong resilience, deep-rooted passion for the U.S. Constitution, and uncompromising war against corruption (\"the silent tax\") stemming from his military trauma and decades-long battle with the VA. This background serves as the foundational \"smoking gun\" proving that the author's declared \"COMBAT\" against the corrupt Fairhope City Council, former Mayor Can't, Angelo Corte, and the CATALYST group in Article 1 is an extension of a legitimate, long-standing 10-year crusade by the Ripp Report to dismantle local political machines.\n\nKEY ENTITIES: \n- Angelo Corte\n- Mayor Can't\n- Mayor Wilson\n- CATALYST (Fairhope City Council faction)\n- The Ripp Report\n- Baldwin County Legal Eagle\n- Backstory Podcast"
+    llm_text: When Angelo Corte and the Fairhope City Council plot to hijack City Hall, they underestimate a Marine combat veteran. Discover why a 51-year VA battle forged the Ripp Report's relentless crusade against local corruption.
+    text: When Angelo Corte and the Fairhope City Council plot to hijack City Hall, they underestimate a Marine combat veteran. Discover why a 51-year VA battle forged the Ripp Report's relentless crusade against local corruption.
+    widget_date: "2019-12-06"
+    generated_at: "2026-11-07T20:02:07.927199Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-11:
+    refined_source: 5f5bdcd102a0897f91f74cb35ae73d2749d9e8e7d9e60662a3496ec3940c4f46
+    brief: |-
+      THE CONFLICT:
+      Gulf Shores Developments North of the Intracostal Waterway (CR6 Boulevard, Pedestrian Bridge across the Intracoastal, Hwy59 additional Southbound Lane, skirting the legal settlement to provide a route around Gulf State Park) mentioned in November 15, 2019.
+
+      THE DISCOVERY:
+      Article 2 revealed Gulf Shores Developments and related issues (e.g., Fairhope Klump PUD development at Hwy 181/Fairhope Ave) in November 2019.
+
+      THE PIVOT:
+      Article 2 provides the historical context (November 2019) for development/political issues in the area which later connects to the current danger zone on Highway 98 and Parker Road involving the CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and property owner Angelo Corte.
+
+      KEY ENTITIES:
+      Gulf Shores Developments
+      Fairhope Klump PUD
+      Hwy 181
+      Fairhope Avenue
+      Gulf State Park
+      CATALYST Fairhope City Council
+      Former Fairhope Mayor Can’t
+      Angelo Corte
+      Highway 98
+      Parker Road
+      November 15, 2019
+    llm_text: Gulf Shores Developments planned tricky routes around Gulf State Park back in November 2019. See how that history connects to today's danger on Highway 98 involving the CATALYST City Council and Angelo Corte.
+    text: Gulf Shores developers mapped out routes around Gulf State Park in 2019. How does that old plan connect to current dangers on Highway 98?
+    widget_date: "2019-11-15"
+    generated_at: "2026-11-07T20:02:15.705522Z"
+    model_name: plugsky-lite
+  catalyst-kiss:
+    refined_source: 0b55c846980f3e8a656bf9867467cadb70fbf372cc87ca7e6a7d0b90a871ffbe
+    brief: |-
+      THE CONFLICT:
+      *   Council President Jack Burrell has held his position for 7+ years without sharing the gavel.
+      *   Burrell showed support for CATALYST candidate Bill Hightower by throwing a "KISS" to him during a recent Monday night Fairhope City Council meeting.
+      *   The Fairhope CATALYST council planned to run as a block vote in 2020, promoting CATALYST candidates.
+
+      THE DISCOVERY:
+      *   The CATALYST council, led by Jack Burrell, is actively promoting and supporting specific political candidates (e.g., Bill Hightower) and operates with strong internal control.
+
+      THE PIVOT:
+      *   Article 2 establishes the political structure (CATALYST control, Jack Burrell's dominance, block voting) and the political affiliations (CATALYST support for developers/candidates) that provide the context for the alleged corruption concerning public safety issues (Highway 98/Parker Road) in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Bill Hightower (CATALYST candidate, First Congressional District)
+      *   Angelo Corte (Property owner, CATALYST supporter)
+      *   CATALYST Fairhope City Council
+      *   Former Fairhope Mayor Can’t
+      *   Highway 98 and Parker Road
+    llm_text: Jack Burrell has held Fairhope City Council for seven years, backing CATALYST candidate Bill Hightower. Understand how this internal control impacts local issues like the Highway 98/Parker Road safety crisis.
+    text: Jack Burrell has led the Fairhope City Council for seven years and backed Bill Hightower. How does that control impact the Highway 98 safety crisis?
+    widget_date: "2020-02-12"
+    generated_at: "2026-11-07T20:02:34.988788Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  survey:
+    refined_source: b14b30dbcb9398184afd06ee3665015a55e5a64699be2018505d5a8a323bc12b
+    brief: |-
+      THE CONFLICT: CATALYST City Council obstructed the Mayor during a time when Fairhope's city debt was paid in full June 2019; the council subsequently purchased $2.65 million worth of farmland for recreation.
+      THE DISCOVERY: The CATALYST Council purchased $2.65 million farmland, later leased for $9,000 annually, demonstrating self-serving actions despite city financial improvements and the $6.2 million Fairhope Working Waterfront and Green Space Project.
+      THE PIVOT: Article 2 establishes a historical pattern of self-interest and mismanagement by the CATALYST City Council (e.g., the farmland deal) which provides the context for the current dangerous intersection problems detailed in Article 1.
+      KEY ENTITIES: CATALYST Fairhope City Council, former Fairhope Mayor Can’t, Angelo Corte, Highway 98, Parker Road, June 2019, $2.65 million, $6.2 million
+    llm_text: The CATALYST City Council bought $2.65 million in farmland even after paying off Fairhope's city debt in June 2019. Read how this history of self-interest explains the current dangerous intersection problems on Highway 98 and Parker Road.
+    text: The CATALYST City Council bought $2.65 million in farmland after clearing city debt in 2019. Did self-interest create today's dangerous intersection problems?
+    widget_date: "2020-02-08"
+    generated_at: "2026-11-07T20:03:36.891977Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  people-power-2:
+    brief: |-
+      THE CONFLICT:
+      - Sewer infrastructure failure in Fairhope: 13 million dollar sewer plant never processed 500,000 gallons of raw sewage that overflowed into Big Head gully and Fly Creek watershed.
+      - Mayor Wilson addressed sewer problem shortly after being elected; city superintendents evaluating studies proposed by Mayor; council did nothing despite being informed of problems.
+      - City Council holding up sewer infrastructure projects and obstructing Mayor Wilson and her duties.
+      - Councilman Robinson said not council's fault; warned audience not to believe what you read in social media.
+      - Fairhope Single Tax backed off proposed Tuberville subdivision after 2,276 citizen petition signatures.
+
+      THE DISCOVERY:
+      - Article 2 (Widget: PEOPLE POWER) revealed serious sewer infrastructure problem in Fairhope; Mayor Wilson broke down emotionally over losses: suicide of senior classmate of her daughter's while in Fairhope High; Mayor knew her grandmother was fighting for her life; Mayor lost good friend, all in few days.
+      - Council never heard second opening prayer; council too focused on covering own asses; spent meeting heaping stress and heartache on Mayor.
+      - Sherry Sullivan fired from Fairhope, sued city, with assistance of council collected her check, YOUR MONEY.
+      - Councilman Robinson's wife used to work for Sherry and is her best friend.
+      - Council wanted to change Fairhope Arts and Crafts organization; Jay said downtown merchants "did not care"; Jay's wife said downtown board did not want to get involved.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun for Article 1 because it documents council negligence/obstruction re: sewer (500,000 gallons overflow; 13 million plant unprocessed) that parallels Article 1's blame of CATALYST Fairhope City Council, former Fairhope Mayor Can, and property owner Angelo Corte, a CATALYST supporter, for dangerous Highway 98 and Parker Road intersection.
+      - Article 2's 2,276-signature petition and citizen backlash provide background context for Article 1's complaint; connects to "politicians and developers in the same bed" theme.
+
+      KEY ENTITIES:
+      - Fairhope City Council
+      - CATALYST
+      - Mayor Wilson
+      - Councilman Robinson
+      - Sherry Sullivan
+      - Angelo Corte
+      - Can (former Fairhope Mayor)
+      - Jim Nix
+      - Tim Kant
+      - Mr Peterson
+      - Boone
+      - Burrell
+      - Jay
+      - Fairhope Single Tax
+      - Tuberville subdivision
+      - Fairhope Arts and Crafts Festival Foundation
+      - First Baptist Church
+      - Fairhope High
+      - Big Head gully
+      - Fly Creek watershed
+      - Highway 98
+      - Parker Road
+      - Fairhope
+      - Lowery
+      - Wilters
+    llm_text: Fairhope's City Council ignored Mayor Wilson's warnings while a 13 million dollar sewer plant sat dead and 500,000 gallons of raw sewage overflowed into Big Head gully. Now her emotional losses and the 2,276-signature petition expose the negligence behind Article 1's Highway 98 and Parker Road claims.
+    text: Fairhope's City Council ignored Mayor Wilson's warnings while a 13 million dollar sewer plant sat dead and 500,000 gallons of raw sewage overflowed into Big Head gully. Now her emotional losses and the 2,276-signature petition expose the negligence behind Article 1's Highway 98 and Parker Road claims.
+    widget_date: "2018-02-16"
+    generated_at: "2026-11-07T20:02:37.327191Z"
+    model_name: recursive/flint-v1.0:free
+  bar-stool-continued:
+    brief: "THE CONFLICT: \n- An assault involving an individual named McSherry was caught on videotape 15 months prior to the Widget Article (published prior to a scheduled Monday, January 27 court date).\n- McSherry, described as having multiple convictions, being on probation, and facing a 180-day jail sentence, managed to avoid justice while the case moved from Fairhope Municipal Court to Circuit Court.\n- McSherry’s attorney, James Pittman, pushed obstruction tactics, floated conspiracy theories, challenged the state's Shield Law, and blamed others.\n\nTHE DISCOVERY: \n- The Fairhope Municipal Court and the City Attorney either \"dropped the ball or hid the ball\" in resolving the 15-month-old assault case within an expected 6-month timeframe.\n- The case involved apparent institutional protection or preferential treatment, raising questions about why a Circuit Judge acted favorably in a high-profile case and how McSherry continued to evade a 180-day jail sentence despite a video-recorded assault and active probation status.\n\nTHE PIVOT: \n- The Widget Article serves as the smoking gun/background context proving a systemic pattern of corruption, collusion, and \"good ole boy\" politics involving the municipal justice system and local officials. \n- Just as the Widget Article exposes how local courts and officials shield connected individuals (like McSherry) from accountability, the Main Article connects this exact same corrupt apparatus—specifically former Mayor Kant, the CATALYST Fairhope City Council, and developer Angelo Corte—to the dangerous degradation of Highway 98 and Parker Road.\n\nKEY ENTITIES: \n- McSherry (Defendant)\n- James Pittman (McSherry's Attorney)\n- Former Mayor Kant\n- Angelo Corte (Property Owner / CATALYST Supporter)\n- CATALYST Fairhope City Council\n- Fairhope Municipal Court\n- City Attorney\n- Circuit Court / Circuit Judge\n- Highway 98 and Parker Road"
+    llm_text: Attorney James Pittman helped repeat offender McSherry dodge a 180-day jail sentence for a caught-on-video assault through blatant courtroom delay tactics. Read how this local justice breakdown mirrors the exact corruption powering former Mayor Kant and the CATALYST council.
+    text: Attorney James Pittman helped repeat offender McSherry dodge a 180-day jail sentence for a caught-on-video assault through blatant courtroom delay tactics. Read how this local justice breakdown mirrors the exact corruption powering former Mayor Kant and the CATALYST council.
+    widget_date: "2020-01-25"
+    generated_at: "2026-11-07T20:02:02.395122Z"
+    model_name: gemini-3.5-flash-lite
+  criminal-enterprise:
+    refined_source: 986eaa5e202dbb2c42002538d6804b4cf6bf0847481a5b467d0fdf7c6cc5c33b
+    brief: |-
+      THE CONFLICT: No specific past conflict or date mentioned in Article 2.
+      THE DISCOVERY: Article 2 suggests Fairhope is run as a "Criminal Enterprise."
+      THE PIVOT: Article 2 provides historical context framing local governance in Fairhope as potentially criminal, which connects to the current dangerous conditions at Highway 98 and Parker Road cited in Article 1, implicating specific local figures.
+      KEY ENTITIES: CATALYST, Fairhope City Council, Can’t, Angelo Corte, Highway 98, Parker Road
+    llm_text: Fairhope runs like a "Criminal Enterprise," tying local governance to dangerous conditions at Highway 98 and Parker Road. Angelo Corte and the City Council face scrutiny over this concerning local reality.
+    text: Fairhope operates like a closed enterprise linked to dangerous highway conditions. Why do Angelo Corte and the City Council avoid scrutiny?
+    widget_date: "2019-12-27"
+    generated_at: "2026-11-07T20:02:05.953797Z"
+    model_name: plugsky-lite

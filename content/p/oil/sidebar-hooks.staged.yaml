@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   new-years-2026:
+    refined_source: 97b120488f69f313bc96477daa528829e175216b8dbc9a6f3a0a34cbbe796ed1
     brief: |-
       THE CONFLICT:
       In the 2000s, Venezuela under Hugo Chávez expropriated oil projects owned by U.S. firms (ExxonMobil, ConocoPhillips).
@@ -32,10 +33,12 @@ hooks:
       Dr. John Sophocleus
       Whitney Scapecci
     llm_text: Venezuela owes ExxonMobil and ConocoPhillips $35 billion for expropriated oil, requiring the seizure of 300 tankers. See how mentions of Trump and Venezuela in our 2025 outlook connect to this massive debt enforcement.
+    text: Foreign governments owe billions of dollars for seized oil assets, forcing the seizure of massive tankers. Read how international debt enforcement connects to our legal outlook.
     widget_date: "2026-01-01"
     generated_at: "2026-11-06T10:54:05.586078Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   former-summerdale-police-chief-kevin-brock:
+    refined_source: f4625fdca681bdc4af1df0b507075c3236bd80899256f8a2828a30446815ca0c
     brief: |-
       THE CONFLICT:
       *   2000s: Venezuela (under Hugo Chávez) seized oil projects and assets of U.S. foreign companies (ExxonMobil, ConocoPhillips).
@@ -62,10 +65,12 @@ hooks:
       *   BCSO
       *   Bay Minette
     llm_text: Harry Still's alleged unlawful arrest and the firing of Kevin Brock mirror Venezuela's seizure of ExxonMobil assets under Hugo Chávez. See how local overreach by Anthony Lowery and the BCSO parallels international legal abuse, detailed by Debbie Williams at WKRG News 5.
+    text: The arrest of Harry Still and the firing of Kevin Brock mirror asset seizures in foreign nations. Local overreach by Anthony Lowery shows an abuse of power.
     widget_date: "2025-11-26"
     generated_at: "2026-11-06T10:55:27.113045Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-attorney-general:
+    refined_source: 8fdc98fc4f6a6ae9d2f0469217981e34658da751d962c818d1bb8d2131ce0bc6
     brief: |-
       THE CONFLICT:
       Tom Albritton, Alabama Executive Director of the Ethics Commission and Trustee of the Mabel Amos Memorial Fund, was alleged to have self-served from the trust, including awarding himself $135,000 for his children and allowing Regions Bank to take $1 million.
@@ -92,7 +97,8 @@ hooks:
       ConocoPhillips
       Venezuela
       Alabama Ethics Commission
-    llm_text: Tom Albritton, Alabama Ethics Director, allegedly self-served from the Mabel Amos Memorial Fund, taking $135k for his children and $1M from Regions Bank. This oil wealth scandal reveals how state corruption mirrors international legal disputes, depriving hundreds of needed scholarships.
+    llm_text: Tom Albritton, Alabama Ethics Director, self-served from the Mabel Amos Memorial Fund, taking $135k for his children and $1M from Regions Bank. This oil wealth scandal reveals how state corruption mirrors international legal disputes, depriving hundreds of needed scholarships.
+    text: Alabama Ethics Director Tom Albritton took money from the Mabel Amos Memorial Fund for his family. This scandal diverted scholarship funds from students who needed them.
     widget_date: "2024-02-22"
     generated_at: "2026-11-06T10:56:28.777262Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

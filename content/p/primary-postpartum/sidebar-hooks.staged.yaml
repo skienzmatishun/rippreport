@@ -5,17 +5,94 @@ metadata:
   main_date: "2026-06-20"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  not-qualified:
+    refined_source: 8c59983699aaf650c5bf944bda206a49dd668d141782b626f016ac634567584a
+    brief: |-
+      THE CONFLICT:
+      Murray Bubba Lawrence Jr. faced trial presided over by Circuit Judge DA Wilters.
+      Jefferson Beauregard Sessions was involved in confirmation hearings regarding accusations of racism by Democrats.
+      Harry Still (Baldwin County Attorney) was arrested by City of Orange Beach Officials and subsequently assaulted by Bay Minette City Councilman Matt Franklin.
+
+      THE DISCOVERY:
+      Article 2 revealed Murray Bubba Lawrence Jr.'s conviction and questioned the qualifications of Kristi Hagood (Baldwin County Assistant District Attorney) in relation to civil law experience.
+      Article 2 also provided testimony from Willie Huntley regarding Jeff Sessions and the bankruptcy of the Ku Klux Klan.
+
+      THE PIVOT:
+      Article 2 establishes the historical legal and political context (e.g., Lawrence Jr.'s trial, Sessions' background, Hagood's career) within Baldwin County, providing the background framework for the contemporary political scandals, corruption allegations, and legal disputes (e.g., Roy Moore lawsuits, Prichard Cops corruption, Harry Still's assault) detailed in Article 1.
+
+      KEY ENTITIES:
+      Harry Still
+      Matt Franklin
+      City of Orange Beach Officials
+      Roy Moore
+      Tony Kennon
+      Kristi Hagood
+      Murray Bubba Lawrence Jr.
+      Jeff Sessions
+      Willie Huntley
+      Jefferson Beauregard Session
+      DA Wilters
+      Kevin Brock
+      Billy Jo Underwood
+      Prichard
+      Tubberville
+      Baldwin County
+      Alabama
+    llm_text: Harry Still faced assault from Matt Franklin, but Baldwin County's corruption runs deeper. We uncover Murray Bubba Lawrence Jr.'s trial and examine Kristi Hagood's qualifications alongside Jeff Sessions' history.
+    text: James Pittman, a Baldwin County Attorney, failed to pay a $67,000 SERVPRO debt and tried to take an elderly woman's house. His judicial influence reveals a pattern of legal manipulation.
+    widget_date: "2026-05-09"
+    generated_at: "2026-11-06T06:17:53.379932Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gambling-money-run-amok:
+    refined_source: f63f477012050e621cd1e1f734fbc01bc7e340550c063b51a3f5e27e9ac8c6dd
+    brief: |-
+      THE CONFLICT: Steve Raby, Speaker's lobbyist, was running with out-of-state gambling interest money, which was used by executives in the Mayor of Birmingham's LGBTQ Office to support a Democrat, Rep Juandalynn Givan (Alabama House District 60).
+      THE DISCOVERY: The Widget Article (older) revealed systemic political corruption within the Alabama Legislature involving gambling funds influencing legislative candidates (Elliott, Simpson, Allbritton, Holk-Jones).
+      THE PIVOT: The Widget Article establishes the historical context of legislative corruption and outside financial influence (gambling money) in Alabama politics, providing the backdrop for the local political scandals detailed in the Main Article (e.g., City of Orange Beach official actions against Harry Still, PSC appointments, Roy Moore lawsuits).
+      KEY ENTITIES: Harry Still (Baldwin County Attorney), Matt Franklin (Bay Minette City Councilman), City of Orange Beach Officials, Roy Moore, Tony Kennon, Prichard, Juandalynn Givan (HD 60), Steve Raby, Speaker Ledbetter, Elliott, Simpson, Albritton, Holk-Jones, Joshua Coleman, Dax Swatek.
+    llm_text: Lobbyist Steve Raby used out-of-state gambling money within the Mayor's LGBTQ Office to fund Rep Juandalynn Givan (HD 60). Read how this local scandal links to Alabama's deep history of legislative corruption involving figures like Elliott and Simpson.
+    text: Lobbyist Steve Raby used out-of-state gambling money within the Mayor's LGBTQ Office to fund Rep Juandalynn Givan. Read how this local scandal links to Alabama's history of legislative corruption.
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-06T06:22:25.469219Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  by-appointment-only:
+    refined_source: a93a45d1ab43d9d2dfc79433c901d51c80cf861fd25b6550db8e12de3fdf0c95
+    brief: |-
+      THE CONFLICT: Harry Still (Baldwin County Attorney) was assaulted by Matt Franklin (Bay Minette City Councilman) during his arrest.
+      THE DISCOVERY: Baldwin County judiciary appointments are controlled by a cabal utilizing political influence with the State Executive Branch; Draft Kings is supporting pro-gaming legislators for the creation of the Alabama Gaming Commission.
+      THE PIVOT: Article 2 establishes the systemic political influence and judicial control within Baldwin County, providing context for the conflicts involving Baldwin County Attorney Harry Still mentioned in Article 1.
+      KEY ENTITIES: Harry Still (Baldwin County Attorney), Matt Franklin (Bay Minette City Councilman), City of Orange Beach Officials, Draft Kings, Alabama Gaming Commission, PCI Gaming (Porch Band of Creek Indians), Roy Moore, Tony Kennon, Prichard Cops.
+    llm_text: Harry Still, Baldwin County Attorney, was assaulted by Councilman Matt Franklin during his arrest. This conflict exposes a cabal controlling Baldwin County judiciary appointments, fueled by political influence and Draft Kings' push for the Alabama Gaming Commission.
+    text: Baldwin County Attorney Harry Still was assaulted by Councilman Matt Franklin during his arrest. This conflict exposes a group controlling Baldwin County judiciary appointments, fueled by political influence.
+    widget_date: "2026-04-10"
+    generated_at: "2026-11-06T06:23:33.800143Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast:
+    refined_source: d12bf44e337ae7a0e8405186a171acde29e390fdf185cdcc1a817ac279d7b0a7
+    brief: |-
+      THE CONFLICT: Harry Still, Baldwin County Attorney, was slandered by City of Orange Beach Officials following his arrest, an arrest during which he was assaulted by Bay Minette City Councilman Matt Franklin.
+      THE DISCOVERY: Article 2 (Backstory Podcast) established that Baldwin County harbors a "good ole boy system" and political corruption, specifically targeting the lack of transparency and accountability within the Fairhope City Council, predicting its removal in 2020.
+      THE PIVOT: Article 2 provides the foundational context of entrenched political corruption in Baldwin County, framing the specific attacks and slander against Harry Still (Article 1) not as isolated incidents but as part of a systemic issue within the county's judicial and municipal structure.
+      KEY ENTITIES: Harry Still, Francis Paul Ripp, Matt Franklin, City of Orange Beach Officials, Roy Moore, Tony Kennon, Prichard, Tubberville, Fairhope City Council, Backwoods Media, LLC, Baldwin County.
+    llm_text: Orange Beach officials slandered Harry Still after Matt Franklin assaulted him. This incident exposes Baldwin County's deep "good ole boy system" of political corruption and unchecked power.
+    text: Orange Beach officials slandered Harry Still after Matt Franklin assaulted him. This incident exposes Baldwin County's deep system of political corruption and unchecked power.
+    widget_date: "2019-09-06"
+    generated_at: "2026-11-06T06:24:33.902236Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scum-bag:
+    refined_source: 2dc55182f0ccd8af956898b4f4b2988402f26ad9bf807796585479ef8ab547b4
     brief: |-
       THE CONFLICT: James Pittman (Baldwin County Attorney) was involved in ethical misconduct, including failing to pay SERVPRO ($35,106.38 owed plus interest/fees totaling nearly $67,000) and attempting to take an elderly woman’s house. Harry Still (Baldwin County Attorney) was arrested after being assaulted by Matt Franklin (Bay Minette City Councilman) and later subjected to slander by City of Orange Beach Officials.
       THE DISCOVERY: James Pittman ran for and was elected to the Baldwin Judicial Commission, a five-member panel selecting judicial nominees, headed by Clark Stankoski. Pittman submitted the appointment for Judge Brackin, who subsequently handled the Paul Shalhoub case within six months.
       THE PIVOT: Article 2 establishes a documented pattern of legal manipulation and ethical failure by a Baldwin County attorney (James Pittman) through judicial influence and financial coercion, providing context for the broader theme of political and legal corruption involving another Baldwin County Attorney (Harry Still) and local officials (Orange Beach) detailed in Article 1.
       KEY ENTITIES: James Pittman, Tripp Pittman, Harry Still, Matt Franklin, City of Orange Beach Officials, Clark Stankoski, Judge Brackin, Paul Shalhoub, SERVPRO, Southland Properties, Roy Moore, Tony Kennon, Prichard.
     llm_text: James Pittman, a Baldwin County Attorney, failed to pay a $67K SERVPRO debt and tried to take an elderly woman's house. His judicial influence, electing Judge Brackin, reveals a pattern of legal manipulation linking directly to the corruption involving Harry Still and Orange Beach officials.
+    text: James Pittman failed to pay a $67K SERVPRO debt and tried to take an elderly woman's house. His judicial influence, electing Judge Brackin, reveals a pattern of legal manipulation.
     widget_date: "2026-06-19"
     generated_at: "2026-11-06T06:16:51.795758Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   not-guilty-innocent:
+    refined_source: 1af05f570347dc1e3552f30b9f94d6bc73773e932fbc74770d79c70e214801ab
     brief: |-
       THE CONFLICT:
       *   September 3, 2025: Harry Still (practicing attorney) and Matt Franklin (Bay Minette city councilman) engaged in a skirmish in Franklin's office in downtown Bay Minette.
@@ -52,92 +129,31 @@ hooks:
       *   David Whetstone (Former Prosecutor)
       *   Orange Beach, Bay Minette, Prichard, Tubberville
     llm_text: Judge Marcus McDowell initially convicted Harry Still after his skirmish with Bay Minette Councilman Matt Franklin. But Circuit Court Judge Clark Stankowski oversaw a jury verdict finding Still NOT GUILTY, definitively clearing him and negating local slander claims.
+    text: Judge Marcus McDowell initially convicted Harry Still after his skirmish with Bay Minette Councilman Matt Franklin. Circuit Court Judge Clark Stankowski oversaw a jury verdict finding Still not guilty.
     widget_date: "2026-06-13"
     generated_at: "2026-11-06T06:19:27.933080Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   mountain-medicine:
+    refined_source: 239386454460413f72ffc04a986df160167b8b180a95ad4b0ac72c75a7495f25
     brief: |-
       THE CONFLICT: Harry Still (Baldwin County Attorney) was assaulted by Matt Franklin (Bay Minette City Councilman) at the time of his arrest.
       THE DISCOVERY: Darryl Patton's book, "Mountain Medicine," details herbal remedies of Tommy Bass, who learned from an old Cherokee woman.
       THE PIVOT: The articles share the Alabama/Bay Minette geographical context, but Article 2 (Tommy Bass/herbal remedies) provides no factual or evidentiary context for the political/legal conflicts (Harry Still/Orange Beach officials) detailed in Article 1.
       KEY ENTITIES: Harry Still, Matt Franklin, Darryl Patton, Tommy Bass, Roy Moore, Tony Kennon, City of Orange Beach Officials, Prichard Cops
     llm_text: Baldwin County Attorney Harry Still faced assault by Bay Minette Councilman Matt Franklin. See how local figure Tommy Bass used herbal remedies in Alabama, linking volatile political conflicts to unique community resilience.
+    text: Baldwin County Attorney Harry Still faced assault by Bay Minette Councilman Matt Franklin. See how local figure Tommy Bass used herbal remedies in Alabama, linking volatile political conflicts to the community.
     widget_date: "2026-06-12"
     generated_at: "2026-11-06T06:21:23.763846Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   a-new-hope:
+    refined_source: 6b7942c16ba7c349d64617e2a46d68bf4335576b6bcd3485e15f344bbd655ce8
     brief: |-
       THE CONFLICT: Arrest/assault incident involving Harry Still and Bay Minette City Councilman Matthew J Franklin.
       THE DISCOVERY: A Baldwin County Jury delivered a NOT GUILTY verdict in the case City of Bay Minette v Harry Still III (Widget Article).
       THE PIVOT: The Not Guilty verdict (Article 2) proves Harry Still's innocence regarding the assault, contextualizing and undermining the later "Slander of Podcast Host and Baldwin County Attorney Harry Still by City of Orange Beach Officials" (Article 1).
       KEY ENTITIES: Harry Still III, Matthew J Franklin, Danielle Duggar, City of Orange Beach Officials, Baldwin County Jury, Matt Franklin, Roy Moore, Tony Kennon, Prichard Cops.
     llm_text: The Baldwin County Jury delivered a NOT GUILTY verdict for Harry Still III in the assault case against Matthew J Franklin. This verdict proves Still's innocence, undermining later slander claims by City of Orange Beach Officials.
+    text: The Baldwin County Jury delivered a not guilty verdict for Harry Still III in the assault case against Matthew J Franklin. This verdict proves Still's innocence, undermining later slander claims by City of Orange Beach officials.
     widget_date: "2026-05-25"
     generated_at: "2026-11-06T06:20:26.688270Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  not-qualified:
-    brief: |-
-      THE CONFLICT:
-      Murray Bubba Lawrence Jr. faced trial presided over by Circuit Judge DA Wilters.
-      Jefferson Beauregard Sessions was involved in confirmation hearings regarding accusations of racism by Democrats.
-      Harry Still (Baldwin County Attorney) was arrested by City of Orange Beach Officials and subsequently assaulted by Bay Minette City Councilman Matt Franklin.
-
-      THE DISCOVERY:
-      Article 2 revealed Murray Bubba Lawrence Jr.'s conviction and questioned the qualifications of Kristi Hagood (Baldwin County Assistant District Attorney) in relation to civil law experience.
-      Article 2 also provided testimony from Willie Huntley regarding Jeff Sessions and the bankruptcy of the Ku Klux Klan.
-
-      THE PIVOT:
-      Article 2 establishes the historical legal and political context (e.g., Lawrence Jr.'s trial, Sessions' background, Hagood's career) within Baldwin County, providing the background framework for the contemporary political scandals, corruption allegations, and legal disputes (e.g., Roy Moore lawsuits, Prichard Cops corruption, Harry Still's assault) detailed in Article 1.
-
-      KEY ENTITIES:
-      Harry Still
-      Matt Franklin
-      City of Orange Beach Officials
-      Roy Moore
-      Tony Kennon
-      Kristi Hagood
-      Murray Bubba Lawrence Jr.
-      Jeff Sessions
-      Willie Huntley
-      Jefferson Beauregard Session
-      DA Wilters
-      Kevin Brock
-      Billy Jo Underwood
-      Prichard
-      Tubberville
-      Baldwin County
-      Alabama
-    llm_text: Harry Still faced assault from Matt Franklin, but Baldwin County's corruption runs deeper. We uncover Murray Bubba Lawrence Jr.'s trial and examine Kristi Hagood's qualifications alongside Jeff Sessions' history.
-    widget_date: "2026-05-09"
-    generated_at: "2026-11-06T06:17:53.379932Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  gambling-money-run-amok:
-    brief: |-
-      THE CONFLICT: Steve Raby, Speaker's lobbyist, was running with out-of-state gambling interest money, which was used by executives in the Mayor of Birmingham's LGBTQ Office to support a Democrat, Rep Juandalynn Givan (Alabama House District 60).
-      THE DISCOVERY: The Widget Article (older) revealed systemic political corruption within the Alabama Legislature involving gambling funds influencing legislative candidates (Elliott, Simpson, Allbritton, Holk-Jones).
-      THE PIVOT: The Widget Article establishes the historical context of legislative corruption and outside financial influence (gambling money) in Alabama politics, providing the backdrop for the local political scandals detailed in the Main Article (e.g., City of Orange Beach official actions against Harry Still, PSC appointments, Roy Moore lawsuits).
-      KEY ENTITIES: Harry Still (Baldwin County Attorney), Matt Franklin (Bay Minette City Councilman), City of Orange Beach Officials, Roy Moore, Tony Kennon, Prichard, Juandalynn Givan (HD 60), Steve Raby, Speaker Ledbetter, Elliott, Simpson, Albritton, Holk-Jones, Joshua Coleman, Dax Swatek.
-    llm_text: Lobbyist Steve Raby used out-of-state gambling money within the Mayor's LGBTQ Office to fund Rep Juandalynn Givan (HD 60). Read how this local scandal links to Alabama's deep history of legislative corruption involving figures like Elliott and Simpson.
-    widget_date: "2026-04-16"
-    generated_at: "2026-11-06T06:22:25.469219Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  by-appointment-only:
-    brief: |-
-      THE CONFLICT: Harry Still (Baldwin County Attorney) was assaulted by Matt Franklin (Bay Minette City Councilman) during his arrest.
-      THE DISCOVERY: Baldwin County judiciary appointments are controlled by a cabal utilizing political influence with the State Executive Branch; Draft Kings is supporting pro-gaming legislators for the creation of the Alabama Gaming Commission.
-      THE PIVOT: Article 2 establishes the systemic political influence and judicial control within Baldwin County, providing context for the conflicts involving Baldwin County Attorney Harry Still mentioned in Article 1.
-      KEY ENTITIES: Harry Still (Baldwin County Attorney), Matt Franklin (Bay Minette City Councilman), City of Orange Beach Officials, Draft Kings, Alabama Gaming Commission, PCI Gaming (Porch Band of Creek Indians), Roy Moore, Tony Kennon, Prichard Cops.
-    llm_text: Harry Still, Baldwin County Attorney, was assaulted by Councilman Matt Franklin during his arrest. This conflict exposes a cabal controlling Baldwin County judiciary appointments, fueled by political influence and Draft Kings' push for the Alabama Gaming Commission.
-    widget_date: "2026-04-10"
-    generated_at: "2026-11-06T06:23:33.800143Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast:
-    brief: |-
-      THE CONFLICT: Harry Still, Baldwin County Attorney, was slandered by City of Orange Beach Officials following his arrest, an arrest during which he was assaulted by Bay Minette City Councilman Matt Franklin.
-      THE DISCOVERY: Article 2 (Backstory Podcast) established that Baldwin County harbors a "good ole boy system" and political corruption, specifically targeting the lack of transparency and accountability within the Fairhope City Council, predicting its removal in 2020.
-      THE PIVOT: Article 2 provides the foundational context of entrenched political corruption in Baldwin County, framing the specific attacks and slander against Harry Still (Article 1) not as isolated incidents but as part of a systemic issue within the county's judicial and municipal structure.
-      KEY ENTITIES: Harry Still, Francis Paul Ripp, Matt Franklin, City of Orange Beach Officials, Roy Moore, Tony Kennon, Prichard, Tubberville, Fairhope City Council, Backwoods Media, LLC, Baldwin County.
-    llm_text: Orange Beach officials slandered Harry Still after Matt Franklin assaulted him. This incident exposes Baldwin County's deep "good ole boy system" of political corruption and unchecked power.
-    widget_date: "2019-09-06"
-    generated_at: "2026-11-06T06:24:33.902236Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

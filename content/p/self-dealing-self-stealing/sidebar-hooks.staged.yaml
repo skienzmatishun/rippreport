@@ -1,0 +1,63 @@
+metadata:
+  generated_at: "2026-11-07T07:25:08.617534Z"
+  generator_version: 1.0.0
+  post_slug: self-dealing-self-stealing
+  main_date: "2021-07-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  no-mo-bridge:
+    refined_source: d8a218dbf045b1ef89bbefe782489903486467828ee907bba3f8451f6fe4e2dd
+    brief: |-
+      THE CONFLICT: Alabama political debate over the Bayway “Truck Bridge” and toll structure, rooted in Mo Brooks' conviction of the 10th amendment and opposition to federal dependence.
+      THE DISCOVERY: Article 2 (older) revealed Alabama had significant financial gaps, missing $3.2 billion in revenue by not participating in Medicaid and ignoring lottery/marijuana legalization in neighboring states.
+      THE PIVOT: Article 2 establishes Alabama's systemic fiscal irresponsibility and inability to fund essential services (education, prisons, healthcare), providing the underlying context for the corruption allegations detailed in Article 1 regarding the Alabama Ethics Commission.
+      KEY ENTITIES: Mo Brooks, Jack Burrell, Mark Colson, Tom Albritton (Director of Alabama Ethics Commission), Greg Albritton, Alabama Ethics Commission, Regions Bank.
+    llm_text: Mo Brooks argues for the Bayway Truck Bridge based on 10th Amendment principles, but Alabama has a $3.2 billion revenue gap from missed Medicaid and lottery funds. See how this systemic fiscal irresponsibility fuels the ethics commission corruption claims.
+    text: Mo Brooks argues for the Bayway Truck Bridge based on the 10th Amendment. Alabama faces a large revenue gap from missed funds.
+    widget_date: "2021-06-30"
+    generated_at: "2026-11-07T07:23:59.921493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-corruption-insurance:
+    refined_source: f1c9263428f2cf1ad936fb82a75558f1f4e882372a27e87ccadb0d445c49f642
+    brief: |-
+      THE CONFLICT:
+      *   Alabama is noted as the nation's number one state for political corruption.
+      *   Alabama State Representative Mike Ball proposed AL HB179 to require Alabama Ethics Commission approval for prosecuting elected officials for corruption, as a tweak to the 2010 ethics reform.
+      *   Alleged corruption in Columbia, Alabama involved the Mayor, Chief of Police, and City Council, with specific allegations against the Mayor (illegal work for cronies, illegal use of town equipment, illegal property transfer, misuse of taxpayer funds).
+      *   Complaints regarding Columbia, including conflict of interest (Ben Freeman, municipal prosecutor, representing Lori Mock, wife of Officer Jim Mock) were filed with the Attorney General and the Ethics Commission over the last 12 years.
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission provides "Alabama Corruption Insurance"—a mechanism that grants favorable advisory opinions to elected officials, offering "protection from prosecution."
+      *   This insurance system, provided by the Ethics Commission, Governor, Attorney General, Judiciary, and Bar Association, is described as a way that the Ethics Commission aids and abets political corruption, maintaining Alabama's top corruption spot.
+
+      THE PIVOT:
+      *   The Ethics Commission, led by Mr. Tom Albritton, is accused in the Main Article of enabling self-dealing/self-stealing (e.g., Albritton children receiving more scholarship money than Mabel Amos' relatives).
+      *   The Widget Article establishes that the Ethics Commission's function is not accountability but protection ("get out of jail card"), making it the central mechanism that allows both historical (Columbia) and recent (Albritton) corruption to persist.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Director of Alabama Ethics Commission)
+      *   Greg Albritton (Head of Regions Bank)
+      *   Mabel Amos
+      *   Mike Ball (Alabama State Representative)
+      *   Columbia, Alabama
+      *   Ben Freeman (Columbia municipal prosecutor)
+      *   Lori Mock (wife of Columbia Officer Jim Mock)
+      *   Alabama Ethics Commission
+      *   Regions Bank
+    llm_text: Alabama's Ethics Commission offers "corruption insurance," shielding officials from prosecution instead of ensuring accountability. Learn how Tom Albritton's body enabled the decades-long corruption in Columbia, AL, and why reform efforts like Mike Ball's AL HB179 still struggle.
+    text: Alabama's Ethics Commission shields officials from prosecution. Tom Albritton enabled decades of corruption while reform efforts struggled.
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-07T07:24:54.470880Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-self-dealing-immunity:
+    refined_source: cb7ae25cea9ce466bf3e41227db7f250d9c921bea62d402688f0ba332eac1479
+    brief: |-
+      THE CONFLICT: Alabama Ethics Commission has historically granted immunity from prosecution to politicians accused of graft, including State Senator boom boom Pittman ($750,000 for personal company) and former councilman Robert Brown ($300,000 contract).
+      THE DISCOVERY: The Mabel Amos Scholarship trust donated only $500 to Tuskegee University; Regions Bank received over $1 million for fund management; Tom Albritton, Director of the Alabama Ethics Commission, had two children receive $105,000 through 2018 from this trust.
+      THE PIVOT: The historical revelation (Article 2) established Tom Albritton’s self-dealing with a public trust, providing the context for the 2021 accusation (Article 1) that his children received disproportionately more scholarship money than Mabel Amos relatives.
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Regions Bank, Mabel Amos Scholarship, boom boom Pittman, Robert Brown, Jack Burrell, Tuskegee University, July 2, 2021, (334) 242-2997.
+    llm_text: Alabama Ethics Commission historically granted immunity to graft cases, including State Senator boom boom Pittman. Now, Tom Albritton faced scrutiny for his children receiving $105,000 from the Mabel Amos Scholarship, exposing systemic self-dealing within the trust.
+    text: Alabama Ethics Commission granted immunity to graft cases. Tom Albritton faced scrutiny when his children received trust funds.
+    widget_date: "2021-07-02"
+    generated_at: "2026-11-07T07:22:47.459446Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

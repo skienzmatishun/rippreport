@@ -6,6 +6,7 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   fins-to-the-left-fins-to-the-right:
+    refined_source: 6b0621dd6c9c432828025f10618828ab34544e659dd7054da9c263e945d9bcfb
     brief: |-
       THE CONFLICT:
       Orange Beach land deals involved Beech’s contract (signed by John McInnis and Cameron Price) and CoastAL division (400 feet taken by City, 400 feet by private company) involving Tony Kennon and Jack Robertson.
@@ -42,26 +43,31 @@ hooks:
       Baldwin County Sheriff Office
       Alabama League of Enforcement officers (ALEA)
     llm_text: Orange Beach land deals linked Tony Kennon and Jack Robertson to complex private interests, establishing a pattern of institutional overlap. Now, see how Hoss Mack and the BCSO grant total immunity while blocking $600,000 of footage related to Murray Lawrence Jr.’s wrongful conviction.
+    text: Orange Beach land deals established a pattern of overlapping private and public interests. Sheriff Hoss Mack granted immunity while blocking footage related to a local wrongful conviction.
     widget_date: "2026-07-28"
     generated_at: "2026-11-06T05:33:33.851875Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   they-dont-want-you-to-see-this:
+    refined_source: 78579b6f6cc0c9ad9d5a11c5ebb68fe62de245b71c625850a2f30dc678d62604
     brief: |-
       THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted; Hoss Mack and Anthony Lowery were principals in this event.
       THE DISCOVERY: Article 2 is a general political call to action urging a vote for Austin Sidwell for Congress on May 19, referencing local issues like Jerry Carl and the toll bridge.
       THE PIVOT: Article 2 does not provide factual context for Article 1; Article 1 reveals that BCSO (under Hoss Mack) has total immunity, blocks camera footage (despite requesting $600,000 for cameras), and investigated itself, leading to the wrongful conviction of Murray Lawrence Jr.
       KEY ENTITIES: Murray Lawrence Jr., Hoss Mack, Anthony Lowery, BCSO, Tommy Tuberville, Jerry Carl, Austin Sidwell
     llm_text: Hoss Mack and BCSO granted total immunity, allowing the wrongful conviction of Murray Lawrence Jr. Vote Austin Sidwell for Congress on May 19 to hold corrupt officials accountable for local issues like the toll bridge.
+    text: Sheriff Hoss Mack and his department granted total immunity during a wrongful conviction case. Voters face choices at the ballot box to hold local officials accountable for these failures.
     widget_date: "2026-07-21"
     generated_at: "2026-11-06T05:35:44.563712Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   friends-of-fly-creek:
+    refined_source: 7f35b82a154e17eef23857f948b76204636d7f5ab20e2220e0c4f7eeb268747c
     brief: |-
       THE CONFLICT: Publix clear cut killed life on site leading to Fly Creek flooding with mud/sediment; Developer Arthur Corti influenced Mayor Tim Kant and City Council over 12 years.
       THE DISCOVERY: Fly Creek sediment DNA confirms source is Publix-Apartments; The city repeatedly fails to act despite continuous damage and lawsuits; The 230-unit Retreat at Fairhope Village caused local contention, potentially influencing Mayor Karin Wilson's victory over Tim Kant.
       THE PIVOT: NO FACTUAL CONNECTION EXISTS BETWEEN THE BCSO/WRONGFUL CONVICTION CASE (Hoss Mack, Anthony Lowery, Murray Lawrence Jr.) AND THE FAIRHOPE ENVIRONMENTAL/DEVELOPMENT CASE (Publix, Corti, Kant, Wilson). THEY ARE TWO SEPARATE INSTANCES OF ALLEGED LOCAL CORRUPTION AND LACK OF ACCOUNTABILITY.
       KEY ENTITIES: Murray Lawrence Jr, BCSO, Hoss Mack, Anthony Lowery, Fly Creek, Author Corti, Publix, Retreat at Fairhope Village, Tim Kant, Karin Wilson, ADEM, Mobile Baykeepers, Baldwin County, Tommy Tuberville.
     llm_text: Publix clear cut killed life in Fly Creek, flooding it with sediment. DNA confirms the source, revealing how developer Arthur Corti influenced Mayor Tim Kant for 12 years while the city repeatedly failed to act.
+    text: Publix construction runoff filled Fly Creek with destructive sediment and killed local marine life. DNA evidence linked the pollution while the city failed to take enforcement action.
     widget_date: "2026-07-16"
     generated_at: "2026-11-06T05:34:41.650881Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

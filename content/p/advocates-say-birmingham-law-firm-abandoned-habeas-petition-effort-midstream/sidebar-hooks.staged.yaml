@@ -5,40 +5,8 @@ metadata:
   main_date: "2025-08-19"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-enforcer-hoss-macks-rise-to-statewide-power:
-    brief: |-
-      THE CONFLICT: Former Baldwin County Sheriff Hoss Mack built career on suppression and achieved statewide power; Inmate Murray "Bubba" Lawrence, Jr. has been imprisoned for over two decades, maintains innocence, and his habeas corpus effort was abandoned by Maxwell-Tillman after two years of work.
-      THE DISCOVERY: Baldwin County is a politically influential region in Alabama where power is consolidated, narratives are controlled, and those in charge rarely face consequences.
-      THE PIVOT: Article 2 establishes the systemic context of unchecked political power and lack of accountability in Alabama, providing a framework for understanding the professional misconduct and systemic failures (Brady violations, evidence tampering via suppressed Alabama State Coroners' Report) detailed in Article 1.
-      KEY ENTITIES: Hoss Mack, Baldwin County, Murray "Bubba" Lawrence, Jr., Maxwell-Tillman, Francis Paul Ripp, Nancy R. Koerner, Leroy Maxwell, Gabby Humber, Alabama State Coroners' Report.
-    llm_text: Former Baldwin County Sheriff Hoss Mack built power on suppression, leaving Murray "Bubba" Lawrence, Jr. imprisoned for over two decades despite his innocence. See how unchecked power in Baldwin County allowed evidence tampering and systemic failures to go unpunished.
-    widget_date: "2025-08-15"
-    generated_at: "2026-11-06T13:02:03.592757Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  food-for-thought:
-    brief: |-
-      THE CONFLICT: Murray "Bubba" Lawrence, Jr., is a wrongful conviction inmate serving two decades of imprisonment; his advocacy team (Francis Paul Ripp and Nancy R. Koerner) sought a federal writ of habeas corpus.
-      THE DISCOVERY: Article 2 reveals a publicly owned parcel of land in Baldwin County with a zoning designation that does not match its actual use. (This is older historical context.)
-      THE PIVOT: Article 2 contains no factual link, names, or context related to Murray Lawrence, Jr., his conviction, the Birmingham law firm Maxwell-Tillman, or the habeas petition effort.
-      KEY ENTITIES: Murray "Bubba" Lawrence, Jr.; Francis Paul Ripp; Nancy R. Koerner; Maxwell-Tillman; Leroy Maxwell; Gabby Humber; Alabama Gazette; Baldwin County.
-    llm_text: Murray "Bubba" Lawrence, Jr. served two decades for a wrongful conviction. Francis Paul Ripp and Nancy R. Koerner now fight his freedom using a federal writ of habeas corpus.
-    widget_date: "2025-08-15"
-    generated_at: "2026-11-06T13:04:05.174853Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  wrongful-conviction-fairhope-baldwin-county:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted in Fairhope, Baldwin County, Alabama. This involved withholding evidence by the Judge, Prosecutor, and Sheriff/BCSO. (Timeline: Last 5 years of advocacy, per Widget Article).
-
-      THE DISCOVERY: Article 2 established that Murray Lawrence Jr.'s case parallels the wrongful conviction of Walter McMillan (Just Mercy) and that advocacy support has been active for the last 5 years.
-
-      THE PIVOT: Article 2 provides the foundational injustice (wrongful conviction and evidence suppression) that necessitated the post-conviction fight (habeas petition). Article 1 documents the subsequent professional failure (Maxwell-Tillman abandonment) during that critical post-conviction attempt.
-
-      KEY ENTITIES: Murray Lawrence Jr., Fairhope, Baldwin County, Alabama, Francis Paul Ripp, Nancy R. Koerner, Maxwell-Tillman, Leroy Maxwell, Gabby Humber, BCSO, Hoss Mack, Walter McMillan
-    llm_text: Officials suppressed evidence leading to Murray Lawrence Jr.'s wrongful conviction in Fairhope, Alabama. See how 5 years of advocacy, supported by Francis Paul Ripp, fought this injustice, mirroring the fight for Walter McMillan.
-    widget_date: "2024-06-17"
-    generated_at: "2026-11-06T13:04:58.645453Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: 6e6ebab795f238899bbf212b6c024b14a5e5946ae2a9036a92039859dd585ae1
     brief: |-
       THE CONFLICT:
       1. February 11, 2025: Alabama Lieutenant Governor Will Ainsworth released a statement opposing Governor Kay Ivey's plan to pass Senate Bill 67 (SB67).
@@ -74,11 +42,13 @@ hooks:
       11. Kim Boswell (Alabama Ethics Commissioner)
       12. Senate Bill 67 (SB67)
       13. Alabama State Coroners' Report
-    llm_text: Murray "Bubba" Lawrence, Jr. maintained innocence for a decade, yet Maxwell-Tillman allegedly abandoned his federal habeas petition. Advocates Francis Paul Ripp and Nancy R. Koerner uncovered a suppressed Alabama State Coroners' Report detailing the murder victim's exhumation.
+    llm_text: Murray "Bubba" Lawrence, Jr. maintained innocence for a decade, yet Maxwell-Tillman abandoned his federal habeas petition. Advocates Francis Paul Ripp and Nancy R. Koerner uncovered a suppressed Alabama State Coroners' Report detailing the murder victim's exhumation.
+    text: Murray "Bubba" Lawrence, Jr. spent ten years in prison while his lawyers dropped his federal case. Francis Paul Ripp and Nancy R. Koerner found a hidden state report about the victim's body.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T13:06:08.450495Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   cameras:
+    refined_source: 8f90d40307bf1ee3a77cee1db8eea11ffa515aa0903c7b47786574a6d9a324c4
     brief: |-
       THE CONFLICT: Murray "Bubba" Lawrence, Jr. was wrongfully convicted in Baldwin County. His conviction lacked a proper timeline and evidence (no fingerprints, weapon, ballistics, DNA) and relied only on the testimony of "the McNeil."
 
@@ -100,16 +70,58 @@ hooks:
       *   Alabama Supreme Court (2021 ruling restricting public records access)
       *   Baldwin County (Location of conviction/Sheriff's Office)
     llm_text: Murray "Bubba" Lawrence, Jr. suffered a wrongful conviction in Baldwin County, relying only on "the McNeil" because the investigation lacked DNA or ballistics. Sheriff Hoss Mack requested $600,000 for cameras yet blocked public access, proving systemic lack of transparency that harmed Lawrence's case.
+    text: Sheriff Hoss Mack demanded $600,000 for body cameras while locking down public records in Murray Bubba Lawrence's case. Why does the BCSO treat public accountability like a state secret?
     widget_date: "2022-08-25"
     generated_at: "2026-11-06T13:02:58.660361Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county:
+    refined_source: ad93566b485f0f6980d3ce3ebbfca121a6c74836540de47bf197a3de4c3033fe
     brief: |-
       THE CONFLICT: Ronan McSharry was involved in an assault at the Little Whiskey Christmas Club; the Fairhope City Attorney failed to properly file the assault charge three times; the BCSO shot Jonathan Victor in 2017 during an incident on Interstate 10.
       THE DISCOVERY: Baldwin County exhibits systemic failures including City Attorney legal incompetence; the BCSO received $662,567.00 for 129 body cameras but rarely releases footage, forcing legal challenges (e.g., Jonathan Victor case) in the Alabama Supreme Court.
       THE PIVOT: Article 2 establishes a pattern of institutional legal and transparency failures within Baldwin County government (City Attorney/BCSO), providing historical context for the professional misconduct and systemic obstruction of justice observed in Murray Lawrence’s post-conviction habeas corpus fight (Article 1).
       KEY ENTITIES: Murray "Bubba" Lawrence, Jr., Francis Paul Ripp, Nancy R. Koerner, Maxwell-Tillman (Leroy Maxwell, Gabby Humber), Hoss Mack (Baldwin County Sheriff), Ronan McSharry, Tripp Pittman, Sherry Sullivan, Jack Burrell, Baldwin County Sheriff's Department (BCSO).
     llm_text: 'Baldwin County shows systemic legal failure: City Attorney failed Ronan McSharry’s assault charge three times. The BCSO spent $662k on body cameras but obstructs justice, impacting cases like Jonathan Victor''s.'
+    text: The Baldwin County Sheriff's Office spent $662,000 on body cameras while hiding footage and tanking Jonathan Victor's case. Since when does transparency cost taxpayers half a million and deliver zero answers?
     widget_date: "2020-09-04"
     generated_at: "2026-11-06T13:07:32.222804Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-enforcer-hoss-macks-rise-to-statewide-power:
+    refined_source: 2c95b95fecedec3233d91430ba506b7f635446b43cac2faeab193c18f196cb0c
+    brief: |-
+      THE CONFLICT: Former Baldwin County Sheriff Hoss Mack built career on suppression and achieved statewide power; Inmate Murray "Bubba" Lawrence, Jr. has been imprisoned for over two decades, maintains innocence, and his habeas corpus effort was abandoned by Maxwell-Tillman after two years of work.
+      THE DISCOVERY: Baldwin County is a politically influential region in Alabama where power is consolidated, narratives are controlled, and those in charge rarely face consequences.
+      THE PIVOT: Article 2 establishes the systemic context of unchecked political power and lack of accountability in Alabama, providing a framework for understanding the professional misconduct and systemic failures (Brady violations, evidence tampering via suppressed Alabama State Coroners' Report) detailed in Article 1.
+      KEY ENTITIES: Hoss Mack, Baldwin County, Murray "Bubba" Lawrence, Jr., Maxwell-Tillman, Francis Paul Ripp, Nancy R. Koerner, Leroy Maxwell, Gabby Humber, Alabama State Coroners' Report.
+    llm_text: Former Baldwin County Sheriff Hoss Mack built power on suppression, leaving Murray "Bubba" Lawrence, Jr. imprisoned for over two decades despite his innocence. See how unchecked power in Baldwin County allowed evidence tampering and systemic failures to go unpunished.
+    text: Hoss Mack built an empire on evidence tampering and suppressed reports while Murray Bubba Lawrence Jr. rotted in a cell. When do badge-heavy cover-ups finally face a reckoning?
+    widget_date: "2025-08-15"
+    generated_at: "2026-11-06T13:02:03.592757Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  food-for-thought:
+    refined_source: 19ced76ac81756065a7019a61bb3fba767b259f63c132522b998ea5d97601592
+    brief: |-
+      THE CONFLICT: Murray "Bubba" Lawrence, Jr., is a wrongful conviction inmate serving two decades of imprisonment; his advocacy team (Francis Paul Ripp and Nancy R. Koerner) sought a federal writ of habeas corpus.
+      THE DISCOVERY: Article 2 reveals a publicly owned parcel of land in Baldwin County with a zoning designation that does not match its actual use. (This is older historical context.)
+      THE PIVOT: Article 2 contains no factual link, names, or context related to Murray Lawrence, Jr., his conviction, the Birmingham law firm Maxwell-Tillman, or the habeas petition effort.
+      KEY ENTITIES: Murray "Bubba" Lawrence, Jr.; Francis Paul Ripp; Nancy R. Koerner; Maxwell-Tillman; Leroy Maxwell; Gabby Humber; Alabama Gazette; Baldwin County.
+    llm_text: Murray "Bubba" Lawrence, Jr. served two decades for a wrongful conviction. Francis Paul Ripp and Nancy R. Koerner now fight his freedom using a federal writ of habeas corpus.
+    text: Murray Bubba Lawrence Jr. lost two decades of his life to a wrongful conviction. Francis Paul Ripp and Nancy R. Koerner are using a federal habeas corpus writ to finally pry him out.
+    widget_date: "2025-08-15"
+    generated_at: "2026-11-06T13:04:05.174853Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrongful-conviction-fairhope-baldwin-county:
+    refined_source: b9260126660294c8b3ee8678325233c49e4878c30a2ccfeb0f0baabb9ec7707a
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted in Fairhope, Baldwin County, Alabama. This involved withholding evidence by the Judge, Prosecutor, and Sheriff/BCSO. (Timeline: Last 5 years of advocacy, per Widget Article).
+
+      THE DISCOVERY: Article 2 established that Murray Lawrence Jr.'s case parallels the wrongful conviction of Walter McMillan (Just Mercy) and that advocacy support has been active for the last 5 years.
+
+      THE PIVOT: Article 2 provides the foundational injustice (wrongful conviction and evidence suppression) that necessitated the post-conviction fight (habeas petition). Article 1 documents the subsequent professional failure (Maxwell-Tillman abandonment) during that critical post-conviction attempt.
+
+      KEY ENTITIES: Murray Lawrence Jr., Fairhope, Baldwin County, Alabama, Francis Paul Ripp, Nancy R. Koerner, Maxwell-Tillman, Leroy Maxwell, Gabby Humber, BCSO, Hoss Mack, Walter McMillan
+    llm_text: Officials suppressed evidence leading to Murray Lawrence Jr.'s wrongful conviction in Fairhope, Alabama. See how 5 years of advocacy, supported by Francis Paul Ripp, fought this injustice, mirroring the fight for Walter McMillan.
+    text: Fairhope officials buried the evidence and stole decades from Murray Lawrence Jr. This modern injustice mirrors the tragic case of Walter McMillan right down to the corrupt playbook.
+    widget_date: "2024-06-17"
+    generated_at: "2026-11-06T13:04:58.645453Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

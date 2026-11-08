@@ -1,0 +1,172 @@
+metadata:
+  generated_at: "2026-11-07T19:06:58.077650Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-players
+  main_date: "2020-05-15"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  danger-zone:
+    refined_source: ddc6f238afec59c8207574785c91ec619a99fb91c6f121a2ffca8d2e5462054b
+    brief: |-
+      THE CONFLICT: 2016 Fairhope Municipal Elections featured a full slate of CATALYST candidates, led by former Fairhope Mayor Cant.
+      THE DISCOVERY: Widget Article shows CATALYST Fairhope City Council, former Mayor Can’t, and property owner Angelo Corte were associated with dangerous conditions at Highway 98 and Parker Road.
+      THE PIVOT: Widget Article provides concrete, local example of CATALYST influence (Council/Mayor/Developer link) predating the claims of widespread political control in 2018 and upcoming elections mentioned in the Main Article.
+      KEY ENTITIES: CATALYST, Fairhope City Council, Former Fairhope Mayor Can’t, Angelo Corte, Chris Elliott, Ronan McSharry, Mayor Wilson, Jerry Carl
+    llm_text: Former Mayor Can't, CATALYST Council members, and Angelo Corte linked to dangerous Highway 98 conditions. See how this local example predates big election claims affecting Fairhope today.
+    text: Former Mayor Kant, CATALYST members, and Angelo Corte linked to dangerous Highway 98 conditions. This local history predates big election claims affecting Fairhope today.
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T19:05:13.729320Z"
+    model_name: plugsky-lite
+  catalyst-candidates-⁠-excess-baggage:
+    brief: |-
+      THE CONFLICT:
+      - CATALYST is a powerful, mostly secret political group in Baldwin County representing the Status Quo / good ole boys.
+      - 2018 mid-term elections: CATALYST ran candidates for almost every Baldwin County race; if not for several social media sources and Lagniappe informing the public, CATALYST would have had control of Baldwin County Government.
+      - 2016 Fairhope Municipal Elections: full slate of CATALYST candidates; council members claimed they were their own men, but in following years their lies rose to the surface, exposing affiliation to CATALYST.
+      - Council was the body of the CATALYST snake; Mayor Tim Cant was the head of the snake; head got cut off, body still squirmed.
+      - Council immediately hired the same law firm for city attorney and the same Municipal Judge after Cant.
+      - Municipal attorney and Municipal Judge are appointed by council and are CATALYST. City attorney botched the McSherry case on purpose, per article.
+      - Municipal Judge is the largest developer in the city, approved by the city council.
+      - Mayor Karin Wilson is not CATALYST; CATALYST will be running a candidate to challenge her.
+
+      THE DISCOVERY (Article 2 — Widget Article, older/background context):
+      - Baldwin County example of how CATALYST works: pay attention to the Fairhope Municipal Election Aug. 25; qualification July 7-21.
+      - Current Fairhope Council are all CATALYST and represent the worst city council Fairhope has experienced in 25 years.
+      - Jack Burrell, council president, held the position for two terms / 8 years; Burrell is the worst of the worst; his decisions have cost Fairhope millions; bid rigging at the Airport, hidden police report, in Jack's baggage.
+      - Burrell led the charge to buy the 2.65 million dollar recreation land that he promptly leased for 9 thousand a year; that bad decision took the city from a surplus of 1.2 million to a deficit of 1.5 million.
+      - Jack and CATALYST recruited Sherry Sullivan-Cant to run for Mayor.
+      - Fairhope's former Mayor Tim Cant has more baggage than an airport; Cant and Sherry spotted hand in hand trying to resurrect Cant's base to vote for Sherry for Mayor; possibly Cant running for council to help Sherry run the Mayor’s office — CATALYST plan.
+      - Sherry was Cant's puppet and travel companion; she ran the municipal propaganda newsletter; she covered the tracks of Cant and his involvement in the BP scandal, Fly Creek Publix project, Airport and soccer fields.
+      - Sherry's last assignment under Cant was to run the recreation center, with no experience; she failed and had to be replaced.
+      - Sherry supported Cant's efforts to obstruct any transition from the Cant administration to the newly elected Mayor Karin Wilson; she assisted Jack Burrell and CATALYST in every way possible to obstruct Mayor Wilson and her duties; her insubordination got her fired, and her cohorts.
+      - CATALYST is doubling down with Sherry, Jack and Cant, betting Fairhope is a bunch of dumb asses that will not be aware of their baggage.
+      - CATALYST is running Bill "Lowtower" Hightower for Congress; CATALYST in Washington will only deepen the swamp.
+      - Vote for Jerry Carl July 14th, the runoff election for First Congressional District.
+      - CATALYST will do anything possible to regain Fairhope as their power base, including fixing elections, if they can.
+
+      THE PIVOT:
+      - Article 2 supplied the specific "excess baggage" details on Jack Burrell, Sherry Sullivan-Cant, and Tim Cant that serve as the smoking gun / key context for Article 1's CATALYST allegations.
+      - Article 1 references the same cast (Mayor Cant, Mayor Wilson, council, Municipal Judge, McSherry) and the upcoming Fairhope municipal elections.
+      - Article 2 is the older/background layer that explains CATALYST mechanics (appointed law firm/judge, council body / snake, candidate slate) that Article 1 builds on and extends.
+      - Article 2's pre-election exposé on Burrell's land deal, deficit shift, Sherry's puppet/propaganda history, and Cant's BP scandal / Fly Creek / Airport / soccer fields provides the factual scaffolding for Article 1's framing of the 2018 coup and the 2016 snake.
+
+      KEY ENTITIES:
+      - Chris Elliott
+      - City Council (Fairhope)
+      - County Commissioner
+      - Election
+      - Elliott
+      - McSherry / Ronan McSharry / McSharrys
+      - Municipal Judge
+      - Ronan McSharry
+      - Bill "Lowtower" Hightower
+      - Burrell / Jack Burrell
+      - Jerry Carl
+      - Kant / Tim Cant
+      - Sullivan / Sherry Sullivan-Cant
+      - Tim Cant / Mayor Cant
+      - Karin Wilson / Mayor Wilson
+    llm_text: Baldwin County’s secret Status Quo group, CATALYST, turned Fairhope’s council into a snake led by Jack Burrell. Now with Tim Cant, Sherry Sullivan-Cant, and Mayor Karin Wilson in the fight, the widget article exposes the baggage that could decide your vote.
+    text: Baldwin County’s secret Status Quo group, CATALYST, turned Fairhope’s council into a snake led by Jack Burrell. Now with Tim Cant, Sherry Sullivan-Cant, and Mayor Karin Wilson in the fight, the widget article exposes the baggage that could decide your vote.
+    widget_date: "2020-05-13"
+    generated_at: "2026-11-07T19:05:59.120709Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-35-contrarians:
+    brief: "THE CONFLICT: \n- In the 2016 Fairhope Municipal Elections, a political group known as CATALYST ran a full slate of candidates.\n- Mayor Kant served as \"the head of the snake\" before being removed, while the city council acted as \"the body.\"\n- In the 2018 mid-term elections, CATALYST attempted a political coup by running candidates for almost every Baldwin County race, nearly seizing full control of the Baldwin County Government before being exposed by social media and Lagniappe.\n- The Fairhope City Council retained the same law firm for the city attorney and the same municipal judge tied to CATALYST.\n- The municipal judge is identified as the largest developer in the city, approved by the city council.\n\nTHE DISCOVERY: \n- The older widget article (\"BACKSTORY PODCAST #35 Contrarians\") serves as historical background tracking the origins and narrative of the local political landscape involving covert political operations and power structures in Baldwin County.\n\nTHE PIVOT: \n- Article 2 (the older backstory podcast) provides the foundational historical context of the \"contrarian\" political players and clandestine operations in Baldwin County. It exposes the long-term playbook of the \"good ole boys\" network, proving that the current 2020 election battles and candidate alignments (such as the upcoming municipal elections and the July 14th congressional runoff) are just the continuation of an ongoing, multi-year political war waged by CATALYST to control local and federal seats.\n\nKEY ENTITIES: \n- CATALYST\n- Mayor Kant\n- Ronan McSharry (McSherry)\n- Chris Elliott\n- Jerry Carl\n- Mayor Wilson\n- Lagniappe (media source)"
+    llm_text: Uncover how the dark-money political group CATALYST tried hijacking Baldwin County back in 2018. Listen to our Backstory Podcast to expose the multi-year playbook driving today's elections.
+    text: Uncover how the dark-money political group CATALYST tried hijacking Baldwin County back in 2018. Listen to our Backstory Podcast to expose the multi-year playbook driving today's elections.
+    widget_date: "2020-05-09"
+    generated_at: "2026-11-07T19:05:05.505877Z"
+    model_name: gemini-3.5-flash-lite
+  pissed-on-or-pissed-off:
+    refined_source: 98cb3d29ca0aaa18252cfc0fe195f9c4b7a48515ff7beeeaeb9bb85f72df45b7
+    brief: |-
+      THE CONFLICT:
+      2016 Fairhope Municipal Elections represented a full slate of CATALYST candidates.
+      Council President Burrell used taxpayer money to derail allegations of bid-rigging while serving on the Airport Board.
+      Councilman Brown acquired lucrative contracts using his elected position; pending complaint on Alabama Attorney General's desk.
+      Council Boone has multiple LLCs.
+      The three B's spent $2.65 million for recreation land and leased it for $9,000 annually.
+      Council President Burrell has two sealed juvenile charges.
+      In 2018 mid-term elections, CATALYST ran candidates for almost every Baldwin County race.
+
+      THE DISCOVERY:
+      The current Fairhope City Council is characterized as corrupt and inept, having cost Fairhope millions of dollars.
+      Scott Boone is Kevin Boone's son and runs CATALYST, fueling CATALYST's political control attempt.
+      The council voted themselves a raise and full family insurance.
+
+      THE PIVOT:
+      Article 2 established historical proof of council corruption and CATALYST's deep roots in Fairhope (e.g., Boone/CATALYST connection), validating Article 1's claim that CATALYST is a powerful, established political entity attempting a coup (2018 and upcoming municipal elections) to maintain control of legal staff and government.
+
+      KEY ENTITIES:
+      CATALYST
+      Baldwin County
+      Fairhope
+      Mayor Cant
+      Mayor Wilson
+      Chris Elliott
+      Ronan McSharry
+      Municipal Judge
+      City Council
+      Councilman Brown
+      Council Boone
+      Scott Boone
+      Kevin Boone
+      Burrell
+      Jerry Carl
+      FAUXHOPE
+      ALABAMA
+    llm_text: Fairhope's council is corrupt, costing the city millions through contracts from Councilman Brown and misuse of taxpayer funds by Burrell. Scott Boone's CATALYST group uses this power to maintain control, making their upcoming elections a political coup, not civic choice.
+    text: Fairhope council contracts and fund misuse cost the city millions. Scott Boone's CATALYST group uses this power to control upcoming elections.
+    widget_date: "2020-04-10"
+    generated_at: "2026-11-07T19:05:38.985833Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shelter-in-place:
+    refined_source: b87f5a3545704ba01397c0b09f5209a598b3c776ed3712f3c1ea66357f2e8422
+    brief: |-
+      THE CONFLICT: 2016 Fairhope Municipal Elections represented a full slate of CATALYST candidates.
+      THE DISCOVERY: Article 2 discusses independent municipal handling of the coronavirus in Baldwin County, noting Fairhope's Mayor wrote to the Governor urging a "shelter in Place" order.
+      THE PIVOT: Article 2 provides a context of local municipal action and civic leadership concern (Mayor's plea for order) contrasting with Article 1's focus on entrenched, powerful, and secretive local political control (CATALYST).
+      KEY ENTITIES: Baldwin County, Fairhope, Mayor Cant, Mayor Wilson, Chris Elliott, Ronan McSharry, Jerry Carl
+    llm_text: Fairhope Mayor Cant urged a "shelter in Place" in Baldwin County, yet local politics remain controlled by secretive CATALYST figures like Chris Elliott. See how local civic action contrasts with entrenched power dynamics in these 2016 municipal elections.
+    text: Fairhope Mayor Cant urged a shelter in place order while CATALYST figures like Chris Elliott kept control. Secretive power dynamics shaped the 2016 municipal elections.
+    widget_date: "2020-04-03"
+    generated_at: "2026-11-07T19:05:08.237336Z"
+    model_name: plugsky-lite
+  economic-virus:
+    refined_source: b356a15198b4df3eb4737b46641368e53dbfeeaafd981a120c1b9fccd4b2893c
+    brief: |-
+      THE CONFLICT:
+      2016 Fairhope Municipal Elections represented a full slate of CATALYST candidates.
+      2018 mid-term elections saw CATALYST almost gain control of Baldwin County Government.
+
+      THE DISCOVERY:
+      Alabama was dead last in response time for COVID-19.
+      2020 profits evaporated due to the pandemic, affecting airlines and cruise ships.
+      Credit card and mortgage companies offered grace periods.
+
+      THE PIVOT:
+      No factual connection exists between the political corruption in Baldwin County and the economic impact of the COVID-19 pandemic detailed in the articles.
+
+      KEY ENTITIES:
+      Chris Elliott
+      Ronan McSharry
+      Mayor Cant
+      Mayor Wilson
+      Jerry Carl
+      CATALYST
+      Fairhope
+      Baldwin County
+      COVD-19
+    llm_text: Baldwin County politics and the COVID-19 economic crisis do not connect. Chris Elliott and CATALYST candidates pushed change in Fairhope while the pandemic impacted airlines and mortgage companies across Alabama.
+    text: Chris Elliott and CATALYST candidates pushed political change in Fairhope while the pandemic hurt workers and families across Alabama.
+    widget_date: "2020-03-21"
+    generated_at: "2026-11-07T19:06:43.243305Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-2:
+    brief: "THE CONFLICT: \n- 2016 Fairhope Municipal Elections: A full slate of CATALYST candidates ran for office. After the election, the council hired the same law firm for the city attorney and retained the same municipal judge. \n- 2018 Mid-Term Elections: CATALYST ran candidates for almost every Baldwin County race, attempting a political coup that was exposed by social media and Lagniappe.\n- Ongoing/Upcoming Elections: CATALYST is planning a block vote for council seats, running a candidate to challenge Mayor Wilson, targeting a congressional seat (First Congressional District), and preparing for municipal elections.\n\nTHE DISCOVERY: \n- CATALYST operates as a powerful, mostly secret political group representing the \"good ole boys\" status quo in Baldwin County.\n- The Fairhope City Council and former Mayor Cant functioned as parts of the \"CATALYST snake\" (Cant as the head, council as the body).\n- Key municipal appointments are controlled by CATALYST, specifically the municipal attorney (accused of purposefully botching the McSherry case) and the municipal judge (identified as the largest developer in the city, approved by the city council).\n\nTHE PIVOT: \n- The historical exposure of CATALYST's 2016 Fairhope takeover and 2018 county-wide coup serves as the blueprint and warning for current and upcoming elections. \n- It links past municipal corruption (retained law firms, botched legal cases, developer judges) directly to current attempts by the same secret network to control city councils, mayoral seats, and the U.S. Congress (First Congressional District).\n\nKEY ENTITIES: \n- CATALYST\n- Mayor Cant\n- Mayor Wilson\n- McSherry (McSharry)\n- Jerry Carl\n- Lagniappe"
+    llm_text: Read how the secretive political group CATALYST engineered past Fairhope takeovers and botched city lawsuits. Read the blueprint exposing their current plans to control our local councils, mayoral seats, and Congress today.
+    text: Read how the secretive political group CATALYST engineered past Fairhope takeovers and botched city lawsuits. Read the blueprint exposing their current plans to control our local councils, mayoral seats, and Congress today.
+    widget_date: "2020-03-13"
+    generated_at: "2026-11-07T19:05:11.074546Z"
+    model_name: gemini-3.5-flash-lite

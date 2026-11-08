@@ -5,17 +5,8 @@ metadata:
   main_date: "2022-07-24"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  elephants-in-alabama:
-    brief: |-
-      THE CONFLICT: Mabel Amos died in 1999; the Mabel Amos Charitable Trust was established by her will; Tom Albritton and Rick Clifton served as trust board members since inception; a civil lawsuit was filed in Montgomery County Circuit Court alleging "self-dealing" involving Regions Bank and trust representative John Bell.
-      THE DISCOVERY: Article 2 revealed that despite allegations, the Alabama Attorney General and the Ethics Commission had not filed criminal charges against Tom Albritton, noting historical issues such as post-resignation salary payments ($37,000) to "Employee 1" (McCallum).
-      THE PIVOT: Article 2 established the systemic failure and lack of accountability by the Ethics Commission, Alabama Bar, and Attorney General, proving that a civil lawsuit (Article 1) was the only recourse for justice against Albritton and the trust trustees.
-      KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Regions Bank, Ben Bowden, Alabama AG, Ethics Commission, Mabel Amos Charitable Trust, Montgomery County Circuit Court, $120,000 (Albritton children scholarships), $45,000 (Bowden child scholarships), $1.2 million (Regions Bank fees 2002-2020).
-    llm_text: Tom Albritton faced a civil suit over $1.2 million in Regions Bank fees for the Mabel Amos Charitable Trust. The Alabama AG and Ethics Commission filed no criminal charges, proving accountability fails when powerful figures operate unchecked.
-    widget_date: "2022-07-14"
-    generated_at: "2026-11-06T22:00:52.575416Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   water:
+    refined_source: 7c769ea4936860dde14c5a652191cc8729cde6e77d27f45299b0be4f07d17de7
     brief: |-
       THE CONFLICT:
       Mabel Amos Charitable Trust, established after Amos' death in 1999, was subject to allegations of self-dealing by board members Tom Albritton and Rick Clifton.
@@ -41,21 +32,25 @@ hooks:
       Alabama AG
       Baldwin County Commission
       Roy Moore
-    llm_text: Tom Albritton and Rick Clifton allegedly siphoned over $165k from the Mabel Amos Trust, awarding scholarships to connected friends. This corruption reveals the systemic failure of Alabama oversight bodies, including the Ethics Commission, to protect charitable funds.
+    llm_text: Tom Albritton and Rick Clifton siphoned over $165k from the Mabel Amos Trust, awarding scholarships to connected friends. This corruption reveals the systemic failure of Alabama oversight bodies, including the Ethics Commission, to protect charitable funds.
+    text: Tom Albritton and Rick Clifton siphoned over $165,000 from the Mabel Amos Trust to benefit connected friends. Alabama oversight bodies consistently fail to protect charitable funds from internal corruption.
     widget_date: "2022-07-10"
     generated_at: "2026-11-06T22:03:32.126616Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   top-shelf-corruption:
+    refined_source: c98e4af08ba67c791f66ea54010ef4718f8d9880129aa986008d612b5b826667
     brief: |-
       THE CONFLICT: Mabel Amos Charitable Trust was established after Mabel Amos' death in 1999. Tom Albritton and Rick Clifton have served as two of the three trust board members since 1999. Allegations involve "self dealing" of trust funds and Regions Bank increasing fees by $1.2 million between 2002 and 2020.
       THE DISCOVERY: In 2015-2018, Tom Albritton (Executive Director of the Ethics Commission since March 2015) received $105,000 in scholarships from the trust for his two children, according to 990 records.
       THE PIVOT: Article 2 establishes Albritton's documented, prior financial benefit from the trust while holding the position of Ethics Commission Executive Director, providing context for the later civil lawsuit (Article 1) needed because the Ethics Commission and AG had previously provided no meaningful recourse against him.
       KEY ENTITIES: Mabel Amos, Mabel Amos Charitable Trust, Tom Albritton, Rick Clifton, Regions Bank, Alabama AG (Steve Marshall), Ethics Commission, Ben Bowden, John Bell, Montgomery County Circuit Court
     llm_text: Ethics Director Tom Albritton took $105,000 in scholarships from the Mabel Amos Charitable Trust for his children. This self-dealing fuels a civil lawsuit over trust misuse and Regions Bank's $1.2 million fee hike.
+    text: Ethics Director Tom Albritton took $105,000 in scholarships from the Mabel Amos Trust for his children. This self-dealing triggered a civil lawsuit over trust misuse and Regions Bank fee hikes.
     widget_date: "2022-07-09"
     generated_at: "2026-11-06T22:04:40.761356Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   dirty-underwear:
+    refined_source: b5df1fe2ba0c6e25ca3d0b726d2931069de85a555ae473649ec3d74d72506cde
     brief: |-
       THE CONFLICT:
       *   Mabel Amos Charitable Trust was established by Mabel Amos following her death in 1999.
@@ -89,20 +84,24 @@ hooks:
       *   Montgomery County Circuit Court
       *   Mabel Amos (Founder)
     llm_text: Tom Albritton, Alabama Ethics Commission Executive Director, faces self-dealing accusations in the Mabel Amos Charitable Trust. His children received $105,000, proving state agencies protect powerful figures rather than enforce real justice.
+    text: Tom Albritton faces self-dealing accusations involving the Mabel Amos Charitable Trust after his children received $105,000. State oversight agencies continue to protect powerful figures instead of enforcing justice.
     widget_date: "2022-07-01"
     generated_at: "2026-11-06T22:06:21.203459Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pot-calling-the-kettle-black:
+    refined_source: 87c52495640a972c2ad89f7cf797eccf533b4ca5dad09c94374d79324340b61f
     brief: |-
       THE CONFLICT: Former State Senator Tripp Pittman took $750,000 of B.P. money while acting as a trustee of the funds; this loss impacted Baldwin County.
       THE DISCOVERY: As Ethics Commission Director, Tom Albritton had a private charitable trust that paid over $100,000 toward his children's college tuition, raising questions about his professional principles.
       THE PIVOT: Article 2 established Albritton's prior conflict of interest regarding a private trust he oversaw, providing context for the later specific allegations in Article 1 concerning the Mabel Amos Charitable Trust.
       KEY ENTITIES: Mabel Amos Trust; Tom Albritton; Rick Clifton; John Bell; Regions Bank; Ben Bowden (Judge); Tripp Pittman; Alabama Ethics Commission; Alabama AG; Montgomery County Circuit Court; $120,000; $1.2 million; $45,000; 1999; 2002-2020.
-    llm_text: Former State Senator Tripp Pittman stole $750,000 from B.P. funds, directly impacting Baldwin County. Discover how Ethics Commission Director Tom Albritton’s private charitable trust raised serious questions about professional principles.
+    llm_text: Former State Senator Tripp Pittman stole $750,000 from B.P. funds, directly impacting Baldwin County. Read how Ethics Commission Director Tom Albritton’s private charitable trust raised serious questions about professional principles.
+    text: Former State Senator Tripp Pittman took $750,000 in BP funds intended for Baldwin County. Meanwhile, Ethics Commission Director Tom Albritton operated a private charitable trust for personal benefit.
     widget_date: "2022-02-19"
     generated_at: "2026-11-06T22:01:54.685404Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   perfect-puzzle:
+    refined_source: 85c03c76a2f2059a1a27eddb6113e7f246bd6d7efe0f812e02315e9c116f9dec
     brief: |-
       THE CONFLICT:
       *   Mabel Amos died in 1999, establishing the Mabel Amos Charitable Trust in Alabama for college funding for deserving children.
@@ -129,17 +128,32 @@ hooks:
       *   Montgomery County Circuit Court
       *   University of Texas (UT)
       *   Southern Methodist University (SMU)
-    llm_text: Ethics Commission Director Tom Albritton allegedly used the Mabel Amos Charitable Trust to pay his children $120k+ to UT, alongside $45k to SMU. A civil lawsuit now confirms this self-dealing, exposing systemic corruption and ethics failure within the trust.
+    llm_text: Ethics Commission Director Tom Albritton used the Mabel Amos Charitable Trust to pay his children $120k+ to UT, alongside $45k to SMU. A civil lawsuit now confirms this self-dealing, exposing systemic corruption and ethics failure within the trust.
+    text: Ethics Commission Director Tom Albritton used the Mabel Amos Trust to pay over $120,000 for tuition at the University of Texas and $45,000 at SMU. A civil lawsuit now exposes this blatant self-dealing.
     widget_date: "2021-12-08"
     generated_at: "2026-11-06T22:07:46.408166Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   writ-of-mandamus-update:
+    refined_source: 70d81ff00f4412867b5273a887cf82f6fd39da0902d65544c1504360e1f8f773
     brief: |-
       THE CONFLICT: Mabel Amos Charitable Trust established by Mabel Amos (died 1999). Tom Albritton and Rick Clifton served as two of three board members since 1999. Albritton admitted to "self-dealing" of the trust.
       THE DISCOVERY: The Widget Article (older) confirmed Francis Paul Ripp filed a Writ of Mandamus (October 18th) concerning Albritton's "self dealing" of the Mabel Amos Memorial Fund, leading to planned civil action against Regions Bank.
       THE PIVOT: The Widget Article established the initial legal action (Writ of Mandamus filed October 18th) and Albritton's initial admission of self-dealing, providing the historical context for the later civil lawsuit (filed two weeks prior to Main Article date) detailed in the Main Article.
       KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, Regions Bank, John Bell, Ben Bowden, Judge Johnny Hardwick, Francis Paul Ripp, Alabama AG, Ethics Commission, Montgomery County Circuit Court, $120,000, $45,000, $1.2 million.
     llm_text: Tom Albritton admitted "self-dealing" of the Mabel Amos Charitable Trust. Francis Paul Ripp launched a Writ of Mandamus, setting the stage for civil action against Regions Bank over misused funds.
+    text: Tom Albritton admitted to self-dealing regarding the Mabel Amos Charitable Trust. Francis Paul Ripp filed a Writ of Mandamus to force legal action against Regions Bank over the misused funds.
     widget_date: "2021-10-26"
     generated_at: "2026-11-06T22:08:33.203738Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephants-in-alabama:
+    refined_source: 45472f34fcc51aac6d6d64c0431d6aee0a3393d50afb69ba11b68f2eea2ca342
+    brief: |-
+      THE CONFLICT: Mabel Amos died in 1999; the Mabel Amos Charitable Trust was established by her will; Tom Albritton and Rick Clifton served as trust board members since inception; a civil lawsuit was filed in Montgomery County Circuit Court alleging "self-dealing" involving Regions Bank and trust representative John Bell.
+      THE DISCOVERY: Article 2 revealed that despite allegations, the Alabama Attorney General and the Ethics Commission had not filed criminal charges against Tom Albritton, noting historical issues such as post-resignation salary payments ($37,000) to "Employee 1" (McCallum).
+      THE PIVOT: Article 2 established the systemic failure and lack of accountability by the Ethics Commission, Alabama Bar, and Attorney General, proving that a civil lawsuit (Article 1) was the only recourse for justice against Albritton and the trust trustees.
+      KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Regions Bank, Ben Bowden, Alabama AG, Ethics Commission, Mabel Amos Charitable Trust, Montgomery County Circuit Court, $120,000 (Albritton children scholarships), $45,000 (Bowden child scholarships), $1.2 million (Regions Bank fees 2002-2020).
+    llm_text: Tom Albritton faced a civil suit over $1.2 million in Regions Bank fees for the Mabel Amos Charitable Trust. The Alabama AG and Ethics Commission filed no criminal charges, proving accountability fails when powerful figures operate unchecked.
+    text: Tom Albritton faced a civil suit over $1.2 million in Regions Bank fees for the Mabel Amos Trust. The Alabama Attorney General and Ethics Commission filed no criminal charges against him.
+    widget_date: "2022-07-14"
+    generated_at: "2026-11-06T22:00:52.575416Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

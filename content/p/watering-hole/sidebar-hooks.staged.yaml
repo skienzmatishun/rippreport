@@ -1,0 +1,26 @@
+metadata:
+  generated_at: "2026-11-07T20:58:28.501251Z"
+  generator_version: 1.0.0
+  post_slug: watering-hole
+  main_date: "2019-10-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  going-down:
+    brief: "THE CONFLICT: Bar owner Ronan McSharry accumulated multiple arrests and convictions, was placed on probation, and repeatedly \"walked\" without facing legal consequences due to his close ties to local officials. McSharry's bar served as a networking hub for judges, attorneys, and Council President Jack Burrell (who had an undisclosed police report prior to his election), creating a systemic \"spaghetti bowl\" of conflicts of interest and quid pro quo deals within Baldwin County's municipal, district, and circuit courts.\n\nTHE DISCOVERY: The historical context (Article 2) reveals that Baldwin County—the fastest-growing county in Alabama—operates completely without sewer regulations, suffering regular spills into the Bay driven by overdevelopment, low impact fees, and a pro-growth \"Catalyst Council\" and \"down home boys\" network. It exposed specific infrastructure failures, such as over 566 apartments under construction or proposed in Fairhope, traffic nightmares at the Corridor of Chaos (Route 181/Fairhope at Walmart and Highway 104/Parker Road/Publix), and the \"three B's\" spending $2.65 million on vacant recreation land while ignoring vital capital improvements and infrastructure.\n\nTHE PIVOT: Article 2 provides the underlying blueprint of systemic, developer-driven corruption and political cronyism that enables the exact type of lawlessness described in Article 1. While Article 1 exposes how well-connected figures like Ronan McSharry and Council President Jack Burrell evade justice through the \"good ole boy\" judiciary network, Article 2 proves *why* the political class protects their own—it is the same network of developers, Catalyst Council members, and politicians prioritizing private greed and quid pro quo deals over public infrastructure, fair trials, and the citizens of Baldwin County.\n\nKEY ENTITIES: \n- Ronan McSharry (Bar owner)\n- Jack Burrell (Council President)\n- Catalyst Council\n- Baldwin County (Municipal, District, and Circuit Courts)\n- Fairhope, Alabama\n- Route 181 / Walmart intersection\n- Highway 104 / Parker Road / Publix intersection\n- Rock Creek\n- Backstory Podcast"
+    llm_text: Bar owner Ronan McSharry repeatedly dodges justice thanks to his cozy ties with Council President Jack Burrell and local judges. Read how this corrupt "good ole boy" network protects its own while developers ruin Baldwin County's infrastructure.
+    text: Bar owner Ronan McSharry repeatedly dodges justice thanks to his cozy ties with Council President Jack Burrell and local judges. Read how this corrupt "good ole boy" network protects its own while developers ruin Baldwin County's infrastructure.
+    widget_date: "2019-10-18"
+    generated_at: "2026-11-07T20:56:49.801976Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-7:
+    refined_source: b9c9702fd01d28daff52d84bf47a41b65f358eec543eb8228168ab447807a34f
+    brief: |-
+      THE CONFLICT: Ronan McSharry, a bar owner, has multiple convictions, is on probation, and repeatedly gets arrested and walks free.
+      THE DISCOVERY: [Content of Widget Article BACKSTORY PODCAST #7 is required for factual extraction.]
+      THE PIVOT: [Cannot be determined without the content of the older Widget Article; it is necessary to establish historical context for McSharry's actions.]
+      KEY ENTITIES: Ronan McSharry, Jack Burrell, Baldwin County, Fairhope AL, Judges, Attorneys, Municipal Court, District Court, Circuit Court.
+    llm_text: 'Ronan McSharry, the Fairhope bar owner, repeatedly walks free despite multiple convictions and probation in Baldwin County. Read how the local courts allowed this injustice on BACKSTORY PODCAST #7.'
+    text: Fairhope bar owner Ronan McSharry repeatedly walks free despite multiple convictions and probation in Baldwin County. Read how local courts allowed this injustice on Backstory Podcast Number 7.
+    widget_date: "2019-10-19"
+    generated_at: "2026-11-07T20:58:01.806750Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

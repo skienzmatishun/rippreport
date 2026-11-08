@@ -5,24 +5,8 @@ metadata:
   main_date: "2022-05-18"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  shooting-yourself-in-the-foot:
-    brief: |-
-      THE CONFLICT:
-      Chris Elliott and Tucker Dorsey formed a block vote of two; they had prior meetings before being sworn into office; they covered for Sen. Trip Pittman who took BP contracts during the oil spill of 2010; Pittman eventually resigned.
-
-      THE DISCOVERY:
-      In 2007, Jeb Ball started Baldwin Substance Abuse Services Inc. (BSAS), a no-bid contract certified by the Administrative Office of Courts, which provides court-ordered drug/alcohol classes; BSAS was founded by Judge Michell Thomason and is a brainchild of judges/lawyers; Ball and Johnathan Armstrong share a business interest in BSAS, creating a conflict of interest if they become commissioners.
-
-      THE PIVOT:
-      Article 2 established the conflict of interest (BSAS/two paychecks/Catalyst control) involving Jeb Ball and Johnathan Armstrong; Article 1 warns that Ball and Armstrong, if elected on the panel of four commissioners, will form a block vote and suffer the same institutional deadlock issues noted in the past (e.g., Elliott and Dorsey).
-
-      KEY ENTITIES:
-      Baldwin County; Chris Elliott; Tucker Dorsey; Sen. Trip Pittman; Jeb Ball; Johnathan Armstrong; Steve Carney; Matt McKenzie; Catalyst; Baldwin Substance Abuse Services Inc. (BSAS); Judge Michell Thomason; BCSA; Daphne.
-    llm_text: Judge Michell Thomason founded BSAS, which Jeb Ball and Johnathan Armstrong share a business interest in. If they become commissioners, they will form a block vote, risking the same institutional deadlock Chris Elliott and Tucker Dorsey faced.
-    widget_date: "2022-05-17"
-    generated_at: "2026-11-06T23:38:22.202850Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bsp-128:
+    refined_source: 883456137b06d0ff3ac040d39ddcc80069b16853ca8a03ddd7ca2618b3f5fe02
     brief: |-
       THE CONFLICT:
       *   Chris Elliott and Tucker Dorsey formed a block vote prior to being sworn into office.
@@ -52,10 +36,12 @@ hooks:
       *   Bay Minette
       *   Baldwin County Megasite
     llm_text: Chris Elliott and Tucker Dorsey covered for Sen. Trip Pittman regarding his BP contracts, leading to his resignation. Learn how Baldwin County's history—like the $2.5B Novelis plant in Bay Minette—created the current political deadlock over the Megasite.
+    text: Chris Elliott and Tucker Dorsey covered up Senator Trip Pittman and his BP contracts, which led to his resignation. Baldwin County history and the $2.5 billion Novelis plant in Bay Minette created the current political deadlock over the Megasite.
     widget_date: "2022-05-15"
     generated_at: "2026-11-06T23:41:15.276603Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   total-darkness:
+    refined_source: 8643a30d5a482a4bc47a00e5dcc84fdd2e49b2775c0bc71a4debaffd09a9be8d
     brief: |-
       THE CONFLICT:
       1. Chris Elliott and Tucker Dorsey formed a block vote after prior meetings before being sworn into office.
@@ -90,20 +76,24 @@ hooks:
       14. Alabama Attorney General
       15. ALEA (Alabama Law Enforcement Agency)
     llm_text: Jack Burrell and Mayor Sullivan hid FAA meetings, violating open laws during a $2.65M land purchase. This Fairhope Airport Authority mess reveals systemic Alabama corruption, linking to Sen. Trip Pittman's past BP contract issues.
+    text: Jack Burrell and Mayor Sherry Sullivan hid FAA meetings during a $2.65 million land purchase. Did these officials violate open records laws to protect private deals?
     widget_date: "2022-01-26"
     generated_at: "2026-11-06T23:42:38.484873Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   columbia-questions-and-documents:
+    refined_source: 41aba4d896f05284bd9435ff472f88aaf5f1c11b9189fc235c4b2bd1ce859765
     brief: |-
       THE CONFLICT: Chris Elliott and Tucker Dorsey formed a block vote; they covered up Sen. Trip Pittman taking BP contracts during the 2010 oil spill; Pittman later resigned.
       THE DISCOVERY: Columbia, Alabama, faces allegations of bid-rigging, FEMA fraud, fraudulent bids, and misuse of town funds (e.g., purchasing flowers/gift baskets with town money) which local authorities (City Council, Mayor, AG) have ignored.
       THE PIVOT: Both articles demonstrate the prevalence of local political corruption and the systemic failure of municipal/county authorities to address misconduct, leading to issues like block voting (Baldwin County) or misappropriation of taxpayer funds (Columbia).
       KEY ENTITIES: Baldwin County; Columbia, Alabama; Chris Elliott; Tucker Dorsey; Trip Pittman; Jeb Ball; Johnathan Armstrong; Steve Carey; Matt McKenzie; Mayor (Columbia); James Whitehead.
     llm_text: Chris Elliott and Tucker Dorsey covered up Trip Pittman taking BP contracts in Baldwin County. Meanwhile, Columbia, Alabama faces bid-rigging and misuse of taxpayer funds, proving local corruption never stops.
+    text: Chris Elliott and Tucker Dorsey covered up Trip Pittman taking BP contracts in Baldwin County. Meanwhile, Columbia, Alabama faces bid-rigging and tax money misuse, proving local corruption never stops.
     widget_date: "2020-12-23"
     generated_at: "2026-11-06T23:43:47.695466Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   take-a-chance:
+    refined_source: 89f8e702d86528fda5b1e4eb4289fe5b86e7e43a7a1c3d582476a0367051f5f2
     brief: |-
       THE CONFLICT:
       *   2010: Sen. Trip Pittman took BP contracts during the oil spill.
@@ -137,10 +127,12 @@ hooks:
       *   Mayor Wilson
       *   Catalyst
     llm_text: Sen. Trip Pittman's contract scandal and the Dorsey block vote exposed Baldwin County's governance flaws. Now, Jeb Ball and Johnathan Armstrong risk deadly deadlock; vote Matt McKenzie on May 24th to end this systemic failure.
+    text: Trip Pittman and Tucker Dorsey exposed deep flaws in Baldwin County governance. Jeb Ball and Johnathan Armstrong now risk creating another deadly deadlock, making a vote for Matt McKenzie on May 24 essential to end this failure.
     widget_date: "2020-11-18"
     generated_at: "2026-11-06T23:39:49.165448Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   catalyst-attack:
+    refined_source: 42275fe08eaa8a7f1499886275f6e7fa4d3709a7ba49103054d471ef1166bc14
     brief: |-
       THE CONFLICT:
       *   2010: Oil spill occurred; Sen. Trip Pittman took BP contracts.
@@ -187,10 +179,12 @@ hooks:
       *   Corte
       *   Cox
     llm_text: Scott Boone Consulting (CSB) runs a developer-funded political machine, using "Triangle Trades" and block voting in Baldwin County. Jeb Ball and Johnathan Armstrong now align with this corrupt history, threatening the local control you rely on.
+    text: Scott Boone Consulting runs a developer-funded political machine that uses block voting in Baldwin County. Jeb Ball and Johnathan Armstrong now align with this corrupt history and threaten local control.
     widget_date: "2020-08-12"
     generated_at: "2026-11-06T23:45:16.533762Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   wear-a-mask:
+    refined_source: 2d598733873964e90a5dab9fba81182e60a3a4a5c10855641147765a7d349401
     brief: |-
       THE CONFLICT:
       *   In 2010, Sen. Trip Pittman took BP contracts during the oil spill.
@@ -216,6 +210,26 @@ hooks:
       *   Matt McKenzie
       *   Baldwin County Commission
     llm_text: Trip Pittman took BP contracts in 2010, and Chris Elliott and Tucker Dorsey covered that corruption. This history of failing collective responsibility mirrors the current health crisis; candidates like Jeb Ball and Johnathan Armstrong risk harming Baldwin County's vulnerable older generation.
+    text: Trip Pittman took BP contracts in 2010 while local officials covered up the fallout. How do past political favors threaten Baldwin County's vulnerable seniors today?
     widget_date: "2020-07-08"
     generated_at: "2026-11-06T23:46:26.802253Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shooting-yourself-in-the-foot:
+    refined_source: 845eac3b66963ff017be4df9a73522369c2144c3469a54b8e46ebe079e805ffe
+    brief: |-
+      THE CONFLICT:
+      Chris Elliott and Tucker Dorsey formed a block vote of two; they had prior meetings before being sworn into office; they covered for Sen. Trip Pittman who took BP contracts during the oil spill of 2010; Pittman eventually resigned.
+
+      THE DISCOVERY:
+      In 2007, Jeb Ball started Baldwin Substance Abuse Services Inc. (BSAS), a no-bid contract certified by the Administrative Office of Courts, which provides court-ordered drug/alcohol classes; BSAS was founded by Judge Michell Thomason and is a brainchild of judges/lawyers; Ball and Johnathan Armstrong share a business interest in BSAS, creating a conflict of interest if they become commissioners.
+
+      THE PIVOT:
+      Article 2 established the conflict of interest (BSAS/two paychecks/Catalyst control) involving Jeb Ball and Johnathan Armstrong; Article 1 warns that Ball and Armstrong, if elected on the panel of four commissioners, will form a block vote and suffer the same institutional deadlock issues noted in the past (e.g., Elliott and Dorsey).
+
+      KEY ENTITIES:
+      Baldwin County; Chris Elliott; Tucker Dorsey; Sen. Trip Pittman; Jeb Ball; Johnathan Armstrong; Steve Carney; Matt McKenzie; Catalyst; Baldwin Substance Abuse Services Inc. (BSAS); Judge Michell Thomason; BCSA; Daphne.
+    llm_text: Judge Michell Thomason founded BSAS, which Jeb Ball and Johnathan Armstrong share a business interest in. If they become commissioners, they will form a block vote, risking the same institutional deadlock Chris Elliott and Tucker Dorsey faced.
+    text: Judge Michell Thomason founded BSAS, where Jeb Ball and Johnathan Armstrong hold business interests. If elected as commissioners, they will form a block vote and cause the same institutional deadlock seen under Chris Elliott and Tucker Dorsey.
+    widget_date: "2022-05-17"
+    generated_at: "2026-11-06T23:38:22.202850Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,17 +5,40 @@ metadata:
   main_date: "2022-04-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  the-crime-of-the-century:
+  the-180:
+    refined_source: 005b9dd8c21d9c1597468ba06d050c6200f6b44f146edd6675c86c9f56c02a84
     brief: |-
-      THE CONFLICT: Alabama ethics laws and enforcement issues; specific allegations involve former Lt. Governor/lobbyist Steve Windom (one third owner of software firm) and Presiding Judge Mary Edna Windom (R-Mobile); Court System allocated 3% of Alabama General Fund Budget to secret no-bid contracts; Governor Ivey claimed the May 24, 2022 election was stolen from Donald Trump.
-      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and faces scrutiny over controlling the veterans’ board; a true crime story in Clarke County exposed shady ties between a hospice business and a local judge, highlighting Alabama's "good old boy" system.
-      THE PIVOT: Article 2 provides a recent, concrete example (Clarke County judge/hospice ties, Ivey firing Davis) of the systemic corruption and accountability issues in Alabama that Article 1 referenced in the context of the Court System's 3% no-bid contracts.
-      KEY ENTITIES: Steve Windom, Mary Edna Windom, Governor Kay Ivey, Admiral Kent Davis, Donald Trump, Clarke County, Alabama Court of Criminal Appeals.
-    llm_text: Clarke County exposed shady ties between a local judge and a hospice business, revealing Alabama’s "good old boy" system. See how Governor Kay Ivey's actions and the Windom family's ethics issues prove deep accountability problems persist across the state.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-07T00:45:54.996744Z"
+      THE CONFLICT:
+      *   Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and his wife Mary Edna Windom (Presiding Judge, Alabama Court of Criminal Appeals) linked to Alabama Ethics Laws and court system spending.
+      *   3 percent of the Alabama General Fund Budget allocated to the Court System was spent on secret no-bid contracts (allowed under Patriot Act critical infrastructure exemption).
+      *   Governor Ivey claimed the May 24, 2022 election was stolen from former President Donald Trump.
+
+      THE DISCOVERY:
+      *   VP Kamala Harris is shifting from "scourge of the democratic party" to "darling savior."
+      *   In Baldwin County, Alabama, Sheriff Mack has one week remaining in office, and the Governor is selecting a replacement.
+      *   Finebaum claimed the University of Alabama Football Dynasty is over.
+
+      THE PIVOT:
+      *   The state corruption involving the Windom family and the Alabama Court System (Article 1) is occurring amid immediate, significant political flux in Alabama (Article 2), including the transition of Sheriff Mack and the changing political standing of VP Harris.
+
+      KEY ENTITIES:
+      *   Steve Windom
+      *   Mary Edna Windom
+      *   Governor Ivey
+      *   Kamala Harris
+      *   Donald Trump
+      *   Bruce Willis
+      *   Sheriff Mack
+      *   Finebaum
+      *   Alabama Court of Criminal Appeals
+      *   Baldwin County, Alabama
+    llm_text: Steve Windom and Presiding Judge Mary Edna Windom face ethics scrutiny over secret no-bid contracts draining the Alabama Court System budget. This state corruption unfolds as Governor Ivey selects Sheriff Mack's replacement in Baldwin County.
+    text: Steve Windom and Presiding Judge Mary Edna Windom face ethics scrutiny over secret no-bid contracts draining the Alabama Court System budget. Why does this state corruption unfold now?
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T00:56:24.556986Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: 9b396da8b219b397ce2925ea25128fe1288c687d8c66fd69e251040576680e0e
     brief: |-
       THE CONFLICT:
       *   Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) benefited from secret no-bid contracts.
@@ -41,76 +64,12 @@ hooks:
       *   Fairhope City Council
       *   Alabama General Fund Budget
     llm_text: Steve and Mary Windom leveraged the Alabama General Fund Budget for secret no-bid contracts through the Alabama Court of Criminal Appeals. This corruption is not isolated; it signals a systemic failure affecting everything from law enforcement accountability to local control across Alabama.
+    text: Steve and Mary Windom leveraged the Alabama General Fund Budget for secret no-bid contracts through the Alabama Court of Criminal Appeals. How does this systemic failure affect local control across Alabama?
     widget_date: "2025-01-13"
     generated_at: "2026-11-07T00:48:20.748151Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) were connected to secret no-bid contracts funded by 3 percent of the Alabama General Fund allocated to the Court System.
-      *   The Alabama Legislature passed laws regarding transgender medications for children and "decisive issues prohibition" for teachers ahead of the May 24, 2022 election.
-
-      THE DISCOVERY:
-      *   The Alabama Court of Civil Appeals released a decision (today at 1pm) regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
-      *   This petition was based on the discovery of two autopsies, ordered by Sheriff Mack's father/Coroner in 2005, which were never disclosed to the defense, constituting a Brady Violation.
-
-      THE PIVOT:
-      *   Article 2 confirms systemic corruption within Alabama's legal system via the Dothan Summer Feeding Scandal and the Brady Violation involving the Baldwin County Sheriff's Department (Mack vs Hadley), reinforcing the earlier concerns in Article 1 about misuse of court funds and ethics law failures.
-
-      KEY ENTITIES:
-      *   Steve Windom
-      *   Mary Edna Windom
-      *   Alabama Court of Criminal Appeals
-      *   Dothan Summer Feeding Scandal
-      *   Murray Lawrence Jr.
-      *   Baldwin County Sheriff's Department
-      *   Luigi Manjone
-      *   Mark Fuller (corrupt Alabama Federal Judge from Mobile, Alabama)
-      *   Governor Ivey
-      *   Muscogee Creeks (Oklahoma)
-    llm_text: Judge Mary Edna Windom’s family ties to secret contracts compound a major legal scandal. The Alabama Court of Criminal Appeals confirmed a Brady Violation in the Murray Lawrence Jr. case, exposing systemic corruption from the Dothan Summer Feeding Scandal to judge ethics failures.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-07T00:49:27.829222Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-187-the-pardon:
-    brief: |-
-      THE CONFLICT: Alabama ethics laws and misuse of 3% General Fund budget for secret no-bid contacts involving Steve Windom and Presiding Judge Mary Edna Windom of the Alabama Court of Criminal Appeals. (Context includes May 24, 2022 election.)
-      THE DISCOVERY: The newer podcast covers broader US misconduct, including President Biden's pardon of his son Hunter and the wrongful arrests of individuals exposing local school district corruption related to the First Amendment.
-      THE PIVOT: Article 2 contextualizes the specific local legal corruption in Article 1 within a larger national pattern of political misconduct, questionable pardons, and suppression of whistleblowers.
-      KEY ENTITIES: Steve Windom, Mary Edna Windom, Governor Ivey, Bruce Willis, President Biden, Hunter Biden
-    llm_text: Alabama's Steve Windom and Judge Mary Edna Windom misused 3% of the General Fund for secret no-bid contacts. Don't miss how this local ethical failure connects to broader national misconduct, from Hunter Biden's pardon to silencing whistleblowers.
-    widget_date: "2024-12-07"
-    generated_at: "2026-11-07T00:50:51.731908Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT:
-      *   Steve Windom (former Lt. Governor, mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) were connected to the misuse of 3 percent of the Alabama General Fund budget for secret no bid contacts.
-      *   This conflict was highlighted in relation to the May 24, 2022 election and Alabama Ethics Laws.
-
-      THE DISCOVERY:
-      *   Backstory Podcast No. 186 (newer content) features discussions on the 2024 US Presidential election results and proposed constitutional amendments in Alabama.
-      *   The podcast also covers current Alabama news, including the closing of rural hospitals and changes to hunting seasons.
-
-      THE PIVOT:
-      *   Article 2 updates the political and legal landscape in Alabama from the specific 2022 corruption allegations (Article 1) to broader, current issues affecting the state in 2024 (e.g., constitutional changes, rural hospital closures).
-
-      KEY ENTITIES:
-      *   Bruce Willis (Aphasia)
-      *   Steve Windom
-      *   Mary Edna Windom
-      *   Alabama Court of Criminal Appeals
-      *   Alabama General Fund (3 percent allocation)
-      *   Governor Ivey
-      *   May 24, 2022
-      *   Backstory Podcast No. 186
-      *   2024 US Presidential election
-      *   Fairhope City Council
-    llm_text: Steve Windom and Presiding Judge Mary Edna Windom faced scrutiny for misusing 3% of the Alabama General Fund in 2022. Listen to Backstory Podcast No. 186 as we connect this corruption to vital 2024 issues, including rural hospital closures and constitutional changes.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-07T00:46:56.811072Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   stirring-the-pot-bsp:
+    refined_source: 89f66bf006649b8d23798abe2c0e299ffcd5f6ec8f116debb2f25443cb64d01a
     brief: |-
       THE CONFLICT:
       *   Alabama Court System utilized 3 percent of the Alabama General Fund Budget for secret no-bid contracts.
@@ -140,20 +99,12 @@ hooks:
       *   Bob Wills
       *   Muscogee Creeks
     llm_text: Steve Windom and Presiding Judge Mary Edna Windom linked to court software that used 3% of the Alabama General Fund on secret no-bid contracts. See how high-level money politics still impact your state, despite recent local issues in Fairhope and Baldwin County.
+    text: Steve Windom and Presiding Judge Mary Edna Windom linked to court software that used 3% of the Alabama General Fund on secret no-bid contracts. Do high-level money politics still impact your state?
     widget_date: "2024-10-18"
     generated_at: "2026-11-07T00:52:19.742113Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-pete-rose:
-    brief: |-
-      THE CONFLICT: Alabama corruption involving Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge, Alabama Court of Criminal Appeals) related to secret no-bid contracts using 3% of the Alabama General Fund budget; context noted around May 24, 2022.
-      THE DISCOVERY: A mystery surrounding the death of Thomas Daniel "Danny" Williams Jr. occurred in Orange Beach, Alabama, starting May 27, 2022, with the body recovered on Sunday, May 29, 2022.
-      THE PIVOT: Both the corruption scandal (Article 1) and the death mystery (Article 2) occurred in Alabama during May 2022.
-      KEY ENTITIES: Steve Windom, Mary Edna Windom, Thomas Daniel "Danny" Williams Jr., Governor Ivey, Bruce Willis, Pete Rose, Katie Britt, MS-13, Orange Beach, Alabama.
-    llm_text: Alabama corruption involving Steve Windom and Mary Edna Windom used 3% of the General Fund budget. Now, connect that scandal to the unsolved death mystery of Thomas Daniel "Danny" Williams Jr. in Orange Beach.
-    widget_date: "2024-10-04"
-    generated_at: "2026-11-07T00:53:35.668614Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hatians-eating-cats:
+    refined_source: 02e9342bded288c75f4fda368bd9642caaac4f229c9db08fd27c695551c9dac5
     brief: |-
       THE CONFLICT:
       *   Alabama crime problem linked to Ethics Laws and enforcement.
@@ -192,40 +143,48 @@ hooks:
       *   Tulsi Gabbards
       *   Russell Brand
     llm_text: Kent David faces a whistleblower ethics complaint, forcing him out of the Alabama Veterans Affairs Commissioner role. This proves state corruption extends beyond Steve Windom and Mary Edna Windom's no-bid contract scandal.
+    text: Kent David faces a whistleblower ethics complaint, forcing him out of the Alabama Veterans Affairs Commissioner role. Does this prove state corruption extends beyond Steve Windom and Mary Edna Windom?
     widget_date: "2024-09-20"
     generated_at: "2026-11-07T00:54:56.836036Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-180:
+  the-crime-of-the-century:
+    refined_source: b5f888d07df50393e848531f8a5fbeef1dd3528e096d68cc084bff80cd55b89d
     brief: |-
-      THE CONFLICT:
-      *   Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and his wife Mary Edna Windom (Presiding Judge, Alabama Court of Criminal Appeals) linked to Alabama Ethics Laws and court system spending.
-      *   3 percent of the Alabama General Fund Budget allocated to the Court System was spent on secret no-bid contracts (allowed under Patriot Act critical infrastructure exemption).
-      *   Governor Ivey claimed the May 24, 2022 election was stolen from former President Donald Trump.
-
-      THE DISCOVERY:
-      *   VP Kamala Harris is shifting from "scourge of the democratic party" to "darling savior."
-      *   In Baldwin County, Alabama, Sheriff Mack has one week remaining in office, and the Governor is selecting a replacement.
-      *   Finebaum claimed the University of Alabama Football Dynasty is over.
-
-      THE PIVOT:
-      *   The state corruption involving the Windom family and the Alabama Court System (Article 1) is occurring amid immediate, significant political flux in Alabama (Article 2), including the transition of Sheriff Mack and the changing political standing of VP Harris.
-
-      KEY ENTITIES:
-      *   Steve Windom
-      *   Mary Edna Windom
-      *   Governor Ivey
-      *   Kamala Harris
-      *   Donald Trump
-      *   Bruce Willis
-      *   Sheriff Mack
-      *   Finebaum
-      *   Alabama Court of Criminal Appeals
-      *   Baldwin County, Alabama
-    llm_text: Steve Windom and Presiding Judge Mary Edna Windom face ethics scrutiny over secret no-bid contracts draining the Alabama Court System budget. This state corruption unfolds as Governor Ivey selects Sheriff Mack's replacement in Baldwin County.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-07T00:56:24.556986Z"
+      THE CONFLICT: Alabama ethics laws and enforcement issues; specific allegations involve former Lt. Governor/lobbyist Steve Windom (one third owner of software firm) and Presiding Judge Mary Edna Windom (R-Mobile); Court System allocated 3% of Alabama General Fund Budget to secret no-bid contracts; Governor Ivey claimed the May 24, 2022 election was stolen from Donald Trump.
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and faces scrutiny over controlling the veterans’ board; a true crime story in Clarke County exposed shady ties between a hospice business and a local judge, highlighting Alabama's "good old boy" system.
+      THE PIVOT: Article 2 provides a recent, concrete example (Clarke County judge/hospice ties, Ivey firing Davis) of the systemic corruption and accountability issues in Alabama that Article 1 referenced in the context of the Court System's 3% no-bid contracts.
+      KEY ENTITIES: Steve Windom, Mary Edna Windom, Governor Kay Ivey, Admiral Kent Davis, Donald Trump, Clarke County, Alabama Court of Criminal Appeals.
+    llm_text: Clarke County exposed shady ties between a local judge and a hospice business, revealing Alabama’s "good old boy" system. See how Governor Kay Ivey's actions and the Windom family's ethics issues prove deep accountability problems persist across the state.
+    text: Clarke County exposed shady ties between a local judge and a hospice business, revealing Alabama’s old boy system. Do Governor Kay Ivey's actions prove deep accountability problems persist?
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T00:45:54.996744Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    refined_source: d86c84f574db4e85baf8f785026d5ebcf0e341ffdab24cbf1f65e066f8940eaf
+    brief: |-
+      THE CONFLICT: Alabama ethics laws and misuse of 3% General Fund budget for secret no-bid contacts involving Steve Windom and Presiding Judge Mary Edna Windom of the Alabama Court of Criminal Appeals. (Context includes May 24, 2022 election.)
+      THE DISCOVERY: The newer podcast covers broader US misconduct, including President Biden's pardon of his son Hunter and the wrongful arrests of individuals exposing local school district corruption related to the First Amendment.
+      THE PIVOT: Article 2 contextualizes the specific local legal corruption in Article 1 within a larger national pattern of political misconduct, questionable pardons, and suppression of whistleblowers.
+      KEY ENTITIES: Steve Windom, Mary Edna Windom, Governor Ivey, Bruce Willis, President Biden, Hunter Biden
+    llm_text: Alabama's Steve Windom and Judge Mary Edna Windom misused 3% of the General Fund for secret no-bid contacts. Don't miss how this local ethical failure connects to broader national misconduct, from Hunter Biden's pardon to silencing whistleblowers.
+    text: Steve Windom and Judge Mary Edna Windom misused 3% of the General Fund for secret no-bid contracts. This local ethical failure connects to broader state and national misconduct.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T00:50:51.731908Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    refined_source: dc82d22b6773dd826afc74e4bd934b5c8e341dfeb4910ca77d3c4cd931534408
+    brief: |-
+      THE CONFLICT: Alabama corruption involving Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge, Alabama Court of Criminal Appeals) related to secret no-bid contracts using 3% of the Alabama General Fund budget; context noted around May 24, 2022.
+      THE DISCOVERY: A mystery surrounding the death of Thomas Daniel "Danny" Williams Jr. occurred in Orange Beach, Alabama, starting May 27, 2022, with the body recovered on Sunday, May 29, 2022.
+      THE PIVOT: Both the corruption scandal (Article 1) and the death mystery (Article 2) occurred in Alabama during May 2022.
+      KEY ENTITIES: Steve Windom, Mary Edna Windom, Thomas Daniel "Danny" Williams Jr., Governor Ivey, Bruce Willis, Pete Rose, Katie Britt, MS-13, Orange Beach, Alabama.
+    llm_text: Alabama corruption involving Steve Windom and Mary Edna Windom used 3% of the General Fund budget. Now, connect that scandal to the unsolved death mystery of Thomas Daniel "Danny" Williams Jr. in Orange Beach.
+    text: Alabama corruption involving Steve Windom and Mary Edna Windom used 3% of the General Fund budget. Can we connect that scandal to the unsolved death of Thomas Daniel Williams Jr.?
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T00:53:35.668614Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: 718ad656f664e10da5055363e21ac1140a4fe52620acff12039eece5726412d2
     brief: |-
       THE CONFLICT:
       *   Alabama has a crime problem linked to ethics laws and court system funding (3% of Alabama General Fund Budget) involving Steve Windom (one third owner of software firm) and Presiding Judge Mary Edna Windom (R-Mobile).
@@ -256,6 +215,67 @@ hooks:
       *   May Jung LLC
       *   Muscogee Creeks (Oklahoma)
     llm_text: Officer Brandon Thompson faces a Federal Court lawsuit from OJ French Jr.'s family over a fatal stop in Bay Minette. This local crisis reflects Alabama's wider legal issues, including the ethics concerns involving Steve and Mary Edna Windom.
+    text: Officer Brandon Thompson faces a Federal Court lawsuit from OJ French Jr.'s family over a fatal stop in Bay Minette. Does this local crisis reflect Alabama's wider legal ethics concerns?
     widget_date: "2024-08-02"
     generated_at: "2026-11-07T00:57:39.824519Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: ab6b8358dbf58c3ce0ef62986df59b31f06ed638fef15bfd6c7dc91121a844fd
+    brief: |-
+      THE CONFLICT:
+      *   Steve Windom (former Lt. Governor/mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) were connected to secret no-bid contracts funded by 3 percent of the Alabama General Fund allocated to the Court System.
+      *   The Alabama Legislature passed laws regarding transgender medications for children and "decisive issues prohibition" for teachers ahead of the May 24, 2022 election.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a decision (today at 1pm) regarding the Rule 32 Petition for a new trial for Murray Lawrence Jr.
+      *   This petition was based on the discovery of two autopsies, ordered by Sheriff Mack's father/Coroner in 2005, which were never disclosed to the defense, constituting a Brady Violation.
+
+      THE PIVOT:
+      *   Article 2 confirms systemic corruption within Alabama's legal system via the Dothan Summer Feeding Scandal and the Brady Violation involving the Baldwin County Sheriff's Department (Mack vs Hadley), reinforcing the earlier concerns in Article 1 about misuse of court funds and ethics law failures.
+
+      KEY ENTITIES:
+      *   Steve Windom
+      *   Mary Edna Windom
+      *   Alabama Court of Criminal Appeals
+      *   Dothan Summer Feeding Scandal
+      *   Murray Lawrence Jr.
+      *   Baldwin County Sheriff's Department
+      *   Luigi Manjone
+      *   Mark Fuller (corrupt Alabama Federal Judge from Mobile, Alabama)
+      *   Governor Ivey
+      *   Muscogee Creeks (Oklahoma)
+    llm_text: Judge Mary Edna Windom’s family ties to secret contracts compound a major legal scandal. The Alabama Court of Criminal Appeals confirmed a Brady Violation in the Murray Lawrence Jr. case, exposing systemic corruption from the Dothan Summer Feeding Scandal to judge ethics failures.
+    text: Judge Mary Edna Windom’s family ties to secret contracts compound a major legal scandal. The Alabama Court of Criminal Appeals confirmed a Brady Violation in the Murray Lawrence case.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T00:49:27.829222Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: c2a38baf4e75cefb424a62ae08356d2f8a8d36a62e62a4af084f1f288faa983b
+    brief: |-
+      THE CONFLICT:
+      *   Steve Windom (former Lt. Governor, mega-lobbyist, one-third owner of software firm) and Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) were connected to the misuse of 3 percent of the Alabama General Fund budget for secret no bid contacts.
+      *   This conflict was highlighted in relation to the May 24, 2022 election and Alabama Ethics Laws.
+
+      THE DISCOVERY:
+      *   Backstory Podcast No. 186 (newer content) features discussions on the 2024 US Presidential election results and proposed constitutional amendments in Alabama.
+      *   The podcast also covers current Alabama news, including the closing of rural hospitals and changes to hunting seasons.
+
+      THE PIVOT:
+      *   Article 2 updates the political and legal landscape in Alabama from the specific 2022 corruption allegations (Article 1) to broader, current issues affecting the state in 2024 (e.g., constitutional changes, rural hospital closures).
+
+      KEY ENTITIES:
+      *   Bruce Willis (Aphasia)
+      *   Steve Windom
+      *   Mary Edna Windom
+      *   Alabama Court of Criminal Appeals
+      *   Alabama General Fund (3 percent allocation)
+      *   Governor Ivey
+      *   May 24, 2022
+      *   Backstory Podcast No. 186
+      *   2024 US Presidential election
+      *   Fairhope City Council
+    llm_text: Steve Windom and Presiding Judge Mary Edna Windom faced scrutiny for misusing 3% of the Alabama General Fund in 2022. Listen to Backstory Podcast No. 186 as we connect this corruption to vital 2024 issues, including rural hospital closures and constitutional changes.
+    text: Steve Windom and Presiding Judge Mary Edna Windom faced scrutiny for misusing 3% of the Alabama General Fund in 2022. Listen to Backstory Podcast No. 186 for the full report.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T00:46:56.811072Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

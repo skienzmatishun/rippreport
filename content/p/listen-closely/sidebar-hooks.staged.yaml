@@ -5,7 +5,51 @@ metadata:
   main_date: "2026-03-09"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  the-enforcer-hoss-macks-rise-to-statewide-power:
+    refined_source: 3cf9bd8067a7fc12a15999fa29c38b4ef5be574a9eac859cc53d0bf4317bbf3b
+    brief: |-
+      THE CONFLICT:
+      *   Hoss Mack rose to political influence within Baldwin County, Alabama.
+      *   Baldwin County became a politically influential region where power is consolidated and those in charge rarely face consequences.
+
+      THE DISCOVERY:
+      *   Baldwin County holds quiet political influence in Alabama, controlling narratives.
+
+      THE PIVOT:
+      *   Hoss Mack's established power structure in Baldwin County provides the context for the systemic failures, abuse, and lack of accountability documented in *The Alabama Solution* documentary (2019 filming, 2025 premiere).
+
+      KEY ENTITIES:
+      *   Hoss Mack
+      *   Baldwin County
+      *   Alabama Governor Kay Ivey
+      *   Andrew Jarecki
+      *   Charlotte Kaufman
+      *   Easterling Correctional Facility
+      *   Steven Davis
+      *   Sandy Ray
+      *   Robert Earl Council
+      *   Melvin Ray
+      *   Free Alabama Movement
+      *   The Alabama Solution (2025 documentary)
+    llm_text: Hoss Mack consolidated quiet power in Baldwin County, Alabama, allowing systemic failures to avoid consequences. See how this influence drives the accountability issues detailed in the 2025 documentary, *The Alabama Solution*.
+    text: Hoss Mack consolidated quiet power in Baldwin County, shielding systemic failures from public scrutiny. That entrenched local influence fuels the accountability issues highlighted in the documentary, The Alabama Solution.
+    widget_date: "2025-08-15"
+    generated_at: "2026-11-06T09:27:25.001636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    refined_source: 064e910f059a167ff6f2af27bb38723d334e66ad5d68dd111aba42ea794cd894
+    brief: |-
+      THE CONFLICT: 2005 capital murder trial of Murray Lawrence Jr. in Baldwin County; conviction based on coerced testimony of Jarius McNeil; key exculpatory evidence suppressed.
+      THE DISCOVERY: Four individuals (Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone) who built the case against Murray Lawrence Jr. have risen to positions of power (Baldwin County District Attorney, Baldwin County Sheriff, state appointments) and continue to influence the legal system.
+      THE PIVOT: The historical pattern of prosecutorial misconduct and suppressed evidence (Article 2) demonstrates the deep, entrenched corruption and unchecked power within the Alabama justice system, which Article 1 later documents through systemic prison abuse and failures (Easterling Correctional Facility, 2019-2025 investigation), tied to Governor Kay Ivey's "Alabama Solution."
+      KEY ENTITIES: Murray Lawrence Jr, Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone, Kay Ivey, Baldwin County, BCSO, Easterling Correctional Facility, Andrew Jarecki, Charlotte Kaufman.
+    llm_text: Murray Lawrence Jr.'s 2005 conviction relied on coerced testimony, yet the men who built that case—including Baldwin County DA Robert Wilters—now hold powerful positions. Read how entrenched prosecutorial misconduct within Alabama's justice system connects to failures at Easterling Correctional Facility.
+    text: Murray Lawrence Jr. faced a 2005 conviction based on coerced testimony gathered by officials who still hold power. Baldwin County District Attorney Robert Wilters helped build that flawed case.
+    widget_date: "2025-07-30"
+    generated_at: "2026-11-06T09:28:14.100122Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-exposure-mljr:
+    refined_source: 78900e33419933e5413bec50d31e2c2a0c480a96e2a4b637bd908e62076af499
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted in Baldwin County, Alabama.
@@ -32,10 +76,12 @@ hooks:
       *   Easterling Correctional Facility
       *   Free Alabama Movement
     llm_text: Murray Lawrence Jr.'s wrongful conviction in Baldwin County proves deep corruption within Alabama's justice system. See how the BCSO and local courts failed him, revealing the accountability crisis Governor Kay Ivey must solve at Easterling Correctional Facility.
+    text: Murray Lawrence Jr. suffered a wrongful conviction in Baldwin County. The Sheriff's Office and local courts failed him completely, exposing an accountability crisis within the Alabama justice system.
     widget_date: "2026-02-20"
     generated_at: "2026-11-06T09:20:55.977595Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   faux-pas:
+    refined_source: 5e6abdfe8c6f64e9c93150981f75dd1b571a47533d5f0337545481f9eff3838c
     brief: |-
       THE CONFLICT:
       *   2019: Filmmakers Andrew Jarecki and Charlotte Kaufman visited Easterling Correctional Facility to film a religious revival meeting.
@@ -69,10 +115,12 @@ hooks:
       *   Baldwin County Commission District 1
       *   Alabama Department of Corrections
     llm_text: Richard Cox challenges voters for Baldwin County Commission District 1. See how Huey Mack was the only person on the microphone during Rep Donna Givens' Summerdale "Faux Pas."
+    text: Richard Cox challenges incumbent leaders for Baldwin County Commission District 1. Watch how Huey Mack controlled the microphone during Representative Donna Givens' Summerdale event.
     widget_date: "2026-01-26"
     generated_at: "2026-11-06T09:23:47.888897Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture-2:
+    refined_source: 410ff7bf8c6da2ffb08c10af50e45f10ea1f533636fe3332e947971d4f3008cd
     brief: |-
       THE CONFLICT:
       *   The Baldwin County Sheriff Office (BCSO) culture of "absolute immunity" was developed by former sheriff Hoss Mack.
@@ -101,10 +149,12 @@ hooks:
       *   Easterling Correctional Facility
       *   Matt McKenzie
     llm_text: Anthony Lowery inherited a culture of "absolute immunity" at the BCSO, a system rooted in Hoss Mack's era. This unchecked local power allowed BCSO to investigate itself and wrongly convict Murray Lawrence Jr., mirroring systemic failures in Alabama's prison system.
+    text: Anthony Lowery inherited a system of absolute immunity built during Hoss Mack's tenure as sheriff. The Baldwin County Sheriff's Office investigated itself and wrongly convicted Murray Lawrence Jr.
     widget_date: "2026-01-13"
     generated_at: "2026-11-06T09:25:17.962942Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-culture:
+    refined_source: 15cb43e5491416566e7053d908010524382ad1175356cd014da2432281bf4f9f
     brief: |-
       THE CONFLICT:
       *   2017 fatal shooting of Jonathan Victor by Deputy Lt. Matthew Hunady (BCSO).
@@ -136,10 +186,12 @@ hooks:
       *   Baldwin County
       *   Easterling Correctional Facility
     llm_text: Anthony Lowery’s BCSO operates with a culture of lies, linked to the 2017 death of Jonathan Victor and the wrongful conviction of Murray Lawrence Jr. Learn how this systemic corruption extends beyond Baldwin County into Alabama’s entire justice system.
+    text: Anthony Lowery leads a Baldwin County Sheriff's Office marked by a culture of deceit. This systemic corruption links the 2017 death of Jonathan Victor to the wrongful conviction of Murray Lawrence Jr.
     widget_date: "2025-10-05"
     generated_at: "2026-11-06T09:26:33.412299Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    refined_source: f7f8a4049fe4993a82302595d6ab43bc4aa07d4d14ae7762a5784c4238d8610d
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. was wrongfully convicted of capital murder in Baldwin County in 2005 due to suppressed exculpatory evidence and prosecutorial misconduct.
@@ -165,45 +217,7 @@ hooks:
       BCSO (Baldwin County Sheriff’s Office)
       Easterling Correctional Facility (Alabama)
     llm_text: Murray Lawrence Jr. faced a wrongful 2005 capital murder conviction using suppressed evidence. Officials like Anthony Lowery and David Whetstone now wield power, proving institutional corruption persists under Governor Kay Ivey's "Alabama Solution."
+    text: Suppressed evidence secured the 2005 murder conviction of Murray Lawrence Jr. Officials like Anthony Lowery and David Whetstone still wield unchecked power under Governor Kay Ivey's administration.
     widget_date: "2025-10-01"
     generated_at: "2026-11-06T09:22:16.984501Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-enforcer-hoss-macks-rise-to-statewide-power:
-    brief: |-
-      THE CONFLICT:
-      *   Hoss Mack rose to political influence within Baldwin County, Alabama.
-      *   Baldwin County became a politically influential region where power is consolidated and those in charge rarely face consequences.
-
-      THE DISCOVERY:
-      *   Baldwin County holds quiet political influence in Alabama, controlling narratives.
-
-      THE PIVOT:
-      *   Hoss Mack's established power structure in Baldwin County provides the context for the systemic failures, abuse, and lack of accountability documented in *The Alabama Solution* documentary (2019 filming, 2025 premiere).
-
-      KEY ENTITIES:
-      *   Hoss Mack
-      *   Baldwin County
-      *   Alabama Governor Kay Ivey
-      *   Andrew Jarecki
-      *   Charlotte Kaufman
-      *   Easterling Correctional Facility
-      *   Steven Davis
-      *   Sandy Ray
-      *   Robert Earl Council
-      *   Melvin Ray
-      *   Free Alabama Movement
-      *   The Alabama Solution (2025 documentary)
-    llm_text: Hoss Mack consolidated quiet power in Baldwin County, Alabama, allowing systemic failures to avoid consequences. See how this influence drives the accountability issues detailed in the 2025 documentary, *The Alabama Solution*.
-    widget_date: "2025-08-15"
-    generated_at: "2026-11-06T09:27:25.001636Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: |-
-      THE CONFLICT: 2005 capital murder trial of Murray Lawrence Jr. in Baldwin County; conviction based on coerced testimony of Jarius McNeil; key exculpatory evidence suppressed.
-      THE DISCOVERY: Four individuals (Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone) who built the case against Murray Lawrence Jr. have risen to positions of power (Baldwin County District Attorney, Baldwin County Sheriff, state appointments) and continue to influence the legal system.
-      THE PIVOT: The historical pattern of prosecutorial misconduct and suppressed evidence (Article 2) demonstrates the deep, entrenched corruption and unchecked power within the Alabama justice system, which Article 1 later documents through systemic prison abuse and failures (Easterling Correctional Facility, 2019-2025 investigation), tied to Governor Kay Ivey's "Alabama Solution."
-      KEY ENTITIES: Murray Lawrence Jr, Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone, Kay Ivey, Baldwin County, BCSO, Easterling Correctional Facility, Andrew Jarecki, Charlotte Kaufman.
-    llm_text: Murray Lawrence Jr.'s 2005 conviction relied on coerced testimony, yet the men who built that case—including Baldwin County DA Robert Wilters—now hold powerful positions. Discover how entrenched prosecutorial misconduct within Alabama's justice system connects to failures at Easterling Correctional Facility.
-    widget_date: "2025-07-30"
-    generated_at: "2026-11-06T09:28:14.100122Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

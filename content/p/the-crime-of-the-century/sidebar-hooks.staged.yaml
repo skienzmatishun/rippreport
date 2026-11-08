@@ -5,17 +5,118 @@ metadata:
   main_date: "2025-02-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  sheriff-mack-out-oj-french-lawsuit-in:
+    refined_source: a59e56dfc3802676a5b41dbc52e61d3006ff74290b99435a4d2de53ed3849690
+    brief: |-
+      THE CONFLICT: OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a stop; the French family filed a Federal Court lawsuit on July 31, 2024, against the City of Bay Minette and Officer Thompson.
+
+      THE DISCOVERY: The lawsuit alleged Officer Thompson lacked probable cause and escalated the situation, but the Grand Jury had seen the video and cleared the officer; concurrently, the Sheriff announced his resignation mid-August, leading Governor Kay Ivey to consider appointing Chief Deputy Anthony Lowery or County Commissioner Matt McKenzie.
+
+      THE PIVOT: The French case establishes Ivey's immediate political involvement in local law enforcement appointments (Lowery/McKenzie), paralleling the wider political chaos in Article 1, specifically Governor Ivey firing Admiral Kent Davis and attempting to control the veterans’ board, which has created veteran program instability.
+
+      KEY ENTITIES: Kay Ivey, Admiral Kent Davis, OJ French Jr., Officer Brandon Thompson, Robert Bob Wills, Anthony Lowery, Matt McKenzie.
+    llm_text: OJ French Jr.'s lawsuit against Officer Brandon Thompson forces Governor Kay Ivey to choose between Anthony Lowery and Matt McKenzie for Bay Minette law enforcement. This local appointment struggle mirrors Ivey's broader push for control, like when she fired Admiral Kent Davis and destabilized veteran programs.
+    text: Governor Kay Ivey must choose between Anthony Lowery and Matt McKenzie for Bay Minette law enforcement. Does this appointment power struggle match her crusade to control state veteran programs?
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T15:14:30.458740Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    refined_source: 55176ae0335a36989aa15ba6c1ab7abd9187b3b695d0528f4a421ec215876206
+    brief: |-
+      THE CONFLICT: Governor Kay Ivey fired Admiral Kent Davis, causing veterans’ programs to enter chaos and upsetting veterans who typically support Republicans.
+      THE DISCOVERY: Widget Article 2 established broader political and legal instability in Alabama, including the closing of rural hospitals, changes to hunting seasons, and discussions of proposed constitutional amendments.
+      THE PIVOT: Widget Article 2 provides the historical context of generalized legal and political shifts in Alabama, setting the stage for the specific corruption (Clarke County/judge ties) and power struggles (Ivey/Davis) detailed in Article 1.
+      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Clarke County, Joe Biden, Kamala Harris, Trump
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, plunging veterans’ programs into chaos despite typical Republican support. Read how this specific power struggle fits into Alabama’s broader instability, from closing rural hospitals to proposed constitutional changes.
+    text: Governor Kay Ivey fired Admiral Kent Davis and threw state veterans' programs into turmoil. What does this aggressive power grab reveal about her control over state boards?
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T15:10:33.294399Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    refined_source: baf36efa8110381c350aa1bf0f121263fbd67f85296b86d6017c9973e41272ec
+    brief: |-
+      THE CONFLICT:
+      *   City of Bay Minette, Alabama, faced a lawsuit from the family of OJ French Jr. killed by BMPD Officer Brandon Thompson.
+      *   Mobile Attorney Andy Ruten represented the City, asking the Judge to review the bodycam to excuse the officer's actions while preventing public release.
+      *   Ruten's firm hired Bay Minette Mayor Bob Wills to defend against a Malpractice lawsuit.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey, in the older article, called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      *   Fairhope expanded its $9.5M pier remodel.
+
+      THE PIVOT:
+      *   The older article establishes Governor Ivey’s initial action regarding the Veterans’ Affairs Commissioner, setting the stage for the current chaos where Ivey is now under fire for firing Admiral Kent Davis and trying to control the veterans’ board (as detailed in the main article).
+
+      KEY ENTITIES:
+      *   Kay Ivey (Governor)
+      *   Admiral Kent Davis
+      *   OJ French Jr.
+      *   Brandon Thompson (BMPD Officer)
+      *   Andy Ruten (Mobile Attorney)
+      *   Bob Wills (Bay Minette Mayor)
+      *   Baldwin County
+      *   Clarke County
+      *   Veterans’ Affairs Commissioner for Alabama
+    llm_text: OJ French Jr.'s family sued Bay Minette over Officer Brandon Thompson's actions. Mobile Attorney Andy Ruten hired Mayor Bob Wills to defend the city against a malpractice lawsuit.
+    text: The family of OJ French Jr. filed a lawsuit against Bay Minette over Officer Brandon Thompson's actions. Why did Mobile attorney Andy Ruten hire Mayor Bob Wills to defend the city against malpractice claims?
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T15:07:35.855184Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    refined_source: a5bd201b5d8fbc5e34db73ad612e6bc177befa3b6d488d778f88a1abadb1ef66
+    brief: |-
+      THE CONFLICT: Kent Davis, Former Real Admiral and Jag Officer, was leaving the State of Alabama as Alabama Veterans Affairs Commissioner.
+      THE DISCOVERY: Article 2 revealed Kent Davis’s departure was related to a whistleblower Ethics Complaint.
+      THE PIVOT: Article 1 confirms Governor Kay Ivey fired Admiral Kent Davis and highlights the resulting political chaos, specifically Ivey attempting to control the veterans’ board, which has upset veterans.
+      KEY ENTITIES: Kent Davis, Kay Ivey, Alabama Veterans Affairs Commissioner, Baldwin County, Renaissance School
+    llm_text: Governor Kay Ivey fired Kent Davis, the former Real Admiral, as Alabama Veterans Affairs Commissioner. A whistleblower ethics complaint sparked political chaos, leaving veterans upset about Ivey's attempt to control the board.
+    text: Governor Kay Ivey fired Admiral Kent Davis as Alabama Veterans Affairs Commissioner after a whistleblower filed an ethics complaint. Why are veterans protesting the governor's takeover of their department?
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T15:12:13.197062Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scalped:
+    refined_source: 133c2c42befe16d624f473bc9e9a7a3ab30001cbdb158ba0a04b349686dabecd
     brief: |-
       THE CONFLICT: Corruption where companies with political ties scored million-dollar contracts; a scholarship scandal where public funds went to insiders.
       THE DISCOVERY: Article 2 revealed a pattern of systemic corruption in Alabama, including lack of law enforcement accountability for mishaps and the prioritization of political ties over public service.
       THE PIVOT: Article 2 establishes the historical pattern of "good old boy" system failure (contract favoritism, lack of accountability) that directly underpins the specific true crime story (hospice/judge ties) and political chaos (veterans' board control) detailed in Article 1.
       KEY ENTITIES: Kay Ivey, Admiral Kent Davis, Joe Biden, Kamala Harris, Baldwin County District Attorney, Clarke County.
     llm_text: Alabama's "good old boy" system prioritizes political ties over public good. From million-dollar contract favoritism to scholarship scandals, this pattern exposes failures in Clarke County and Baldwin County.
+    text: Alabama's political machine regularly trades million-dollar contracts for campaign loyalty. How do scholarship scandals and backroom deals hurt taxpayers in Clarke and Baldwin counties?
     widget_date: "2025-01-13"
     generated_at: "2026-11-06T15:06:34.715854Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-at-the-po-po:
+    refined_source: aefe77d205dcebcce523749ab080f7b8887953f5d9475b642469b09148a9fb55
+    brief: |-
+      THE CONFLICT: Alabama political and legal system exhibits corruption, exemplified by the Alabama Attorney General forwarding a Choctaw County murder for hire complaint to the local Sheriff due to the Sheriff's family connection to an alleged participant.
+
+      THE DISCOVERY: Captain Andre Reid, Commander of the Major Crimes Unit in Baldwin County, was accused of having an affair with a subordinate but was protected by the "Sheriff's Circle of Protection," retaining pay and subsequently becoming Captain of the Baldwin County Correction Center.
+
+      THE PIVOT: The specific examples of police protection (Reid) and jurisdictional cover-ups (Choctaw County murder) in Article 2 serve as concrete evidence of the systemic "good old boy" corruption and lack of accountability discussed in Article 1 (e.g., hospice business ties to a judge, veterans' program chaos).
+
+      KEY ENTITIES:
+      *   Captain Andre Reid
+      *   Baldwin County Correction Center
+      *   Governor Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County (hospice business/judge)
+      *   AG Marshall
+      *   John Wahl (ALGOP Party Chairman)
+      *   Christopher Bauer (former FBI agent/State Trooper 2019)
+      *   Choctaw County
+      *   Alabama Attorney General
+      *   Trump
+      *   Kamala Harris
+      *   Alabama lawmakers (RSA, David Bronner)
+    llm_text: The Alabama Attorney General forwarded a Choctaw County murder for hire complaint to the Sheriff despite family ties. Captain Andre Reid, protected by a "Sheriff's Circle," retained pay and rose to Captain of the Baldwin County Correction Center.
+    text: The Alabama Attorney General forwarded a Choctaw County murder-for-hire complaint directly to the suspect's family sheriff. Why did Captain Andre Reid keep his job and rise through the ranks after internal complaints?
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T15:15:47.733589Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: a8e3ab2f7d61c8919a3651efb599438f8fa1eb43581225fc00c1595350f93a1f
     brief: |-
       THE CONFLICT:
       *   2005: Coroner of Baldwin County ordered two autopsies for Murray Lawrence Jr. (Brady Violation); these were not disclosed to the Defense.
@@ -43,124 +144,43 @@ hooks:
       *   Kamala Harris
       *   United Healthcare CEO
     llm_text: Alabama corruption isn't new; historical issues like the Mark Fuller case and the Murray Lawrence Jr. Brady violation reveal systemic problems. See how this pattern connects to today's shady ties, from Clarke County judges to Admiral Kent Davis.
+    text: The Mark Fuller case and the Murray Lawrence Jr. Brady violation prove corruption runs deep in Alabama courts. How do Clarke County judges protect these tainted convictions?
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T15:08:44.554934Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-187-the-pardon:
+    refined_source: d405ade8b9abf4ac5d7616d5e49afaebaa65cbbd6fb433c605895949f95b00a1
     brief: |-
       THE CONFLICT: Allegations of misconduct against various officials; wrongful arrests of individuals exposing local school corruption; controversial political appointments (Widget Article).
       THE DISCOVERY: The historical pattern of government misconduct includes a damning US COVID-19 response report and President Biden's pardon of his son Hunter (Widget Article).
       THE PIVOT: The historical pattern of corruption (pardons, local exposure) provides context for current political dysfunction, specifically Biden's pardons for allies and the current Clarke County case exposing a hospice/judge tie (Main Article).
       KEY ENTITIES: Joe Biden, Kamala Harris, Kay Ivey, Admiral Kent Davis, Hunter Biden, Clarke County
     llm_text: Clarke County corruption, exposing a hospice/judge tie, mirrors bigger issues. See how Biden's pardons for Hunter Biden fit into a historical pattern of government misconduct.
+    text: Clarke County court records expose disturbing ties between local judges and hospice operators. How do these local ethical failures mirror patterns of high-level government misconduct?
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T15:09:42.511276Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-186-change-is-coming-alabama:
-    brief: |-
-      THE CONFLICT: Governor Kay Ivey fired Admiral Kent Davis, causing veterans’ programs to enter chaos and upsetting veterans who typically support Republicans.
-      THE DISCOVERY: Widget Article 2 established broader political and legal instability in Alabama, including the closing of rural hospitals, changes to hunting seasons, and discussions of proposed constitutional amendments.
-      THE PIVOT: Widget Article 2 provides the historical context of generalized legal and political shifts in Alabama, setting the stage for the specific corruption (Clarke County/judge ties) and power struggles (Ivey/Davis) detailed in Article 1.
-      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Clarke County, Joe Biden, Kamala Harris, Trump
-    llm_text: Governor Kay Ivey fired Admiral Kent Davis, plunging veterans’ programs into chaos despite typical Republican support. Discover how this specific power struggle fits into Alabama’s broader instability, from closing rural hospitals to proposed constitutional changes.
-    widget_date: "2024-11-27"
-    generated_at: "2026-11-06T15:10:33.294399Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      *   City of Bay Minette, Alabama, faced a lawsuit from the family of OJ French Jr. killed by BMPD Officer Brandon Thompson.
-      *   Mobile Attorney Andy Ruten represented the City, asking the Judge to review the bodycam to excuse the officer's actions while preventing public release.
-      *   Ruten's firm hired Bay Minette Mayor Bob Wills to defend against a Malpractice lawsuit.
-
-      THE DISCOVERY:
-      *   Governor Kay Ivey, in the older article, called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
-      *   Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
-      *   Fairhope expanded its $9.5M pier remodel.
-
-      THE PIVOT:
-      *   The older article establishes Governor Ivey’s initial action regarding the Veterans’ Affairs Commissioner, setting the stage for the current chaos where Ivey is now under fire for firing Admiral Kent Davis and trying to control the veterans’ board (as detailed in the main article).
-
-      KEY ENTITIES:
-      *   Kay Ivey (Governor)
-      *   Admiral Kent Davis
-      *   OJ French Jr.
-      *   Brandon Thompson (BMPD Officer)
-      *   Andy Ruten (Mobile Attorney)
-      *   Bob Wills (Bay Minette Mayor)
-      *   Baldwin County
-      *   Clarke County
-      *   Veterans’ Affairs Commissioner for Alabama
-    llm_text: OJ French Jr.'s family sued Bay Minette over Officer Brandon Thompson's actions. Mobile Attorney Andy Ruten hired Mayor Bob Wills to defend the city against a malpractice lawsuit.
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-06T15:07:35.855184Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-pete-rose:
+    refined_source: cd4de248893bd299f71ed7def4b9aaedbfc67cc22b0c2ddc8ca0781afc9db271
     brief: |-
       THE CONFLICT: Death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022; body recovered May 29, 2022.
       THE DISCOVERY: Article 2 established Adm. Kent Davis and highlighted local criminal contexts including MS-13 Operations in Baldwin County and the Gulf Coast High Intensity Drug Trafficking Area Program.
       THE PIVOT: Article 2 provides the historical context of Adm. Kent Davis’s involvement in Alabama politics and local issues, which directly leads to Article 1 detailing Governor Kay Ivey firing Davis and the subsequent chaos in veterans’ programs.
       KEY ENTITIES: Adm. Kent Davis, Governor Kay Ivey, Thomas Daniel "Danny" Williams Jr, MS-13, Clarke County, Orange Beach, Baldwin County
     llm_text: The death of Thomas Daniel "Danny" Williams Jr in Orange Beach links local MS-13 operations to state politics. See how Governor Kay Ivey fired Adm. Kent Davis, sparking chaos in Alabama's veterans' programs.
+    text: The death of Thomas Daniel Williams Jr. in Orange Beach connects local criminal activity to state politics. Did Governor Kay Ivey fire Admiral Kent Davis to distract from broader administrative failures?
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T15:11:20.002129Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hatians-eating-cats:
-    brief: |-
-      THE CONFLICT: Kent Davis, Former Real Admiral and Jag Officer, was leaving the State of Alabama as Alabama Veterans Affairs Commissioner.
-      THE DISCOVERY: Article 2 revealed Kent Davis’s departure was related to a whistleblower Ethics Complaint.
-      THE PIVOT: Article 1 confirms Governor Kay Ivey fired Admiral Kent Davis and highlights the resulting political chaos, specifically Ivey attempting to control the veterans’ board, which has upset veterans.
-      KEY ENTITIES: Kent Davis, Kay Ivey, Alabama Veterans Affairs Commissioner, Baldwin County, Renaissance School
-    llm_text: Governor Kay Ivey fired Kent Davis, the former Real Admiral, as Alabama Veterans Affairs Commissioner. A whistleblower ethics complaint sparked political chaos, leaving veterans upset about Ivey's attempt to control the board.
-    widget_date: "2024-09-20"
-    generated_at: "2026-11-06T15:12:13.197062Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-180:
+    refined_source: 0c4d64a7400f0fb9df44c063baf352cd27b9f42d10264543f822f1afd0e982d1
     brief: |-
       THE CONFLICT: Kamala Harris shifted from a "scourge of the democratic party" to a "darling savior" following the Democratic National Convention. RFK Jr removed his name from battleground ballots, and Candidate Trump dominated the political narrative.
       THE DISCOVERY: Baldwin County, Alabama, had one week left with Sheriff Mack in office, prompting the Governor to select a replacement.
       THE PIVOT: Article 2 establishes the volatile, high-stakes political environment in Alabama (e.g., Baldwin County transition, Harris's political shift) that contextualizes the current power struggles detailed in Article 1 (e.g., Governor Kay Ivey firing Admiral Kent Davis, veterans' program chaos, and Clarke County true crime).
       KEY ENTITIES: Kamala Harris, Trump, RFK Jr, Sheriff Mack, Kay Ivey, Admiral Kent Davis, Joe Biden, Baldwin County, Clarke County, University of Alabama.
     llm_text: Kamala Harris flipped from "scourge" to "savior" while Trump dominates Alabama's narrative. Kay Ivey's decisions, like replacing Sheriff Mack in Baldwin County and firing Admiral Kent Davis, reveal the high-stakes political chaos across the state.
+    text: Kamala Harris faces shifting political narratives while Donald Trump dominates Alabama news. How do Governor Kay Ivey's personnel decisions fuel political chaos across the state?
     widget_date: "2024-08-24"
     generated_at: "2026-11-06T15:13:11.385181Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  sheriff-mack-out-oj-french-lawsuit-in:
-    brief: |-
-      THE CONFLICT: OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a stop; the French family filed a Federal Court lawsuit on July 31, 2024, against the City of Bay Minette and Officer Thompson.
-
-      THE DISCOVERY: The lawsuit alleged Officer Thompson lacked probable cause and escalated the situation, but the Grand Jury had seen the video and cleared the officer; concurrently, the Sheriff announced his resignation mid-August, leading Governor Kay Ivey to consider appointing Chief Deputy Anthony Lowery or County Commissioner Matt McKenzie.
-
-      THE PIVOT: The French case establishes Ivey's immediate political involvement in local law enforcement appointments (Lowery/McKenzie), paralleling the wider political chaos in Article 1, specifically Governor Ivey firing Admiral Kent Davis and attempting to control the veterans’ board, which has created veteran program instability.
-
-      KEY ENTITIES: Kay Ivey, Admiral Kent Davis, OJ French Jr., Officer Brandon Thompson, Robert Bob Wills, Anthony Lowery, Matt McKenzie.
-    llm_text: OJ French Jr.'s lawsuit against Officer Brandon Thompson forces Governor Kay Ivey to choose between Anthony Lowery and Matt McKenzie for Bay Minette law enforcement. This local appointment struggle mirrors Ivey's broader push for control, like when she fired Admiral Kent Davis and destabilized veteran programs.
-    widget_date: "2024-08-02"
-    generated_at: "2026-11-06T15:14:30.458740Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-at-the-po-po:
-    brief: |-
-      THE CONFLICT: Alabama political and legal system exhibits corruption, exemplified by the Alabama Attorney General forwarding a Choctaw County murder for hire complaint to the local Sheriff due to the Sheriff's family connection to an alleged participant.
-
-      THE DISCOVERY: Captain Andre Reid, Commander of the Major Crimes Unit in Baldwin County, was accused of having an affair with a subordinate but was protected by the "Sheriff's Circle of Protection," retaining pay and subsequently becoming Captain of the Baldwin County Correction Center.
-
-      THE PIVOT: The specific examples of police protection (Reid) and jurisdictional cover-ups (Choctaw County murder) in Article 2 serve as concrete evidence of the systemic "good old boy" corruption and lack of accountability discussed in Article 1 (e.g., hospice business ties to a judge, veterans' program chaos).
-
-      KEY ENTITIES:
-      *   Captain Andre Reid
-      *   Baldwin County Correction Center
-      *   Governor Kay Ivey
-      *   Admiral Kent Davis
-      *   Clarke County (hospice business/judge)
-      *   AG Marshall
-      *   John Wahl (ALGOP Party Chairman)
-      *   Christopher Bauer (former FBI agent/State Trooper 2019)
-      *   Choctaw County
-      *   Alabama Attorney General
-      *   Trump
-      *   Kamala Harris
-      *   Alabama lawmakers (RSA, David Bronner)
-    llm_text: The Alabama Attorney General forwarded a Choctaw County murder for hire complaint to the Sheriff despite family ties. Captain Andre Reid, protected by a "Sheriff's Circle," retained pay and rose to Captain of the Baldwin County Correction Center.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T15:15:47.733589Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

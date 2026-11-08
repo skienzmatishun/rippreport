@@ -5,7 +5,69 @@ metadata:
   main_date: "2024-07-27"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  po-po-hoss-mack-ccuo:
+    refined_source: 625e090db81d0aafe10b40bdabc6a79a39b46688e61d7eff628b7611606d4f17
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. occurred, involving Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters.
+      THE DISCOVERY: A May 17, 2004 letter from the Alabama Department of Forensic Sciences to Whetstone, which accompanied autopsy, forensic biology, and toxicology reports, indicated Mack and his father were aware of the second autopsy report prior to Lawrence's trial. Mack, Wilters, and Whetstone withheld exculpatory evidence, leading to Lawrence's 20-year incarceration. Anthony Lowery was an investigator with knowledge of the available evidence.
+      THE PIVOT: The documented 2004 cover-up (Lawrence Jr.) establishes a historical pattern of misconduct (withholding evidence, institutional bias) by Mack and his allies, providing context for current allegations regarding BCSO, including the handling of the Peyton Little death (ruled suicide), the O.J. French shooting, the Robert Yates eviction death, the Jonathan Victor shooting, and the five-person I-10 pursuit death.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Robert Wilters, David Whetstone, Peyton Little, O.J. French, Robert Yates, Jonathan Victor, Joseph L. Andrews, Kevin J. Andrews, Dominic Scotti Garcia Jr., BCSO, Governor's Appointment Office (Mr. Mason Bass), Bay Minette Police, Baldwin County Major Crimes Unit.
+    llm_text: Hoss Mack and David Whetstone withheld exculpatory evidence in the Murray Lawrence Jr. conviction, proving a historical pattern of misconduct. See how this 2004 cover-up connects to current BCSO allegations involving Peyton Little and Robert Yates.
+    text: Hoss Mack and David Whetstone withhold exculpatory evidence in the Murray Lawrence Jr. trial, proving a historical pattern of misconduct. This 2004 cover-up connects directly to current BCSO allegations involving Peyton Little and Robert Yates.
+    widget_date: "2024-06-15"
+    generated_at: "2026-11-06T16:43:43.611617Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-by-the-po-po:
+    refined_source: 0f2fcd6c7383d325a5310127b133115b4e6dd103c15d2d1435a4c8eb73e4fd52
+    brief: |-
+      THE CONFLICT:
+      - Murray Lawrence Jr. was wrongfully convicted in a case involving zero evidence.
+      - Hoss Mack served as the lead investigator in the Lawrence case.
+      - Robert Wilters served as the presiding judge/DA in the Lawrence case.
+      - An internal scandal occurred involving a senior BCSO officer having an affair with a subordinate employee married to another officer; the incident was covered up by Sheriff Hoss Mack.
+
+      THE DISCOVERY:
+      - The BCSO has a documented history of cover-ups regarding both officer misconduct and wrongful convictions.
+      - There is a systemic lack of transparency, supervision, and accountability within the department under current leadership.
+
+      THE PIVOT:
+      - The historical pattern of cover-ups and judicial misconduct (specifically involving Mack and Wilters) provides the evidentiary basis for the current allegations against the BCSO.
+      - The previous involvement of Anthony Lowery as an investigator in a wrongful conviction case establishes a direct link between the department's history of misconduct and the current attempt to install him as Sheriff.
+      - The past "hanky panky" cover-up validates current claims that the department prioritizes protecting its own over public transparency and justice.
+
+      KEY ENTITIES:
+      - Hoss Mack (Sheriff / Lead Investigator)
+      - Anthony Lowery (Proposed Successor / Investigator)
+      - Robert Wilters (Judge / DA)
+      - Murray Lawrence Jr. (Wrongfully Convicted)
+      - David Whetstone (Prosecutor)
+      - Mason Bass (Governor’s Appointment Office)
+      - BCSO (Baldwin County Sheriff's Office)
+      - Peyton Little (Deceased/CI)
+      - O.J. French (Deceased)
+      - Robert Yates (Deceased)
+      - Jonathan Victor (Deceased)
+      - Joseph L. Andrews (Deceased)
+      - Kevin J. Andrews (Deceased)
+    llm_text: Sheriff Hoss Mack and Robert Wilters once orchestrated the baseless conviction of Murray Lawrence Jr. while burying scandalous department affairs. This history of corruption explains exactly why the BCSO is now fighting so hard to install investigator Anthony Lowery as their next Sheriff.
+    text: Sheriff Hoss Mack and Robert Wilters orchestrate the baseless conviction of Murray Lawrence Jr. while burying departmental scandals. This history of corruption explains why the BCSO fights to install investigator Anthony Lowery as the next sheriff.
+    widget_date: "2024-05-31"
+    generated_at: "2026-11-06T16:43:38.353521Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  lee-county-no-justice-center:
+    refined_source: 0814ef90c8c37d349d46e1370977c97863afc94245d381fd5da8c5a6d2314073
+    brief: |-
+      THE CONFLICT: Cole Barkley incident occurred in Auburn/Lee County (July 25, 2021) resulting in attempted murder charge and 45-year sentence by Judge Tickle; Peyton Little was ruled a suicide by BCSO; O.J. French was shot by Bay Minette police and cleared by Major Crimes Unit; Robert Yates died after a SWAT eviction raid without probable cause; Jonathan Victor was shot 4 times; Five people died in a wrong-way BCSO pursuit on I-10; Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld exculpatory evidence leading to a 20-year wrongful conviction.
+      THE DISCOVERY: The Lee County Justice Center system fosters a "police fraternity" leading to excessive sentencing (e.g., 45 years for Cole Barkley) and systemic legal vulnerability, not isolated judicial error.
+      THE PIVOT: The 2021 Lee County case demonstrates that institutional corruption, police overreach, and flawed justice centers are established features of the local legal environment, providing historical context that the BCSO appointment process (Main Article) is vulnerable to perpetuating or masking similar systemic abuses, including wrongful convictions.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Peyton Little, O.J. French, Robert Yates, Jonathan Victor, Mark Hunady, Joseph L. Andrews, Kevin J. Andrews, Cole Barkley, Nicole Barkley, Judge Tickle, David Whetstone, Robert Wilters, BCSO, Lee County Justice Center, Auburn PD.
+    llm_text: Judge Tickle sentenced Cole Barkley to 45 years, yet Sheriff Mack and Judge Wilters withheld evidence, causing a 20-year wrongful conviction. This Lee County "police fraternity" reveals systemic corruption, showing the BCSO appointment process is vulnerable to the same abuses.
+    text: Judge Tickle sentences Cole Barkley to 45 years while Sheriff Mack and Judge Wilters withhold evidence in a separate 20-year wrongful conviction. This law enforcement fraternity reveals systemic corruption within the BCSO appointment process.
+    widget_date: "2024-03-11"
+    generated_at: "2026-11-06T16:47:21.466542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   bcso-how-to-become-sheriff:
+    refined_source: 95091b3908826f2d11e9c17ab351ed656acbe83af81eb28627598d6c3cd2872d
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray "Bubba" Lawrence Jr. for the death of Brandon Hastings.
       THE CONFLICT: This occurred in the early 2000s (2003/2004).
@@ -13,10 +75,12 @@ hooks:
       THE PIVOT: Mack's actions in the Lawrence case established a pattern of misconduct and legal violation (withholding evidence) that directly informs the current controversy surrounding his exit and the suggested appointment of Anthony Lowery.
       KEY ENTITIES: Hoss Mack (Sheriff), Anthony Lowery, David Whetstone (Prosecutor), Robert Wilters (Judge), Dean McGowan, Murray Lawrence Jr., Peyton Little, O.J. French, Robert Yates, Jonathan Victor, Mark Hunady, Joseph L. Andrews, Kevin J. Andrews, Dominic Scotti Garcia Jr., BCSO (Baldwin County Sheriffs Office), Governor's Appointment Office (Mr. Mason Bass).
     llm_text: Sheriff Hoss Mack withheld exculpatory evidence in the 2003 wrongful conviction of Murray "Bubba" Lawrence Jr. This pattern of legal violation now shapes the debate over Mack's exit and the suggested appointment of Anthony Lowery.
+    text: Sheriff Hoss Mack withholds exculpatory evidence in the 2003 wrongful conviction of Murray Lawrence Jr. This legal violation shapes the debate over Mack's departure and his proposed appointment of Anthony Lowery.
     widget_date: "2024-07-16"
     generated_at: "2026-11-06T16:42:48.483741Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shuffling-the-deck:
+    refined_source: bc79ecfa21b2044c9f6ab83d4ba31d3cd9a14d44325ab9e8d000c5f814d0b037
     brief: |-
       THE CONFLICT:
       *   In 2004, Murray Lawrence Jr. was wrongfully convicted.
@@ -48,10 +112,12 @@ hooks:
       *   Baldwin County Commission
       *   Governor’s Appointment Office (600 Dexter Ave. Montgomery Alabama 36130)
     llm_text: Hoss Mack tries to install Anthony Lowery as his replacement, ignoring Lowery's past complicity in the 2004 wrongful conviction of Murray Lawrence Jr. Read how Mack pushes this choice despite Lowery knowing about withheld exculpatory evidence.
+    text: Hoss Mack tries to install Anthony Lowery as his replacement despite Lowery's past complicity in the 2004 wrongful conviction of Murray Lawrence Jr. Lowery retains full knowledge of the withheld exculpatory evidence.
     widget_date: "2024-07-08"
     generated_at: "2026-11-06T16:45:00.746194Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hanky-panky-at-the-po-po:
+    refined_source: c72e5261787675b6ff0a753419b9ce5cb18dc312e92708048797e5a39aca8df8
     brief: |-
       THE CONFLICT:
       *   Captain Andre Reid (Baldwin County) was accused of having an affair with a subordinate (2023 Nappie Award recipient).
@@ -78,68 +144,16 @@ hooks:
       *   Mark Hunady (BCSO Deputy, denied qualified immunity)
       *   Dominic Scotti Garcia Jr. (BCSO deputy in I-10 pursuit)
       *   Mason Bass (Governor’s Appointment Office)
-    llm_text: The Baldwin County Sheriff's Department hides misconduct through a "Circle of Protection," including Captain Andre Reid's affair. Discover how this institutional cover-up allowed suppressed evidence and questionable police actions to continue.
+    llm_text: The Baldwin County Sheriff's Department hides misconduct through a "Circle of Protection," including Captain Andre Reid's affair. Read how this institutional cover-up allowed suppressed evidence and questionable police actions to continue.
+    text: The Baldwin County Sheriff's Department hides misconduct through an internal network, including Captain Andre Reid's affair. This institutional cover-up allows suppressed evidence and questionable police actions to persist.
     widget_date: "2024-06-20"
     generated_at: "2026-11-06T16:46:01.695794Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   wrongful-conviction-fairhope-baldwin-county:
+    refined_source: 41b698d17b081142192f5c8bc796a0e819b5382d5f42ee8b58ee9576db745127
     brief: "THE CONFLICT: \nBaldwin County officials have a history of alleged systemic corruption, specifically regarding the withholding of exculpatory evidence to secure wrongful convictions. This is exemplified by the case of Murray Lawrence Jr. in Fairhope, where the Judge, Prosecutor, Sheriff, and lead investigator were accused of suppressing evidence and conducting inefficient investigations.\n\nTHE DISCOVERY: \nArticle 2 establishes a historical pattern of judicial and law enforcement misconduct in Baldwin County, characterizing the legal environment as one of deep-seated corruption involving the intentional withholding of evidence from defense teams.\n\nTHE PIVOT: \nArticle 2 provides the necessary context to implicate Anthony Lowery, the proposed successor to Sheriff Hoss Mack. While Article 2 details the systemic nature of the corruption, Article 1 reveals that Lowery was the specific investigator who had knowledge of withheld evidence in a separate wrongful conviction case involving Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters. This connects the \"deep corruption\" of the past directly to the individual currently being positioned to lead the Baldwin County Sheriff’s Office.\n\nKEY ENTITIES:\n- Hoss Mack (Sheriff)\n- Anthony Lowery (Investigator / Proposed Successor)\n- Murray Lawrence Jr. (Wrongfully convicted)\n- David Whetstone (Prosecutor)\n- Robert Wilters (Judge)\n- Mason Bass (Governor’s Appointment Office)\n- Peyton Little (Deceased Confidential Informant)\n- O.J. French (Deceased)\n- Robert Yates (Deceased)\n- Jonathan Victor (Deceased)\n- Mark Hunady (BCSO Deputy)\n- Joseph L. Andrews (Deceased)\n- Kevin J. Andrews (Deceased)"
     llm_text: Baldwin County officials have a dark history of suppressing evidence to secure wrongful convictions. Investigator Anthony Lowery—who knew exactly how Prosecutor David Whetstone and Judge Robert Wilters withheld evidence—now eyes the top spot as Sheriff Hoss Mack’s proposed successor.
+    text: Baldwin County officials suppress evidence to secure wrongful convictions. Investigator Anthony Lowery watched Prosecutor David Whetstone and Judge Robert Wilters withhold evidence, and now Lowery wants to replace Sheriff Hoss Mack.
     widget_date: "2024-06-17"
     generated_at: "2026-11-06T16:42:37.228981Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
-  po-po-hoss-mack-ccuo:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. occurred, involving Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters.
-      THE DISCOVERY: A May 17, 2004 letter from the Alabama Department of Forensic Sciences to Whetstone, which accompanied autopsy, forensic biology, and toxicology reports, indicated Mack and his father were aware of the second autopsy report prior to Lawrence's trial. Mack, Wilters, and Whetstone withheld exculpatory evidence, leading to Lawrence's 20-year incarceration. Anthony Lowery was an investigator with knowledge of the available evidence.
-      THE PIVOT: The documented 2004 cover-up (Lawrence Jr.) establishes a historical pattern of misconduct (withholding evidence, institutional bias) by Mack and his allies, providing context for current allegations regarding BCSO, including the handling of the Peyton Little death (ruled suicide), the O.J. French shooting, the Robert Yates eviction death, the Jonathan Victor shooting, and the five-person I-10 pursuit death.
-      KEY ENTITIES: Hoss Mack, Anthony Lowery, Robert Wilters, David Whetstone, Peyton Little, O.J. French, Robert Yates, Jonathan Victor, Joseph L. Andrews, Kevin J. Andrews, Dominic Scotti Garcia Jr., BCSO, Governor's Appointment Office (Mr. Mason Bass), Bay Minette Police, Baldwin County Major Crimes Unit.
-    llm_text: Hoss Mack and David Whetstone withheld exculpatory evidence in the Murray Lawrence Jr. conviction, proving a historical pattern of misconduct. See how this 2004 cover-up connects to current BCSO allegations involving Peyton Little and Robert Yates.
-    widget_date: "2024-06-15"
-    generated_at: "2026-11-06T16:43:43.611617Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-by-the-po-po:
-    brief: |-
-      THE CONFLICT:
-      - Murray Lawrence Jr. was wrongfully convicted in a case involving zero evidence.
-      - Hoss Mack served as the lead investigator in the Lawrence case.
-      - Robert Wilters served as the presiding judge/DA in the Lawrence case.
-      - An internal scandal occurred involving a senior BCSO officer having an affair with a subordinate employee married to another officer; the incident was allegedly covered up by Sheriff Hoss Mack.
-
-      THE DISCOVERY:
-      - The BCSO has a documented history of cover-ups regarding both officer misconduct and wrongful convictions.
-      - There is a systemic lack of transparency, supervision, and accountability within the department under current leadership.
-
-      THE PIVOT:
-      - The historical pattern of cover-ups and judicial misconduct (specifically involving Mack and Wilters) provides the evidentiary basis for the current allegations against the BCSO.
-      - The previous involvement of Anthony Lowery as an investigator in a wrongful conviction case establishes a direct link between the department's history of misconduct and the current attempt to install him as Sheriff.
-      - The past "hanky panky" cover-up validates current claims that the department prioritizes protecting its own over public transparency and justice.
-
-      KEY ENTITIES:
-      - Hoss Mack (Sheriff / Lead Investigator)
-      - Anthony Lowery (Proposed Successor / Investigator)
-      - Robert Wilters (Judge / DA)
-      - Murray Lawrence Jr. (Wrongfully Convicted)
-      - David Whetstone (Prosecutor)
-      - Mason Bass (Governor’s Appointment Office)
-      - BCSO (Baldwin County Sheriff's Office)
-      - Peyton Little (Deceased/CI)
-      - O.J. French (Deceased)
-      - Robert Yates (Deceased)
-      - Jonathan Victor (Deceased)
-      - Joseph L. Andrews (Deceased)
-      - Kevin J. Andrews (Deceased)
-    llm_text: Sheriff Hoss Mack and Robert Wilters once orchestrated the baseless conviction of Murray Lawrence Jr. while burying scandalous department affairs. This history of corruption explains exactly why the BCSO is now fighting so hard to install investigator Anthony Lowery as their next Sheriff.
-    widget_date: "2024-05-31"
-    generated_at: "2026-11-06T16:43:38.353521Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  lee-county-no-justice-center:
-    brief: |-
-      THE CONFLICT: Cole Barkley incident occurred in Auburn/Lee County (July 25, 2021) resulting in attempted murder charge and 45-year sentence by Judge Tickle; Peyton Little was ruled a suicide by BCSO; O.J. French was shot by Bay Minette police and cleared by Major Crimes Unit; Robert Yates died after a SWAT eviction raid without probable cause; Jonathan Victor was shot 4 times; Five people died in a wrong-way BCSO pursuit on I-10; Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld exculpatory evidence leading to a 20-year wrongful conviction.
-      THE DISCOVERY: The Lee County Justice Center system fosters a "police fraternity" leading to excessive sentencing (e.g., 45 years for Cole Barkley) and systemic legal vulnerability, not isolated judicial error.
-      THE PIVOT: The 2021 Lee County case demonstrates that institutional corruption, police overreach, and flawed justice centers are established features of the local legal environment, providing historical context that the BCSO appointment process (Main Article) is vulnerable to perpetuating or masking similar systemic abuses, including wrongful convictions.
-      KEY ENTITIES: Hoss Mack, Anthony Lowery, Peyton Little, O.J. French, Robert Yates, Jonathan Victor, Mark Hunady, Joseph L. Andrews, Kevin J. Andrews, Cole Barkley, Nicole Barkley, Judge Tickle, David Whetstone, Robert Wilters, BCSO, Lee County Justice Center, Auburn PD.
-    llm_text: Judge Tickle sentenced Cole Barkley to 45 years, yet Sheriff Mack and Judge Wilters withheld evidence, causing a 20-year wrongful conviction. This Lee County "police fraternity" reveals systemic corruption, showing the BCSO appointment process is vulnerable to the same abuses.
-    widget_date: "2024-03-11"
-    generated_at: "2026-11-06T16:47:21.466542Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

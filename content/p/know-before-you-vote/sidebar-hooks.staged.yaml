@@ -5,50 +5,11 @@ metadata:
   main_date: "2025-08-05"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of the capital murder of Brandon Hastings in 2005 and served over 20 years in prison.
-      THE DISCOVERY: The four key figures who built the case (Wilters, Lowery, Mack, Whetstone) now hold influential positions (Baldwin County District Attorney, Baldwin County Sheriff) and have suppressed exculpatory evidence, including rejecting Rule 32 in 2023.
-      THE PIVOT: The current positions and actions of these powerful figures, as documented in the older article, demonstrate a systemic pattern of prosecutorial misconduct and ignored justice, providing context for the Main Article's claim that the Fairhope City Council is ignoring constituent concerns regarding local accountability and governance on August 26, 2025.
-      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone, Baldwin County District Attorney, Baldwin County Sheriff, Fairhope City Council, BCSO.
-    llm_text: Murray Lawrence Jr. served 20 years for a 2005 murder he didn't commit. Influential figures Wilters and Mack, now Baldwin County DA and Sheriff, suppressed his evidence, mirroring local accountability failures the Fairhope City Council ignores.
-    widget_date: "2025-07-30"
-    generated_at: "2026-11-06T13:45:50.161038Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  pretty-flowers-rotten-roots:
-    brief: |-
-      THE CONFLICT: In the past four election cycles, City Council members professed to run independent of one another. Previous Mayor Karen Wilson refused the second paycheck (Head of Utilities) and employed a utility engineer.
-      THE DISCOVERY: The current Fairhope City Council is united and supported by developers/special interests (Catalyst). They oppose public opinion for a district-based council and support an unopposed Mayor (Sherry Sullivan) who receives two paychecks (Mayor and Head of Utilities).
-      THE PIVOT: Article 2 provides the historical context and specific evidence (e.g., Mayor's dual paychecks, Jack Burrell's controversies) showing the established status quo and alleged corruption, which Article 1 uses to warn voters about ignoring public concerns during the August 26, 2025 municipal election.
-      KEY ENTITIES: Jack Burrell, Sherry Sullivan, Karen Wilson, Fairhope City Council, Catalyst, August 26, 2025.
-    llm_text: Fairhope City Council supports unopposed Mayor Sherry Sullivan, who collects two paychecks. Don't ignore public concerns before the August 26, 2025 election; discover how Catalyst interests shape this local power grab.
-    widget_date: "2025-07-18"
-    generated_at: "2026-11-06T13:48:08.989795Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT: Incumbents (Fairhope City Council and Mayor Sullivan) faced challenges during the municipal election cycle scheduled for August 26.
-      THE DISCOVERY: Widget Article (older context) revealed that challengers were adopting a coordinated slate strategy, aiming to replace the entire council and Mayor to dismantle the established "good ole boy culture."
-      THE PIVOT: Widget Article provides the necessary background context regarding the organized challenge (slate strategy) that precedes Main Article's claim that the Council ignored constituent concerns ahead of the August 26, 2025 vote.
-      KEY ENTITIES: Fairhope City Council, Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, August 26, 2025
-    llm_text: Challengers like Troy Vickers and Joshua Gammon are mounting a coordinated slate attack against Fairhope City Council and Mayor Sullivan. Read how this organized effort aims to dismantle "good ole boy culture" ahead of the August 26, 2025 vote, despite the Council ignoring constituent concerns.
-    widget_date: "2025-07-03"
-    generated_at: "2026-11-06T13:49:13.368838Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  baldwin-county-dhr-lawsuit:
-    brief: |-
-      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months in the mother's custody despite clear signs of abuse, law enforcement involvement, and a court-appointed guardian in Baldwin County.
-      THE DISCOVERY: Baldwin County Family Court, DHR, and GAL systems exhibit deep, systemic failures, leading to a forming federal class action lawsuit against DHR by a Spanish Fort law firm.
-      THE PIVOT: Article 2 establishes documented, systemic corruption and failure within local county agencies (DHR/Family Court), providing critical context for Article 1's claim that local governance (Fairhope City Council) is ignoring serious public concerns regarding child protection failures.
-      KEY ENTITIES: Fairhope City Council, Baldwin County, DHR, GAL, Baldwin County Family Court, August 26, 2025.
-    llm_text: Baldwin County systems failed 13-year-old and 11-year-old children, leaving them unprotected for over five months despite law enforcement involvement. A new federal class action lawsuit targets DHR, exposing systemic corruption in Baldwin County Family Court.
-    widget_date: "2025-04-03"
-    generated_at: "2026-11-06T13:50:11.254220Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   go-to-hell-veterans:
+    refined_source: 2300d7ee8119d4f47cdffb8e4962303497c06519598cff071ba62338aed7b22c
     brief: |-
       THE CONFLICT:
-      *   $7 million from the American Rescue Plan Act intended for the ADVA was allegedly diverted by Department of Mental Health Director Kimberly Boswell in collusion with state officials.
+      *   $7 million from the American Rescue Plan Act intended for the ADVA was diverted by Department of Mental Health Director Kimberly Boswell in collusion with state officials.
       *   ADVA Commissioner Kent Davis filed an ethics complaint against Boswell.
       *   In 2020, Ed Oliver (R-Dadeville) had a showdown with Kent Davis over COVID-era protocol at the Bill Nichols State Veterans Home in Alexander City.
       *   The House passed legislation to cut veteran support by a vote of 56 to 39 (Thursday afternoon, date unspecified in Widget Article).
@@ -71,11 +32,13 @@ hooks:
       *   Chip Brown
       *   $7 million
       *   Bill Nichols State Veterans Home (Alexander City)
-    llm_text: Kimberly Boswell allegedly diverted $7 million of ARPA funds, leading ADVA Commissioner Kent Davis to file an ethics complaint. Does the Fairhope City Council ignore constituents now that the legislature cut veteran support, risking the August 26, 2025 vote?
+    llm_text: Kimberly Boswell diverted $7 million of ARPA funds, leading ADVA Commissioner Kent Davis to file an ethics complaint. Does the Fairhope City Council ignore constituents now that the legislature cut veteran support, risking the August 26, 2025 vote?
+    text: Kimberly Boswell diverted $7 million of ARPA funds, leading ADVA Commissioner Kent Davis to file an ethics complaint. Does Fairhope ignore constituents as veteran support drops?
     widget_date: "2025-03-14"
     generated_at: "2026-11-06T13:47:07.915615Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: c082ac403894d65230052a08c546a757793ce506b5dc55a494956eb2791b58eb
     brief: |-
       THE CONFLICT:
       *   Killing of O.J. French (Bay Minette) during a traffic stop.
@@ -106,10 +69,12 @@ hooks:
       *   Baldwin County Major Crimes Unit
       *   August 26, 2025 (Voting Date)
     llm_text: Baldwin County Major Crimes Unit justified the killing of O.J. French, while Robert Wilters colluded in Murray Lawrence's wrongful conviction. See how this systemic misconduct proves why the Fairhope City Council needs local accountability now.
+    text: Baldwin County Major Crimes Unit justified the killing of O.J. French, while Robert Wilters colluded in Murray Lawrence's wrongful conviction. Do these failures demand local accountability?
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T13:51:01.576992Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   red-lips-award:
+    refined_source: 4b0928cfcbc469785a9ef6abd9300481f227a2737bea9c66c39a693418aee465
     brief: |-
       THE CONFLICT:
       *   ADVA Commissioner Admiral Kent Davis filed an ethics complaint against Kimberly Boswell (Department of Mental Health Director) claiming collusion to prevent ADVA from obtaining $7 million in American Rescue Plan Act funds.
@@ -141,10 +106,12 @@ hooks:
       *   Regions bank
       *   Cliff McCollum (Director, A.L.I.S.O.N)
     llm_text: Admiral Kent Davis filed an ethics complaint against Kimberly Boswell over preventing ADVA from receiving $7 million. This high-level corruption—including Tom Albritton's misused trust—contextualizes issues facing the Fairhope City Council on August 26, 2025.
+    text: Admiral Kent Davis filed an ethics complaint against Kimberly Boswell over preventing ADVA from receiving $7 million. Does Tom Albritton's misused trust contextualize Fairhope issues?
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T13:52:29.466029Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fairhopes-golden-key:
+    refined_source: 4b64a16d57c9f42afe5704814870a610c8cf798b01d198b9970e3793e6ced95a
     brief: |-
       THE CONFLICT:
       1. 16 years of blatant corruption existed in Fairhope prior to 2016.
@@ -176,6 +143,55 @@ hooks:
       12. Howell Gibbons
       13. Catalyst/Scott Boone Consulting
     llm_text: Fairhope endured 16 years of corruption involving Mayor Wilson and council members like Burrell and Boone. The same council now ignores citizens while the Catalyst/Scott Boone Consulting cabal pushes Sherry Sullivan; vote August 26, 2025, to end it.
+    text: Fairhope endured 16 years of corruption involving Mayor Wilson and council members like Burrell and Boone. Will citizens vote on August 26 to end this council?
     widget_date: "2020-08-24"
     generated_at: "2026-11-06T13:53:37.704540Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    refined_source: abbedc52172dafd5083fbd18bed171eb386752122e7ced08de79678d66c8976c
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of the capital murder of Brandon Hastings in 2005 and served over 20 years in prison.
+      THE DISCOVERY: The four key figures who built the case (Wilters, Lowery, Mack, Whetstone) now hold influential positions (Baldwin County District Attorney, Baldwin County Sheriff) and have suppressed exculpatory evidence, including rejecting Rule 32 in 2023.
+      THE PIVOT: The current positions and actions of these powerful figures, as documented in the older article, demonstrate a systemic pattern of prosecutorial misconduct and ignored justice, providing context for the Main Article's claim that the Fairhope City Council is ignoring constituent concerns regarding local accountability and governance on August 26, 2025.
+      KEY ENTITIES: Murray Lawrence Jr., Brandon Hastings, Robert Wilters, Anthony Lowery, Huey Mack, David Whetstone, Baldwin County District Attorney, Baldwin County Sheriff, Fairhope City Council, BCSO.
+    llm_text: Murray Lawrence Jr. served 20 years for a 2005 murder he didn't commit. Influential figures Wilters and Mack, now Baldwin County DA and Sheriff, suppressed his evidence, mirroring local accountability failures the Fairhope City Council ignores.
+    text: Murray Lawrence Jr. served 20 years for a 2005 murder he did not commit. Did influential figures Wilters and Mack suppress his evidence in Baldwin County?
+    widget_date: "2025-07-30"
+    generated_at: "2026-11-06T13:45:50.161038Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pretty-flowers-rotten-roots:
+    refined_source: 674ba0f648c183af9a9fe1940ab5fbeb643d25d88eecdc58bf228d798ce36518
+    brief: |-
+      THE CONFLICT: In the past four election cycles, City Council members professed to run independent of one another. Previous Mayor Karen Wilson refused the second paycheck (Head of Utilities) and employed a utility engineer.
+      THE DISCOVERY: The current Fairhope City Council is united and supported by developers/special interests (Catalyst). They oppose public opinion for a district-based council and support an unopposed Mayor (Sherry Sullivan) who receives two paychecks (Mayor and Head of Utilities).
+      THE PIVOT: Article 2 provides the historical context and specific evidence (e.g., Mayor's dual paychecks, Jack Burrell's controversies) showing the established status quo and alleged corruption, which Article 1 uses to warn voters about ignoring public concerns during the August 26, 2025 municipal election.
+      KEY ENTITIES: Jack Burrell, Sherry Sullivan, Karen Wilson, Fairhope City Council, Catalyst, August 26, 2025.
+    llm_text: Fairhope City Council supports unopposed Mayor Sherry Sullivan, who collects two paychecks. Don't ignore public concerns before the August 26, 2025 election; Read how Catalyst interests shape this local power grab.
+    text: Fairhope City Council supports unopposed Mayor Sherry Sullivan, who collects two paychecks. Do Catalyst interests shape this local power grab before the August 26 election?
+    widget_date: "2025-07-18"
+    generated_at: "2026-11-06T13:48:08.989795Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-or-fairhope:
+    refined_source: 3c1b23fe44d84676e67aceb894b10b9f04bad20e50e4554d7e6a1399bc9d131e
+    brief: |-
+      THE CONFLICT: Incumbents (Fairhope City Council and Mayor Sullivan) faced challenges during the municipal election cycle scheduled for August 26.
+      THE DISCOVERY: Widget Article (older context) revealed that challengers were adopting a coordinated slate strategy, aiming to replace the entire council and Mayor to dismantle the established "good ole boy culture."
+      THE PIVOT: Widget Article provides the necessary background context regarding the organized challenge (slate strategy) that precedes Main Article's claim that the Council ignored constituent concerns ahead of the August 26, 2025 vote.
+      KEY ENTITIES: Fairhope City Council, Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, August 26, 2025
+    llm_text: Challengers like Troy Vickers and Joshua Gammon are mounting a coordinated slate attack against Fairhope City Council and Mayor Sullivan. Read how this organized effort aims to dismantle "good ole boy culture" ahead of the August 26, 2025 vote, despite the Council ignoring constituent concerns.
+    text: Challengers Troy Vickers and Joshua Gammon mount a coordinated attack against Fairhope City Council and Mayor Sullivan. Can this organized effort dismantle the old boy culture?
+    widget_date: "2025-07-03"
+    generated_at: "2026-11-06T13:49:13.368838Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-dhr-lawsuit:
+    refined_source: 57881fbf0c1cc578e808c3911c84e63113b361da98ac9c8d2fb3e2dd7b9d2644
+    brief: |-
+      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months in the mother's custody despite clear signs of abuse, law enforcement involvement, and a court-appointed guardian in Baldwin County.
+      THE DISCOVERY: Baldwin County Family Court, DHR, and GAL systems exhibit deep, systemic failures, leading to a forming federal class action lawsuit against DHR by a Spanish Fort law firm.
+      THE PIVOT: Article 2 establishes documented, systemic corruption and failure within local county agencies (DHR/Family Court), providing critical context for Article 1's claim that local governance (Fairhope City Council) is ignoring serious public concerns regarding child protection failures.
+      KEY ENTITIES: Fairhope City Council, Baldwin County, DHR, GAL, Baldwin County Family Court, August 26, 2025.
+    llm_text: Baldwin County systems failed 13-year-old and 11-year-old children, leaving them unprotected for over five months despite law enforcement involvement. A new federal class action lawsuit targets DHR, exposing systemic corruption in Baldwin County Family Court.
+    text: Baldwin County systems left two children unprotected for over five months despite law enforcement involvement. A new federal class action lawsuit targets DHR and Family Court.
+    widget_date: "2025-04-03"
+    generated_at: "2026-11-06T13:50:11.254220Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

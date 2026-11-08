@@ -5,27 +5,20 @@ metadata:
   main_date: "2026-07-28"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  they-dont-want-you-to-see-this:
-    brief: |-
-      THE CONFLICT: Political call to vote Jerry Carl OUT regarding the toll bridge; push to vote Austin Sidwell for Congress, around May 19.
-      THE DISCOVERY: Votes without a war chest are powerful and disruptive, capable of breaking the system.
-      THE PIVOT: Article 2 (political campaign) provides no factual context or 'smoking gun' for Article 1 (Orange Beach land deal ecosystem investigation). The two articles address separate political/development spheres.
-      KEY ENTITIES: Jerry Carl, Austin Sidwell, City of Orange Beach, John McInnis, Cameron Price, Tony Kennon, Greg Kennedy, Donna Davis, Bayshore Towers, CoastAL.
-    llm_text: Vote Jerry Carl out and push Austin Sidwell for Congress on May 19. Your vote—without a war chest—holds disruptive power capable of breaking the system in Orange Beach.
-    widget_date: "2026-07-21"
-    generated_at: "2026-11-06T05:36:58.938763Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope-know-the-backstory-2:
+    refined_source: 1c80e7be72bdf9e585af0f1515c5cbc0a1c05672a76da2b80f8e4ef9293828b8
     brief: |-
       THE CONFLICT: Former Mayor Tim Kant first proposed re-establishing creek biological and hydraulic connectivity in 2014; a culvert failure occurred in 2023 related to the Publix project on Parker Road.
       THE DISCOVERY: Development (Publix project and subsequent apartment construction/expansion) caused Fly Creek issues, including high bacteria counts (>104 MPN/100ml) at Highway 98 and Scenic 98; the Fairhope City Council ignored public outcry and aided the developer, Angelo Corte.
       THE PIVOT: The historical failure to address Fly Creek and public health issues demonstrates a pattern of public money/land (e.g., $20M BUILD grant attempt, 800 feet of beachfront division) benefiting private interests (e.g., Orange Beach Land Company, CoastAL) while ignoring public obligation, as detailed in the broader ecosystem analysis.
       KEY ENTITIES: Tim Kant, Angelo Corte, Mayor Wilson, Mayor Sullivan, Tony Kennon, John McInnis, Cameron Price, Jack Robertson, Brett/Robinson, Greg Kennedy, Eli Kennedy, Donna Davis, Jay McKinney, Wendy Pickering, City of Orange Beach, Orange Beach Land Company, CoastAL, Publix, Fly Creek.
     llm_text: Former Mayor Tim Kant flagged Fly Creek connectivity issues in 2014; now, Publix and subsequent development caused high bacteria counts at Highway 98. The City Council ignored public outcry and aided developer Angelo Corte, proving private profit trumps public health in Orange Beach.
+    text: Former Mayor Tim Kant flagged Fly Creek issues in 2014 before development caused high bacteria counts at Highway 98. The City Council ignored public outcry and aided developer Angelo Corte.
     widget_date: "2026-07-21"
     generated_at: "2026-11-06T05:38:16.018680Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   fauxhope:
+    refined_source: 4aec448364a6a65fef89aca30d0ae07ad14437c9c447e3881320a6b691f71f72
     brief: |-
       THE CONFLICT:
       *   In Fairhope, AL, the city faced significant issues regarding the $6.2 million waterfront grant, including nearly a year of attempts to bypass ADA compliance.
@@ -57,6 +50,19 @@ hooks:
       *   Fob James
       *   Anna Davis / Ginger Harrelson
     llm_text: Fairhope's $6.2M grant saga and Council President Jack Burrell's developer favoritism expose systemic municipal failure. Are private interests like John McInnis and Cameron Price influencing land deals in Orange Beach, too?
+    text: Fairhope's grant saga and Jack Burrell's developer favoritism expose systemic municipal failure. Private interests like John McInnis and Cameron Price now influence land deals in Orange Beach too.
     widget_date: "2021-09-24"
     generated_at: "2026-11-06T05:39:39.421716Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  they-dont-want-you-to-see-this:
+    refined_source: 1e70151c95d4891f3609f9ae3b7106f4d813cb7483e12e43e7b75e463f16f1c1
+    brief: |-
+      THE CONFLICT: Political call to vote Jerry Carl OUT regarding the toll bridge; push to vote Austin Sidwell for Congress, around May 19.
+      THE DISCOVERY: Votes without a war chest are powerful and disruptive, capable of breaking the system.
+      THE PIVOT: Article 2 (political campaign) provides no factual context or 'smoking gun' for Article 1 (Orange Beach land deal ecosystem investigation). The two articles address separate political/development spheres.
+      KEY ENTITIES: Jerry Carl, Austin Sidwell, City of Orange Beach, John McInnis, Cameron Price, Tony Kennon, Greg Kennedy, Donna Davis, Bayshore Towers, CoastAL.
+    llm_text: Vote Jerry Carl out and push Austin Sidwell for Congress on May 19. Your vote—without a war chest—holds disruptive power capable of breaking the system in Orange Beach.
+    text: Vote Jerry Carl out and support Austin Sidwell for Congress on May 19. Your vote holds disruptive power capable of breaking the established system in Orange Beach.
+    widget_date: "2026-07-21"
+    generated_at: "2026-11-06T05:36:58.938763Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

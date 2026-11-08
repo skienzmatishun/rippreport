@@ -5,82 +5,50 @@ metadata:
   main_date: "2024-09-20"
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
-  the-crime-of-the-century:
+  hanky-panky-at-the-po-po:
     brief: |-
-      THE CONFLICT:
-      - Former Real Admiral and JAG Officer Kent Davis (referred to as Kent David in Article 1) served as the Alabama Veterans Affairs Commissioner.
-      - Davis was ousted from his position following a whistleblower Ethics Complaint.
+      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023, Commander of the Major Crimes Unit, and CID supervisor, was accused of having an affair with a subordinate. Despite internal accusations, anonymous sources alleged a cover-up within the "Sheriff's Circle of Protection." The Baldwin County Sheriff's Department claimed an investigation found no evidence of an affair, though policy violations occurred. Reid never lost pay and was subsequently promoted to Captain in charge of the Baldwin County Correction Center, overseeing several hundred women. Additionally, an ongoing Federal Investigation was launched regarding missing evidence held by Baldwin County Sheriff's Deputies working as Federal Agents under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
 
-      THE DISCOVERY:
-      - Governor Kay Ivey is responsible for the firing of Admiral Kent Davis.
-      - Governor Ivey is actively attempting to seize control of the veterans’ board.
-      - The removal of Davis has resulted in the current state of "chaos" within Alabama veterans' programs.
-      - This political maneuver is alienating Republican-leaning veteran constituents.
+      THE DISCOVERY: Article 2 (dated June 20, 2024) exposed internal corruption, sexual misconduct allegations, and institutional cover-ups within the Baldwin County Sheriff's Department, specifically highlighting a lack of accountability for high-ranking officials like Captain Andre Reid and systemic failures in handling internal discipline and missing federal task force evidence.
 
-      THE PIVOT:
-      - Article 2 provides the political motive behind the "Ethics Complaint" mentioned in Article 1; it shifts the narrative from a singular whistleblower event to a targeted power grab by Governor Kay Ivey to control the state's veterans' administration.
+      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it establishes a pre-existing pattern of systemic corruption, lack of accountability, and internal cover-ups within the Baldwin County Sheriff’s Department (featuring the newly appointed Command Staff mentioned in Article 1). It provides the foundational background of impunity—such as Reid's retention and promotion despite misconduct and ongoing federal investigations—proving that the department's leadership structure has a documented history of shielding insiders from consequences.
 
       KEY ENTITIES:
-      - Kent Davis (also cited as Kent David)
-      - Kay Ivey (Governor of Alabama)
-      - Alabama Veterans Affairs Commissioner
-      - Alabama Veterans' Board
-      - Alabama Department of Veterans Affairs
-    llm_text: Governor Kay Ivey didn't fire Admiral Kent Davis over an ethics complaint. She orchestrated a calculated power grab to seize control of the Alabama Veterans Affairs Board, a move that plunges veteran programs into chaos and risks alienating the state's most loyal Republican voters.
-    widget_date: "2025-02-01"
-    generated_at: "2026-11-06T16:12:32.303034Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  scalped:
-    brief: |-
-      THE CONFLICT: Renaissance School in Baldwin County (special needs kids) was robbed in an inside job; Baldwin County Sheriff Department acquired a new Command Staff; Kent David (Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner) is leaving due to a whistleblower Ethics Complaint.
-      THE DISCOVERY: Corruption involves companies with political ties scoring million-dollar contracts; courts handled a scandal where public scholarships went to insiders; law enforcement is investigating its own mishaps with no accountability.
-      THE PIVOT: Article 2 confirms that the localized issues (e.g., school robbery, internal law enforcement shifts) are symptomatic of a wider, systemic corruption involving political influence, misuse of public funds (scholarships/contracts), and failure of local accountability.
-      KEY ENTITIES: Baldwin County; Renaissance School; Kent David; David R. Jones (Texas Federal Bankruptcy Judge); Alabama Department of Transportation
-    llm_text: The Renaissance School robbery and Kent David's ethics complaint signal more than just local trouble. Systemic corruption involving political ties and misused public funds shows Baldwin County's accountability has completely failed.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T16:12:49.415945Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  backstory-podcast-no-188-assassins-drones-and-political-corruption:
-    brief: |-
-      THE CONFLICT:
-      *   "Haitian Immigrant Eating Cats" debate cited in Sylacauga Alabama (1819 News).
-      *   Kent David (Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner) resigned due to a whistleblower Ethics Complaint.
-
-      THE DISCOVERY:
-      *   The Mack vs Hadley case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
-      *   The Alabama Court of Civil Appeals released a decision on the Rule 32 Petition for Murray Lawrence Jr. today (date unspecified) concerning two undisclosed autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County in 2005 (a Brady Violation).
-      *   The Dothan Summer Feeding Scandal highlights allegations of corruption in Alabama's legal/political systems.
-
-      THE PIVOT:
-      *   Article 2 provides specific legal and criminal details (Mack vs Hadley theft, Brady Violation, Dothan Scandal) regarding the Baldwin County Sheriff Department and Alabama judicial corruption, offering concrete evidence related to the general internal/staffing issues mentioned in Article 1.
-
-      KEY ENTITIES:
-      *   Sylacauga Alabama
-      *   Kent David
-      *   Baldwin County Sheriff Department
-      *   Mack vs Hadley
-      *   Murray Lawrence Jr.
-      *   Alabama Court of Civil Appeals
-      *   Mark Fuller (corrupt Alabama Federal Judge from Mobile, Alabama)
-    llm_text: The Baldwin County Sheriff Department stole a 1968 Camaro in the Mack vs Hadley case. The Alabama Court of Civil Appeals now revealed undisclosed autopsies and a Brady Violation involving Murray Lawrence Jr.
-    widget_date: "2024-12-13"
-    generated_at: "2026-11-06T16:14:00.874111Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      - Captain Andre Reid
+      - Baldwin County Sheriff's Department
+      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
+      - Baldwin County Correction Center
+      - The Ripp Report
+    llm_text: Captain Andre Reid kept his job and got a promotion despite internal misconduct allegations. Why did the Baldwin County Sheriff's Department shield him and cover up missing federal evidence? Read The Ripp Report to uncover the systemic corruption protecting high-ranking insiders today.
+    text: Captain Andre Reid kept his job and got a promotion despite internal misconduct allegations. Why did the Baldwin County Sheriff's Department shield him and cover up missing federal evidence? Read The Ripp Report to uncover the systemic corruption protecting high-ranking insiders today.
+    widget_date: "2024-06-20"
+    generated_at: "2026-11-06T16:12:43.569999Z"
+    model_name: gemini-3.5-flash-lite
+  the-180:
+    brief: "THE CONFLICT: In the past (referenced in the older Article 2), Sheriff Mack's term in Baldwin County, Alabama was expiring with one week left in office, leaving the Governor to select his replacement amidst local apprehension (\"Pray for change but expect the worst\"). Simultaneously, Vice President Kamala Harris transitioned from the \"scourge of the democratic party to their darling savior\" following the Democratic National Convention, while RFK Jr. removed his name from battleground ballots to align with Candidate Trump.\n\nTHE DISCOVERY: Article 2 (the older background piece) documented the political and local leadership transition points in Baldwin County—specifically the final week of Sheriff Mack's tenure and the gubernatorial appointment process—alongside the shifting national narrative surrounding Kamala Harris post-DNC and RFK Jr.’s endorsement of Trump.\n\nTHE PIVOT: Article 2 serves as the foundational context because it establishes the local leadership vacuum in Baldwin County (Sheriff Mack's departure) and the volatile political alignments (RFK Jr. backing Trump, Harris's rebranding) that directly feed into the broader media narratives, immigration debates, and institutional corruption examined in the current reporting of Article 1.\n\nKEY ENTITIES: \n- Sheriff Mack\n- Kamala Harris\n- Candidate Donald Trump\n- RFK Jr.\n- Kent David (Former Real Admiral and JAG Officer / Alabama Veterans Affairs Commissioner)\n- Brandon Moseley\n- David R. Jones (Texas Federal Bankruptcy Judge)\n- P Diddy\n- Taylor Swift\n- Tulsi Gabbard\n- Russell Brand"
+    llm_text: Sheriff Mack's final week in Baldwin County and RFK Jr.'s sudden alliance with Donald Trump exposed massive political shifts. Revisit that crucial context to understand the institutional corruption driving our latest reporting.
+    text: Sheriff Mack's final week in Baldwin County and RFK Jr.'s sudden alliance with Donald Trump exposed massive political shifts. Revisit that crucial context to understand the institutional corruption driving our latest reporting.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T16:12:32.093337Z"
+    model_name: gemini-3.5-flash-lite
   backstory-podcast-no-187-the-pardon:
     brief: "THE CONFLICT: \n- 1819 News pushed narratives regarding Haitian immigrants eating pets in Sylacauga, Alabama, aligning with party lines.\n- Former Rear Admiral and JAG Officer Kent David was ousted as Alabama Veterans Affairs Commissioner following a whistleblower ethics complaint.\n- A harassment case involving the Director of the Alabama Department of Transportation was dismissed.\n- The Renaissance School in Baldwin County faced an inside-job robbery threatening closure.\n- Texas Federal Bankruptcy Judge David R. Jones received a corrupt judge award.\n- P Diddy was denied bail in sex crimes cases.\n- Mention of a \"Rescue the Republic\" rally scheduled for September 29, 2024, featuring RFK Jr., Tulsi Gabbard, and Russell Brand.\n\nTHE DISCOVERY: \n- Article 2 (NEWER UPDATE) reveals via podcast coverage a broader, damning report on the US government's COVID-19 response.\n- President Joe Biden issued a pardon for his son, Hunter Biden.\n- Ongoing controversies involving political appointments, the murder of a healthcare CEO, and the arrests of individuals critical of local government.\n- New arrests and wrongful arrests of individuals who exposed corruption in their local school district, implicating First Amendment violations.\n\nTHE PIVOT: \n- Article 2 acts as the smoking gun by expanding the scope from local Alabama politics, media narratives, and institutional corruption (such as the ousting of Kent David and media framing by 1819 News) into federal-level abuses of power, specifically highlighting executive pardons (Hunter Biden), high-level government cover-ups (COVID-19 response), and systemic suppression of whistleblowers and local government critics.\n\nKEY ENTITIES: \n- Kent David\n- David R. Jones\n- Hunter Biden\n- Joe Biden\n- P. Diddy\n- RFK Jr.\n- Tulsi Gabbard\n- Russell Brand\n- Brandon Moseley\n- Taylor Swift\n- 1819 News\n- Renaissance School\n- Alabama Department of Transportation\n- BamaCarry Inc of Tuscaloosa"
-    llm_text: From Kent David’s ousting to Joe Biden’s pardon of Hunter, political corruption runs deep. Discover how local Alabama scandals connect to massive federal cover-ups.
+    llm_text: From Kent David’s ousting to Joe Biden’s pardon of Hunter, political corruption runs deep. Read how local Alabama scandals connect to massive federal cover-ups.
+    text: From Kent David’s ousting to Joe Biden’s pardon of Hunter, political corruption runs deep. Read how local Alabama scandals connect to massive federal cover-ups.
     widget_date: "2024-12-07"
     generated_at: "2026-11-06T16:12:07.720777Z"
     model_name: gemini-3.5-flash-lite
   backstory-podcast-no-186-change-is-coming-alabama:
-    brief: "THE CONFLICT: \n- 1819 News pushed the irresponsible and shallow \"Haitian Immigrant Eating Cats\" debate in Sylacauga, Alabama, turning an immigrant strain on local services into a profit-motive activity.\n- The State of Alabama ousted Former Real Admiral and JAG Officer Kent Davis, the best and most qualified public servant serving as Alabama Veterans Affairs Commissioner, following a whistleblower ethics complaint.\n- Other past local and national events occurred around September 2024: a preacher's scandal, an assassination attempt on Donald Trump by an Oswaldian figure from North Carolina linked to Ukraine, an inside-job robbery shuttering the Renaissance School for special needs kids in Baldwin County, the dismissal of the harassment case against the Director of the Alabama Department of Transportation, Brandon Moseley speaking to BamaCarry Inc regarding five 2025 firearms bills, Texas Federal Bankruptcy Judge David R. Jones winning a \"Most Corrupt Judge Award,\" P. Diddy being denied bail in sex crimes cases, a half-point Federal interest rate drop, and the \"Rescue the Republic\" rally in Washington D.C. on September 29, 2024 (featuring RFK Jr., Tulsi Gabbard, and Russell Brand).\n\nTHE DISCOVERY: \n- Backstory Podcast No. 186 (newer update) proves that the political and media landscape has shifted past the immediate 2024 election cycle and local Alabama disputes to the post-election fallout.\n- It covers the 2024 US Presidential election results, the formation of Trump Cabinet 2.0, government spending on misinformation, ongoing impacts of the war in Ukraine, rural hospital closures in Alabama, hunting season changes, antitrust lawsuits against Google, and proposed constitutional amendments in Alabama, featuring analysis from a Veterans/Consumer Advocate, a journalist, and an attorney.\n\nTHE PIVOT: \n- Article 2 (Backstory Podcast No. 186) serves as the smoking gun because it tracks the direct evolution of the political operatives, narratives, and power shifts discussed in Article 1. While Article 1 captures the raw, chaotic ground-level reporting of Alabama culture wars, whistleblower ousters (Kent Davis), and media profiteering (1819 News), Article 2 demonstrates how those exact local media narratives and political alignments successfully culminated in the Trump Cabinet 2.0 and post-election policy agendas.\n\nKEY ENTITIES:\n- Kent David (Former Real Admiral, JAG Officer, and Alabama Veterans Affairs Commissioner)\n- 1819 News\n- Donald Trump\n- Taylor Swift\n- Brandon Moseley\n- BamaCarry Inc (Tuscaloosa)\n- David R. Jones (Texas Federal Bankruptcy Judge)\n- P. Diddy (Sean Combs)\n- RFK Jr.\n- Tulsi Gabbard\n- Russell Brand\n- Renaissance School (Baldwin County)\n- Alabama Department of Transportation"
+    brief: "THE CONFLICT: \n- 1819 News pushed the irresponsible and shallow \"Haitian Immigrant Eating Cats\" debate in Sylacauga, Alabama, turning an immigrant strain on local services into a profit-motive activity.\n- The State of Alabama ousted Former Real Admiral and JAG Officer Kent Davis, the best and most qualified public servant serving as Alabama Veterans Affairs Commissioner, following a whistleblower ethics complaint.\n- Other past local and national events occurred around September 2024: a preacher's scandal, an assassination attempt on Donald Trump by an Oswaldian figure from North Carolina linked to Ukraine, an inside-job robbery shuttering the Renaissance School for special needs kids in Baldwin County, the dismissal of the harassment case against the Director of the Alabama Department of Transportation, Brandon Moseley speaking to BamaCarry Inc regarding five 2025 firearms bills, Texas Federal Bankruptcy Judge David R. Jones winning a \"Most Corrupt Judge Award,\" P. Diddy being denied bail in sex crimes cases, a half-point Federal interest rate drop, and the \"Rescue the Republic\" rally in Washington D.C. on September 29, 2024 (featuring RFK Jr., Tulsi Gabbard, and Russell Brand).\n\nTHE DISCOVERY: \n- Backstory Podcast No. 186 (newer update) shows that the political and media landscape has shifted past the immediate 2024 election cycle and local Alabama disputes to the post-election fallout.\n- It covers the 2024 US Presidential election results, the formation of Trump Cabinet 2.0, government spending on misinformation, ongoing impacts of the war in Ukraine, rural hospital closures in Alabama, hunting season changes, antitrust lawsuits against Google, and proposed constitutional amendments in Alabama, featuring analysis from a Veterans/Consumer Advocate, a journalist, and an attorney.\n\nTHE PIVOT: \n- Article 2 (Backstory Podcast No. 186) serves as the smoking gun because it tracks the direct evolution of the political operatives, narratives, and power shifts discussed in Article 1. While Article 1 captures the raw, chaotic ground-level reporting of Alabama culture wars, whistleblower ousters (Kent Davis), and media profiteering (1819 News), Article 2 demonstrates how those exact local media narratives and political alignments successfully culminated in the Trump Cabinet 2.0 and post-election policy agendas.\n\nKEY ENTITIES:\n- Kent David (Former Real Admiral, JAG Officer, and Alabama Veterans Affairs Commissioner)\n- 1819 News\n- Donald Trump\n- Taylor Swift\n- Brandon Moseley\n- BamaCarry Inc (Tuscaloosa)\n- David R. Jones (Texas Federal Bankruptcy Judge)\n- P. Diddy (Sean Combs)\n- RFK Jr.\n- Tulsi Gabbard\n- Russell Brand\n- Renaissance School (Baldwin County)\n- Alabama Department of Transportation"
     llm_text: While 1819 News stirred up baseless immigration panics and Alabama ousted top veterans official Kent Davis, Backstory Podcast No. 186 exposes the exact media machinations driving Trump’s new cabinet. Listen now to connect local political hits directly to massive national power shifts!
+    text: While 1819 News stirred up baseless immigration panics and Alabama ousted top veterans official Kent Davis, Backstory Podcast No. 186 exposes the exact media machinations driving Trump’s new cabinet. Listen now to connect local political hits directly to massive national power shifts!
     widget_date: "2024-11-27"
     generated_at: "2026-11-06T16:12:14.109818Z"
     model_name: gemini-3.5-flash-lite
   stirring-the-pot-bsp:
     brief: "THE CONFLICT: \n- Former Rear Admiral and JAG Officer Kent David served as the Alabama Veterans Affairs Commissioner, but was pushed out following a whistleblower ethics complaint.\n- Governor Kay Ivey demanded the immediate resignation of Kent David.\n- The family of OJ French Jr. filed a lawsuit against the City of Bay Minette, Alabama, after French was killed by Bay Minette Police Department (BMPD) Officer Brandon Thompson. Mobile attorney Andy Ruten represented the city, attempting to have the judge review bodycam footage privately while keeping it hidden from the public.\n\nTHE DISCOVERY: \n- Newer reporting reveals a tangled web of local political and legal corruption involving Andy Ruten's firm, which subsequently hired Bay Minette Mayor Bob Wills to represent them in a separate malpractice lawsuit. \n- In local policy and development, Fairhope, Alabama is expanding its $9.5M pier remodel, and Baldwin County approved thousands of new residential lots despite severe public outcry. \n\nTHE PIVOT: \n- Article 2 acts as the smoking gun by exposing the direct political and municipal corruption underpinning the governance issues mentioned in Article 1. While Article 1 outlines the ousting of top public servants like Kent David due to whistleblower complaints, Article 2 unmasks the local quid pro quo—such as Mobile attorney Andy Ruten suppressing bodycam footage for the City of Bay Minette while simultaneously hiring Bay Minette Mayor Bob Wills for a malpractice suit—proving that institutional self-protection and backroom deals are standard operating procedure across Alabama local governments.\n\nKEY ENTITIES:\n- Kent David\n- Kay Ivey\n- OJ French Jr.\n- Brandon Thompson\n- Andy Ruten\n- Bob Wills\n- David R. Jones\n- Brandon Moseley\n- RFK Jr.\n- Tulsi Gabbard\n- Russell Brand\n- P Diddy"
     llm_text: When Governor Kay Ivey forced Alabama Veterans Affairs Commissioner Kent David out over ethics complaints, it proved our leaders protect themselves first. Attorney Andy Ruten's shady cover-up of police bodycam footage alongside Mayor Bob Wills shows exactly why you must read this corruption expose now.
+    text: When Governor Kay Ivey forced Alabama Veterans Affairs Commissioner Kent David out over ethics complaints, it proved our leaders protect themselves first. Attorney Andy Ruten's shady cover-up of police bodycam footage alongside Mayor Bob Wills shows exactly why you must read this corruption expose now.
     widget_date: "2024-10-18"
     generated_at: "2026-11-06T16:12:20.520133Z"
     model_name: gemini-3.5-flash-lite
@@ -103,15 +71,65 @@ hooks:
       - Fairhope, Alabama
       - Baldwin County
     llm_text: A cash reward now targets the unsolved 2022 death of Danny Williams Jr. in Orange Beach, exposing local police failures. Dive into this dark coastal mystery to see how institutional rot protects the powerful while ordinary families demand justice.
+    text: A cash reward now targets the unsolved 2022 death of Danny Williams Jr. in Orange Beach, exposing local police failures. Dive into this dark coastal mystery to see how institutional rot protects the powerful while ordinary families demand justice.
     widget_date: "2024-10-04"
     generated_at: "2026-11-06T16:12:25.240185Z"
     model_name: gemini-3.5-flash-lite
-  the-180:
-    brief: "THE CONFLICT: In the past (referenced in the older Article 2), Sheriff Mack's term in Baldwin County, Alabama was expiring with one week left in office, leaving the Governor to select his replacement amidst local apprehension (\"Pray for change but expect the worst\"). Simultaneously, Vice President Kamala Harris transitioned from the \"scourge of the democratic party to their darling savior\" following the Democratic National Convention, while RFK Jr. removed his name from battleground ballots to align with Candidate Trump.\n\nTHE DISCOVERY: Article 2 (the older background piece) documented the political and local leadership transition points in Baldwin County—specifically the final week of Sheriff Mack's tenure and the gubernatorial appointment process—alongside the shifting national narrative surrounding Kamala Harris post-DNC and RFK Jr.’s endorsement of Trump.\n\nTHE PIVOT: Article 2 serves as the foundational context because it establishes the local leadership vacuum in Baldwin County (Sheriff Mack's departure) and the volatile political alignments (RFK Jr. backing Trump, Harris's rebranding) that directly feed into the broader media narratives, immigration debates, and institutional corruption examined in the current reporting of Article 1.\n\nKEY ENTITIES: \n- Sheriff Mack\n- Kamala Harris\n- Candidate Donald Trump\n- RFK Jr.\n- Kent David (Former Real Admiral and JAG Officer / Alabama Veterans Affairs Commissioner)\n- Brandon Moseley\n- David R. Jones (Texas Federal Bankruptcy Judge)\n- P Diddy\n- Taylor Swift\n- Tulsi Gabbard\n- Russell Brand"
-    llm_text: Sheriff Mack's final week in Baldwin County and RFK Jr.'s sudden alliance with Donald Trump exposed massive political shifts. Revisit that crucial context to understand the institutional corruption driving our latest reporting.
-    widget_date: "2024-08-24"
-    generated_at: "2026-11-06T16:12:32.093337Z"
-    model_name: gemini-3.5-flash-lite
+  the-crime-of-the-century:
+    refined_source: 2ccf5e06bdc1f81d3b4be9fbc74bfcdcbc004c3253d615f77c8d439b0331e685
+    brief: |-
+      THE CONFLICT:
+      - Former Real Admiral and JAG Officer Kent Davis (referred to as Kent David in Article 1) served as the Alabama Veterans Affairs Commissioner.
+      - Davis was ousted from his position following a whistleblower Ethics Complaint.
+
+      THE DISCOVERY:
+      - Governor Kay Ivey is responsible for the firing of Admiral Kent Davis.
+      - Governor Ivey is actively attempting to seize control of the veterans’ board.
+      - The removal of Davis has resulted in the current state of "chaos" within Alabama veterans' programs.
+      - This political maneuver is alienating Republican-leaning veteran constituents.
+
+      THE PIVOT:
+      - Article 2 provides the political motive behind the "Ethics Complaint" mentioned in Article 1; it shifts the narrative from a singular whistleblower event to a targeted power grab by Governor Kay Ivey to control the state's veterans' administration.
+
+      KEY ENTITIES:
+      - Kent Davis (also cited as Kent David)
+      - Kay Ivey (Governor of Alabama)
+      - Alabama Veterans Affairs Commissioner
+      - Alabama Veterans' Board
+      - Alabama Department of Veterans Affairs
+    llm_text: Governor Kay Ivey didn't fire Admiral Kent Davis over an ethics complaint. She orchestrated a calculated power grab to seize control of the Alabama Veterans Affairs Board, a move that plunges veteran programs into chaos and risks alienating the state's most loyal Republican voters.
+    text: Governor Kay Ivey did not fire Admiral Kent Davis over an ethics complaint. She executed a power grab to seize control of the Alabama Veterans Affairs Board.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T16:12:32.303034Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 295210b145140db8c7ff414e9e889361611e4e8f105b1a2d950c8cf41c7efdc2
+    brief: |-
+      THE CONFLICT:
+      *   "Haitian Immigrant Eating Cats" debate cited in Sylacauga Alabama (1819 News).
+      *   Kent David (Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner) resigned due to a whistleblower Ethics Complaint.
+
+      THE DISCOVERY:
+      *   The Mack vs Hadley case involves the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      *   The Alabama Court of Civil Appeals released a decision on the Rule 32 Petition for Murray Lawrence Jr. today (date unspecified) concerning two undisclosed autopsies ordered by Sheriff Mack's father/Coroner of Baldwin County in 2005 (a Brady Violation).
+      *   The Dothan Summer Feeding Scandal highlights allegations of corruption in Alabama's legal/political systems.
+
+      THE PIVOT:
+      *   Article 2 provides specific legal and criminal details (Mack vs Hadley theft, Brady Violation, Dothan Scandal) regarding the Baldwin County Sheriff Department and Alabama judicial corruption, offering concrete evidence related to the general internal/staffing issues mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Sylacauga Alabama
+      *   Kent David
+      *   Baldwin County Sheriff Department
+      *   Mack vs Hadley
+      *   Murray Lawrence Jr.
+      *   Alabama Court of Civil Appeals
+      *   Mark Fuller (corrupt Alabama Federal Judge from Mobile, Alabama)
+    llm_text: The Baldwin County Sheriff Department stole a 1968 Camaro in the Mack vs Hadley case. The Alabama Court of Civil Appeals now revealed undisclosed autopsies and a Brady Violation involving Murray Lawrence Jr.
+    text: The Baldwin County Sheriff Department seized a 1968 Camaro in the Mack versus Hadley case. The Alabama Court of Civil Appeals revealed undisclosed autopsies and a Brady Violation.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T16:14:00.874111Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-mack-out-oj-french-lawsuit-in:
     brief: |-
       THE CONFLICT: On July 31, 2024, the family of OJ French Jr., the Bay Minette Justice League, and legal counsel May Jung LLC held a rally and filed a federal lawsuit against the City of Bay Minette and Police Officer Brandon Thompson. The lawsuit alleged that Officer Thompson lacked probable cause for a traffic stop, escalated the situation by demanding French exit the vehicle, and subsequently shot and killed French following a struggle over a taser. The family also accused Bay Minette Mayor Robert Bob Wills of lying by publicly claiming the family was "ok with the outcome" of the investigation and wanted the topic dropped. Furthermore, the incident involved a withheld police video deemed a Grand Jury Secret after a grand jury cleared the officer.
@@ -130,24 +148,19 @@ hooks:
       - Commissioner Matt McKenzie
       - Bay Minette Justice League
     llm_text: Mayor Robert Bob Wills claimed the OJ French Jr. family wanted his fatal police shooting dropped, but our historical deep-dive exposes the exact Baldwin County political corruption shielding Officer Brandon Thompson. Read how entrenched insider networks fuel these cover-ups.
+    text: Mayor Robert Bob Wills claimed the OJ French Jr. family wanted his fatal police shooting dropped, but our historical deep-dive exposes the exact Baldwin County political corruption shielding Officer Brandon Thompson. Read how entrenched insider networks fuel these cover-ups.
     widget_date: "2024-08-02"
     generated_at: "2026-11-06T16:12:37.928197Z"
     model_name: gemini-3.5-flash-lite
-  hanky-panky-at-the-po-po:
+  scalped:
+    refined_source: 5908b2ea6beaf895e620b5b957d94ab9770034546406632e19a3d451f68f2f81
     brief: |-
-      THE CONFLICT: Captain Andre Reid, Baldwin Countian of the Year 2023, Commander of the Major Crimes Unit, and CID supervisor, was accused of having an affair with a subordinate. Despite internal accusations, anonymous sources alleged a cover-up within the "Sheriff's Circle of Protection." The Baldwin County Sheriff's Department claimed an investigation found no evidence of an affair, though policy violations occurred. Reid never lost pay and was subsequently promoted to Captain in charge of the Baldwin County Correction Center, overseeing several hundred women. Additionally, an ongoing Federal Investigation was launched regarding missing evidence held by Baldwin County Sheriff's Deputies working as Federal Agents under the Organized Crime Drug Enforcement Taskforce (OCDEFT).
-
-      THE DISCOVERY: Article 2 (dated June 20, 2024) exposed internal corruption, sexual misconduct allegations, and institutional cover-ups within the Baldwin County Sheriff's Department, specifically highlighting a lack of accountability for high-ranking officials like Captain Andre Reid and systemic failures in handling internal discipline and missing federal task force evidence.
-
-      THE PIVOT: Article 2 serves as the smoking gun for Article 1 because it establishes a pre-existing pattern of systemic corruption, lack of accountability, and internal cover-ups within the Baldwin County Sheriff’s Department (featuring the newly appointed Command Staff mentioned in Article 1). It provides the foundational background of impunity—such as Reid's retention and promotion despite misconduct and ongoing federal investigations—proving that the department's leadership structure has a documented history of shielding insiders from consequences.
-
-      KEY ENTITIES:
-      - Captain Andre Reid
-      - Baldwin County Sheriff's Department
-      - Organized Crime Drug Enforcement Taskforce (OCDEFT)
-      - Baldwin County Correction Center
-      - The Ripp Report
-    llm_text: Captain Andre Reid kept his job and got a promotion despite internal misconduct allegations. Why did the Baldwin County Sheriff's Department shield him and cover up missing federal evidence? Read The Ripp Report to uncover the systemic corruption protecting high-ranking insiders today.
-    widget_date: "2024-06-20"
-    generated_at: "2026-11-06T16:12:43.569999Z"
-    model_name: gemini-3.5-flash-lite
+      THE CONFLICT: Renaissance School in Baldwin County (special needs kids) was robbed in an inside job; Baldwin County Sheriff Department acquired a new Command Staff; Kent David (Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner) is leaving due to a whistleblower Ethics Complaint.
+      THE DISCOVERY: Corruption involves companies with political ties scoring million-dollar contracts; courts handled a scandal where public scholarships went to insiders; law enforcement is investigating its own mishaps with no accountability.
+      THE PIVOT: Article 2 confirms that the localized issues (e.g., school robbery, internal law enforcement shifts) are symptomatic of a wider, systemic corruption involving political influence, misuse of public funds (scholarships/contracts), and failure of local accountability.
+      KEY ENTITIES: Baldwin County; Renaissance School; Kent David; David R. Jones (Texas Federal Bankruptcy Judge); Alabama Department of Transportation
+    llm_text: The Renaissance School robbery and Kent David's ethics complaint signal more than just local trouble. Systemic corruption involving political ties and misused public funds shows Baldwin County's accountability has completely failed.
+    text: The Renaissance School robbery and Kent David's ethics complaint point to deeper trouble. Misused public funds and political ties show Baldwin County accountability has failed.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T16:12:49.415945Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -5,17 +5,79 @@ metadata:
   main_date: "2025-08-23"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  fauxhope-or-fairhope:
+    refined_source: af0bcf31697d5cf9cfc8723e954159d560e57331ae71cc88a05f28360a287765
+    brief: |-
+      THE CONFLICT: Death of O. J. French's son; Mayor Bob Wills lied to family and community regarding circumstances; Federal lawsuit filed on behalf of O. J. French and family (date not specified).
+
+      THE DISCOVERY: Article 2 revealed that Fairhope City Council and Mayor faced challenges from a slate of candidates during the municipal election qualification period (August 26).
+
+      THE PIVOT: Article 2 provides context on anti-"good ole boy culture" electoral strategy in municipal politics (Fairhope), while Article 1 applies the same critique (corruption, self-serving deals, lack of justice) specifically to Mayor Bob Wills in Bay Minette. (Note: Articles discuss different municipalities and individuals.)
+
+      KEY ENTITIES: Bob Wills, O. J. French, Joshua Brown, Tolbert, BCMCU, Mayoral campaign (August 26, 2025), Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Bay Minette, Fairhope.
+    llm_text: Mayor Bob Wills lied about the death of O. J. French's son, prompting a federal lawsuit. Read how local corruption challenges "good ole boy" culture in Bay Minette and Fairhope.
+    text: Mayor Bob Wills lied about the death of O.J. French's son, which triggered a federal lawsuit. Read how this case challenges the entrenched good ole boy culture in Bay Minette and Fairhope.
+    widget_date: "2025-07-03"
+    generated_at: "2026-11-06T12:40:49.173233Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-march-5th:
+    refined_source: 1a0223d5ced7fc92b3352466ef07a759596c0f46372c56efb5e5d97bc88afbc4
+    brief: |-
+      THE CONFLICT:
+      *   March 5, 2024: Baldwin County operated under a "Good ole Boys" (GOB) stranglehold, lacking accountability and transparency.
+      *   GOB control extended to positions like Circuit Clerk, various Mayors (e.g., Fairhope), and Sheriff Hoss Mack.
+      *   March 5, 2024: Elections involved candidates like Kim Earl (Circuit Clerk) and Carrie Hosier (Board of Education District 2) challenging the Catalyst/GOB status quo.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a decades-long, unchecked cabal in Baldwin County, with Sheriff Hoss Mack calling shots and Mayors bending over.
+
+      THE PIVOT:
+      *   Article 1's claims against Mayor Bob Wills (lying to O. J. French's family, supporting self-investigating BCMCU, ethics/Alabama Bar complaints) are not isolated incidents but symptoms of the established, unaccountable GOB power structure detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Bob Wills (Mayor, Bay Minette)
+      *   Joshua Brown (Mayoral challenger)
+      *   O. J. French (deceased son, focus of federal lawsuit)
+      *   Chief Tolbert (BCMCU Chairman)
+      *   Baldwin County Major Crimes Unit (BCMCU)
+      *   Sheriff Hoss Mack
+      *   Kim Earl (Circuit Clerk)
+      *   Catalyst (GOB political group)
+      *   Jerry Carl (Candidate mentioned in 2024 context)
+      *   Bay Minette
+      *   August 26, 2025 (Article 1 date)
+      *   March 5, 2024 (Article 2 date)
+    llm_text: Sheriff Hoss Mack and Mayor Bob Wills ran Baldwin County as a GOB cabal, controlling positions from Circuit Clerk to Mayors. Kim Earl and Carrie Hosier challenged this decades-long, unchecked power impacting families like O. J. French.
+    text: Sheriff Hoss Mack and Mayor Bob Wills ran Baldwin County as an unchecked political cabal. Citizens like Kim Earl and Carrie Hosier challenged this decades-long grip on power that impacts families like the Frenches.
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T12:41:56.270018Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  howling-rains:
+    refined_source: 0dc48244f79915b4565c4d01c99f7b46c820e398f0c478ea9318ce26ec454e65
+    brief: |-
+      THE CONFLICT: 2008 and 2012 municipal elections in Fairhope were suspected of being rigged; in 2016, Mayor Karin Wilson won after numerous complaints prompted the Alabama Secretary Of State to supervise the election.
+      THE DISCOVERY: The Fairhope City Council obstructed, bullied, and lied against the Mayor; they voted themselves a $17,500.00 annual raise and spent $11.25 million on a park, leading to a budget deficit of $1.2 million.
+      THE PIVOT: Article 2 establishes a historical pattern of entrenched local political corruption, obstruction, and self-serving deals ("Status Quo"/"Good ole Boys") within Baldwin County, providing context for the claims in Article 1 regarding Mayor Bob Wills' lies, alleged cover-up, and misuse of position in Bay Minette.
+      KEY ENTITIES: Mayor Bob Wills, Joshua Brown, O. J. French, Chief Tolbert, Karin Wilson, Howling Raines, BCMCU, Bay Minette, Fairhope.
+    llm_text: Fairhope's election history, marked by 2016 supervision for Karin Wilson, proves deep local corruption in Baldwin County. Council members bullied the Mayor, voting themselves a $17,500 annual raise while creating a $1.2 million deficit.
+    text: State supervision in 2016 exposed deep local corruption during Karin Wilson's term as Fairhope mayor. Council members bullied the mayor and voted themselves a massive raise while creating a massive deficit.
+    widget_date: "2020-07-06"
+    generated_at: "2026-11-06T12:43:29.208832Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   last-chance-fauxhope-or-fairhope:
+    refined_source: d88c1916813824e3b88c0c348e05a5081f66fc0f32e1e1bd6dd71dc38215a1b6
     brief: |-
       THE CONFLICT: Councilman Jack Burrell was key in Fairhope's "Good Ole Boy Club" during the Wilson Administration, including securing a double paycheck for the Mayor after the 2020 COVID election and orchestrating the waterfront project cost increase from 6.3 million to 10 million.
       THE DISCOVERY: Article 2 revealed a pattern of questionable actions, conflicts of interest, and lack of transparency by Councilman Jack Burrell in Fairhope over 23 years, demonstrating systemic corruption in Baldwin County politics.
       THE PIVOT: Article 2 establishes a historical precedent of "Good Ole Boy Club" behavior and self-serving deals within Baldwin County, providing context for the claims in Article 1 that Mayor Bob Wills is part of this system and engaged in similar corrupt practices.
       KEY ENTITIES: Mayor Bob Wills, O. J. French, Chief Tolbert, Joshua Brown, Jack Burrell, Troy Vickers, Mayor Wilson, BCMCU, Baldwin County, Bay Minette, Fairhope, Jade Consulting.
     llm_text: Jack Burrell engineered the Fairhope waterfront cost spike from $6.3M to $10M and helped Mayor Wilson secure a double paycheck. This 23-year pattern of "Good Ole Boy Club" corruption shows how Mayor Bob Wills operates within Baldwin County's system.
+    text: Jack Burrell pushed the Fairhope waterfront costs up from $6.3 million to $10 million while helping Mayor Wilson secure extra pay. This decades-long pattern of political club corruption defines how Mayor Bob Wills operates.
     widget_date: "2025-08-22"
     generated_at: "2026-11-06T12:34:21.897767Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   two-questions-decide-fairhopes-future:
+    refined_source: 48d202d96a527547dac615e364c07288db988f8dd4d410a5e93e1af2e65f2791
     brief: |-
       THE CONFLICT:
       1. Mayor Bob Wills of Bay Minette lied to the family of O. J. French regarding the death of his son, supporting the self-investigating Baldwin County Major Crimes Unit (BCMCU).
@@ -43,13 +105,15 @@ hooks:
       9. Fairhope (City)
       10. August 26, 2025 (Election date, Bay Minette)
     llm_text: Mayor Bob Wills lied about O. J. French's death in Bay Minette, and Sherry Sullivan mismanaged $40M in BP funds in Fairhope. These local failures prove voters need change, so learn how candidates like Joshua Brown will fix corrupt city hall.
+    text: Mayor Bob Wills lied about O.J. French's death in Bay Minette and Sherry Sullivan mismanaged millions in BP funds in Fairhope. These failures prove voters need change, so see how candidates like Joshua Brown plan to fix city hall.
     widget_date: "2025-08-21"
     generated_at: "2026-11-06T12:37:20.993196Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote-2:
+    refined_source: e081fb27e1da3bb6bba7886cd663f422123dd893f6e91de12df1103eca266542
     brief: |-
       THE CONFLICT:
-      *   Mayor Bob Wills allegedly lied to O. J. French's family regarding the circumstances surrounding his son's death.
+      *   Mayor Bob Wills lied to O. J. French's family regarding the circumstances surrounding his son's death.
       *   Wills supported the Baldwin County Major Crimes Unit (BCMCU), which investigates itself.
       *   A federal lawsuit has been filed on behalf of O. J. French and his family.
 
@@ -69,21 +133,25 @@ hooks:
       *   Baldwin County
       *   Fairhope City Council
       *   August 26, 2025 (Election Date)
-    llm_text: Mayor Bob Wills allegedly lied to O. J. French's family about his son's death while backing the self-investigating BCMCU. A federal lawsuit now targets Wills in Bay Minette, proving local accountability demands transparency.
+    llm_text: Mayor Bob Wills lied to O. J. French's family about his son's death while backing the self-investigating BCMCU. A federal lawsuit now targets Wills in Bay Minette, proving local accountability demands transparency.
+    text: Mayor Bob Wills lied to O.J. French's family about his son's death while supporting a self-investigating police unit. A federal lawsuit targets Wills in Bay Minette, proving that local government demands transparency.
     widget_date: "2025-08-11"
     generated_at: "2026-11-06T12:38:29.141582Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote:
+    refined_source: cf9a6d3010ce7ea6b5d4b51beab54897ddd199e15decf44ff92d740a4a195bfd
     brief: |-
       THE CONFLICT: Mayor Bob Wills lied to the O. J. French family about the circumstances surrounding the death of their son; a federal lawsuit has been filed on behalf of O. J. French and his family in Baldwin County.
       THE DISCOVERY: The Fairhope City Council has ignored repeated concerns from their constituents regarding upcoming votes on August 26, 2025.
       THE PIVOT: There is no factual connection between the Bay Minette mayoral conflict (Wills/French) and the Fairhope City Council concerns; the articles address separate municipalities and issues.
       KEY ENTITIES: Bob Wills, O. J. French, Joshua Brown, Chief Tolbert, BCMCU, Baldwin County, Bay Minette, Fairhope City Council
     llm_text: Mayor Bob Wills lied to the O. J. French family, triggering a Baldwin County federal lawsuit. Plus, is the Fairhope City Council ignoring your concerns before the August 26, 2025 votes?
+    text: Mayor Bob Wills lied to the O.J. French family, sparking a federal lawsuit in Baldwin County. Is the Fairhope City Council ignoring public concerns ahead of the upcoming elections?
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T12:39:31.712803Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: d597f9b190033abcc911be531f85802e4016ae816eb8a05bb63889921bf0f712
     brief: |-
       THE CONFLICT:
       *   In past election cycles in Fauxhope, the City Council entrenched itself as a cabal supported by developers (Catalyst).
@@ -108,59 +176,7 @@ hooks:
       *   Bay Minette
       *   Fauxhope
     llm_text: Fauxhope councilman Jack Burrell and Mayor Sherry Sullivan fueled a local cabal supported by developers. Understand this history of Baldwin County corruption before reading about Mayor Bob Wills' alleged lies regarding O. J. French's son and the BCMCU.
+    text: Councilman Jack Burrell and Mayor Sherry Sullivan built a local power cabal backed by developers. Understand this history of Baldwin County corruption before examining Mayor Bob Wills and the O.J. French case.
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T12:35:43.447254Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT: Death of O. J. French's son; Mayor Bob Wills allegedly lied to family and community regarding circumstances; Federal lawsuit filed on behalf of O. J. French and family (date not specified).
-
-      THE DISCOVERY: Article 2 revealed that Fairhope City Council and Mayor faced challenges from a slate of candidates during the municipal election qualification period (August 26).
-
-      THE PIVOT: Article 2 provides context on anti-"good ole boy culture" electoral strategy in municipal politics (Fairhope), while Article 1 applies the same critique (corruption, self-serving deals, lack of justice) specifically to Mayor Bob Wills in Bay Minette. (Note: Articles discuss different municipalities and individuals.)
-
-      KEY ENTITIES: Bob Wills, O. J. French, Joshua Brown, Tolbert, BCMCU, Mayoral campaign (August 26, 2025), Mayor Sullivan, Troy Vickers, Joshua Gammon, Tracy Gatewood, David Luc, George Ferniany, Bay Minette, Fairhope.
-    llm_text: Mayor Bob Wills allegedly lied about the death of O. J. French's son, prompting a federal lawsuit. Read how local corruption challenges "good ole boy" culture in Bay Minette and Fairhope.
-    widget_date: "2025-07-03"
-    generated_at: "2026-11-06T12:40:49.173233Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-march-5th:
-    brief: |-
-      THE CONFLICT:
-      *   March 5, 2024: Baldwin County operated under a "Good ole Boys" (GOB) stranglehold, lacking accountability and transparency.
-      *   GOB control extended to positions like Circuit Clerk, various Mayors (e.g., Fairhope), and Sheriff Hoss Mack.
-      *   March 5, 2024: Elections involved candidates like Kim Earl (Circuit Clerk) and Carrie Hosier (Board of Education District 2) challenging the Catalyst/GOB status quo.
-
-      THE DISCOVERY:
-      *   Article 2 revealed a decades-long, unchecked cabal in Baldwin County, with Sheriff Hoss Mack calling shots and Mayors bending over.
-
-      THE PIVOT:
-      *   Article 1's claims against Mayor Bob Wills (lying to O. J. French's family, supporting self-investigating BCMCU, ethics/Alabama Bar complaints) are not isolated incidents but symptoms of the established, unaccountable GOB power structure detailed in Article 2.
-
-      KEY ENTITIES:
-      *   Bob Wills (Mayor, Bay Minette)
-      *   Joshua Brown (Mayoral challenger)
-      *   O. J. French (deceased son, focus of federal lawsuit)
-      *   Chief Tolbert (BCMCU Chairman)
-      *   Baldwin County Major Crimes Unit (BCMCU)
-      *   Sheriff Hoss Mack
-      *   Kim Earl (Circuit Clerk)
-      *   Catalyst (GOB political group)
-      *   Jerry Carl (Candidate mentioned in 2024 context)
-      *   Bay Minette
-      *   August 26, 2025 (Article 1 date)
-      *   March 5, 2024 (Article 2 date)
-    llm_text: Sheriff Hoss Mack and Mayor Bob Wills ran Baldwin County as a GOB cabal, controlling positions from Circuit Clerk to Mayors. Kim Earl and Carrie Hosier challenged this decades-long, unchecked power impacting families like O. J. French.
-    widget_date: "2024-03-01"
-    generated_at: "2026-11-06T12:41:56.270018Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  howling-rains:
-    brief: |-
-      THE CONFLICT: 2008 and 2012 municipal elections in Fairhope were suspected of being rigged; in 2016, Mayor Karin Wilson won after numerous complaints prompted the Alabama Secretary Of State to supervise the election.
-      THE DISCOVERY: The Fairhope City Council obstructed, bullied, and lied against the Mayor; they voted themselves a $17,500.00 annual raise and spent $11.25 million on a park, leading to a budget deficit of $1.2 million.
-      THE PIVOT: Article 2 establishes a historical pattern of entrenched local political corruption, obstruction, and self-serving deals ("Status Quo"/"Good ole Boys") within Baldwin County, providing context for the claims in Article 1 regarding Mayor Bob Wills' lies, alleged cover-up, and misuse of position in Bay Minette.
-      KEY ENTITIES: Mayor Bob Wills, Joshua Brown, O. J. French, Chief Tolbert, Karin Wilson, Howling Raines, BCMCU, Bay Minette, Fairhope.
-    llm_text: Fairhope's election history, marked by 2016 supervision for Karin Wilson, proves deep local corruption in Baldwin County. Council members bullied the Mayor, voting themselves a $17,500 annual raise while creating a $1.2 million deficit.
-    widget_date: "2020-07-06"
-    generated_at: "2026-11-06T12:43:29.208832Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

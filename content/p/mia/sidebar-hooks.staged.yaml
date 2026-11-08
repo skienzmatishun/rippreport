@@ -5,17 +5,8 @@ metadata:
   main_date: "2025-01-16"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  scalped:
-    brief: |-
-      THE CONFLICT: Corruption in Baldwin County involving million-dollar contracts awarded to politically tied companies; scholarship scandal benefiting insiders; state attempts to strip local control by handpicking police chiefs.
-      THE DISCOVERY: Article 2 revealed political corruption and contract misuse, specifically mentioning the Baldwin County District Attorney building construction bid award.
-      THE PIVOT: Article 2 establishes the ongoing political environment of corruption and local control threats in Baldwin County, which Article 1 reports monitoring despite the publisher's temporary M.I.A. status (health issues and Meta lockout).
-      KEY ENTITIES: The Ripp Report, rippreport.com, Baldwin County, F. Paul Ripp, Baldwin County Legal Eagle, Meta
-    llm_text: Baldwin County corruption runs deep; million-dollar contracts benefited political insiders, including the DA building bid. F. Paul Ripp tracks this local control threat despite publisher hurdles—read how this impacts your community.
-    widget_date: "2025-01-13"
-    generated_at: "2026-11-06T15:16:38.764202Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    refined_source: 516caba8717441171b7dd5bec8110dd108d9c7b9032f4da1dd6a4b92720a6020
     brief: |-
       THE CONFLICT:
       *   Mack vs Hadley case involved the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
@@ -40,16 +31,31 @@ hooks:
       *   rippreport.com
       *   Alabama Court of Civil Appeals
     llm_text: Baldwin County harbors deep corruption. Sheriff Mack's case against Murray Lawrence Jr. involved a 2005 Brady Violation, and Judge Mark Fuller's history proves this legal rot runs deep.
+    text: Sheriff Hoss Mack prosecuted Murray Lawrence Jr. using a hidden Brady violation. Judge Mark Fuller helped protect this broken legal system.
     widget_date: "2024-12-13"
     generated_at: "2026-11-06T15:17:44.281276Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   happy-days:
+    refined_source: a1633ffdc7a40acbba7b47ab755dc32eb7b81e7664c8ffef26a8664a770696fa
     brief: |-
       THE CONFLICT: Political corruption and institutional failures in Baldwin County, Alabama, involving the misuse of accountability agencies, taxpayer waste in Fairhope, and the proposed 65 million dollar 900+ bed jail in Bay Minette.
       THE DISCOVERY: Article 2 revealed systematic corruption, including Sheriff Hoss Mack running unopposed due to qualifications set by former State Senator Tripp Pittman, and the cozy political connection between Mack and State Senator Elliott (via Elliott’s wife’s job with Mack).
       THE PIVOT: Article 2 provides the essential background detailing the high-stakes political corruption and local issues in Baldwin County—the core focus of The Ripp Report—which was temporarily suspended due to the author’s 14th shoulder operation (Nov. 4th) and subsequent vertigo, along with a Meta account lockout.
       KEY ENTITIES: Hoss Mack, State Senator Tripp Pittman, State Senator Elliott, Tom Albritton, Attorney General, Fairhope, Bay Minette, The Ripp Report, Baldwin County Legal Eagle, F. Paul Ripp
-    llm_text: Hoss Mack ran unopposed thanks to rules set by State Senator Tripp Pittman. Discover how State Senator Elliott connected to Mack, fueling Baldwin County's corruption crisis and the $65M Bay Minette jail proposal.
+    llm_text: Hoss Mack ran unopposed thanks to rules set by State Senator Tripp Pittman. Read how State Senator Elliott connected to Mack, fueling Baldwin County's corruption crisis and the $65M Bay Minette jail proposal.
+    text: State Senator Tripp Pittman wrote rules that kept Hoss Mack in office unopposed. Chris Elliott backed Mack during the $65 million jail proposal.
     widget_date: "2022-02-11"
     generated_at: "2026-11-06T15:18:57.607998Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    refined_source: 1e3632514562f52455996c6ad300ecd1dad865d6c3f1d56000a17370af5bc541
+    brief: |-
+      THE CONFLICT: Corruption in Baldwin County involving million-dollar contracts awarded to politically tied companies; scholarship scandal benefiting insiders; state attempts to strip local control by handpicking police chiefs.
+      THE DISCOVERY: Article 2 revealed political corruption and contract misuse, specifically mentioning the Baldwin County District Attorney building construction bid award.
+      THE PIVOT: Article 2 establishes the ongoing political environment of corruption and local control threats in Baldwin County, which Article 1 reports monitoring despite the publisher's temporary M.I.A. status (health issues and Meta lockout).
+      KEY ENTITIES: The Ripp Report, rippreport.com, Baldwin County, F. Paul Ripp, Baldwin County Legal Eagle, Meta
+    llm_text: Baldwin County corruption runs deep; million-dollar contracts benefited political insiders, including the DA building bid. F. Paul Ripp tracks this local control threat despite publisher hurdles—read how this impacts your community.
+    text: Million-dollar contracts benefited political insiders in Baldwin County. F. Paul Ripp tracks these backroom deals despite heavy publisher hurdles.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T15:16:38.764202Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,121 @@
+metadata:
+  generated_at: "2026-11-08T05:26:54.657662Z"
+  generator_version: 1.0.0
+  post_slug: barstool
+  main_date: "2018-11-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst:
+    brief: |-
+      THE CONFLICT:
+      *   2010: Ronan McSharry assaulted his wife during divorce settlement procedures.
+      *   Past: McSharry assaulted his girlfriend (scalp torn out).
+      *   Past: McSharry caused a drunken scene with Councilman Jack Burrell.
+      *   This year: McSharry threatened artist Nall (art studio across the street).
+      *   Last Thursday night: McSharry knocked a 5'1" bartender (American Legion Tiki Bar customer) off a bar stool; she suffered a concussion.
+
+      THE DISCOVERY:
+      *   The “at large” catalyst council is the worst, least effective council Fairhope has seen in 20 years.
+      *   The council cannot pass a budget, and the obstruction is deliberate.
+      *   The council is run by "Catalyst connections" and those from the "Tim Can’t Club," representing about 30% of the City’s power.
+
+      THE PIVOT:
+      *   Article 2 establishes that the “at large” council is dysfunctional and deliberately obstructs municipal governance (e.g., budget), providing context for why serious problems like McSharry's repeated incidents (Article 1) are ignored by officials (Fairhope Police, Municipal Judge, City Attorney, Mayor Kant).
+      *   The council's perceived political capture by "Catalyst" explains the alleged corruption and failure of checks and balances regarding McSharry's legal troubles.
+
+      KEY ENTITIES:
+      *   Ronan McSharry (Bar owner)
+      *   Fairhope Police
+      *   Municipal Judge
+      *   City Attorney
+      *   Mayor Kant
+      *   Jack Burrell (Councilman)
+      *   Nall (Artist)
+      *   American Legion Tiki Bar
+      *   "at large" catalyst council
+      *   Catalyst
+      *   Tim Can’t Club
+    llm_text: Ronan McSharry assaulted a 5'1" bartender at the American Legion Tiki Bar, continuing a violent pattern that included threats to artist Nall. The "at large" catalyst council, controlled by the Tim Can’t Club, deliberately obstructs governance, failing to hold officials like Mayor Kant accountable.
+    widget_date: "2018-11-28"
+    generated_at: "2026-11-08T05:20:12.998728Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-guardrails:
+    brief: |-
+      THE CONFLICT: Public corruption in Alabama (Number 1) leading to the resignation of Public Corruption Prosecutor Matt Hart from the Alabama Attorney General's Office on Monday morning, November 19, 2018.
+      THE DISCOVERY: The state lacks effective guardrails against political corruption; Ethics rules were partly written by Mike Hubbard, a former and convicted Speaker of the House, and local councils deflect complaints to ineffective state bodies (AG/Ethics Commission).
+      THE PIVOT: The state-level dismantling of anti-corruption measures (loss of Matt Hart) creates a systemic environment where local officials (Fairhope Police, Municipal Judge, City Attorney, Mayor Kant) ignore documented serious criminal behavior (Ronan McSharry's domestic violence and assault history), enabling local impunity and lack of accountability.
+      KEY ENTITIES: Ronan McSharry, Fairhope, Mayor Kant, Jack Burrell, Nall, Steve Marshall (Alabama AG), Matt Hart, Mike Hubbard, Alabama Ethics Commission, Fairhope Police, ABC Board.
+    llm_text: Matt Hart's resignation exposes Alabama's systemic corruption failures. Now, local officials like Mayor Kant and Fairhope Police ignore Ronan McSharry's serious criminal history, enabling total impunity.
+    widget_date: "2018-11-23"
+    generated_at: "2026-11-08T05:22:17.696097Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ignorance-is-bliss:
+    brief: |-
+      THE CONFLICT: Historical political corruption existed in Fairhope for 15 years, involving Catalyst influence and a recent referendum election where Forever Fairhope was backed by Can’t loyalists/PAC investors.
+      THE DISCOVERY: Article 2 revealed that front men Gary Thorson (5 years resident) and Bill Pennington (7 years resident) admitted ignorance of Fairhope city government problems prior to the referendum, suggesting political maneuvering/cover-up.
+      THE PIVOT: Article 2 establishes systemic, historical corruption within the Fairhope government (Catalyst/City Council), providing the context for the failure of local officials (Mayor Kant, Fairhope Police, City Council) to hold Ronan McSharry accountable for his repeated criminal incidents (e.g., 2010 assault on wife, incident with Jack Burrell, 5th recorded incident with Nall, recent concussion incident).
+      KEY ENTITIES: Ronan McSharry, Mayor Kant, Jack Burrell, Nall, Gary Thorson, Bill Pennington, Fairhope City Council, Catalyst, American Legion Tiki Bar, Fairhope Police.
+    llm_text: Gary Thorson and Bill Pennington admitted ignorance of Fairhope corruption before the Forever Fairhope referendum. This systemic failure allowed the City Council to ignore Ronan McSharry's repeated criminal incidents, including the 2010 assault.
+    widget_date: "2018-11-16"
+    generated_at: "2026-11-08T05:23:30.956847Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fear:
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted his wife in 2010 during divorce settlement procedures in Fairhope; McSharry has a history of violence, including tearing out a past girlfriend's scalp, and his 5th recorded incident involved knocking a bartender off a bar stool last Thursday night.
+      THE DISCOVERY: The older article (Widget) stated that Alabama is the most corrupt state and Baldwin County is in competition as the most corrupt county in Alabama, tied to political movements like Gary Thorson's Forever Fairhope PAC.
+      THE PIVOT: The state-level systemic corruption highlighted in the older article provides the context for local officials (Fairhope Police, Mayor Kant, City Attorney) ignoring McSharry’s documented history of domestic incidents and assault since 2010.
+      KEY ENTITIES: Ronan McSharry, Fairhope, Mayor Kant, Councilman Jack Burrell, Artist Nall, Gary Thorson, Forever Fairhope, ABC Board, Fairhope Police, Municipal Judge.
+    llm_text: Fairhope officials ignored Ronan McSharry’s documented assault history since 2010. This local failure connects directly to Baldwin County’s systemic corruption, highlighted by Gary Thorson’s Forever Fairhope PAC.
+    widget_date: "2018-11-02"
+    generated_at: "2026-11-08T05:24:37.042213Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  special-interest:
+    brief: |-
+      THE CONFLICT: Fairhope City Council, an "at Large Catalyst council," had a dismal record over 20 years, leading to a referendum for a Council-Manager change on November 6, 2018.
+      THE DISCOVERY: In October 2018, groups like Fresh Start Fairhope were pushing a YES vote for government change because special interests (Catalyst connections, Tim Can’t Club) controlled the city.
+      THE PIVOT: Article 2 establishes that the Fairhope governance structure was already under intense scrutiny for poor performance and control by special interests in 2018, providing context for the systemic corruption alleged in Article 1 (e.g., Mayor Kant's silence, Council's failure to act) regarding Ronan McSharry.
+      KEY ENTITIES: Ronan McSharry, Jack Burrell, Mayor Kant, Nall, Fresh Start Fairhope, Fairhope City Council, American Legion Tiki Bar.
+    llm_text: Fairhope's City Council failed for 20 years, prompting Fresh Start Fairhope to push a 2018 referendum against special interests like Catalyst. See how Ronan McSharry connects to the systemic corruption Mayor Kant and the Council ignored.
+    widget_date: "2018-10-26"
+    generated_at: "2026-11-08T05:25:35.684613Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  loser:
+    brief: |-
+      THE CONFLICT:
+      1. In 2010, Ronan McSharry assaulted his wife during divorce settlement procedures.
+      2. In 2017, City Council President Jack Burrell refused to allow a citizen to speak during a Fairhope City Council meeting (August 28th, 2017).
+      3. McSharry had a drunken incident with Councilman Jack Burrell, leading to Burrell threatening to shut down the bar.
+      4. McSharry was placed on probation following a 5th recorded incident this year (knocking a bartender off a bar stool last Thursday).
+
+      THE DISCOVERY:
+      1. The Ripp Report successfully challenged Jack Burrell's denial of constitutional right to public participation in 2017, leading to a settlement with the insurance company.
+      2. Jack Burrell subsequently bragged that the lawsuit was a win for the city, despite no public apology being issued.
+
+      THE PIVOT:
+      1. Article 2 (2017) establishes Jack Burrell's pattern of obstructing citizen rights and avoiding public accountability within the Fairhope City Council structure.
+      2. This history of official disregard (Burrell’s actions) provides context for the ongoing inaction of officials (Mayor Kant, Fairhope Police, Municipal Judge, City Attorney) who have known about Ronan McSharry's documented issues since 2010 but failed to act.
+
+      KEY ENTITIES:
+      1. Ronan McSharry (Bar owner)
+      2. Jack Burrell (Councilman/Council President)
+      3. Mayor Kant
+      4. Nall (Artist)
+      5. American Legion Tiki Bar (Bartender victim)
+      6. Ripp Report (Non-Profit Consumer Organization)
+      7. Fairhope City Council
+      8. 2010
+      9. August 28th, 2017
+    llm_text: Jack Burrell once blocked citizen rights in 2017, yet officials ignored Ronan McSharry's 2010 assault and recent incidents. See how Mayor Kant and the Fairhope City Council failed to act despite McSharry’s documented history.
+    widget_date: "2018-10-19"
+    generated_at: "2026-11-08T05:21:24.942613Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  raising-eyebrows:
+    brief: |-
+      THE CONFLICT: Ronan McSharry assaulted his wife during divorce settlement procedures in 2010. In 2011, David Whetstone (former Baldwin District Attorney) was involved in calling off a city manager referendum for Fairhope, a conflict similar to his prior private attorney involvement in 2011.
+      THE DISCOVERY: The 2011 article revealed that political groups like Catalyst exerted strong influence over Fairhope's governance, utilizing legal figures (David Whetstone, Robert Wilters) to delay or prevent city manager initiatives, demonstrating a pattern of ignoring conflicts of interest.
+      THE PIVOT: Article 2 establishes a historical pattern of political corruption and influence in Baldwin County, providing context for the current allegations in Article 1 that local officials (e.g., Mayor Kant, Council) ignore documented history (McSharry's 2010 assault and subsequent incidents) and allow questionable political appointments (e.g., Marcus McDowell, a Jack Burrell appointment) to override accountability.
+      KEY ENTITIES: Ronan McSharry, Jack Burrell, Nall, Marcus McDowell, David Whetstone, Robert Wilters, Tim Can’t, Catalyst, Mayor Kant, Fairhope City Council, ABC Board.
+    llm_text: Ronan McSharry's 2010 assault and David Whetstone's 2011 political interference reveal a Baldwin County pattern of ignored conflicts. See how Mayor Kant and the City Council prioritize questionable appointments over documented accountability.
+    widget_date: "2018-10-05"
+    generated_at: "2026-11-08T05:26:36.085967Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

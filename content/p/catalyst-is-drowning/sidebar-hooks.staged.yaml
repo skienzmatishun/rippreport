@@ -1,0 +1,175 @@
+metadata:
+  generated_at: "2026-11-08T11:02:01.608404Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-is-drowning
+  main_date: "2018-07-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  vote:
+    brief: |-
+      THE CONFLICT: November 2018 election; Candidates included Chris Elliott; Key figures involved included Superintendent Eddie Tyler, Sheriff Mack, and Jeff Boyd.
+      THE DISCOVERY: The Widget Article was a call to action ("VOTE FOR THE CANDIDATE") during the November 2018 election cycle.
+      THE PIVOT: The 2018 vote (Widget Article) was the context for the subsequent controversies detailed in the Main Article, specifically Elliott's campaign practices (Virginia vs. Baldwin County campaigning) and the $4 million annual deal imposed on the Baldwin County School Board, which was subsequently challenged in the current political landscape.
+      KEY ENTITIES: Chris Elliott; Billie Jo Underwood; Christy Olinger Edwards; Michelle Thomasson; Superintendent Eddie Tyler; Sheriff Mack; Jon Gray (Strategy); Gulf Shores; Orange Beach; Jeff Boyd; Baldwin County School Board.
+    llm_text: Chris Elliott's 2018 campaign, driven by a "VOTE FOR THE CANDIDATE" call, sparked ongoing political fire. Learn how that vote shaped current battles over the $4 million Baldwin County School Board deal and campaign practices involving Superintendent Eddie Tyler.
+    widget_date: "2018-07-17"
+    generated_at: "2026-11-08T10:54:07.801444Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ask-chris-elliott-catalyst-red-flags:
+    brief: |-
+      THE CONFLICT:
+      *   November 2018: Chris Elliott ran in the Baldwin County election, achieving a Catalyst ½ win.
+      *   Campaign allegations included a deal with Superintendent Eddie Tyler costing the School Board $4 million/year ($40 million in ten years).
+      *   Elliott's campaign used the Baldwin County School Board lobbyist and employed Jon Gray of Strategy.
+      *   Billie Jo Underwood defeated Tucker Dorsey for County Commission Place 3.
+      *   Christy Olinger Edwards defeated the Catalyst Queen.
+      *   Michelle Thomasson faced challenges in the Baldwin County Family Court.
+
+      THE DISCOVERY:
+      *   January 3, 2018: Chris G Stradtman Elliott and his wife purchased a waterfront property in Elberta on Key Hole Rd.
+      *   The property was valued at $290,000.
+      *   The purchase price was $49,725.20.
+      *   Elliott took a $100,000 purchase money mortgage from Trustee National Bank in Daphne.
+
+      THE PIVOT:
+      *   Article 2 (January 2018) provides pre-campaign financial context, documenting a significant personal property acquisition at a low price before the November 2018 campaign, questioning the foundation of his campaign money.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   Billie Jo Underwood
+      *   Christy Olinger Edwards
+      *   Michelle Thomasson
+      *   Eddie Tyler (Superintendent)
+      *   Jon Gray (Strategy)
+      *   Trustee National Bank
+      *   Baldwin County School Board
+      *   January 3, 2018
+      *   November 2018
+    llm_text: Chris Elliott ran for Baldwin County in 2018 amid allegations involving Superintendent Eddie Tyler and a $4M school board deal. We found Elliott bought a $290k waterfront property on January 3, 2018, for just $49,725, raising questions about his campaign foundation.
+    widget_date: "2018-07-16"
+    generated_at: "2026-11-08T10:59:10.814211Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county:
+    brief: |-
+      THE CONFLICT: 2018 Baldwin County elections resulted in Billie Jo Underwood winning County Commission Place 3 after defeating Tucker Dorsey; Catalyst (Chris Elliott) achieved a 1/2 win, barely beating David Northcutt; Christy Olinger Edwards beat the Catalyst Queen.
+      THE DISCOVERY: On July 2, 2018, a condo project (Phoenix Gulf Towers) was proposed in Orange Beach by Brett Robinson Real Estate Development Co., requiring rezoning of 5.8 acres on Perdido Beach Boulevard, illustrating a commitment to unbridled development without infrastructure regard.
+      THE PIVOT: Article 2 establishes the development agenda (bridges, 12% gas tax, maximum development) that Chris Elliott supported through the Orange Beach/Gulf Shores political machine, providing context for the financial and ethical allegations (e.g., $40M School Board deal, lobbyist use) detailed in the later November 2018 article.
+      KEY ENTITIES: Chris Elliott, Tucker Dorsey, David Northcutt, Billie Jo Underwood, Christy Olinger Edwards, Michelle Thomasson, Eddie Tyler, Jon Gray, Jeff Boyd, Sheriff Mack, Orange Beach, Gulf Shores, Brett Robinson Real Estate Development Co., Strategy (PR firm).
+    llm_text: Chris Elliott backed a maximum development agenda, supporting the Phoenix Gulf Towers rezoning on Perdido Beach Boulevard. See how 2018 elections involving Billie Jo Underwood and Tucker Dorsey shaped this unchecked growth in Orange Beach.
+    widget_date: "2018-07-11"
+    generated_at: "2026-11-08T10:56:25.866689Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhopes-blast-from-the-past:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council (18 months prior to Widget article) was characterized by obstruction and mismanagement.
+      *   Jack Burrell was involved in an Airport Scandal, police reports blaming his son, and allegations of drinking and threatening the owner of McSherry’s.
+      *   Kevin Boone (grandpa Catalyst) was connected to John Avant of Prebble Rish, supported the Catalyst cause, and possessed multiple LLCs.
+      *   Robert Brown (The Jester) secured soccer field contracts, linked to the Single Tax Colony via Cliff Pittman, and self-awarded an Art Center contract, facing Ethics charges.
+
+      THE DISCOVERY:
+      *   The "at large" election system enables the Catalyst faction to slate candidates and deceive voters in Fairhope.
+      *   The Council/Manager form of government (Mayor + 1 at large Council person + 3 district representatives) is presented as a necessary move forward.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of systemic corruption, obstruction, and misuse of power by the "Catalyst" faction in local government (Fairhope).
+      *   Article 1 (November 2018) demonstrates the continuation of this pattern in Baldwin County, where the Catalyst faction (represented by Elliott) utilized improper deals (4 million/10 years to School Board), leveraged lobbyists (Jon Gray), and engaged in electoral manipulation against People's Choice candidates (e.g., Billie Jo Underwood, Christy Olinger Edwards).
+
+      KEY ENTITIES:
+      *   Billie Jo Underwood
+      *   Tucker Dorsey
+      *   Christy Olinger Edwards
+      *   Michelle Thomasson
+      *   Elliott
+      *   Sheriff Mack
+      *   Eddie Tyler
+      *   Jon Gray (Strategy)
+      *   Jack Burrell
+      *   Kevin Boone
+      *   John Avant (Prebble Rish)
+      *   Robert Brown (The Jester)
+      *   Cliff Pittman
+      *   Can’t (former Mayor)
+      *   Mayor Wilson
+      *   Baldwin County
+      *   Fairhope
+    llm_text: Robert Brown (The Jester) and Jack Burrell expose systemic corruption, from Fairhope contracts to Baldwin County deals. The Catalyst faction manipulates the "at large" election system, deceiving voters and demanding you look closer.
+    widget_date: "2018-06-27"
+    generated_at: "2026-11-08T10:57:48.700873Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  america-the-golden-door:
+    brief: |-
+      THE CONFLICT: Judge Michelle Thomasson separated children from their mothers in divorces within the Baldwin County Family Court when other options existed; this action was described by The Ripp Report as clinical child abuse.
+
+      THE DISCOVERY: The Ripp Report has followed the Baldwin County Family Court for years, documenting Judge Michelle Thomasson's pattern of separating children from parents.
+
+      THE PIVOT: Thomasson's documented history of child separation (Article 2 context) is the foundational reason her re-election bid was blocked by defeat in the November 2018 election (Article 1).
+
+      KEY ENTITIES: Michelle Thomasson, Billie Jo Underwood, Christy Olinger Edwards, Elliott, Northcutt, Superintendent Eddie Tyler, Jon Gray (Strategy), Sheriff Mack, Jeff Boyd, Baldwin County Family Court, November 2018
+    llm_text: Judge Michelle Thomasson separated children in Baldwin County Family Court, an action The Ripp Report calls clinical child abuse. Her documented history of these separations blocked her re-election in November 2018.
+    widget_date: "2018-06-20"
+    generated_at: "2026-11-08T11:00:27.117322Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-held-back:
+    brief: |-
+      THE CONFLICT:
+      Initial 2018 Baldwin County elections saw Catalyst candidates (backed by over $500,000) running against People's Choice candidates (less than $10,000). Key races included State Senate Seat 32 (Elliott vs. David Northcutt), County Commission District 3 (Billie Joe Underwood vs. Tucker Dorsey), and the Catalyst Queen (Judge Thomasson) vs. Christy Edwards.
+
+      THE DISCOVERY:
+      In the older article, voter turnout in Baldwin County was low (36,073 out of 150,104 registered, or 24%). Catalyst secured only three races (County Commission District No. 1, Joe Davis beat John Lake, Skip Gruber beat Jerry Johnson) but failed to secure outright victories in the top three targets (Thomasson, Elliott, Dorsey).
+
+      THE PIVOT:
+      The older article established the vulnerability of Catalyst and the high stakes of the run-off races; the newer article provides the final results, showing People’s Choice successfully flipping three major races (Underwood/Dorsey, Edwards/Thomasson, and Elliott/Northcutt) despite Catalyst’s initial financial advantage.
+
+      KEY ENTITIES:
+      Billie Jo Underwood (People’s Choice, County Commission Place 3)
+      Tucker Dorsey
+      Christy Olinger Edwards
+      Michelle Thomasson (Catalyst Queen, Baldwin County Family Court)
+      Elliott (Catalyst, State Senate Seat 32)
+      David Northcutt (People’s Choice)
+      County Commission District 3
+      Eddie Tyler (Superintendent of Schools)
+      Jon Gray (Lobbyist, Strategy)
+      Strategy (PR firm)
+      $4 million/year cost to School Board (via Elliott/Tyler deal)
+      November 2018
+      Baldwin County
+    llm_text: Catalyst spent over $500,000 in 2018, but money didn't guarantee victory in Baldwin County. People's Choice successfully flipped three major races, including County Commission District 3 (Underwood vs. Dorsey) and State Senate Seat 32 (Northcutt vs. Elliott).
+    widget_date: "2018-06-06"
+    generated_at: "2026-11-08T10:55:17.641060Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-vs-the-people:
+    brief: |-
+      THE CONFLICT:
+      *   In November 2018, People’s Choice achieved wins against Catalyst (e.g., Billie Jo Underwood defeating Tucker Dorsey; Christy Olinger Edwards defeating the Catalyst Queen).
+      *   Catalyst achieved only a ½ win, with Elliott barely beating Northcutt.
+      *   Michelle Thomasson was defeated in her run for Baldwin County Family Court.
+
+      THE DISCOVERY:
+      *   Article 2 (Older) established the ongoing conflict between the "Catalyst" faction and "The People" in the region.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context of the "Catalyst" opposition that the 2018 election (Article 1) sought to dismantle, confirming the high-stakes nature of the local political struggle.
+
+      KEY ENTITIES:
+      *   Billie Jo Underwood (County Commission Place 3)
+      *   Tucker Dorsey
+      *   Christy Olinger Edwards
+      *   Michelle Thomasson
+      *   Chris Elliott
+      *   Northcutt
+      *   Sheriff Mack
+      *   Eddie Tyler (Superintendent of Schools)
+      *   Jon Gray (Strategy lobbyist)
+      *   Strategy (Public Relations firm)
+      *   Baldwin County
+      *   Gulf Shores
+      *   Orange Beach
+      *   Jeff Boyd
+      *   $600,000 (Elliott campaign coffers)
+      *   $4 million/year ($40 million in ten years) (School Board deal cost)
+    llm_text: Billie Jo Underwood and Christy Olinger Edwards successfully dismantled the entrenched Catalyst faction in 2018. Discover how this high-stakes local political struggle against Catalyst opposition truly defines Baldwin County’s future.
+    widget_date: "2018-05-30"
+    generated_at: "2026-11-08T11:01:30.573182Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

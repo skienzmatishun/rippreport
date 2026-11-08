@@ -5,48 +5,8 @@ metadata:
   main_date: "2024-02-22"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  Smell-Test:
-    brief: |-
-      THE CONFLICT: Andrea Lindsey (incumbent Daphne school board member) received a $1000 campaign donation from Superintendent Tyler’s wife on January 17; on January 18, she seconded and voted for Mrs. Tyler's promotion, allegedly after required credentials were changed.
-      THE DISCOVERY: Local political figures in Baldwin County prioritize being "barely legal" over ethical conduct, exemplified by the school board donation/promotion.
-      THE PIVOT: Article 2 demonstrates local institutional lack of ethics and conflict of interest, paralleling the state-level systemic failure where Tom Albritton, Ethics Director, dismissed complaints regarding the Mabel Amos Trust fraud rather than enforcing ethical standards.
-      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund, Carrie Hosier, Andrea Lindsey, Superintendent Tyler, Allen Dodd, Bryon Mathews, Tommy Gallion, Matt Simpson, Regions Bank.
-    llm_text: Andrea Lindsey accepted a $1000 donation from Superintendent Tyler's wife, then voted for his promotion. This Baldwin County conflict mirrors Tom Albritton's failure to enforce ethics, revealing systemic corruption across local and state levels.
-    widget_date: "2024-02-19"
-    generated_at: "2026-11-06T18:13:21.259995Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  vote-smart:
-    brief: |-
-      THE CONFLICT:
-      *   Lynn Stacy was a political operative in Baldwin County who guaranteed wins for "good ole boys" (GOB).
-      *   Stacy Haygood became Mayor of Daphne and Elliott became a county commissioner.
-      *   The political machine later changed its name to Catalyst, and subsequently to Scott Boone Consulting.
-
-      THE DISCOVERY:
-      *   Article 2 revealed the GOB/Catalyst machine's purpose: placing select candidates who tow the line for the status quo in Baldwin County.
-      *   Article 2 urged voters to reject Catalyst candidates on March 5, 2024, supporting Carrie Hosier and Kim Earl.
-
-      THE PIVOT:
-      *   Article 2 (Baldwin County local political machine) provides no factual context or "smoking gun" for Article 1 (Mabel Amos Trust state corruption).
-      *   The articles address unrelated political corruption in different jurisdictions (Baldwin County vs. Alabama State Ethics Commission).
-
-      KEY ENTITIES:
-      *   Tom Albritton (Alabama Executive Director of Ethics Commission and Mabel Amos Scholarship Trust trustee)
-      *   Mabel Amos Trust (Original value $500k, ballooned to $4.1M in 2011; currently worth $8.2M)
-      *   Allen Dodd (Deputy Alabama Attorney general)
-      *   Matt Simpson (State Rep., chair of Ethics and Finance committee)
-      *   Francis Paul Ripp (The Ripp Report)
-      *   Lynn Stacy
-      *   Stacy Haygood
-      *   Elliott
-      *   Carrie Hosier
-      *   Andrea Lindsey
-      *   Kim Earl
-    llm_text: While Tom Albritton's $8.2M Mabel Amos Trust shows state corruption, the Baldwin County machine run by Lynn Stacy is separate. Reject Catalyst candidates on March 5, supporting Carrie Hosier and Kim Earl.
-    widget_date: "2024-02-13"
-    generated_at: "2026-11-06T18:14:36.138566Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   alabama-ethics-commission-hide-the-list:
+    refined_source: 2c82744ed367fc56e6a052ddbabc8b666234713efbc2f1155b6d6b1536b66e7e
     brief: |-
       THE CONFLICT:
       1. Mabel Amos Trust held $500k initially, ballooned to $4.1M in 2011 following oil discovery in 2010.
@@ -82,6 +42,7 @@ hooks:
       14. Kay Ivy (Governor)
       15. Lagniappe Mobile
     llm_text: Tom Albritton took $135k from the Mabel Amos Trust while as Ethics Director; read how Steve Marshall's office finally worked with Regions Bank to make the $8.2M fund whole.
+    text: Tom Albritton pocketed $135,000 from the Mabel Amos Trust while running the state ethics office. It took Steve Marshall and Regions Bank to finally clean up his mess.
     widget_date: "2024-01-29"
     generated_at: "2026-11-06T18:12:31.530494Z"
     model_name: plugsky-lite
@@ -91,7 +52,7 @@ hooks:
 
       THE DISCOVERY: Article 2 (older background context) establishes a pattern of institutional cover-ups and hypocrisy by demonstrating that Tom Albritton used his gatekeeper position at the Ethics Commission over a 15-year period to dismiss dozens of complaints against judges, lawyers, and elected officials—even while he was personally skimming from the Mabel Amos Trust. Furthermore, it details how complaints submitted to Attorney General Steve Marshall regarding systemic corruption (such as the 2005 wrongful conviction of Murray "Bubba" Lawrence involving Sheriff Hoss Mack, prosecutor David Whetstone, and Judge Robert Wilters) fell on deaf ears.
 
-      THE PIVOT: Article 2 serves as the smoking gun because it proves that Albritton’s embezzlement from the Mabel Amos Trust was not an isolated incident, but part of a broader, systemic failure of accountability where the Ethics Commission operated purely as a political shield to protect compromised officials, leaving the Attorney General's ongoing legal proceedings against Albritton open to suspicion as a potential "legal masquerade" designed to avoid real consequences.
+      THE PIVOT: Article 2 serves as the smoking gun because it shows that Albritton’s embezzlement from the Mabel Amos Trust was not an isolated incident, but part of a broader, systemic failure of accountability where the Ethics Commission operated purely as a political shield to protect compromised officials, leaving the Attorney General's ongoing legal proceedings against Albritton open to suspicion as a potential "legal masquerade" designed to avoid real consequences.
 
       KEY ENTITIES:
       - Tom Albritton
@@ -116,13 +77,14 @@ hooks:
       - Brandon Hastings
       - Clark Morris
     llm_text: When Tom Albritton admitted he stole over $120,000 from the Mabel Amos Trust for his kids' college, Alabama AG Steve Marshall let him keep his $210,000 job. Dive into our archives to uncover how Albritton weaponized his gatekeeper role to shield corrupt officials while skimming trust funds.
+    text: When Tom Albritton admitted he stole over $120,000 from the Mabel Amos Trust for his kids' college, Alabama AG Steve Marshall let him keep his $210,000 job. Dive into our archives to uncover how Albritton weaponized his gatekeeper role to shield corrupt officials while skimming trust funds.
     widget_date: "2024-01-21"
     generated_at: "2026-11-06T18:12:25.552610Z"
     model_name: gemini-3.5-flash-lite
   stealing-from-kids:
     brief: |-
       THE CONFLICT:
-      - Tom Albritton, Alabama Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Scholarship Trust, allegedly committed fraud and self-served from the trust.
+      - Tom Albritton, Alabama Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Scholarship Trust, committed fraud and self-served from the trust.
       - Mabel Amos Trust: original value $500 thousand; ballooned to $4.1 million in 2011 after oil discovered on land in 2010; currently worth $8.2 million; oil well produced approximately $100 million, expected to produce millions more.
       - Albritton, in concert with two other trustees, awarded himself $135 thousand for his children's education at University of Texas.
       - Regions Bank, a trustee, took approximately $1 million for inflated services.
@@ -169,23 +131,72 @@ hooks:
       - Megan Carmack - family member of Mabel Amos.
       - Mike Hubbard - convicted.
       - Lowery, Wilters.
-    llm_text: Tom Albritton allegedly stole from Mabel Amos Scholarship Trust kids, giving himself $135,000 for his kids’ school while the fund ballooned to $8.2 million. Now Alabama’s ethics fight keeps shifting as a judge, lawmakers, and a bank face off over a settlement that could whitewash a brutal fraud.
+    llm_text: Tom Albritton stole from Mabel Amos Scholarship Trust kids, giving himself $135,000 for his kids’ school while the fund ballooned to $8.2 million. Now Alabama’s ethics fight keeps shifting as a judge, lawmakers, and a bank face off over a settlement that could whitewash a brutal fraud.
+    text: Tom Albritton stole from Mabel Amos Scholarship Trust kids, giving himself $135,000 for his kids’ school while the fund ballooned to $8.2 million. Now Alabama’s ethics fight keeps shifting as a judge, lawmakers, and a bank face off over a settlement that could whitewash a brutal fraud.
     widget_date: "2023-11-04"
     generated_at: "2026-11-06T18:12:56.273926Z"
     model_name: recursive/flint-v1.0:free
   top-to-bottom-corruption:
-    brief: "THE CONFLICT: \n- Mabel Amos, Alabama’s first female secretary of state, established the Mabel Amos Memorial Fund (MAMF) in her will via the Albritton Law Firm in Andalusia to provide college scholarships to needy students.\n- In 2010/2011, oil was discovered on trust-owned land in Conecuh County, causing the fund's value to balloon from $500,000 to $4.1 million (and eventually reaching $8.2 million, backed by a $100 million oil well revenue stream).\n- Between 2013 and 2021, Tom Albritton (trustee and Alabama Ethics Commission Executive Director) awarded his two children approximately $120,000 to $135,000 in tuition for the University of Texas.\n- Regions Bank (trustee/manager) took over $1 million in inflated fees and stopped including scholarship recipient names on IRS Form 990 filings in 2014, leaving roughly $3.2 million distributed to anonymous recipients.\n- Other trustees, including Rick Clifton of the Albritton Law Firm, also allegedly benefited, while potential student beneficiaries—such as high schooler Tyra Lindsey—were denied the opportunity to apply due to the trust being kept out of the public eye.\n- Civil litigation was initiated by Amos family members (represented by Tommy Gallion) and joined by Alabama Attorney General Steve Marshall, who accused Albritton of fraud and self-dealing.\n\nTHE DISCOVERY: \n- Historical reporting from Lagniappe (July 15, 2023) documented the origin of the scandal, detailing how oil wealth transformed a small $500,000 charity into a multi-million-dollar slush fund for insiders.\n- The 2023 background revealed the deeply incestuous financial ties between AG Steve Marshall’s office, Regions Bank, and shared defense attorneys, exposing potential conflicts of interest where Marshall accepted campaign cash and paid millions to the same legal counsel representing Regions.\n- It exposed AG Marshall's sudden 180-degree turn in the lawsuit—moving to toss student intervenor Tyra Lindsey out of the case after her attorney, Byron Mathews Jr., called out the AG's conflicts of interest.\n- It highlighted that despite Marshall publicly accusing Albritton of criminal fraud and self-dealing, no criminal investigation or arrests were executed, pointing instead to political leverage stemming from a prior dispute between Albritton and Marshall over Brady exculpatory evidence.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it establishes the foundational timeline and proves that AG Steve Marshall's aggressive posture toward Tom Albritton (labeling his actions \"fraud and self-serving\") was previously used as political leverage during a turf war over Ethics Commission rules, rather than a genuine pursuit of criminal justice.\n- It links past political maneuvering—such as the legislative battle over Brady disclosure laws and Marshall's sudden reversal on removing student representatives from the lawsuit—directly to the current stalled settlements, lack of transparency, and Albritton's unpunished retention and salary bump ($210,000/year) detailed in Article 1.\n\nKEY ENTITIES: \n- Tom Albritton (Alabama Ethics Commission Executive Director / Trust Trustee)\n- Steve Marshall (Alabama Attorney General)\n- Mabel Amos (First Female Secretary of State / Trust Creator)\n- Rick Clifton (Trustee / Albritton Law Firm Attorney)\n- John Bell (Regions Bank Officer / Trustee)\n- Tyra Lindsey (Hillcrest High School student / Proposed Intervenor)\n- Byron Mathews Jr. (Attorney for Tyra Lindsey)\n- Tommy Gallion (Attorney for Megan Carmack / Amos family member)\n- Megan Carmack (Mabel Amos family member)\n- Allen Dodd (Deputy Alabama Attorney General)\n- Ashby Pate (Attorney for Albritton and Clifton)\n- Matt Simpson (State Representative / Ethics and Finance Committee Chair)\n- Johnny Hardwick (Montgomery County Circuit Court Judge)\n- Mike Hubbard (Convicted former Alabama Speaker of the House)\n- Rob Holbert (Lagniappe Journalist)\n- Regions Bank"
+    brief: "THE CONFLICT: \n- Mabel Amos, Alabama’s first female secretary of state, established the Mabel Amos Memorial Fund (MAMF) in her will via the Albritton Law Firm in Andalusia to provide college scholarships to needy students.\n- In 2010/2011, oil was discovered on trust-owned land in Conecuh County, causing the fund's value to balloon from $500,000 to $4.1 million (and eventually reaching $8.2 million, backed by a $100 million oil well revenue stream).\n- Between 2013 and 2021, Tom Albritton (trustee and Alabama Ethics Commission Executive Director) awarded his two children approximately $120,000 to $135,000 in tuition for the University of Texas.\n- Regions Bank (trustee/manager) took over $1 million in inflated fees and stopped including scholarship recipient names on IRS Form 990 filings in 2014, leaving roughly $3.2 million distributed to anonymous recipients.\n- Other trustees, including Rick Clifton of the Albritton Law Firm, also benefited, while potential student beneficiaries—such as high schooler Tyra Lindsey—were denied the opportunity to apply due to the trust being kept out of the public eye.\n- Civil litigation was initiated by Amos family members (represented by Tommy Gallion) and joined by Alabama Attorney General Steve Marshall, who accused Albritton of fraud and self-dealing.\n\nTHE DISCOVERY: \n- Historical reporting from Lagniappe (July 15, 2023) documented the origin of the scandal, detailing how oil wealth transformed a small $500,000 charity into a multi-million-dollar slush fund for insiders.\n- The 2023 background revealed the deeply incestuous financial ties between AG Steve Marshall’s office, Regions Bank, and shared defense attorneys, exposing potential conflicts of interest where Marshall accepted campaign cash and paid millions to the same legal counsel representing Regions.\n- It exposed AG Marshall's sudden 180-degree turn in the lawsuit—moving to toss student intervenor Tyra Lindsey out of the case after her attorney, Byron Mathews Jr., called out the AG's conflicts of interest.\n- It highlighted that despite Marshall publicly accusing Albritton of criminal fraud and self-dealing, no criminal investigation or arrests were executed, pointing instead to political leverage stemming from a prior dispute between Albritton and Marshall over Brady exculpatory evidence.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it establishes the foundational timeline and shows that AG Steve Marshall's aggressive posture toward Tom Albritton (labeling his actions \"fraud and self-serving\") was previously used as political leverage during a turf war over Ethics Commission rules, rather than a genuine pursuit of criminal justice.\n- It links past political maneuvering—such as the legislative battle over Brady disclosure laws and Marshall's sudden reversal on removing student representatives from the lawsuit—directly to the current stalled settlements, lack of transparency, and Albritton's unpunished retention and salary bump ($210,000/year) detailed in Article 1.\n\nKEY ENTITIES: \n- Tom Albritton (Alabama Ethics Commission Executive Director / Trust Trustee)\n- Steve Marshall (Alabama Attorney General)\n- Mabel Amos (First Female Secretary of State / Trust Creator)\n- Rick Clifton (Trustee / Albritton Law Firm Attorney)\n- John Bell (Regions Bank Officer / Trustee)\n- Tyra Lindsey (Hillcrest High School student / Proposed Intervenor)\n- Byron Mathews Jr. (Attorney for Tyra Lindsey)\n- Tommy Gallion (Attorney for Megan Carmack / Amos family member)\n- Megan Carmack (Mabel Amos family member)\n- Allen Dodd (Deputy Alabama Attorney General)\n- Ashby Pate (Attorney for Albritton and Clifton)\n- Matt Simpson (State Representative / Ethics and Finance Committee Chair)\n- Johnny Hardwick (Montgomery County Circuit Court Judge)\n- Mike Hubbard (Convicted former Alabama Speaker of the House)\n- Rob Holbert (Lagniappe Journalist)\n- Regions Bank"
     llm_text: When oil riches turned Mabel Amos’s scholarship fund into a multi-million-dollar slush fund, trustee Tom Albritton funded his kids and Regions Bank pocketed inflated fees. Read how Alabama Attorney General Steve Marshall used fraud allegations as mere political leverage while shielding insiders from actual criminal justice.
+    text: When oil riches turned Mabel Amos’s scholarship fund into a multi-million-dollar slush fund, trustee Tom Albritton funded his kids and Regions Bank pocketed inflated fees. Read how Alabama Attorney General Steve Marshall used fraud allegations as mere political leverage while shielding insiders from actual criminal justice.
     widget_date: "2023-07-21"
     generated_at: "2026-11-06T18:12:32.501626Z"
     model_name: gemini-3.5-flash-lite
   go-to-hell-ethics:
+    refined_source: 100354417d6fd65e394153e40d60c2d687dfbc868fb71f02482df1e93b5ca857
     brief: |-
       THE CONFLICT: Baldwin County Legislative Delegation, Mayor Bob Wills, and Brad Hicks debated ethics regarding rent/office sharing; revised lease reduced monthly rent from $4,090 to $1,750 until December 2027.
       THE DISCOVERY: Tom Albritton, Alabama Executive Director of the Ethics Commission and trustee of Mabel Amos Scholarship Trust, awarded himself $135,000 for his children and the trust grew from $500k to $4.1M in 2011 due to 2010 oil discovery.
-      THE PIVOT: Widget Article establishes the general role and necessity of the Alabama Ethics Commission (created 1973, Act No. 1056) to prevent conflicts of interest, providing context for the fact that Albritton, as its Director, allegedly dismissed complaints concerning his self-enrichment from the Mabel Amos Trust.
+      THE PIVOT: Widget Article establishes the general role and necessity of the Alabama Ethics Commission (created 1973, Act No. 1056) to prevent conflicts of interest, providing context for the fact that Albritton, as its Director, dismissed complaints concerning his self-enrichment from the Mabel Amos Trust.
       KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund/Trust, Brad Hicks, Mayor Bob Wills, Alabama Ethics Commission, Matt Simpson, Allen Dodd, Tommy Gallion, Megan Carmack, Bryon Mathews, Tyra Lindsey, Regions Bank, Rick Clifton.
-    llm_text: Mayor Bob Wills and Brad Hicks debated rent cuts, but Tom Albritton, Alabama Ethics Director, allegedly dismissed complaints about his $135k self-enrichment from the Mabel Amos Trust. Learn why the 1973 Alabama Ethics Commission exists to stop these conflicts.
+    llm_text: Mayor Bob Wills and Brad Hicks debated rent cuts, but Tom Albritton, Alabama Ethics Director, dismissed complaints about his $135k self-enrichment from the Mabel Amos Trust. Learn why the 1973 Alabama Ethics Commission exists to stop these conflicts.
+    text: Mayor Bob Wills and Brad Hicks talked about rent cuts while Tom Albritton kept $135,000 from the Mabel Amos Trust. Why did the Alabama Ethics Director face no punishment from his own agency?
     widget_date: "2023-01-28"
     generated_at: "2026-11-06T18:12:38.453632Z"
     model_name: plugsky-lite
+  Smell-Test:
+    refined_source: 0728913c3cde76eb233840f9d8b502d42289a6f24b8becd2c479f0109eec182a
+    brief: |-
+      THE CONFLICT: Andrea Lindsey (incumbent Daphne school board member) received a $1000 campaign donation from Superintendent Tyler’s wife on January 17; on January 18, she seconded and voted for Mrs. Tyler's promotion, after required credentials were changed.
+      THE DISCOVERY: Local political figures in Baldwin County prioritize being "barely legal" over ethical conduct, exemplified by the school board donation/promotion.
+      THE PIVOT: Article 2 demonstrates local institutional lack of ethics and conflict of interest, paralleling the state-level systemic failure where Tom Albritton, Ethics Director, dismissed complaints regarding the Mabel Amos Trust fraud rather than enforcing ethical standards.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund, Carrie Hosier, Andrea Lindsey, Superintendent Tyler, Allen Dodd, Bryon Mathews, Tommy Gallion, Matt Simpson, Regions Bank.
+    llm_text: Andrea Lindsey accepted a $1000 donation from Superintendent Tyler's wife, then voted for his promotion. This Baldwin County conflict mirrors Tom Albritton's failure to enforce ethics, revealing systemic corruption across local and state levels.
+    text: Andrea Lindsey took a $1,000 donation from Superintendent Tyler's wife and immediately voted for his promotion. Ethics laws in Alabama are apparently just suggestions for the well-connected.
+    widget_date: "2024-02-19"
+    generated_at: "2026-11-06T18:13:21.259995Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-smart:
+    refined_source: 9ce6fb74b68fe7b72e32d543e3d6d7cbf034a1970e5e6a31f8d516e126219728
+    brief: |-
+      THE CONFLICT:
+      *   Lynn Stacy was a political operative in Baldwin County who guaranteed wins for "good ole boys" (GOB).
+      *   Stacy Haygood became Mayor of Daphne and Elliott became a county commissioner.
+      *   The political machine later changed its name to Catalyst, and subsequently to Scott Boone Consulting.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the GOB/Catalyst machine's purpose: placing select candidates who tow the line for the status quo in Baldwin County.
+      *   Article 2 urged voters to reject Catalyst candidates on March 5, 2024, supporting Carrie Hosier and Kim Earl.
+
+      THE PIVOT:
+      *   Article 2 (Baldwin County local political machine) provides no factual context or "smoking gun" for Article 1 (Mabel Amos Trust state corruption).
+      *   The articles address unrelated political corruption in different jurisdictions (Baldwin County vs. Alabama State Ethics Commission).
+
+      KEY ENTITIES:
+      *   Tom Albritton (Alabama Executive Director of Ethics Commission and Mabel Amos Scholarship Trust trustee)
+      *   Mabel Amos Trust (Original value $500k, ballooned to $4.1M in 2011; currently worth $8.2M)
+      *   Allen Dodd (Deputy Alabama Attorney general)
+      *   Matt Simpson (State Rep., chair of Ethics and Finance committee)
+      *   Francis Paul Ripp (The Ripp Report)
+      *   Lynn Stacy
+      *   Stacy Haygood
+      *   Elliott
+      *   Carrie Hosier
+      *   Andrea Lindsey
+      *   Kim Earl
+    llm_text: While Tom Albritton's $8.2M Mabel Amos Trust shows state corruption, the Baldwin County machine run by Lynn Stacy is separate. Reject Catalyst candidates on March 5, supporting Carrie Hosier and Kim Earl.
+    text: Lynn Stacy's Baldwin County machine operates right alongside Tom Albritton's state-level grift. Throw out the Catalyst candidates on March 5 and vote for Carrie Hosier and Kim Earl.
+    widget_date: "2024-02-13"
+    generated_at: "2026-11-06T18:14:36.138566Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

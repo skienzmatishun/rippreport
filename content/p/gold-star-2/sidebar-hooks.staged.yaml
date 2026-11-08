@@ -1,0 +1,193 @@
+metadata:
+  generated_at: "2026-11-08T02:58:10.500852Z"
+  generator_version: 1.0.0
+  post_slug: gold-star-2
+  main_date: "2019-03-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pedaling-forward:
+    brief: |-
+      THE CONFLICT: County Commissioner Chris Elliott and School Superintendent Eddie Tyler skimmed $200,000 annually from the school tax for County infrastructure during the penny tax period.
+      THE DISCOVERY: The Fairhope Education Advisory Committee (FEAC) proposed a 3-mill property tax in the Fairhope school feeder district to raise an estimated 1.88 million. The Mayor suggested using 10% of sales tax (estimated $800,000 to $1 million annually) first.
+      THE PIVOT: Article 2 provides the historical precedent of past school fund misuse by County officials (Elliott/Tyler), framing the current City Council decision in Article 1—whether to use a tax or the Mayor’s plan to secure 1.88 million—as a necessary preventative action against past corruption and to address critical school needs (5000+ students).
+      KEY ENTITIES: Fairhope City Council, Baldwin County, Mayor, Jack Burrell, Chris Elliott, Eddie Tyler, FEAC, 1.88 million, 3-mill property tax, *CATALYST*
+    llm_text: Chris Elliott and Eddie Tyler previously skimmed $200,000 annually from school tax. Now, the Fairhope City Council must decide if a 3-mill property tax or Mayor Burrell's sales tax plan secures $1.88 million for 5000+ students, preventing past corruption.
+    widget_date: "2019-02-27"
+    generated_at: "2026-11-08T02:54:35.578952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pedaling-backwards:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council vs. Mayor over whether Fairhope supports schools through a tax or uses the Equitable School Funding Plan proposed by the Mayor.
+      - Council had ability to vote immediately for desired funds of $1.88 million; decision should be made after community has ability to weigh in.
+      - Main article: Fairhope got a gold star; article and movie being shot, The Friend, at same time will produce tremendous National exposure for Fairhope.
+      - Main article: County Commission and 14 municipalities of Baldwin County need to get on same page about Sewers, Zoning, Traffic and Schools, ASAP.
+      - Main article: Fairhope education issue stands out; class size swelling; teachers working as fundraisers for “FOR SCHOOL SUPPLIES”; portables necessity; over 5,000 students in five Fairhope Schools, figure growing every month.
+      - Main article: Principals, teachers, parents and constituents should demand council hold at least two public forums for public participation before any decision is made.
+      - Main article: Council decision on school funding is their responsibility; funding issue important; would make significant difference in all five schools.
+
+      - Widget article, older/background: Fairhope City Council in full re-election mode for 2020, trying desperately to accomplish anything they can claim for victory.
+      - Widget article: So far, going on three years, Council has yet to produce anything they can claim as a major accomplishment.
+      - Widget article: Council recently failed miserably on a federal grant for the K-1 center, as predicted.
+      - Widget article: Council uses city attorney as their tool to obstruct the Mayor and push through half-baked ideas not financially responsible.
+      - Widget article: Latest is proposed bike trail on 11.25 million dollar property, the Triangle, purchased through a LEGAL SETTLEMENT.
+      - Widget article: Council tried to convince citizens of community that purchase was for a park, a total lie.
+      - Widget article: Council LOST the lawsuit.
+      - Widget article: Bike trail on 11.25 million dollar property sounds as ridiculous as first suggestion of archery range, which failed and never was endorsed by citizens.
+      - Widget article: Council set to spend 10,000 dollars for a feasibility study, not in budget, for a bike trail.
+      - Widget article: Council will use feasibility studies to promote plans except when plan does not conform to their liking.
+      - Widget article: Current Fairhope Council composed of Catalyst loyalists who often do not listen to advise of committees but prefer to lend ear to Catalyst plans for re-election.
+      - Widget article: Council President Burrell and Councilman Boone get full credit for pulling the wool over voters’ eyes when it comes to Triangle settlement.
+      - Widget article: Council and city attorney worked in concert to obstruct Mayor, committees, or anyone else not sharing agenda; lack of communication with Mayor is by design and costing city valuable resources.
+      - Widget article: Council subject dear to all hearts—education and schools—will be focus; predicts Council will again elect to shelter themselves from any decision and relegate that responsibility to anyone other than themselves.
+      - Widget article: Council cares about one thing and one thing only, returning to the good ole days of Can’t.
+
+      THE DISCOVERY:
+      - Article 2 revealed Council failed federal grant for K-1 center.
+      - Article 2 revealed Council used city attorney as obstruction tool.
+      - Article 2 revealed proposed bike trail on 11.25 million dollar Triangle property purchased through legal settlement; Council claimed park, total lie; Council LOST lawsuit.
+      - Article 2 revealed Council set to spend 10,000 dollars for feasibility study, not in budget, for bike trail.
+      - Article 2 revealed Council in full re-election mode for 2020; going on three years without major accomplishment.
+      - Article 2 revealed Council composed of Catalyst loyalists; Burrell and Boone credited for misleading voters re Triangle settlement.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun for Article 1 because it provides older/background context on Council obstruction, failed K-1 grant, bike trail spending, and lack of communication with Mayor.
+      - Article 2 frames Article 1’s school funding conflict as Council vs. Mayor, including Council responsibility vs. Equitable School Funding Plan and $1.88 million.
+      - Article 2 supports Article 1’s criticism that Council used city attorney to obstruct and push through half-baked, not financially responsible ideas.
+
+      THE KEY ENTITIES:
+      - Fairhope City Council
+      - Mayor
+      - Council President Burrell
+      - Councilman Boone
+      - City Attorney
+      - Catalyst
+      - County Commission
+      - 14 municipalities of Baldwin County
+      - Baldwin County
+      - Fairhope
+      - Five Fairhope Schools
+      - Over 5,000 students
+      - Equitable School Funding Plan
+      - $1.88 million
+      - K-1 center
+      - Federal grant
+      - Triangle
+      - 11.25 million dollar property
+      - LEGAL SETTLEMENT
+      - Bike trail
+      - $10,000 feasibility study
+      - Archery range
+      - 2020
+      - Can’t
+      - Times
+      - CATALYST
+      - Principals, teachers, parents, constituents
+      - Teachers
+      - School supplies
+      - Portables
+      - Class size
+      - Growth
+      - Traffic
+      - Sewers
+      - Zoning
+      - Schools
+      - The Friend
+      - Freaky Friday
+    llm_text: Fairhope’s mayor wants the Equitable School Funding Plan, but the City Council pushed a $1.88 million school fund instead. Now the council’s obstruction and failed bike trail antics make the school decision even more urgent.
+    widget_date: "2019-02-22"
+    generated_at: "2026-11-08T02:54:17.753543Z"
+    model_name: recursive/flint-v1.0:free
+  the-good-the-bad-and-the-ugly:
+    brief: |-
+      THE CONFLICT:
+      *   The Triangle Lawsuit cost the city $11.25 million, though it could have been settled for under $1 million.
+      *   Council members Can’t, Boone, and Burrell refused to settle or discuss settlement regarding the Triangle Lawsuit.
+      *   This history of obstruction is tied to the Catalyst Council.
+
+      THE DISCOVERY:
+      *   The Catalyst Council has a documented history of obstruction, prioritizing political agendas over community benefit (e.g., refusing settlement in the Triangle Lawsuit).
+      *   The new administration, led by Mayor Wilson, has addressed infrastructure, sewer problems, and planning/zoning in the last 2.5 years.
+      *   The Breland court case (favored developer Buddy Breland) shows the council's involvement in high-stakes legal matters.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Catalyst Council, which is questioned in Article 1, has a proven record of poor financial management and obstruction, directly casting doubt on their ability to responsibly manage the current critical issue of $1.88 million school funding for the five Fairhope Schools.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Baldwin County
+      *   Mayor Wilson
+      *   Catalyst Council
+      *   Boone
+      *   Burrell
+      *   Can’t
+      *   Buddy Breland
+      *   Ronan McSharry
+      *   Marcus McDowell (City Attorney)
+      *   $1.88 million (School Funding)
+      *   Five Fairhope Schools
+      *   Triangle Lawsuit
+    llm_text: The Catalyst Council once let the Triangle Lawsuit cost Fairhope $11.25 million because members Can’t, Boone, and Burrell refused a small settlement. Does this history of obstruction mean they can responsibly manage the critical $1.88 million school funding for the five Fairhope Schools?
+    widget_date: "2019-02-08"
+    generated_at: "2026-11-08T02:55:48.557202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  knock-on-doors:
+    brief: |-
+      THE CONFLICT: In 2018, Baldwin County reported 200 job gains offset by 200 job losses, indicating a lack of stable manufacturing despite economic growth.
+      THE DISCOVERY: Article 2 proves that the county's perceived economic boom was misleading, lacking large-scale manufacturing development in areas like North Baldwin (onion mega site).
+      THE PIVOT: Article 2 provides historical context that the current rapid growth (referenced in Article 1) is unbalanced and not supported by sustainable, large-scale manufacturing, leading to strain on municipal services like schools and traffic in Fairhope.
+      KEY ENTITIES: Baldwin County Commission, Fairhope City Council, Mayor, CATALYST, 2018, $1.88 million, five Fairhope Schools.
+    llm_text: Baldwin County's 2018 economy hid instability, showing 200 job losses offset 200 gains. The Fairhope City Council must address this unbalanced growth, which strains five Fairhope Schools and traffic without sustainable manufacturing like the North Baldwin onion site.
+    widget_date: "2019-02-01"
+    generated_at: "2026-11-08T02:56:49.065311Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  state-of-the-city-2019:
+    brief: |-
+      THE CONFLICT: Previous Mayor and Council used utility fund as piggy bank; previous Mayor drew $60,000 second city paycheck.
+      THE DISCOVERY: 2019 State of the City booklet showed City Debt of $6.83 million paid by June 2019; $18 Million in BP Restore Act funded projects secured, including $10 million for sewer upgrades.
+      THE PIVOT: Article 2 established prior mismanagement (utility fund misuse, $60k illegal salary) which necessitated the urgent infrastructure improvements (sewer upgrades) referenced as being "overlooked by the previous administration" in Article 2, providing context for the current municipal urgency regarding utilities, zoning, and growth in Article 1.
+      KEY ENTITIES: Mayor Wilson, Stephanie Hollinghead, Fairhope City Council, Baldwin County, 2019, $1.88 million, $60,000, $6.83 million, BP Restore Act
+    llm_text: Mayor Wilson and the Fairhope City Council face utility urgency after the previous administration misused funds and Mayor drew a $60,000 paycheck. See how the $18M BP Restore Act funding now addresses overlooked sewer upgrades vital for Fairhope growth.
+    widget_date: "2019-01-26"
+    generated_at: "2026-11-08T02:53:53.279955Z"
+    model_name: plugsky-lite
+  boiling-frog:
+    brief: |-
+      THE CONFLICT: Undated past concern regarding worsening traffic congestion at Parker Road and Hwy.98, specifically related to the approval of ~300 units of apartments/townhouses on Fly Creek.
+      THE DISCOVERY: Article 2 revealed City of Fairhope and Catalyst were involved in approving the Fly Creek apartments.
+      THE PIVOT: Article 2 established the pre-existing, unaddressed traffic crisis (the "boiling frog") caused by development approvals, providing context for the subsequent pressure on the Fairhope City Council regarding growth management in Article 1.
+      KEY ENTITIES: Fairhope, Baldwin County, Parker Road, Hwy.98, Fly Creek, City Council, Catalyst, Publix, Highridge Road
+    llm_text: Did the City of Fairhope and Catalyst approve the 300 Fly Creek units knowing Parker Road and Hwy.98 already face crippling traffic? See how this development decision fuels the ongoing growth debate in Fairhope.
+    widget_date: "2019-01-18"
+    generated_at: "2026-11-08T02:54:02.393600Z"
+    model_name: plugsky-lite
+  captain-jack:
+    brief: |-
+      THE CONFLICT:
+      *   Late 2016 (specifically Nov 2016): Infamous lease issues were subject to a series of Ripp Report articles regarding the Fairhope Airport Authority.
+      *   January 8th: Fairhope Airport Authority held a special meeting to discuss a "notice of availability" revisiting failed processes from late 2016 (leases, bidding procedures, fuel farms).
+      *   Over 7 years: Council President Jack Burrell dominated the position.
+      *   Past actions: Burrell allegedly influenced City Attorney and Municipal Judge appointments.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Council President Jack Burrell (City liaison on the Airport Authority board) exerted personal control over Airport Authority operations and hiring (e.g., guaranteeing certain "chosen ones" hangar locations prior to any bid process).
+      *   Burrell’s control extended beyond the airport, influencing key municipal appointments.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a historical pattern of unchecked personal power and self-interest by Jack Burrell within municipal and airport governance.
+      *   This historical control context (Article 2) is critical because Article 1 highlights urgent systemic failures in Fairhope (swelling class sizes, 5000+ students in five schools, need for $1.88 million funding) requiring unified action from the County Commission and 14 municipalities, which Burrell’s dominance (Article 2) potentially obstructs.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President, City liaison on Airport Authority)
+      *   Joe McEnerney (Airport Authority Chairman)
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Fairhope Schools (five schools)
+      *   14 municipalities of Baldwin County
+      *   $1.88 million (needed for school funding)
+      *   November 2016
+      *   January 8th
+    llm_text: Council President Jack Burrell allegedly controlled Fairhope Airport Authority hiring since November 2016, guaranteeing spots before bids. This pattern of unchecked power risks obstructing the $1.88 million needed to fix Fairhope's 5000+ students in five schools.
+    widget_date: "2019-01-11"
+    generated_at: "2026-11-08T02:57:49.510477Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

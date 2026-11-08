@@ -5,7 +5,31 @@ metadata:
   main_date: "2024-07-16"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  hanky-panky-by-the-po-po:
+    refined_source: eec0f0624faa0e861aeea68d3300a22ec5a712144a8ed9259a7a6c7282e40797
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. for the murder of Brandon Hastings, occurring circa 2003/2004. Hoss Mack served as lead investigator; Robert Wilters served as presiding judge/DA.
+
+      THE DISCOVERY: Article 2 exposed the BCSO's internal lack of transparency and lack of supervision, specifically linking Hoss Mack to the zero-evidence wrongful conviction of Murray Lawrence Jr.
+
+      THE PIVOT: Article 2 established Hoss Mack’s direct involvement as lead investigator in the failed case of Murray Lawrence Jr., providing historical context for the systemic corruption and lack of accountability detailed in Article 1, which argues Mack used this conviction for political advancement (Captain to Sheriff).
+
+      KEY ENTITIES: Hoss Mack, BCSO, Murray Lawrence Jr., Brandon Hastings, Robert Wilters, Anthony Lowery, Dean McGowan, David Whetstone, Tony Fuqua, Jarius McNeal.
+    llm_text: Hoss Mack led the 2003 wrongful conviction of Murray "Bubba" Lawrence Jr. for Brandon Hastings' murder, exposing BCSO lack of transparency. Read how Mack used this zero-evidence case for political advancement, fueling systemic corruption.
+    text: Sheriff Hoss Mack used a zero-evidence murder case to advance his own political career in 2003. How did the wrongful conviction of Murray Lawrence Jr. expose a total lack of transparency?
+    widget_date: "2024-05-31"
+    generated_at: "2026-11-06T16:49:51.533562Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lee-county-no-justice-center:
+    refined_source: 9b1dedc9933b40e321106c480306afe06097535f7c7c41b27c9995ad135a55a6
+    brief: "THE CONFLICT:\n- In 2005, Murray “Bubba” Lawrence Jr. was convicted of the capital murder of Brandon Hastings. \n- Sheriff Hoss Mack, District Attorney David Whetstone, and Judge Robert Wilters suppressed exculpatory evidence regarding the cause of death.\n- A Mississippi autopsy performed by Dr. Paul McGarry concluded death was by asphyxiation/strangulation, but the Baldwin County prosecution pursued a gunshot theory without producing a weapon or ballistics.\n- The suppression of this evidence was reportedly acknowledged by Mack, Whetstone, and Wilters in a 2023 Lagniappe cover story, \"Digging Deep.\"\n- Murray Lawrence has served 20 years in Holman Prison for the conviction.\n\nTHE DISCOVERY:\n- Article 2 establishes the existence of a \"Justice Center Fraternity\" or \"Police Fraternity.\"\n- This systemic culture involves close social and professional ties between police officers, judges, and district attorneys (sharing meals, attending the same churches).\n- This alliance creates a closed loop designed to protect institutional liability and the status quo, often at the expense of constitutional rights and individual justice.\n- Evidence of this pattern is seen in the Cole Barkley case, where Auburn Police and Judge Tickle prioritized city liability protection over accurate charging, resulting in a 45-year sentence for an incident involving a shooting through a closed door.\n\nTHE PIVOT:\n- Article 2 provides the structural explanation for the corruption detailed in Article 1. \n- The \"Police Fraternity\" concept explains how Sheriff Mack, DA Whetstone, and Judge Wilters were able to coordinate the suppression of the Mississippi autopsy without immediate accountability.\n- It frames the Lawrence case not as an isolated error, but as a predictable outcome of a system where the investigators, the prosecutor, and the judge function as a single, protected entity.\n\nKEY ENTITIES:\n- Hoss Mack (Sheriff, Baldwin County)\n- Murray “Bubba” Lawrence Jr. (Convicted individual)\n- Brandon Hastings (Victim)\n- Antony Lowery (Investigator/Sheriff aide)\n- Dean McGowan (Investigator)\n- David Whetstone (District Attorney)\n- Robert Wilters (Judge)\n- Dr. Paul McGarry (Forensic Pathologist)\n- Tony Fuqua (Officer)\n- Jarius McNeal (Suspect/Witness)\n- Cole Barkley (Auburn case subject)\n- Judge Tickle (Lee County Judge)"
+    llm_text: Sheriff Hoss Mack and DA David Whetstone buried a vital autopsy to secure the conviction of Murray “Bubba” Lawrence Jr. This injustice reveals the "Police Fraternity," a systemic alliance of officials who prioritize protecting their own over upholding constitutional rights.
+    text: Sheriff Hoss Mack and DA David Whetstone buried a vital autopsy report to convict Murray Lawrence Jr. Why do these officials always protect each other instead of upholding constitutional rights?
+    widget_date: "2024-03-11"
+    generated_at: "2026-11-06T16:50:15.551064Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
   shuffling-the-deck:
+    refined_source: c2c608a7913c61bc831a7ecf68051b17ca34e7adea9992bd7a96d9fee17c14a6
     brief: |-
       THE CONFLICT:
       *   Murray “Bubba” Lawrence Jr. was wrongfully convicted in a capital murder case (approx. 2003/2004) for the death of Brandon Hastings.
@@ -38,10 +62,12 @@ hooks:
       *   Tony Fuqua
       *   Baldwin County Sheriff’s Office (BCSO)
     llm_text: Murray "Bubba" Lawrence Jr. served 20 years for a wrongful conviction, ignored by Sheriff Hoss Mack. New evidence confirms Anthony Lowery was complicit in the 2004 case that secured Mack's promotion.
+    text: Murray Lawrence Jr. served twenty years for a wrongful conviction while Sheriff Hoss Mack looked away. New evidence confirms Anthony Lowery played a role in the 2004 case that helped Mack win a promotion.
     widget_date: "2024-07-08"
     generated_at: "2026-11-06T16:48:51.915918Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hanky-panky-at-the-po-po:
+    refined_source: ce07b57108dec6d0dea6cdd7163a124bcc27a1479251a8cc5440cdeb662470b8
     brief: |-
       THE CONFLICT:
       - Murray “Bubba” Lawrence Jr. was wrongfully convicted of the capital murder of Brandon Hastings and has been incarcerated in Holman Prison for 20 years.
@@ -73,20 +99,24 @@ hooks:
       - Dr. Paul McGarry (Forensic Pathologist)
       - Baldwin County Sheriff's Office (BCSO)
     llm_text: Sheriff Hoss Mack and DA David Whetstone suppressed critical evidence to keep Murray “Bubba” Lawrence Jr. behind bars for two decades. This investigation reveals the BCSO "Circle of Protection" that shields high-ranking officials from the accountability they deserve.
+    text: Sheriff Hoss Mack and DA David Whetstone hid key evidence to keep Murray Lawrence Jr. behind bars for twenty years. What did the Baldwin County Sheriff's Office do to protect high-ranking officials?
     widget_date: "2024-06-20"
     generated_at: "2026-11-06T16:47:55.586284Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   baldwin-county-judicial-corruption:
+    refined_source: 506d5ba9b9e31657a611e30d9e8ecef2020fc7f552d32b8590a1f9ad4f3d9a6f
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. resulting in 20 years of incarceration, stemming from a capital murder case involving Brandon Hastings.
       THE DISCOVERY: The Baldwin County Sheriff’s office has 20 years of unchecked criminal cases and loss of life, with the Major Crimes Division lacking accountability and transparency. Initial allegations of suppressed evidence and systemic corruption involving Hoss Mack and Robert Wilters (Judge) and David Whetstone (Prosecutor) were made.
       THE PIVOT: Article 2 establishes the systemic history of corruption, lack of transparency (e.g., unreleased $600,000 body/car camera footage), and the foundational allegation that evidence was "suppressed willfully," providing the historical context for the specific 2023 discovery of exculpatory evidence detailed in Article 1.
       KEY ENTITIES: Hoss Mack (Sheriff), Murray Lawrence Jr., Anthony Lowery, Dean McGowan, Robert Wilters (Judge), David Whetstone (Prosecutor), Dr. Paul McGarry, Tony Fuqua, John Stewart, Jarius McNeal, BCSO.
     llm_text: Murray "Bubba" Lawrence Jr. spent 20 years for a capital murder conviction linked to Brandon Hastings. This wrongful conviction reveals systemic corruption in Baldwin County, involving Sheriff Hoss Mack, Judge Robert Wilters, and Prosecutor David Whetstone.
+    text: Murray Lawrence Jr. spent twenty years in prison for a murder he did not commit. How did Sheriff Hoss Mack, Judge Robert Wilters, and Prosecutor David Whetstone keep him locked away?
     widget_date: "2023-12-07"
     generated_at: "2026-11-06T16:50:53.848703Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   wrongful-conviction-fairhope-baldwin-county:
+    refined_source: 750365de664e87c83891ff7dc68d5f28a75db9ba3a8a6f0879edbdf7d87ebfb3
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray "Bubba" Lawrence Jr. in Fairhope, Baldwin County, Alabama. Trial occurred around 2003/2004. Sheriff Hoss Mack (BCSO), District Attorney David Whetstone, and Judge Robert Wilters were involved in withholding evidence.
 
@@ -96,16 +126,18 @@ hooks:
 
       KEY ENTITIES: Hoss Mack (BCSO Sheriff), Murray Lawrence Jr., Anthony Lowery, Dean McGowan, Judge Robert Wilters, David Whetstone, Dr. Paul McGarry, Tony Fuqua, Jarius McNeal, Maxwell/Tillman.
     llm_text: Murray "Bubba" Lawrence Jr.'s 2003 conviction in Fairhope was wrongful. We uncovered evidence that Sheriff Hoss Mack, DA David Whetstone, and Judge Robert Wilters withheld key proof, including a Mississippi autopsy.
+    text: Sheriff Hoss Mack, DA David Whetstone, and Judge Robert Wilters hid proof, including a Mississippi autopsy, to secure a wrongful conviction in Fairhope. Who authorized the suppression of this key evidence?
     widget_date: "2024-06-17"
     generated_at: "2026-11-06T16:52:04.606695Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   po-po-hoss-mack-ccuo:
+    refined_source: 35555c95aadbc4335ba3abdded4c05729e689534bd9f768707e2ee70f5f7c519
     brief: |-
       THE CONFLICT:
       - In 2003/2004, Murray “Bubba” Lawrence Jr. was convicted of the murder of Brandon Hastings.
       - The prosecution—led by District Attorney David Whetstone, Judge Robert Wilters, and Sheriff Hoss Mack—pursued a theory of death by gunshot despite a Mississippi autopsy by Dr. Paul McGarry indicating death by asphyxiation/strangulation.
       - The investigation produced no physical evidence, including fingerprints, weapons, blood, or cell phone records connecting Lawrence to the crime.
-      - The conviction relied on the testimony of Jarius McNeal, who allegedly implicated Lawrence to avoid a death sentence.
+      - The conviction relied on the testimony of Jarius McNeal, who implicated Lawrence to avoid a death sentence.
       - Lawrence was sentenced to life in prison without the possibility of parole.
 
       THE DISCOVERY:
@@ -130,25 +162,7 @@ hooks:
       - Andre Reid (Officer)
       - Jon Grey (Public Relations/Ventures 68)
     llm_text: Sheriff Hoss Mack and DA David Whetstone secured a life sentence for Bubba Lawrence by pursuing a false theory of death. This report uncovers the 2004 letter proving these officials possessed the exculpatory autopsy reports and intentionally withheld them.
+    text: Sheriff Hoss Mack and DA David Whetstone used a false theory of death to give Bubba Lawrence a life sentence. A 2004 letter proves these officials possessed the missing autopsy reports all along.
     widget_date: "2024-06-15"
     generated_at: "2026-11-06T16:48:46.072512Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  hanky-panky-by-the-po-po:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray “Bubba” Lawrence Jr. for the murder of Brandon Hastings, occurring circa 2003/2004. Hoss Mack served as lead investigator; Robert Wilters served as presiding judge/DA.
-
-      THE DISCOVERY: Article 2 exposed the BCSO's internal lack of transparency and lack of supervision, specifically linking Hoss Mack to the zero-evidence wrongful conviction of Murray Lawrence Jr.
-
-      THE PIVOT: Article 2 established Hoss Mack’s direct involvement as lead investigator in the failed case of Murray Lawrence Jr., providing historical context for the systemic corruption and lack of accountability detailed in Article 1, which argues Mack used this conviction for political advancement (Captain to Sheriff).
-
-      KEY ENTITIES: Hoss Mack, BCSO, Murray Lawrence Jr., Brandon Hastings, Robert Wilters, Anthony Lowery, Dean McGowan, David Whetstone, Tony Fuqua, Jarius McNeal.
-    llm_text: Hoss Mack led the 2003 wrongful conviction of Murray "Bubba" Lawrence Jr. for Brandon Hastings' murder, exposing BCSO lack of transparency. Discover how Mack used this zero-evidence case for political advancement, fueling systemic corruption.
-    widget_date: "2024-05-31"
-    generated_at: "2026-11-06T16:49:51.533562Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  lee-county-no-justice-center:
-    brief: "THE CONFLICT:\n- In 2005, Murray “Bubba” Lawrence Jr. was convicted of the capital murder of Brandon Hastings. \n- Sheriff Hoss Mack, District Attorney David Whetstone, and Judge Robert Wilters allegedly suppressed exculpatory evidence regarding the cause of death.\n- A Mississippi autopsy performed by Dr. Paul McGarry concluded death was by asphyxiation/strangulation, but the Baldwin County prosecution pursued a gunshot theory without producing a weapon or ballistics.\n- The suppression of this evidence was reportedly acknowledged by Mack, Whetstone, and Wilters in a 2023 Lagniappe cover story, \"Digging Deep.\"\n- Murray Lawrence has served 20 years in Holman Prison for the conviction.\n\nTHE DISCOVERY:\n- Article 2 establishes the existence of a \"Justice Center Fraternity\" or \"Police Fraternity.\"\n- This systemic culture involves close social and professional ties between police officers, judges, and district attorneys (sharing meals, attending the same churches).\n- This alliance creates a closed loop designed to protect institutional liability and the status quo, often at the expense of constitutional rights and individual justice.\n- Evidence of this pattern is seen in the Cole Barkley case, where Auburn Police and Judge Tickle allegedly prioritized city liability protection over accurate charging, resulting in a 45-year sentence for an incident involving a shooting through a closed door.\n\nTHE PIVOT:\n- Article 2 provides the structural explanation for the corruption detailed in Article 1. \n- The \"Police Fraternity\" concept explains how Sheriff Mack, DA Whetstone, and Judge Wilters were able to coordinate the suppression of the Mississippi autopsy without immediate accountability.\n- It frames the Lawrence case not as an isolated error, but as a predictable outcome of a system where the investigators, the prosecutor, and the judge function as a single, protected entity.\n\nKEY ENTITIES:\n- Hoss Mack (Sheriff, Baldwin County)\n- Murray “Bubba” Lawrence Jr. (Convicted individual)\n- Brandon Hastings (Victim)\n- Antony Lowery (Investigator/Sheriff aide)\n- Dean McGowan (Investigator)\n- David Whetstone (District Attorney)\n- Robert Wilters (Judge)\n- Dr. Paul McGarry (Forensic Pathologist)\n- Tony Fuqua (Officer)\n- Jarius McNeal (Suspect/Witness)\n- Cole Barkley (Auburn case subject)\n- Judge Tickle (Lee County Judge)"
-    llm_text: Sheriff Hoss Mack and DA David Whetstone allegedly buried a vital autopsy to secure the conviction of Murray “Bubba” Lawrence Jr. This injustice reveals the "Police Fraternity," a systemic alliance of officials who prioritize protecting their own over upholding constitutional rights.
-    widget_date: "2024-03-11"
-    generated_at: "2026-11-06T16:50:15.551064Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'

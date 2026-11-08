@@ -5,66 +5,8 @@ metadata:
   main_date: "2026-01-13"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  some-things-need-to-go-away:
-    brief: |-
-      THE CONFLICT: Specific past events/dates linking the two articles are not provided in the widget article content.
-      THE DISCOVERY: Article 2 revealed issues concerning HB-188, Elliott, Kant, Lynn-Stacy, Thomason, and Tucker Dorsey at the time of its publication.
-      THE PIVOT: Article 2 serves as older legislative/political context (HB-188) against which the ongoing BCSO accountability issues detailed in Article 1 (Lowery's tenure) must be measured.
-      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, Murray Lawrence Jr., Baldwin County Major Crimes Division, Scott Boone Consulting, Elliott, HB-188, Kant, Lynn-Stacy, Thomason, Tucker Dorsey
-    llm_text: Anthony Lowery's BCSO accountability issues demand deeper context. We examine HB-188 and the roles of Elliott, Kant, and Lynn-Stacy to understand how past legislation shaped today's challenges.
-    widget_date: "2026-01-10"
-    generated_at: "2026-11-06T10:37:42.106015Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  oil:
-    brief: |-
-      THE CONFLICT: In the 2000s under Hugo Chávez, Venezuela seized oil projects belonging to U.S. firms (ExxonMobil, ConocoPhillips). U.S. companies subsequently won final, binding international arbitration and U.S. court judgments for unpaid damages estimated at ~$35 billion.
-      THE DISCOVERY: The law permits judgment enforcement, allowing creditors to seize commercial assets (e.g., ~300 Venezuelan oil tankers, net value ~$115 million each) outside Venezuela's borders when the debtor refuses to comply with court rulings.
-      THE PIVOT: Article 2 provides legal context for the 'absolute immunity' referenced in Article 1; both scenarios detail a refusal to abide by judicial rulings (Venezuela refusing court judgment vs. Baldwin County/BCSO judiciary ignoring citizen safety/complaints), illustrating a pattern of systemic impunity.
-      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, KcKenzie, Baldwin County Sheriff Office (BCSO), Donald Trump, Venezuela, ExxonMobil, ConocoPhillips.
-    llm_text: Venezuela's $35 billion judgment against ExxonMobil and ConocoPhillips proves U.S. law lets creditors seize tankers globally. This pattern of systemic impunity mirrors when the Baldwin County Sheriff Office ignores citizen safety complaints.
-    widget_date: "2026-01-03"
-    generated_at: "2026-11-06T10:39:33.658087Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bcso-culture:
-    brief: |-
-      THE CONFLICT:
-      *   Murray Lawrence Jr. was wrongfully convicted; Anthony Lowery was the lead investigator for the District Attorney.
-      *   Stephen Nodine was subject to a political hit piece/murder trial involving Mack and Lowery.
-      *   Johnathan Victor was killed in a 2017 shooting, cleared by a federal jury regarding Deputy Lt. Matthew Hunady.
-      *   OJ French was shot to death in Bay Minette after being stopped for a broken taillight, ruled "justified" by the Baldwin County Major Crimes Unit.
-      *   A deadly interstate crash involving sheriff Hoss Mack claimed five lives.
-      *   Anthony Lowery is the current appointed sheriff, having adopted a culture developed by former sheriff Hoss Mack.
-
-      THE DISCOVERY:
-      *   Article 2 details specific historical instances (Lawrence Jr. conviction, Victor shooting, Nodine trial, French death) demonstrating the BCSO culture of blanket immunity, no transparency, and no accountability.
-      *   Article 2 reveals that during the Lawrence Jr. case, Hoss Mack, Judge Robert Wilters, and David Whetstone allegedly hid exculpatory evidence.
-
-      THE PIVOT:
-      *   Article 2 provides the historical evidence of documented, past failures (e.g., Victor, Nodine, Lawrence Jr.) that establish the long-standing, systemic "Absolute Immunity" culture that Article 1 asserts exists in the BCSO, tracing it specifically back to Hoss Mack and Anthony Lowery.
-
-      KEY ENTITIES:
-      *   Anthony Lowery (Appointed Sheriff)
-      *   Hoss Mack (Former Sheriff)
-      *   Matt McKenzie (Candidate)
-      *   KcKenzie
-      *   Murray Lawrence Jr.
-      *   Stephen Nodine
-      *   Johnathan Victor
-      *   Deputy Lt. Matthew Hunady
-      *   Robert Wilters (Judge)
-      *   David Whetstone
-      *   Nodine
-      *   Peyton Little
-      *   Justin Correa
-      *   Mayor Wills (Former Mayor)
-      *   Scott Boone Consulting (formerly Catalyst)
-      *   Baldwin County Sheriff Office (BCSO)
-      *   ALEA (Alabama Law Enforcement Agency)
-    llm_text: Anthony Lowery inherited a BCSO culture of immunity rooted in Hoss Mack's era. Evidence shows the office hid evidence in the Murray Lawrence Jr. conviction and cleared the deadly OJ French shooting, proving accountability is absent.
-    widget_date: "2025-10-05"
-    generated_at: "2026-11-06T10:40:32.245480Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    refined_source: 2e9c48f4c01f927347e0c402f4995637c8ad631460a7d7f932cf5d529eb71277
     brief: |-
       THE CONFLICT:
       *   2005: Murray Lawrence Jr. was wrongfully convicted of a capital murder (victim Brandon Hastings) in Baldwin County.
@@ -89,20 +31,24 @@ hooks:
       *   Matt McKenzie (Candidate supported by Article 1)
       *   Scott Boone Consulting (formerly Catalyst)
     llm_text: Murray Lawrence Jr. spent 20 years wrongly convicted in 2005. Leaders like Anthony Lowery and Robert Wilters now hold state power, blocking his freedom and proving institutional misconduct persists.
+    text: Murray Lawrence Jr. spent twenty years in prison after a wrongful conviction in 2005. Leaders like Anthony Lowery and Robert Wilters now hold high state power and block his freedom.
     widget_date: "2025-10-01"
     generated_at: "2026-11-06T10:41:34.883403Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-enforcer-hoss-macks-rise-to-statewide-power:
+    refined_source: 91f9d5f163d20664feda88979defba377f999737eaf9b2d0a5fdbca26d408dcd
     brief: |-
       THE CONFLICT: Hoss Mack built a career on suppression and took power statewide from Baldwin County.
       THE DISCOVERY: Baldwin County is a politically influential region where power is consolidated and officials rarely face consequences.
       THE PIVOT: Article 2 established Hoss Mack's foundation of power and suppression, which Article 1 claims was institutionalized and passed to Anthony Lowery, creating the current culture of "Absolute Immunity" within the BCSO.
       KEY ENTITIES: Hoss Mack, Anthony Lowery, Matt McKenzie, Murray Lawrence Jr., Baldwin County Sheriff Office (BCSO), Catalyst/Scott Boone Consulting, ALEA.
     llm_text: Hoss Mack built statewide power through suppression in Baldwin County. Now, Anthony Lowery institutionalized that culture of "Absolute Immunity" within the BCSO.
+    text: Hoss Mack built statewide political power through suppression in Baldwin County. Sheriff Anthony Lowery now maintains that same culture of absolute immunity within the department.
     widget_date: "2025-08-15"
     generated_at: "2026-11-06T10:38:28.647532Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    refined_source: 84076e24832ad5283d8840f175f4c26a6349ab1d1a8dadde0a8816715f226469
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr. was wrongfully convicted of a capital murder in Baldwin County in 2005 for the murder of Brandon Hastings.
@@ -129,10 +75,12 @@ hooks:
       Governor Kay Ivey
       Catalyst / Scott Boone Consulting
     llm_text: Murray Lawrence Jr. spent 20 years wrongly convicted in Baldwin County. His case proves local powers like DA Robert Wilters and BCSO Sheriff Anthony Lowery collaborated to uphold a systemic "good ole boy" operation.
+    text: Murray Lawrence Jr. spent twenty years wrongly convicted in Baldwin County. His case proves that District Attorney Robert Wilters and Sheriff Anthony Lowery protect a systemic good ole boy operation.
     widget_date: "2025-07-30"
     generated_at: "2026-11-06T10:42:43.816254Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   new-sheriff-no-changes:
+    refined_source: baecac9323ed102f1a3c26be6de9fd8824ee1c962cf9991c09696d8b74bec955
     brief: |-
       THE CONFLICT:
       Hoss Mack ran the Baldwin County Sheriff Office (BCSO) for at least 15 years, during which time 10 innocent lives were lost (justified by the BCSO Major Crimes Unit).
@@ -156,6 +104,72 @@ hooks:
       Baldwin County
       ALEA
     llm_text: Hoss Mack ran the BCSO for 15 years, tying the wrongful conviction of Murray Lawrence Jr. to 10 lost lives. Governor Kay Ivey then appointed Anthony Lowery, proving the BCSO's corruption is institutional, not isolated.
+    text: Hoss Mack ran the sheriff's office for fifteen years while ten lives were lost under suspicious circumstances. Governor Kay Ivey then appointed Anthony Lowery, proving that law enforcement corruption is institutional.
     widget_date: "2024-08-29"
     generated_at: "2026-11-06T10:43:43.318218Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  some-things-need-to-go-away:
+    refined_source: 0b5a14a92329198cfad0408ae7619e91e5c3fd6983ce3ce6f80ce5724785bb5b
+    brief: |-
+      THE CONFLICT: Specific past events/dates linking the two articles are not provided in the widget article content.
+      THE DISCOVERY: Article 2 revealed issues concerning HB-188, Elliott, Kant, Lynn-Stacy, Thomason, and Tucker Dorsey at the time of its publication.
+      THE PIVOT: Article 2 serves as older legislative/political context (HB-188) against which the ongoing BCSO accountability issues detailed in Article 1 (Lowery's tenure) must be measured.
+      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, Murray Lawrence Jr., Baldwin County Major Crimes Division, Scott Boone Consulting, Elliott, HB-188, Kant, Lynn-Stacy, Thomason, Tucker Dorsey
+    llm_text: Anthony Lowery's BCSO accountability issues demand deeper context. We examine HB-188 and the roles of Elliott, Kant, and Lynn-Stacy to understand how past legislation shaped today's challenges.
+    text: Anthony Lowery and the sheriff's office face serious questions about accountability. We examine past legislation like HB-188 and the actions of local officials to understand today's law enforcement challenges.
+    widget_date: "2026-01-10"
+    generated_at: "2026-11-06T10:37:42.106015Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  oil:
+    refined_source: 8e2220930c0a8b520ec3717d73cb3ba76b8566d4792ac405341b0b7925203f95
+    brief: |-
+      THE CONFLICT: In the 2000s under Hugo Chávez, Venezuela seized oil projects belonging to U.S. firms (ExxonMobil, ConocoPhillips). U.S. companies subsequently won final, binding international arbitration and U.S. court judgments for unpaid damages estimated at ~$35 billion.
+      THE DISCOVERY: The law permits judgment enforcement, allowing creditors to seize commercial assets (e.g., ~300 Venezuelan oil tankers, net value ~$115 million each) outside Venezuela's borders when the debtor refuses to comply with court rulings.
+      THE PIVOT: Article 2 provides legal context for the 'absolute immunity' referenced in Article 1; both scenarios detail a refusal to abide by judicial rulings (Venezuela refusing court judgment vs. Baldwin County/BCSO judiciary ignoring citizen safety/complaints), illustrating a pattern of systemic impunity.
+      KEY ENTITIES: Anthony Lowery, Hoss Mack, Matt McKenzie, KcKenzie, Baldwin County Sheriff Office (BCSO), Donald Trump, Venezuela, ExxonMobil, ConocoPhillips.
+    llm_text: Venezuela's $35 billion judgment against ExxonMobil and ConocoPhillips proves U.S. law lets creditors seize tankers globally. This pattern of systemic impunity mirrors when the Baldwin County Sheriff Office ignores citizen safety complaints.
+    text: Venezuela faces a massive judgment that lets creditors seize oil tankers across the globe. This pattern of systemic legal action contrasts with the Baldwin County Sheriff's Office ignoring citizen safety complaints.
+    widget_date: "2026-01-03"
+    generated_at: "2026-11-06T10:39:33.658087Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-culture:
+    refined_source: a8c33503cba36adeaa43f28e20a6e060ff958c82feeba713d3bae2c1d73b085b
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted; Anthony Lowery was the lead investigator for the District Attorney.
+      *   Stephen Nodine was subject to a political hit piece/murder trial involving Mack and Lowery.
+      *   Johnathan Victor was killed in a 2017 shooting, cleared by a federal jury regarding Deputy Lt. Matthew Hunady.
+      *   OJ French was shot to death in Bay Minette after being stopped for a broken taillight, ruled "justified" by the Baldwin County Major Crimes Unit.
+      *   A deadly interstate crash involving sheriff Hoss Mack claimed five lives.
+      *   Anthony Lowery is the current appointed sheriff, having adopted a culture developed by former sheriff Hoss Mack.
+
+      THE DISCOVERY:
+      *   Article 2 details specific historical instances (Lawrence Jr. conviction, Victor shooting, Nodine trial, French death) demonstrating the BCSO culture of blanket immunity, no transparency, and no accountability.
+      *   Article 2 reveals that during the Lawrence Jr. case, Hoss Mack, Judge Robert Wilters, and David Whetstone hid exculpatory evidence.
+
+      THE PIVOT:
+      *   Article 2 provides the historical evidence of documented, past failures (e.g., Victor, Nodine, Lawrence Jr.) that establish the long-standing, systemic "Absolute Immunity" culture that Article 1 asserts exists in the BCSO, tracing it specifically back to Hoss Mack and Anthony Lowery.
+
+      KEY ENTITIES:
+      *   Anthony Lowery (Appointed Sheriff)
+      *   Hoss Mack (Former Sheriff)
+      *   Matt McKenzie (Candidate)
+      *   KcKenzie
+      *   Murray Lawrence Jr.
+      *   Stephen Nodine
+      *   Johnathan Victor
+      *   Deputy Lt. Matthew Hunady
+      *   Robert Wilters (Judge)
+      *   David Whetstone
+      *   Nodine
+      *   Peyton Little
+      *   Justin Correa
+      *   Mayor Wills (Former Mayor)
+      *   Scott Boone Consulting (formerly Catalyst)
+      *   Baldwin County Sheriff Office (BCSO)
+      *   ALEA (Alabama Law Enforcement Agency)
+    llm_text: Anthony Lowery inherited a BCSO culture of immunity rooted in Hoss Mack's era. Evidence shows the office hid evidence in the Murray Lawrence Jr. conviction and cleared the deadly OJ French shooting, proving accountability is absent.
+    text: Anthony Lowery inherited a sheriff's office culture built on immunity under Hoss Mack. Evidence shows the department hid records in the Murray Lawrence Jr. case and cleared the deadly O.J. French shooting.
+    widget_date: "2025-10-05"
+    generated_at: "2026-11-06T10:40:32.245480Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

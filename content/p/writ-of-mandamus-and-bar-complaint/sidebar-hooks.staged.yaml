@@ -1,0 +1,72 @@
+metadata:
+  generated_at: "2026-11-07T07:21:54.979929Z"
+  generator_version: 1.0.0
+  post_slug: writ-of-mandamus-and-bar-complaint
+  main_date: "2021-07-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-corruption-insurance:
+    refined_source: d97e54ea8370974a26a85e3cb30de1fd709c9a79cfc021cfb200ac69d688a224
+    brief: |-
+      THE CONFLICT: Systemic political corruption exists throughout Alabama, supported by "Alabama Corruption Insurance"—a free mechanism provided by the Governor, Attorney General, Judiciary, and Alabama Ethics Commission, which historically ensures a 98% chance that complaints are ignored. Historical context includes State Representative Mike Ball's proposal (AL HB179) to force the Alabama Ethics Commission to approve prosecutions for elected officials. A specific example of alleged corruption involved Columbia, Alabama, where complaints were filed against the Mayor, Chief of Police (Jim Mock), and local prosecutor Ben Freeman, who had a conflict of interest defending Lori Mock (Chief Mock's wife).
+
+      THE DISCOVERY: The Alabama Ethics Commission, in its current form, facilitates political corruption by providing immunity via the Corruption Insurance, allowing elected officials to evade accountability.
+
+      THE PIVOT: Tom Albritton, the Alabama Ethics Director, engaged in self-dealing by using the Mabel Amos Memorial Fund, which he oversees, to pay over $105,000 in scholarships for his children's tuition, demonstrating how the body meant to prevent such actions can be compromised.
+
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund, Alabama Ethics Commission, Mike Ball, Ben Freeman, Lori Mock, Columbia, Alabama, Alabama Corruption Insurance, Regions Bank.
+    llm_text: Alabama’s "Corruption Insurance" guarantees political impunity throughout the state. Ethics Director Tom Albritton betrayed this system, using the Mabel Amos Memorial Fund to pay over $105,000 for his children’s tuition.
+    text: Ethics Director Tom Albritton took over $105,000 from the Mabel Amos Memorial Fund to pay for his children's tuition. How does the state ethics head escape punishment for self-dealing?
+    widget_date: "2020-12-17"
+    generated_at: "2026-11-07T07:20:29.990921Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethic-less-in-alabama:
+    refined_source: c5048ed80ec83444d32c21f40bdc5a701dcf1c2de7bb15d165d62e1a7a065d8b
+    brief: |-
+      THE CONFLICT: Senator Lee "Trip" Pittman conducted business with the City of Fairhope as a low bidder since 2004; the Alabama Ethics Commission (AEC) was accused of enabling his use of office for personal gain, including assisting in the renewal of a 2012 Disaster Debris Removal contract in July 2014.
+      THE DISCOVERY: The AEC, under Hugh Evans, historically functioned as a "corrupt political vehicle" supporting elected officials (e.g., Mayor of Daphne, Mayor of Fairhope, Senator Pittman, Mike Hubbard) in obtaining taxpayer-funded contracts, including a $625,575.00 "Oil Spill 2010" contract.
+      THE PIVOT: The historical evidence of the AEC enabling political corruption (Pittman contracts, 2004-2014) establishes a pattern of institutional failure and self-interest, providing context for the 2021 ethics complaint against Ethics Director Tom Albritton for allowing his children to receive $105,000 in scholarships from the Mabel Amos Memorial Fund he oversees.
+      KEY ENTITIES: Senator Lee "Trip" Pittman, Tom Albritton (Ethics Director), Mabel Amos Memorial Fund, Alabama Ethics Commission (AEC), Hugh Evans (AEC Presiding), Francis Paul Ripp, City of Fairhope, Baldwin County Commissioners, Mike Hubbard, July 2, 2021, July 14, 2010, $105,000.
+    llm_text: Senator Lee "Trip" Pittman used the AEC to secure taxpayer contracts from 2004-2014. This history of institutional corruption provides context for Ethics Director Tom Albritton receiving $105,000 in scholarships from the Mabel Amos Memorial Fund.
+    text: Senator Lee Trip Pittman used the ethics commission to secure taxpayer contracts for a decade. This history of self-dealing sets the stage for Ethics Director Tom Albritton taking $105,000 from the Mabel Amos Memorial Fund.
+    widget_date: "2014-08-09"
+    generated_at: "2026-11-07T07:21:41.377149Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  self-dealing-self-stealing:
+    refined_source: d46e845eb56fef5fb9a2d3d88660c74eeb3a1cb2a501098cb731cfb07604cee2
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, Director of the Alabama Ethics Commission, is one of three trustees of the Mabel Amos Memorial Fund.
+      *   Albritton’s children received scholarships valued at $105,000 from this fund.
+      *   The initial reporting on this issue was published on June 29, 2021, and subsequent calls to action/accusations were published on July 2, 2021.
+
+      THE DISCOVERY:
+      *   Article 2 established the premise that "Self Dealing is the same as self stealing," linking Tom Albritton and the Alabama Ethics Commission to state political corruption.
+
+      THE PIVOT:
+      *   Article 2 provided the public accusation and context (self-dealing/self-stealing), prompting The Ripp Report to file specific formal legal actions detailed in Article 1 (Ethics Complaint, Writ of Mandamus, and Alabama Bar Complaint).
+
+      KEY ENTITIES:
+      *   Tom Albritton (Head of the Alabama Ethics Commission)
+      *   Alabama Ethics Commission
+      *   Mabel Amos Memorial Fund
+      *   Regions Bank
+      *   Alabama Bar (Bar Complaint)
+      *   Alabama Attorney General
+    llm_text: Tom Albritton, Director of the Alabama Ethics Commission, received $105,000 in scholarships from the Mabel Amos Memorial Fund. The Ripp Report filed legal actions—including an Ethics Complaint and Bar Complaint—proving his self-dealing connects directly to state political corruption.
+    text: The Ripp Report filed an Ethics Complaint and a Bar Complaint against Alabama Ethics Commission Director Tom Albritton. He took $105,000 from the Mabel Amos Memorial Fund for his own family.
+    widget_date: "2021-07-09"
+    generated_at: "2026-11-07T07:18:19.327335Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-self-dealing-immunity:
+    refined_source: 9db96fa191c3073461d89589a8802fe10cd15629b5804bdc0f895c528a40997d
+    brief: |-
+      THE CONFLICT: The Alabama Ethics Commission was historically accused of granting immunity to politicians involved in alleged graft, including State Senator boom boom Pittman ($750,000 skim), Jack Burrell, and former councilman Robert Brown ($300,000+ contract) at the Fairhope Airport/Art Center.
+      THE DISCOVERY: Investigations (notably by Richard Fording) revealed that Tom Albritton, Director of the Alabama Ethics Commission and a trustee of the Mabel Amos Memorial Fund, allowed his two children to receive $105,000 in scholarships through 2018. Regions Bank received over $1 million for managing the fund.
+      THE PIVOT: The historical pattern of the Ethics Commission dismissing complaints and granting immunity (Article 2 context) provided the foundation for The Ripp Report to file formal complaints and a Writ of Mandamus against Tom Albritton (Article 1) for the specific self-dealing issue involving the Mabel Amos Trust, violating IRS Section 4941(d).
+      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Fund, Alabama Ethics Commission, Regions Bank, Richard Fording, boom boom Pittman, Jack Burrell, Robert Brown, University of Texas, Alabama Attorney General, The Ripp Report.
+    llm_text: Tom Albritton, Alabama Ethics Commission Director, funneled $105,000 in scholarships for his children via the Mabel Amos Memorial Fund. After the commission shielded politicians like boom boom Pittman, The Ripp Report filed a Writ of Mandamus challenging Albritton’s self-dealing.
+    text: The Ripp Report filed a Writ of Mandamus after Alabama Ethics Commission Director Tom Albritton took $105,000 in scholarships for his children. Who holds the watchdogs accountable when they break the law?
+    widget_date: "2021-07-02"
+    generated_at: "2026-11-07T07:19:09.631357Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

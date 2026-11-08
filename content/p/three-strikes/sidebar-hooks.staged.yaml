@@ -1,0 +1,176 @@
+metadata:
+  generated_at: "2026-11-08T01:39:12.169394Z"
+  generator_version: 1.0.0
+  post_slug: three-strikes
+  main_date: "2019-06-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  gulf-shores-lawsuit-2020:
+    brief: |-
+      THE CONFLICT: Gulf Shores citizens faced approval of an apartment complex over a year prior to the 2020 lawsuit.
+      THE DISCOVERY: The Gulf Shores City and Mayor dismissed residents' opposition, stating the "Apartments are a done deal, get over it."
+      THE PIVOT: The Gulf Shores lawsuit demonstrated citizen resistance against local government/elected officials overriding resident objections, setting a precedent for citizens to fight local council dysfunction, paralleled by the Fairhope City Council's controversial decisions regarding the 18 million property sale (Dyas/Triangle property) on May 29th.
+      KEY ENTITIES: Gulf Shores, Pete Sims, Fairhope City Council, Council President Burrell, Diana Brewer, Weeks Bay Foundation, Inc., Twin Beech road property, Dyas/Triangle property, Arthur Corte, Councilman Brown, Jay Robinson, Equity Valuation Partners, May 29th.
+    llm_text: Gulf Shores Mayor dismissed residents facing apartment complex approval, stating the project was "a done deal." See how citizen resistance against local officials helped set a precedent, mirroring the Fairhope City Council's controversial $18 million Dyas/Triangle property decision.
+    widget_date: "2019-05-29"
+    generated_at: "2026-11-08T01:36:53.539779Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  equal-representation:
+    brief: |-
+      THE CONFLICT:
+      *   Dyas/Triangle property, 109 acres, valued at $18 million plus, was subject to a Conservation Easement Agreement (Resolution 28).
+      *   The proposal involved a cost of $39,025.00 for the easement, due diligence, and closing fees.
+      *   The event occurred during the Fairhope City Council meeting on May 29th.
+      *   Council President Burrell was involved in the decision-making process.
+
+      THE DISCOVERY:
+      *   Article 2 (older context) revealed historical information regarding "EQUAL REPRESENTATION" and the role of Wilson.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context of representation and equity (Wilson/Equal Representation), contrasting with the current Council's actions on May 29th, where citizens were overridden by political agendas favoring developers (e.g., Weeks Bay Foundation/Diana Brewer).
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Council President Burrell
+      *   Diana Brewer
+      *   Weeks Bay Foundation, Inc.
+      *   Boone
+      *   Brown (Robert Brown)
+      *   Arthur Corte
+      *   Wilson
+      *   Triangle Lawsuit (contextual)
+    llm_text: Council President Burrell oversaw the $39k conservation easement for the $18M Dyas/Triangle property on May 29. Does this decision reflect Fairhope's history of "EQUAL REPRESENTATION," or does it favor developers like Diana Brewer and Weeks Bay?
+    widget_date: "2019-05-23"
+    generated_at: "2026-11-08T01:37:57.135022Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  community-engagement:
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council meeting: May 29; duration 3 hours 34 minutes; Ripp Report frames council as dysfunctional/dictatorship; three major issues framed as Strike One, Strike Two, Strike Three.
+      - Strike One:
+        - Resolution: City Council approves selection of Equity Valuation Partners for Professional Appraisal Services to prepare Appraisal on City Parkland property; cost not to exceed TBD.
+        - Council turned back children counting on purchasing Twin Beech Road property; staff and Mayor recommended; Council said all agree on Twin Beech Road but cost too much.
+        - Council bought soccer fields because cheapest; cost over $1 million to correct grade; fields never built to specs, e.g., sanitizing soil.
+        - Council President Burrell wanted appraisal; Ripp Report: not about money, about quality of life and supporting ignored neighborhood.
+      - Strike Two:
+        - Resolution: Council authorizes Council President to execute Conservation Easement Agreement between City of Fairhope and Weeks Bay Foundation, Inc. for two conservation easements for properties known collectively as Dyas/Triangle property; outline terms.
+        - Total cost of conservation easement, due diligence, closing fees: $39,025.00.
+      - Strike Three:
+        - Council President front and center; did not follow up, dropped ball, blamed Developer.
+        - Jay Robinson backed up Jack by saying he had 46 complaints; Ripp Report: Council had hundreds of complaints and only hand full supporters over Fly Creek Apartments; council overrode citizens for developer; Mayor stood with citizens opposing apartments.
+      - Triangle Lawsuit Settlement: $8.25 million with additional $3 million in legal fees.
+      - To pay for Triangle property, Mayor Can’t and Council President Jack Burrell raided utility fund for $3 million, took loan for rest; attorneys got $3 million up front.
+
+      THE DISCOVERY:
+      - Widget article: Fairhope citizens need to watch first 30 minutes of Fairhope Work Session, March 27; first 15 minutes involves K-1 Center, next 15 minutes discussing Conservation Easement on Triangle property 109 acres.
+      - Councilman Conyers spoke up for citizens and encouraged Community Engagement aka Public participation; Conyers also encouraged Council, unsuccessfully, to establish pay grade for Mayor, in limbo since election of Mayor Wilson. Mayor Wilson refused duel salaries of Mayor and Utility Director, position and salary former Mayor enjoyed over 10 years.
+      - Baldwin County School Board wanted to sell K1 center for over 10 years; only buyer considered is City of Fairhope; Council cannot beat its chest they put together anything new, it was overdue; Council had own plan that failed.
+      - Mayor had backup plan and now sale is on track again; first effort by council to determine use of K-1 had restricted public participation; Jack Plan went heads first into failure.
+      - Mayor is trying to maximize Community Engagement discussions for K-1 Center, Triangle property, Comprehensive Land Use Plan.
+      - Important: Tuesday April 2nd @ 9:00AM public meeting, Nix Center, will be held to select Training Facilitators, approximately 30, for 30 tables that will host April 3 meeting. Training meeting will prepare Facilitators to guide conversation on April 3.
+      - Please participate in discussing best use of K-1 Center; decision should be decided by citizens, not 3 councilman.
+      - K-1 center, Nix Center and Fairhope Community Park included in $4 million purchase; no funds for development currently budgeted for K-1 Center.
+      - Mr Burrell insisted Triangle property was purchased for a park, that is total BS. To pay for property, Mayor Can’t and Council President Jack Burrell raided utility fund for $3 million, took loan for rest. Attorneys got $3 million up front.
+      - City of Fairhope under commission Comprehensive Land Use Plan. Mayor promoting under banner Community Engagement. Council President does not think Council needs “outsider input”.
+      - Notice in last 15 minutes of video how Council President Burrell and Councilman Brown push for Conservation Easement. Burrell and Brown know they can count on Bee Boone, for that third Catalyst vote.
+      - Councilman Conyers and Robinson favor Community Engagement route, along with Mayor.
+      - Burrell, Boone and Brown all favor Conservation Easement and want to rush decision before Comprehensive Land Use Plan finished. Why because Catalyst does not want anything done on property and Conservation Easement will accomplish that. Citizens of Fairhope better not let that happen.
+      - President of Fairhope Council famously said he was tired of hearing from citizens, citizens, citizens. The CITIZENS better be sure Burrell gets the message.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2’s Fairhope Work Session March 27, first 30 minutes, K-1 Center and Conservation Easement on Triangle property 109 acres, is earlier context for Article 1’s May 29 council actions.
+      - Article 2’s April 2 Nix Center public meeting and April 3 training/public meeting context.
+      - Article 2’s facts on Triangle LAWSUIT SETTLEMENT, $8.25 million, $3 million legal fees, $4 million K-1 purchase, $3 million utility fund raid, $39,025 easement cost, Comprehensive Land Use Plan.
+      - Article 2 is smoking gun/background for Article 1 because it shows earlier public participation/Community Engagement conflict and council-developer-Catalyst pressure before May 29.
+
+      THE KEY ENTITIES:
+      - Fairhope City Council
+      - Mayor Wilson
+      - Council President Jack Burrell
+      - Councilman Boone
+      - Councilman Brown
+      - Councilman Conyers
+      - Councilman Robinson
+      - Diana Brewer
+      - Weeks Bay Foundation, Inc.
+      - Equity Valuation Partners
+      - Catalyst
+      - Baldwin County School Board
+      - K-1 Center
+      - Nix Center
+      - Fairhope Community Park
+      - Twin Beech Road
+      - Fly Creek Apartments
+      - Triangle property / Dyas/Triangle property
+      - Comprehensive Land Use Plan
+      - Arthur Corte
+      - Robert Brown
+      - Jay Robinson
+      - Lowery, Wilters
+      - Court of public opinion/Judicial Courts
+    llm_text: Watch Fairhope’s first 30 minutes of the March 27 work session, because Mayor Wilson, Jack Burrell, and Council clash over the K-1 Center and Triangle property before May 29 council becomes three strikes. The widget says citizens should care before Burrell and Brown push a conservation easement that could shut input.
+    widget_date: "2019-03-27"
+    generated_at: "2026-11-08T01:37:35.492660Z"
+    model_name: recursive/flint-v1.0:free
+  tax-tax-and-re-tax:
+    brief: |-
+      THE CONFLICT:
+      - Past action involved a special school tax favored by Fairhope City Council over Mayor's proposal for impact fees.
+      - The City Council stated it wanted out of any School business.
+      - Timeline is prior to May 29th (date of Main Article meeting).
+
+      THE DISCOVERY:
+      - Widget Article (Older) revealed Baldwin County relies on taxpayers to cover developer impact fee shortfalls for Schools, Streets/Transportation, and Education.
+      - Widget Article mentioned a proposed "education lottery" intended to pay back State General Fund deficits from 2013.
+
+      THE PIVOT:
+      - Widget Article establishes the county-level fiscal context (developer fee avoidance impacting schools) which underpins the Fairhope City Council's prior decision (favoring special school tax) described in Article 1.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - Fairhope City Council
+      - Council President Burrell
+      - Diana Brewer
+      - Councilman Boone
+      - Councilman Brown
+      - Arthur Corte
+      - Weeks Bay Foundation, Inc.
+      - Triangle Lawsuit
+      - Wilson
+      - Brewer
+      - Jay Robinson
+    llm_text: Baldwin County taxpayers cover developer fee gaps for schools, showing why Fairhope City Council favored a special school tax over impact fees. See how this history impacts local funding decisions now.
+    widget_date: "2019-05-17"
+    generated_at: "2026-11-08T01:36:33.008869Z"
+    model_name: plugsky-lite
+  liar-liar-pants-on-fire:
+    brief: |-
+      THE CONFLICT: Baldwin County legislators, under Governor Poison Ivy, were pursuing bills that sought to legalize corruption by granting cover for offering "incentives" in exchange for access to power, eliminating paper trails and allowing benefactors to remain anonymous.
+      THE DISCOVERY: The Ethics Commission is toothless and controlled by the same legislators, providing "protection from prosecution" for elected officials within the Republican party.
+      THE PIVOT: The mechanism described in Article 2 (legalizing corruption, ensuring anonymity/impunity for benefactors, and controlling accountability) provides the context for the $18 million Dyas/Triangle land deal in Article 1, where a developer benefit is sought via an anonymous donor and council members (Brown, Boone, Burrell) are linked to developer interests.
+      KEY ENTITIES: Baldwin County, State Senator Elliott, Sheriff Hoss Mack, Ethics Commission, Fairhope City Council, Council President Burrell, Diana Brewer, Councilman Brown, Arthur Corte, Weeks Bay Foundation, Dyas/Triangle property.
+    llm_text: Baldwin County legislators, backed by Governor Poison Ivy, pushed bills that legalize anonymous corruption. See how this system enabled council members Brown, Boone, and Burrell to profit from the $18 million Dyas/Triangle land deal.
+    widget_date: "2019-04-18"
+    generated_at: "2026-11-08T01:39:00.441987Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  legal-corruption:
+    brief: |-
+      THE CONFLICT: Tripp Pittman, former Baldwin County State Senator, was appointed trustee of BP funds and awarded $750,000.00 in contracts from Fairhope with Mayor assistance.
+      THE DISCOVERY: Widget Article reveals historical corruption involving Fairhope Councilman Burrell using a private jet from a municipal judge and overseeing a bid for the Judge and his business partner on the Airport Board. It also notes Councilman Boone has partners in LLCs that he voted on, and Councilman Brown accepted a several hundred thousand dollar contract via his council/Art Center board role.
+      THE PIVOT: Widget Article establishes a pattern of financial impropriety, self-dealing, and conflicts of interest involving Councilman Burrell and Councilman Brown within Fairhope, contextualizing the financial and political maneuvering seen in the Triangle Lawsuit discussion of Article 1.
+      KEY ENTITIES: Council President Burrell, Councilman Boone, Councilman Brown, Councilman Robinson, Councilman Conyers, Tripp Pittman, BP, Mayor (Fairhope), Diana Brewer, Weeks Bay Foundation, Inc., Triangle property, Wilson, brewer, burell
+    llm_text: 'Tripp Pittman earned $750k from BP funds, but Fairhope shows deeper issues: Councilman Burrell''s jet use and Councilman Brown''s big contracts reveal a pattern of self-dealing you need to see.'
+    widget_date: "2019-04-12"
+    generated_at: "2026-11-08T01:36:39.123747Z"
+    model_name: plugsky-lite
+  shut-up-2:
+    brief: |-
+      THE CONFLICT: Three former employees sued the City of Fairhope and Mayor; two cases settled with confidential agreements.
+      THE DISCOVERY: The Fairhope City Council President, Jack Burrell, has a public police record and was previously in Federal Court for refusing a citizen free speech (settled without confidentiality).
+      THE PIVOT: Article 2 establishes Burrell's history of using confidentiality and limiting public participation, providing context for the Council's actions in Article 1 regarding the Triangle Conservation Easement.
+      KEY ENTITIES: Jack Burrell, Fairhope City Council, Weeks Bay Foundation, Inc., Diana Brewer, Councilman Boone, Councilman Brown, Arthur Corte, Jay Robinson, Twin Beech road property, Dyas/Triangle property.
+    llm_text: Fairhope's Jack Burrell has a public police record and federal court history over free speech. See how his past shapes the City Council's handling of the Triangle Conservation Easement.
+    widget_date: "2019-03-29"
+    generated_at: "2026-11-08T01:36:46.628000Z"
+    model_name: plugsky-lite

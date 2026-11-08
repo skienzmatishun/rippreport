@@ -80,3 +80,11 @@ go-content-pipeline/docs/*
 !go-content-pipeline/internal/cli/linkaudit.go
 !go-content-pipeline/internal/cli/linkaudit_test.go
 !go-content-pipeline/docs/LINK_AUDIT.md
+
+# Persistent hook text embeddings
+.hook_embedding_cache.json
+
+# Interactive pipeline terminal interface.
+!go-content-pipeline/internal/tui/
+!go-content-pipeline/internal/tui/*.go
+!go-content-pipeline/docs/TUI.md

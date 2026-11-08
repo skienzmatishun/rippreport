@@ -5,83 +5,8 @@ metadata:
   main_date: "2025-07-30"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  pretty-flowers-rotten-roots:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, 2005, for a murder of Brandon Hastings, based on a coerced confession from Jarius McNeil; Murray spent over 20 years in prison with no DNA or fingerprint evidence.
-      THE DISCOVERY: Fauxhope municipal elections are dominated by an entrenched "cabal" of developers, politicians, and lawyers, exemplified by Mayor Sherry Sullivan receiving two paychecks and controlling the city utility checkbook.
-      THE PIVOT: Both articles reveal a pattern where entrenched local power structures—such as the Baldwin County officials who built the wrongful conviction and the Fauxhope council supported by developers—suppress truth and institutional accountability to protect political and financial interests.
-      KEY ENTITIES: Murray Lawrence Jr., Robert Wilters (Judge 2005, DA 2015+), Anthony Lowery (Chief Investigator 2005, Sheriff), Huey 'Hoss' Mack (Lead Investigator 2005, Sheriff), David Whetstone (DA 2005), Jarius McNeil, Brandon Hastings, Jack Burrell, Sherry Sullivan, BCSO.
-    llm_text: 'Murray Lawrence Jr. spent 20 years for a murder based on a coerced confession, despite no DNA evidence. Local power protects itself: Mayor Sherry Sullivan runs Fauxhope while Baldwin County officials built a wrongful conviction.'
-    widget_date: "2025-07-18"
-    generated_at: "2026-11-06T13:55:03.920580Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in 2005 for the death of Brandon Hastings; the conviction lacked physical evidence (DNA, fingerprints) and was based on a coerced confession from Jarius McNeil.
-
-      THE DISCOVERY: The Fairhope City Council and Mayor Sullivan faced challenges from candidates running as a slate during the municipal election on Aug 26.
-
-      THE PIVOT: There is no factual connection between the Baldwin County wrongful conviction (Murray Lawrence Jr.) and the Fairhope municipal election. The articles cover unrelated jurisdictions and issues (Baldwin County prosecutorial misconduct vs. Fairhope local governance).
-
-      KEY ENTITIES:
-      Murray Lawrence Jr.
-      Brandon Hastings
-      Robert Wilters (Baldwin County District Attorney)
-      Anthony Lowery (Baldwin County Sheriff)
-      Huey 'Hoss' Mack (Baldwin County Sheriff/Lead Investigator)
-      David Whetstone (Former Baldwin County District Attorney)
-      Mayor Sullivan (Fairhope)
-      Troy Vickers
-      Joshua Gammon
-      Tracy Gatewood
-      David Luc
-      George Ferniany
-      BCSO
-      Baldwin County
-      Fairhope
-    llm_text: Murray Lawrence Jr. faced a wrongful capital murder conviction in 2005 for Brandon Hastings' death, despite zero physical evidence. We expose the coerced confession and prosecutorial misconduct that drove this Baldwin County injustice.
-    widget_date: "2025-07-03"
-    generated_at: "2026-11-06T13:57:01.059344Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  wrongful-conviction-fairhope-baldwin-county:
-    brief: |-
-      THE CONFLICT: Murray Lawrence Jr was wrongfully convicted of capital murder (victim Brandon Hastings) in 2005, resulting in over 20 years in prison. The conviction relied on a coerced confession from Jarius McNeil (who later recanted) and suppressed key exculpatory evidence (no DNA, no fingerprints, no weapon). Autopsy confirmed strangulation in Mississippi, contradicting the State’s claim of a shooting in Alabama.
-
-      THE DISCOVERY: Article 2 identified Murray Lawrence Jr's case as paralleling the wrongful conviction of Walter McMillan (Just Mercy) in Baldwin County, highlighting the historical involvement of the Judge, Prosecutor, and Sheriff in withholding evidence and police inefficiency. It also noted advocacy efforts supporting the case over the last 5 years (with pro bono legal support from Maxwell/Tillman).
-
-      THE PIVOT: Article 2 established the pattern of misconduct (Judge, Prosecutor, Sheriff involvement) as historical background; Article 1 details that the key figures who built the case (Whetstone, Wilters, Lowery, Mack) have since risen to higher, influential offices (DA, Sheriff, Judge), actively suppressing evidence (e.g., rejecting Rule 32 filing in 2023) and continuing to influence justice in Baldwin County.
-
-      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Robert Wilters (2005 Judge, current Baldwin County District Attorney), Anthony Lowery (2005 Chief Investigator, current Baldwin County Sheriff), Huey 'Hoss' Mack (2005 Lead Investigator/Sheriff, current state position), David Whetstone (2005 Baldwin County District Attorney), Jarius McNeil, BCSO, Baldwin County.
-    llm_text: Murray Lawrence Jr served over 20 years for a 2005 capital murder conviction based on a coerced confession. Today, the original case builders—like DA Robert Wilters and Sheriff Anthony Lowery—hold powerful offices, actively suppressing his exoneration.
-    widget_date: "2024-06-17"
-    generated_at: "2026-11-06T13:58:19.462303Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  new-sheriff-no-changes:
-    brief: |-
-      THE CONFLICT:
-      Murray Lawrence Jr was wrongfully convicted of a capital murder in Baldwin County in 2005, despite a lack of evidence (no DNA, fingerprints, or murder weapon). The real killer was Jarius McNeil, coerced by Huey 'Hoss' Mack into shifting blame.
-
-      THE DISCOVERY:
-      Governor Kay Ivey appointed Anthony Lowery as Baldwin County Sheriff after Hoss Mack's departure (August 31). This appointment occurred despite two pending federal lawsuits involving BCSO (wrongful death) and the documented wrongful conviction of Murray Lawrence Jr.
-
-      THE PIVOT:
-      Article 2 reveals that Lowery, the successor to Hoss Mack, was appointed by Governor Ivey while the corruption (wrongful convictions, pending federal lawsuits, and Mack's influence) was known and ignored, indicating the continuation of the same law enforcement culture and systemic failure documented in Article 1.
-
-      KEY ENTITIES:
-      Murray Lawrence Jr
-      Anthony Lowery (Baldwin County Sheriff)
-      Huey 'Hoss' Mack (Former BCSO Captain/Sheriff)
-      Robert Wilters (Circuit Court Judge 2005 / District Attorney)
-      David Whetstone (Baldwin County District Attorney 2005)
-      Governor Kay Ivey
-      Jarius McNeil
-      Brandon Hastings
-      BCSO (Baldwin County Sheriff’s Office)
-    llm_text: Murray Lawrence Jr never committed the capital murder; Jarius McNeil did. Governor Kay Ivey appointed Anthony Lowery as Sheriff while ignoring Hoss Mack's corruption and pending federal lawsuits.
-    widget_date: "2024-08-29"
-    generated_at: "2026-11-06T13:59:12.710736Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: c160990b5a189dc139d0df602f73e518ac38f7fc921c2ac795a13b18ef8f3d39
     brief: |-
       THE CONFLICT:
       Murray Lawrence Jr was wrongfully convicted of capital murder in Baldwin County in 2005.
@@ -113,10 +38,12 @@ hooks:
       BCSO
       County Commission
     llm_text: Murray Lawrence Jr. served 20 years for a capital murder he did not commit; Jarius McNeil is the true killer. The older article exposes how Robert Wilters, Anthony Lowery, and others colluded, revealing a dangerous pattern of unchecked police and legal power in Baldwin County.
+    text: Murray Lawrence Jr. served 20 years for a murder Jarius McNeil committed. Robert Wilters, Anthony Lowery, and others colluded to shield unchecked police power in Baldwin County.
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T13:55:50.740404Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   sheriff-huey-boss-mack-secret-police-2:
+    refined_source: 902508a9c4bc3a85123e730133167900450473b814a5bb87c6fd245cecd430fd
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr was wrongfully convicted of a capital murder in 2005 in Baldwin County.
@@ -151,6 +78,91 @@ hooks:
       *   Judge Scully
       *   Chief Justice Tom Parker
     llm_text: Murray Lawrence Jr. was wrongfully convicted of capital murder in 2005. New evidence proves Sheriff Huey "Hoss" Mack used $65 million in BCSO funds and unchecked power to bury justice for Lawrence.
+    text: Murray Lawrence Jr. was wrongfully convicted in 2005. New evidence proves Sheriff Huey Hoss Mack used $65 million in BCSO funds and unchecked power to bury justice.
     widget_date: "2023-11-20"
     generated_at: "2026-11-06T14:00:24.613131Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pretty-flowers-rotten-roots:
+    refined_source: a9d0c91211ac16d5437a383de076ee38566dce1da481e36f2e26c3904255cc26
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, 2005, for a murder of Brandon Hastings, based on a coerced confession from Jarius McNeil; Murray spent over 20 years in prison with no DNA or fingerprint evidence.
+      THE DISCOVERY: Fauxhope municipal elections are dominated by an entrenched "cabal" of developers, politicians, and lawyers, exemplified by Mayor Sherry Sullivan receiving two paychecks and controlling the city utility checkbook.
+      THE PIVOT: Both articles reveal a pattern where entrenched local power structures—such as the Baldwin County officials who built the wrongful conviction and the Fauxhope council supported by developers—suppress truth and institutional accountability to protect political and financial interests.
+      KEY ENTITIES: Murray Lawrence Jr., Robert Wilters (Judge 2005, DA 2015+), Anthony Lowery (Chief Investigator 2005, Sheriff), Huey 'Hoss' Mack (Lead Investigator 2005, Sheriff), David Whetstone (DA 2005), Jarius McNeil, Brandon Hastings, Jack Burrell, Sherry Sullivan, BCSO.
+    llm_text: 'Murray Lawrence Jr. spent 20 years for a murder based on a coerced confession, despite no DNA evidence. Local power protects itself: Mayor Sherry Sullivan runs Fauxhope while Baldwin County officials built a wrongful conviction.'
+    text: Murray Lawrence Jr. spent 20 years for a murder based on a coerced confession and no DNA evidence. Mayor Sherry Sullivan runs Fairhope while local officials protect wrongful convictions.
+    widget_date: "2025-07-18"
+    generated_at: "2026-11-06T13:55:03.920580Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-or-fairhope:
+    refined_source: cfbee1703a84abd65d269f9386be59db02ddf25676adbfa97c306a4248cdd1c5
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted of a capital murder in 2005 for the death of Brandon Hastings; the conviction lacked physical evidence (DNA, fingerprints) and was based on a coerced confession from Jarius McNeil.
+
+      THE DISCOVERY: The Fairhope City Council and Mayor Sullivan faced challenges from candidates running as a slate during the municipal election on Aug 26.
+
+      THE PIVOT: There is no factual connection between the Baldwin County wrongful conviction (Murray Lawrence Jr.) and the Fairhope municipal election. The articles cover unrelated jurisdictions and issues (Baldwin County prosecutorial misconduct vs. Fairhope local governance).
+
+      KEY ENTITIES:
+      Murray Lawrence Jr.
+      Brandon Hastings
+      Robert Wilters (Baldwin County District Attorney)
+      Anthony Lowery (Baldwin County Sheriff)
+      Huey 'Hoss' Mack (Baldwin County Sheriff/Lead Investigator)
+      David Whetstone (Former Baldwin County District Attorney)
+      Mayor Sullivan (Fairhope)
+      Troy Vickers
+      Joshua Gammon
+      Tracy Gatewood
+      David Luc
+      George Ferniany
+      BCSO
+      Baldwin County
+      Fairhope
+    llm_text: Murray Lawrence Jr. faced a wrongful capital murder conviction in 2005 for Brandon Hastings' death, despite zero physical evidence. We expose the coerced confession and prosecutorial misconduct that drove this Baldwin County injustice.
+    text: Murray Lawrence Jr. faced a wrongful murder conviction in 2005 for Brandon Hastings' death despite zero physical evidence. We expose the coerced confession and prosecutorial misconduct.
+    widget_date: "2025-07-03"
+    generated_at: "2026-11-06T13:57:01.059344Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrongful-conviction-fairhope-baldwin-county:
+    refined_source: 2902d2c816e05c1d94ecd538a6ccf093a2a2d9ce55ac94e983c9c06aa950f313
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr was wrongfully convicted of capital murder (victim Brandon Hastings) in 2005, resulting in over 20 years in prison. The conviction relied on a coerced confession from Jarius McNeil (who later recanted) and suppressed key exculpatory evidence (no DNA, no fingerprints, no weapon). Autopsy confirmed strangulation in Mississippi, contradicting the State’s claim of a shooting in Alabama.
+
+      THE DISCOVERY: Article 2 identified Murray Lawrence Jr's case as paralleling the wrongful conviction of Walter McMillan (Just Mercy) in Baldwin County, highlighting the historical involvement of the Judge, Prosecutor, and Sheriff in withholding evidence and police inefficiency. It also noted advocacy efforts supporting the case over the last 5 years (with pro bono legal support from Maxwell/Tillman).
+
+      THE PIVOT: Article 2 established the pattern of misconduct (Judge, Prosecutor, Sheriff involvement) as historical background; Article 1 details that the key figures who built the case (Whetstone, Wilters, Lowery, Mack) have since risen to higher, influential offices (DA, Sheriff, Judge), actively suppressing evidence (e.g., rejecting Rule 32 filing in 2023) and continuing to influence justice in Baldwin County.
+
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Robert Wilters (2005 Judge, current Baldwin County District Attorney), Anthony Lowery (2005 Chief Investigator, current Baldwin County Sheriff), Huey 'Hoss' Mack (2005 Lead Investigator/Sheriff, current state position), David Whetstone (2005 Baldwin County District Attorney), Jarius McNeil, BCSO, Baldwin County.
+    llm_text: Murray Lawrence Jr served over 20 years for a 2005 capital murder conviction based on a coerced confession. Today, the original case builders—like DA Robert Wilters and Sheriff Anthony Lowery—hold powerful offices, actively suppressing his exoneration.
+    text: Murray Lawrence Jr. served over 20 years for a 2005 murder conviction based on a coerced confession. DA Robert Wilters and Sheriff Anthony Lowery now suppress his exoneration.
+    widget_date: "2024-06-17"
+    generated_at: "2026-11-06T13:58:19.462303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-sheriff-no-changes:
+    refined_source: 82fd1d96795f877ca6c7c4c7134cbdc0433c1a89eb947829e6e4ef26edc19078
+    brief: |-
+      THE CONFLICT:
+      Murray Lawrence Jr was wrongfully convicted of a capital murder in Baldwin County in 2005, despite a lack of evidence (no DNA, fingerprints, or murder weapon). The real killer was Jarius McNeil, coerced by Huey 'Hoss' Mack into shifting blame.
+
+      THE DISCOVERY:
+      Governor Kay Ivey appointed Anthony Lowery as Baldwin County Sheriff after Hoss Mack's departure (August 31). This appointment occurred despite two pending federal lawsuits involving BCSO (wrongful death) and the documented wrongful conviction of Murray Lawrence Jr.
+
+      THE PIVOT:
+      Article 2 reveals that Lowery, the successor to Hoss Mack, was appointed by Governor Ivey while the corruption (wrongful convictions, pending federal lawsuits, and Mack's influence) was known and ignored, indicating the continuation of the same law enforcement culture and systemic failure documented in Article 1.
+
+      KEY ENTITIES:
+      Murray Lawrence Jr
+      Anthony Lowery (Baldwin County Sheriff)
+      Huey 'Hoss' Mack (Former BCSO Captain/Sheriff)
+      Robert Wilters (Circuit Court Judge 2005 / District Attorney)
+      David Whetstone (Baldwin County District Attorney 2005)
+      Governor Kay Ivey
+      Jarius McNeil
+      Brandon Hastings
+      BCSO (Baldwin County Sheriff’s Office)
+    llm_text: Murray Lawrence Jr never committed the capital murder; Jarius McNeil did. Governor Kay Ivey appointed Anthony Lowery as Sheriff while ignoring Hoss Mack's corruption and pending federal lawsuits.
+    text: Murray Lawrence Jr. never committed the capital murder; Jarius McNeil did. Governor Kay Ivey appointed Anthony Lowery as Sheriff while ignoring Hoss Mack's pending lawsuits.
+    widget_date: "2024-08-29"
+    generated_at: "2026-11-06T13:59:12.710736Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

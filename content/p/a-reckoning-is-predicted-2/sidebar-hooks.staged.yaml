@@ -6,22 +6,26 @@ metadata:
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
   midterm-election-special:
+    refined_source: 364fdbcc4704b60074d19894b935c54eb913f7d92169b9890eec67b47bc4a7bf
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. involving District Attorney Robert Wilters (who was the trial judge), lead investigator Anthony Lowery, Sheriff Hoss Mack, and Judge Kristi Hagood. David Whitstone was the prosecutor at the time.
       THE DISCOVERY: The older widget article addressed the general Alabama political landscape, including the 2026 Governor Race and elections scheduled for November 3rd, referencing candidates like Ken McFeeters, John Wahl, and Tommy Tubberville.
       THE PIVOT: The older article provides the broader electoral context for Alabama politics; however, the main article serves as the specific, factual exposé detailing how GOB corruption (e.g., using the Lawrence case for self-promotion) manipulated local Baldwin County elections and judicial appointments, irrespective of the general 2026 gubernatorial race.
       KEY ENTITIES: Anthony Lowery, Hoss Mack, Chris Elliot, Kristi Hagood, Robert Wilters, Jon Gray, Scott Boone, Murray Lawrence Jr., Matt McKenzie, David Whitstone, ALEA.
     llm_text: Don't just track the 2026 Governor Race; see how GOB corruption warped Baldwin County justice. The wrongful conviction of Murray Lawrence Jr. involved Robert Wilters and Anthony Lowery, manipulating local elections and judicial appointments.
+    text: Forget the 2026 Governor's race for a second and look at how GOB corruption warped Baldwin County justice. Robert Wilters and Anthony Lowery rigged elections and ruined lives.
     widget_date: "2026-11-02"
     generated_at: "2026-11-06T04:42:24.371382Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   october-surprise:
+    refined_source: 130f083854b34687489bccf602de6c901f9377817a53b7f777ba793be6ec4b92
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr., involving District Attorney Robert Wilters, Sheriff Hoss Mack, lead investigator Anthony Lowery, and judge Kristi Hagood.
       THE DISCOVERY: Alabama faced significant state challenges including a $1.25 billion ballooning cost at the Elmore County prison site, ongoing federal trials over prison conditions, and Trent Garmon challenging the Alabama State Bar in federal court.
       THE PIVOT: Article 2 establishes the broader context of significant state legal and infrastructure failures (e.g., prison costs, State Bar conflicts) which reinforces the systemic corruption and lack of accountability detailed in Article 1 (e.g., BCSO opacity, judicial malfeasance).
       KEY ENTITIES: Anthony Lowery, Hoss Mack, Kristi Hagood, Robert Wilters, Murray Lawrence Jr., Matt McKenzie, Chris Elliott, David Whitstone, Jon Gray, Scott Boone, Tommy Tuberville, Doug Jones, Trent Garmon, Alabama State Bar, ALEA.
     llm_text: Murray Lawrence Jr. was wrongfully convicted, implicating DA Robert Wilters, Sheriff Hoss Mack, and Judge Kristi Hagood. This individual failure exposes Alabama's systemic rot, from $1.25 billion prison costs to Trent Garmon's State Bar challenges.
+    text: Murray Lawrence Jr. was framed while Robert Wilters, Hoss Mack, and Kristi Hagood looked the other way. Alabama's systemic rot costs billions in prisons while innocent men rot.
     widget_date: "2026-10-30"
     generated_at: "2026-11-06T04:44:45.777122Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -72,6 +76,7 @@ hooks:
       - Locations: Baldwin County, Alabama; State of Alabama.
       - Entities to mention: Lowery, Wilters, Mack, Hagood, Lawrence Jr., Elliott, McKenzie, Whitstone, Gray, Boone.
     llm_text: Baldwin County Sheriff Anthony Lowery and ex-Sheriff Hoss Mack ran a BCSO culture of total immunity, no transparency, and no accountability. Their fallout over the wrongful conviction of Murray Lawrence Jr. shows why Baldwin voters should care before the next election.
+    text: Baldwin County Sheriff Anthony Lowery and ex-Sheriff Hoss Mack ran a BCSO culture of total immunity, no transparency, and no accountability. Their fallout over the wrongful conviction of Murray Lawrence Jr. shows why Baldwin voters should care before the next election.
     widget_date: "2026-10-22"
     generated_at: "2026-11-06T04:42:27.552326Z"
     model_name: recursive/flint-v1.0:free
@@ -171,26 +176,31 @@ hooks:
       - Fly Creek at Highway 98.
       - Fly Creek at Scenic 98.
     llm_text: Fairhope’s Fly Creek culvert failed after Publix and apartments, and the city council ignored it while developers profited. Baldwin County’s Lowery, Hagood, and Wilters real mess shows the same good old boys money fight today.
+    text: Fairhope’s Fly Creek culvert failed after Publix and apartments, and the city council ignored it while developers profited. Baldwin County’s Lowery, Hagood, and Wilters real mess shows the same good old boys money fight today.
     widget_date: "2026-07-21"
     generated_at: "2026-11-06T04:43:59.295115Z"
     model_name: recursive/flint-v1.0:free
   re-gift-gift-2:
+    refined_source: 394273226842ad18828882390c89238514c73b2f75ecd5260da684839a9c7802
     brief: |-
       THE CONFLICT: Fall 2016 involved a developer submitting a site plan for a one-point drainage system through the out-fall pipe of a current detention area, violating PUD Amendment 1572 in Fly Creek.
       THE DISCOVERY: In Fall 2016, the developer simultaneously deeded a sensitive 4-acre parcel, including wetlands, between the outfall pipe and Fly Creek to the City of the Most Sensitive 4 Acres, which Mayor Wilson expressed concern about.
       THE PIVOT: Article 2 (2017) details how development interests (Corte/Kant) influenced municipal land ownership and violated environmental regulations, demonstrating the systemic "GOB" influence and lack of transparency that is later cited in Article 1 as the root cause of judicial and law enforcement corruption (e.g., the wrongful conviction of Murray Lawrence Jr.).
       KEY ENTITIES: Corte, Tim Kant, Mayor Wilson, Fly Creek PUD Amendment 1572, Anthony Lowery, Hoss Mack, Matt McKenzie, Chris Elliot, Robert Wilters, Kristi Hagood, Jon Gray, Scott Boone, Murray Lawrence Jr., David Whitstone, ALEA, Baldwin County.
     llm_text: Development interests like Corte and Tim Kant leveraged a sensitive 4-acre wetlands deed in Fly Creek, violating PUD Amendment 1572. See how this municipal land grab reveals the systemic "GOB" influence tied to corruption, including the Murray Lawrence Jr. conviction.
+    text: Developers Corte and Tim Kant weaponized a sensitive Fly Creek wetlands deed to violate PUD Amendment 1572. This land grab proves GOB corruption runs straight through Fairhope.
     widget_date: "2026-07-16"
     generated_at: "2026-11-06T04:43:38.033695Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   baldwin-county-sheriff-appointment-2:
+    refined_source: bf7da49365a72c694fb53f2bb12c2892a8e5d0555bbac5f2c68db5751419f1f6
     brief: |-
       THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. involved Sheriff Hoss Mack, Prosecutor David Whitstone, Judge Robert Wilters, and investigator Anthony Lowery who withheld exculpatory evidence, leading to Lawrence's 20-year incarceration.
       THE DISCOVERY: Article 2 (July 27, 2024) documented extensive BCSO misconduct, including the deaths of Peyton Little, O.J. French, Robert Yates, Jonathan Victor, and Joseph L. Andrews/Kevin J. Andrews during police pursuits and investigations, and specifically detailed the four individuals (Mack, Whetstone, Wilters, Lowery) involved in withholding evidence in the Lawrence case.
       THE PIVOT: Article 2 established the pattern of deep, systemic corruption and documented past high-profile police and judicial failures within BCSO (e.g., fatal pursuits, specific deaths) making the allegations in Article 1 regarding the Lawrence conviction and the subsequent judicial appointment of Kristi Hagood credible as part of a wider "GOB" culture.
       KEY ENTITIES: Hoss Mack, Anthony Lowery, Robert Wilters, Kristi Hagood, Murray Lawrence Jr., Chris Elliott, Matt McKenzie, Jon Gray, Scott Boone, David Whitstone, BCSO, ALEA
     llm_text: Murray Lawrence Jr. served 20 years after Sheriff Hoss Mack, Prosecutor David Whitstone, and others withheld key evidence. This conviction exposes deep BCSO corruption, linking Lawrence's case to fatal pursuits and the questionable appointment of Kristi Hagood.
+    text: Murray Lawrence Jr. spent 20 years inside because Hoss Mack and David Whitstone withheld key evidence. This rigged conviction exposes rot at the very top of the BCSO.
     widget_date: "2026-04-22"
     generated_at: "2026-11-06T04:45:34.789362Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
@@ -258,6 +268,7 @@ hooks:
       - Fairhope – local government.
       - Baldwin County – local government.
     llm_text: Chris Elliott, the 'TAX MAN,' pushed the school separation lawsuit against Baldwin County Superintendent Eddie Tyler while hiding behind a penny tax no one voted on. Now his PAC money, dark money and GOB talk make this old widget a smoking gun for corruption.
+    text: Chris Elliott, the 'TAX MAN,' pushed the school separation lawsuit against Baldwin County Superintendent Eddie Tyler while hiding behind a penny tax no one voted on. Now his PAC money, dark money and GOB talk make this old widget a smoking gun for corruption.
     widget_date: "2026-04-11"
     generated_at: "2026-11-06T04:46:19.781348Z"
     model_name: recursive/flint-v1.0:free

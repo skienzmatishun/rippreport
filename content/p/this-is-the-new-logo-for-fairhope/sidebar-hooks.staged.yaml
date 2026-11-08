@@ -5,6 +5,42 @@ metadata:
   main_date: "2022-10-28"
   model_name: recursive/flint-v1.0:free
 hooks:
+  press-release:
+    refined_source: a5c4ee611c2b6f19680232c47f03d6e4f53611e01c3ddaae3b023ede055bd572
+    brief: |-
+      THE CONFLICT:
+      Harry Still has waged a fight against corruption in Alabama his entire adult life, including promises to release recordings of former Speaker Mike Hubbard attempting to influence legislators to shorten his prison sentence.
+
+      THE DISCOVERY:
+      Article 2 revealed Harry Still's platform for Attorney General, including promises to review all complaints filed with the Alabama Ethics Commission since 2015.
+
+      THE PIVOT:
+      Article 2 is not the 'smoking gun' for Article 1; the articles concern unrelated subjects (Article 1: Fairhope logo change; Article 2: Harry Still's AG campaign platform). Article 2 provides historical context regarding state corruption and justice reform efforts in Alabama, not municipal changes in Fairhope.
+
+      KEY ENTITIES:
+      Harry Still (Attorney At Law)
+      Fairhope
+      Mike Hubbard (former Speaker of the Alabama House of Representatives)
+      Alabama Ethics Commission
+      APOST (Alabama Police Officers Standards and Training Commission)
+      Auburn University / Troy State University / Birmingham School of Law
+    llm_text: Harry Still fights Alabama corruption, promising to review all Alabama Ethics Commission complaints since 2015. Still also challenged former Speaker Mike Hubbard over attempts to influence legislators.
+    text: Harry Still fights Alabama corruption and promises to review all Ethics Commission complaints since 2015. Still also challenged former Speaker Mike Hubbard over political influence.
+    widget_date: "2022-01-29"
+    generated_at: "2026-11-06T20:31:02.665738Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  Baldwin-County-seeks-public-input-on-land-use-plan:
+    refined_source: f781e6f856e5c084262553a2c22bc8da0ef75fb2c70aa0a7caedf1fe0ed16c99
+    brief: |-
+      THE CONFLICT: None specified in the older article.
+      THE DISCOVERY: Baldwin County Commission’s Planning and Zoning Department, with Design Workshop consultants, initiated a countywide long-range land use planning process.
+      THE PIVOT: The older article establishes the official county-level planning and zoning framework relevant to the location mentioned in the newer article (Fairhope logo).
+      KEY ENTITIES: Baldwin County Commission; Planning and Zoning Department; Design Workshop; Fairhope; Robertsdale; Jan. 24; Jan. 25
+    llm_text: Baldwin County's Planning and Zoning Department launched a long-range land use plan with Design Workshop. See how this impacts Fairhope and Robertsdale development starting Jan 24.
+    text: The Baldwin County Planning and Zoning Department launched a long-range land use plan with Design Workshop. See how this impacts development in Fairhope and Robertsdale.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-06T20:29:13.711019Z"
+    model_name: plugsky-lite
   alabama-black-hole:
     brief: |-
       THE CONFLICT:
@@ -13,7 +49,7 @@ hooks:
       - Alleged act: In 2014, Albritton and two other trustees, along with Regions Bank, altered trust handling to list schools receiving scholarships instead of students by name.
       - Circuit Judge Ben Bowden, former law partner of Albritton, received $45,000 for his children's scholarships; other Albritton law partners also received scholarship money.
       - Ripp first contacted Governor, Ethics Commission, Alabama Bar, and office July 16, 2021; filed Writ of Mandamus; failed to get hearing.
-      - Alleged non-disclosure: Albritton failed to disclose on economic statement that he was trustee of multi-million dollar trust; allegedly received $120,000 in spared family expense via scholarships to his children.
+      - Alleged non-disclosure: Albritton failed to disclose on economic statement that he was trustee of multi-million dollar trust; received $120,000 in spared family expense via scholarships to his children.
       - IRS sections 4941(d) alleged self-dealing violation; IRS taxes possibly due but unpaid by scholarship recipients.
       - Mabel Amos: Alabama's first female Secretary of State; established trust to help children with strong academic history but lacking financial capability for state college education.
       - 2010: Oil discovered on Mabel Amos land, producing $80 million in oil and gas, potential $20 million more.
@@ -50,21 +86,25 @@ hooks:
       - Lagniappe Mobile
       - Lowery, Wilters (per instruction)
       - Montgomery police officers
-    llm_text: Alabama Ethics Chief Thomas Albritton allegedly steered the Mabel Amos trust through self-dealing while ignoring scholarship rules. The Ripp Report says state agencies covered up his complaint, and now Alabama faces a black hole of political and white-collar crime.
+    llm_text: Alabama Ethics Chief Thomas Albritton steered the Mabel Amos trust through self-dealing while ignoring scholarship rules. The Ripp Report says state agencies covered up his complaint, and now Alabama faces a black hole of political and white-collar crime.
+    text: Alabama Ethics Chief Thomas Albritton steered the Mabel Amos trust through self-dealing while ignoring scholarship rules. The Ripp Report says state agencies covered up his complaint, and now Alabama faces a black hole of political and white-collar crime.
     widget_date: "2022-10-21"
     generated_at: "2026-11-06T20:29:28.457919Z"
     model_name: recursive/flint-v1.0:free
   rumors:
+    refined_source: 2645b63fd045bf031a36603f798892b8105a2611d759671bbaac36f0800ff952
     brief: |-
       THE CONFLICT: Jonathan Victor was shot four times by Hunady, a sheriff deputy, on an unspecified date prior to April 2021.
       THE DISCOVERY: Article 2 (older) established a pattern of lack of transparency and failed accountability concerning police shootings in Baldwin County, specifically referencing the 2017 Jonathan Victor case and the 2023 O.J. French shooting.
       THE PIVOT: Article 2 provides historical context showing a recurring pattern of internal investigation failures, withholding of camera footage, and judicial protection (qualified immunity) that precedes the current discussion surrounding Fairhope's logo/local governance context of Article 1.
       KEY ENTITIES: O.J. French, Jonathan Victor, Bay Minette, BCSO, BCSCU, Huey “Hoss” Mack, Brandon Thompson, Al Tolbert, Brad Kendrick, Sam White, Judge William Cassady, Alabama Supreme Court, Mayor Wills, Fairhope
     llm_text: Jonathan Victor was shot four times by deputy Hunady, revealing Baldwin County's pattern of failed police accountability. See how past cases like O.J. French prove systemic issues persist beyond Fairhope's current governance debates.
+    text: Deputy Hunady shot Jonathan Victor four times, revealing a pattern of failed police accountability in Baldwin County. Past cases like O.J. French prove systemic issues persist.
     widget_date: "2022-10-15"
     generated_at: "2026-11-06T20:29:06.439844Z"
     model_name: plugsky-lite
   deal-with-the-devil:
+    refined_source: 35656932d933d2f1e1d203cc6b83b0288dbd4638a2587adc73d23af2aedcdadd
     brief: |-
       THE CONFLICT:
       *   Wrongful conviction of Murray “Bubba” Lawrence Jr. in Baldwin County.
@@ -89,38 +129,7 @@ hooks:
       *   Paul McGarry (pathologist)
       *   Baldwin County
     llm_text: Murray "Bubba" Lawrence Jr. suffered a wrongful conviction in Baldwin County regarding the Steve Nodine case. The 2000+ page trial transcript proves former DA David Whetstone and the court failed to establish a timeline, overlooking Lawrence's key witness alibis.
+    text: Murray Lawrence Jr. suffered a wrongful conviction in Baldwin County during the Steve Nodine case. Trial transcripts prove former DA David Whetstone failed to establish a timeline.
     widget_date: "2022-03-14"
     generated_at: "2026-11-06T20:29:53.125787Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  press-release:
-    brief: |-
-      THE CONFLICT:
-      Harry Still has waged a fight against corruption in Alabama his entire adult life, including promises to release recordings of former Speaker Mike Hubbard attempting to influence legislators to shorten his prison sentence.
-
-      THE DISCOVERY:
-      Article 2 revealed Harry Still's platform for Attorney General, including promises to review all complaints filed with the Alabama Ethics Commission since 2015.
-
-      THE PIVOT:
-      Article 2 is not the 'smoking gun' for Article 1; the articles concern unrelated subjects (Article 1: Fairhope logo change; Article 2: Harry Still's AG campaign platform). Article 2 provides historical context regarding state corruption and justice reform efforts in Alabama, not municipal changes in Fairhope.
-
-      KEY ENTITIES:
-      Harry Still (Attorney At Law)
-      Fairhope
-      Mike Hubbard (former Speaker of the Alabama House of Representatives)
-      Alabama Ethics Commission
-      APOST (Alabama Police Officers Standards and Training Commission)
-      Auburn University / Troy State University / Birmingham School of Law
-    llm_text: Harry Still fights Alabama corruption, promising to review all Alabama Ethics Commission complaints since 2015. Still also challenged former Speaker Mike Hubbard over attempts to influence legislators.
-    widget_date: "2022-01-29"
-    generated_at: "2026-11-06T20:31:02.665738Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  Baldwin-County-seeks-public-input-on-land-use-plan:
-    brief: |-
-      THE CONFLICT: None specified in the older article.
-      THE DISCOVERY: Baldwin County Commission’s Planning and Zoning Department, with Design Workshop consultants, initiated a countywide long-range land use planning process.
-      THE PIVOT: The older article establishes the official county-level planning and zoning framework relevant to the location mentioned in the newer article (Fairhope logo).
-      KEY ENTITIES: Baldwin County Commission; Planning and Zoning Department; Design Workshop; Fairhope; Robertsdale; Jan. 24; Jan. 25
-    llm_text: Baldwin County's Planning and Zoning Department launched a long-range land use plan with Design Workshop. See how this impacts Fairhope and Robertsdale development starting Jan 24.
-    widget_date: "2022-01-13"
-    generated_at: "2026-11-06T20:29:13.711019Z"
-    model_name: plugsky-lite

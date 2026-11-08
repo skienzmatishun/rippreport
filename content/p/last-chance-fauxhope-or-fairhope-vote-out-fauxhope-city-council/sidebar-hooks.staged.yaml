@@ -5,37 +5,15 @@ metadata:
   main_date: "2025-08-24"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  qualified-daphne-district-6-city-council:
-    brief: |-
-      THE CONFLICT: Jack Burrell has been a key player in Fairhope politics for over 23 years, involved in questionable actions, side deals, and conflicts of interest, including the failure to establish City Districts.
-      THE DISCOVERY: Dr. Byrian Ramsey is a highly skilled and qualified candidate for Daphne City Council, advocating for "Lake Forest First" against issues like flooding and commercial property conversion in Daphne.
-      THE PIVOT: Both articles highlight systemic issues of local government incompetence and ignoring constituent needs (e.g., Fairhope council ignoring citizens, Daphne council being "stone deaf"); however, the articles cover completely separate municipalities (Fairhope vs. Daphne) and do not share a factual link or event.
-      KEY ENTITIES:
-      *   Fairhope: Jack Burrell, Mayor Wilson, Ronan McSharry, Kevin Boone, Andrea Faust, Publix, Jade Consulting
-      *   Daphne: Dr. Byrian Ramsey, Lake Forest, Daphne Mayor/Council
-      *   Projects/Issues: Waterfront Project ($6.3M to $10M), Library Issue, Utility Engineer position, Fly Creek, Lake Forest flooding
-    llm_text: Jack Burrell's 23 years in Fairhope politics show local government failure, from side deals to failed City Districts. Discover how Daphne's Dr. Byrian Ramsey fights "stone deaf" council issues like Lake Forest flooding.
-    widget_date: "2025-08-23"
-    generated_at: "2026-11-06T12:17:37.604632Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bay-minette-vote-out-mayor-wills-remember-oj-french:
-    brief: |-
-      THE CONFLICT: Mayor Bob Wills (Baldwin County) lied to O. J. French's family regarding the circumstances of his son's death and supported the self-investigating BCMCU/Sheriff Department kangaroo court.
-      THE DISCOVERY: Mayor Wills' actions regarding O. J. French led to a federal lawsuit, and Wills faced ethics and Alabama Bar complaints regarding questionable, self-serving deals.
-      THE PIVOT: Wills' historical corruption and systemic lack of justice in Baldwin County establishes the "Good Ole Boy" culture that later enabled Jack Burrell to orchestrate Mayor double-dipping paychecks, manipulate the waterfront project cost (from $6.3M to $10M), and cover up actions involving Ronan McSherry.
-      KEY ENTITIES: Mayor Bob Wills, O. J. French, Chief Tolbert, Jack Burrell, Mayor Wilson, Kevin Boone, Andrea Faust, Joshua Brown, Ronan McSherry, Jade Consulting, Publix, Fairhope, Bay Minette, BCMCU.
-    llm_text: Mayor Bob Wills lied to O. J. French's family and supported a biased BCMCU/Sheriff investigation. This Baldwin County corruption established the "Good Ole Boy" culture that allowed Jack Burrell to double-dip and manipulate the waterfront project cost from $6.3M to $10M.
-    widget_date: "2025-08-23"
-    generated_at: "2026-11-06T12:19:56.286412Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   last-chance-fauxhope-or-fairhope:
+    refined_source: 26a402410eeaf89ac42e196ebe05ce67e9dfea09cf0de86d79f307c96dbaf919
     brief: |-
       THE CONFLICT:
       *   Councilman Jack Burrell has been central to the "Good Ole Boy Club" in Fairhope.
       *   In the 2020 COVID election, Jack Burrell orchestrated the Mayor to become head of utilities and receive a second paycheck (double dipping).
       *   The waterfront project, started in the 11th hour of the Wilson Administration (5 years ago), ballooned from an approved 6.3 million to 10 million dollars.
       *   Council actions included ignoring environmental damage (Publix on Parker Road) and failing to establish transparency Districts.
-      *   Jack Burrell is linked to Ronan McSherry, who has been arrested multiple times, while the council remained silent and the municipal attorney allegedly covered up wrongdoing.
+      *   Jack Burrell is linked to Ronan McSherry, who has been arrested multiple times, while the council remained silent and the municipal attorney covered up wrongdoing.
 
       THE DISCOVERY:
       *   The Widget Article establishes a historical pattern of alleged corruption, including the Mayor receiving a second paycheck and the initiation of the waterfront project under Mayor Wilson.
@@ -58,20 +36,24 @@ hooks:
       *   Waterfront Project
       *   Baldwin County
     llm_text: Did Jack Burrell double-dip in 2020 and inflate the Waterfront Project from $6.3M to $10M? See how his alleged corruption, including a $500 payment from Jade Consulting, demands you vote him out for Troy Vickers.
+    text: Did Jack Burrell inflate the Waterfront Project from 6.3 million to 10 million dollars? Read why voters must replace him with Troy Vickers in the upcoming election.
     widget_date: "2025-08-22"
     generated_at: "2026-11-06T12:21:15.970211Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   two-questions-decide-fairhopes-future:
+    refined_source: efd38cd8f52f426769c3f5c8af60d2133a02a63747955263668bd462a19e1b7e
     brief: |-
       THE CONFLICT: Mayor Wilson secured $40 million in BP funding and refused a second salary as utilities director; she hired a qualified engineer for city utilities.
       THE DISCOVERY: Article 2 proves Mayor Wilson acted ethically and prioritized qualified professionals and citizen accountability (districts).
-      THE PIVOT: Article 2 establishes the standard of competence and ethics that the current council (under Jack Burrell) allegedly reversed by allowing Mayor Sherry Sullivan to take the second salary and replacing the qualified engineer with a high school graduate.
+      THE PIVOT: Article 2 establishes the standard of competence and ethics that the current council (under Jack Burrell) reversed by allowing Mayor Sherry Sullivan to take the second salary and replacing the qualified engineer with a high school graduate.
       KEY ENTITIES: Jack Burrell, Mayor Wilson, Sherry Sullivan, Ronan McSharry, Andrea Faust, Kevin Boone, Troy Vickers, Publix, BP, Jade Consulting
     llm_text: Mayor Wilson secured $40M from BP and hired a qualified engineer, refusing a second salary. Did the current council under Jack Burrell reverse this standard by allowing Sherry Sullivan a second salary and replacing the expert with a high school graduate?
+    text: Mayor Wilson secured 40 million dollars from BP and hired a qualified engineer without taking a second salary. Did Jack Burrell's council reverse that ethical standard for Sherry Sullivan?
     widget_date: "2025-08-21"
     generated_at: "2026-11-06T12:22:17.239252Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote-2:
+    refined_source: 19404921994c2713b8e7d8b6dc4ee05d90f8c530e37ddd6830f9797de52cdaa1
     brief: |-
       THE CONFLICT:
       *   The Waterfront Project, initiated during Mayor Wilson's administration (5 years ago), saw projected costs balloon from $6.3 million to $10 million.
@@ -97,10 +79,12 @@ hooks:
       *   Jade Consulting
       *   Fairhope City Council
     llm_text: Councilman Jack Burrell took $500 from Jade Consulting while the Fairhope City Council ignored Waterfront cost overruns and Publix pollution. See how this pattern of neglect and cover-ups—including Ronan McSharry's arrests—affected your community.
+    text: Councilman Jack Burrell accepted 500 dollars from Jade Consulting while waterfront costs exploded. Watch how local officials ignored public complaints and swept arrests under the rug.
     widget_date: "2025-08-11"
     generated_at: "2026-11-06T12:18:49.221907Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   know-before-you-vote:
+    refined_source: 774c522c37455f461464807099dabc79581d6d951b9c582e4e1f23352be88836
     brief: |-
       THE CONFLICT:
       Jack Burrell has been a key council player in Fairhope politics for 15 to 30 years, serving as the de facto Mayor.
@@ -127,16 +111,46 @@ hooks:
       Baldwin County
       Waterfront Project
     llm_text: Jack Burrell’s long tenure and Mayor Wilson's $3.7M waterfront cost overrun aren't isolated issues. The Fairhope City Council repeatedly ignored Publix violations and Ronan McSharry's assaults—a pattern of failure readers must see.
+    text: Jack Burrell and Mayor Wilson oversaw a 3.7 million dollar cost overrun at the waterfront. Meanwhile, the Fairhope City Council ignored Publix violations and Ronan McSharry's arrests.
     widget_date: "2025-08-05"
     generated_at: "2026-11-06T12:23:27.712036Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   pretty-flowers-rotten-roots:
+    refined_source: bb4b457d83e1284ca9a580e6fa32c8203f4888324ef7e707a5a7466660ef9305
     brief: |-
       THE CONFLICT: Jack Burrell, a de facto City Councilman in Fairhope, engaged in questionable actions, conflicts of interest, and quid pro quo deals across multiple administrations. Key incidents include the waterfront project cost ballooning from 6.3 million to 10 million, the ignored environmental damage from the Publix project (leading to 5 lawsuits), and the denial of free speech resulting in a Federal Court loss for Burrell and the council.
       THE DISCOVERY: Article 2 established the entrenched "good ole boy" culture within Fauxhope municipal elections, specifically detailing how the council supported a Mayor receiving two paychecks (Mayor and Head of Utilities) as a reward for winning the 2020 COVID election.
       THE PIVOT: Article 2 provides the historical context for the systemic nature of the corruption described in Article 1, confirming that the council's support of the Mayor's dual salary and the rejection of district reform are established patterns, not isolated incidents.
       KEY ENTITIES: Jack Burrell, Mayor Wilson (Karen Wilson), Sherry Sullivan, Kevin Boone, Andrea Faust, Ronan McSharry, Publix, Jade Consulting, Troy Vickers, Catalyst, Fairhope City Council, Baldwin County.
-    llm_text: Jack Burrell triggered multiple lawsuits after the waterfront project ballooned from $6.3M to $10M amid conflicts of interest. Discover how the Fairhope City Council built a "good ole boy" culture, enabling Mayor Karen Wilson to collect two paychecks.
+    llm_text: Jack Burrell triggered multiple lawsuits after the waterfront project ballooned from $6.3M to $10M amid conflicts of interest. Read how the Fairhope City Council built a "good ole boy" culture, enabling Mayor Karen Wilson to collect two paychecks.
+    text: Jack Burrell sparked lawsuits when the waterfront project budget ballooned by millions of dollars. The Fairhope City Council enabled Mayor Karen Wilson to collect two public paychecks.
     widget_date: "2025-07-18"
     generated_at: "2026-11-06T12:24:34.729816Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualified-daphne-district-6-city-council:
+    refined_source: 1726dada8ac621d6cca89c89d8ed0d18f999690ddf6ebc31167f32bae43e06ed
+    brief: |-
+      THE CONFLICT: Jack Burrell has been a key player in Fairhope politics for over 23 years, involved in questionable actions, side deals, and conflicts of interest, including the failure to establish City Districts.
+      THE DISCOVERY: Dr. Byrian Ramsey is a highly skilled and qualified candidate for Daphne City Council, advocating for "Lake Forest First" against issues like flooding and commercial property conversion in Daphne.
+      THE PIVOT: Both articles highlight systemic issues of local government incompetence and ignoring constituent needs (e.g., Fairhope council ignoring citizens, Daphne council being "stone deaf"); however, the articles cover completely separate municipalities (Fairhope vs. Daphne) and do not share a factual link or event.
+      KEY ENTITIES:
+      *   Fairhope: Jack Burrell, Mayor Wilson, Ronan McSharry, Kevin Boone, Andrea Faust, Publix, Jade Consulting
+      *   Daphne: Dr. Byrian Ramsey, Lake Forest, Daphne Mayor/Council
+      *   Projects/Issues: Waterfront Project ($6.3M to $10M), Library Issue, Utility Engineer position, Fly Creek, Lake Forest flooding
+    llm_text: Jack Burrell's 23 years in Fairhope politics show local government failure, from side deals to failed City Districts. Read how Daphne's Dr. Byrian Ramsey fights "stone deaf" council issues like Lake Forest flooding.
+    text: Jack Burrell spent 23 years pushing failed projects through the Fairhope City Council. In Daphne, Dr. Byrian Ramsey fights a silent council over severe Lake Forest flooding.
+    widget_date: "2025-08-23"
+    generated_at: "2026-11-06T12:17:37.604632Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bay-minette-vote-out-mayor-wills-remember-oj-french:
+    refined_source: e1c3be913f30abace00edd5ce7952ac92018a39a97d97649c1d663ea77d9ce88
+    brief: |-
+      THE CONFLICT: Mayor Bob Wills (Baldwin County) lied to O. J. French's family regarding the circumstances of his son's death and supported the self-investigating BCMCU/Sheriff Department kangaroo court.
+      THE DISCOVERY: Mayor Wills' actions regarding O. J. French led to a federal lawsuit, and Wills faced ethics and Alabama Bar complaints regarding questionable, self-serving deals.
+      THE PIVOT: Wills' historical corruption and systemic lack of justice in Baldwin County establishes the "Good Ole Boy" culture that later enabled Jack Burrell to orchestrate Mayor double-dipping paychecks, manipulate the waterfront project cost (from $6.3M to $10M), and cover up actions involving Ronan McSherry.
+      KEY ENTITIES: Mayor Bob Wills, O. J. French, Chief Tolbert, Jack Burrell, Mayor Wilson, Kevin Boone, Andrea Faust, Joshua Brown, Ronan McSherry, Jade Consulting, Publix, Fairhope, Bay Minette, BCMCU.
+    llm_text: Mayor Bob Wills lied to O. J. French's family and supported a biased BCMCU/Sheriff investigation. This Baldwin County corruption established the "Good Ole Boy" culture that allowed Jack Burrell to double-dip and manipulate the waterfront project cost from $6.3M to $10M.
+    text: Mayor Bob Wills misled the family of O. J. French during a flawed sheriff's investigation. That local corruption paved the way for Jack Burrell to inflate the waterfront project cost.
+    widget_date: "2025-08-23"
+    generated_at: "2026-11-06T12:19:56.286412Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

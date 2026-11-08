@@ -5,30 +5,8 @@ metadata:
   main_date: "2025-04-03"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  failing-our-children-in-baldwin-county:
-    brief: |-
-      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months, exposed to sexual intercourse and explicit materials while in mother's custody. The mother was arrested on January 10, 2024, for Domestic Family Violence. A previous trial began March 5, 2024 (Case #DR-2017-900956.03).
-      THE DISCOVERY: The case (Case #230 700 147) showed that Baldwin County DHR conducted an investigation but failed to perform home inspections or interview mothers, despite the Baldwin County Child Advocacy Center forensic interviews confirming sexual intercourse. The court-appointed GAL failed to conduct a home inspection or interview the daughter after a May 9, 2024, meeting.
-      THE PIVOT: The detailed, documented failures (DHR inaction, GAL misconduct, law enforcement non-intervention) provided in Article 2 serve as specific evidence of the systemic failures that are now being addressed by the federal class action lawsuit forming against DHR (Article 1).
-      KEY ENTITIES: Baldwin County DHR; Baldwin County Family Court; GAL; Detective Trey Kraynak (Daphne Police Department); Baldwin County Family Court Reform Project; Case #230 700 147; Case #DR-2017-900956.03
-    llm_text: 'Baldwin County DHR ignored evidence that a 13-year-old daughter and 11-year-old boy faced sexual exposure for five months. This systemic failure, documented in Case #230 700 147, now fuels a federal class action lawsuit against DHR.'
-    widget_date: "2025-03-21"
-    generated_at: "2026-11-06T14:20:43.094367Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  go-to-hell-veterans:
-    brief: |-
-      THE CONFLICT: Kimberly Boswell (DMH Director) was accused by Kent Davis (ADVA Commissioner) of colluding to divert $7 million from the American Rescue Plan Act (ARPA) intended for ADVA; this occurred amidst a 2020 showdown between Ed Oliver (R-Dadeville) and Davis over COVID-era protocol at Bill Nichols State Veterans Home.
-
-      THE DISCOVERY: State government (under Gov. Ivey) allegedly engaged in retaliation, including the restructuring of the State Board of Veterans Affairs, against officials who filed ethics complaints regarding fund mismanagement.
-
-      THE PIVOT: Article 2 establishes a pattern of systemic governmental failure, alleged collusion, and lack of accountability within state social/health services (DMH/ADVA), providing the necessary context for the specific local systemic failure—the corruption and neglect within Baldwin County's DHR, family court, and GAL systems—detailed in Article 1.
-
-      KEY ENTITIES: Gov. Ivey; Kimberly Boswell; Kent Davis; Ed Oliver; Napoleon Bracy; Chip Brown; Barbara Drummond; Brett Easterbrook; Jennifer Fidler; Donna Givens; Frances Holk-Jones; Chris Pringle; Mark Shirey; Matt Simpson; Shane Stringer; Margie Wilcox; Alan Baker; Greg Albritton; Andrew Jones; Baldwin County; DHR; Family Court; GAL.
-    llm_text: Kent Davis accused DMH Director Kimberly Boswell of colluding to divert $7 million from ARPA intended for ADVA. Gov. Ivey's state government allegedly retaliated against ethics filers, revealing systemic failure in state health and veterans services.
-    widget_date: "2025-03-14"
-    generated_at: "2026-11-06T14:23:09.953790Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   justified:
+    refined_source: 1c5d74970aa604fb00bca50c2444f3f2d68fe36342beb5b42e8c7e03bf62d55d
     brief: |-
       THE CONFLICT:
       *   Killing of O.J. French in Bay Minette over a traffic stop.
@@ -61,18 +39,20 @@ hooks:
       *   Baldwin County Family Court Reform Project
       *   County Commission
       *   Bay Minette
-    llm_text: Baldwin County saw Sheriff Hoss Mack kill O.J. French and Robert Wilters collude to wrongfully convict Murray Lawrence JR. Discover how this deep systemic corruption still endangers vulnerable kids in the county's broken DHR and Family Court systems.
+    llm_text: Baldwin County saw Sheriff Hoss Mack kill O.J. French and Robert Wilters collude to wrongfully convict Murray Lawrence JR. Read how this deep systemic corruption still endangers vulnerable kids in the county's broken DHR and Family Court systems.
+    text: Sheriff Hoss Mack kills O.J. French while Robert Wilters helps wrongfully convict Murray Lawrence Jr. This deep systemic corruption continues to endanger vulnerable children inside the Baldwin County DHR and Family Court systems.
     widget_date: "2025-03-08"
     generated_at: "2026-11-06T14:24:14.558867Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   red-lips-award:
+    refined_source: e48c39a3f7ccf5b8174bca0b0b6dce40fde458a9846a9ae7dd06a531ffe7c1fd
     brief: |-
       THE CONFLICT:
       *   Tom Albritton, Ethics Director, misused the Mabel Amos Trust, awarding himself $120,000 for kids scholarships while earning over $100,000 per year for four years.
       *   Montgomery County Circuit Court Judge Greg Griffin ordered Special Fiduciary Jim White to gather information regarding the Amos Fund, removing Regions bank as Trustee.
       *   ADVA Commissioner Admiral Kent Davis filed an ethics complaint against DOH Director Kimberly Boswell for alleged collusion to prevent ADVA from obtaining $7 million in American Rescue Plan Act funds.
       *   The Ethics Commission dismissed the complaint against Kimberly Boswell.
-      *   State Senate passed legislation 21-9 (21-9 vote: 21-9) to "restructure" the State Board of Veterans Affairs, allegedly retaliation for the ethics complaint.
+      *   State Senate passed legislation 21-9 (21-9 vote: 21-9) to "restructure" the State Board of Veterans Affairs, retaliation for the ethics complaint.
 
       THE DISCOVERY:
       *   Alabama is noted as the number one state for political corruption.
@@ -103,24 +83,28 @@ hooks:
       *   State Senator Vivian Figures
       *   Cliff McCollum (A.L.I.S.O.N Director)
     llm_text: Ethics Director Tom Albritton took $120,000 from the Mabel Amos Trust, while DOH Director Kimberly Boswell faces ethics complaints over missing $7 million in ARPA funds. These failures expose deep, systemic corruption hurting Alabama's vulnerable citizens.
+    text: Ethics Director Tom Albritton takes $120,000 from the Mabel Amos Trust while DOH Director Kimberly Boswell faces ethics complaints over missing ARPA funds. These failures expose deep corruption that hurts vulnerable Alabama citizens.
     widget_date: "2025-03-03"
     generated_at: "2026-11-06T14:25:33.549178Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   veterans-rally:
+    refined_source: dc9294c4d75c6779440c26548d6bfdb1be71252165150137131d4939074d8933
     brief: |-
       THE CONFLICT: Two minor children (then 13 years old and 11 years old) were left unprotected for over five months in mother's custody; signs of abuse were present and law enforcement involvement and a court-appointed guardian existed.
       THE DISCOVERY: Information regarding a "VETERANS RALLY" at the Alabama State House (no specific factual discovery related to DHR/Baldwin County is present in the Widget article text).
       THE PIVOT: Article 2 (VETERANS RALLY) does not provide factual context or a 'smoking gun' link to the Baldwin County DHR lawsuit based on the provided text.
       KEY ENTITIES: Baldwin County, DHR, GAL, Baldwin County Family Court, Spanish Fort (law firm)
     llm_text: Two minor children, aged 13 and 11, endured over five months of neglect under Baldwin County DHR custody. See how the Baldwin County Family Court and Spanish Fort navigated this critical child welfare crisis for the community.
+    text: Two minor children endure over five months of neglect under Baldwin County DHR custody. Baldwin County Family Court and Spanish Fort officials navigate this critical child welfare crisis.
     widget_date: "2025-02-23"
     generated_at: "2026-11-06T14:21:48.601659Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   war:
+    refined_source: 4c110b4b4cadfc731a4e9929237376e7e6ca4be34cfaccf49480b6d4f8a7cc32
     brief: |-
       THE CONFLICT:
       Alabama veterans are facing efforts to strip representation by creating a cabinet position for the Director of Veterans Affairs, moving the current veterans board to an advisory role.
-      Governor "poison Ivy" allegedly used "supreme executive power" to remove ADVA Director Admiral Kent Davis, acting as retaliation against the current veterans board.
+      Governor "poison Ivy" used "supreme executive power" to remove ADVA Director Admiral Kent Davis, acting as retaliation against the current veterans board.
       A veterans rally was scheduled for Montgomery on February 25th.
 
       THE DISCOVERY:
@@ -139,10 +123,12 @@ hooks:
       Spanish Fort (location of law firm)
       Montgomery (rally location)
     llm_text: Governor "poison Ivy" retaliated against veterans by removing ADVA Director Admiral Kent Davis, stripping crucial representation. This systemic abuse of power reveals how Alabama governance fails vulnerable populations statewide, from veterans to children in Baldwin County.
+    text: Governor Kay Ivey retaliates against veterans by removing ADVA Director Admiral Kent Davis and stripping their representation. This abuse of power shows how Alabama governance fails veterans and children in Baldwin County.
     widget_date: "2025-02-22"
     generated_at: "2026-11-06T14:26:29.828137Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   lt-governor-ainsworth-breaks-with-governor:
+    refined_source: 0bd4862d747b03c51613e83084e56058b7edf597b987b3859d06fde00af5914e
     brief: |-
       THE CONFLICT:
       *   February 11, 2025: Lt. Governor Will Ainsworth publicly opposed Governor Kay Ivey's push for Senate Bill 67 (SB67).
@@ -171,6 +157,34 @@ hooks:
       *   Spanish Fort (Law firm location)
       *   SB 67
     llm_text: Baldwin County children, ages 13 and 11, faced five months of unprotected neglect while DHR failed. A federal class action lawsuit is forming against DHR amid political battles, including Governor Kay Ivey's fight against Lt. Governor Will Ainsworth over state power.
+    text: Two Baldwin County children endure five months of unprotected neglect while DHR fails to act. A federal class action lawsuit targets DHR during a political war between Governor Kay Ivey and Lieutenant Governor Will Ainsworth.
     widget_date: "2025-02-12"
     generated_at: "2026-11-06T14:27:45.447094Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  failing-our-children-in-baldwin-county:
+    refined_source: e1241de44fefc88b9b854607a7ab6c5985940efad3ed1831a04df1a3c5a989be
+    brief: |-
+      THE CONFLICT: Two minor children (13-year-old daughter and 11-year-old boy) were left unprotected for over five months, exposed to sexual intercourse and explicit materials while in mother's custody. The mother was arrested on January 10, 2024, for Domestic Family Violence. A previous trial began March 5, 2024 (Case #DR-2017-900956.03).
+      THE DISCOVERY: The case (Case #230 700 147) showed that Baldwin County DHR conducted an investigation but failed to perform home inspections or interview mothers, despite the Baldwin County Child Advocacy Center forensic interviews confirming sexual intercourse. The court-appointed GAL failed to conduct a home inspection or interview the daughter after a May 9, 2024, meeting.
+      THE PIVOT: The detailed, documented failures (DHR inaction, GAL misconduct, law enforcement non-intervention) provided in Article 2 serve as specific evidence of the systemic failures that are now being addressed by the federal class action lawsuit forming against DHR (Article 1).
+      KEY ENTITIES: Baldwin County DHR; Baldwin County Family Court; GAL; Detective Trey Kraynak (Daphne Police Department); Baldwin County Family Court Reform Project; Case #230 700 147; Case #DR-2017-900956.03
+    llm_text: 'Baldwin County DHR ignored evidence that a 13-year-old daughter and 11-year-old boy faced sexual exposure for five months. This systemic failure, documented in Case #230 700 147, now fuels a federal class action lawsuit against DHR.'
+    text: 'Baldwin County DHR ignores evidence that a 13-year-old girl and an 11-year-old boy face sexual exposure for five months. Case #230 700 147 documents this systemic failure, triggering a federal class action lawsuit against DHR.'
+    widget_date: "2025-03-21"
+    generated_at: "2026-11-06T14:20:43.094367Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  go-to-hell-veterans:
+    refined_source: ae6fec2ee0a985273ab46bc8a4b51645ddf6ac432a63ceae1d6336b83b68603c
+    brief: |-
+      THE CONFLICT: Kimberly Boswell (DMH Director) was accused by Kent Davis (ADVA Commissioner) of colluding to divert $7 million from the American Rescue Plan Act (ARPA) intended for ADVA; this occurred amidst a 2020 showdown between Ed Oliver (R-Dadeville) and Davis over COVID-era protocol at Bill Nichols State Veterans Home.
+
+      THE DISCOVERY: State government (under Gov. Ivey) engaged in retaliation, including the restructuring of the State Board of Veterans Affairs, against officials who filed ethics complaints regarding fund mismanagement.
+
+      THE PIVOT: Article 2 establishes a pattern of systemic governmental failure, alleged collusion, and lack of accountability within state social/health services (DMH/ADVA), providing the necessary context for the specific local systemic failure—the corruption and neglect within Baldwin County's DHR, family court, and GAL systems—detailed in Article 1.
+
+      KEY ENTITIES: Gov. Ivey; Kimberly Boswell; Kent Davis; Ed Oliver; Napoleon Bracy; Chip Brown; Barbara Drummond; Brett Easterbrook; Jennifer Fidler; Donna Givens; Frances Holk-Jones; Chris Pringle; Mark Shirey; Matt Simpson; Shane Stringer; Margie Wilcox; Alan Baker; Greg Albritton; Andrew Jones; Baldwin County; DHR; Family Court; GAL.
+    llm_text: Kent Davis accused DMH Director Kimberly Boswell of colluding to divert $7 million from ARPA intended for ADVA. Gov. Ivey's state government retaliated against ethics filers, revealing systemic failure in state health and veterans services.
+    text: Kent Davis accuses DMH Director Kimberly Boswell of colluding to divert $7 million in ARPA funds from ADVA. Governor Kay Ivey's administration retaliates against ethics filers, exposing corruption in state health and veterans services.
+    widget_date: "2025-03-14"
+    generated_at: "2026-11-06T14:23:09.953790Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

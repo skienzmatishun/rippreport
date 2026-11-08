@@ -1,0 +1,55 @@
+metadata:
+  generated_at: "2026-11-08T09:17:30.994332Z"
+  generator_version: 1.0.0
+  post_slug: back-stabber
+  main_date: "2018-09-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pop-up-target:
+    brief: |-
+      THE CONFLICT: Council, led by Jack Burrell, engaged in secretive planning for the K-1 Center over two years, including Burrell writing a private letter of intent to the School Board without public notification.
+      THE DISCOVERY: The council's secretive behavior was aimed at eliminating competitive public projects and keeping K-1 Center details under wraps.
+      THE PIVOT: Article 2 establishes a two-year pattern of non-transparency by Jack Burrell and the council, contextualizing the attempt in Article 1 to execute a Real Estate Purchase Agreement on September 4, 2018, without public hearings.
+      KEY ENTITIES: Jack Burrell (Council President), Karin Wilson (Mayor of Fairhope), Lisa A. Hanks (MMC), Baldwin County Board of Education (BCBE), Fairhope City Council, Baldwin County Economic Development Alliance (BCEDA), K-1 Center.
+    llm_text: Jack Burrell and the Fairhope City Council secretly planned the K-1 Center for two years, bypassing public notification and competitive projects. Discover the pattern of non-transparency, including the September 4, 2018, Real Estate Purchase Agreement executed without public hearings.
+    widget_date: "2018-08-31"
+    generated_at: "2026-11-08T09:14:56.269409Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fact-and-fiction-a-b-c:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell, Council President of Fairhope, has been accused of long-term corruption and conducting secret deals in Fairhope over many years. (Historical context from Widget Article)
+      *   On Friday, August 31, 2018, Jack Burrell planned to execute a Real Estate Purchase Agreement for properties owned by the Baldwin County Board of Education (BCBE) on Tuesday, September 4, 2018, without a single public hearing. (Main Article)
+
+      THE DISCOVERY:
+      *   Article 2 revealed a pattern of alleged corruption, secret deals, and lack of transparency involving Jack Burrell in Fairhope over many years.
+
+      THE PIVOT:
+      *   Article 2 establishes that the specific 2018 property deal (Real Estate Purchase Agreement for k-1 Center, Nix Center land, "Fairhoper's" Park, and Alternative School) is not an isolated incident but a continuation of a long-standing pattern of secrecy and alleged corruption by Jack Burrell.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Karin Wilson (Mayor of Fairhope)
+      *   Lisa A. Hanks, MMC
+      *   Fairhope City Council
+      *   Baldwin County Board of Education (BCBE)
+      *   August 31, 2018
+      *   September 4, 2018
+      *   k-1 Center
+      *   Nix Center land
+      *   "Fairhoper's" Park
+      *   Alternative School
+    llm_text: Fairhope Council President Jack Burrell allegedly conducted years of secret corruption and deals. He planned a non-public real estate purchase for k-1 Center and Nix Center land on September 4, 2018, showing this wasn't an isolated incident.
+    widget_date: "2018-08-30"
+    generated_at: "2026-11-08T09:16:02.205671Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote:
+    brief: |-
+      THE CONFLICT: Settlement of the triangle lawsuit, involving Jack Burrell (past date unspecified).
+      THE DISCOVERY: Article 2 (Widget) provides historical context regarding past council decisions/voting patterns (based on metadata, specific facts absent).
+      THE PIVOT: The previous conflict (triangle lawsuit settlement) establishes a precedent of past mistakes and lack of transparency that Mayor Karin Wilson cites as reason not to repeat the real estate deal (September 2018).
+      KEY ENTITIES: Jack Burrell (Council President), Karin Wilson (Mayor), Lisa A. Hanks (MMC), Fairhope, Baldwin County Board of Education (BCBE), k-1 Center, Nix Center land, K-1 “Fairhoper’s” Park, Alternative School.
+    llm_text: Mayor Karin Wilson won't repeat past mistakes after the triangle lawsuit settlement involving Jack Burrell. See how old council voting patterns shaped her decision on the September 2018 Fairhope real estate deal.
+    widget_date: "2018-07-17"
+    generated_at: "2026-11-08T09:17:14.278272Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

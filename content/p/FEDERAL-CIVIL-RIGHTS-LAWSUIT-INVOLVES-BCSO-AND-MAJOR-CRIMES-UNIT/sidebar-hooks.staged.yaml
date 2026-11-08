@@ -5,60 +5,20 @@ metadata:
   main_date: "2024-08-01"
   model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
-  baldwin-county-sheriff-appointment:
-    brief: |-
-      THE CONFLICT:
-      - A series of fatal incidents and alleged cover-ups involving the Baldwin County Sheriff's Office (BCSO) and the Major Crimes Unit (BCMCU).
-      - Specific incidents include: The death of Peyton Little (ruled a suicide despite strangulation evidence); the SWAT raid death of Robert Yates involving 114+ shell casings/grenades; a high-speed I-10 pursuit resulting in 5 deaths (including Joseph and Kevin Andrews); and a 20-year wrongful conviction involving withheld exculpatory evidence.
-      - The shooting of Jonathan Victor in April 2021 by Deputy Mark Hunady, where Sheriff Mack allegedly provided false facts to the court.
-
-      THE DISCOVERY:
-      - Historical records established a pattern of the BCMCU acting as a self-investigating body with no credibility, specifically noting that the unit is chaired by Bay Minette Police Chief Al Tolbert.
-      - Documentation revealed Anthony Lowery’s direct ties to these incidents, including his role as an investigator in a major wrongful conviction case where evidence was withheld, and his dismissive comments regarding the death of Peyton Little.
-
-      THE PIVOT:
-      - Article 2 serves as the foundation for the current federal civil rights lawsuit mentioned in Article 1. It proves that Sheriff Mack’s attempt to appoint Anthony Lowery as his successor is not a standard transition, but an attempt to pass off a massive legal and financial liability. The "smoking gun" is the connection between Lowery's past involvement in departmental misconduct and the current lawsuits involving O.J. French and Jonathan Victor.
-
-      KEY ENTITIES:
-      - Huey “Hoss” Mack (Sheriff, BCSO)
-      - Anthony Lowery (Proposed Successor/Investigator)
-      - O.J. French (Victim)
-      - Brandon Thompson (Bay Minette Police Officer)
-      - Al Tolbert (Bay Minette Police Chief/BCMCU Chairman)
-      - Mark Hunady (BCSO Deputy)
-      - Jonathan Victor (Victim)
-      - William Cassady (Judge)
-      - David Whetstone (Prosecutor)
-      - Robert Wilters (Judge)
-      - Peyton Little (Victim)
-      - Robert Yates (Victim)
-      - Joseph and Kevin Andrews (I-10 Pursuit Victims)
-      - Mason Bass (Governor’s Appointment Office)
-    llm_text: Sheriff Mack is grooming Anthony Lowery to succeed him, but Lowery’s history involves fatal cover-ups and withheld evidence in major wrongful conviction cases. This isn't a routine transition, but a calculated attempt to offload massive legal and financial liabilities onto the next administration.
-    widget_date: "2024-07-27"
-    generated_at: "2026-11-06T16:37:45.279327Z"
-    model_name: '@cf/google/gemma-4-26b-a4b-it'
-  bcso-how-to-become-sheriff:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray "Bubba" Lawrence Jr. (c. 2003/2004). Sheriff Mack was promoted for his involvement in this case.
-      THE DISCOVERY: Mack, District Attorney David Whetstone, and Judge Robert Wilters ignored Mississippi autopsy findings (asphyxiation by strangulation) and withheld exculpatory evidence found in 2023 from the defense, violating the law.
-      THE PIVOT: Article 2 demonstrates a historical pattern of legal violations, ethical misconduct, and judicial bias by Sheriff Mack and his associates, providing context for the current federal civil rights lawsuits (e.g., O. J. French murder case, Jonathan Victor shooting) mentioned in Article 1.
-      KEY ENTITIES: Huey Mack (BCSO), Anthony Lowery, OJ French, Brandon Thompson, Mayor Wills, Al Tolbert, Murray Lawrence Jr., Dean McGowan, David Whetstone, Judge Robert Wilters, Jonathan Victor, Judge William Cassady, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock.
-    llm_text: Sheriff Huey Mack and DA David Whetstone ignored autopsy findings in the 2003 conviction of Murray "Bubba" Lawrence Jr., withholding critical exculpatory evidence. This pattern of legal bias links Mack to current federal civil rights lawsuits, including the O. J. French and Jonathan Victor cases.
-    widget_date: "2024-07-16"
-    generated_at: "2026-11-06T16:37:58.370959Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   boss-sheriff:
+    refined_source: 69c9c2bf617f786520dc10e2fc9a20890be6426f8f0cfebfc4b2b6c6937d9c61
     brief: |-
       THE CONFLICT: Murder of O. J. French by Bay Minette police officer Brandon Thompson.
-      THE DISCOVERY: BCSO Sheriff Hoss Mack allegedly controls the District Attorney and influences judges, a pattern of bad behavior previously reported to the FBI.
+      THE DISCOVERY: BCSO Sheriff Hoss Mack controls the District Attorney and influences judges, a pattern of bad behavior previously reported to the FBI.
       THE PIVOT: Article 2 establishes a historical pattern of systemic power and alleged misconduct by Sheriff Mack, providing context for the current federal civil rights lawsuit and BCMCU's lack of credibility/self-investigation detailed in Article 1.
       KEY ENTITIES: Huey Mack (Hoss Mack), BCSO, O. J. French, Brandon Thompson, Mayor Wills, Al Tolbert, Anthony Lowery, BCMCU, Jonathan Victor, Judge William Cassady.
-    llm_text: Brandon Thompson killed O. J. French, but BCSO Sheriff Hoss Mack allegedly controls the District Attorney and judges. Read how Mack's historical misconduct, previously reported to the FBI, fuels the current federal civil rights lawsuit.
+    llm_text: Brandon Thompson killed O. J. French, but BCSO Sheriff Hoss Mack controls the District Attorney and judges. Read how Mack's historical misconduct, previously reported to the FBI, fuels the current federal civil rights lawsuit.
+    text: Brandon Thompson killed O. J. French, but Sheriff Hoss Mack controls the District Attorney and judges. Mack's historical misconduct fuels the current federal civil rights lawsuit.
     widget_date: "2023-09-09"
     generated_at: "2026-11-06T16:40:01.199804Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   shuffling-the-deck:
+    refined_source: 1f9a9ce666ab7fd4c4aba8c65956468396b04635855f822e827a2a969a52a665
     brief: |-
       THE CONFLICT:
       2004 wrongful conviction of Murray Lawrence Jr.
@@ -80,26 +40,32 @@ hooks:
       Jonathan Victor
       BCMCU (including Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock)
     llm_text: Murray Lawrence Jr.'s 2004 wrongful conviction and Anthony Lowery's role helped promote Sheriff Huey Mack. This systemic BCSO misconduct links directly to the O. J. French murder and the Jonathan Victor shooting cover-ups.
+    text: Murray Lawrence Jr.'s wrongful conviction and Anthony Lowery's role helped promote Sheriff Huey Mack. This BCSO misconduct links directly to the O. J. French and Jonathan Victor cover-ups.
     widget_date: "2024-07-08"
     generated_at: "2026-11-06T16:40:54.565046Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   hanky-panky-at-the-po-po:
+    refined_source: 48335b2c061a70e3e2b1b28fcec55919f24a8408f62e5c723a3e77170c6c0597
     brief: |-
       THE CONFLICT: O. J. French was murdered by Bay Minette police officer Brandon Thompson.
       THE DISCOVERY: On June 20, 2024, the Alabama Attorney General forwarded a murder-for-hire complaint in Choctaw County to the local Sheriff because the Sheriff had a family connection to an alleged participant.
       THE PIVOT: The June 2024 incident (Article 2) establishes a historical pattern of local jurisdictional conflicts and family ties obstructing criminal investigations, providing context for the failure of the BCMCU to conduct unbiased investigations into the O. J. French murder (Article 1).
       KEY ENTITIES: Sheriff Huey Mack, Anthony Lowery, O. J. French, Brandon Thompson, Mayor Wills, Al Tolbert, Bay Minette, BCSO.
     llm_text: Brandon Thompson, a Bay Minette police officer, murdered O. J. French. Sheriff Huey Mack’s family ties obstructed the investigation, revealing a pattern of local conflicts that compromised the BCMCU’s unbiased inquiry.
+    text: Brandon Thompson murdered O. J. French, and Sheriff Huey Mack used family ties to obstruct the investigation. This reveals a pattern of local conflicts that compromised the BCMCU inquiry.
     widget_date: "2024-06-20"
     generated_at: "2026-11-06T16:39:07.995814Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   wrongful-conviction-fairhope-baldwin-county:
+    refined_source: c92cc580c42d1d08ce266f58d71e7a9c445b2a463192ffc6c3595d23923d6c1a
     brief: "THE CONFLICT:\n- The wrongful conviction of Murray Lawrence Jr. in Fairhope, Baldwin County.\n- Allegations involved the Sheriff, a Judge, and a Prosecutor withholding evidence from the defense.\n- Characterized by an inefficient police investigation and systemic corruption.\n\nTHE DISCOVERY:\n- Documented a historical pattern of judicial and law enforcement misconduct in Baldwin County.\n- Established a precedent for withholding evidence and failure of investigative integrity within the county's legal system.\n\nTHE PIVOT:\n- Article 2 serves as the historical baseline for the current systemic failures within the Baldwin County Major Crimes Unit (BCMCU). \n- It provides the necessary context to view the current federal civil rights lawsuits—specifically those involving O.J. French and Jonathan Victor—not as isolated incidents, but as part of a long-standing pattern of evidence suppression and institutional self-protection by Baldwin County officials.\n\nKEY ENTITIES:\n- Sheriff Huey “Hoss” Mack (BCSO)\n- Murray Lawrence Jr. (Wrongfully convicted individual)\n- O.J. French (Murder victim)\n- Brandon Thompson (Bay Minette Police Officer)\n- Al Tolbert (Bay Minette Police Chief / BCMCU Chairman)\n- Jonathan Victor (2021 shooting victim)\n- Deputy Hunady (Officer involved in Victor shooting)\n- Anthony Lowery (Potential successor to Mack)\n- Mayor Wills (Bay Minette)\n- BCMCU (Baldwin County Major Crimes Unit)"
     llm_text: Baldwin County officials suppressed evidence in the Murray Lawrence Jr. case, exposing a long-standing pattern of misconduct. This historical corruption provides the vital context for current federal civil rights lawsuits involving O.J. French and Jonathan Victor.
+    text: Baldwin County officials suppressed evidence in the Murray Lawrence Jr. case. This historical corruption provides vital context for current federal civil rights lawsuits involving O.J. French and Jonathan Victor.
     widget_date: "2024-06-17"
     generated_at: "2026-11-06T16:38:59.057202Z"
     model_name: '@cf/google/gemma-4-26b-a4b-it'
   po-po-hoss-mack-ccuo:
+    refined_source: 9398b80715b4552de298c0c77ee01da7c47eab5d948b219bb0ca6dcb8b9f6d49
     brief: |-
       THE CONFLICT:
       *   Murray Lawrence Jr. was wrongfully convicted.
@@ -112,7 +78,7 @@ hooks:
       *   The Widget Article revealed Mack, Wilters, and Whetstone hid evidence that would prove Murray Lawrence Jr. was innocent.
 
       THE PIVOT:
-      *   Article 2 proves that Mack's alleged past pattern of systemic cover-ups and evidence suppression (2004 case) demonstrates the lack of credibility in the BCMCU, which is investigating itself in connection with recent cases (O. J. French murder, Jonathan Victor shooting).
+      *   Article 2 shows that Mack's alleged past pattern of systemic cover-ups and evidence suppression (2004 case) demonstrates the lack of credibility in the BCMCU, which is investigating itself in connection with recent cases (O. J. French murder, Jonathan Victor shooting).
       *   This history supports the current federal civil rights lawsuit against the BCSO regarding O. J. French's murder.
 
       KEY ENTITIES:
@@ -133,6 +99,54 @@ hooks:
       *   Jon Grey
       *   Baldwin County School Board
     llm_text: Hoss Mack, Wilters, and Whetstone hid evidence proving Murray Lawrence Jr. was innocent in 2004. This history of systemic cover-ups undermines the BCMCU's credibility while they investigate the O. J. French murder and Jonathan Victor shooting.
+    text: Hoss Mack, Wilters, and Whetstone hid evidence proving Murray Lawrence Jr. was innocent in 2004. This history of cover-ups undermines the BCMCU while they investigate new murder and shooting cases.
     widget_date: "2024-06-15"
     generated_at: "2026-11-06T16:41:48.181671Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-sheriff-appointment:
+    refined_source: 595af83eb603585a90b7e37d2129528c2341539b85ca3a1114cca7743a644052
+    brief: |-
+      THE CONFLICT:
+      - A series of fatal incidents and alleged cover-ups involving the Baldwin County Sheriff's Office (BCSO) and the Major Crimes Unit (BCMCU).
+      - Specific incidents include: The death of Peyton Little (ruled a suicide despite strangulation evidence); the SWAT raid death of Robert Yates involving 114+ shell casings/grenades; a high-speed I-10 pursuit resulting in 5 deaths (including Joseph and Kevin Andrews); and a 20-year wrongful conviction involving withheld exculpatory evidence.
+      - The shooting of Jonathan Victor in April 2021 by Deputy Mark Hunady, where Sheriff Mack provided false facts to the court.
+
+      THE DISCOVERY:
+      - Historical records established a pattern of the BCMCU acting as a self-investigating body with no credibility, specifically noting that the unit is chaired by Bay Minette Police Chief Al Tolbert.
+      - Documentation revealed Anthony Lowery’s direct ties to these incidents, including his role as an investigator in a major wrongful conviction case where evidence was withheld, and his dismissive comments regarding the death of Peyton Little.
+
+      THE PIVOT:
+      - Article 2 serves as the foundation for the current federal civil rights lawsuit mentioned in Article 1. It shows that Sheriff Mack’s attempt to appoint Anthony Lowery as his successor is not a standard transition, but an attempt to pass off a massive legal and financial liability. The "smoking gun" is the connection between Lowery's past involvement in departmental misconduct and the current lawsuits involving O.J. French and Jonathan Victor.
+
+      KEY ENTITIES:
+      - Huey “Hoss” Mack (Sheriff, BCSO)
+      - Anthony Lowery (Proposed Successor/Investigator)
+      - O.J. French (Victim)
+      - Brandon Thompson (Bay Minette Police Officer)
+      - Al Tolbert (Bay Minette Police Chief/BCMCU Chairman)
+      - Mark Hunady (BCSO Deputy)
+      - Jonathan Victor (Victim)
+      - William Cassady (Judge)
+      - David Whetstone (Prosecutor)
+      - Robert Wilters (Judge)
+      - Peyton Little (Victim)
+      - Robert Yates (Victim)
+      - Joseph and Kevin Andrews (I-10 Pursuit Victims)
+      - Mason Bass (Governor’s Appointment Office)
+    llm_text: Sheriff Mack is grooming Anthony Lowery to succeed him, but Lowery’s history involves fatal cover-ups and withheld evidence in major wrongful conviction cases. This isn't a routine transition, but a calculated attempt to offload massive legal and financial liabilities onto the next administration.
+    text: Sherry Mack grooms Anthony Lowery to succeed him despite Lowery's history of fatal cover-ups and withheld evidence. This transition attempts to offload massive legal liabilities onto the next administration.
+    widget_date: "2024-07-27"
+    generated_at: "2026-11-06T16:37:45.279327Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  bcso-how-to-become-sheriff:
+    refined_source: 812aa85361aef09147361e3e123fb3a83185dd81971716c2ae82b122621b0960
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray "Bubba" Lawrence Jr. (c. 2003/2004). Sheriff Mack was promoted for his involvement in this case.
+      THE DISCOVERY: Mack, District Attorney David Whetstone, and Judge Robert Wilters ignored Mississippi autopsy findings (asphyxiation by strangulation) and withheld exculpatory evidence found in 2023 from the defense, violating the law.
+      THE PIVOT: Article 2 demonstrates a historical pattern of legal violations, ethical misconduct, and judicial bias by Sheriff Mack and his associates, providing context for the current federal civil rights lawsuits (e.g., O. J. French murder case, Jonathan Victor shooting) mentioned in Article 1.
+      KEY ENTITIES: Huey Mack (BCSO), Anthony Lowery, OJ French, Brandon Thompson, Mayor Wills, Al Tolbert, Murray Lawrence Jr., Dean McGowan, David Whetstone, Judge Robert Wilters, Jonathan Victor, Judge William Cassady, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock.
+    llm_text: Sheriff Huey Mack and DA David Whetstone ignored autopsy findings in the 2003 conviction of Murray "Bubba" Lawrence Jr., withholding critical exculpatory evidence. This pattern of legal bias links Mack to current federal civil rights lawsuits, including the O. J. French and Jonathan Victor cases.
+    text: Sheriff Huey Mack and District Attorney David Whetstone ignored autopsy findings in the 2003 conviction of Murray Lawrence Jr. This legal bias links Mack to current federal civil rights lawsuits.
+    widget_date: "2024-07-16"
+    generated_at: "2026-11-06T16:37:58.370959Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

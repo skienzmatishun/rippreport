@@ -1,0 +1,115 @@
+metadata:
+  generated_at: "2026-11-07T23:56:46.141399Z"
+  generator_version: 1.0.0
+  post_slug: election-ad
+  main_date: "2020-02-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature:
+    refined_source: 8c28231960684a9e077b8510c8d836ce81e35c12b859e6154a8d52b95b712527
+    brief: |-
+      Please provide the actual content of [MAIN ARTICLE CONTENT] and [WIDGET ARTICLE CONTENT]. I cannot perform the analysis without the text.
+
+      Once provided, I will deliver the Bridge Brief in the required raw, structured format, starting directly with 'THE CONFLICT:'.
+    llm_text: I need the structured bridge brief starting with 'THE CONFLICT:' to write the hook.
+    text: The conflict between public safety and private interests shapes local policy in Baldwin County. Read how unaddressed complaints reveal a persistent failure in leadership.
+    widget_date: "2020-02-19"
+    generated_at: "2026-11-07T23:56:27.750100Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  danger-zone:
+    refined_source: 1a3bcffa53dda7b767c82dac1dd65b1c69374c5b5eb1d6c109bacc9a6be4e894
+    brief: |-
+      THE CONFLICT: No specific past conflict or date provided in the articles.
+      THE DISCOVERY: Highway 98 and Parker Road are dangerous.
+      THE PIVOT: Article 2 identifies specific individuals (CATALYST Fairhope City Council, former Fairhope Mayor Can’t, property owner Angelo Corte) linked to the danger, which provides context for the "ELECTION AD" (Article 1).
+      KEY ENTITIES: Highway 98, Parker Road, CATALYST Fairhope City Council, Can’t, Angelo Corte
+    llm_text: Highway 98 and Parker Road danger connects directly to the CATALYST Fairhope City Council and Angelo Corte. See how former Mayor Can’t fits into this story before you vote.
+    text: Highway 98 and Parker Road dangers link directly to the CATALYST Fairhope City Council and Angelo Corte. Learn how former officials fit this story before you vote.
+    widget_date: "2020-02-15"
+    generated_at: "2026-11-07T23:54:45.577048Z"
+    model_name: plugsky-lite
+  backstory-alabama-the-ripp-report-podcast-5:
+    brief: |-
+      THE CONFLICT:
+      - Main Article: "ELECTION AD" — newer article.
+      - Widget Article: "BACKSTORY PODCAST #5" — older article; framed as background/historical context.
+      - Past event: Election-related content covered in the Main Article; historical context provided by the Widget Article.
+
+      THE DISCOVERY:
+      - Article 2: "BACKSTORY PODCAST #5" showed/revealed background context at the time.
+      - Context detail: Provided background for the main story in Article 1.
+
+      THE PIVOT:
+      - Article 2: "BACKSTORY PODCAST #5" is the 'smoking gun' / key context linking to Article 1: "ELECTION AD".
+
+      KEY ENTITIES:
+      - Lowery
+      - Wilters
+      - ELECTION AD (Main Article)
+      - BACKSTORY PODCAST #5 (Widget Article)
+    llm_text: 'The ELECTION AD just got a smoking gun. BACKSTORY PODCAST #5 just revealed the context Lowery and Wilters buried when they made that explosive ad — and it could really change how you see this election race today.'
+    text: 'The ELECTION AD just got a smoking gun. BACKSTORY PODCAST #5 just revealed the context Lowery and Wilters buried when they made that explosive ad — and it could really change how you see this election race today.'
+    widget_date: "2019-10-05"
+    generated_at: "2026-11-07T23:55:00.327631Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-kiss:
+    brief: "THE CONFLICT: Fairhope City Council President Jack Burrell has held his position for over 7 years without sharing the gavel, controlling council meetings which he extends with excessive talking (\"diarrhea mouth\"). During a Monday night City Council meeting and work session, Burrell spent 10 minutes making excuses and apologizing for agenda mistakes regarding a canceled item. \n\nTHE DISCOVERY: Historical context from the older widget article reveals that Council President Jack Burrell publicly signaled allegiance to First Congressional District candidate Bill Hightower by throwing a \"KISS\" to him in the audience. The article exposed that Hightower aligned with a political group called \"CATALYST\" (described as part of Baldwin County's \"corrupt good ole boys\" and operating like a \"criminal enterprise\") and that the Fairhope CATALYST council intended to run as a block vote in 2020 to exclusively support CATALYST candidates.\n\nTHE PIVOT: The older widget article serves as the smoking gun/key context for the main article by documenting the explicit, corrupt political alliances between incumbent local officials (Jack Burrell) and targeted candidates (Bill Hightower/CATALYST), proving that current election ads and political maneuvering are extensions of a long-standing, coordinated block-voting machine operating within the Fairhope City Council.\n\nKEY ENTITIES:\n- Jack Burrell (Fairhope City Council President)\n- Bill Hightower (First Congressional District candidate / CATALYST candidate)"
+    llm_text: Fairhope Council President Jack Burrell controls meetings with endless talk, but his past allegiance to Bill Hightower and the corrupt CATALYST network reveals a deeper political machine. Read the smoking gun exposing how today's council maneuvers echo a coordinated block-voting scheme.
+    text: Fairhope Council President Jack Burrell controls meetings with endless talk, but his past allegiance to Bill Hightower and the corrupt CATALYST network reveals a deeper political machine. Read the smoking gun exposing how today's council maneuvers echo a coordinated block-voting scheme.
+    widget_date: "2020-02-12"
+    generated_at: "2026-11-07T23:54:45.223828Z"
+    model_name: gemini-3.5-flash-lite
+  catalyst-central:
+    refined_source: da6fcd7eb2bcc43858972d6c83973bb4759a2cc91f1469d18f8d127427572944
+    brief: |-
+      THE CONFLICT:
+      *   Lynn Stacy, Chris Elliott, and Dane Haygood formed "Stacy, Haygood and Elliott."
+      *   CATALYST was formed in Fairhope to obstruct Fairhope government and attack the Mayor.
+      *   CATALYST candidates ran in the Baldwin County mid term elections of 2018 and were unsuccessful due to public response.
+
+      THE DISCOVERY:
+      *   The three previous elections showed the mayor ran the city and decisions were made by a select few ("good ole boys").
+      *   The Fairhope council has sworn allegiance to CATALYST.
+      *   Scott Boone, son of Fairhope Councilman Kevin Boone, became CATALYST's new manager.
+
+      THE PIVOT:
+      *   Widget establishes CATALYST’s historical objective: favoring developers and supporting lack of sewer regulations in Baldwin County.
+      *   This historical control (Councilman Boone conduit, CATALYST allegiance) explains the current actions in Article 1.
+      *   Article 1 (January 29) shows this control in action: County Commissioners Joe Davis and Jeb Ball voted for Savannah ESTATES (approx. 392 houses) on 54 E. and 64, despite opposition from engineers and other commissioners.
+
+      KEY ENTITIES:
+      *   Lynn Stacy
+      *   Chris Elliott
+      *   Dane Haygood
+      *   Scott Boone
+      *   Kevin Boone (Fairhope Councilman)
+      *   Joe Davis (County Commissioner)
+      *   Jeb Ball (County Commissioner)
+      *   CATALYST
+      *   Fairhope
+      *   Baldwin County
+      *   Savannah ESTATES (54 E. and 64)
+    llm_text: Lynn Stacy, Chris Elliott, and Dane Haygood formed CATALYST to favor developers and ignore regulations. This historical control explains why County Commissioners Joe Davis and Jeb Ball pushed through Savannah ESTATES despite expert opposition.
+    text: Lynn Stacy, Chris Elliott, and Dane Haygood formed CATALYST to favor developers. See why Commissioners Joe Davis and Jeb Ball pushed through Savannah Estates.
+    widget_date: "2020-02-01"
+    generated_at: "2026-11-07T23:55:55.895060Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  congressional-catalyst:
+    brief: "THE CONFLICT: In 2018, an organization/network referred to as \"CATALYST\" made a move to take over Baldwin County, Alabama, specifically targeting local government in Fairhope and expanding into the race for Alabama's First Congressional District seat vacated by Bradley Byrne.\n\nTHE DISCOVERY: The historical context shows that the CATALYST network successfully placed candidates on the Fairhope City Council, appointed hand-me-down city attorneys and municipal judges, and operated — in the estimation of the reporting — like an FBI-defined criminal enterprise threatening honest government. Bill Hightower was identified as the core CATALYST congressional candidate backed by key figures like Fairhope Municipal Judge/developer Snedeker and former State Senator BP \"Boom Boom\" Pittman.\n\nTHE PIVOT: The historical record (Article 2) acts as the smoking gun for current election tracking (Article 1) by unmasking Bill Hightower’s political lineage, showing that his congressional run is merely an extension of a localized, corrupt political machine (\"CATALYST\") that previously hijacked the Fairhope City Council, municipal judiciary, and Baldwin County Republican Party.\n\nKEY ENTITIES: \n- Bill Hightower (Congressional Candidate / CATALYST candidate)\n- Bradley Byrne (Outgoing U.S. Representative, Alabama's 1st Congressional District)\n- Snedeker (Fairhope Municipal Judge and Developer)\n- BP \"Boom Boom\" Pittman (Former State Senator)\n- CATALYST (Political organization/network)\n- Fairhope City Council\n- Baldwin County Republicans"
+    llm_text: Bill Hightower’s congressional run is not new politics—it is the direct continuation of CATALYST, a shadowy network that hijacked Fairhope’s government. Unmask this political machine to understand why Baldwin County's corruption threatens your vote today.
+    text: Bill Hightower’s congressional run is not new politics—it is the direct continuation of CATALYST, a shadowy network that hijacked Fairhope’s government. Unmask this political machine to understand why Baldwin County's corruption threatens your vote today.
+    widget_date: "2020-01-22"
+    generated_at: "2026-11-07T23:54:51.064630Z"
+    model_name: gemini-3.5-flash-lite
+  passport-to-paris:
+    refined_source: 607773d220c6682a62c2646404b8ee2482cc0345eaeb241c0d126c3f3cc4a0a3
+    brief: |-
+      THE CONFLICT: State Senator Chris Elliott co-sponsored a bill to award him $7,500 per year in travel expenses.
+      THE DISCOVERY: Elliott is linked to international travel (Paris Air Show) and his travel costs are debated against other county/state expenditures, such as $50,000 for Dean Mosher's painting.
+      THE PIVOT: The Widget Article provides historical context showing Elliott's travel expenditure proposal and the political maneuvering around it, informing the current Election Ad claims.
+      KEY ENTITIES: Chris Elliott, TAX MAN, Baldwin County, Paris Air Show, Dean Mosher, Fairhope City Councilman Burrell, Alabama Tourist Board, Eastern Shore Art Center, The State of Alabama’s Bicentennial Celebration, Alabama Community Service Grant Program
+    llm_text: Senator Chris Elliott seeks $7,500 yearly for travel, even as $50k funded Dean Mosher's painting. See how this travel proposal fuels current election ad attacks in Baldwin County.
+    text: Senator Chris Elliott seeks travel money while large sums fund Dean Mosher's painting. See how this travel request fuels current election attacks in Baldwin County.
+    widget_date: "2019-07-01"
+    generated_at: "2026-11-07T23:54:52.025888Z"
+    model_name: plugsky-lite

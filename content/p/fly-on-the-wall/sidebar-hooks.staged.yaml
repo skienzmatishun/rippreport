@@ -1,0 +1,265 @@
+metadata:
+  generated_at: "2026-11-07T16:50:08.505496Z"
+  generator_version: 1.0.0
+  post_slug: fly-on-the-wall
+  main_date: "2020-07-25"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  invitation:
+    refined_source: 9151426b9083f5db91f61eb0e9f42b2193a746967ebb9680ead30aec82ce0b9c
+    brief: |-
+      THE CONFLICT:
+      Past conflict involved the corruption and self-serving nature of the former Kant regime and the City Council.
+      The City Council (including the "three B's") approved a recreation property purchase (Fly Creek apartments) which turned a $1.7 million surplus into a $1.2 million deficit.
+      The City Council also approved raises and full family insurance for themselves, not offered to other employees.
+      Mayor Kant was the leader of the corrupt administration.
+
+      THE DISCOVERY:
+      Article 2 (older) revealed that the City Council failed to afford public participation on the $2.6 million Waterfront project, despite the later approval of a $500,000 engineering design and a $6.2 million grant.
+      Article 2 noted that qualifications for public office were July 7 to July 21.
+
+      THE PIVOT:
+      Article 2 provides historical proof of the entrenched, self-serving, and financially damaging corruption of the previous City Council structure, establishing the context for the political machine (Kant regime) that Article 1 critiques. Article 1 shows how Sherry and the former regime persisted after Wilson's election, but Article 2 demonstrates the systemic, pre-Wilson financial and procedural failures of that system.
+
+      KEY ENTITIES:
+      Karin Wilson (Mayor)
+      Sherry
+      Mayor Kant
+      Joseph (Chief of Police)
+      Jack B.
+      City Council
+      Fairhope
+      Waterfront Project ($6.2 million grant)
+      Fly Creek apartments
+      $1.2 million deficit
+    llm_text: Mayor Kant's regime caused a $1.2 million deficit via the Fly Creek apartments purchase and approved self-serving raises. Older records prove the Council also ignored public input on the $6.2 million Waterfront Project, revealing systemic corruption in Fairhope.
+    text: Mayor Kant caused a $1.2 million deficit through the Fly Creek apartment purchase and approved self-serving raises. Did the Council ignore public input on the Waterfront Project?
+    widget_date: "2020-06-25"
+    generated_at: "2026-11-07T16:48:37.404960Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  where-hell-were-you:
+    refined_source: 27656487c040ab3a3757eca5ea16f1baf7d89e9b70bae08780be3e144ad221ee
+    brief: |-
+      THE CONFLICT: Prior council administration (Kant regime) engaged in systemic corruption, including abuse of legal hours, giving contracts to friends, and losing a $11.25 million Triangle property, alongside council actions based on race (land acquisition near black neighborhood).
+      THE DISCOVERY: Article 2 details specific instances of council misconduct and political corruption, such as the $2.65 million farmland purchase by Boone, Brown, and Burrell, the loss of the Federal Lawsuit against the council for denying citizens to speak, and the Fly Creek apartment development favoring a developer contributor.
+      THE PIVOT: Article 2 establishes the historical depth and severity of the systemic corruption ("cesspool of political corruption") under previous council members (Boone, Brown, Burrell) and the Kant regime, providing the concrete factual evidence for Article 1's general claim that the "Kant regime was full of corruption" and maintained a "money making machine."
+      KEY ENTITIES: Mayor Wilson (Karin Wilson), Sherry, Mayor Kant, Jack Burrell, Joseph (Chief of Police), Councilman Boone, Councilman Brown, Burrell, Mr. Howell Raines, City of Fairhope, CATALYST, 2016 (historical context).
+    llm_text: Councilmen Boone, Brown, and Burrell fueled a corruption machine under Mayor Kant, losing $11.25 million and making suspicious deals. See how this systemic rot affected Fairhope citizens, from racial land actions to the $2.65 million farmland purchase.
+    text: Councilmen Boone, Brown, and Burrell lost $11.25 million and made suspicious deals under Mayor Kant. How did this corruption affect Fairhope citizens?
+    widget_date: "2020-06-19"
+    generated_at: "2026-11-07T16:49:40.033617Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-decade-of-corruption:
+    refined_source: a3f57458e6939c374dd37d08d4ee677267f25b4e6104fb82757e40c85e30674c
+    brief: |-
+      THE CONFLICT:
+      *   Prior to Karin Wilson's election, Fairhope Mayor Tim Kant utilized Fairhope staff (including Greg Mims, Sherry Sullivan, and Jennifer Fidler) to secure a $636,000.00 bid from Fairhope to State Senator Tripp Pittman for BP Boom work.
+      *   The County Commission advised Kant and Pittman not to proceed on May 8, 2010, but Pittman submitted a second proposal (Oil Recovery).
+      *   On June 4, 2010, the Fairhope City Council awarded the contract to Pittman Tractor, leading to a check of $372,165.90 being paid to Pittman Tractor.
+      *   Pittman and Kant maintained a debris contract with the City of Fairhope for over 8 years, a contract that ended when Karin Wilson was elected.
+      *   The previous administration, led by Kant, was characterized by corruption, favoring wealthy people, and poor infrastructure investment.
+
+      THE DISCOVERY:
+      *   The Widget Article (older) documents specific, actionable instances of corruption involving Mayor Kant and Senator Pittman starting around 2010, demonstrating systematic financial misuse (e.g., BP funds).
+      *   This historical record confirms the prior regime's financial malfeasance, moving beyond general accusations of "corruption" to documented transactions and dates.
+
+      THE PIVOT:
+      *   Article 2 provides the factual evidence (dates, contract amounts, names) proving the systemic corruption of the Kant regime, validating the accusation in Article 1 that Sherry Sullivan was a "huge part of the Kant regime that was full of corruption."
+      *   Article 1's critique of Sherry's influence and the "Kant regime" is grounded in the documented historical corruption detailed in Article 2, rather than mere political opinion.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Tim Kant (Former Mayor)
+      *   Sherry Sullivan
+      *   Tripp Pittman (State Senator)
+      *   Jack Burrell (City Council/Mayor Kant associate)
+      *   Greg Mims
+      *   Jennifer Fidler
+      *   Joseph (Chief of Police)
+      *   Catalyst (Organization)
+      *   Fairhope
+      *   Baldwin County
+      *   $636,000.00
+      *   $372,165.90
+      *   May 8, 2010
+      *   June 4, 2010
+    llm_text: Former Mayor Tim Kant used staff like Greg Mims and Sherry Sullivan to secure a $372,165.90 BP Boom contract for Tripp Pittman. Karin Wilson's election ended this 8-year corruption run; read the documented evidence proving the Kant regime's financial misuse in Fairhope.
+    text: Former Mayor Tim Kant used staff to secure a BP Boom contract for Tripp Pittman. Karin Wilson's election ended this eight-year corruption run and exposed financial misuse in Fairhope.
+    widget_date: "2020-06-10"
+    generated_at: "2026-11-07T16:47:25.310861Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-no-hope-fauxhope:
+    brief: |-
+      THE CONFLICT:
+      - Prior Fairhope administration: Kant regime; Sherry / Sherry Burrell? described as a huge part of the Kant regime; regime described as corrupt; cottage industry; billed legal hours; money-making machine; license to steal.
+      - Sherry was part of problem re infrastructure investment and contracts to friends; Sherry was part of the problem and on that team.
+      - After Mayor Wilson was elected, Sherry kept in her position because of Wilson’s olive branch to the old Kant regime; Sherry intended to keep every department head in place.
+      - Sherry and other fired department heads brought Joseph, described as vulnerable and kind Chief of Police, before City Council; Sherry orchestrated town leaders to speak on Joseph’s behalf; Jack Burrell / Jack B tore up his letter of resignation; town applauded; grandstanding; Joseph used as means to embarrass and humiliate Mayor Wilson.
+      - Joseph said he called Mayor Kant to tell him he was resigning; Kant was not his boss any longer; that seemed to be a theme.
+      - They could not quit Kant; could not accept change and work with new boss; rather than accept Wilson, they cut off noses to spit faces; drama is what they loved.
+      - Mayor Wilson thought they could all be adults and work together; Wilson had every right to replace Sherry and others on day one; Sherry persists in defining herself as the “fired” candidate.
+
+      THE DISCOVERY:
+      - Article 2 is older/background context.
+      - Article 2: Lynn Oldshue, investigative reporter for Lagniappe, Alabama Public Radio, storyteller with Our Southern Souls, and administrator for Facebook group Fairhope Now, wrote Lagniappe cover story “A TALE OF TWO CITIES.”
+      - Article 2 showed Fairhope municipal government always represented the status quo.
+      - Article 2: POLITICS is the cause, POWER is the means.
+      - Article 2: Mayor Wilson and her twin Kelly Wilson had been working in the African American community years before Mayor Wilson was elected.
+      - Article 2: Mayor Wilson is the first Mayor of Fairhope to reach out to the African American community.
+      - Prior to this administration, Black community was ignored except at election time; minorities were rarely hired by the city, which was not the case now.
+      - Article 2: Mayor’s efforts were blocked by council operating like a criminal enterprise.
+      - Article 2: Recent action of City Council to purchase land for recreation, $2.65 million, near Airport and not near poorer neighborhoods was political, racist and typical of council — Faux hope move.
+      - Article 2: Mayor fought passionately for location that favored the most kids; her mistake was the kids were minorities.
+      - Article 2: After living in Fairhope for 27 years and doing Ripp Report for 14+ years, would call it a tale of three cities.
+      - Article 2 categories: FAIRHOPE affluent busy; NO-HOPE working poor; NO-HOPE African American Community; No Hope ignored by City Council and abused by corrupt judicial system; No Hope is NO Money; FAUX-HOPE community has flowers and hides behind them; FAUX HOPE fake; what you see and hear is not reality; Faux-Hope vehicle for corruption and cover for accountability; Faux-Hope status quo, good ole boys; FAUX HOPE depends on Fairhope and No Hope to maintain control; FAUX HOPE is CATALYST.
+      - Article 2: Pastor Chris Bell, 3 Circle Church: Fairhope seen as flourishing utopia; prosperity and perfect surface is veneer covering deeper problems; darker underneath; more families struggle than admit; some hurting, left behind, forgotten.
+      - Article 2: FAUX-HOPE is capital city of CATALYST.
+
+      THE PIVOT:
+      - Article 2 is the older/background article and frames Article 1 as current/historical context.
+      - Article 2 is the smoking gun/context for Article 1 because it establishes Fairhope municipal government as status quo, Faux Hope as cover for accountability, council as criminal enterprise, and No Hope/African American community as ignored.
+      - Article 2 connects to Article 1 conflict by framing Sherry/Kant/Wilson/council/Joseph within larger pattern of status quo, corruption, and faux hope.
+      - Article 2’s “Faux Hope,” “No Hope,” and “Fairhope” framework explains why Article 1’s critique of Sherry, Kant, council, and old guard matters.
+      - Article 2 provides background showing the municipal government always represented status quo, supporting Article 1’s conflict over replacing old regime.
+
+      KEY ENTITIES:
+      - Karin Wilson / Mayor Karin Wilson
+      - Kelly Wilson
+      - Sherry / Sherry Burrell?
+      - Jack Burrell / Jack B
+      - Kant
+      - Joseph / Chief of Police Joseph
+      - Lynn Oldshue
+      - Chris Bell
+      - Sullivan
+      - Burrell
+      - City Council / Fairhope City Council
+      - Fairhope
+      - Hand Arendale’s law office
+      - Section and Magnolia
+      - Lagniappe
+      - Alabama Public Radio
+      - Our Southern Souls
+      - Facebook group Fairhope Now
+      - 3 Circle Church
+      - African American community
+      - working poor
+      - affluent
+      - No Hope
+      - Faux Hope
+      - CATALYST
+      - Lowery
+      - Wilters
+    llm_text: Fairhope’s old guard, led by Sherry Burrell and the corrupt Kant regime, ran the city as a money-making machine while Mayor Karin Wilson tried to replace them. Now Lynn Oldshue’s Lagniappe story exposes the faux hope and no hope hiding beneath Fairhope’s perfect surface.
+    text: Fairhope’s old guard, led by Sherry Burrell and the corrupt Kant regime, ran the city as a money-making machine while Mayor Karin Wilson tried to replace them. Now Lynn Oldshue’s Lagniappe story exposes the faux hope and no hope hiding beneath Fairhope’s perfect surface.
+    widget_date: "2020-05-02"
+    generated_at: "2026-11-07T16:47:16.201556Z"
+    model_name: recursive/flint-v1.0:free
+  catalyst-last-stand:
+    refined_source: 2dee075520e8ab250d6bdf342a166dd926050eccb3ee3a74f831bb05e7db9527
+    brief: "THE CONFLICT:\n- The former administration under Mayor Kant is accused of systemic corruption, including a \"money-making machine\" involving excessive legal billing and awarding contracts to political allies.\n- Key allegations include the cover-up of BP-related fraud and the prioritization of \"good ole boy\" interests over city infrastructure.\n- Sherry Sullivan, acting as a key figure in the Kant administration, is accused of facilitating these relationships and acting as a \"mistress of propaganda\" for Kant.\n- Political friction exists between the former Kant regime and the current administration of Mayor Karin Wilson.\n\nTHE DISCOVERY:\n- Article 2 identifies the \"CATALYST\" group, a faction composed of council members Jack Burrell, Kevin Boone, and Robert Brown, accused of costing taxpayers millions for personal gain.\n- Specific misconduct is detailed: Jack Burrell supported Sen. Pittman’s debris removal contracts; Kevin Boone maintains multiple LLCs linked to developers; Robert Brown has pending Attorney General and Ethics complaints.\n- Article 2 reveals Sherry Sullivan’s legal history: she was fired for insubordination, sued the city, and settled out of court.\n- It explicitly links the Kant administration to the concealment of BP fraud.\n\nTHE PIVOT:\n- Article 2 provides the historical motive for the current political disruption described in Article 1. \n- While Article 1 frames the opposition as \"passive-aggressive\" and \"disruptive\" toward Mayor Wilson, Article 2 proves this disruption is a coordinated effort by the \"CATALYST\" machine (Burrell, Boone, Brown, and Sullivan) to protect the corrupt status quo and the specific financial interests (BP fraud cover-ups and developer contracts) established during the Kant era.\n\nKEY ENTITIES:\n- Karin Wilson (Mayor)\n- Mayor Kant (Former Mayor)\n- Sherry Sullivan (Former employee/Candidate)\n- Jack Burrell (Councilman)\n- Kevin Boone (Councilman)\n- Robert Brown (Councilman)\n- Sen. Pittman (State Senator)\n- Joseph (Former Police Chief)\n- The \"CATALYST\" group/machine\n- BP (British Petroleum)\n- Hand Arendale (Law office)"
+    llm_text: Don't mistake the political disruption facing Mayor Karin Wilson for mere noise. The "CATALYST" machine—including Sherry Sullivan and councilmen Burrell, Boone, and Brown—is fighting to shield the corrupt Kant-era legacy of BP fraud cover-ups and shady developer contracts.
+    text: The Catalyst machine includes Sherry Sullivan and councilmen Burrell, Boone, and Brown. They fight to shield the corrupt Kant-era legacy of BP fraud cover-ups and shady developer contracts.
+    widget_date: "2020-07-22"
+    generated_at: "2026-11-07T16:45:41.605601Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  truth:
+    brief: |-
+      THE CONFLICT:
+      - Past event: Fairhope city government conflict involving Kant regime, Sherry, Mayor Wilson, City Council, Mayor Kant, Chief of Police Joseph, Jack Burrell.
+      - Sherry was a huge part of Kant regime; did work and favors for wealthy people; maintained poisonous relationships; cottage industry; billed legal hours; money-making machine; license to steal.
+      - Sherry was part of problem re: not investing in infrastructure; giving contracts to friends.
+      - After Mayor Wilson was elected, Sherry kept in position because of Wilson’s olive branch to old Kant regime; Sherry intended keeping every department head in place.
+      - Sherry kept in position; some couldn’t accept Karin/Wilson was their boss; they were disruptive/sneaky; put feet in sand; make Wilson look bad.
+      - Sherry dragged poor Joseph, vulnerable and kind Chief of Police, up in front of City Council, with her other fired department heads; orchestrated town leaders to speak on Joseph’s behalf; Jack B***** tore up his letter of resignation; town applauded; grandstanding; using Joseph as means to embarrass/humiliate Mayor Wilson.
+      - Joseph unaware he told tale when he called Mayor Kant to tell him he was resigning; Kant was not his boss any longer; couldn’t quit Kant theme.
+      - They couldn’t accept change and accept new boss; rather see Wilson fail; cut off noses to spit faces; drama is what they LOVE.
+      - They don’t care about Fairhope as much as themselves and good ol’ boys.
+      - Wilson thought they could all be adults and work together; Wilson had EVERY RIGHT to replace Sherry and others on day one; Sherry persists in defining herself as “fired” candidate.
+      - Sherry was in Mayor Kant’s office and two steps behind; “Is there anything I can do to help?” was ALWAYS her spew.
+      - Do we really want go back to select group of people who have been there for generations; machine is for themselves and not citizens of Fairhope as a whole.
+      - Do we really want current council continue to be openly rude and condescending and disrespectful to person we selected as Mayor?
+      - Sherry fans represent scorned group of Kant supporters; same group unknowingly let Kant and company get away with crimes as long as hugged them on street and asked, “how’s your mother!”
+      - Kant and company were in these positions because they were PAID to be there; Sherry was PAID good money to DEDICATE her life to living Fairhope.
+
+      THE DISCOVERY:
+      - Article 2 = Widget article “TRUTH”; older than Article 1 = Main article “FLY ON THE WALL”; frame Article 2 as background/historical context.
+      - Article 2 content: In response to Councilman Robert Brown about the Waterfront.
+      - Leslie Callies Hollis comment to Robert Brown weeks ago on subject.
+      - Public bay front has evolved and seen many changes over lifetime; if citizens then pulled out pitchforks and torches to contest change, would still have rail system running from wooden pier to center of town.
+      - Can imagine if Mayor Nix had not been allowed to put up existing pier and rose garden, or tear down old casino.
+      - As leaders of City, council should expect Councilman and rest of council to behave professionally and kindly; challenge and address issues to correct misses; working together for good of City; no bulldozers there, preliminary plans can be tweaked and improved upon; nothing wrong with using expertise to keep good and make further recommendations.
+      - Most importantly, nothing wrong with change if you help make it for good.
+      - Professionals have been hired; let’s use them to advantage.
+      - 6 million dollar grant is a gift; balance of money that would be required to evolve and improve City could be money well spent.
+      - Since Brown brought it up, did he ask for public input to purchase and expand soccer field? How much taxpayer money did he allocate for that land? What were his options?
+      - No, Brown probably made decisions thought best; no one took pitch forks and torches out to protest plans; did he find grant money?
+      - Don’t use position and platform to stomp on changes just because it was Mayor Wilson’s hard work and thinking out of the box that got grant; that is how it appears.
+      - Drama and “just because you said it, its wrong” attitude has been in play entire term of her being Mayor; you all made yourselves out to be disrespectful and cruel; uncalled for.
+      - Be gracious and open minded enough to think Mayor Wilson might have good ideas; do not sacrifice opportunity for positive change because you fear fruit of her hard work came to fruition; you were seated at same table with her; have been more tuned in to bringing her down and destroying her than working with her and City.
+      - You might not like her, but should be expected to be constructive in working with her; you are there to be check and balance not mortal enemy; you are there for citizens of Fairhope and not do PR campaign of Robert Equals Good and Karin Equals Bad.
+      - It appears opposition to this project and your post to point out negatives on her project and positives on yours is out of growing concern that she might be working to create positive changes for Fairhope; did he give her credit for changes she made to marina? Is it that if approved, this might make her look as though she was busy working and finding resources to better City?
+      - Grant from oil spill was supposed used to better City; money from grant awarded in no bid contract paid to private contractor who was friends with last Mayor. They didn’t even put on robber mask go rob City; thought they were entitled; large portion could have been used for needed infrastructure; unethical and unfair to taxpayers; complacency in accepting stealing? Why would we think anything about this should be acceptable? We live in world of transparency now, and those sorts transactions come to light; nothing and I mean nothing about that was for good of citizens of Fairhope; well maybe two.
+      - You are a good person, I knew your Mama; she used to tell me about Robert all the time; I am from same cloth; I am honest and hardworking as well.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 is the “smoking gun” or key context for Article 1 because it documents past waterfront/public bay front changes, Mayor Nix, pier/rose garden/tear down casino, 6 million dollar grant, soccer field, oil spill grant/no bid/ethical issues.
+      - Article 2 supports Main Article’s criticism of Sherry/Kant/regime and current opposition to Mayor Wilson.
+      - Article 2 provides historical context for Sherry’s past behavior, Kant regime, Wilson’s positive changes/grants, Robert Brown opposition.
+
+      KEY ENTITIES:
+      - Fairhope, Alabama / Fairhope City / City of Fairhope
+      - Fairhope City Council
+      - Mayor Karin Wilson / Mayor Wilson
+      - Sherry
+      - Mayor Kant
+      - Kant regime
+      - Jack Burrell / Jack B*****
+      - Joseph / Chief of Police Joseph
+      - Robert Brown / Councilman Robert Brown
+      - Leslie Callies Hollis
+      - Mayor Nix
+      - BP / oil spill grant
+      - Soccer field / expansion of soccer field
+      - Waterfront / public bay front / Fairhope waterfront / marina
+      - Hand Arendale’s law office / Section and Magnolia
+      - Infrastructure / budget / grants / 6 million dollar grant / oil spill grant / no bid contract / private contractor / legal hours
+    llm_text: 'Sherry dragged Chief Joseph in front of the City Council to embarrass Mayor Wilson, even though Joseph didn’t quit Mayor Kant’s team. Fairhope readers should care: this behind-the-scenes fight over infrastructure and grants shows how old grudges can stall real progress.'
+    text: 'Sherry dragged Chief Joseph in front of the City Council to embarrass Mayor Wilson, even though Joseph didn’t quit Mayor Kant’s team. Fairhope readers should care: this behind-the-scenes fight over infrastructure and grants shows how old grudges can stall real progress.'
+    widget_date: "2020-07-20"
+    generated_at: "2026-11-07T16:46:21.726238Z"
+    model_name: recursive/flint-v1.0:free
+  fairhope-waterfront:
+    refined_source: 4f76aad5d90acb8ae307a39cadc2672f92de7467d6afe7c610dc74b73bc75439
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Kant regime involved corruption, favors for wealthy people, and poor infrastructure investment.
+      *   Sherry was a key player in the Kant regime, maintaining "poisonous relationships."
+      *   Sherry orchestrated the humiliation of Joseph (Chief of Police) in front of the City Council; Jack B tore up Joseph's letter of resignation.
+
+      THE DISCOVERY:
+      *   The Fairhope Waterfront project began with City Council approval of $500,000.00 for engineering/conceptual plans.
+      *   The initial plan was based on community input, including 493 questionnaire responses and numerous meetings.
+      *   The total grant is $6.2 million from BP; the project is the first major waterfront development in 50 years.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that major infrastructure planning (Waterfront) was driven by citizen input and City Council approval, directly countering the narrative in Article 1 that the Kant regime neglected infrastructure or that current administration solely owns the projects.
+
+      KEY ENTITIES:
+      *   Sherry
+      *   Mayor Kant
+      *   Mayor Wilson (Karin)
+      *   Joseph (Chief of Police)
+      *   Jack B
+      *   City Council
+      *   Goodwyn Mills & Cawood
+      *   CATALYST Council
+      *   Hand Arendale
+      *   Fairhope Waterfront
+      *   BP (grant source)
+    llm_text: Sherry's toxic power plays under Mayor Kant obscured corruption and ignored infrastructure needs. But the Fairhope Waterfront project, backed by a $6.2M BP grant, proves citizen input drove this major 50-year development.
+    text: Sherry's power plays under Mayor Kant hid corruption and ignored infrastructure needs. Did citizen input save the Fairhope Waterfront project?
+    widget_date: "2020-06-27"
+    generated_at: "2026-11-07T16:46:04.181613Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

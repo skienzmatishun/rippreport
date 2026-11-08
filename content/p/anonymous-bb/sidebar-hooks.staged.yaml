@@ -5,72 +5,20 @@ metadata:
   main_date: "2026-05-10"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  not-qualified:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. (20 years in prison) resulting from a collusion/conspiracy involving key legal figures.
-      THE DISCOVERY: Article 2 questioned Murray Bubba Lawrence Jr.'s conviction and implicated DA Wilters, noting his role as Circuit Judge presiding over the trial.
-      THE PIVOT: The wrongful conviction of Murray Lawrence Jr. is cited in both articles as a primary failure of the BCSO/Baldwin County judicial culture, proving systemic corruption under Hoss Mack and Anthony Lowery, and providing historical context for current political challenges (Kristi Hagood vs. Matt Mc Kenzie).
-      KEY ENTITIES: Murray Lawrence Jr.; Robert Wilters; Anthony Lowery; Hoss Mack; David Whetstone; Kristi Hagood; Matt Mc Kenzie; Willie Huntley; Jeff Sessions; Kevin Brock; Billy Jo Underwood; BCSO; Baldwin County.
-    llm_text: Murray Lawrence Jr. served 20 years for a wrongful conviction, implicating DA Wilters who also served as Circuit Judge. This systemic corruption under Hoss Mack proves why Baldwin County politics—including the fight between Kristi Hagood and Matt Mc Kenzie—remains so volatile.
-    widget_date: "2026-05-09"
-    generated_at: "2026-11-06T07:32:08.957661Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  kristy-haygood-is-not-qualified:
-    brief: |-
-      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in 2005; conviction based on firearm murder charge but a second autopsy found cause of death was asphyxiation by suffocation.
-      THE DISCOVERY: The 2005 trial involved alleged Brady Information violation due to the exclusion of the second autopsy; District Attorney David Whetstone and lead investigator Anthony Lowery produced zero evidence for the defense, despite Lawrence having an alibi and five witnesses.
-      THE PIVOT: The Lawrence Jr. case provides concrete historical evidence used in Article 1 to prove that the BCSO culture under Hoss Mack and Anthony Lowery prioritizes the "GOB" and self-promotion over justice, leading to systemic failures and wrongful convictions, thereby undermining the qualifications of figures like Kristi Hagood.
-      KEY ENTITIES: Kristi Hagood, Hoss Mack, Anthony Lowery, Robert Wilters (Judge), David Whetstone (Prosecutor), Murray Lawrence Jr., Jarius McNeil, Matt Mc Kenzie, BCSO, Baldwin County.
-    llm_text: Murray Lawrence Jr. was wrongly convicted in 2005; a second autopsy proved suffocation, not a firearm murder. This case reveals how Hoss Mack and Anthony Lowery’s BCSO culture prioritized self-promotion over justice, undermining current figures like Kristi Hagood.
-    widget_date: "2026-05-07"
-    generated_at: "2026-11-06T07:34:20.190108Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  hanky-panky-by-the-po-po:
-    brief: |-
-      THE CONFLICT:
-      *   Wrongful conviction of Murray Lawrence Jr. (Hoss Mack was lead investigator; Robert Wilters was presiding judge).
-      *   Robert Yeats was killed after an alleged confrontation involving BCSO SWAT team members, potentially including deputy Justin Correa.
-      *   Johnathan Victor's death was falsely characterized by Anthony Lowery as suicide by cop; District Attorney Robert Wilters lied regarding ketamine use.
-      *   Deadly interstate crash on I-10 involved five lives lost, with Sheriff Hoss Mack commenting, "that’s what happens when you run from the law."
-      *   O J French was killed by police following a tail light stop; a federal lawsuit is pending.
-
-      THE DISCOVERY:
-      *   Article 2 (older) revealed BCSO's history of internal cover-ups, specifically an extracurricular activity involving a senior officer and a subordinate employee married to a fellow officer.
-      *   Article 2 established that BCSO operates without transparency or accountability under one person (Hoss Mack).
-
-      THE PIVOT:
-      *   Article 2 establishes the historical pattern of institutional cover-ups and lack of accountability within the BCSO, providing foundational context for Article 1's assertion that the BCSO culture under Hoss Mack and Anthony Lowery is "corrosive" and supports the "GOB."
-      *   The Lawrence Jr. case detailed in Article 2 is cited in Article 1 as a tragic example of justice failure involving the same key players (Mack, Wilters).
-
-      KEY ENTITIES:
-      *   Hoss Mack (Sheriff)
-      *   Anthony Lowery
-      *   Robert Wilters (District Attorney/Judge)
-      *   Murray Lawrence Jr.
-      *   Matt Mc Kenzie (Primary candidate)
-      *   Kristi Hagood
-      *   Baldwin County Sheriff Office (BCSO)
-      *   Baldwin Beat (BB)
-      *   Francis Paul Ripp (Producer of The Ripp Report)
-      *   Justin Correa
-      *   Robert Yeats
-      *   Johnathan Victor
-      *   David Whetstone
-    llm_text: Hoss Mack and Robert Wilters ran BCSO, where Murray Lawrence Jr. faced a wrongful conviction. Discover how this institutional culture of cover-ups enabled deadly lies about Robert Yeats and Johnathan Victor.
-    widget_date: "2024-05-31"
-    generated_at: "2026-11-06T07:35:37.223343Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   oust-elliott:
+    refined_source: 3429837b99f82ac1b15677b40542848dc68657965aa72e1d5bbcc13cf0571dc7
     brief: |-
       THE CONFLICT: Mike Vandenheuvel (Mike Van) challenged State Senator Chris Elliott.
       THE DISCOVERY: The Ripp Report knew about Chris Elliott’s connection to solar fields a long time ago.
       THE PIVOT: Article 2 is historical context showing The Ripp Report possessed sensitive political information (Elliott's solar field knowledge) but refrained from framing the opposition using the "head of the snake" or GOB rhetoric, contrasting with the current GOB-focused accusations against BCSO in Article 1.
       KEY ENTITIES: Chris Elliott, Mike Vandenheuvel, The Ripp Report, Hoss Mack, Matt Mc Kenzie, Lowery, Robert Wilters, Murray Lawrence Jr., David Whetstone, Kristi Hagood, BCSO, Baldwin Beat (BB).
     llm_text: Mike Vandenheuvel challenged State Senator Chris Elliott, but The Ripp Report knew about his solar field connections long ago. Read the full context showing how we report sensitive political truths without the standard GOB rhetoric.
+    text: Mike Vandenheuvel challenged State Senator Chris Elliott while The Ripp Report tracked solar field connections and reported sensitive political truths.
     widget_date: "2026-04-13"
     generated_at: "2026-11-06T07:36:44.611612Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   good-news:
+    refined_source: 5df4e390e451fc8b2452904716e5d416e250f9534163b62f9343c607bf374474
     brief: |-
       THE CONFLICT:
       *   Past GOB network controlled 4 incorporated municipalities in a previous election, successfully removing Bob Wills from Bay Minette.
@@ -111,10 +59,12 @@ hooks:
       *   Bob Wills
       *   Harry Still
     llm_text: Hoss Mack once controlled the GOB network, successfully removing Bob Wills from Bay Minette. Now, the corrupt network is panicking as Matt Mc Kenzie challenges his grip on the BCSO.
+    text: Hoss Mack once controlled the network that removed Bob Wills from Bay Minette, but the network is panicking as Matt McKenzie challenges his BCSO grip.
     widget_date: "2026-03-12"
     generated_at: "2026-11-06T07:33:23.575843Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   summerdale-sunshine:
+    refined_source: 144e15c4109a312e15f198e678367449c719b619829452f074831bffc30b4b5d
     brief: |-
       THE CONFLICT:
       1. The wrongful conviction of Murray Lawrence Jr. occurred, involving judicial complicity from Robert Wilters and the influence of Hoss Mack’s culture.
@@ -153,16 +103,18 @@ hooks:
       19. Baldwin Beat (BB)
       20. Francis Paul Ripp (Ripp Report)
     llm_text: Hoss Mack's BCSO corruption led to Murray Lawrence Jr.'s wrongful conviction, involving Robert Wilters. New evidence shows Donna Black Givens and Scott Boone Consulting actively drive this control through secretive local political maneuvers.
+    text: Hoss Mack's BCSO corruption led to Murray Lawrence Jr.'s wrongful conviction involving Robert Wilters, while Donna Black Givens and Scott Boone Consulting drive control.
     widget_date: "2026-01-24"
     generated_at: "2026-11-06T07:38:18.054712Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   CAMPAIGN-KICKOFF-RECEPTION:
+    refined_source: 8ef24f6c1f7450335d227ee50637a1e467824a297a4f307ba445e6f80642a821
     brief: |-
       THE CONFLICT:
       *   BCSO culture under Hoss Mack and Anthony Lowery is described as corrupt, supporting "GOB's" over justice for almost 20 years.
       *   Robert Yeats was killed in an incident involving BCSO SWAT team (allegedly including deputy Justin Correa); BCSO used tear gas and fired over 100 rounds into the residence.
       *   Johnathan Victor's death was falsely proclaimed as suicide by cop by Lowery; DA Robert Wilters lied about Victor being on ketamine, despite knowledge that first responders administered it.
-      *   Murray Lawrence Jr. was wrongfully convicted, allegedly due to collusion/conspiracy involving Anthony Lowery, Hoss Mack, Robert Wilters, and prosecutor David Whetstone who withheld evidence.
+      *   Murray Lawrence Jr. was wrongfully convicted, due to collusion/conspiracy involving Anthony Lowery, Hoss Mack, Robert Wilters, and prosecutor David Whetstone who withheld evidence.
       *   O J French was killed by police during a stop for a tail light, covered up by BCSO Major Crimes, leading to a pending federal lawsuit.
       *   A deadly interstate crash on I-10 killed five lives; Hoss Mack quoted this as "that’s what happens when you run from the law," with a pending federal lawsuit.
 
@@ -190,6 +142,68 @@ hooks:
       *   David Whetstone
       *   O J French
     llm_text: Hoss Mack and Anthony Lowery ran BCSO corrupt for 20 years, covering up deaths like Robert Yeats and Johnathan Victor. Matt McKenzie leverages Ripp Report's 60 years of evidence to finally clean up Baldwin County.
+    text: Hoss Mack and Anthony Lowery ran the Baldwin County Sheriff's Office, covering up deaths like Robert Yeats and Johnathan Victor before Matt McKenzie challenged them.
     widget_date: "2026-01-15"
     generated_at: "2026-11-06T07:39:32.978313Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  not-qualified:
+    refined_source: b9efa9a3b439c5a0110eb17b259dac84298ce6dd4bd1ca0b2d83ab48e421b732
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. (20 years in prison) resulting from a collusion/conspiracy involving key legal figures.
+      THE DISCOVERY: Article 2 questioned Murray Bubba Lawrence Jr.'s conviction and implicated DA Wilters, noting his role as Circuit Judge presiding over the trial.
+      THE PIVOT: The wrongful conviction of Murray Lawrence Jr. is cited in both articles as a primary failure of the BCSO/Baldwin County judicial culture, proving systemic corruption under Hoss Mack and Anthony Lowery, and providing historical context for current political challenges (Kristi Hagood vs. Matt Mc Kenzie).
+      KEY ENTITIES: Murray Lawrence Jr.; Robert Wilters; Anthony Lowery; Hoss Mack; David Whetstone; Kristi Hagood; Matt Mc Kenzie; Willie Huntley; Jeff Sessions; Kevin Brock; Billy Jo Underwood; BCSO; Baldwin County.
+    llm_text: Murray Lawrence Jr. served 20 years for a wrongful conviction, implicating DA Wilters who also served as Circuit Judge. This systemic corruption under Hoss Mack proves why Baldwin County politics—including the fight between Kristi Hagood and Matt Mc Kenzie—remains so volatile.
+    text: Murray Lawrence Jr. served 20 years for a wrongful conviction, implicating DA Wilters. Systemic corruption under Hoss Mack proves why Baldwin County politics remains volatile.
+    widget_date: "2026-05-09"
+    generated_at: "2026-11-06T07:32:08.957661Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  kristy-haygood-is-not-qualified:
+    refined_source: 434514e872275807f3482f586e5e429d6690474d0fb11e6fdadf23bfd7f14838
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in 2005; conviction based on firearm murder charge but a second autopsy found cause of death was asphyxiation by suffocation.
+      THE DISCOVERY: The 2005 trial involved alleged Brady Information violation due to the exclusion of the second autopsy; District Attorney David Whetstone and lead investigator Anthony Lowery produced zero evidence for the defense, despite Lawrence having an alibi and five witnesses.
+      THE PIVOT: The Lawrence Jr. case provides concrete historical evidence used in Article 1 to prove that the BCSO culture under Hoss Mack and Anthony Lowery prioritizes the "GOB" and self-promotion over justice, leading to systemic failures and wrongful convictions, thereby undermining the qualifications of figures like Kristi Hagood.
+      KEY ENTITIES: Kristi Hagood, Hoss Mack, Anthony Lowery, Robert Wilters (Judge), David Whetstone (Prosecutor), Murray Lawrence Jr., Jarius McNeil, Matt Mc Kenzie, BCSO, Baldwin County.
+    llm_text: Murray Lawrence Jr. was wrongly convicted in 2005; a second autopsy proved suffocation, not a firearm murder. This case reveals how Hoss Mack and Anthony Lowery’s BCSO culture prioritized self-promotion over justice, undermining current figures like Kristi Hagood.
+    text: Murray Lawrence Jr. served 20 years for a wrongful conviction after a second autopsy proved suffocation, exposing a culture of self-promotion in the Sheriff's Office.
+    widget_date: "2026-05-07"
+    generated_at: "2026-11-06T07:34:20.190108Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-by-the-po-po:
+    refined_source: e7d469e24864ed1cf1a2144577c145e8e21deb687070ef1a380bb3c9cbe72268
+    brief: |-
+      THE CONFLICT:
+      *   Wrongful conviction of Murray Lawrence Jr. (Hoss Mack was lead investigator; Robert Wilters was presiding judge).
+      *   Robert Yeats was killed after an alleged confrontation involving BCSO SWAT team members, potentially including deputy Justin Correa.
+      *   Johnathan Victor's death was falsely characterized by Anthony Lowery as suicide by cop; District Attorney Robert Wilters lied regarding ketamine use.
+      *   Deadly interstate crash on I-10 involved five lives lost, with Sheriff Hoss Mack commenting, "that’s what happens when you run from the law."
+      *   O J French was killed by police following a tail light stop; a federal lawsuit is pending.
+
+      THE DISCOVERY:
+      *   Article 2 (older) revealed BCSO's history of internal cover-ups, specifically an extracurricular activity involving a senior officer and a subordinate employee married to a fellow officer.
+      *   Article 2 established that BCSO operates without transparency or accountability under one person (Hoss Mack).
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of institutional cover-ups and lack of accountability within the BCSO, providing foundational context for Article 1's assertion that the BCSO culture under Hoss Mack and Anthony Lowery is "corrosive" and supports the "GOB."
+      *   The Lawrence Jr. case detailed in Article 2 is cited in Article 1 as a tragic example of justice failure involving the same key players (Mack, Wilters).
+
+      KEY ENTITIES:
+      *   Hoss Mack (Sheriff)
+      *   Anthony Lowery
+      *   Robert Wilters (District Attorney/Judge)
+      *   Murray Lawrence Jr.
+      *   Matt Mc Kenzie (Primary candidate)
+      *   Kristi Hagood
+      *   Baldwin County Sheriff Office (BCSO)
+      *   Baldwin Beat (BB)
+      *   Francis Paul Ripp (Producer of The Ripp Report)
+      *   Justin Correa
+      *   Robert Yeats
+      *   Johnathan Victor
+      *   David Whetstone
+    llm_text: Hoss Mack and Robert Wilters ran BCSO, where Murray Lawrence Jr. faced a wrongful conviction. Read how this institutional culture of cover-ups enabled deadly lies about Robert Yeats and Johnathan Victor.
+    text: Hoss Mack and Robert Wilters ran the Sheriff's Office where Murray Lawrence Jr. faced a wrongful conviction and institutional cover-ups enabled deadly lies.
+    widget_date: "2024-05-31"
+    generated_at: "2026-11-06T07:35:37.223343Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

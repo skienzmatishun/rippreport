@@ -1,0 +1,187 @@
+metadata:
+  generated_at: "2026-11-08T02:13:28.510645Z"
+  generator_version: 1.0.0
+  post_slug: what-education-lottery
+  main_date: "2019-04-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-2020:
+    brief: |-
+      THE CONFLICT: Ronan McSharry arrest reported; defense attorney politicized the incident by questioning the Mayor.
+      THE DISCOVERY: Fairhope politics are heavily negative and connected; former employees (Sullivan and Pandora) received uncontested settlements from the City Council.
+      THE PIVOT: Article 2 establishes a pattern of political maneuvering and corruption within local governance (Fairhope, 2020) which sets a regional context for the systemic legislative corruption detailed in Article 1 (Alabama state lottery and bribery).
+      KEY ENTITIES: Ronan McSharry, Mayor (Fairhope), Police Chief (Fairhope), Sullivan, Pandora, Thomason (Judge), City Council, Poarch Band of Creek Indians, Albritton, Chris Elliott (The TAX MAN), Del Marsh, Randy Price, Garlan Gudger, Andrew Jones, Governor Poison Ivy.
+    llm_text: Ronan McSharry's arrest exposes deep Fairhope politics where the Mayor is questioned. Former employees Sullivan and Pandora received uncontested settlements, proving local corruption runs deep.
+    widget_date: "2019-04-25"
+    generated_at: "2026-11-08T02:10:56.884608Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  one-woman:
+    brief: |-
+      THE CONFLICT:
+      *   Paula DiNardi was victimized by Ronan McSharry in Fairhope Municipal Court (assault/public intoxication).
+      *   Ronan McSharry was found guilty and sentenced to 180 days in jail.
+      *   The case was used in a political witch hunt focused on defeating Mayor Wilson in 2020.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed local political connections, noting Council President Jack Burrell secured the City Attorney (Marcus McDowell) and the Municipal Judge’s jobs.
+      *   The Widget Article demonstrated that local political figures (e.g., John Beck) actively victimized the victim and politicized legal cases for self-interest.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of local political corruption where self-interest, political maneuvering, and influence (e.g., J Burrell's power) override justice and public good.
+      *   Article 1 applies this theme to the state level, showing Republican legislators (e.g., Chris Elliot, Albritton) accepting over $100,000 from the Poarch Band of Creek Indians to approve a lottery that prioritizes tribal debt repayment (2013-2015) over state Education Fund allocations.
+
+      KEY ENTITIES:
+      *   Paula DiNardi
+      *   Ronan McSharry
+      *   Jack Burrell
+      *   Marcus McDowell
+      *   John Beck
+      *   Mayor Wilson
+      *   Albritton
+      *   Chris Elliot
+      *   Poarch Band of Creek Indians
+      *   Del Marsh
+      *   Randy Price
+      *   Garlan Gudger
+      *   Andrew Jones
+      *   Fairhope City Council
+      *   Alabama State Legislature (Senate Tourism and Marketing committee)
+    llm_text: Paula DiNardi faced assault charges from Ronan McSharry, but Council President Jack Burrell secured the legal positions used in the political witch hunt. This local corruption mirrors how Alabama legislators like Chris Elliot took $100k from the Poarch Band to prioritize tribal debt over state education.
+    widget_date: "2019-04-19"
+    generated_at: "2026-11-08T02:12:09.944951Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blind-voting-straight-ticket:
+    brief: |-
+      THE CONFLICT: Alabama elected a Governor without debate due to straight ticket/blind voting.
+      THE DISCOVERY: Alabama has straight ticket voting, which encourages corruption by voting based on party affiliation, not candidate merit.
+      THE PIVOT: Blind voting system facilitates the political climate allowing Republican legislators (e.g., Chris Elliot) to be swayed by large financial contributions (e.g., $27,500 from Poarch Creek Indians) to approve the Albritton lottery bill, which diverts funds away from education.
+      KEY ENTITIES: Poach Creek Indians, Albrittton, Chris Elliot, Del Marsh, Randy Price, Garlan Gudger, Andrew Jones, Governor Poison Ivy, Macon, Greene, Jefferson Counties
+    llm_text: Alabama's straight-ticket voting lets donors like Poach Creek Indians sway GOP leaders like Chris Elliot to push the Albritton lottery bill. See how blind voting diverts education funds instead of championing real merit.
+    widget_date: "2018-11-09"
+    generated_at: "2026-11-08T02:10:06.237489Z"
+    model_name: plugsky-lite
+  you-win-some-you-lose-some:
+    brief: |-
+      THE CONFLICT:
+      - Alabama: Poarch Band of Creek Indians / Poach Creek Indians bill to give lottery to highest bidder; Senate Tourism and Marketing committee vote Tuesday; if approved, complete monopoly over gaming operations in Alabama; eliminate legal pari-mutuel gaming at four race tracks; cost jobs in Macon, Greene and Jefferson Counties.
+      - Alabama: Education dismissed as not important enough; lottery money to pay expenses then state trust fund to repay transfers from general fund from 2013 to 2015; after repaid, half to trust fund and general fund; nothing for future Education Fund.
+      - Alabama: Five Republicans who may approve pro-Indian lottery received over $100,000 from tribe: Del Marsh Chair $30,000; Randy Price Vice Chair $12,500; Chris Elliot $27,500; Garlan Gudger $25,000; Andrew Jones $10,000.
+      - Alabama: Chris Elliott aka TAX MAN netted $27,500; supports Albritton bill and no allocation for Education Fund; taxed twice without vote; diverted education money from 1% tax about $200,000 a year; no money to Education Fund from lottery that started about education.
+      - Alabama: Elliott and Albritton on board to make major changes in Ethics and Lobbyist.
+      - Fairhope: Fresh Start filed petition with 800 names for change of government; Fairhope City Council; Catalyst; special election cancellation; Oct. special election; general election Nov. 6; no vote 3887; turnout 38% or 6649 total votes; 2016 election Mayor Kant received 3066 votes; 2020 Fairhope will have another general election.
+      - Fairhope: State Rep House District 92 race between Joe Faust and Danielle Mashburn-Myrick; Joe Faust never challenged; Fairhope Council teamed up with Can't core group; Councilman Kevin Boone, son Scott controls Catalyst, teamed with Joe Faust and shook locals out the door.
+
+      THE DISCOVERY:
+      - Article 2 showed Catalyst council instructed city attorney to do whatever possible to cancel Oct. special election; council knew odds of referendum vote held during general election had history of failing.
+      - Article 2 showed council and Catalyst spread fear and misinformation to voters; Fresh Start spent thousands on first proposed election date and tapped out by time general election Nov. 6 arrived.
+      - Article 2 showed Fairhope missed opportunity; majority elected not to change government; continued unsuccessful operation.
+      - Article 2 showed seven precincts crowded; Baptist Church on Fairhope Av. traffic hazard and one voting booth caused long waits; civic center lines waited up to two hours; many left without voting.
+      - Article 2 showed Fairhope "at large" Catalyst council alive and well; most council support came from same core group that believes in Can't doctrine.
+      - Article 2 showed Catalyst and good ole boys can be beat; core group dying off while thousands move there each year.
+      - Article 2 showed in 2016 election Mayor Kant received 3066 votes; in special election NO vote was 3887.
+      - Article 2 showed turnout 38% or 6649 total votes; total for 2016 was 6589.
+      - Article 2 showed Catalyst/no vote/Can't vote core group approximately 3500; ceiling; not growing base with new residents; will be overwhelmed by new voters in a few years.
+      - Article 2 showed good ole boys can rally troops; need to vote no matter how long stand in line.
+      - Article 2 showed in 2020 Fairhope will have another general election and 3500 core group will not be as strong.
+      - Article 2 showed one major event could topple whole Catalyst movement and finally prove to Fairhope citizens just how corrupt system is: INDICTMENT.
+      - What Article 2 proves today: local political manipulation via misinformation, election cancellation, fear, and core group dynamics is documented background for Article 1.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 is smoking gun / key context for Article 1 because it documents local political manipulation via misinformation, election cancellation, fear, and core group dynamics, which parallels Article 1's Alabama lottery / contributions / education funding issues.
+      - Pivot: Article 2's local election tactics and Catalyst / Fresh Start fallout provide background for understanding how political money and fear / misinformation can influence elections, relevant to Article 1's state-level lottery / legislator contributions.
+
+      THE KEY ENTITIES:
+      - Lowery
+      - Wilters
+      - Poarch Band of Creek Indians
+      - Poach Creek Indians
+      - Albritton
+      - Chris Elliott / Tax Man
+      - Del Marsh
+      - Randy Price
+      - Garlan Gudger
+      - Andrew Jones
+      - Governor Poison Ivy
+      - Fairhope City Council
+      - Catalyst
+      - Fresh Start
+      - Fairhope
+      - Joe Faust
+      - Danielle Mashburn-Myrick
+      - Kevin Boone
+      - Scott Boone
+      - Mayor Kant
+      - House District 92
+      - Senate Tourism and Marketing committee
+      - Macon, Greene, Jefferson Counties
+      - Education Fund
+      - State trust fund
+      - General fund
+      - 1% tax
+      - $200,000 a year
+      - $100,000 from tribe
+      - $30,000, $12,500, $27,500, $25,000, $10,000
+      - 800 names
+      - Nov. 6
+      - 2016, 2020
+      - 3066, 3887, 38%, 6649, 6589, 3500
+    llm_text: Alabama lawmakers got $100,000 from the Poarch Band before the lottery bill, while Chris Elliott pushed it and ignored education. Fairhope's Catalyst crew canceled a special election with fear, and now the same money-and-manipulation playbook may shape the real story.
+    widget_date: "2018-11-07"
+    generated_at: "2026-11-08T02:11:16.870324Z"
+    model_name: recursive/flint-v1.0:free
+  vote-yes-on-nov-6th:
+    brief: |-
+      THE CONFLICT: An election/vote was scheduled for November 6th (Widget Article).
+      THE DISCOVERY: The election on November 6th provided the window for the Poarch Band of Creek Indians to make financial contributions to Republican tourism committee members.
+      THE PIVOT: The contributions (over $100,000) made during the election cycle (Article 2 context) influenced the support for the Albritton lottery bill (Article 1), which grants the Poarch Creeks a gaming monopoly and diverts funds away from the Education Fund to repay state debt (2013-2015).
+      KEY ENTITIES: Albritton; Poarch Band of Creek Indians; Chris Elliott (The TAX MAN); Del Marsh; Randy Price; Garlan Gudger; Andrew Jones; Governor Poison Ivy; November 6th; 2013-2015.
+    llm_text: Poarch Band of Creek Indians contributed over $100,000 to GOP members during the November 6th election window. These payments influenced the Albritton lottery bill, diverting critical education funds away from state debt repayment (2013-2015).
+    widget_date: "2018-10-30"
+    generated_at: "2026-11-08T02:13:13.065442Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  yes:
+    brief: |-
+      THE CONFLICT: No specific conflict mentioned in Widget Article; context is the push for Council-Manager form of government in Fairhope leading up to November 6, 2018.
+      THE DISCOVERY: Widget Article details the structure and benefits of the Council-Manager form of government in Fairhope, intended to fight corruption and unethical activity in local government.
+      THE PIVOT: Widget Article provides historical context on anti-corruption governance structure (Council-Manager) contrasting with the political corruption detailed in Main Article (e.g., legislators receiving $100,000+ from Poach Creek Indians).
+      KEY ENTITIES: Poach Creek Indians, Albritton, Chris Elliott, Del Marsh, Randy Price, Garlan Gudger, Andrew Jones, Fairhope City Council, Governor Poison Ivy, Fresh Start Fairhope, November 6, 2018
+    llm_text: Fairhope pushes for Council-Manager to fight corruption, contrasting with Poach Creek Indians' $100k payoffs. See how this governance shift impacts November 6, 2018.
+    widget_date: "2018-10-12"
+    generated_at: "2026-11-08T02:10:13.878117Z"
+    model_name: plugsky-lite
+  elliott-stacy-haygood-catalyst-who-is-in-the-picture:
+    brief: |-
+      THE CONFLICT:
+      - Few years ago: Chris Elliott appointed to County Commission; Dane Haygood elected Mayor of Daphne; Stacy retired.
+      - Past objective: CATALYST aimed for TOTAL CONTROL in Baldwin County (Mayor of Fairhope, County Commission, State Senate Seat 32) for 30+ years behind closed doors.
+
+      THE DISCOVERY:
+      - Article 2 reveals Chris Elliott and Haygood were part of the political "machine" (CATALYST) in Baldwin County, aiming for total political control.
+
+      THE PIVOT:
+      - Article 2 establishes Chris Elliott's long-standing political entanglements and ties to the "CATALYST" machine before Article 1 details his receipt of $27,500 from the Poarch Band of Creek Indians to support the Albritton lottery bill, aligning him with potentially corrupt legislative actions.
+
+      KEY ENTITIES:
+      - Chris Elliott
+      - Dane Haygood
+      - Elliott Stacy
+      - CATALYST
+      - Albritton
+      - Poarch Band of Creek Indians
+      - Michelle Thomasson
+      - Tucker Dorsey
+      - Tim Can’t
+      - Garlan Gudger
+      - Del Marsh
+      - Randy Price
+      - Andrew Jones
+      - Governor Poison Ivy
+      - Kevin Boone
+      - Scott “baby” Boone
+      - Robert Wilters
+      - Chris Elliot (as listed in Widget)
+    llm_text: Chris Elliott and Dane Haygood were part of the CATALYST machine aiming for total control in Baldwin County. See how these political ties connect to Elliott's $27,500 from the Poarch Band of Creek Indians.
+    widget_date: "2018-07-13"
+    generated_at: "2026-11-08T02:10:22.528113Z"
+    model_name: plugsky-lite
