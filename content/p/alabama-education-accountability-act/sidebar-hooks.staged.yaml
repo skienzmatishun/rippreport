@@ -1,0 +1,50 @@
+metadata:
+  generated_at: "2026-11-09T14:14:32.991467Z"
+  generator_version: 1.0.0
+  post_slug: alabama-education-accountability-act
+  main_date: "2014-02-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pittman-kant-caught-new-evidence:
+    brief: |-
+      THE CONFLICT: BP Boom Grant Fraud Case involving Tim Kant (Fairhope Mayor) and Lee "Trip" Pittman (State Senator), detailed in February 2014.
+      THE DISCOVERY: On February 10/12, 2014, evidence presented showed Pittman manufactured documents and used Kant's signature in an attempt to cover up questionable involvement in BP Boom Grant Fraud; Leigh Anne Ryals confirmed she only dealt with Pittman.
+      THE PIVOT: Pittman is now promoting the Alabama Education "Accountability Act," which is criticized for costing over $300 million and eliminating teacher raises, creating a pathological hypocrisy given his prior receipt of $750,000 in BP grant funds using his senatorial position for personal gain, leading to federal fraud and coverup charges.
+      KEY ENTITIES: Trip Pittman, Governor Robert Bentley, Tim Kant, Leigh Anne Ryals, Alabama Education Accountability Act, BP Fraud Division.
+    llm_text: Trip Pittman used his senatorial position to secure $750,000 in BP grant funds while covering up fraud involving Tim Kant. Now, Pittman pushes the $300 million Alabama Education Accountability Act that eliminates teacher raises—a stunning display of hypocrisy.
+    widget_date: "2014-02-13"
+    generated_at: "2026-11-09T14:12:48.099224Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bp-restore-act-fraud:
+    brief: |-
+      THE CONFLICT:
+      *   April 2013/October 2013: Mayor Tim Kant and City Council of Fairhope conspired to omit public input regarding the Fly Creek Watershed Restoration Project application for BP Restore Act funds.
+      *   Past: Senator Trip Pittman received $750,000 in BP grant funds for personal gain while overseeing fund distribution.
+      *   Current: Mayor Kant and Senator Pittman are subjects of multiple BP fraud and coverup investigations, having been subpoenaed into federal court.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the Fly Creek Watershed Restoration Project study was flawed, omitting that major damage (red clay) was caused by Arthur Corte's development of a Publix supermarket, not solely the oil spill.
+      *   Article 2 documented that the City of Fairhope incurred $3 million in attorney fees, $3 million in down payments, and a $5.75 million debt due to the lack of public input.
+      *   Article 2 showed Thompson Engineering, a company involved in the flawed 2010 Perdido Pass boom ($4.6M to $5.2M), was responsible for the restoration study.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of corruption, fraud, and misuse of BP funds by Mayor Kant and Senator Pittman (starting in 2013).
+      *   This historical context provides the foundation for Article 1's current accusation that Senator Pittman utilized his position for personal financial gain ($750,000 BP grant) while simultaneously engaging in other political misconduct (Accountability Act).
+
+      KEY ENTITIES:
+      *   Senator Lee "Trip" Pittman
+      *   Governor Robert Bentley
+      *   Mayor Tim Kant
+      *   Arthur Corte
+      *   BP Restore Act
+      *   Fly Creek Watershed Restoration Project
+      *   Alabama Education Accountability Act
+      *   Thompson Engineering
+      *   Alabama Ethics Commission
+      *   Fairhope (City)
+      *   Education Trust Fund
+      *   Federal Court
+    llm_text: Mayor Tim Kant and Senator Trip Pittman face federal fraud charges related to the Fly Creek Watershed Restoration Project. The flawed study ignored Arthur Corte's Publix damage, causing Fairhope a $5.75M debt from misused BP Restore Act funds.
+    widget_date: "2013-11-01"
+    generated_at: "2026-11-09T14:14:09.771781Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

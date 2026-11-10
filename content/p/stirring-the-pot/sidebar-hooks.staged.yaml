@@ -1,0 +1,120 @@
+metadata:
+  generated_at: "2026-11-09T01:18:13.491042Z"
+  generator_version: 1.0.0
+  post_slug: stirring-the-pot
+  main_date: "2017-06-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  tale-of-two-cities:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope held 9 meetings regarding the Fly Creek Apartments project, attracting over 1000 attendees, with 99% opposition.
+      *   The Mayor of Fairhope opposed the Fly Creek project, while most council members were unresponsive or ignored citizens.
+
+      THE DISCOVERY:
+      *   Daphne Planning and Zoning Board successfully rejected a zoning request (24-hour service station/Colonaid Apartments) at the Dapmont Subdivision entrance, after listening to over 100 concerned citizens.
+      *   This demonstrated that Daphne operated independently from Fairhope but showed Fairhope P&Z/Council failed to listen to citizens on major projects.
+
+      THE PIVOT:
+      *   Article 2 establishes a documented history of Fairhope municipal failure—specifically ignoring citizen input on major development (Fly Creek)—providing context for current accusations (Article 1) regarding mismanagement of public funds (Fairhope Airport costs vs. school investment) and lack of accountability from Mayor/Burrell.
+
+      KEY ENTITIES:
+      *   Burrell (Jack)
+      *   Fairhope Airport
+      *   Daphne
+      *   Fairhope
+      *   Fly Creek Apartments
+      *   Dapmont Subdivision
+      *   Daphne Planning and Zoning Board
+      *   Mayor of Fairhope
+      *   Johnson Road and Highway 98
+      *   Colonaid Apartments
+    llm_text: Fairhope ignored over 1000 citizens opposing the Fly Creek Apartments. Meanwhile, Daphne Planning and Zoning Board successfully rejected the Colonaid Apartments zoning request, proving where real local accountability stands.
+    widget_date: "2017-06-23"
+    generated_at: "2026-11-09T01:14:03.223338Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  misery-loves-company:
+    brief: |-
+      THE CONFLICT:
+      Past development issues in Daphne/Fairhope regarding the Daphmont neighborhood, Fly Creek Apartments, and the Johnson Road/Highway 98 intersection; residents organized opposition to zoning changes and proposed service station.
+
+      THE DISCOVERY:
+      Article 2 revealed that unchecked developer control led to increased traffic congestion (overcrowded school buses) and negatively impacted the quality of life and property values in Daphmont, despite resident opposition to zoning changes.
+
+      THE PIVOT:
+      Article 2 establishes a pattern of municipal failure and financial mismanagement stemming from uncontrolled development and disregard for resident concerns (Daphmont). This context provides the background for Article 1's claim that the Fairhope Airport project has cost the community millions while schools are underfunded, linking development neglect to alleged mayoral corruption (Jack/Burrell).
+
+      KEY ENTITIES:
+      Burrell
+      Fairhope Airport
+      Daphne
+      Daphmont neighborhood
+      Fly Creek Apartments
+      Johnson Road/Highway 98
+      "Jack" (Mayor)
+    llm_text: 'Daphmont residents fought unchecked development at Fly Creek Apartments, battling traffic and property value drops. This neglect links directly to alleged mayoral corruption: has the Fairhope Airport project cost the community millions while schools suffer?'
+    widget_date: "2017-06-22"
+    generated_at: "2026-11-09T01:14:54.840611Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dear-congressman-bradley-byrne:
+    brief: |-
+      THE CONFLICT:
+      Past events centered on the Fly Creek area in Fairhope involving alleged corruption and environmental damage.
+      Specific parties involved included Mayor Kant and Mr. Arthur Corte.
+      A previously settled triangle lawsuit in Fairhope cost taxpayers $11.25 million, which Mayor Kant facilitated without public notification.
+      Involvement in BP fund abuse included Sen. Pittman and Mayor Kant, who siphoned $636,000 for a contract.
+
+      THE DISCOVERY:
+      The Widget article (older) documented that the damage to Fly Creek was caused by the Publix project development, not "historic flooding."
+      It revealed that 95% of constituents opposed the Fly Creek Apartments despite Mayor Kant and Mr. Corte driving the rezoning process.
+      It identified the Fly Creek issue as "corrupt to the core" and called for a criminal investigation into the collusion between Mayor Kant and Mr. Arthur Corte.
+
+      THE PIVOT:
+      The Widget article provides historical proof of systemic corruption involving Mayor Kant, Mr. Corte, and tax/environmental misuse (e.g., $11.25M lawsuit, BP fund fraud).
+      This history of corruption (Widget) provides context for the current claims in the Main article (Burrell) that Mayor Kant is involved in actions that will result in legal jeopardy ("Karma and Fate are going to catch Jack").
+
+      KEY ENTITIES:
+      Mayor Kant
+      Mr. Arthur Corte
+      Jack Burrell
+      Congressman Bradley Byrne
+      Sen. Pittman
+      The Ripp Report
+      Baldwin County Legal Eagle
+      Fairhope Airport
+      Publix project development
+      Judge Thomason
+    llm_text: Mayor Kant and Mr. Arthur Corte drove the controversial Fly Creek rezoning, despite 95% constituent opposition. See how this history of corruption—including the $11.25M lawsuit and BP fund abuse—explains current legal jeopardy.
+    widget_date: "2016-06-03"
+    generated_at: "2026-11-09T01:15:53.152855Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  flies-in-the-ointment:
+    brief: |-
+      THE CONFLICT: The former Mayor and two other loyal councilpersons in Fairhope were voted out of office by constituents rejecting the established "good ole boy network." (Historical context from Article 2)
+
+      THE DISCOVERY: Baldwin County officials (Tucker Dorsey, Michelle Thomason, Kevin Boone) were identified as "Flies in the Ointment," utilizing the "Catalyst" political group and straight ticket voting to secure office despite lacking qualifications.
+
+      THE PIVOT: Article 2 establishes the systemic "good ole boy" political context and the recent electoral change (voters rejecting the old guard), which directly frames the current political tension in Article 1: the current Mayor facing consequences and Burrell having "no answers" regarding the millions spent on Fairhope Airport while schools are underfunded.
+
+      KEY ENTITIES:
+      *   Burrell
+      *   Fairhope Airport
+      *   Kevin Boone
+      *   Catalyst
+      *   Tucker Dorsey (County Commissioner)
+      *   Michelle Thomason (Judge)
+      *   Fairhope City Council
+    llm_text: Fairhope voters rejected the old "good ole boy" network, but new officials like Tucker Dorsey, Kevin Boone, and Michelle Thomason face scrutiny. Learn how the Catalyst group secured office despite lacking qualifications while millions were spent on Fairhope Airport instead of supporting schools.
+    widget_date: "2016-10-14"
+    generated_at: "2026-11-09T01:16:59.673757Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-re-fired:
+    brief: |-
+      THE CONFLICT: Tucker Dorsey (Baldwin County Commission member) failed to heed a unanimous 4-0 advisory opinion from the Alabama Ethics Commission in October 2010 regarding conflicts of interest related to business dealings with BCSS while employed by Burke.
+      THE DISCOVERY: The Alabama Ethics Commission explicitly ruled that Dorsey should not vote or participate in BCSS matters due to conflicts affecting his personal/business financial interests.
+      THE PIVOT: Article 2 establishes a historical pattern of public officials ignoring unanimous ethics advice concerning financial conflicts (Dorsey/BCSS), providing context to Article 1's criticism of "Jack" (Burrell) for lacking answers regarding millions spent by the Fairhope Airport while schools are underfunded.
+      KEY ENTITIES: Tucker Dorsey, Alabama Ethics Commission, BCSS, Burke, Burrell (Jack), Fairhope Airport
+    llm_text: Tucker Dorsey ignored a unanimous 4-0 ethics ruling in 2010 regarding BCSS conflicts. This pattern of officials disregarding ethics advice explains why Jack Burrell lacks answers on millions spent at Fairhope Airport while schools suffer.
+    widget_date: "2016-07-29"
+    generated_at: "2026-11-09T01:17:59.095469Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

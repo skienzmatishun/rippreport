@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T13:35:02.298166Z"
+  generator_version: 1.0.0
+  post_slug: single-tax-colony-letter
+  main_date: "2014-06-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  exposing-tucker-dorsey:
+    brief: |-
+      THE CONFLICT: Mayor Kant and Lee Pittman were exposed for stealing $639,000 boom grant from City of Fairhope; Lee Pittman and Jasper Tucker Dorsey fired county employee whistleblowers.
+      THE DISCOVERY: Article 2 identified the "Sicko Six" (Pittman, Hoss Mack, James, Elliott, Gruber, Dorsey) as incumbents with multiple conflicts of interest and involved in corruption.
+      THE PIVOT: Article 2 provides the historical context of documented corruption (Kant/Pittman theft); Article 1 warns that these same "bad players in the City" have infiltrated the Fairhope Single Tax Colony (FSTC) via figures like Lee Turner, who holds conflicting roles (Planning and Zoning/FSTC President).
+      KEY ENTITIES: Fairhope Single Tax Colony (FSTC); Lee Turner; Mayor Kant; Lee Pittman ("Slippery Trip"); Jasper Tucker Dorsey; Lynn Stacey; Council Person Burrell; AMIC; Planning and Zoning; Bob James; Chris Elliot; Brock Wells; Charles Gruber.
+    llm_text: Mayor Kant and Lee Pittman stole $639,000 from Fairhope; now the "Sicko Six" corruption has infiltrated the Fairhope Single Tax Colony (FSTC). See how figures like Lee Turner manage conflicting roles and impact your local tax dollars.
+    widget_date: "2014-05-31"
+    generated_at: "2026-11-09T13:33:45.354881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  how-stupid-are-we-baldwin-county:
+    brief: |-
+      THE CONFLICT: Senator Lee "Trip" Pittman and Bob James annually passed back and forth the Fairhope Emergency Debris Removal contract since 2007.
+      THE DISCOVERY: In August 2010, Pittman had the debris removal contract extended to July 11, 2014, and both shared proceeds as listed sub-contractors.
+      THE PIVOT: Article 2 establishes a historical pattern (2007-2010) of elected officials using public contracts for personal financial gain and regulatory overlap in Fairhope, providing context for the later conflicts detailed in Article 1 involving Lee Turner and the FSTC.
+      KEY ENTITIES: Lee "Trip" Pittman, Bob James, Lee Turner, City of Fairhope Single Tax Colony (FSTC), Council Person Burrell, Mayor Kant, Paul Ripp, Jennifer Fidler Scroggins.
+    llm_text: Senator Lee "Trip" Pittman and Bob James annually passed the Fairhope debris removal contract since 2007. They later shared proceeds from the 2010-2014 extension, revealing a long pattern of using public contracts for personal financial gain.
+    widget_date: "2014-05-30"
+    generated_at: "2026-11-09T13:34:45.190233Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

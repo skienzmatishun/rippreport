@@ -1,0 +1,173 @@
+metadata:
+  generated_at: "2026-11-09T11:08:07.955272Z"
+  generator_version: 1.0.0
+  post_slug: demand-the-truth
+  main_date: "2016-07-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  there-are-more-of-us-than-them:
+    brief: |-
+      THE CONFLICT:
+      *   Pittman (Senator) maintained debris removal contracts with the city of Fairhope since 2004.
+      *   Pittman and the Mayor of Fairhope were subject to a BP fraud investigation involving contracts predominantly paid by FEMA/state funds.
+      *   The FBI investigated, and the case went to Special Prosecutor Matt Hart for the Alabama Attorney General's office.
+      *   Mike Hubbard, former Speaker of the House, was convicted for similar ethics violations.
+
+      THE DISCOVERY:
+      *   Shortly after County Commissioner Tucker Dorsey was elected, he and Bob James fired county employees (EMA Director, county manager, attorneys) who were whistle-blowers of the Pittman/Kant BP fraud.
+      *   The Mayor of Fairhope (Kant) is under a cloud of investigations regarding his participation in BP Grant fraud.
+      *   The mega-site deal was valued at 30 million+ dollars for connected landowners.
+
+      THE PIVOT:
+      *   Article 2 reveals the initial systemic actions and cover-up (firing whistle-blowers) surrounding the BP fraud investigation, establishing the historical context of corruption before the 2016 complaint.
+      *   This context refutes the claim in Article 1 that the Mayor and Senator successfully convinced the public/Fairhope City Council that the Ethics Commission exonerated them regarding the BP Fraud claim.
+
+      KEY ENTITIES:
+      *   Senator Pittman
+      *   Mayor of Fairhope (Kant)
+      *   Bob James
+      *   Matt Hart
+      *   Ethics Commission
+      *   Tucker Dorsey (County Commissioner)
+      *   Elliot (County Commissioner)
+      *   Mike Hubbard
+      *   Francis Paul Ripp
+      *   Fairhope
+      *   Baldwin County
+      *   FEMA
+    llm_text: Senator Pittman and Mayor Kant faced a BP fraud investigation involving FEMA funds since 2004. County Commissioner Tucker Dorsey and Bob James fired whistle-blowers to cover up this systemic corruption.
+    widget_date: "2016-06-24"
+    generated_at: "2026-11-09T11:03:02.160700Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigative-reporting:
+    brief: |-
+      THE CONFLICT:
+      *   BP Fraud investigation involving Mayor Kant and Senator Pittman.
+      *   November 20, 2010: Connie Baggett broke the story (al.com).
+      *   Senator Pittman received a subpoena in a federal investigation of the BP oil spill contract.
+      *   Matt Hart (Alabama Attorney General's special counsel) convicted Speaker of the House Mike Hubbard.
+      *   Retaliation by newly elected commissioners Dorsey and James resulted in the demotion and firing of EMA directors and whistle-blowers.
+
+      THE DISCOVERY:
+      *   Article 2 established the initial public exposure of the BP Fraud investigation dating back to 2010.
+      *   Article 2 showed the FBI investigation led to Matt Hart's conviction of Mike Hubbard.
+
+      THE PIVOT:
+      *   Article 2 proves the BP Fraud investigation against Senator Pittman and Mayor Kant is a historical fact (starting 2010), contextualizing the 2016 complaint that Pittman is repeating the behavior under a continued inquiry with Matt Hart.
+      *   Article 2 establishes the initial criminal context that Pittman and Kant are currently misrepresenting by claiming Ethics Commission exoneration.
+
+      KEY ENTITIES:
+      *   Senator Pittman
+      *   Mayor Kant
+      *   Mike Hubbard
+      *   Matt Hart
+      *   Connie Baggett
+      *   Bob James
+      *   Dorsey
+      *   Francis Paul Ripp
+      *   Fairhope City Council
+      *   State of Alabama Ethics Commission
+      *   Federal Emergency Management Agency (FEMA)
+    llm_text: Pittman and Kant claim Ethics Commission exoneration, but the BP Fraud investigation began in 2010. Matt Hart's federal probe led to Mike Hubbard's conviction, proving their historical misconduct.
+    widget_date: "2016-06-21"
+    generated_at: "2026-11-09T11:04:10.032245Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethic-less-in-alabama:
+    brief: |-
+      THE CONFLICT:
+      Senator Lee "Trip" Pittman conducted business with the City of Fairhope as a contractor since 2004, winning multiple debris removal contracts (e.g., 2007, 2010) despite not holding the required General Contractor's License until May 7, 2012.
+      Senator Pittman and the Mayor of Fairhope were subject to a BP fraud investigation.
+      In 2016, Senator Pittman again bid on Fairhope debris removal contracts after promising he would not, following the FBI investigation handled by Special Prosecutor Matt Hart.
+      Mike Hubbard was convicted for engaging in municipal contracts for direct income.
+
+      THE DISCOVERY:
+      The Alabama Ethics Commission (led by Hugh Evans) provided letters and support to Senator Pittman (e.g., July 17, 2014, for contract extension) despite concerns about him using his office for personal gain and violating legal requirements.
+      The pattern of contracts demonstrates the AEC was a "corrupt political vehicle" enabling elected officials to secure taxpayer-funded public contracts for personal gain.
+
+      THE PIVOT:
+      The historical evidence from 2004-2014 proves the Ethics Commission previously lent official support to Pittman's conflicts of interest. This history refutes the 2016 claim that the Ethics Commission had "exonerated them" or provided official "permission" regarding the BP fraud claim; the prior support indicates a systemic failure/complicity, not legal exoneration.
+
+      KEY ENTITIES:
+      Senator Lee "Trip" Pittman
+      Francis Paul Ripp
+      Hugh Evans (Presiding AEC)
+      Mayor of Fairhope
+      Mike Hubbard
+      Bob James
+      Matt Hart (Special Prosecutor)
+      State of Alabama Ethics Commission (AEC)
+      Fairhope City Council
+      Baldwin County
+      2004, 2007, 2010, 2012, 2014, 2016
+      Bid number 024-09
+      Bid number 009-12
+      $625,575.00 (Oil Spill contract)
+    llm_text: Senator Lee "Trip" Pittman secured Fairhope contracts from 2004 despite lacking a General Contractor's License. Hugh Evans' AEC backed Pittman, proving the commission enabled conflicts instead of legally exonerating him from the BP fraud investigation.
+    widget_date: "2014-08-09"
+    generated_at: "2026-11-09T11:05:04.814545Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  political-intimidation:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Pittman maintained debris removal contracts with the city of Fairhope since 2004.
+      *   Senator Pittman and the Mayor of Fairhope were subject to a BP fraud investigation.
+      *   Senator Pittman was the trustee of BP funds for Baldwin County.
+      *   With Mayor Kant’s help, Pittman was personally paid $636,000 from BP funds.
+      *   The FBI investigated the BP fraud and referred the case to special prosecutor Matt Hart of the Alabama Attorney General's office.
+
+      THE DISCOVERY:
+      *   Mayor Kant is accused of rigging the last two elections in Fairhope.
+      *   Mayor Kant raised over $50,000 for his mayoral election, with 50% of donations coming from outside Fairhope/unidentified PACs.
+      *   Kant is linked to the "good ole boy" club, managed by former Mayor Jim Nix.
+      *   Kant has engaged in political intimidation, including installing metal detectors at city hall and refusing public speaking rights at the City Council/Planning Board.
+
+      THE PIVOT:
+      *   Article 2 (older) establishes Mayor Kant's long-term pattern of political corruption, election rigging, and intimidation in Fairhope.
+      *   Article 2 links Mayor Kant directly to Senator Pittman's alleged misuse of BP funds ($636,000), providing the historical context for the BP fraud claims detailed in the 2016 complaint (Article 1).
+      *   Article 2 provides the backdrop of political control that enabled the sustained conflict of interest described in Article 1 (Pittman securing millions in FEMA-controlled debris contracts).
+
+      KEY ENTITIES:
+      *   Senator Pittman
+      *   Mayor Kant
+      *   Bob James
+      *   Matt Hart (special prosecutor, Alabama AG's office)
+      *   Francis Paul Ripp (complainant)
+      *   Jim Nix
+      *   Fairhope
+      *   Baldwin County
+      *   Ethics Commission
+      *   FEMA
+      *   BP fraud
+      *   Fly Creek Apartments
+    llm_text: Mayor Kant rigged Fairhope elections, simultaneously helping Senator Pittman pocket $636,000 from BP funds. Discover how this local corruption fueled an FBI investigation and landed on special prosecutor Matt Hart's desk.
+    widget_date: "2016-06-17"
+    generated_at: "2026-11-09T11:06:39.752630Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on-mayor-kant-hubbard-goes-down-youre-next:
+    brief: |-
+      THE CONFLICT:
+      Mayor Kant Hubbard and Senator Pittman were subject to a BP fraud investigation regarding debris removal contracts held with the city of Fairhope since 2004.
+      The FBI conducted the investigation, which was subsequently handled by Special Prosecutor Matt Hart of the Alabama Attorney General's office.
+      During the FBI investigation, Senator Pittman admitted poor judgment, but subsequently bid on Fairhope debris removal contracts again, claiming permission from the Alabama Ethics Commission.
+
+      THE DISCOVERY:
+      The Ripp Report, established over 10 years ago, was created due to the perceived lack of honest information from Fairhope city hall, specifically the mayor.
+      The Ripp Report is a self-funded, non-profit consumer group focusing on political and judicial corruption in Baldwin County.
+
+      THE PIVOT:
+      Article 2 provides the historical context and long-standing motivation (over 10 years of distrust in Fairhope leadership) for the ongoing scrutiny detailed in Article 1 regarding Mayor Hubbard and Senator Pittman's conflict of interest and misrepresentation of the Ethics Commission's findings.
+
+      KEY ENTITIES:
+      Kant Hubbard
+      Senator Pittman
+      Bob James
+      Matt Hart
+      Francis Paul Ripp
+      Fairhope
+      Alabama Ethics Commission
+      FEMA
+      Baldwin County
+    llm_text: Mayor Kant Hubbard and Senator Pittman faced a BP fraud investigation over Fairhope debris contracts since 2004. Despite admitting poor judgment, Senator Pittman bid again, defying ethics rules—see why The Ripp Report scrutinizes Fairhope leadership.
+    widget_date: "2016-06-11"
+    generated_at: "2026-11-09T11:07:52.126428Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

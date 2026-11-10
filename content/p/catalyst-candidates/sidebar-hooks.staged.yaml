@@ -1,0 +1,142 @@
+metadata:
+  generated_at: "2026-11-08T16:37:31.935880Z"
+  generator_version: 1.0.0
+  post_slug: catalyst-candidates
+  main_date: "2018-03-16"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backseat-quarterbacks:
+    brief: |-
+      THE CONFLICT: Corruption within Fairhope City Council involved three councilmen using their elected office for financial or personal gain.
+      THE DISCOVERY: Mayor Wilson secured $17.8 million in Restore Act funds, including $10 million for sewer infrastructure, despite four years of ignored issues by Councilmen Boone and Burrell.
+      THE PIVOT: Article 2 establishes a documented history of local government obstruction and corruption (e.g., Council opposition to Mayor Wilson and the Restore Act) which provides the context for Article 1's warning about "Catalyst Candidates" and the "Good Ole Boys plan" during the 2018 primary.
+      KEY ENTITIES: Mayor Wilson, Michelle Thomason, Catalyst Candidates, Councilmen Boone, Councilmen Burrell, Baldwin County Probate Office
+    llm_text: Mayor Wilson secured $17.8 million in Restore Act funds, including $10 million for sewer infrastructure. Councilmen Boone and Burrell ignored four years of issues, showing how local corruption continues despite the funding.
+    widget_date: "2018-03-14"
+    generated_at: "2026-11-08T16:31:30.875996Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrong-ball:
+    brief: |-
+      THE CONFLICT: Frank Burt held the County Commissioner position since 1988. Catalyst recruited Jeb Ball to challenge Burt in the County Commissioner’s race. Judge Michelle Hart (aka Thomason) was a founder and first client of Baldwin County Substance Abuse Services (BCSA).
+      THE DISCOVERY: BCSA, certified by the administrative office of the courts, collects fees and urine tests in CASH and is described as a money scheme allowing payment out of convictions.
+      THE PIVOT: Article 2 establishes Michelle Thomason's founding role in BCSA and her status as a Catalyst client, linking the organization's alleged conflict of interest (BCSA fees/power) directly to her political candidacy (The Catalyst Queen) in the June 9, 2018, primary race detailed in Article 1.
+      KEY ENTITIES: Catalyst; Michelle Thomason/Hart; Jeb Ball; Frank Burt; Baldwin County Probate Office; BCSA; June 9 2018; Baldwin County
+    llm_text: Michelle Thomason founded BCSA, a cash-collecting service that handles urine tests, while running for County Commissioner in 2018. Discover how her ties to this controversial organization created a major conflict during the Catalyst primary.
+    widget_date: "2018-03-09"
+    generated_at: "2026-11-08T16:33:37.372815Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mid-term-elections-vote-incumbents-out:
+    brief: |-
+      THE CONFLICT:
+      * Tucker Dorsey held County commission seat three in Baldwin County.
+      * Dorsey was linked to Clarence Burke (Baldwin County Sewer).
+      * Dorsey helped secure a mega-site that cost 35 million dollars, leading to lost revenue and county employee payments.
+      * Dorsey's tenure lasted 7 years.
+
+      THE DISCOVERY:
+      * The older article established that voting for Tucker Dorsey was synonymous with supporting the "good ole boys" and their "old ways of doing business."
+      * The older article identified "Catalyst" as being associated with this "good ole boy club" and the desire to "VOTE INCUMBENTS OUT."
+
+      THE PIVOT:
+      * The older article defined Catalyst as part of the entrenched "good ole boys" system.
+      * The newer article shows Catalyst has expanded beyond the County Commissioners (Dorsey/Burke) to include Michelle Thomason, the Catalyst Queen, running for Court of Civil Appeals in 2018, demonstrating broader influence within Baldwin County government.
+
+      KEY ENTITIES:
+      * Tucker Dorsey
+      * Clarence Burke
+      * Michelle Thomason
+      * Baldwin County Probate Office
+      * June 9 2018
+      * 35 million dollars
+    llm_text: Tucker Dorsey, linked to Clarence Burke, secured a $35M Baldwin County site that cost taxpayers revenue during his 7-year tenure. Michelle Thomason, the Catalyst Queen, proves this "good ole boys" influence expanded far beyond the County Commissioners.
+    widget_date: "2018-02-21"
+    generated_at: "2026-11-08T16:34:16.762584Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT:
+      *   The "good ole boys network" held power in Baldwin County (Bay Minette/Fairhope).
+      *   Former Mayor Kant and Sen Pittman were involved in this network.
+      *   Mayor Karen Wilson's election marked a shift against the established network.
+      *   Qualification for Mid Term Elections closed on February 9th, 2018.
+      *   The primary election was scheduled for June 5/9, 2018.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Judge Michelle Thomason had a negative reputation as a Circuit Judge in Family Court.
+      *   Article 2 stated Judge Thomason was the first client of Catalyst.
+      *   Article 2 noted the opportunity to vote out county commissioners, Sheriff, Judge of Probate, Coroner, and State Senate seat 32 (previously held by Pittman).
+
+      THE PIVOT:
+      *   Article 2 provided historical and reputational context for specific candidates (e.g., Thomason's negative reputation and connection to Catalyst).
+      *   Article 1 used this context to officially flag "Catalyst Candidates" on the 2018 Local and State Candidate list provided by the Baldwin County Probate Office.
+      *   Article 1 warned against allowing "Catalyst control of our county government."
+
+      KEY ENTITIES:
+      *   Michelle Thomason (Court of Civil Appeals Judge)
+      *   Karen Wilson (Mayor)
+      *   Kant (Former Mayor)
+      *   Sen Pittman (Former State Senator)
+      *   Baldwin County Probate Office
+      *   Catalyst
+      *   June 9, 2018 (Primary Election)
+      *   February 9, 2018 (Qualification Close)
+    llm_text: Mayor Karen Wilson challenged the old "good ole boys network" led by Kant and Pittman. See why the Ripp Report flagged Michelle Thomason and other "Catalyst Candidates" before the June 9 primary.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-08T16:35:21.326171Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  say-goodbye-incumbents:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioners (Frank Burt, Charles Gruber, Tucker Dorsey, Chris Elliott) saddled the county with a $35 million+ mega site financed using county employees' funds.
+      THE DISCOVERY: Article 2 linked Tucker Dorsey, an incumbent commissioner, to Catalyst and Summitt Construction.
+      THE PIVOT: The historical connection between incumbents (like Dorsey) and Catalyst detailed in Article 2 provided the factual basis for The Ripp Report's addition of "Catalyst Candidates" to the official June 9, 2018, election list (Article 1).
+      KEY ENTITIES: Baldwin County Probate Office, Michelle Thomason (Court of Civil Appeals, "Catalyst Queen"), Catalyst Candidates, Frank Burt, Charles Gruber, Tucker Dorsey, Trip Pittman, Billy Joe Underwood, Jeb Ball, Christopher Callaghan, Chris Elliott, John Lake, Summitt Construction.
+    llm_text: Baldwin County Commissioners saddled the county with a $35 million+ mega site using employee funds. Tucker Dorsey, an incumbent, links directly to Catalyst and Summitt Construction; read how this affects your vote.
+    widget_date: "2017-11-03"
+    generated_at: "2026-11-08T16:36:35.202790Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  poison-water-alabama-senate-special-election:
+    brief: |-
+      THE CONFLICT: 2017 Alabama Senate Special Election (Dec 12, 2017) replaced Jeff Sessions, who became US Attorney General. Key candidates included Luther Strange, Roy Moore, and Tripp Pittman, facing allegations regarding Bentley investigations and Pittman’s $750,000 BP fund grab.
+
+      THE DISCOVERY: Article 2 established the volatile political landscape in Alabama in 2017, highlighting the reputations and controversial actions of major political figures like Luther Strange and Roy Moore.
+
+      THE PIVOT: Article 2 provides the historical context of the high-stakes, contentious political environment in Alabama prior to the 2018 primary (June 9, 2018), setting the stage for the inclusion and scrutiny of "Catalyst Candidates" in Baldwin County.
+
+      KEY ENTITIES: Jeff Sessions, Luther Strange, Roy Moore, Tripp Pittman, Michelle Thomason, Catalyst Candidates, Baldwin County Probate Office
+    llm_text: The 2017 Alabama Senate election saw Luther Strange, Roy Moore, and Tripp Pittman fight after Jeff Sessions became AG. Explore this high-stakes history—including Pittman's $750k BP fund grab—to understand the scrutiny facing Baldwin County's Catalyst Candidates today.
+    widget_date: "2017-06-07"
+    generated_at: "2026-11-08T16:32:27.487802Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  who-not-to-vote-for:
+    brief: |-
+      THE CONFLICT:
+      *   Jeff Sessions sought U. S. Attorney General.
+      *   Tripp Pittman (State senator, Bible study partner of Jack Burrell) decided not to seek re-election for State Senate.
+      *   Pittman ran for Mr. Sessions U. S. Senate seat.
+      *   Pittman was accused of using elected office for personal enrichment via BP cash during a catastrophe.
+      *   Chris Elliott (Baldwin County Commissioner, appointed) was selected to run for Sen. Pittman’s State Senate seat.
+      *   Elliott had previously faced charges of DUI and serious charges related to the law.
+      *   The Widget Article mentions the GOB ("good ole boys") and Catalyst placing candidates in strategic positions 18 months before the mid-term elections.
+
+      THE DISCOVERY:
+      *   The Main Article confirms that Catalyst has candidates seeded in many offices leading up to the primary on June 9, 2018.
+      *   The Main Article officially adds the reference to "Catalyst Candidates" and Michelle Thomason (Court of Civil Appeals, "The Catalyst Queen") to the official list provided by the Baldwin County Probate Office.
+
+      THE PIVOT:
+      *   The Widget Article established the pattern of "Catalyst" and "GOB" candidates (e.g., Pittman, Elliott) positioning themselves in elected offices for higher levels of corruption.
+      *   The Main Article formalizes this pattern by officially listing Catalyst candidates and identifying Michelle Thomason, proving that Catalyst control was a specific, documented agenda in the 2018 race, not just an earlier observation.
+
+      KEY ENTITIES:
+      *   Tripp Pittman
+      *   Chris Elliott
+      *   Jeff Sessions
+      *   Jack Burrell
+      *   Michelle Thomason ("The Catalyst Queen")
+      *   Baldwin County Probate Office
+      *   Catalyst
+      *   GOB ("good ole boys")
+      *   June 9, 2018
+    llm_text: Tripp Pittman and Chris Elliott used local office for enrichment, a pattern Catalyst seeded 18 months before the June 9, 2018, primary. We now officially confirm Michelle Thomason, "The Catalyst Queen," solidifying this documented agenda in Baldwin County.
+    widget_date: "2017-05-19"
+    generated_at: "2026-11-08T16:37:15.744340Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

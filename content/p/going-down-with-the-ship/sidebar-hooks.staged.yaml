@@ -1,0 +1,91 @@
+metadata:
+  generated_at: "2026-11-09T09:27:01.394069Z"
+  generator_version: 1.0.0
+  post_slug: going-down-with-the-ship
+  main_date: "2016-09-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fire:
+    brief: |-
+      THE CONFLICT: Commissioner Tucker Dorsey was accused of ignoring ethics charges against Sen. Pittman regarding a $750,000 BP Boom contract and facilitating a Mega Site that cost Baldwin County over $50 million.
+      THE DISCOVERY: Article 2 (Widget) revealed Dorsey's history of firing county employees who tried to prevent ethics charges and connected him to Tim Kant's political circle.
+      THE PIVOT: Article 2 provides historical evidence of systemic financial mismanagement and cronyism within the Kant political sphere, establishing context for the current $42 million Gulf Quest Maritime museum (funded $28M by taxpayers) being over $400,000 past due in Article 1.
+      KEY ENTITIES: Tim Kant, Tucker Dorsey, Angus Cooper, Diana Brewer, Angelo Corte, Hand Arendall, Gulf Quest Maritime museum, Fly Creek Apartments
+    llm_text: Commissioner Tucker Dorsey ignored ethics charges against Sen. Pittman over a $750,000 BP Boom contract and a $50 million Mega Site. Article 2 reveals Dorsey fired employees trying to prevent ethics charges, exposing deep cronyism within Tim Kant's political circle.
+    widget_date: "2016-09-23"
+    generated_at: "2026-11-09T09:21:11.134963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  round-and-round-we-go:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope lost a Supreme Court case involving Planning and Zoning, costing hundreds of thousands in taxpayer money (attorneys Hand Arendall won).
+      *   Gulf Quest Maritime museum, funded by $28 million in taxpayer money, has over $400,000 in past due utility bills.
+      *   Fly Creek Apartments are being pushed by Angelo Corte, a Tim Kant fan, despite 98% opposition (meeting on October 3rd).
+      *   Mr. Angus Cooper supported EX Mayor Kant and facilitated free football practice ($35,000 value) for Fairhope facilities.
+
+      THE DISCOVERY:
+      *   The intersection of Highway 13 and Fairhope Avenue (13/48) is partially in Baldwin County and partially in the City of Fairhope.
+      *   Fairhope holds extra territorial jurisdiction (ETJ), meaning the City of Fairhope issues building permits and has subdivision authority over the property, even if it is in the county.
+      *   The corner parcel is currently un-zoned, a decision made by voters.
+      *   The right-of-way acquisition process for the roundabout allowed the remaining parcel to be sold to a new owner who operates gas stations in Baldwin County.
+
+      THE PIVOT:
+      *   The ETJ and un-zoned status (Article 2) demonstrate the City of Fairhope's regulatory control over development, which is the legal context for the Planning and Zoning lawsuits and taxpayer losses (Article 1).
+      *   The jurisdictional background highlights that local regulations limit the City's ability to object to permits if requirements are met, constraining the City's ability to stop projects like Fly Creek or prevent financial drains like the Gulf Quest debt.
+
+      KEY ENTITIES:
+      *   Angelo Corte
+      *   Tim Kant
+      *   Jennifer Fiddler
+      *   Angus Cooper
+      *   Diana Brewer (Fairhope Councilwoman)
+      *   Hand Arendall
+      *   Chris Elliott (Baldwin County Commissioner)
+      *   Fairhope
+      *   Gulf Quest Maritime museum
+      *   Fly Creek Apartments
+      *   Highway 13/Fairhope Avenue (13/48)
+    llm_text: Fairhope lost a Supreme Court case costing taxpayers hundreds of thousands, and Gulf Quest has $400k in utility debt. Despite extra territorial jurisdiction over Highway 13/Fairhope Avenue, the City cannot stop projects like Angelo Corte's Fly Creek Apartments.
+    widget_date: "2016-09-16"
+    generated_at: "2026-11-09T09:23:36.722216Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-eagle-has-landed-and-the-court-of-public-opinion-has-voted:
+    brief: |-
+      THE CONFLICT: Incumbent Mayor of Fairhope held office for four terms, leading to a challenged political status quo.
+      THE DISCOVERY: Karin Wilson won the Fairhope mayoral election (set record with over 2000 votes, exceeding Daphne's vote count), signaling a community shift against the former regime.
+      THE PIVOT: Wilson's victory created the political environment for public exposure of previous administrative failures, including the $42 million Gulf Quest Maritime museum debt ($400,000+ past due) and the recent loss of hundreds of thousands of dollars in taxpayer money in a Supreme Court Planning and Zoning lawsuit (won by Hand Arendall).
+      KEY ENTITIES: Karin Wilson, Fairhope, Gulf Quest Maritime museum, Angelo Corte, Angus Cooper, Diana Brewer, Jennifer Fiddler, Hand Arendall, Kant, Fly Creek Apartments, 42 million dollars, 28 million dollars, 400,000 dollars, November 7th.
+    llm_text: Karin Wilson successfully challenged Fairhope’s political status quo, beating the incumbent with over 2000 votes. Her victory forces exposure of administrative failures, including the $42 million Gulf Quest debt and the Supreme Court loss to Hand Arendall.
+    widget_date: "2016-08-26"
+    generated_at: "2026-11-09T09:24:27.087755Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cut-the-head-off-the-snake:
+    brief: |-
+      THE CONFLICT: Mayor Kant's administration, influenced by major contributor Arthur Corte, sought approval for the Fly Creek Apartments; Ripp Report advised voters to elect Karen Wilson on August 23rd to kill the deal and save taxpayers.
+      THE DISCOVERY: Mayor Kant's decision to pursue the Fly Creek Apartments was based on political influence (Corte's instruction) rather than community planning.
+      THE PIVOT: Article 2 establishes the historical context of Kant's administration being driven by contributors (Corte); Article 1 shows the continuing political manipulation (Angelo Corte, Angus Cooper funding Diana Brewer) and the resulting financial and legal fallout (Gulf Quest $42M/ $400k past due; Supreme Court loss involving Hand Arendall).
+      KEY ENTITIES: Mayor Kant, Karen Wilson, Arthur Corte, Angelo Corte, Mr. Angus Cooper, Diana Brewer, Jennifer Fiddler, Fly Creek, Gulf Quest Maritime museum, Hand Arendall, Fairhope.
+    llm_text: Mayor Kant pursued the Fly Creek Apartments based on Arthur Corte's political influence, not community planning. Elect Karen Wilson on August 23rd to stop this deal and protect Fairhope taxpayers.
+    widget_date: "2016-08-19"
+    generated_at: "2026-11-09T09:25:39.303605Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it:
+    brief: |-
+      THE CONFLICT: Fairhope Municipal Elections were subject to observations of alleged fraudulent behavior and violations, documented on 9/11/2012.
+      THE DISCOVERY: The 9/11/2012 observations named Tom Odom (Kant Poll Watcher, Fire Marshall, Father-in-Law of Tim Kant) for dual roles, noted lack of control of voting machines by Election Supervisor Mrs. Culver, and highlighted that poll watchers were not allowed to monitor final machine opening and tape certification.
+      THE PIVOT: The 2012 allegations of election impropriety establish a historical context of suspicion regarding the political operations of Tim Kant and his allies, which subsequently correlates to current political maneuvering (Fly Creek Apartments) and municipal financial mismanagement (Gulf Quest Museum, $42M cost, $400k+ past due utilities).
+      KEY ENTITIES: Tim Kant, Mr. Angus Cooper, Mr. Angelo Corte, Diana Brewer, Jennifer Fiddler, Tom Odom, Hand Arendall, Gulf Quest Maritime museum, Fairhope, Fly Creek Apartments, $42 million, $28 million, $400,000.
+    llm_text: Tom Odom documented election irregularities involving Tim Kant during the 2012 Fairhope municipal elections. Discover how those historical suspicions connect to current issues like Gulf Quest's $42M cost and $400k in past due utilities.
+    widget_date: "2016-08-05"
+    generated_at: "2026-11-09T09:26:47.159895Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elected-or-selected:
+    brief: |-
+      THE CONFLICT: Former Mayor Jim Nix was forced out for alleged criminal activity; Nix SELECTED Tim Kant to replace him, leading to Kant serving four terms (1983 hire, 2000 Mayor); Arthor Corte is a Jim Nix fan.
+      THE DISCOVERY: Mayor Kant's ascent was non-democratic (selected, not elected), resulting in systemic corruption (e.g., $5-6 million soccer field cost, non-public $5000/year municipal lease), and poor infrastructure over four terms.
+      THE PIVOT: Article 2 establishes that the current political regime (Kant/Corte/Nix influence) is based on controlled selection and corruption, providing the historical context that explains the current financial mismanagement (Gulf Quest $42 million, $400k past due) and the political pressure surrounding the Fly Creek Apartments push involving Angelo Corte and Diana Brewer.
+      KEY ENTITIES: Tim Kant, Jim Nix, Arthor Corte, Angelo Corte, Diana Brewer, Angus Cooper, Jennifer Fiddler, Fly Creek, Gulf Quest Maritime museum, Hand Arendall, Mike Ford, Sherry Sullivan, Triangle, Kant (Ex-Mayor), Boone.
+    llm_text: Jim Nix selected Tim Kant, whose non-democratic rise fueled systemic corruption, from $5,000 leases to a $5-6 million soccer field. See how this history explains today's $42M Gulf Quest debt and the Fly Creek Apartments pressure involving Angelo Corte.
+    widget_date: "2016-07-22"
+    generated_at: "2026-11-09T09:22:14.655142Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

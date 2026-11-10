@@ -1,0 +1,55 @@
+metadata:
+  generated_at: "2026-11-08T18:19:01.850274Z"
+  generator_version: 1.0.0
+  post_slug: elephant-in-a-volkswagen
+  main_date: "2018-01-27"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-pot-and-the-kettle-are-black:
+    brief: |-
+      THE CONFLICT: Frank Burt held office since 1989 as an 8-time incumbent County Commissioner for District 1 in Baldwin County. The District 1 "mega site" cost $35 million.
+      THE DISCOVERY: Article 2 reveals a long-standing, entrenched pattern of connected political power (Burt/Catalyst) in Baldwin County tied to large, financially costly developments.
+      THE PIVOT: Article 2 provides historical context that the conflicts of interest and self-serving development patterns detailed in Article 1 (Tatumville/Fly Creek) are not isolated events but part of a systemic, sustained pattern of opaque and financially risky decision-making by connected local elites.
+      KEY ENTITIES: Frank Burt, Lee Turner, Cliff Pittman, Councilman Robert Brown, Jeb Ball, Judge Michell Thomason, Anil Vera, Fairhope Single Tax Corporation, Baldwin County Substance Abuse (BCSA), Fairhope Airport, Tatumville Subdivision.
+    llm_text: Frank Burt held office since 1989 as an 8-time County Commissioner for District 1, overseeing a $35 million mega site. This isn't an isolated incident; connected local elites in Baldwin County perpetuate a systemic pattern of opaque, risky development decisions.
+    widget_date: "2018-01-24"
+    generated_at: "2026-11-08T18:16:22.878321Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT: Former political figures like former Mayor Kant and Sen Pittman were part of the "good ole boys" network in Baldwin County; this network was challenged by the election of Mayor Karen Wilson (pre-June 5, 2018 primary).
+      THE DISCOVERY: The political power structure in Baldwin County was shifting away from entrenched figures, leading to changes in roles, firings, or retirements of the previous political establishment.
+      THE PIVOT: Article 2 establishes the historical context of political change and the decline of the "good ole boys" network, while Article 1 shows that former members of this structure, such as Cliff Pittman, remain active in current, controversial deals (Tatumville Subdivision) with Fairhope Single Tax Corporation.
+      KEY ENTITIES: Cliff Pittman, Lee Turner, Councilman Robert Brown, Karen Wilson, Fairhope Single Tax Corporation, Tatumville Subdivision, Fairhope Airport Authority, Catalyst, Magnolia Apartments, Mayor.
+    llm_text: Baldwin County's "good ole boys" network, once led by figures like former Mayor Kant, fell to Mayor Karen Wilson. Former insider Cliff Pittman still drives controversial deals, including the Tatumville Subdivision, with Fairhope Single Tax Corporation.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-08T18:17:20.357271Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  moore-of-the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT:
+      *   Sen Tripp Pittman stole $750,000 from the BP scandal.
+      *   Allegations against Jack Burrell concerning the Airport scandal were circulating in 2017.
+      *   Pittman was deemed unethical but received a pass from the Alabama Ethics Commission.
+
+      THE DISCOVERY:
+      *   The Ripp Report offered $5000 to prove the facts surrounding Pittman's BP allegations and Jack Burrell's Airport scandal were false, but no one came forward.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of corruption and lack of accountability involving Pittman and Burrell, setting context for the current conflicts of interest detailed in Article 1 (Tatumville land transfer and Airport Authority appointment).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Sen Tripp Pittman
+      *   Lee Turner (President of Single Tax, Chair of Planning and Zoning)
+      *   Cliff Pittman (Single Tax board member)
+      *   Robert Brown (City Councilman)
+      *   Fairhope Single Tax Corporation
+      *   Fairhope Airport Authority
+      *   Anil Vera
+      *   Tatumville Subdivision
+      *   1994 (Magnolia Apartments flood, $1M damage)
+    llm_text: Sen Tripp Pittman stole $750,000 from the BP scandal, yet the Alabama Ethics Commission shielded him. Discover how this history—including Jack Burrell’s 2017 Airport scandal allegations—sets the stage for current corruption in Tatumville.
+    widget_date: "2017-12-24"
+    generated_at: "2026-11-08T18:18:35.268987Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

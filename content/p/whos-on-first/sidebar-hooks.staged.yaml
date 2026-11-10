@@ -1,0 +1,43 @@
+metadata:
+  generated_at: "2026-11-09T04:50:19.520578Z"
+  generator_version: 1.0.0
+  post_slug: whos-on-first
+  main_date: "2017-03-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  listening-not-reading:
+    brief: |-
+      THE CONFLICT: Ethics complaint against Jack Burrell and Ray Hix regarding Fairhope Airport Authority hanger property (1/12/11)
+      THE DISCOVERY: The Ethics Commission mandated that public officials engaging in business with their entity must use a bid process, irrespective of specific bid laws
+      THE PIVOT: Article 2 establishes the pre-existing ethical obligation to bid; Article 1 demonstrates the Authority ignored this obligation by executing the Ground Lease and Operating Agreement on Dec 17, 2015, before receiving the favorable Ethics Commission Advisory Opinion (Mar 3, 2016), and failing to adhere to the RFP bidding terms
+      KEY ENTITIES: Jack Burrell, Ray Hix, Rick Kingrea, Karin Wilson, Dennis R. Bailey, Josh Myrick, Joe McEnerney, Pittman, Boone, Brown, Mayor Kant, Fairhope Airport Authority
+    llm_text: Ethics officials found Jack Burrell and Ray Hix violated rules concerning the Fairhope Airport Authority hanger property. They executed the Ground Lease before getting the required Ethics Commission Advisory Opinion, bypassing the mandatory bid process.
+    widget_date: "2017-03-10"
+    generated_at: "2026-11-09T04:48:35.999657Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigating-the-investigators:
+    brief: |-
+      THE CONFLICT:
+      Ray Hix secured a Ground Lease and Operating Agreement from the Fairhope Airport Authority on December 17, 2015, following a Notice of Request for Bids (RFP). Attorney Dennis R. Bailey requested an Advisory Opinion from the Alabama Ethics Commission on December 16, 2015. The Ethics Commission issued Advisory Opinion No. 2016-04 on February 3, 2016.
+
+      THE DISCOVERY:
+      Article 2 showed Hix was a board member for six months prior to the bid process, suggesting potential access to inside information. Article 2 also revealed inaccuracies in Hix's bid, including conflicting ownership claims and fuel estimates. Jack Burrell, a member of the bid committee, reduced Mid-Bay's fuel number by 15,000 gallons.
+
+      THE PIVOT:
+      Article 2 establishes Hix's prior insider status and bid irregularities, providing the motive/context for the ethical questions. Article 1 uses the documentation discrepancies (three different leases: Dec 17, Dec 21/Exhibit C, Exhibit B) and timing—the lease was executed (Dec 17, 2015) three months before the required Ethics Advisory Opinion (Feb 3, 2016)—to prove the Authority violated its own RFP terms and ethics compliance requirements.
+
+      KEY ENTITIES:
+      Ray Hix
+      Jack Burrell
+      Joe McEnerney (Airport Authority Chairman)
+      Dennis R. Bailey
+      Fairhope Airport Authority (FAA)
+      Alabama Ethics Commission
+      Cedar Creek Leasing LLC
+      Dec 17, 2015
+      Feb 3, 2016
+      March 11, 2017
+    llm_text: Ray Hix signed his Fairhope Airport Authority ground lease on Dec 17, 2015, while serving as a board member. The FAA violated its own RFP terms because the lease preceded the required Feb 3, 2016, Alabama Ethics Commission advisory opinion.
+    widget_date: "2017-03-03"
+    generated_at: "2026-11-09T04:49:57.562202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

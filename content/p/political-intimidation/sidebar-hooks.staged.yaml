@@ -1,0 +1,74 @@
+metadata:
+  generated_at: "2026-11-09T11:16:10.668476Z"
+  generator_version: 1.0.0
+  post_slug: political-intimidation
+  main_date: "2016-06-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  game-on-mayor-kant-hubbard-goes-down-youre-next:
+    brief: |-
+      THE CONFLICT:
+      *   Over 10 years ago, the Ripp Report was founded due to a lack of honest information from Fairhope City Hall, particularly regarding Mayor Kant.
+      *   Citizens suspected the last two Fairhope election results were tampered with.
+
+      THE DISCOVERY:
+      *   The Ripp Report, established as a non-profit consumer group, documented the perceived lack of transparency and corruption surrounding Fairhope politics over a 10-year period.
+      *   The founder self-funded the efforts, totaling approximately $15,000.
+
+      THE PIVOT:
+      *   Article 2 establishes the decade-long pattern of distrust and corruption in Fairhope, making the current allegations (e.g., >$50,000 in external donations, rigging suspicion, Pittman’s BP funds) not isolated incidents but part of a sustained, long-term "good ole boy" system managed by Kant.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Senator Pittman
+      *   Mike Hubbard
+      *   Jim Nix
+      *   Sherry Sullivan
+      *   Lee Turner
+      *   Mr. Jay Robinson
+      *   Mr. Mueller
+      *   Fairhope
+      *   Baldwin County
+      *   Fly Creek (Apartments)
+      *   Single Tax Corporation
+      *   Aurthor Corte
+      *   The Ripp Report
+    llm_text: The Ripp Report spent $15,000 over 10 years documenting Mayor Kant’s lack of transparency in Fairhope. Current allegations involving Senator Pittman and rigged elections prove this isn't an isolated incident; it’s a sustained "good ole boy" system.
+    widget_date: "2016-06-11"
+    generated_at: "2026-11-09T11:14:30.426650Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dear-congressman-bradley-byrne:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Pittman (trustee of BP funds for Baldwin County) and Mayor Kant siphoned $636,000 of BP money for a contract for Sen. Pittman.
+      *   This fraud resulted in an FBI investigation and a referral to the Alabama Attorney General, White Collar Crime Division.
+      *   A settled triangle lawsuit in Fairhope cost taxpayers $11.25 million, which the Mayor (Kant) settled without public notification.
+      *   The damage to Fly Creek was caused by the Publix project development, not "historic flooding," as previously claimed.
+      *   The proposed Fly Creek Apartments, despite 95% opposition, were approved after Mayor Kant and Arthur Corte "FIXED" the planning and zoning board outcome.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that the Fly Creek damage was incontrovertibly linked to the Publix project development and not natural flooding.
+      *   Article 2 provided specific financial evidence of the BP fraud, detailing the $636,000 payment to Sen. Pittman.
+      *   Article 2 identified Arthur Corte and Mayor Kant as the responsible parties for the Fly Creek damage and subsequent collusion.
+
+      THE PIVOT:
+      *   Article 2 establishes a documented pattern of high-level, federally-investigated financial corruption (BP fraud) and municipal financial malfeasance ($11.25M lawsuit).
+      *   This history provides context for Article 1’s allegations of current local corruption, such as Mayor Kant raising over $50,000 from outside donors and rigging local elections, showing a systemic "good ole boy" network.
+
+      KEY ENTITIES:
+      *   Mayor Kant (Timothy Kant)
+      *   Senator Pittman (James Pittman)
+      *   Arthur Corte
+      *   Fly Creek
+      *   Fairhope
+      *   Jim Nix
+      *   Sherry Sullivan
+      *   Lee Turner
+      *   Mr. Jay Robinson
+      *   Congressman Bradley Byrne
+      *   Mike Hubbard
+      *   Publix
+    llm_text: Mayor Kant and Senator Pittman siphoned $636,000 of BP funds for a contract, triggering an FBI investigation. Discover how Mayor Kant and Arthur Corte rigged Fly Creek zoning to benefit Publix, proving local corruption runs deep.
+    widget_date: "2016-06-03"
+    generated_at: "2026-11-09T11:15:58.095057Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

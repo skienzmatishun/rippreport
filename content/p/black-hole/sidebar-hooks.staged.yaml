@@ -1,0 +1,121 @@
+metadata:
+  generated_at: "2026-11-08T20:33:29.760344Z"
+  generator_version: 1.0.0
+  post_slug: black-hole
+  main_date: "2017-11-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  say-goodbye-incumbents:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioners saddled the county constitution with a $35 million+ mega site financed on the backs of county employees. (Article 2 is older).
+      THE DISCOVERY: Article 2 detailed local political corruption involving incumbents like Frank Burt, Tucker Dorsey, and Trip Pittman, who were connected to Catalyst and Summitt Construction.
+      THE PIVOT: Article 2 provides historical context on local political dysfunction and corporate influence in Alabama, predating the focus in Article 1 on Judge Roy Moore's divisive state Senate campaign, demonstrating a pattern of political disconnect across Alabama governance (local vs. state).
+      KEY ENTITIES: Judge Roy Moore, Richard Shelby, Jones, Billy-Jo Underwood, Callaghan, Chris Elliott, Gruber, Jeb-Ball, John Lake, Pittman, Tucker Dorsey, Clarence Burke, Frank Burt, Catalyst, Summitt Construction, Baldwin County Commissioners.
+    llm_text: Baldwin County Commissioners saddled county employees with a $35M+ mega site. Incumbents like Frank Burt and Tucker Dorsey tied to Catalyst and Summitt Construction fueled local political corruption.
+    widget_date: "2017-11-03"
+    generated_at: "2026-11-08T20:26:58.734798Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  its-no-joke:
+    brief: |-
+      THE CONFLICT:
+      *   Alabama Senate race involving Roy Moore and potential opponent Jones.
+      *   Richard Shelby currently serves as one of Alabama's US Senators.
+      *   Moore traveled to Washington last week and was shunned by most of his own party.
+
+      THE DISCOVERY:
+      *   If Roy Moore is elected Senator, Alabama will lose hundreds of millions or billions of dollars.
+      *   Companies (international and US) will stay away from Alabama due to Moore's promoted views (social injustice, bigoted views, religious hypocrisy).
+      *   H Bryant Ayers stated Moore would compel Alabama to embarrass itself by prioritizing personal religious beliefs over the Constitution.
+
+      THE PIVOT:
+      *   Article 2 establishes the severe economic consequence (billions in loss and corporate isolation) tied to Moore's election, providing the factual basis for Article 1's "black hole" metaphor.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Richard Shelby
+      *   Jones
+      *   H Bryant Ayers
+      *   Alabama
+    llm_text: Roy Moore risks losing Alabama billions because his views alienate international and US companies. Don't miss how this Senate race impacts Alabama's economy, not just its politics.
+    widget_date: "2017-11-01"
+    generated_at: "2026-11-08T20:28:46.736732Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethics-comedians:
+    brief: |-
+      THE CONFLICT:
+      Past investigations by the Alabama Ethics Commission regarding Burrell and Hix (10-month investigation dismissed); Senator Trip Pittman was appointed trustee of BP funds and entrusted himself with $750,000 in municipal contracts during the BP Boom scandal.
+
+      THE DISCOVERY:
+      The Ethics Commission's standard operating procedure is to dismiss lengthy investigations with a simple statement ("not probable cause") despite extensive documentation, indicating a systemic failure to enforce the Alabama Ethics Act.
+
+      THE PIVOT:
+      The historical pattern of the Ethics Commission turning a blind eye to corruption involving figures like Senator Trip Pittman provides context for the current political debate surrounding Judge Roy Moore, highlighting systemic ethical issues within Alabama elected office.
+
+      KEY ENTITIES:
+      Roy Moore (Judge/Senator candidate)
+      Richard Shelby (Senator)
+      Trip Pittman (Senator)
+      Burrell
+      Hix
+      Alabama Ethics Commission
+      $750,000
+      Alabama Ethics Act
+    llm_text: The Alabama Ethics Commission dismissed Burrell and Hix but let Senator Trip Pittman manage $750,000 in BP contracts. Understand this history of systemic failure to enforce the Alabama Ethics Act as you evaluate the current political debate around Judge Roy Moore.
+    widget_date: "2017-10-19"
+    generated_at: "2026-11-08T20:29:31.506505Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-corruption:
+    brief: |-
+      THE CONFLICT: 4 state lawmakers convicted since 2014; Luv Gov resigned; Speaker of the House Hubbard is packing for jail; Luther (Attorney General) turned a blind eye to Sen. Pittman who skimmed $750,000 from BP.
+      THE DISCOVERY: Alabama is the most corrupt state in the US; the Ethics Commission lacks credibility, and members (Jerry Fielding, Frank "Butch" Ellis, Jr., and Charles Price) are viewed as being part of the corrupt system, not fighting it.
+      THE PIVOT: Article 2 establishes a history of deep, systemic, and institutionalized corruption in Alabama state and local government (including city councils and the legislature), providing the critical context for the political concerns raised in Article 1 regarding Judge Roy Moore's potential impact on a state already defined by ethical failure.
+      KEY ENTITIES: Judge Roy Moore, Richard Shelby, Ethics Commission, Dr. Stewart Hill Tankersley, Jerry Fielding, Frank "Butch" Ellis, Jr., Charles Price, Sen. Pittman, Luther (AG), Hubbard, Fairhope City Council, Alabama.
+    llm_text: Alabama is the most corrupt state in the US, with four lawmakers convicted since 2014 and Speaker Hubbard packing for jail. The Ethics Commission—including Jerry Fielding and Frank Ellis—failed to stop scandals like Sen. Pittman skimming $750,000 from BP.
+    widget_date: "2017-10-04"
+    generated_at: "2026-11-08T20:30:37.982133Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blood-in-the-water:
+    brief: |-
+      THE CONFLICT:
+      *   Moore/Jones runoff for Alabama Senate election occurred in December 2017.
+      *   Judge Moore previously violated his oath of office after swearing to uphold state/country laws without prejudice.
+
+      THE DISCOVERY:
+      *   Voter turnout in the 2017 runoff was 14.39% (451,161 voters out of 3,134,166 registered).
+      *   Moore was noted as being right of the Tea Party and polarizing the Republican party.
+
+      THE PIVOT:
+      *   Article 2 established Judge Moore's controversial history (oath violation, political divisiveness, Republican establishment alarm) before the current fear (Article 1) that he will harm the party as a Senator.
+
+      KEY ENTITIES:
+      *   Judge Roy Moore
+      *   Doug Jones
+      *   Richard Shelby
+      *   Tripp Pittman
+      *   Big Luther
+      *   Alabama
+      *   December 2017
+    llm_text: Judge Roy Moore violated his oath of office before the December 2017 Alabama Senate runoff against Doug Jones. Discover how Moore’s polarizing history and controversial views continue to shape Alabama politics today.
+    widget_date: "2017-09-27"
+    generated_at: "2026-11-08T20:31:43.016049Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-moore-strange:
+    brief: |-
+      THE CONFLICT: Roy Moore was thrown off the Alabama Supreme Court, TWICE.
+      THE DISCOVERY: Prior to the Senate race, Article 2 established Alabama was last in almost every category except football and political corruption, attributing issues to elected officials.
+      THE PIVOT: Article 2 provides the foundational context of Moore's legal history (Supreme Court removals) and the state's endemic political corruption, explaining why his candidacy (discussed in Article 1) leads to the "black hole" equivalent for Alabama politics and results in him being shunned by his own party in Washington.
+      KEY ENTITIES: Roy Moore, Big Luther Strange, Richard Shelby, Sen. Trip Pittman, Jones, Mitch McConnell, Alabama Supreme Court, Luv Gov
+    llm_text: Roy Moore was removed from the Alabama Supreme Court twice. See how his legal history connects to Alabama's endemic political corruption, explaining why his candidacy is now shunned by his own Washington party.
+    widget_date: "2017-09-22"
+    generated_at: "2026-11-08T20:27:53.450474Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  corruption-is-legal-in-america:
+    brief: |-
+      THE CONFLICT: Systemic political corruption is flourishing in Alabama, evidenced by only 17% voter turnout. Past incidents include the Fairhope Airport Authority scandal, soccer fields, lawsuits, fly creek apartments, and the sewer plant contract.
+      THE DISCOVERY: The Alabama Ethics Commission has proven fruitless in addressing corruption, necessitating citizens to implement anti-corruption standards at the municipal level across the 14 municipalities in Baldwin County.
+      THE PIVOT: Moore's potential Senate run (Black Hole) is contextualized by the documented state-level failure of anti-corruption efforts and low civic engagement, suggesting the problem is institutional decay rather than solely candidate ideology.
+      KEY ENTITIES: Roy Moore, Richard Shelby, Jones, Alabama Ethics Commission, Baldwin County, Fairhope Airport Authority
+    llm_text: Systemic corruption, seen in the Fairhope Airport Authority scandal, plagues Alabama with only 17% voter turnout. Since the Alabama Ethics Commission failed, Baldwin County citizens must now drive anti-corruption standards across 14 municipalities.
+    widget_date: "2017-09-13"
+    generated_at: "2026-11-08T20:32:56.499337Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

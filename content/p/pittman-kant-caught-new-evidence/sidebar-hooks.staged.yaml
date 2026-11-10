@@ -1,0 +1,64 @@
+metadata:
+  generated_at: "2026-11-09T14:16:59.377559Z"
+  generator_version: 1.0.0
+  post_slug: pittman-kant-caught-new-evidence
+  main_date: "2014-02-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bp-restore-act-fraud:
+    brief: |-
+      THE CONFLICT:
+      *   April 2013: Fairhope City Council authorized settlement for a long-standing lawsuit against the city, leading to $3 million in attorney fees, $3 million down payment, and a $5.75 million debt, without public notice or participation (Open Meeting Rule violation).
+      *   October 2013: City Council went into executive session, announced the settlement, and then held public participation afterward.
+      *   July 2010: Thompson Engineering completed a $4.6 million (ballooned to $5.2 million) steel boom crossing Perdido Pass that failed and stopped no oil.
+      *   Past: Tim Kant and Trip Pittman were subjects of multiple BP fraud investigations.
+
+      THE DISCOVERY:
+      *   Fairhope was applying for BP Restore Act funds for the Fly Creek Watershed Restoration Project, based on a flawed "Study" developed by Thompson Engineering.
+      *   The study omitted that the majority of the watershed is privately owned by the Corte family and that Arthur Corte caused creek damage via his Publix supermarket development.
+      *   Tim Kant and Trip Pittman were involved in the scheme to acquire millions from Restore Act Funds.
+
+      THE PIVOT:
+      *   The 2013 actions (Widget Article) established the fraudulent basis (flawed study, omission of damage, lack of public input) for the BP Restore Act application.
+      *   The 2014 event (Main Article) reveals that Tim Kant and Trip Pittman actively conspired to cover up their involvement in the Boom Grant Fraud Case by manufacturing and signing documents (using Kant's signature on a letter written by Leigh Anne Ryals) to eliminate incriminating evidence.
+
+      KEY ENTITIES:
+      *   Tim Kant (Mayor of Fairhope)
+      *   Trip Pittman (Senator)
+      *   Leigh Anne Ryals (Baldwin County Emergency Management Director)
+      *   Arthur Corte (Corte family/Publix supermarket owner)
+      *   Thompson Engineering
+      *   Fairhope City Council
+      *   BP Restore Act
+      *   Fly Creek Watershed Restoration Project
+      *   April 2013, October 2013, February 10, 2014, February 12, 2014
+    llm_text: Fairhope City Council approved a $5.75 million debt in April 2013 without public notice. Mayor Tim Kant and Senator Trip Pittman conspired using a flawed Thompson Engineering study to steal BP Restore Act funds from the Corte family.
+    widget_date: "2013-11-01"
+    generated_at: "2026-11-09T14:15:10.817606Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  triangle-lawsuit-settlement-2013:
+    brief: |-
+      THE CONFLICT:
+      Mayor Timothy Kant was involved in the BP boom scandal and grant fraud, leading to his subpoena by a federal grand jury in Mobile. This was tied to the Triangle Lawsuit, where the City of Fairhope purchased Triangle property for $8.7 million (cumulative effective cost at least $11 million).
+
+      THE DISCOVERY:
+      Article 2 detailed the City of Fairhope's application for $500 million from BP through projects including the Fly Creek Restoration Project Number Three and the TTI Swamp project, alleging corruption and misleading statements in the Restore Act application related to developer Arthur Corte.
+
+      THE PIVOT:
+      Article 2 establishes Mayor Kant's documented prior involvement in BP grant fraud and the Triangle Lawsuit, providing the foundational context for Article 1, where Mayor Kant and Senator Trip Pittman are accused of conspiring to cover up this pre-existing boom grant fraud case through document manufacturing and misrepresentation.
+
+      KEY ENTITIES:
+      Tim Kant (Mayor of Fairhope)
+      Trip Pittman (Senator Lee)
+      Leigh Anne Ryals (Baldwin County Emergency Management Director)
+      F. Paul Ripp (Fairhope resident/author)
+      Arthur Corte (Publix developer)
+      BP (Corporation)
+      Fairhope
+      Baldwin County
+      Triangle Lawsuit
+      Mobile FBI (investigating body)
+    llm_text: Mayor Timothy Kant faced a federal subpoena over BP grant fraud and the $500 million Fairhope application tied to the Triangle Lawsuit. Now, Kant and Senator Trip Pittman allegedly conspired to cover up this pre-existing corruption through document manufacturing.
+    widget_date: "2013-10-28"
+    generated_at: "2026-11-09T14:16:29.772011Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

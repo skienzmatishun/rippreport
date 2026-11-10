@@ -1,0 +1,59 @@
+metadata:
+  generated_at: "2026-11-09T11:44:47.906652Z"
+  generator_version: 1.0.0
+  post_slug: manley-road-sidewalk-conflicts
+  main_date: "2016-03-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  intimidation-tool-of-corruption:
+    brief: |-
+      THE CONFLICT: Past political actions in Fairhope, including Mayor Kant using intimidation tactics against employees and citizens, and the Planning and Zoning board resisting public participation by the Ripp Report writer.
+      THE DISCOVERY: Article 2 revealed a pervasive system of corruption and intimidation ("good ole boys") in Baldwin County, particularly involving Mayor Kant and the approval of Fly Creek Apartments.
+      THE PIVOT: Article 2 established Mayor Kant's history of using heavy-handed tactics and intimidation against dissenters (like the Ripp Report writer) regarding Fly Creek Apartments, providing context that the specific 2016 conflict of interest (Robards/Turner) is part of a larger, entrenched system of political control, not an isolated incident.
+      KEY ENTITIES: Mayor Kant, George Robards, Lee Turner, City of Fairhope, Fairhope Single Tax Corporation, Manley Road, Fly Creek Apartments, Planning and Zoning, Ripp Report
+    llm_text: Mayor Kant used intimidation tactics against citizens, including the Ripp Report writer, regarding Fly Creek Apartments. This reveals the 2016 conflict involving George Robards and Lee Turner is part of a pervasive system of "good ole boys" corruption in Baldwin County.
+    widget_date: "2016-02-26"
+    generated_at: "2026-11-09T11:42:26.684438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-special-meeting-request:
+    brief: |-
+      THE CONFLICT:
+      *   Feb 12, 2016: F. Paul Ripp requested a special City Council meeting regarding Fly Creek Apartments due to high public opposition (250+ to 300+ attendance).
+      *   March 14, 2016: City of Fairhope authorized a partnership with the Fairhope Single Tax Corporation for Manley Road sidewalk construction.
+      *   Ongoing Conflict: George Robards (contractor/P&Z member) receives sidewalk contracts, creating a conflict of interest since Lee Turner (P&Z President) is also President of Single Tax.
+      *   Political Context: Mayor Kant appointed George Robards to Planning and Zoning Board; Robards is a major contributor to Mayor Kant's reelections.
+      *   Upcoming Event: March 28, 2016, Council planned to approve Fly Creek Apartments despite public opposition.
+
+      THE DISCOVERY:
+      *   Article 2 (Feb 12, 2016) revealed significant public concern and high attendance during planning meetings for Fly Creek Apartments, challenging the Council's transparency.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of controversial, potentially non-transparent decision-making (Fly Creek approval) by the Council, providing the context that makes the subsequent conflict of interest regarding Manley Road sidewalk contracts (Article 1) a continuation of a 'good ole boy deal.'
+
+      KEY ENTITIES:
+      *   F. Paul Ripp
+      *   Mayor Kant
+      *   George Robards (Contractor, Planning and Zoning Board member)
+      *   Lee Turner (Planning and Zoning President, Single Tax President)
+      *   Fairhope Single Tax Corporation
+      *   City of Fairhope
+      *   Fly Creek Apartments
+      *   Manley Road
+      *   Planning and Zoning
+    llm_text: Fly Creek opposition showed Council opacity, setting the stage for a "good ole boy deal." Mayor Kant appointed George Robards to P&Z while Lee Turner runs Single Tax, linking his sidewalk contracts to the Mayor's influence.
+    widget_date: "2016-02-12"
+    generated_at: "2026-11-09T11:43:29.242121Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-drainage-ditch:
+    brief: |-
+      THE CONFLICT: Mayor Tim Kant used his control of planning and zoning to facilitate the Fly Creek PUD zoning change for developer Arthur Corte (Publix property) in January 2016, resulting in 285 apartments and 15 townhomes, despite prior environmental damage and a $12 million triangle lawsuit settlement.
+
+      THE DISCOVERY: The Widget Article reveals Mayor Kant's historical pattern of overriding public participation and environmental concerns to benefit preferred developers like Arthur Corte via P&Z manipulation.
+
+      THE PIVOT: The Widget Article establishes the pattern of Mayor Kant prioritizing donor deals through P&Z control; the Main Article shows this pattern continuing in March 2016 through the Manley Road sidewalk contract, where Kant appointed George Robards (a major donor) to P&Z, creating a conflict of interest with Lee Turner (President of P&Z and Single Tax).
+
+      KEY ENTITIES: Mayor Tim Kant, Arthur Corte, George Robards, Lee Turner, Fairhope Single Tax Corporation, City of Fairhope, Manley Road, Fly Creek PUD.
+    llm_text: Mayor Tim Kant pushed the Fly Creek PUD for Arthur Corte (Publix) in 2016, ignoring environmental damage and a $12 million lawsuit. See how Kant consistently uses zoning to benefit donors, like George Robards, instead of Fairhope residents.
+    widget_date: "2014-12-26"
+    generated_at: "2026-11-09T11:44:30.479875Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

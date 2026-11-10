@@ -1,0 +1,113 @@
+metadata:
+  generated_at: "2026-11-09T01:33:52.743004Z"
+  generator_version: 1.0.0
+  post_slug: misery-loves-company
+  main_date: "2017-06-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  joke:
+    brief: |-
+      THE CONFLICT:
+      1. Purchase of Fairhope soccer field land for 5 to 6 million dollars was negotiated under Mr. Boone and Mr. Burrell’s last term in office.
+      2. Sen. Pittman was involved in a BP Fraud Complaint concerning the land acquisition.
+
+      THE DISCOVERY:
+      1. The land owners for the soccer complex included JOKE LLP.
+      2. A citizen committee produced a 130-page report and a 40-page supplement investigating the land purchase.
+
+      THE PIVOT:
+      1. The historical financial opacity and questionable land deals (JOKE LLP) in Fairhope establish a pattern of governance and lack of transparency that directly correlates with the current zoning disputes, increased traffic, and lack of resident notification in Daphne/Daphmont.
+
+      KEY ENTITIES:
+      1. Daphne
+      2. Fairhope
+      3. JOKE LLP
+      4. Daphmont neighborhood (Johnson road/highway 98)
+      5. Rock Creek
+      6. Sen. Pittman
+      7. Mr. Boone
+      8. Mr. Burrell
+    llm_text: The $5-6M Fairhope soccer field land deal, involving JOKE LLP and Sen. Pittman's BP Fraud Complaint, shows historical opacity. These questionable deals by Mr. Boone and Mr. Burrell directly link to today's Daphne/Daphmont zoning disputes and increased traffic.
+    widget_date: "2017-06-16"
+    generated_at: "2026-11-09T01:27:53.209014Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  self-incrimination:
+    brief: |-
+      THE CONFLICT: Mayor Karin Wilson of Fairhope posted a statement on June 11th regarding personnel claims and city transparency. Jack Burrell, city council president and airport authority liaison, leaked a "confidential" letter written by the mayor's attorney to the City Council. The Gulf Coast News published portions of this letter on June 12th.
+      THE DISCOVERY: Article 2 revealed internal political conflict within Fairhope City Council, specifically involving Jack Burrell's actions (self-incrimination regarding the airport scandal) and the council's obstruction of Mayor Wilson's efforts toward transparency and efficient city management.
+      THE PIVOT: The political resistance and perceived lack of leadership/denial of facts highlighted in Article 2 (Council opposition to Wilson) provides the context for the current zoning issues in Article 1, where residents (Daphmont) face opposition from non-residents/developers, and the city council's alleged refusal to adapt or address resident concerns (e.g., traffic, quality of life) is rooted in the systemic resistance noted in the earlier political conflict.
+      KEY ENTITIES: Mayor Karin Wilson, Jack Burrell, Fairhope, Fairhope Schools, Daphmont neighborhood, Johnson road, highway 98, Fly Creek Apartments, Rock Creek, Dale Rd, Parker Rd, Sandy Ford, Gulf Coast News, Betty Joe Wolff.
+    llm_text: Mayor Karin Wilson battled Jack Burrell and City Council over transparency in Fairhope. Discover how that political resistance now blocks Daphmont residents from resolving critical zoning issues with developers.
+    widget_date: "2017-06-15"
+    generated_at: "2026-11-09T01:29:57.368711Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boycott-the-gas-station-on-the-new-roundabout:
+    brief: |-
+      THE CONFLICT: Gas station construction was completed on a safety roundabout in Fairhope during the last administration (Mayor Kant, County Commissioner Elliott, Boone, and Jack "Come Fly With Me" Burrell).
+      THE DISCOVERY: The previous Fairhope City Council unanimously approved the gas station placement and a $40,000 handshake deal, despite safety negligence and concerns over the "good ole boy network."
+      THE PIVOT: The initial failure to manage infrastructure (gas station on roundabout) has resulted in ongoing, severe traffic congestion at the Highway 98/Johnson Road intersection, which now exacerbates new development impacts (Fly Creek Apartments, proposed Daphne service station) and opposing connectivity plans (Rock Creek to Dale Rd).
+      KEY ENTITIES: Fairhope, Daphne, Daphmont neighborhood, Mayor Kant, County Commissioner Elliott, Chris Elliott, Jack "Come Fly With Me" Burrell, Trip Pittman, Fly Creek Apartments, Johnson road/Highway 98, Rock Creek.
+    llm_text: Mayor Kant and Commissioner Elliott approved a $40,000 deal to place a gas station on a Fairhope roundabout, ignoring safety concerns. This failure now causes severe congestion at Highway 98/Johnson Road, stalling growth like Fly Creek Apartments.
+    widget_date: "2017-05-24"
+    generated_at: "2026-11-09T01:31:03.148077Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  economic-development-baldwin-county-style:
+    brief: |-
+      THE CONFLICT: In 2012, the Baldwin County Commission spent $32 Million on 2300 usable acres called the Mega site.
+      THE DISCOVERY: The Mega site remains vacant; Council President Jack Burrell (Fairhope) cut economic and community development funding for a new department but approved an undocumented $32,000 bill.
+      THE PIVOT: Both articles detail a pattern of questionable economic development decisions (Mega site spending, undocumented invoices, zoning changes) where developers/officials push projects that negatively impact local residents (Daphmont neighborhood traffic/zoning vs. county/city economic goals).
+      KEY ENTITIES: Daphne, Fairhope, Daphmont neighborhood, Johnson road, Highway 98, Rock Creek, Baldwin County Commission, Jack Burrell, Fairhope Airport, 3000-Acre Certified South Alabama MEGA SITE, Fly Creek Apartments, Dale Rd, Parker Rd, Sandy Ford.
+    llm_text: Baldwin County spent $32 million on the vacant 3000-Acre Mega Site. Council President Jack Burrell approved an undocumented $32,000 bill while cutting development funding—what does this spending mean for the Daphmont neighborhood?
+    widget_date: "2017-05-17"
+    generated_at: "2026-11-09T01:31:42.204085Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-days-are-here-again:
+    brief: |-
+      THE CONFLICT: Fairhope's previous administration left 'baggage' inherited by the new council (Article 2 context).
+      THE DISCOVERY: Fairhope’s mayor extended an olive branch to the city council, resulting in a civil, polite, and cordial last council meeting (Article 2).
+      THE PIVOT: While Article 2 advocated for transparency and internal reviews, Article 1 shows the opposite: Daphne residents were last to be notified regarding development, and the city stated the project was approved 'years ago,' ignoring resident concerns (Article 1).
+      KEY ENTITIES: Daphne, Fairhope, Daphmont neighborhood, Johnson road, Highway 98, Fly Creek Apartments, Rock Creek, Wilson
+    llm_text: Despite a civil Fairhope council meeting, Daphne residents were last to learn about the Fly Creek Apartments development on Johnson Road. City officials approved this project years ago, ignoring Daphmont neighborhood concerns near Highway 98.
+    widget_date: "2017-05-10"
+    generated_at: "2026-11-09T01:32:42.498448Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-alive-and-well:
+    brief: |-
+      THE CONFLICT:
+      *   October 21st/24th: Fairhope City Council reviewed Resolution 2606-16, accepting a deed of property from Angelo A. Corte to the city for a sewer lift station.
+      *   Council overrode Mayor Kant’s veto regarding an ordinance amending Ordinance No. 1572 (Fly Creek PUD).
+      *   Tim Kant was Mayor; Jack Burrell presided over the meeting; Marion Wynne was City Attorney.
+
+      THE DISCOVERY:
+      *   The gifted property (three+ acres of wetlands) was misrepresented as a small plot for a lift station.
+      *   The wetlands receive stormwater runoff from the Publix site and contain the retention pond outfall pipe.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Fly Creek PUD was approved years ago via a council action that superseded the mayor’s veto, providing the historical justification the city uses in Article 1 ("project was approved years ago").
+      *   Article 2 reveals the political dynamics (Burrell, Kant, council influence) that facilitated the development, which is now causing specific resident issues (traffic, zoning changes) detailed in Article 1 in the Daphmont neighborhood.
+
+      KEY ENTITIES:
+      *   Tim Kant (Mayor)
+      *   Jack Burrell
+      *   Marion Wynne (City Attorney)
+      *   Angelo A. Corte
+      *   Robert Brown
+      *   Sherry-Lea Bloodworth-Botop
+      *   Fly Creek Apartments / Fly Creek PUD (Ordinance No. 1572)
+      *   Daphmont neighborhood (Johnson road/Highway 98)
+      *   Fairhope City Council
+      *   Rock Creek
+    llm_text: Despite Mayor Tim Kant's veto, Fairhope City Council took three+ acres of misrepresented wetlands from Angelo A. Corte for a sewer lift station. Learn how Jack Burrell and Marion Wynne facilitated this development now affecting Daphmont traffic.
+    widget_date: "2017-04-26"
+    generated_at: "2026-11-09T01:29:03.696226Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  recuse-yourself:
+    brief: |-
+      THE CONFLICT: Fairhope City Council previously ignored conflicts of interest involving Councilman Boone, specifically related to the voting on the extension of the sunset clause for Fly Creek Apartments and Preble-Rish issues. Boone had undisclosed business interests with Preble-Rish and Angelo Corte prior to election.
+      THE DISCOVERY: The widget article revealed documented conflicts of interest held by Mr. Boone regarding Fly Creek Apartments and Preble-Rish, dating back before he was elected.
+      THE PIVOT: The past conflicts of interest (Boone/Fly Creek) provide context that the current zoning approval in Daphne/Daphmont ("approved years ago") may not have been unbiased, raising questions about the integrity of the development process affecting Daphmont neighborhood.
+      KEY ENTITIES: Daphne, Daphmont neighborhood, Johnson road, highway 98, Fly Creek Apartments, Fairhope City Council, Mr. Boone, Catalyst, Mr. Angelo Corte, Preble-Rish, Rock Creek.
+    llm_text: Councilman Boone hid conflicts involving Fly Creek Apartments and Preble-Rish before his election. These past deals raise serious questions about the unbiased zoning approvals affecting the Daphmont neighborhood.
+    widget_date: "2017-04-19"
+    generated_at: "2026-11-09T01:33:35.509536Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

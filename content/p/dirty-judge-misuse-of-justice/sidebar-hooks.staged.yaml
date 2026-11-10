@@ -1,0 +1,55 @@
+metadata:
+  generated_at: "2026-11-09T12:20:05.526158Z"
+  generator_version: 1.0.0
+  post_slug: dirty-judge-misuse-of-justice
+  main_date: "2015-08-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  scoop-on-poop:
+    brief: |-
+      THE CONFLICT: Beach poop incident; Mayor Kant issued false claims; sewage from pier bathrooms (under renovation) linked to contractor George Robards.
+      THE DISCOVERY: Sample collection was executed by sewer plant employees, not Auburn or ADEM; test results confirmed geese poop, not human waste.
+      THE PIVOT: Article 2 establishes a pattern of political coverup and conflict of interest (George Robards contracts/Planning & Zoning) by Mayor Kant, demonstrating The Ripp Report's methodology of exposing systemic misuse of power, which is then applied to the judicial corruption detailed in Article 1 (Judge Thomason/Judge Brackin).
+      KEY ENTITIES: Judge Thomason; Judge Brackin; Brackin Law Firm; George Robards; Mayor Kant; Lee Turner; Francis Paul Ripp; Baldwin County Substance Center; Auburn; ADEM.
+    llm_text: Mayor Kant falsely claimed beach poop was sewage, linking it to contractor George Robards. Sewer tests confirmed geese poop, exposing a political coverup tied to Mayor Kant's conflicts of interest and systemic misuse of power.
+    widget_date: "2015-07-13"
+    generated_at: "2026-11-09T12:18:30.373115Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-epicenter-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope experienced a "good ole boy" government system based on individuals maintaining conflicts of interest.
+      *   Senator Trip Pittman investigated for BP grant fraud engaged in sweetheart deals benefitting his personal wealth.
+      *   Mayor Tim Kant was under investigation for BP grant fraud and controlled Planning and Zoning, costing taxpayers millions.
+      *   Lee Turner (President of Planning and Zoning/Single Tax Colony) created a conflict of interest where Single Tax controlled 50% of city property.
+      *   George Robards, a major contributor to Mayor Kant, received contracts over $100,000 while on Planning and Zoning.
+
+      THE DISCOVERY:
+      *   Fairhope spent $17 Million in lawsuits and parks compared to $350 Thousand for education, averaging $10,625 per voter for parks and $21.88 per voter for education.
+      *   The city system was compromised by council members and city employees fearing retaliation from Mayor Kant.
+
+      THE PIVOT:
+      *   The articles do not factually connect; Article 2 details municipal political corruption in Fairhope (Baldwin County) and Article 1 details judicial and legal conflicts of interest in Baldwin County Family Court.
+      *   Article 2 provides historical context of systemic political corruption within the broader Baldwin County region, establishing a pattern of conflict of interest alongside the judicial misconduct described in Article 1.
+
+      KEY ENTITIES:
+      *   Judge Thomason
+      *   Judge Brackin
+      *   Brackin Law Firm
+      *   DA Wilters
+      *   Baldwin County Substance Center ("Judges" nonprofit)
+      *   Mayor Tim Kant
+      *   Senator Trip Pittman
+      *   Lee Turner
+      *   George Robards
+      *   Jennifer Fidler
+      *   Jack Burrell
+      *   Mike Ford
+      *   Kevin Boone
+      *   Tucker Dorsey
+      *   Fairhope
+      *   Baldwin County
+    llm_text: Fairhope taxpayers paid millions for parks while education received only $350K because of systemic corruption. Mayor Tim Kant and Senator Trip Pittman controlled sweetheart deals and BP grants, draining your money.
+    widget_date: "2015-06-05"
+    generated_at: "2026-11-09T12:19:45.778083Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

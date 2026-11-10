@@ -1,0 +1,48 @@
+metadata:
+  generated_at: "2026-11-09T14:24:10.789245Z"
+  generator_version: 1.0.0
+  post_slug: mikey-is-gone
+  main_date: "2013-09-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-political-corruption-exposed:
+    brief: |-
+      THE CONFLICT: Bob Riley (former Governor) steered $37.2 million of BP money to Brett-Robinson in Gulf Shores; Riley later registered as a lobbyist for Brett-Robinson.
+      THE CONFLICT: Federal case involving Mayor Tim Kant and Senator Lee "Trip" Pittman was pending following a November 10, 2010, Mobile Press-Register article.
+      THE DISCOVERY: Article 2 revealed the long-running pattern of political machine corruption in Alabama, specifically linking BP Boom funds to Mayor Kant and Senator Pittman under the direction of Special Prosecutor Matt Hart.
+      THE PIVOT: Article 2 established the historical foundation of corruption (BP/Kant/Pittman/Riley) that Article 1 confirms is ongoing, as Matt Hart is currently investigating Kant and Pittman, and the political machine (controlled by Republicans) remains implicated in current controversies involving Governor Bentley and Mike Hubbard.
+      KEY ENTITIES: Bob Riley, Robert Bentley, Tim Kant, Lee "Trip" Pittman, Matt Hart, Bradley Byrne, Luther Strange, Mike Hubbard, Connie Bagget, Alabama State Attorney General's Office, BP Boom Scandal.
+    llm_text: Former Governor Bob Riley steered $37.2 million of BP money to Brett-Robinson and later lobbied them. Matt Hart continues investigating the long-running political machine corruption involving Tim Kant and Lee "Trip" Pittman.
+    widget_date: "2013-09-04"
+    generated_at: "2026-11-09T14:22:36.383536Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  judge-sentences-bayou-la-batre-mayor:
+    brief: |-
+      THE CONFLICT:
+      1. Mayor Tim Kant and Senator Trip Pittman were involved in a three-year BP Boom fraud and coverup scandal in Bayou La Batre/Fairhope.
+      2. U.S. District Judge Kristi DuBose sentenced a public official for corruption, stating the behavior undermined the criminal justice system.
+      3. This scandal involved millions flowing in and impacted county-level jobs and municipal elections in Fairhope.
+
+      THE DISCOVERY:
+      1. On June 30, 2013, the Mobile Press Register reported on the judicial findings regarding the BP corruption in Bayou La Batre.
+      2. The article confirmed the Fairhope Courier ignored the BP Boom Scandal and related federal investigations despite having documents.
+
+      THE PIVOT:
+      1. The 2013 sentencing confirms the existence and severity of the BP corruption involving Trip Pittman and Mayor Kant, providing historical context for the Main Article's contemporary mention of the "Mobile Tar Sands Debacle" and BP Corruption.
+      2. It validates the Main Article's criticism of the Fairhope Courier's lack of legitimate reporting on political corruption.
+
+      KEY ENTITIES:
+      1. Trip Pittman (Senator)
+      2. Mayor Tim Kant
+      3. U.S. District Judge Kristi DuBose
+      4. BP Boom Scandal
+      5. Fairhope Courier
+      6. Alabama Attorney General Luther Strange
+      7. Governor Robert Bentley
+      8. Matt Hart (Alabama Attorney General Office Special Prosecutor)
+      9. Mike Hubbard (Alabama Speaker of the House)
+      10. Chad Fincher (Representative)
+    llm_text: Mayor Tim Kant and Senator Trip Pittman fueled a three-year BP Boom fraud scandal in Bayou La Batre. Judge Kristi DuBose confirmed the corruption, but the Fairhope Courier ignored these federal findings that undermined justice and impacted county jobs.
+    widget_date: "2013-06-30"
+    generated_at: "2026-11-09T14:23:40.249675Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,97 @@
+metadata:
+  generated_at: "2026-11-09T02:37:00.869001Z"
+  generator_version: 1.0.0
+  post_slug: boycott-the-gas-station-on-the-new-roundabout
+  main_date: "2017-05-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  who-not-to-vote-for:
+    brief: |-
+      THE CONFLICT: Tripp Pittman, state senator and partner of Jack Burrell, announced he would not seek re-election for state senate; he ran for Jeff Sessions’ U.S. Senate seat. Baldwin County Commissioner Chris Elliott ran for Pittman’s State Senate seat. This was linked to Pittman having used his elected office for personal enrichment during a BP catastrophe using BP cash.
+      THE DISCOVERY: The "good ole boys" (GOBs) and Catalyst were actively placing candidates (Pittman, Elliott) into strategic elected positions, establishing a pattern of political maneuvering tied to disaster mitigation and construction services (The Elliott Companies, Inc.).
+      THE PIVOT: Article 2 demonstrates that key figures (Pittman, Elliott) are part of a broader, established network of political influence and financial ties (BP cash/catastrophe restoration), providing context for the accusations in Article 1 regarding the "good ole boy network" responsible for the $40,000 handshake deal and the gas station placement on the Fairhope roundabout.
+      KEY ENTITIES: Jack Burrell, Chris Elliott, Tripp Pittman, Tim Kant, Jeff Sessions, Catalyst, Fairhope City Council
+    llm_text: Tripp Pittman and Chris Elliott built their political power within the "good ole boys" network using BP catastrophe cash. Learn how these figures leveraged disaster relief for personal enrichment and influence.
+    widget_date: "2017-05-19"
+    generated_at: "2026-11-09T02:30:31.517453Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  economic-development-baldwin-county-style:
+    brief: |-
+      THE CONFLICT: In 2012, the Baldwin County Commission spent $32 million on 2300 usable acres (Mega site). In the last administration (prior to election), Fairhope approved a $40 thousand handshake deal from a previous mayor without any invoice or paperwork. The gas station construction on the Fairhope roundabout occurred during this period.
+
+      THE DISCOVERY: Article 2 revealed how Baldwin County made questionable economic development decisions (e.g., $32 million Mega site, skimming $5 million from penny school tax) and highlighted the pattern of unvoted, high-cost projects.
+
+      THE PIVOT: Article 2 establishes a historical pattern of questionable, high-cost "economic development" and financial mismanagement by county officials, providing context for the accusations that the local Fairhope City Council (Article 1) is part of a "good ole boy network" enabling the gas station and other financial irregularities.
+
+      KEY ENTITIES: Jack “Come Fly With Me” Burrell, Chris Elliott, Tim Kant, Trip Pittman, Fairhope City Council, Baldwin County Commission, Fairhope Airport, ALDOT, Fairhope Avenue and 13.
+    llm_text: Baldwin County spent $32 million on a Mega site, showing a pattern of questionable high-cost "economic development." Fairhope later approved a $40k handshake deal for the roundabout gas station without paperwork—see how this financial mismanagement impacts your local community.
+    widget_date: "2017-05-17"
+    generated_at: "2026-11-09T02:32:38.231142Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-days-are-here-again:
+    brief: |-
+      THE CONFLICT: Gas station construction on a safety roundabout at Fairhope Avenue and 13 occurred in the "last administration." Key figures included Mayor Tim Kant, County Commissioner Chris Elliott, and Councilmen Jack "Come Fly With Me" Burrell and Boone. The council approved a $40,000 handshake deal without invoice or paperwork.
+
+      THE DISCOVERY: The new city council inherited "baggage" and controversial subjects from the previous administration and was urged to adopt transparency and conduct internal reviews.
+
+      THE PIVOT: Article 2 establishes the new council's awareness that they were inheriting unresolved and controversial municipal issues, which Article 1 then identifies as the specific, compromised matter: the gas station on the roundabout, a result of the previous administration's actions.
+
+      KEY ENTITIES: Fairhope, Jack "Come Fly With Me" Burrell, Tim Kant, Chris Elliott, Boone, Trip Pittman, Fairhope Avenue and 13, $40,000.
+    llm_text: Mayor Tim Kant and County Commissioner Chris Elliott approved a $40,000 handshake deal for gas station construction at Fairhope Avenue and 13. The new city council now tackles this controversial inheritance, demanding full transparency regarding the previous administration’s actions.
+    widget_date: "2017-05-10"
+    generated_at: "2026-11-09T02:33:50.833433Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-alive-and-well:
+    brief: |-
+      THE CONFLICT: Previous council under Mayor Tim Kant (last administration) approved Resolution 2606-16 (recorded October 21st/24th) accepting a deed for a sewer lift station/wetlands from Angelo A. Corte, involving Councilmen Burrell and Boone.
+      THE DISCOVERY: Article 2 revealed the "gift" was not just a small lift station lot but three plus acres of wetlands receiving storm water runoff from the Publix site, highlighting a questionable deal that Burrell initially dismissed as ignorance.
+      THE PIVOT: Article 2 establishes a pattern of political influence and questionable deals ("good ole boy network") under Kant, providing historical context for Article 1's claim that the gas station on the roundabout was secretly paved and approved by the same network, overriding safety and transparency.
+      KEY ENTITIES: Jack "Come Fly With Me" Burrell, Tim Kant, Boone, Chris Elliott, Marion Wynne, Robert Brown, Angelo A. Corte, Pittman, Fairhope City Council, Fairhope Airport, Sherry-Lea Bloodworth-Botop
+    llm_text: Did Mayor Tim Kant’s council really accept a "gift" from Angelo A. Corte—three plus acres of wetlands and storm runoff—via Resolution 2606-16? Jack "Come Fly With Me" Burrell and Councilman Boone approved this questionable deal, revealing a pattern of political influence under the old guard.
+    widget_date: "2017-04-26"
+    generated_at: "2026-11-09T02:34:59.911296Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  recuse-yourself:
+    brief: |-
+      THE CONFLICT: Fairhope City Council members, specifically Mr. Boone, had undisclosed, pre-existing business conflicts of interest related to Preble-Rish, Angelo Corte, and Catalyst, which were ignored despite Alabama Ethics Commission guidelines.
+      THE DISCOVERY: Article 2 documented that Mr. Boone possessed a trail of LLCs and failed to disclose business interests (e.g., with Preble-Rish or Angelo Corte) prior to his election, requiring him to recuse himself from related votes (Fly Creek Apartments).
+      THE PIVOT: Article 2 provides historical, documented evidence of systemic conflicts of interest and prioritizing personal business over public duty, supporting Article 1’s claim that the gas station placement and associated $40,000 handshake deal were products of a "good ole boy network" rather than sound governance.
+      KEY ENTITIES: Fairhope City Council, Jack Burrell ("Come Fly With Me"), Chris Elliott, Tim Kant, Trip Pittman, Mr. Boone, Angelo Corte, Preble-Rish, Catalyst, Fly Creek Apartments, Fairhope Avenue and 13.
+    llm_text: Fairhope City Council member Mr. Boone failed to disclose business interests with Preble-Rish and Angelo Corte. See how his conflicts shaped decisions like the Fly Creek Apartments vote, showing personal business prioritized over public duty.
+    widget_date: "2017-04-19"
+    generated_at: "2026-11-09T02:35:54.543574Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-town-hall-meeting:
+    brief: |-
+      THE CONFLICT: Gas station was built on a safety roundabout at Fairhope Avenue and 13; previous administration unanimously approved a $40 thousand handshake deal without paperwork; the "Jack Burrell Come Fly With Me Municipal Airport" received more appropriation funds than Fairhope schools despite serving less than 1% of the community; involved parties included Jack “Come Fly With Me” Burrell, Tim Kant, Chris Elliott, and Boone.
+      THE DISCOVERY: The 2/16/2017 town hall meeting highlighted systemic issues, including the need to repeal Ordinance 1572, the risks of the Fly Creek issue costing millions, and the City Council President obstructing agenda items despite citizen demands.
+      THE PIVOT: Article 2 establishes the historical and ongoing pattern of prioritizing the Airport Authority (which holds 21% of city debt and receives excessive funding) over critical infrastructure like schools and environmental stability (Fly Creek), providing context for the systemic "good ole boy" network that allowed the gas station planning negligence in Article 1.
+      KEY ENTITIES: Fairhope, Jack “Come Fly With Me” Burrell, Tim Kant, Chris Elliott, Boone, Fairhope Schools, Airport Authority, Fly Creek, Fairhope Avenue and 13, $40 thousand.
+    llm_text: Jack “Come Fly With Me” Burrell’s administration approved a $40k gas station handshake deal on a safety roundabout while the Airport Authority got more funding than Fairhope Schools. See how this systemic "good ole boy" network prioritizes debt over critical infrastructure and risks millions with Fly Creek.
+    widget_date: "2017-02-15"
+    generated_at: "2026-11-09T02:31:37.261395Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  5000-00-cash-reward:
+    brief: |-
+      THE CONFLICT:
+      *   Formal complaint filed against Councilman Jack Burrell alleging he received free airplane transportation (something of value) from a winning bidder while serving as an elected official.
+      *   The complaint concerned his roles as Council President and Airport Authority Board member.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a formal complaint against Jack Burrell regarding alleged misuse of office and benefit from a bid selection process, prompting a $5000 cash reward to disprove the claims.
+
+      THE PIVOT:
+      *   Article 2 establishes a documented history of ethical and financial allegations against Jack Burrell, providing context for Article 1's accusations that Burrell and past city councils participated in a "good ole boy network" (e.g., approving a $40k handshake deal and facilitating the gas station on the roundabout).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Tim Kant (Previous Mayor)
+      *   Chris Elliott (County Commissioner)
+      *   Trip Pittman
+      *   Fairhope City Council
+      *   Fairhope Airport
+      *   The Ripp Report
+    llm_text: Councilman Jack Burrell faces a formal complaint over receiving free airplane transport from a winning bidder while serving on the Fairhope Airport Board. Discover his documented history of ethical allegations and the "good ole boy network" tied to city deals.
+    widget_date: "2017-02-08"
+    generated_at: "2026-11-09T02:36:50.310788Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

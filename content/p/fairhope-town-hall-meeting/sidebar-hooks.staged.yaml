@@ -1,0 +1,189 @@
+metadata:
+  generated_at: "2026-11-09T05:41:37.680899Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-town-hall-meeting
+  main_date: "2017-02-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  jack-box-airport:
+    brief: |-
+      THE CONFLICT:
+      *   Complaint regarding Fairhope Airport Authority (FAA) was filed against board members Jack Burrell and Ray Hix.
+      *   Ray Hix served as Sec. Treasurer for the Authority.
+      *   An inquiry regarding FAA was made by a Fairhope resident to Ethics Commission Chief Council Mr. Hugh Evens.
+      *   Mr. Evens blind copied Mr. Bailey, who was Mr. Hix's attorney.
+      *   The FAA sought to hire an ethics attorney to investigate the complaint and defend board members.
+      *   The complaint was submitted to local print media.
+      *   Article 1 (2/16/2017) focuses on demanding answers regarding Ordinance 1572 (repeal), Fly Creek Apartments, and the Airport Authority's control over land.
+      *   FAA land is equivalent to 21% of city debt.
+      *   Mayor fought to bring up Ordinance 1572 repeal, but council president refused to agenda it.
+      *   The city is spending more on the Airport than on Fairhope High School (needing classroom portables).
+      *   Potential loss of $7 million related to Airport Authority plans.
+
+      THE DISCOVERY:
+      *   The FAA was attempting to use tax dollars to hire a top ethics attorney to defend board members (Burrell, Hix) against a legitimate complaint.
+      *   Ray Hix's attorney prepared the contested lease and requested an Advisory Opinion from the Ethics Commission, paid by Mr. Hix.
+      *   Ethics Commission Chief Council Mr. Hugh Evens communicated sensitive FAA inquiry information to Hix's attorney (Mr. Bailey).
+
+      THE PIVOT:
+      *   Article 2 established the ethical conflict and potential misuse of tax dollars by the FAA (Hix, Burrell) while under investigation.
+      *   This context highlights the lack of accountability and potential financial mismanagement (losing millions, spending more on Airport than schools) that Article 1 demands the city council address regarding the Airport Authority's control and Ordinance 1572 repeal.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Elected official, FAA Board member)
+      *   Ray Hix (FAA Sec. Treasurer, Focus of complaint)
+      *   Mayor (Unspecified name, fighting for Ordinance 1572 repeal)
+      *   City Council President (Refusing to agenda Ordinance 1572 repeal)
+      *   Mr. Hugh Evens (Ethics Commission Chief Council)
+      *   Mr. Bailey (Mr. Hix's attorney)
+      *   Fairhope Airport Authority (FAA)
+      *   Fly Creek Apartments
+      *   Fairhope High School
+      *   Ordinance 1572
+      *   Dates: 2/16/2017 (Article 1 date)
+      *   Amount: $7 million (potential loss)
+      *   Amount: $90,000 (Mayor Wilson salary cost)
+    llm_text: Ray Hix and Jack Burrell face an ethics complaint after the FAA attempted to misuse tax dollars for defense. See how this mismanagement risks a $7 million loss while the city spends more on the Airport than on Fairhope High School.
+    widget_date: "2017-02-10"
+    generated_at: "2026-11-09T05:34:34.381787Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  5000-00-cash-reward:
+    brief: |-
+      THE CONFLICT:
+      Formal complaint against Councilman Jack Burrell regarding allegations that he and family received free airplane transportation from a winning bidder while serving as an elected official (Widget Article).
+      This complaint led to a $5000.00 cash reward offered by The Ripp Report and BCLE (Widget Article).
+
+      THE DISCOVERY:
+      Article 2 revealed Council President Jack Burrell used his position as Council President and Airport Authority Board member to limit public comment related to the allegations (Widget Article).
+
+      THE PIVOT:
+      Burrell's existing control as Council President and Airport Authority Board member (established in Article 2) is the reason he refuses to put the repeal of Ordinance 1572 (Fly Creek Apartments) on the City Council agenda during the Town Hall Meeting on 2/16/2017 (Main Article), which directly impacts the Airport Authority's 21% of city debt.
+
+      KEY ENTITIES:
+      Jack Burrell
+      Fairhope Airport
+      Fly Creek
+      Mayor
+      City Council
+      Council President
+      Ordinance 1572
+      2/16/2017
+      $5000.00
+    llm_text: Jack Burrell received free flights and faced a $5000 reward, but he still resists accountability. He uses his Council President power to block Ordinance 1572, directly impacting 21% of city debt via the Fairhope Airport.
+    widget_date: "2017-02-08"
+    generated_at: "2026-11-09T05:38:16.582917Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-down-and-i-call:
+    brief: |-
+      THE CONFLICT:
+      *   December 21, 2016: Mayor of Fairhope filed an Ethics Complaint regarding Fairhope Airport Authority (FAA) actions concerning past airplane hangar leases.
+      *   The FAA board members were alleged to be bidding on FAA bid proposals (Advisory Opinion 2016-4).
+      *   Jack Burrell, Fairhope City Council President and FAA Board Member, was part of a two-man ad hoc committee selecting lease bids.
+      *   Burrell's partner was the municipal judge for Fairhope.
+
+      THE DISCOVERY:
+      *   The past allegations of ethical misconduct involving FAA board members and Jack Burrell provide the context for the current resistance to city transparency and financial accountability.
+
+      THE PIVOT:
+      *   The 2016 Ethics Complaint and subsequent appeal to the Alabama Attorney General established a history of questionable FAA conduct by Burrell and his associates, directly linking his current political resistance (refusing to put ordinance 1572 on the agenda) and support for FAA land control/mortgage demands to past ethical concerns.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Fairhope Airport Authority (FAA)
+      *   Ordinance 1572 (Fly Creek Apartments)
+      *   Fairhope City Council
+      *   Matt Hart (Alabama Attorney General Special Prosecutor)
+      *   Jody W. Bishop (28th Judicial Circuit Honorable)
+      *   Alabama Ethics Commission
+    llm_text: Jack Burrell faced a 2016 ethics complaint concerning FAA hangar leases, involving his partner Jody W. Bishop. How does that history of questionable FAA conduct explain his current resistance to Ordinance 1572 and his demands for FAA land control?
+    widget_date: "2016-12-21"
+    generated_at: "2026-11-09T05:36:56.693156Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest:
+    brief: |-
+      THE CONFLICT: Councilman Kevin Boone had undisclosed business connections through LLCs with John Avent of Preble-Rish, LLC, dating prior to him serving on the Fairhope City Council. Boone voted in favor of the "Retreat at Fairhope" / "Fly Creek Apartments" project on Sept 2016 (SD 16.14).
+
+      THE DISCOVERY: Article 2 revealed Boone voted for the Fly Creek Apartments project despite a glaring conflict of interest with Preble-Rish, a conflict he never disclosed or recused himself from.
+
+      THE PIVOT: Article 2 demonstrates that Boone, an elected official, voted in favor of Ordinance 1572 (Fly Creek) against the citizens' mandate, providing the context for the 2/16/2017 town hall demand for the repeal of that ordinance.
+
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish, Fly Creek Apartments, Ordinance 1572, Robinson, Conners, Brown, Fairhope City Council, Fairhope Airport, 2/16/2017, Sept 2016
+    llm_text: Councilman Kevin Boone hid undisclosed business ties with John Avent of Preble-Rish. He voted for the Fly Creek Apartments project (Ordinance 1572) in 2016, defying citizens' wishes and sparking demands for repeal.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T05:40:17.523469Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bit-dogs-bark-first:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County and its 14 municipalities were described as having widespread corruption over many years.
+      *   The former Mayor insulated "connected players" who infected the judiciary and municipal governments.
+      *   The last 20 years saw a population doubling, leading to a demographic shift and the election of new council members against the "failed administration."
+      *   Past achievements of councilmen Burrell and Boone included the Triangle lawsuit ($12 million, settled behind closed doors) and the sewer plant ($11 million, talked about for 10 years).
+      *   The Mayor (Wilson) attempted to implement full transparency, including approving the Cassady Company, Inc. for a Professional Engineering Capacity Study (Gas, Water, Sewer).
+      *   Councilmen Boone and Burrell opposed the transparent study, pushing for HMR/Dewberry/Preble-Rish LLC.
+
+      THE DISCOVERY:
+      *   Kevin Boone (Registered Agent for BA-101, LLC, formed 4/29/2004) is a member of North Ridge, LLC (formed 6/2/2008).
+      *   North Ridge, LLC includes John G. Avent (a firm partner at Preble-Rish, Inc.).
+      *   This reveals a clear conflict of interest between Boone and Avent/Preble-Rish.
+      *   Councilman Jay Robinson received a $1,000.00 campaign contribution from Ray Hix (Airport Authority Board member and Sec. Treasurer).
+      *   Article 2 documented resistance to infrastructure transparency, including blocking the selection of fresh eyes for sewer/water/gas infrastructure.
+
+      THE PIVOT:
+      *   Article 2 established that council members (Boone, Burrell) represent entrenched, "connected" interests (e.g., Preble-Rish, Airport Authority board members) rather than the general citizenry.
+      *   This context explains the obstruction detailed in Article 1: the refusal by the council president to put Ordinance 1572 repeal and the Airport Authority's demand to maintain control/ownership of airport land (despite the city paying the mortgage) on the agenda.
+      *   Both articles show the council prioritizing special interests (Airport Authority, specific engineering firms) over critical city needs (schools, Fly Creek basin, proper infrastructure maintenance).
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Mayor Wilson
+      *   Kevin Boone
+      *   Mr. Burrell
+      *   Jay Robinson
+      *   John G. Avent
+      *   Preble-Rish, Inc.
+      *   HMR/Dewberry/Volkert
+      *   Ray Hix
+      *   Fairhope Airport Authority
+      *   Ordinance 1572 (Fly Creek Apartments)
+      *   Fairhope High School
+      *   BA-101, LLC (Formed 4/29/2004)
+      *   North Ridge, LLC (Formed 6/2/2008)
+      *   Date of Article 1: 2/16/2017
+    llm_text: 'Kevin Boone has a direct conflict of interest: he links to John G. Avent at Preble-Rish, Inc., the firm councilmen Burrell and Boone pushed for. This connection reveals how entrenched interests blocked transparent engineering studies, prioritizing firms over Baldwin County citizens.'
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-09T05:39:21.153497Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-airport-authority-flying-without-a-compass:
+    brief: |-
+      THE CONFLICT: Prior to 2/16/2017, there were indications of wrongdoing and "stink" regarding deeds at the Fairhope Airport Authority, which major players, including the Mayor and City Council at the time, covered up. Following an "illegal meeting," the Fairhope City Council failed Alabama Ethics training.
+
+      THE DISCOVERY: The Widget Article (older) revealed that prior to the 2017 airport controversy, there were existing warning signs of corruption at the airport, predating the current public focus on the $7 million loss and Ordinance 1572.
+
+      THE PIVOT: The Widget Article establishes that the airport controversy is not new, but rather a recurrence of historical malfeasance and ethical failure by the same political figures, providing context for the current concerns about the Airport Authority demanding control while the city pays the mortgage (21% of city debt).
+
+      KEY ENTITIES:
+      Mayor
+      Council President
+      Fairhope Airport Authority
+      Fly Creek Apartments
+      Ordinance 1572
+      2/16/2017
+      $7 million
+      Wilson
+      Fairhope High School
+      990-0218
+    llm_text: The Fairhope Airport Authority scandal is a repeat failure. Corruption involving the Mayor and City Council predates the 2017 $7 million loss, proving city debt is rooted in historical malfeasance.
+    widget_date: "2016-12-14"
+    generated_at: "2026-11-09T05:35:43.779745Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exposure:
+    brief: |-
+      THE CONFLICT: Allegations of a corrupt system and unethical behavior involving Judge Thomason and Attorney Stephen Johnson in Baldwin County Family Court; defeat of Tim Kant.
+      THE DISCOVERY: The publication EXPOSURE (The Ripp Report) generated a record posting with 48,200 people reached, 112 shares, 9 phone calls, supporting allegations against Thomason and Johnson.
+      THE PIVOT: Article 2 establishes the publication's focus on exposing entrenched and unethical power structures (judiciary/attorneys), providing context for the citizen demand in Article 1 to expose municipal corruption (Airport Authority/Council President) and protect local interests (Fly Creek, schools).
+      KEY ENTITIES: Thomason, Stephen Johnson, Fairhope, Fly Creek Apartments, Airport Authority, City Council President, The Ripp Report
+    llm_text: Judge Thomason and Stephen Johnson face corruption allegations in Baldwin County Family Court. Our record-breaking EXPOSURE reached 48,200 people, showing citizens demand accountability from entrenched local power and municipal corruption.
+    widget_date: "2016-11-02"
+    generated_at: "2026-11-09T05:41:21.692105Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,139 @@
+metadata:
+  generated_at: "2026-11-08T22:01:16.520192Z"
+  generator_version: 1.0.0
+  post_slug: switching-hats
+  main_date: "2017-09-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  blood-in-the-water:
+    brief: |-
+      THE CONFLICT: C.J. Moore and Big Luther were defeated in the December 2017 Senate runoff election for Alabama.
+      THE DISCOVERY: Article 2 revealed widespread political corruption and self-serving elected officials in Alabama during the 2017 election cycle.
+      THE PIVOT: Article 2 provides historical context demonstrating a pattern of political corruption and lack of integrity within Alabama's elected bodies, which mirrors the current local corruption allegations involving Jack Burrell and Lee Turner in Fairhope (Article 1).
+      KEY ENTITIES: Jack Burrell (City Council President, 5 years, Fairhope), Lee Turner (Head of Planning and Zoning/Single Tax, Fairhope), Doug Jones, C.J. Moore, Fairhope City Council, Planning and Zoning Board, Tatumville Gully, Tatumville Project, Fly Creek Apartments, Fairhope Airport Authority.
+    llm_text: Jack Burrell and Lee Turner face corruption allegations in Fairhope. The 2017 Alabama Senate runoff involving C.J. Moore revealed a deep, decades-long pattern of political decay in the state.
+    widget_date: "2017-09-27"
+    generated_at: "2026-11-08T21:54:40.401115Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-moore-strange:
+    brief: |-
+      THE CONFLICT:
+      Roy Moore was thrown off the Alabama Supreme Court twice.
+      Alabama was last in almost every category, except football and political corruption.
+      In the mid-term 2018 elections, Alabama Republican officials were criticized for enabling corruption, including the Attorney General allowing Sen. Trip Pittman to avoid BP fraud charges.
+
+      THE DISCOVERY:
+      Alabama's political landscape, as detailed in the older article, is defined by systemic political corruption perpetuated by elected officials.
+
+      THE PIVOT:
+      Article 2 provides the historical context that the local political issues detailed in Article 1 (e.g., Burrell's obstruction, Turner's conflicts of interest, Airport debacle) are not isolated incidents but part of a documented, larger pattern of political corruption within Alabama.
+
+      KEY ENTITIES:
+      Jack Burrell (City Council President, Fairhope)
+      Lee Turner (Head of Planning and Zoning and Single Tax)
+      Fairhope
+      Tatumville Gully (Tatumville Project)
+      Roy Moore
+      Big Luther Strange
+      Moore Strange
+      Sen. Trip Pittman
+      Fly Creek Apartments
+      Corte (wetlands gift)
+      Alabama Supreme Court
+      2018 (mid-term elections)
+    llm_text: Roy Moore was thrown off the Alabama Supreme Court twice, but local corruption runs deeper. Officials like Jack Burrell and Lee Turner in Fairhope aren't isolated; they fit a documented pattern of state-level issues, including Sen. Trip Pittman avoiding BP fraud charges in 2018.
+    widget_date: "2017-09-22"
+    generated_at: "2026-11-08T21:57:01.071662Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  opposition-obstruction:
+    brief: |-
+      THE CONFLICT:
+      *   September 11 city council meeting (past event).
+      *   Fairhope City Council, led by Council President Jack Burrell, rejected a second insurance bid favorable to the Mayor, costing taxpayers $60,000.
+      *   Burrell insisted the decision was unrelated to the Mayor, despite the council acting as a unit to oppose mayoral recommendations.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a pattern of deliberate council obstruction against the Mayor and misuse of public trust.
+      *   Councilman Boone defended leaking subpoenaed information related to 3 pending claims against the city as "transparency."
+      *   Burrell utilized public participation rules as a political stunt to silence critics.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of political obstruction by Jack Burrell, demonstrating his consistent opposition to the Mayor and taxpayer detriment (e.g., $60k insurance loss).
+      *   This pattern provides context for current allegations in Article 1 regarding Burrell’s involvement in the Airport debacle, triangle lawsuit, sewer plant, and his alleged use of position with Lee Turner to circumvent procedure in the Tatumville Gully project.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President, Fairhope Airport Authority)
+      *   Lee Turner (Head of Planning and Zoning and Single Tax)
+      *   Fairhope City Council
+      *   Mayor (unnamed)
+      *   Councilman Boone
+      *   Tatumville Gully (1 acre project for Tatumville Subdivision)
+      *   Fairhope Airport Authority
+      *   Fly Creek Apartments
+      *   Corte (gift of wetlands)
+    llm_text: Jack Burrell rejected a $60,000 insurance bid favorable to the Mayor, claiming council independence. This pattern of obstruction—including the Tatumville Gully project and Airport Authority issues—proves he consistently acts against taxpayer interests.
+    widget_date: "2017-09-15"
+    generated_at: "2026-11-08T21:58:11.512072Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-a-drainage-ditch:
+    brief: |-
+      THE CONFLICT: Fly Creek Apartments project faced a six-day trial in Bay Minette; City Council endorsed the project in October 2016 and granted an extension in April 2017, despite public concern regarding the Fly Creek Watershed.
+      THE DISCOVERY: The approved drainage plan called for a single point discharge into wetlands, which would drain into Fly Creek, combining with drainage from the Publix construction; Jack Burrell and Kevin Boone accepted a gift of wetlands.
+      THE PIVOT: The historical approval of the Fly Creek Apartments sets a precedent for developer persistence and regulatory circumvention, paralleling the current Tatumville Gully project where Lee Turner allegedly used his positions to circumvent normal procedure, showing a pattern of prioritizing development over public/environmental protection.
+      KEY ENTITIES: Jack Burrell, Lee Turner, Adam Milam, Kevin Boone, Corte, Fairhope City Council, Planning and Zoning Board, Fly Creek Watershed, Mayor Wilson, Jimmy Conyers.
+    llm_text: Jack Burrell and Kevin Boone accepted a wetlands gift during the Fly Creek Apartments approval, setting a dangerous precedent. Now, investigate how Lee Turner allegedly circumvented procedure on the Tatumville Gully project, prioritizing development over our environment.
+    widget_date: "2017-08-25"
+    generated_at: "2026-11-08T21:59:14.846386Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT: Fairhope City Council had an arrangement with State Sen. Trip Pittman since 2012. The Council subsequently ended this arrangement, awarding a disaster debris removal contract to D&J Enterprises Inc.
+
+      THE DISCOVERY: The Fairhope City Council made contract decisions based on its relationship with State Sen. Trip Pittman, who later chose not to seek another term in the Legislature.
+
+      THE PIVOT: The historical record (Article 2) shows the City Council engaging in politically influenced contracts (Pittman arrangement) which provides context for the current allegations (Article 1) that Council President Jack Burrell and Planning and Zoning head Lee Turner use their positions to circumvent procedure (Tatumville Gully, Fly Creek Apartments) for personal or political gain.
+
+      KEY ENTITIES: Jack Burrell, Lee Turner, Trip Pittman, Fairhope City Council, Tatumville Gully, Fly Creek Apartments.
+    llm_text: Fairhope City Council previously used relationships with State Sen. Trip Pittman for contracts. Now, Council President Jack Burrell and Lee Turner face scrutiny for circumventing procedure on projects like Tatumville Gully.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T22:00:12.325865Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  countdown:
+    brief: |-
+      THE CONFLICT: No connecting conflict exists between the local Fairhope City Council/Planning and Zoning issues and the Alabama US Senate primary.
+      THE DISCOVERY: Article 2 detailed the 19-candidate US Senate primary in Alabama, listing candidates Luther Strange, Roy Moore, and Mo Brooks.
+      THE PIVOT: Article 2 is not context for Article 1; the topics (Federal Senate election vs. Fairhope local zoning/council corruption) are entirely unrelated.
+      KEY ENTITIES: Jack Burrell, Lee Turner, Fairhope, Tatumville Gully, Fly Creek Apartments, Luther Strange, Roy Moore, Mo Brooks, Sen Trip Pittman, Randy Brinson.
+    llm_text: Fairhope council corruption involving Jack Burrell and Lee Turner has nothing to do with the 19-candidate Alabama Senate primary. See who is running, including Luther Strange, Roy Moore, and Mo Brooks, in our full report.
+    widget_date: "2017-08-04"
+    generated_at: "2026-11-08T21:55:49.685570Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hardest-working-elected-official-eastern-shore:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Karin Wilson faced obstruction from the City Council from day one.
+      *   The Council refused to mediate differences with the Mayor, claiming they were the mediators.
+      *   Mayor Wilson refused a second position/paycheck, reducing her salary by $60,000, citing ethics.
+
+      THE DISCOVERY:
+      *   Karin Wilson successfully restructured the planning department and planning and zoning within 8 months (in the last 16 years, citizens knew little about financial information regarding these subjects).
+      *   A new planning director and operations manager were implemented, aiming to correct past foolish and biased decisions and reduce serious litigation.
+
+      THE PIVOT:
+      *   Article 2 establishes that Planning and Zoning was successfully restructured and improved by Mayor Wilson.
+      *   Article 1 details current alleged abuses and conflicts of interest (e.g., Lee Turner's dual roles/Tatumville Gully promotion; Jack Burrell's obstruction/Airport debacle) that undermine the structural improvements achieved by Mayor Wilson, suggesting the past progress is being reversed by specific council actions.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (City Council President for 5 years)
+      *   Lee Turner (Head of Planning and Zoning and Single Tax)
+      *   Fairhope
+      *   Fairhope Airport Authority
+      *   Tatumville Gully
+      *   Fly Creek Apartments
+      *   Planning and Zoning Board
+      *   City Council
+    llm_text: Mayor Karin Wilson restructured Planning and Zoning, improving transparency after 16 years, but City Council President Jack Burrell obstructs her progress. Learn how alleged abuses by Lee Turner and council actions threaten Wilson's reforms and reverse citizen gains.
+    widget_date: "2017-07-21"
+    generated_at: "2026-11-08T22:01:02.829129Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

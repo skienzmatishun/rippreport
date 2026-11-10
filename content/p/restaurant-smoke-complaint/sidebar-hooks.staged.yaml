@@ -1,0 +1,48 @@
+metadata:
+  generated_at: "2026-11-09T12:29:14.665453Z"
+  generator_version: 1.0.0
+  post_slug: restaurant-smoke-complaint
+  main_date: "2015-04-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  baldwin-county-legal-eagle:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioners fully endorsed property tax increases to fund schools despite being elected as conservative no tax republicans (March 30 2015).
+      THE DISCOVERY: Fairhope suffers from poor management, lack of checks and balances, and corruption where the Mayor dictates policy and the City Council majority complies (March 30 2015).
+      THE PIVOT: The historical pattern of concentrated power and lack of oversight established in Article 2 (2015) provides context for the later inaction in Article 1, where the Mayor and City Council ignored the Nichols Street dispute regarding commercial smoke.
+      KEY ENTITIES: Fairhope, Nichols Street, Tamara's, The Venue, Pelican Patio, Mayor (unnamed), City Council, Councilman Burrell, Baldwin County Legal Eagle, Baldwin County
+    llm_text: Fairhope's Mayor and City Council centralized power years ago, ignoring checks and balances. This pattern, rooted in 2015 Baldwin County decisions, explains why they ignored the Nichols Street commercial smoke dispute.
+    widget_date: "2015-03-30"
+    generated_at: "2026-11-09T12:27:39.345170Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-confidence-no-new-taxes:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor/Council historically ignored citizen input regarding a fire station location on Parker Road, a dead-end street, violating the comprehensive plan.
+      *   City Council excluded citizens from the $12 million triangle lawsuit settlement.
+      *   The Council was pushing a new school tax and provided free sewer system, lift station, and water main upgrades to a developer.
+
+      THE DISCOVERY:
+      *   The Mayor and City Council have a documented history of prioritizing developer interests and benefactors over taxpayer information and public participation.
+      *   The Council's decisions (e.g., new school tax endorsement) were made without public data or input.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of the Mayor/Council favoring powerful local interests (developers/benefactors) over citizens, providing context for their later refusal to address the Nichols Street dispute.
+      *   Article 1 demonstrates the contemporary application of this pattern: the Mayor/City Council ignored neighbors and health department requests concerning a commercial cooker and dense smoke on Nichols Street.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Nichols Street
+      *   Tamara's
+      *   The Venue
+      *   Pelican Patio
+      *   Councilman Burrell
+      *   Mayor of Fairhope
+      *   City Council
+      *   Parker Road
+      *   $500,000 (fire station cost)
+      *   $12 million (lawsuit settlement)
+    llm_text: The Fairhope Mayor and Council repeatedly favor developers, ignoring citizen input on Parker Road and the $12 million lawsuit settlement. See how this pattern drives their refusal to address the dense smoke issues at Nichols Street near Tamara's.
+    widget_date: "2015-03-30"
+    generated_at: "2026-11-09T12:28:57.152685Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

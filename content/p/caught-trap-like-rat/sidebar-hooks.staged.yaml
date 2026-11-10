@@ -1,0 +1,145 @@
+metadata:
+  generated_at: "2026-11-09T06:05:17.414538Z"
+  generator_version: 1.0.0
+  post_slug: caught-trap-like-rat
+  main_date: "2017-02-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  court-public-opinion-now-session:
+    brief: |-
+      THE CONFLICT:
+      *   Dec. 17, 2015: Lease signed for Fairhope Airport Authority ground lease.
+      *   Feb. 3, 2016: Ethics Commission issued an Advisory Opinion regarding the lease process.
+      *   Past: Allegations of bid rigging and improper bidding by the Fairhope Airport Authority concerning the ground lease/Ordinance 1572 repeal.
+      *   Involvement: Jack Burrell served as Fairhope City Council President, Fairhope Airport Authority voting Board member, and was on the Authority ad hoc committee that reviewed the RFP.
+      *   Financials: Authority received $500,000 annually for 6 years; $8 million debt; City needs $310,000 annual appropriation to pay down debt.
+
+      THE DISCOVERY:
+      *   Article 2 proved the RFP bid process was grossly flawed and gerrymandered, and that Burrell aided and abetted the process.
+      *   Burrell leveraged his position to facilitate the process, including allowing Mr. Hix (Mid-Bay Air LLC) access to privileged financial information (Apr-Jul 2015).
+      *   The Ethics Advisory Opinion was disregarded, as the lease was signed before the opinion was rendered.
+      *   The city’s goal (City ownership of airport land) clashed with the Authority’s position (Authority ownership, with city funding).
+
+      THE PIVOT:
+      *   Article 2 provides the documented historical context (2015-2016) proving Burrell's long-standing involvement in the alleged bid rigging and control over Ordinance 1572.
+      *   Article 1 details the *current* fallout—following the removal of the 16-year Mayor Kant—where the new administration (led by Mayor Wilson) and the Ethics Commission are now addressing these past deeds.
+      *   Article 1 confirms Burrell is actively obstructing the repeal of Ordinance 1572 and preventing questions about his alleged bid rigging using his authority as Council President.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President, Airport Authority Board member)
+      *   Mayor Kant (Former Mayor, 16 years)
+      *   Mayor Wilson
+      *   Fairhope Airport Authority
+      *   Ordinance 1572
+      *   Ethics Commission
+      *   Mr. Hix (Mid-Bay Air LLC/Hix/Snedeker)
+      *   Mr. Terry Chapman
+      *   Mr. Kel Jones
+      *   Ripp Report
+    llm_text: Jack Burrell leveraged his position as Council President and Airport Authority board member to facilitate alleged bid rigging during the 2015 Fairhope Airport Authority ground lease. Find out how Burrell now obstructs the repeal of Ordinance 1572 despite Mayor Wilson and the Ethics Commission addressing this long-standing conflict.
+    widget_date: "2017-01-27"
+    generated_at: "2026-11-09T05:57:34.913113Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigative-reporting-business-entity-records:
+    brief: |-
+      THE CONFLICT: Formation of North Ridge, LLC on 6-2-2008 in Baldwin County, AL, involving John G Avent and Kevin Boone.
+      THE DISCOVERY: North Ridge, LLC is a Domestic Limited Liability Company focused on acquiring, managing, developing, leasing, selling, or exchanging real property, with John G Avent and Kevin Boone listed as members.
+      THE PIVOT: Article 2 provides a historical financial entity record (2008) which serves as background context to the current ethical and political investigation (Article 1) concerning alleged "bid rigging" and ordinance 1572 repeal in Fairhope.
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Mayor Kant, John G Avent, Kevin Boone, North Ridge, LLC, Ethics Commission, Fairhope, Airport Authority.
+    llm_text: John G Avent and Kevin Boone formed North Ridge, LLC in 2008 in Baldwin County. Discover how that historical entity links directly to the current "bid rigging" investigation and the controversial Ordinance 1572 repeal in Fairhope.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T06:00:13.014657Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT: Councilman Kevin Boone supported projects involving Dewberry/Preble-Rish (e.g., Fly Creek Apartments, 240-unit project) in 2016 (Sept. 3, 2016), leading to the Mayor and three councilmen being voted out of office.
+      THE DISCOVERY: Documents show Kevin Boone voted on projects tied to the engineering firm Dewberry/Preble-Rish, which was linked to his LLCs and donated $2500.00 to his re-election campaign, without recusal.
+      THE PIVOT: Article 2 provides documented historical proof of severe ethical conflicts and corruption (Boone/Preble-Rish/Fly Creek) in Fairhope, establishing the precedent for the current political environment where Jack Burrell is facing ethics complaints regarding alleged "bid rigging" related to Ordinance 1572 (Fly Creek Apartments) under the new Mayor Wilson administration.
+      KEY ENTITIES: Jack Burrell, Mayor Kant, Mayor Wilson, Ethics Commission, Council President, Ordinance 1572, Fly Creek Apartments, Kevin Boone, Francis Paul Ripp, Dewberry/Preble-Rish, John Avent, Fairhope Planning and Zoning Commission, Bob Clark, Hollie MacKellar, Jay Robinson, HMR, LLC, $2500.00.
+    llm_text: Kevin Boone voted on Dewberry/Preble-Rish projects in 2016, accepting a $2500 donation without recusal. This documented history of corruption explains why Jack Burrell now faces ethics complaints over Ordinance 1572 and the Fly Creek Apartments.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T06:01:20.800380Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boone-doggle:
+    brief: |-
+      THE CONFLICT:
+      *   Councilman Boone exhibited multiple conflicts of interest (LLCs, family names) while serving on planning and zoning and city council.
+      *   Boone voted in favor of engineering companies connected to his LLCs in council resolutions involving hundreds of thousands of dollars.
+      *   Past obstructionism was exhibited by Councilman Ford.
+
+      THE DISCOVERY:
+      *   The former Mayor of Fairhope, who served 16 years, was removed from office.
+      *   The new administration has uncovered past unethical or criminal deeds of employees and elected officials.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of council members (Boone) using conflicts of interest and obstruction to benefit themselves through municipal business.
+      *   This pattern is relevant to Article 1, where Council President Jack Burrell is accused of alleged "bid rigging," controlling the City Council Agenda, and preventing the repeal of ordinance 1572 involving the Fly Creek Apartments.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Mayor Kant (Former Mayor)
+      *   Mayor Wilson (New Mayor)
+      *   Mr. Boone (Councilman)
+      *   Councilman Ford
+      *   Mr. Robinson
+      *   Mr. Conyers
+      *   Mr. Brown
+      *   Ethics Commission
+      *   Ordinance 1572 (Fly Creek Apartments)
+      *   Airport Authority Land
+      *   Fairhope
+    llm_text: Councilman Boone profited through LLCs, voting hundreds of thousands for connected engineering firms. New Mayor Wilson investigates Council President Jack Burrell’s alleged bid rigging and control over Ordinance 1572.
+    widget_date: "2017-01-13"
+    generated_at: "2026-11-09T06:02:35.813092Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT: Jack Burrell, Council President and Airport Authority Board member, resisted Mayor Karin Wilson's efforts to transfer ownership of 258 acres (purchased by Airport Authority in 2007 for $8.85 million) to the City of Fairhope, despite the city paying the mortgage; Burrell also dismissed allegations of bid rigging related to the Authority.
+      THE DISCOVERY: Article 2 established that the Airport Authority debt represented 21 percent of Fairhope's overall borrowing and that the land title remained solely with the Airport Authority, utilizing city tax dollars.
+      THE PIVOT: Article 2 shows Burrell's historical pattern of refusing to recuse himself from Airport Authority matters and prioritizing the Authority's separate title structure over the city's financial need for ownership, providing context for the current Ethics complaint in Article 1 regarding alleged "bid rigging" and his prevention of Ordinance 1572 repeal.
+      KEY ENTITIES: Jack Burrell, Mayor Karin Wilson, Ethics Commission, Ordinance 1572, Fly Creek Apartments, Fairhope Airport Authority, Kevin G. Boone, Jay Robinson, Robert Brown, Jimmy Conyers
+    llm_text: Jack Burrell blocked Mayor Karin Wilson's plan to transfer 258 acres—purchased for $8.85 million—to Fairhope, even though the city paid the mortgage. Learn how Burrell's refusal to recuse himself puts city tax dollars at risk and fuels ethics complaints about alleged bid rigging.
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T06:03:48.810840Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT:
+      *   The Fairhope Airport Authority (FAA) operated as a financial black hole, receiving $500,000 annually from the Fairhope budget.
+      *   The City had an option to take back 258 acres of FAA land for $10.00 if the principal was not paid off by 2012.
+      *   Jack Burrell, then Fairhope City Council President and Airport Authority liaison, was linked to the past, failed administration.
+      *   Mayor Kant was the previous mayor (Mayor of 16 years) who was later removed.
+      *   Mayor Wilson supported exercising the option to take back the land and repeal Ordinance 1572.
+
+      THE DISCOVERY:
+      *   In 2016, the FAA was scrutinized for conflicts of interest, including a board composition based on aviation knowledge, and financial unaccountability.
+      *   Mr. Burrell used his position (Council President/Liaison) to support the FAA's interests over the citizens' interests.
+      *   Burrell was appointed to an ad hoc committee of two to oversee and select bids for Airplane hangers.
+
+      THE PIVOT:
+      *   Article 2 establishes Burrell’s long-standing, conflicted relationship with the FAA and previous administrations, providing context for the current allegations of alleged “bid rigging” and obstruction detailed in Article 1.
+      *   Article 1 shows Burrell is now facing an Ethics Commission complaint regarding his participation in the Airport Authority and alleged bid rigging, while actively preventing the repeal of Ordinance 1572.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Mayor Wilson
+      *   Mayor Kant
+      *   Ethics Commission
+      *   Fairhope Airport Authority
+      *   Ordinance 1572
+      *   Fairhope City Council
+      *   Fairhope
+    llm_text: Jack Burrell faces an Ethics Commission complaint over alleged bid rigging at the Fairhope Airport Authority. Discover how his conflicted support for the FAA blocked the city from reclaiming 258 acres under Ordinance 1572.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-09T05:58:57.332678Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-friday-merry-christmas:
+    brief: |-
+      THE CONFLICT: Mayor Kant was removed from Fairhope after 16 years; Jack Burrell (Council President) is facing an Ethics Commission complaint for alleged “bid rigging” related to the Airport Authority Land and Ordinance 1572 (Fly Creek Apartments).
+      THE DISCOVERY: Article 2 (FREAKY FRIDAY - MERRY CHRISTMAS) contains no factual information regarding the political conflict in Fairhope.
+      THE PIVOT: Article 2 does not serve as a 'smoking gun' or key context for Article 1 as it provides no relevant historical or factual background.
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Mayor Kant, Fairhope, Ethics Commission, Ordinance 1572, Airport Authority Land
+    llm_text: Fairhope's political drama intensifies after Mayor Kant stepped down after 16 years. Council President Jack Burrell now faces an Ethics Commission complaint for alleged "bid rigging" involving Ordinance 1572 and Airport Authority Land.
+    widget_date: "2016-12-23"
+    generated_at: "2026-11-09T06:04:55.869147Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

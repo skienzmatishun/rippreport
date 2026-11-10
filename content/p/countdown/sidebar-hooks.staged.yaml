@@ -1,0 +1,105 @@
+metadata:
+  generated_at: "2026-11-08T23:58:52.152854Z"
+  generator_version: 1.0.0
+  post_slug: countdown
+  main_date: "2017-08-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-ethics-a-political-tool:
+    brief: |-
+      THE CONFLICT:
+      *   Tripp Pittman used his elected office for personal gain, securing Fairhope municipal contracts while violating ethics rules.
+      *   Pittman served on the ethics committee and headed off complaints against himself.
+      *   Pittman's complaint was abandoned in the Attorney General’s office of Luther Strange, ignoring a grand jury and FBI investigation.
+      *   Luther Strange faced ethics complaints that were not seriously addressed by the commission.
+      *   Mike Hubbard was convicted on 12 counts of felony public corruption (full year prior, pending appeal).
+      *   Jack Burrell and Fairhope Airport Authority board member Ray Hix faced ethics complaints.
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission has failed to hold politicians accountable in Baldwin County and has been manipulated by elected officials.
+      *   The city council has refused to conduct internal investigations into ethical violations.
+
+      THE PIVOT:
+      *   Article 2 establishes that candidates in Article 1 (specifically Pittman and Strange) have documented histories of ethics violations, corruption, and regulatory failure, casting doubt on their suitability for Senate office.
+
+      KEY ENTITIES:
+      *   Luther Strange
+      *   Trip Pittman
+      *   Mo Brooks (R-AL)
+      *   Dr. Randy Brinson
+      *   Jack Burrell
+      *   Ray Hix
+      *   Snedeker
+      *   Jeff Sessions
+      *   Tim Kant
+      *   Mike Hubbard
+      *   Alabama Ethics Commission
+      *   Fairhope Airport
+      *   Baldwin County
+    llm_text: Trip Pittman used his office to secure Fairhope contracts while serving on the ethics committee. The Alabama Ethics Commission failed to hold him and Luther Strange accountable, raising serious questions about their fitness for Senate office.
+    widget_date: "2017-08-02"
+    generated_at: "2026-11-08T23:51:33.774215Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scratch-my-back-i-scratch-yours:
+    brief: |-
+      THE CONFLICT: State Sen. Trip Pittman used elected office to garner contracts in Baldwin County; he received $750,000 from BP money while his office failed to pursue BP fraud cases under $10,000. (Context: Arrangement in place since 2012).
+      THE DISCOVERY: Fairhope City Council voted to end its contract arrangement with Pittman’s company (D&J Enterprises Inc. of Auburn), marking the end of an arrangement active since 2012.
+      THE PIVOT: The 2012 contract termination and the documented $750,000 BP funds provide concrete historical proof supporting the claim (in Article 1) that Pittman is the "WORST elected official in Baldwin County" and uses office for personal gain.
+      KEY ENTITIES: Trip Pittman, Luther Strange, Roy Moore, Mo Brooks, Dr. Randy Brinson, Fairhope City Council, D&J Enterprises Inc., BP.
+    llm_text: Trip Pittman received $750,000 from BP funds while his office ignored BP fraud cases under $10,000. The Fairhope City Council ended the 2012 contract with D&J Enterprises Inc. See why readers call Pittman the "WORST elected official in Baldwin County."
+    widget_date: "2017-07-28"
+    generated_at: "2026-11-08T23:54:19.764811Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jack-ass:
+    brief: |-
+      THE CONFLICT: Senator Lee “Trip” Pittman leveraged his political office in Fairhope/Baldwin County for corruption; he awarded the 2017 hurricane debris removal contract (Bid No. 009-17) to his private business, Pittman Tractor; he siphoned $750,000 from BP funds while serving as a "trustee."
+      THE DISCOVERY: Article 2 details Pittman's history of awarding municipal contracts within his district and misuse of BP funds, which led to a re-bid of the contract by Mayor Wilson.
+      THE PIVOT: Article 2 provides documented evidence of Pittman's corruption and ethical breaches, directly undermining his candidacy for the US Senate seat mentioned in Article 1, which was vacated by Jeff Sessions.
+      KEY ENTITIES: Trip Pittman (Sen. Pittman), Jack Burrell, Jeff Sessions, Luther Strange, Randy Brinson, Mo Brooks, Fairhope, Baldwin County, $750,000, 2017, Pittman Tractor.
+    llm_text: Trip Pittman siphoned $750,000 from BP funds by awarding the 2017 hurricane debris contract to his private business, Pittman Tractor. This corruption undermines his US Senate candidacy in Fairhope/Baldwin County; read the documented evidence now.
+    widget_date: "2017-07-26"
+    generated_at: "2026-11-08T23:55:09.529597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hardest-working-elected-official-eastern-shore:
+    brief: |-
+      THE CONFLICT: City Council of Fairhope obstructed Mayor Karin Wilson's initiatives and challenged her ethics; this local conflict precedes the upcoming Alabama US Senate primary.
+      THE DISCOVERY: Mayor Karin Wilson refused a second position and $60,000 salary to maintain ethical standards, and successfully restructured the planning and zoning department of Fairhope within 8 months.
+      THE PIVOT: Wilson's successful, ethical, and non-establishment governance in Fairhope serves as a local example of the "Swamp Drainers" ethos and supports the call in the Senate race for anti-career politician alternatives like Dr. Randy Brinson, against figures like Sen Trip Pittman.
+      KEY ENTITIES: Karin Wilson, Fairhope, Mo Brooks, Dr. Randy Brinson, Luther Strange, Roy Moore, Sen Trip Pittman, Jeff Sessions
+    llm_text: Karin Wilson refused a $60,000 second job in Fairhope to uphold ethics, successfully restructuring zoning. Her local anti-establishment success offers a blueprint for readers backing Dr. Randy Brinson against Sen Trip Pittman in the Alabama Senate primary.
+    widget_date: "2017-07-21"
+    generated_at: "2026-11-08T23:57:19.346985Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigations:
+    brief: |-
+      THE CONFLICT: Fairhope City Council (members Burrell, Boone, Brown) engaged in actions violating open meetings rules; the last council settled the triangle lawsuit ($11.25 million, $3 million in attorney fees) without public participation.
+      THE DISCOVERY: Article 2 detailed multiple financial irregularities in Fairhope, including a sewer contract increase from $10 million to $13 million, $5 to $6 million spent on soccer fields, and overall financial issues exceeding $50 million.
+      THE PIVOT: Article 2 provides concrete, historical evidence of local political corruption (Fairhope City Council) in Alabama, lending factual weight to the anti-establishment and "swamp drainer" rhetoric used in Article 1 regarding the upcoming Alabama US Senate primary election.
+      KEY ENTITIES: Fairhope City Council, Burrell, Boone, Brown, Mayor Wilson, Jack Burrell, Alabama Sec. Of State, Luther Strange, Roy Moore, Mo Brooks (R-AL), Sen Trip Pittman, Dr. Randy Brinson, US Senate, Trump, Jeff Sessions.
+    llm_text: Fairhope City Council members Burrell, Boone, and Brown violated open meetings rules while settling a $14.25 million lawsuit without public input. These financial irregularities, including a $3M sewer contract hike, prove local corruption fueling the upcoming AL US Senate primary.
+    widget_date: "2017-07-14"
+    generated_at: "2026-11-08T23:56:20.855438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hate:
+    brief: |-
+      THE CONFLICT: Mayor Wilson (QKFF) of Fairhope faced ethics investigations in 2017 regarding the "come fly with me" Burrell incident and the use of city funds; the city council refused mediation, leading to lawsuits.
+      THE DISCOVERY: Article 2 documents a history of intense political polarization ("Hate") and alleged corruption (Spygate, hiring unqualified friends) in Fairhope, Alabama, during 2017.
+      THE PIVOT: This local context demonstrates a history of political dysfunction and controversy in Alabama, which frames the high-stakes 2017 US Senate primary race (Article 1) within a pattern of local political turmoil, involving figures like council member Robert Brown.
+      KEY ENTITIES: Fairhope; Mayor Wilson (QKFF); Robert Brown; JESTER 666; Tut Wynne; Luther Strange; Roy Moore; Mo Brooks (R-AL); Dr. Randy Brinson; Alabama US Senate seat.
+    llm_text: Fairhope Mayor Wilson faced 2017 ethics investigations over the "come fly with me" Burrell incident. This local turmoil, involving Robert Brown, frames the high-stakes 2017 Alabama Senate primary race.
+    widget_date: "2017-07-07"
+    generated_at: "2026-11-08T23:53:18.446825Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  tale-of-two-cities:
+    brief: |-
+      THE CONFLICT: 19 candidates (11 Republicans, 8 Democrats) sought the US Senate seat in Alabama; Congressman Mo Brooks called for candidates to drop out if President Trump fired US Attorney General Jeff Sessions.
+
+      THE DISCOVERY: The Daphne Planning and Zoning Board listened to citizens opposing a zoning change for Daphmont Subdivision (Johnson Road and Highway 98), rejecting the request and recommending rejection to the Daphne City Council.
+
+      THE PIVOT: The Daphne example shows a successful instance of local government listening to citizens, directly contrasting the political obstruction in Fairhope, where the Planning and Zoning Board and City Council ignored 99% of citizens opposed to the Fly Creek Apartments project.
+
+      KEY ENTITIES: Alabama Senate; Luther Strange; Roy Moore; Mo Brooks; Sen Trip Pittman; Dr. Randy Brinson; Jeff Sessions; President Trump; Daphne; Fairhope; Daphmont Subdivision; Fly Creek Apartments.
+    llm_text: Daphne’s Planning Board listened to citizens, rejecting the Daphmont Subdivision zoning change. Fairhope ignored 99% of opposition to the Fly Creek Apartments, showing how local government decisions directly impact your community.
+    widget_date: "2017-06-23"
+    generated_at: "2026-11-08T23:58:31.168988Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

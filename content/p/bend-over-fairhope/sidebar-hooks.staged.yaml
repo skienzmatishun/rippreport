@@ -1,0 +1,177 @@
+metadata:
+  generated_at: "2026-11-08T17:55:15.450120Z"
+  generator_version: 1.0.0
+  post_slug: bend-over-fairhope
+  main_date: "2018-02-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  newsletter-the-ripp-report:
+    brief: |-
+      THE CONFLICT: BP Pittman skimmed $750,000 from BP while holding the District 32 State Senate seat.
+      THE DISCOVERY: The Ripp Report is a not-for-profit consumer group dedicated to exposing political corruption across Baldwin County's 14 municipalities.
+      THE PIVOT: Article 2 establishes The Ripp Report's anti-corruption mission, providing the framework for Article 1's specific allegations against the Fairhope City Council regarding the Fairhope Single Tax and obstruction of the Mayor.
+      KEY ENTITIES: The Ripp Report, Baldwin County, BP Pittman, Fairhope City Council, Mayor, Mr. Burrell, Boone, Brown, Fairhope Single Tax, Big Head Gully, Tatumville.
+    llm_text: BP Pittman skimmed $750,000 from BP while holding the District 32 State Senate seat. The Ripp Report exposes this political corruption across Baldwin County, tackling issues like the Fairhope Single Tax and Mayor obstruction.
+    widget_date: "2018-02-07"
+    generated_at: "2026-11-08T17:48:42.915184Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  big-head-gully-and-the-fruit-nuts:
+    brief: |-
+      THE CONFLICT:
+      *   Big Head Gulley (Tatumville Gulley) in Fairhope, AL was threatened by land development in 1910.
+
+      THE DISCOVERY:
+      *   In 1910, Lee Turner held the position of Head of both Single Tax and Fairhope Planning and Zoning, revealing a conflict of interest regarding the gulley development.
+
+      THE PIVOT:
+      *   The 1910 conflict establishes a historical pattern of collusion between developers and those in planning/tax authority concerning Big Head Gulley, mirroring the current push of the Fairhope Single Tax plan by council members Boone and Brown.
+
+      KEY ENTITIES:
+      *   Big Head Gulley / Tatumville Gulley
+      *   Lee Turner
+      *   Fairhope City Council
+      *   Mr. Burrell (Council President)
+      *   Boone (Council member)
+      *   Brown (Council member)
+      *   Single Tax plan
+      *   Fairhope Planning and Zoning
+      *   1910
+    llm_text: In 1910, Lee Turner, Head of Fairhope Planning and Zoning, oversaw development threats to Big Head Gulley. This historical collusion mirrors how council members Boone and Brown currently push the Single Tax plan.
+    widget_date: "2018-02-06"
+    generated_at: "2026-11-08T17:50:35.056716Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephant-in-a-volkswagen:
+    brief: |-
+      THE CONFLICT:
+      *   In 1994, a watershed flood impacted Magnolia Apartments, causing over $1 million in damage.
+      *   Single Tax pushed the Tatumville Subdivision project (Ordinance 5), which involved transferring an acre of land to the Fairhope Single Tax Corporation.
+      *   The Council historically obstructed the Mayor's appointments to the Airport Authority (Item 13), despite pledges to change this.
+      *   In the present conflict (Big Head Gully), Council President Mr. Burrell led a plan to "drive the Mayor out of office."
+      *   Council members Boone and Brown have direct ties to the Single Tax plan concerning the 12 proposed homes.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Single Tax President Mr. Lee Turner pushed the Tatumville project without single tax membership vote, exhibiting conflict of interest (as chair of Planning and Zoning).
+      *   Article 2 detailed that Mr. Cliff Pittman, a Single Tax board member, was a business partner of Councilman Robert Brown.
+      *   Article 2 established a pattern of procedural violations and self-serving board control within the Airport Authority (the "1%").
+
+      THE PIVOT:
+      *   Article 2 provides the historical context (1994 flood; Tatumville) proving that the current Big Head Gully conflict is not an isolated event, but a recurring pattern of Single Tax driving high-risk development while Council members (Pittman, Brown, Boone) use procedural interference and conflicts of interest to benefit themselves over public safety.
+      *   This pattern is mirrored by the current issue: the 12 homes on the gully banks pose sewer backup risks in the Fruit and Nut section, similar to the risks identified in the Tatumville watershed.
+
+      KEY ENTITIES:
+      *   Fairhope Single Tax
+      *   Fairhope City Council
+      *   Mayor (unnamed, but targeted)
+      *   Mr. Burrell (Council President)
+      *   Mr. Robert Brown (Councilman)
+      *   Councilman Boone
+      *   Mr. Lee Turner (President of Single Tax)
+      *   Mr. Cliff Pittman
+      *   Fairhope Airport Authority
+      *   Tatumville Subdivision
+      *   Big Head Gully (gully)
+      *   Fly Creek
+      *   Tatumville gully
+      *   Fruit and Nut section
+    llm_text: Mr. Lee Turner pushed the Tatumville project without a vote, proving Single Tax conflicts of interest. Councilman Robert Brown and Boone now use procedural interference, mirroring past risks, to approve 12 homes on Big Head Gully.
+    widget_date: "2018-01-27"
+    generated_at: "2026-11-08T17:51:57.580997Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-year-new-problems:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council and the Mayor have struggled with cooperation and obstruction for over a year (as of Main Article).
+      *   In 2018, the City Council struggled with leadership and public participation during the first city council meeting of the new year (Widget Article).
+      *   The council failed to pass the entertainment district decriminalization vote (2/2 split) in 2018 (Widget Article).
+      *   The council previously settled the "triangle lawsuit" (Main Article).
+
+      THE DISCOVERY:
+      *   In 2018, the City Council showed a lack of leadership and discouraged public participation regarding important agenda items (Widget Article).
+      *   The council voted on zoning changes for Greeno road, despite the Mayor's absence due to family care (Widget Article).
+
+      THE PIVOT:
+      *   The 2018 events demonstrate a consistent pattern of council obstruction and poor governance, setting the historical context for the current conflict (Main Article) where the council is actively waging war against the Mayor.
+      *   Past failures in public participation (2018) inform current concerns (Main Article) regarding the Single Tax plan and lack of public input on Big Head Gully development.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Mayor
+      *   Mr. Burrell (Council President)
+      *   Boone
+      *   Brown
+      *   Conyers
+      *   Robinson
+      *   Wilson
+      *   Big Head Gully / big-head-gully
+      *   Fairhope Single Tax
+      *   Tatumville
+      *   Triangle (lawsuit)
+      *   Greeno road
+      *   Green Nursery
+    llm_text: Fairhope City Council exhibited poor governance in 2018, even ignoring the Mayor during the Greeno road zoning vote. This history of obstruction explains the current conflict over the Fairhope Single Tax and Big Head Gully development.
+    widget_date: "2018-01-12"
+    generated_at: "2026-11-08T17:52:50.124787Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  repeat:
+    brief: |-
+      THE CONFLICT:
+      Fairhope City Council obstructed a newly elected Mayor during the 2017-2018 period. Baldwin County faced a $32 million debt related to a "mega site."
+      THE DISCOVERY:
+      The Fairhope City Council historically showed signs of limiting public participation and using silence against challengers, evidenced by the era when Kant ran Fairhope.
+      THE PIVOT:
+      Article 2 establishes a pattern of anti-Mayor obstruction by the Fairhope City Council, making the current conflict (Single Tax, reduction of Mayor's discretionary funds) not an isolated incident but a continuation of documented behavior.
+      KEY ENTITIES:
+      Fairhope City Council
+      Mayor
+      Mr. Burrell (Council President)
+      Boone
+      Brown
+      Kant
+      Fairhope Single Tax
+      Big Head Gully
+      Baldwin County
+    llm_text: The Fairhope City Council historically obstructed Mayors, even when a $32 million debt arose during the 2017-2018 period. Current fights over the Single Tax prove this isn't isolated; it's a documented pattern of anti-Mayor behavior.
+    widget_date: "2018-01-06"
+    generated_at: "2026-11-08T17:53:54.982113Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-party-before-country-or-city:
+    brief: |-
+      THE CONFLICT: Tim Kant ran a corrupt dynasty in Fairhope with no accountability or transparency, supported by connected developers and employees; the local elections were suspected as rigged; the 2020 election saw 62% of voters supporting Roy Moore despite allegations, while Doug Jones received 37% (Daphne/Mobile county supported Jones).
+      THE DISCOVERY: The older article revealed that Jack Burrell is the successor to Tim Kant, adopting the same methods of corrupt stranglehold, and that the current council is following this pattern, prioritizing party over city/country.
+      THE PIVOT: Article 2 establishes that the current obstruction by the Fairhope City Council (Article 1) and Burrell's plan to "drive the Mayor out" is not an isolated conflict, but a continuation of a long-standing, entrenched pattern of local political corruption and lack of municipal ethics dating back to the Kant era.
+      KEY ENTITIES: Tim Kant, Jack Burrell, Karin Wilson (Mayor), Roy Moore, Doug Jones, Fairhope City Council, Boone, Brown, Single Tax, Big Head Gully, Tatumville, Triangle.
+    llm_text: Tim Kant ran a corrupt dynasty in Fairhope, supported by connected developers. Jack Burrell now continues that stranglehold, prioritizing party over the city and obstructing Mayor Karin Wilson's agenda.
+    widget_date: "2017-12-22"
+    generated_at: "2026-11-08T17:49:29.861106Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  job-with-benefits:
+    brief: |-
+      THE CONFLICT:
+      *   Council President Burrell held the position for approximately 5 years.
+      *   The Mayor requested $15,000 to mediate differences, which Burrell declined, taking on the role of mediator for 8 weeks without result.
+      *   Burrell secured attorney fees related to an Ethics complaint through the Fairhope Airport Authority (FAA).
+
+      THE DISCOVERY:
+      *   Burrell’s role functions as a "job with benefits," securing his position through the FAA.
+      *   FAA pays for Burrell’s legal defense against ethical violations.
+      *   FAA controls bids and provides security, insulating him from accountability via the Ethics Commission.
+      *   City finances show $13 million spent on a sewer plant while $10 million was transferred from utility funds to the general fund.
+
+      THE PIVOT:
+      *   Article 2 reveals the specific mechanisms (FAA protection, financial mismanagement) that allow Council President Burrell to maintain the institutional corruption and lack of accountability detailed in Article 1.
+      *   This structure provides the motive and means for the Council’s alleged campaign to "drive the Mayor out of office" (Article 1).
+
+      KEY ENTITIES:
+      *   Burrell (Council President)
+      *   Boone (Council Member)
+      *   Brown (Council Member)
+      *   Fairhope City Council
+      *   Mayor
+      *   Fairhope Airport Authority
+      *   Big Head Gully
+      *   Fairhope Single Tax
+      *   Triangle (Lawsuit)
+    llm_text: Council President Burrell declined $15,000 to mediate disputes, yet the Fairhope Airport Authority (FAA) pays for his legal defense. Discover how the FAA shields Burrell from accountability, enabling his "job with benefits" amidst $10 million in financial mismanagement.
+    widget_date: "2017-10-20"
+    generated_at: "2026-11-08T17:55:01.559108Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,93 @@
+metadata:
+  generated_at: "2026-11-08T22:21:11.675026Z"
+  generator_version: 1.0.0
+  post_slug: baldwin-county-family-court
+  main_date: "2017-09-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  opposition-obstruction:
+    brief: |-
+      THE CONFLICT: Fairhope City Council meeting on Sept 11; Council, led by President Jack Burrell, rejected the Mayor's insurance bid, which was submitted second and 23 hours after the deadline.
+      THE DISCOVERY: The Fairhope City Council operates as a unit to obstruct the Mayor's recommendations, resulting in a $60,000 loss to taxpayers and suboptimal coverage.
+      THE PIVOT: There are no direct factual connections, shared individuals, or overlapping events linking the Fairhope City Council obstruction to the judicial issues in Baldwin County Family Court.
+      KEY ENTITIES: Judge Thomason; Craig Pittman; Jack Burrell; Councilman Boone; Board of Baldwin Substance Abuse Services.
+    llm_text: Fairhope City Council, led by President Jack Burrell, rejected the Mayor's insurance bid—submitted 23 hours late—costing taxpayers $60,000. Discover how the Council obstructs the Mayor's recommendations and impacts crucial local spending.
+    widget_date: "2017-09-15"
+    generated_at: "2026-11-08T22:17:30.127022Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  corruption-is-legal-in-america:
+    brief: |-
+      THE CONFLICT:
+      *   Judge Thomason (Baldwin County Family Court) was facing complaints regarding incompetence and unethical rulings (e.g., mishandling medical records, disregarding expert custody recommendations, failing to sanction perjury) over the last few years.
+      *   Judge Thomason announced she was running for the Court of Appeals position vacated by Craig Pittman.
+      *   The election for her current position was set for Nov. 2018.
+
+      THE DISCOVERY:
+      *   The Widget Article highlights that political corruption is flourishing in Baldwin County due to low voter turnout (only 17% of voters exercising their right to vote).
+      *   The Widget Article notes that anti-corruption efforts via the Alabama Ethics Commission have proven "fruitless."
+      *   The Widget Article mentions previous local incidents requiring transparency, such as the Fairhope Airport Authority scandal, soccer fields, lawsuits, fly creek apartments, and the sewer plant contract.
+
+      THE PIVOT:
+      *   The Widget Article establishes that systemic, county-level political corruption and the ineffectiveness of oversight bodies (Alabama Ethics Commission) are pervasive issues in Baldwin County.
+      *   This context suggests that the lack of accountability for Judge Thomason (as noted in the Main Article, where the State Judiciary and Alabama Bar Association turn a blind eye) is not an isolated failure but part of a broader, entrenched pattern of corruption requiring citizen action (voting).
+
+      KEY ENTITIES:
+      *   Judge Thomason
+      *   Craig Pittman
+      *   Baldwin County Family Court
+      *   Court of Appeals
+      *   Board of Baldwin Substance Abuse Services
+      *   Alabama Ethics Commission
+      *   Baldwin County
+      *   Republican Party
+      *   Fairhope Airport Authority
+      *   Ripp Report
+    llm_text: Judge Thomason faced complaints over incompetence at Baldwin County Family Court, yet she now runs for Court of Appeals. Low voter turnout and an ineffective Alabama Ethics Commission confirm systemic corruption requires your citizen action now.
+    widget_date: "2017-09-13"
+    generated_at: "2026-11-08T22:18:18.453003Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  divorce-corp:
+    brief: |-
+      THE CONFLICT: Ongoing complaints and systemic issues in Baldwin County Family Court regarding divorce and child custody, documented leading up to the 2020 re-election cycle.
+      THE DISCOVERY: Judge Michelle Thomason (District Court Place 1) was facing numerous complaints for creating a "cottage industry" out of divorce in Baldwin County, often involving Attorney Stephen "bottom feeder" Johnson.
+      THE PIVOT: Article 2 established the long-term, systemic pattern of complaints against Thomason and her associates (Johnson, Bracken), providing historical context for the specific 2018 allegations of dirty politics, procedural incompetence, and financial opacity detailed in Article 1.
+      KEY ENTITIES: Judge Michelle Thomason, Attorney Stephen "bottom feeder" Johnson, Craig Pittman, Jack Burrell, Judge "buddy" Bracken, Baldwin County Family Court, Board of Baldwin Substance Abuse Services
+    llm_text: Judge Michelle Thomason allegedly ran a divorce "cottage industry" in Baldwin County Family Court. Attorney Stephen Johnson fueled this system, exposing systemic issues and dirty politics that hurt local families.
+    widget_date: "2017-09-06"
+    generated_at: "2026-11-08T22:19:28.917636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-family-court-a-cottage-industry:
+    brief: |-
+      THE CONFLICT:
+      *   District Judge Michelle Thomason's rulings in Baldwin County Family Court generated consistent complaints, including up to 6 filed against her in the last 18 months.
+      *   Issues included forced joint physical custody, allowing illegal access to medical records, failure to enforce perjury, and turning divorce/child custody into a 12-year "cottage industry."
+      *   In November 2018, Judge Thomason announced her candidacy for the Court of Appeals position, vacated by retiring Judge Craig Pittman.
+
+      THE DISCOVERY:
+      *   In 2017, presiding Judge Floyd implemented procedural changes to limit Thomason's influence, including assigning temporary motions for her cases to other circuit judges (Bosch, Bishop, Norton, Taylor).
+      *   Thomason's domestic violence dockets were specifically removed from her control in 2017.
+      *   The Judiciary dismissed all 6 complaints filed against Thomason.
+      *   Specific attorneys linked to the "cottage industry" were identified as Steven Johnson and Buddy Brackin.
+
+      THE PIVOT:
+      *   Article 2 (2017) establishes that the court system attempted structural reforms to mitigate Thomason’s poor judgment before her 2018 election run.
+      *   Article 2 validates the public call to "vote out Judge Thomason" by detailing the dismissed complaints and documented judicial misconduct (e.g., violating Judicial Canons 5 and 7 via political activity).
+      *   Article 2 provides the historical context for the political accusations (e.g., using the Republican party to retaliate) made in Article 1, showing a pattern of systemic failure to hold her accountable despite evidence.
+
+      KEY ENTITIES:
+      *   Michelle Thomason
+      *   Craig Pittman
+      *   Judge Floyd
+      *   Judge Bosch
+      *   Judge Bishop
+      *   Judge Norton
+      *   Judge Taylor
+      *   Steven Johnson
+      *   Buddy Brackin
+      *   Eastern Shore Republican Women
+      *   Baldwin County Family Court
+      *   November 2018
+    llm_text: Michelle Thomason drew six complaints for turning Baldwin County Family Court into a 12-year "cottage industry." Judge Floyd implemented limits in 2017 before her November 2018 run, yet the judiciary dismissed all claims of judicial misconduct.
+    widget_date: "2016-10-28"
+    generated_at: "2026-11-08T22:20:49.160347Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

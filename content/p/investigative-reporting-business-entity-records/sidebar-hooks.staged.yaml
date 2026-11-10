@@ -1,0 +1,176 @@
+metadata:
+  generated_at: "2026-11-09T06:22:00.395953Z"
+  generator_version: 1.0.0
+  post_slug: investigative-reporting-business-entity-records
+  main_date: "2017-01-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT:
+      *   2016: Kevin Boone (Councilman of Fairhope) voted on multiple projects (e.g., Fly Creek Apartments, Retreat at Fairhope Village; Oct 3, 2016; Sept 3, 2016) involving Dewberry/Preble-Rish, LLC.
+      *   Boone did not recuse himself despite his business partnership with John Avent, who presented projects for the firm.
+      *   Dewberry/Preble-Rish, LLC donated $2500 to Kevin Boone's re-election campaign.
+
+      THE DISCOVERY:
+      *   The 2016 voting records demonstrated a clear conflict of interest where Boone favored projects tied to Dewberry/Preble-Rish, LLC.
+
+      THE PIVOT:
+      *   The 2008 entity record (North Ridge, LLC, Formation Date 6-2-2008) proves the pre-existing, documented business partnership between Kevin Boone and John G Avent, establishing the long-term connection that fueled the 2016 ethical violations.
+
+      KEY ENTITIES:
+      *   Kevin Boone
+      *   John G Avent
+      *   North Ridge, LLC (Entity ID 420-935)
+      *   Dewberry/Preble-Rish, LLC
+      *   Fairhope Planning and Zoning Commission
+      *   Baldwin County
+      *   Summerdale, AL (Principal Address)
+    llm_text: Kevin Boone voted on Dewberry/Preble-Rish projects in 2016 despite a long-term business partnership with John Avent. Records show this conflict fueled a $2500 campaign donation, revealing ethical violations in Fairhope Planning and Zoning.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T06:15:35.987920Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-spiders-web:
+    brief: |-
+      THE CONFLICT:
+      *   Elected officials in Baldwin County (Kevin Boone, Tucker Dorsey, Chris Elliott) used LLCs to conceal business and personal connections and promote self-serving interests.
+      *   Kevin Boone was accused of voting for specific engineering firms while eliminating others and failing to recuse himself from conflicts regarding Baldwin County Sewer.
+      *   Trip Pittman was noted for using his office to fleece Fairhope out of BP money.
+      *   The Ethics Commission in Alabama was criticized for failing to enforce ethical standards.
+
+      THE DISCOVERY:
+      *   On 6-2-2008, North Ridge, LLC was formed in Baldwin County, AL.
+      *   North Ridge, LLC (Entity ID 420-935) lists John G Avent and Kevin Boone as members.
+
+      THE PIVOT:
+      *   The older Widget Article established the conflict of interest between Kevin Boone and John Avent regarding Baldwin County Sewer and voting decisions.
+      *   The newer Main Article provides the verifiable, dated legal record (Certificate of Formation, 6-2-2008) confirming the financial connection between Kevin Boone and John G Avent through North Ridge, LLC.
+
+      KEY ENTITIES:
+      *   Kevin Boone
+      *   John G Avent
+      *   North Ridge, LLC
+      *   Baldwin County
+      *   Summerdale, AL
+      *   Tucker Dorsey
+      *   Chris Elliott
+      *   Trip Pittman
+      *   Goobers Jack Burrell
+      *   Fairhope
+      *   Alabama Ethics Commission
+    llm_text: Kevin Boone concealed self-serving interests in Baldwin County Sewer using North Ridge, LLC. This 2008 formation links Boone directly to John G Avent, revealing how local officials hid critical business connections.
+    widget_date: "2017-01-18"
+    generated_at: "2026-11-09T06:17:43.290366Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  driving-under-the-influence:
+    brief: |-
+      THE CONFLICT:
+      *   DUI prevalence in Baldwin County, AL, is noted as a steady source of income for the judiciary and non-profits.
+      *   Baldwin Substance Abuse Services, Inc. (BSAS), formed 10-4-2007, is criticized as a "cash cow" for its incorporators, including Judge Thomason.
+      *   Baldwin County Commissioner Chris Elliott was busted for DUI in Fairhope (2016 context).
+
+      THE DISCOVERY:
+      *   BSAS, a Domestic Non-Profit Corporation (ID 566-683), operates in Baldwin County, AL.
+      *   BSAS requires defendants to attend mandatory 24-hour education classes ($400) and drug tests ($300), paid in cash.
+      *   BSAS has not provided public financial statements despite handling county fines.
+
+      THE PIVOT:
+      *   The North Ridge, LLC formation (6-2-2008) establishes a historical presence of real property investment in Baldwin County, AL.
+      *   Both the LLC and BSAS operate within Baldwin County, AL, during a period (2008-2016) where local judicial and business activities were documented.
+
+      KEY ENTITIES:
+      *   John G Avent
+      *   Kevin Boone
+      *   North Ridge, LLC
+      *   Baldwin Substance Abuse Services, Inc. (BSAS)
+      *   Judge Thomason
+      *   Chris Elliott
+      *   James Ball
+      *   Baldwin County, AL
+      *   6-2-2008 (North Ridge LLC formation)
+      *   10-4-2007 (BSAS formation)
+    llm_text: Judge Thomason and Baldwin Substance Abuse Services, Inc. allegedly turn Baldwin County DUI fines into income for incorporators. This cash system, used even after Commissioner Chris Elliott's 2016 bust, lacks public financial statements.
+    widget_date: "2016-05-20"
+    generated_at: "2026-11-09T06:19:10.620351Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-re-fired:
+    brief: |-
+      THE CONFLICT:
+      *   In October 2010, the Alabama Ethics Commission issued a 4-0 advisory opinion stating Baldwin County Commissioner Tucker Dorsey should not vote or participate in matters related to BCSS due to a conflict of interest with his personal financial interests.
+      *   The specific complaint referenced was that Dorsey did not heed this unanimous advice.
+
+      THE DISCOVERY:
+      *   On June 2, 2008, North Ridge, LLC (Entity ID 420-935) was formed in Baldwin County, Summerdale, AL.
+      *   North Ridge, LLC's nature of business is to ACQUIRE/MANAGE/DEVELOP/LEASE/SELL/EXCHANGE REAL PROPERTY.
+      *   Named members of North Ridge, LLC include John G Avent and Kevin Boone.
+
+      THE PIVOT:
+      *   The 2008 formation records (Article 1) document specific business entities and ownership (Avent, Boone) in Baldwin County, establishing historical financial and real property connections that provide context for the ethical scrutiny and conflict-of-interest questions raised against public officials like Tucker Dorsey in 2016 (Article 2).
+
+      KEY ENTITIES:
+      *   John G Avent
+      *   Kevin Boone
+      *   Tucker Dorsey
+      *   North Ridge, LLC
+      *   Baldwin County
+      *   Alabama Ethics Commission
+      *   Summerdale, AL
+      *   6-2-2008
+      *   July 29, 2016
+      *   BCSS
+    llm_text: Tucker Dorsey ignored a 2010 ethics advisory regarding BCSS conflicts of interest. We uncovered North Ridge, LLC, formed in 2008 with John G Avent and Kevin Boone, linking historical Baldwin County real estate to Dorsey’s ethical scrutiny.
+    widget_date: "2016-07-29"
+    generated_at: "2026-11-09T06:20:35.687597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigative-reporting:
+    brief: |-
+      THE CONFLICT:
+      BP Fraud and corruption occurred in Baldwin County involving Mayor Kant and Senator Pittman, beginning around November 20, 2010.
+      The case led to an FBI investigation and a special council led by Matt Hart, resulting in the conviction of Speaker of the House Mike Hubbard.
+
+      THE DISCOVERY:
+      North Ridge, LLC was formed on 6-2-2008 in Baldwin County (Summerdale, AL).
+      This LLC listed John G Avent and Kevin Boone as members.
+
+      THE PIVOT:
+      Article 2 provides the historical context of systemic BP Fraud and documented political corruption within Baldwin County (the location of North Ridge, LLC) prior to and during the activities of the individuals named in Article 1.
+
+      KEY ENTITIES:
+      John G Avent
+      Kevin Boone
+      North Ridge, LLC
+      Summerdale, AL
+      Mayor Kant
+      Senator Pittman
+      Connie Baggett
+      Mike Hubbard
+      Matt Hart
+    llm_text: BP fraud involving Mayor Kant and Senator Pittman fueled Mike Hubbard’s conviction in Baldwin County. Did John G Avent and Kevin Boone’s North Ridge, LLC show systemic corruption in Summerdale, AL, before the scandal hit?
+    widget_date: "2016-06-21"
+    generated_at: "2026-11-09T06:21:43.579558Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  memorial-day-special-edition:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County and the City of Fairhope exhibited local government corruption and conflicts of interest.
+      *   Involvement included Jennifer Fidler (Public Works Director), Senator Slippery Trip Pittman, and Sheriff Hoss Mack.
+      *   Conflicts included Pittman operating without an Alabama contractor's license and misuse of BP Boom Grant Funds.
+
+      THE DISCOVERY:
+      *   Article 2 established that public officials in Baldwin County (Fairhope/Baldwin County Commission) were involved in business deals and conflicts of interest prior to 2008.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context of localized corruption in Baldwin County, setting the stage for the 2008 formation of North Ridge, LLC, which includes members John G Avent and Kevin Boone.
+
+      KEY ENTITIES:
+      *   John G Avent
+      *   Kevin Boone
+      *   North Ridge, LLC (Entity ID 420 - 935)
+      *   Baldwin County
+      *   Jennifer Fidler
+      *   Trip Pittman
+      *   Hoss Mack
+    llm_text: Jennifer Fidler, Senator Trip Pittman, and Sheriff Hoss Mack faced corruption charges in Baldwin County over misused BP Boom Grant Funds. This local trouble predates 2008, connecting to North Ridge, LLC and the history of John G Avent.
+    widget_date: "2014-05-26"
+    generated_at: "2026-11-09T06:16:51.436126Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

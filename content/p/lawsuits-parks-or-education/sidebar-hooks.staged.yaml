@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T12:26:52.051002Z"
+  generator_version: 1.0.0
+  post_slug: lawsuits-parks-or-education
+  main_date: "2015-05-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  restaurant-smoke-complaint:
+    brief: |-
+      THE CONFLICT: Nichols Street smoke dispute involving a commercial cooker owner (Tamara's, The Venue, Pelican Patio) who was ignored by the Mayor, City Council, police, and health department.
+      THE DISCOVERY: The Mayor and City Council prioritized the interests of a specific business owner over community complaints from neighbors.
+      THE PIVOT: The past inaction and favoritism (Article 2) demonstrates the City Council’s pattern of prioritizing specific interests (like large lawsuits/parks) over broader citizen welfare (like education funding), directly relating to the current $17 Million spent on lawsuits and parks versus $350 thousand donated to education following the March 31 referendum failure (Article 1).
+      KEY ENTITIES: Fairhope City Council, Jack Burrell (Council President), Diana Brewer (council person), Mayor, Nichols Street, Baldwin County School System, Tamara's, The Venue, Pelican Patio, $12 Million (lawsuit settlement), $17 Million (total lawsuit/parks cost), $350 thousand (education donation).
+    llm_text: The Mayor and City Council ignored Nichols Street smoke complaints from Tamara's and The Venue. This favoritism reveals how the council spent $17 million on lawsuits instead of supporting education with the crucial $350 thousand.
+    widget_date: "2015-04-20"
+    generated_at: "2026-11-09T12:25:14.215287Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-legal-eagle:
+    brief: |-
+      THE CONFLICT: Baldwin County Commissioners (2015) fully endorsed property tax increases for schools, contradicting initial conservative no-tax pledges. A failed property tax referendum vote occurred on March 31 (current context).
+      THE DISCOVERY: In March 2015, the Baldwin County Legal Eagle exposed Fairhope's poor management, lack of checks and balances, and that lawsuit settlements, developer favorism, and crony contracts were costing taxpayers millions.
+      THE PIVOT: Article 2 (2015) provides historical evidence of systemic mismanagement and corruption (costing millions in legal fees/contracts) in Fairhope, explaining the current disproportionate spending of $17 Million on lawsuits and parks versus the $350 thousand donated to education (current context).
+      KEY ENTITIES: Jack Burrell, Diana Brewer, Fairhope City Council, Baldwin County School System, Baldwin County Legal Eagle, Mayor (Fairhope), March 30 2015, March 31 referendum vote, $12 Million lawsuit settlement, $17 Million in total lawsuits/parks.
+    llm_text: Fairhope spent $17 million on lawsuits and parks, dedicating only $350k to schools. The Baldwin County Legal Eagle exposed this systemic mismanagement in 2015, detailing how crony contracts and legal fees drive today's tax debates.
+    widget_date: "2015-03-30"
+    generated_at: "2026-11-09T12:26:24.999292Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

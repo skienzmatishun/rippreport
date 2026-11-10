@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T14:26:07.963466Z"
+  generator_version: 1.0.0
+  post_slug: alabama-political-corruption-exposed
+  main_date: "2013-09-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  judge-sentences-bayou-la-batre-mayor:
+    brief: |-
+      THE CONFLICT: Mayor Tim Kant and Senator Trip Pittman were covering up BP Boom fraud for three years, leading to a sentencing by U.S. District Judge Kristi DuBose on June 30, 2013.
+      THE DISCOVERY: The BP Boom Scandal involved millions flowing into the mayor's hands, compromised municipal elections in Fairhope, and included County Commissioners Bob "Five Fingers" James, Burt, and Dorsey.
+      THE PIVOT: Article 2 establishes the historical context of the BP Boom fraud (2013 sentencing) which forms the basis of the ongoing federal investigation into Mayor Kant and Senator Pittman referenced in Article 1 (pending case under Matt Hart).
+      KEY ENTITIES: Mayor Tim Kant, Senator Trip Pittman, Judge Kristi DuBose, Matt Hart, Connie Bagget, Bob "Five Fingers" James, Burt, Dorsey, Luther Strange, Mike Hubbard, Alabama State Attorney General's Office, BP Boom Scandal, November 10, 2010, Mobile Press-Register.
+    llm_text: Mayor Tim Kant and Senator Trip Pittman covered up BP Boom fraud for years, leading to Judge Kristi DuBose's 2013 sentencing. Discover how this scandal, which compromised Fairhope elections, fuels the ongoing federal investigation Matt Hart tracks.
+    widget_date: "2013-06-30"
+    generated_at: "2026-11-09T14:25:04.398958Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-belated-new-year-clean-sweep:
+    brief: |-
+      THE CONFLICT: BP Boom Scam involved Mayor Tim Kant and Senator Lee "Trip" Pittman; this issue was a known concern leading up to the 2012 election.
+      THE DISCOVERY: The 2012 election in Fairhope saw the election of four new council members, and Mayor Kant and Trip Pittman were still considered subject to indictment for the BP Boom Scam.
+      THE PIVOT: Article 2 establishes that the BP Boom Scam and potential indictment against Kant and Pittman were established, public, and ongoing issues *before* the current high-level political corruption investigations (Article 1), providing historical context to their continued scrutiny under Matt Hart.
+      KEY ENTITIES: Tim Kant, Trip Pittman, Matt Hart, Connie Bagget, Mike Hubbard, Luther Strange, Bradley Byrne, Bob Riley, Governor Robert Bentley, Dr. Chris Warner, Paul Ripp, Fairhope, Alabama State Attorney General's Office, Mobile Press-Register, BP Boom Scandal.
+    llm_text: Tim Kant and Trip Pittman faced the BP Boom Scam scrutiny well before the 2012 election. See how this long-standing scandal provides vital context for Matt Hart's ongoing high-level corruption investigations.
+    widget_date: "2013-03-15"
+    generated_at: "2026-11-09T14:25:51.006279Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

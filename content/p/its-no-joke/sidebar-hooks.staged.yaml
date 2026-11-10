@@ -1,0 +1,119 @@
+metadata:
+  generated_at: "2026-11-08T20:49:09.913740Z"
+  generator_version: 1.0.0
+  post_slug: its-no-joke
+  main_date: "2017-11-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-lawsuits:
+    brief: |-
+      THE CONFLICT: Fairhope City Council has a history of lawsuits costing taxpayers millions (e.g., "triangle lawsuit" involving Jack).
+      THE DISCOVERY: Fairhope City Council decided to pay fired employees rather than go to court, though the full truth remains private via executive session.
+      THE PIVOT: The articles discuss separate topics (Fairhope local government issues vs. Roy Moore's Senate race/economic impact in Alabama) and do not provide a factual connection or make Article 2 a "smoking gun" for Article 1.
+      KEY ENTITIES: Roy Moore, H Bryant Ayers, Fairhope City Council, Council President Burrell, Fly Creek, Jack, Alabama Senate race.
+    llm_text: Fairhope City Council has racked up millions in taxpayer lawsuits, like the "triangle lawsuit" involving Jack. Did Council President Burrell lead them to quietly pay fired employees instead of facing public court battles?
+    widget_date: "2017-10-27"
+    generated_at: "2026-11-08T20:41:55.457350Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bonus-money:
+    brief: |-
+      THE CONFLICT:
+      *   Complaints were submitted to the Alabama Ethics Commission regarding alleged wrongdoing by Jack Burrell and Hix in Fairhope Airport.
+      *   On Oct. 19, Hix and Snedeker sent letters to Fairhope Mayor Karin Wilson and Burrell seeking closure on "slanderous and conspiratorial behavior."
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission concluded there was no probable cause that Jack Burrell or Hix committed a violation of the Alabama Ethics Act.
+      *   Fairhope City Council used taxpayer money to settle the Sherry Sullivan claim without a trial, allegedly led by Jack Burrell.
+
+      THE PIVOT:
+      *   Article 2 provides historical context regarding local governance and ethics investigations in Fairhope involving Jack Burrell.
+      *   This local context (Article 2) is separate from the national political analysis in Article 1, which focuses on the projected economic and international isolation of Alabama if Roy Moore is elected Senate.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   H Bryant Ayers
+      *   Jack Burrell
+      *   Hix
+      *   Snedeker
+      *   Karin Wilson (Fairhope Mayor)
+      *   Sherry Sullivan
+      *   Alabama Ethics Commission
+    llm_text: Jack Burrell and Hix faced ethics complaints regarding Fairhope Airport, but the Alabama Ethics Commission found no violation. Read how Fairhope Mayor Karin Wilson handled the Sherry Sullivan claim using taxpayer money.
+    widget_date: "2017-10-25"
+    generated_at: "2026-11-08T20:44:14.897465Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wonderful-wednesday-4:
+    brief: |-
+      THE CONFLICT: Mr. Burrell and Mr. Boone were part of the last administration in Fairhope; they handled the airport, soccer fields, and the triangle lawsuit totaling around $50 million.
+      THE DISCOVERY: The Fairhope City Council initiated an investigation into Elias Technologies using subpoenas to gather information intended to assist Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat, who are seeking $100,000 each in litigation.
+      THE PIVOT: Article 2 details local Fairhope municipal governance and litigation conflicts; it bears no factual or contextual relationship to the national political commentary concerning Roy Moore's potential impact on Alabama's economy and global standing (Article 1).
+      KEY ENTITIES: Roy Moore, H Bryant Ayers, Mr. Burrell, Mr. Boone, Mayor Kant, Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat, Jay Robinson
+    llm_text: Fairhope City Council subpoenaed Elias Technologies amid a $50M lawsuit involving Mr. Burrell and Mr. Boone. Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat are now seeking $100,000 each in this local governance investigation.
+    widget_date: "2017-08-23"
+    generated_at: "2026-11-08T20:46:37.607765Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  covered-in-oil:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County voted out corrupt politicians Tim Kant and Trip Pittman due to the BP scam and Fairhope Airport Authority "bidding" scandal.
+      *   Election results show Roy Moore (Former Ala. Chief Justice) received 39% of the vote in the Republican runoff.
+      *   Trip Pittman (BP contractor, Ala. State Senator) received 7% of the vote in the Republican runoff.
+      *   Doug Jones (Former U.S. Attorney) won the Democratic election with 64%.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Trip Pittman was rejected by constituents, receiving only 7% of the vote, confirming high levels of political corruption in Baldwin County.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context of political corruption and public rejection (e.g., Pittman’s 7% vote) in Alabama, which informs Article 1's warning that Roy Moore's election would lead to massive economic loss and international isolation due to his personal religious beliefs overriding the Constitution.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Trip Pittman
+      *   Tim Kant
+      *   Luther Strange
+      *   Doug Jones
+      *   H Bryant Ayers
+      *   Fairhope Airport Authority
+      *   BP
+      *   Alabama Senate race
+    llm_text: Baldwin County voted out corrupt politicians Tim Kant and Trip Pittman over the BP scam. Learn how Pittman's 7% rejection confirms deep corruption, warning that Roy Moore's election threatens massive economic loss for Alabama.
+    widget_date: "2017-08-16"
+    generated_at: "2026-11-08T20:45:17.130221Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fake-news-and-retaliation:
+    brief: |-
+      THE CONFLICT: Local political conflict in Fairhope/Baldwin County involving Mayor of Fairhope, Tim Kant, and former employees Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat regarding alleged assault and obstruction of the Mayor.
+      THE DISCOVERY: The GCN Courier (media choice of Catalyst) reported on this local dispute, revealing that Catalyst is supported by Councilman Boone (whose son is director) and Jack Burrell, who allegedly engaged in misdeeds ("come fly with me") related to Fairhope Airport.
+      THE PIVOT: Article 2 establishes a local context of political corruption, favoritism (Boone/Burrell), and media bias within Alabama, setting a backdrop of political instability and questionable conduct that contrasts with the national economic warnings raised by Article 1 regarding Roy Moore's Senate candidacy.
+      KEY ENTITIES: Roy Moore, H Bryant Ayers, Tim Kant, Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat, Mayor of Fairhope, Councilman Boone, Jack Burrell, Fairhope Airport, Catalyst, GCN Courier.
+    llm_text: Mayor Tim Kant faces conflict with former employees like Jennifer Fidler and Sherry Sullivan in Fairhope. This local dispute reveals political favoritism involving Councilman Boone and Jack Burrell, highlighting corruption beyond national headlines.
+    widget_date: "2017-08-09"
+    generated_at: "2026-11-08T20:47:47.443151Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jack-ass:
+    brief: |-
+      THE CONFLICT:
+      Tripp Pittman, an elected official of Fairhope/Baldwin County, awarded the 2017 Disaster Debris Removal Contract (Bid No. 009-17) to Pittman Tractor and siphoned $750,000 from BP funds using his position as "trustee." This corruption occurred while Pittman was making a run for the US Senate seat vacated by Jeff Sessions.
+
+      THE DISCOVERY:
+      Article 2 revealed documented political corruption involving City Council President Jack Burrell and Senator Pittman, who leveraged his political office to obtain municipal contracts and misused trust funds.
+
+      THE PIVOT:
+      Article 2 provides historical evidence of systemic political corruption and ethical failures in Alabama governance, contextualizing the moral critiques levied against Roy Moore in Article 1 and demonstrating that Alabama's governance issues are rooted in established political malfeasance, not solely individual moral beliefs.
+
+      KEY ENTITIES:
+      Roy Moore, H Bryant Ayers, Tripp Pittman, Jack Burrell, Luther Strange, Jeff Sessions, Fairhope, Baldwin County, BP funds.
+    llm_text: Tripp Pittman and Jack Burrell leveraged their Fairhope power, siphoning $750,000 from BP funds using the 2017 Disaster Debris Removal Contract. This systemic political corruption proves Alabama's governance issues run deeper than individual moral critiques like those against Roy Moore.
+    widget_date: "2017-07-26"
+    generated_at: "2026-11-08T20:43:02.706768Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  airport-diversion:
+    brief: |-
+      THE CONFLICT: Ethics complaint against Council President Jack Burrell and Airport board member Ray Hix in Fairhope is ongoing despite being ruled 'baseless.'
+      THE DISCOVERY: Article 2 revealed municipal financial issues involving invoices and letters for computer work contracted by the City of Fairhope and the resignation of Deborah Smith.
+      THE PIVOT: Article 2 establishes a pattern of local political ethical and financial instability in Fairhope, providing historical context regarding the challenges to public trust and governance that exist locally, which contrasts with Article 1's discussion of the national economic risk posed by Roy Moore's personal beliefs.
+      KEY ENTITIES: Roy Moore, Jack Burrell, Ray Hix, Fairhope Airport, Councilman Brown, Deborah Smith
+    llm_text: The ethics complaint against Council President Jack Burrell and Ray Hix persists in Fairhope. Discover how municipal financial issues involving Deborah Smith and city contracts reveal a pattern of local political instability.
+    widget_date: "2017-07-19"
+    generated_at: "2026-11-08T20:48:54.947367Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

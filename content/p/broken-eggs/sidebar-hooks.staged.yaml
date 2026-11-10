@@ -1,0 +1,147 @@
+metadata:
+  generated_at: "2026-11-08T21:28:26.018887Z"
+  generator_version: 1.0.0
+  post_slug: broken-eggs
+  main_date: "2017-10-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  wetlands:
+    brief: |-
+      THE CONFLICT: Ongoing sewer spills and sewage dumping into the bay in Fairhope, Daphne, and Spanish Fort; Political decisions included the gift of wetlands to the city and a $10 million transfer from utilities to general budget in 2015 and 2016.
+
+      THE DISCOVERY: In the Oct 9th, 2017 City Council meeting, Baykeepers presented testing of water in 12 locations, including Fly Creek Watershed; Landowner Arthur Corte refused testing on his property, impacting the inspection of the Firefly subdivision wetlands.
+
+      THE PIVOT: Article 2 establishes a documented history of ignored environmental failures (sewage/wetlands) in 2017, confirming that infrastructure and environmental neglect were chronic problems predating/coinciding with the political obstruction and poor policy track record (e.g., $6 million substandard soccer fields, utility fund misuse) highlighted during Jack Burrell’s presidency (Article 1).
+
+      KEY ENTITIES: Jack Burrell, Kevin Boone, Arthur Corte, Chunk Zunk, Ray Hix, Snedeker, Boone, Casi Callaway, Fairhope Airport Authority (FAA), Fly Creek Watershed, Firefly, Jim Graves, Myron Riley, ADEM Lance Leflur, Glenn Cunningham.
+    llm_text: Sewage spills plague Fairhope and Daphne, revealing chronic environmental neglect during Jack Burrell's presidency. Arthur Corte's 2017 refusal to test Fly Creek Watershed blocked critical data on Firefly subdivision wetlands.
+    widget_date: "2017-10-11"
+    generated_at: "2026-11-08T21:20:53.661901Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  can-you-smell-it:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope has historically faced unreported sewer spills into Mobile Bay/Fly Creek.
+      *   In 2015 and 2016, Fairhope utilities paid the city $10 million for non-utility expenses.
+      *   The previous Mayor/Council (including Tim Kant) spent $13 million on upgrading the sewer plant on the bay instead of moving the plant inland.
+      *   Jack Burrell (Council President) and Boone were involved during periods of poor infrastructure (soccer fields, triangle lawsuit, etc.).
+
+      THE DISCOVERY:
+      *   Article 2 revealed that despite the $10 million transfer and $13 million sewer upgrade, zero funds were allocated to necessary infrastructure repair, leading to millions in repair bills.
+      *   The sewer spills and environmental impacts occurred under previous leadership (Tim Kant).
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of financial mismanagement and environmental neglect (prioritizing non-infrastructure/sewer upgrades over essential city maintenance) that predates and contextualizes the current accusations of obstruction and poor governance made against Jack Burrell in Article 1.
+      *   The $10M transfer (2015/2016) cited in Article 2 confirms the financial neglect referenced in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Boone
+      *   Tim Kant (Previous Mayor)
+      *   Karen Wilson (New Mayor)
+      *   Chunk Zunk (Fairhope Airport Authority)
+      *   Ray Hix
+      *   Snedeker (Fairhope Municipal Judge)
+      *   Robert Brown
+      *   Conyers
+      *   Robinson
+      *   Fairhope Airport Authority (FAA)
+      *   Mobile Baykeeper
+      *   Fairhope City Council
+      *   2015, 2016
+    llm_text: Tim Kant’s previous leadership spent $13 million on sewer upgrades but ignored essential infrastructure repair, causing Mobile Bay spills. This pattern, confirmed by the 2015/2016 $10M transfer, contextualizes current governance concerns involving Jack Burrell.
+    widget_date: "2017-10-06"
+    generated_at: "2026-11-08T21:23:23.389616Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  switching-hats:
+    brief: |-
+      THE CONFLICT: Jack Burrell served as City Council President for 5 years (Widget Article); this period involved the triangle lawsuit, sewer plant issues, gift of wetlands (from Corte), soccer fields, and the Airport debacle.
+      THE DISCOVERY: Jack Burrell was responsible for obstructing the Mayor and involved in major city failures; Lee Turner exploited dual roles (Planning and Zoning/Single Tax) to facilitate the Tatumville Gully development.
+      THE PIVOT: Article 2 establishes Burrell's long-standing pattern of obstruction and involvement in specific crises (Airport, sewer, fields), providing historical context for the current conflicts of interest (Hix/Snedeker) and the ongoing Airport Authority issues involving Mr. Chunk Zunk.
+      KEY ENTITIES: Jack Burrell, Mr. Chunk Zunk, Ray Hix, Fairhope Municipal Judge Snedeker, Lee Turner, Robert Brown, Boone, Fairhope Airport Authority, Fairhope City Council, Planning and Zoning.
+    llm_text: Jack Burrell oversaw the Airport debacle and sewer crises during his 5-year City Council presidency. Lee Turner exploited dual roles for Tatumville Gully, revealing Burrell's long pattern of obstruction impacting today's Airport Authority issues.
+    widget_date: "2017-09-29"
+    generated_at: "2026-11-08T21:26:43.612318Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  opposition-obstruction:
+    brief: |-
+      THE CONFLICT: Council meeting on September 11 saw the Fairhope City Council reject a second city insurance bid (received 23 hours after the deadline), despite the Mayor providing the bid. This decision cost taxpayers/employees $60,000 and resulted in poorer coverage.
+      THE DISCOVERY: Article 2 demonstrated the City Council's pattern of opposing the Mayor's office and prioritizing its own agenda over taxpayer interests.
+      THE PIVOT: Article 2 established the historical precedent of Council obstruction; Article 1 shows this pattern continuing, specifically by preventing the Mayor from reviewing the budget and passing oversight to an appointed committee.
+      KEY ENTITIES: Jack Burrell (Council President), Councilman Boone, Chunk Zunk (ex-Fairhope Airport Authority/FAA), Ray Hix, Fairhope Municipal Judge Snedeker, Fairhope City Council, Fairhope Airport Authority.
+    llm_text: Fairhope Council rejected the Mayor's late insurance bid, costing taxpayers $60,000 and resulting in poorer coverage. This pattern of obstruction, involving Jack Burrell and Councilman Boone, shows the Council prioritizes its agenda over taxpayer interests.
+    widget_date: "2017-09-15"
+    generated_at: "2026-11-08T21:24:35.864024Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-a-drainage-ditch:
+    brief: |-
+      THE CONFLICT:
+      - In 2016, the Fairhope City Council and Mayor allowed the Fly Creek Apartments project, despite public concerns regarding runoff, erosion, and sedimentation impacting the vital Fly Creek Watershed.
+      - In Oct 2016, the council endorsed the project, which included a drainage plan causing excess stormwater discharge directly into wetlands draining into Fly Creek.
+      - Jack Burrell and Kevin Boone accepted a "gift" of wetlands associated with this project.
+
+      THE DISCOVERY:
+      - Article 2 revealed the city council prioritized developer interests over public/environmental concerns regarding Fly Creek.
+      - This occurred while Burrell and Boone were in positions of power, demonstrating a pattern of favoring development over public welfare.
+
+      THE PIVOT:
+      - Article 2 provides concrete historical evidence (2016) that Jack Burrell and Kevin Boone compromised environmental safeguards for personal gain (wetlands gift), establishing a pattern of questionable judgment and political self-interest that connects to the current conflicts (budget obstruction, conflicts of interest, free jet service) detailed in Article 1.
+
+      KEY ENTITIES:
+      - Jack Burrell (Council President)
+      - Kevin Boone
+      - Chunk Zunk (Fairhope Airport Authority)
+      - Ray Hix
+      - Fairhope Municipal Judge Snedeker
+      - Mayor Wilson
+      - Adam Milam (Plaintiff's attorney, Friends of Fly Creek)
+      - Jimmy Conyers
+      - Robert Brown
+      - Kant (former Mayor)
+      - Fly Creek Watershed
+      - Fairhope Airport Authority (FAA)
+    llm_text: Jack Burrell and Kevin Boone accepted a wetlands "gift" when the Fairhope City Council approved the Fly Creek Apartments project in 2016. This historic decision proves they prioritized developer gain over protecting the vital Fly Creek Watershed.
+    widget_date: "2017-08-25"
+    generated_at: "2026-11-08T21:25:37.726400Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT: State Sen. Trip Pittman's company (Lagniappe Mobile) had a contract with Fairhope City Council since 2012; Judge Roy Moore was suspended on September 30, 2016, for six violations of judicial ethics canons.
+      THE DISCOVERY: The Fairhope City Council ended its contract with State Sen. Trip Pittman in 2012, ending an arrangement with his company.
+      THE PIVOT: Article 2 demonstrates a historical pattern of politically influenced decisions by the Fairhope City Council (2012 contract issue), providing context for current allegations of conflict of interest involving Jack Burrell, Ray Hix, and Snedeker (2015/2016).
+      KEY ENTITIES: Trip Pittman, Fairhope City Council, Jack Burrell, Ray Hix, Snedeker, Chunk Zunk, Luther Strange, Judge Roy Moore, Wilson, Boone, Robert Brown
+    llm_text: Trip Pittman's company lost its 2012 Fairhope City Council contract, revealing a historical pattern of politically influenced decisions. See how this past conflict sets the stage for current allegations involving Jack Burrell, Ray Hix, and Snedeker.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T21:22:08.436109Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  countdown:
+    brief: |-
+      THE CONFLICT:
+      *   2014: US Senate race in Alabama featured candidates including Luther Strange, Roy Moore, Mo Brooks, Trip Pittman, and Dr. Randy Brinson.
+
+      THE DISCOVERY:
+      *   Main Article reveals Fairhope City Council dysfunction led by President Jack Burrell (7 years).
+      *   Burrell was associated with past issues including the triangle lawsuit, sewer plant issues, gift of wetlands, and the Fairhope Airport mess.
+      *   $10 million was transferred from utilities to the general budget in 2015 and 2016.
+
+      THE PIVOT:
+      *   There is no factual or temporal connection between the 2014 Alabama US Senate primary and the current Fairhope City Council budget/corruption investigation. Article 2 (Widget) provides no context for Article 1 (Main).
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Chunk Zunk (Fairhope Airport Authority, former)
+      *   Ray Hix
+      *   Snedeker (Fairhope Municipal Judge)
+      *   Fairhope Airport Authority (FAA)
+      *   Soccer-complex ($6 million estimate)
+      *   Robert Brown (Council Member)
+      *   Boone (Council Member)
+      *   Luther Strange
+      *   Roy Moore
+      *   Mo Brooks
+      *   Trip Pittman
+      *   Dr. Randy Brinson
+    llm_text: Fairhope Council President Jack Burrell oversaw seven years of dysfunction, managing the triangle lawsuit, sewer plant issues, and a $10 million transfer from utilities to the general budget. Read how this local corruption impacts your city budget and the Fairhope Airport Authority.
+    widget_date: "2017-08-04"
+    generated_at: "2026-11-08T21:27:56.221472Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

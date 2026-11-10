@@ -1,0 +1,159 @@
+metadata:
+  generated_at: "2026-11-08T16:21:21.341848Z"
+  generator_version: 1.0.0
+  post_slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  main_date: "2018-03-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  i-quit-and-will-quit-again:
+    brief: |-
+      THE CONFLICT: Joe Davis quit the Daphne City Council after failing to convince the Council to side with his views; John Lake served 24 years on the Daphne City Council without any ethics complaints or allegations of personal gain.
+      THE DISCOVERY: The Ripp Report, founded in 2006 and formalized in 2015, documented obvious corruption in Fairhope and works to expose public corruption, noting the Ethics Commission has held no one accountable in Baldwin County despite dozens of complaints.
+      THE PIVOT: The historical local failures in Baldwin County (lack of accountability for officials, Davis quitting) serve as context for the current systemic failure: the Alabama Ethics Commission is now attempting to expand its role and change ethics laws—driven by the Mike Hubbard conviction—to legalize actions currently illegal, making local complaints moot.
+      KEY ENTITIES: John Archibald, Alabama Ethics Commission, Mike Hubbard, John Lake, Joe Davis, Amber Smith, Daphne City Council, Baldwin County, The Ripp Report
+    llm_text: Joe Davis quit the Daphne City Council, yet local accountability failed for years, even with John Lake’s 24-year service. Now, the Alabama Ethics Commission is changing laws, driven by the Mike Hubbard conviction, to legalize current corruption—making your local complaints moot.
+    widget_date: "2018-03-21"
+    generated_at: "2026-11-08T16:12:27.368797Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-candidates:
+    brief: |-
+      THE CONFLICT: Mike Hubbard conviction led to efforts by the Alabama Ethics Commission to change existing Ethics laws, potentially making currently illegal actions legal.
+      THE DISCOVERY: In the 2018 Mid Term elections primary (June 9, 2018), the Ripp Report identified "Catalyst Candidates" running in various Baldwin County offices, including Michelle Thomason for the Court of Civil Appeals.
+      THE PIVOT: Article 2 establishes the specific political influence and candidate presence ("Catalyst") within Baldwin County in 2018, providing historical context for the current lack of accountability by the Alabama Ethics Commission in Baldwin County mentioned in Article 1.
+      KEY ENTITIES: Mike Hubbard, Alabama Ethics Commission, Baldwin County, Michelle Thomason, Catalyst Candidates, June 9, 2018.
+    llm_text: Mike Hubbard's conviction spurs ethics law changes, yet Baldwin County lacks accountability. Our 2018 report identified "Catalyst Candidates," including Michelle Thomason, showing the specific political influence present back on June 9, 2018.
+    widget_date: "2018-03-16"
+    generated_at: "2026-11-08T16:15:21.547768Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  put-your-big-boy-pants-on:
+    brief: |-
+      THE CONFLICT:
+      *   Alabama politics involving figures Bentley, Hubbard, and Moore has been characterized by systemic corruption in Baldwin County.
+      *   In 2012, Tucker Dorsey supported a 30 million dollar mega site and pay freeze for county employees, allegedly required by Frank Burt.
+      *   Senator Pittman skimmed 750,000 of BP money for his company.
+      *   Mike Hubbard was previously convicted (cited in Article 1).
+
+      THE DISCOVERY:
+      *   The Baldwin County Ethics Commission functions as a facilitator, not a regulator, approving conflicts of interest (e.g., Rep. Davis seeking oil company work; Sen. Pittman contracts).
+      *   Authorization from the Ethics Commission often only requires the statement that employment is "for reasons unrelated to the public official," ignoring political position or legislative connections.
+      *   Tucker Dorsey, a Baldwin County Commissioner, was appointed interim director for the South Alabama Regional Planning Commission (SARPC) and is awaiting Ethics Commission authorization for this role.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that the Ethics Commission has historically been used to *normalize* conflicts of interest, not just evaluate legality.
+      *   Article 1 indicates the Commission seeks to *expand* its role and change laws to legalize currently illegal acts, a dangerous move given its established history of systemic misuse detailed in Article 2.
+      *   The lack of accountability in Baldwin County, despite dozens of complaints, is proven by the Commission's historical rubber-stamping of actions by figures like Pittman and Dorsey.
+
+      KEY ENTITIES:
+      *   Alabama Ethics Commission
+      *   Mike Hubbard
+      *   Tucker Dorsey
+      *   Senator Pittman
+      *   Frank Burt
+      *   Baldwin County
+      *   South Alabama Regional Planning Commission (SARPC)
+      *   Mobile Area Council of Boy Scouts
+      *   Bentley
+      *   Moore
+    llm_text: Senator Pittman skimmed $750k of BP money, and Mike Hubbard faced conviction in Baldwin County. The Ethics Commission doesn't regulate; it enables conflicts, letting Tucker Dorsey secure his SARPC role.
+    widget_date: "2016-05-13"
+    generated_at: "2026-11-08T16:16:50.822081Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cattle-gate-mega-site:
+    brief: |-
+      THE CONFLICT: Mike Hubbard conviction led to debate over ethics laws and calls for accountability. The Alabama Ethics Commission has failed to hold anyone in Baldwin County accountable despite dozens of filed complaints.
+      THE DISCOVERY: The Baldwin County Mega-site (32 million acres) failed to find a tenant, as announced in January. The site is undeveloped, unsuitable for cattle, and has no sign on the property.
+      THE PIVOT: The Ethics Commission's documented failure to hold anyone in Baldwin County accountable demonstrates a systemic lack of enforcement, which the proposed changes to ethics law seek to institutionalize, rendering legitimate complaints moot.
+      KEY ENTITIES: Alabama Ethics Commission, Mike Hubbard, Baldwin County, Baldwin County Economic Development Alliance, Commissioners
+    llm_text: Mike Hubbard's conviction highlighted a major accountability failure in Baldwin County. The Alabama Ethics Commission ignored dozens of complaints, leaving the 32-million-acre Mega-site untouched.
+    widget_date: "2018-03-02"
+    generated_at: "2026-11-08T16:18:19.070333Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  people-power-2:
+    brief: |-
+      THE CONFLICT:
+      Mike Hubbard faced conviction; Jim Nix served 7 terms as Mayor of Fairhope but faced criminal charges and handed over office to Tim Kant.
+
+      THE DISCOVERY:
+      Fairhope's 13 million dollar sewer plant recently failed to process 500,000 gallons of raw sewage into Big Head gully and the Fly Creek watershed; 2276 signatures convinced the Fairhope Single Tax to back off the Tuberville subdivision.
+
+      THE PIVOT:
+      Article 2 provides a localized, historical example of municipal corruption and obstruction (Mayor Wilson vs. Councilman Robinson, Jim Nix/Tim Kant) which mirrors the broader state-level failure of the Alabama Ethics Commission to hold anyone in Baldwin County accountable despite dozens of complaints, as detailed in Article 1.
+
+      KEY ENTITIES:
+      Mike Hubbard
+      Alabama Ethics Commission
+      Baldwin County
+      Mayor Wilson
+      Councilman Robinson
+      Jim Nix
+      Tim Kant
+      Sherry Sullivan
+      Fairhope
+    llm_text: Fairhope's $13 million sewer plant failed, dumping 500,000 gallons of raw sewage. This local corruption mirrors how the Alabama Ethics Commission failed to hold Baldwin County accountable, despite Mike Hubbard's conviction.
+    widget_date: "2018-02-16"
+    generated_at: "2026-11-08T16:19:41.342979Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bend-over-fairhope:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council under Mr. Burrell was accused of obstructing the Mayor.
+      *   Council members Boone and Brown had direct ties to the Fairhope Single Tax plan near Big Head Gully.
+      *   A petition rejecting the Single Tax plan gathered over 925 signatures.
+
+      THE DISCOVERY:
+      *   The Fairhope City Council ignored public trust and conflict of interest regarding the Single Tax development.
+      *   The Mayor's discretionary funds were reduced from $15,000 to $2,500 during this conflict.
+      *   The Council engaged in activities related to the "triangle" lawsuit and used staff to spread unfounded rumors.
+
+      THE PIVOT:
+      *   Article 2 provides specific, documented instances of local corruption and conflict of interest in Baldwin County (Fairhope).
+      *   These examples illustrate the failure of the Alabama Ethics Commission, which has held no one accountable in Baldwin County despite dozens of complaints.
+      *   The proposed Ethics law changes (mentioned in Article 1, driven by the Mike Hubbard conviction) would legalize the types of conflicts already demonstrated in Article 2.
+
+      KEY ENTITIES:
+      *   Mr. Burrell (Council President)
+      *   Boone (Council member)
+      *   Brown (Council member)
+      *   Fairhope City Council
+      *   Alabama Ethics Commission
+      *   Mike Hubbard
+      *   Fairhope Single Tax
+      *   Big Head Gully
+      *   Baldwin County
+    llm_text: Fairhope City Council, led by Mr. Burrell, obstructed the Mayor while Boone and Brown pushed the controversial Fairhope Single Tax near Big Head Gully. The Alabama Ethics Commission failed to hold anyone accountable in Baldwin County, proving why new ethics laws are crucial now.
+    widget_date: "2018-02-09"
+    generated_at: "2026-11-08T16:13:46.482086Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephant-in-a-volkswagen:
+    brief: |-
+      THE CONFLICT:
+      *   In 1994, the Tatumville gully watershed flooded Magnolia Apartments, causing over $1 million in damage.
+
+      THE DISCOVERY:
+      *   Article 2 documented multiple conflicts of interest in Fairhope City Council proceedings (e.g., Ordinance 5 transferring land to Fairhope Single Tax Corporation for Tatumville Subdivision).
+      *   Lee Turner (President of Single Tax and Chair of Fairhope Planning and Zoning) pushed the Tatumville project without Single Tax membership vote or consulting city department heads.
+      *   Cliff Pittman (Single Tax board member) was an advocate for the project, and Councilman Robert Brown was a business partner of Pittman.
+      *   Article 2 noted the Airport Authority was a self-serving board, and the City Council failed to uphold a previous pledge regarding Mayor appointments (Item 13).
+
+      THE PIVOT:
+      *   Article 1 claims the Alabama Ethics Commission has failed to hold anyone in Baldwin County accountable despite dozens of complaints.
+      *   Article 2 provides specific, detailed, and unresolved examples of local procedural violations and conflicts of interest (Turner, Pittman, Brown) that demonstrate the lack of accountability the Ethics Commission is accused of ignoring.
+
+      KEY ENTITIES:
+      *   Alabama Ethics Commission
+      *   Mike Hubbard
+      *   Baldwin County
+      *   Fairhope City Council
+      *   Fairhope Single Tax Corporation
+      *   Lee Turner
+      *   Cliff Pittman
+      *   Robert Brown
+      *   Anil Vera
+      *   Airport Authority
+      *   Tatumville Subdivision
+      *   Magnolia Apartments
+      *   Fairhope Airport
+    llm_text: Fairhope City Council rushed the Tatumville Subdivision, causing over $1 million in damage to Magnolia Apartments. Lee Turner, Cliff Pittman, and Robert Brown pushed this project through despite clear conflicts of interest, proving the Alabama Ethics Commission fails to hold local leaders accountable.
+    widget_date: "2018-01-27"
+    generated_at: "2026-11-08T16:21:03.290542Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

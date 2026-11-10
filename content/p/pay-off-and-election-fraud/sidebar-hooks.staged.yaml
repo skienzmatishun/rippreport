@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T10:27:43.165252Z"
+  generator_version: 1.0.0
+  post_slug: pay-off-and-election-fraud
+  main_date: "2016-08-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it:
+    brief: |-
+      THE CONFLICT: Alleged voter fraud and election irregularities occurred during the Fairhope Municipal Elections on 9/11/2012.
+      THE DISCOVERY: A certified Poll Watcher observed multiple violations, including Tom Odom (Father in Law of Tim Kant) opening absentee voting machines and the lack of a poll watcher signature on public tape certifications.
+      THE PIVOT: Article 2 establishes a documented history of compromised election integrity in Fairhope, providing context that lends suspicion to the later, sealed court case (#901403) involving Mayor Tim Kant, where financial ties to Bobby Faust led to the case being concealed.
+      KEY ENTITIES: Tim Kant, Bobby Faust, City of Fairhope, Tom Odom, Mrs. Culver, Lonnie Mixon, Case #901403
+    llm_text: 'Poll watcher Tom Odom documented election violations in 2012 Fairhope, including Tom Odom opening absentee machines. See how this history links to Mayor Tim Kant''s sealed Case #901403 and his concealed financial ties to Bobby Faust.'
+    widget_date: "2016-08-05"
+    generated_at: "2026-11-09T10:26:01.557436Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pay-executives-first-boy-scouts-come-last:
+    brief: |-
+      THE CONFLICT: Sealed court case #901403 in Fairhope involved a land dispute concerning major supporters of Mayor Tim Kant, where Kant allegedly accepted money from Bobby Faust; concurrently, the Mobile Area Boy Scout Council experienced over $200,000 annual losses since 2008, leading to accusations of illegal and unethical financial mismanagement.
+      THE DISCOVERY: Article 2 (2016) proved the Mobile Area Boy Scout Council lost nearly $1.5 million since January 2009 under Executive Director Michael Hartigan and confirmed that Board President Phil Webb broke state and federal laws according to the IRS.
+      THE PIVOT: The documented history of severe financial mismanagement, illegal actions by board members (Phil Webb), and lack of transparency within a major regional organization (Boy Scouts) provides contextual evidence of systemic corruption and political dealings (Faust/Kant) within the local Fairhope government.
+      KEY ENTITIES: Tim Kant, Bobby Faust, City of Fairhope, Phil Webb, Tucker Dorsey, Michael Hartigan, Mobile Area Boy Scout Council, Camp Maubila, Lonnie Mixon, Tom Odom.
+    llm_text: Tim Kant and Bobby Faust face scrutiny over a Fairhope land dispute, but the corruption runs deeper. Phil Webb and the Mobile Area Boy Scout Council lost $1.5 million, proving systemic mismanagement connects local politics to major financial fraud.
+    widget_date: "2016-08-03"
+    generated_at: "2026-11-09T10:27:28.939780Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

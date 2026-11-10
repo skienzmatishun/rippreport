@@ -1,0 +1,51 @@
+metadata:
+  generated_at: "2026-11-09T10:49:55.234297Z"
+  generator_version: 1.0.0
+  post_slug: elected-or-selected
+  main_date: "2016-07-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  challengers-emerge-in-daphne-mayoral-race:
+    brief: |-
+      THE CONFLICT: Former Mayor Jim Nix was forced out of office for alleged criminal activity, leading him to SELECT Tim Kant as Mayor instead of through election. Kant was hired in 1983 and became Mayor in 2000.
+      THE DISCOVERY: Three candidates (John Lake, Tim Swanson, Ben Cruitt) emerged in Daphne to challenge incumbent Mayor Dane Haygood in the August 23 city election.
+      THE PIVOT: Article 2 provides contemporary evidence of democratic challenges to local incumbents (Daphne), mirroring the theme in Article 1 that Fairhope should select the Mayor by ELECTION NOT SELECTION, contrasting Kant’s selection by Nix.
+      KEY ENTITIES: Tim Kant, Jim Nix, Arthor Corte, Sherry Sullivan, Mike Ford, Dane Haygood, John Lake, Tim Swanson, Ben Cruitt
+    llm_text: Jim Nix forced out former mayor Jim Nix, selecting Tim Kant instead of an election. See how John Lake, Tim Swanson, and Ben Cruitt challenge incumbent Dane Haygood in Daphne, proving elections matter.
+    widget_date: "2016-07-21"
+    generated_at: "2026-11-09T10:47:49.348202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on:
+    brief: |-
+      THE CONFLICT:
+      *   Infamous political group involving Mayor Haygood, Stacy, and Elliot used "good ole boy" tactics to advance Haygood to Mayor and Elliot to County Commission.
+      *   This system led to the Triangle lawsuit, which cost $12 million.
+      *   The city's infrastructure has been ignored for years, resulting in no transparency or checks and balances.
+
+      THE DISCOVERY:
+      *   The "good ole boys" ran Fairhope as a criminal enterprise, characterized by Mayor Kant holding dual roles (paid Mayor and pad utility director), resulting in double-dipping on taxes.
+      *   The soccer field project exceeded $5 million and required independent auditing due to poor city management.
+      *   John Lake advocated for replacing Mayors in Daphne and Fairhope to positively impact Baldwin County politics.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of corruption (e.g., Triangle lawsuit, double-dipping, lack of transparency) by the "good ole boys."
+      *   Article 1 details the immediate consequences and mechanism of this system: former Mayor Jim Nix was forced out due to alleged criminal activity and selected Tim Kant (hired in 1983, became Mayor in 2000) as a controllable replacement.
+      *   Article 1 provides specific evidence of recent corruption tied to this system, including the non-public $5000/year municipal lease approved by Councilmen Boone and the 8-month delay/high cost of the soccer field ($5-6 million) sourced from Mike Ford's realty company.
+
+      KEY ENTITIES:
+      *   Tim Kant (Mayor, hired 1983, Mayor 2000)
+      *   Jim Nix (Former Mayor, forced out due to alleged criminal activity)
+      *   Arthor Corte (Nix fan, "good ole boy")
+      *   Sherry Sullivan (Editor of *Fairhope City Sketches*)
+      *   Mike Ford (Realty company involved in soccer field land purchase)
+      *   Councilmen Boone
+      *   Karin Wilson
+      *   John Lake
+      *   Harry Still
+      *   Haygood, Stacy, Elliot (Historical political group)
+      *   Dyas family (Proposed performing arts center in the Triangle)
+      *   Diana Brewer
+    llm_text: Mayor Haygood and Tim Kant ran Fairhope as a criminal enterprise, double-dipping on taxes and ignoring city infrastructure. Discover how the "good ole boy" system led to the $12M Triangle lawsuit and the delayed $5M soccer field project.
+    widget_date: "2016-07-20"
+    generated_at: "2026-11-09T10:49:37.639289Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

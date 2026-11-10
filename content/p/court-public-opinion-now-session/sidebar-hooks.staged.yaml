@@ -1,0 +1,188 @@
+metadata:
+  generated_at: "2026-11-09T06:14:43.530653Z"
+  generator_version: 1.0.0
+  post_slug: court-public-opinion-now-session
+  main_date: "2017-01-27"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  investigative-reporting-business-entity-records:
+    brief: |-
+      THE CONFLICT: Improper bidding/bid rigging allegations concerning the Fairhope Airport Authority property (8 million dollar debt, $310,000 annual tax appropriation). Key events include the lease execution on Dec. 17, 2015, which preceded the Ethics Commission Advisory Opinion rendered on Feb. 3, 2016. Key participants include City Council President Jack Burrell (also Authority Board Member) and Hix/Snedeker aircraft (Mid-Bay Air LLC), the winning bidder.
+
+      THE DISCOVERY: North Ridge, LLC was formed on June 2, 2008, in Baldwin County, Alabama, a domestic limited liability company whose members included John G Avent and Kevin Boone.
+
+      THE PIVOT: Article 2 provides historical corporate structure data (2008 formation) identifying specific individuals (John G Avent and Kevin Boone) who operate within the Baldwin County business context, providing a background link to the local development and LLC structure alleged to facilitate corruption in the 2015-2017 Fairhope Airport Authority bid process detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President, Fairhope Airport Authority Board Member)
+      *   Fairhope Airport Authority
+      *   City of Fairhope
+      *   John G Avent
+      *   Kevin Boone
+      *   North Ridge, LLC
+      *   Mid-Bay Air LLC (Hix/Snedeker)
+      *   Terry Chapman
+      *   Kel Jones (Executive Aviation)
+      *   Hugh Evans (Chief Council to the Ethics Commission)
+      *   Attorney Bailey
+      *   Jan. 25, 2017
+      *   Dec. 17, 2015
+      *   Feb. 3, 2016
+      *   Fairhope
+    llm_text: Did Jack Burrell facilitate improper bidding for the $8M Fairhope Airport Authority debt? We track North Ridge, LLC, formed in 2008, identifying John G Avent and Kevin Boone who link directly to the 2015 Mid-Bay Air LLC bid.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T06:06:06.392231Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest:
+    brief: |-
+      THE CONFLICT:
+      *   December 17, 2015: Lease signed for Fairhope Airport property.
+      *   February 3, 2016: Ethics Commission Advisory Opinion rendered regarding the RFP process.
+      *   September 2016: Councilman Kevin Boone voted on the Fly Creek Apartments (Retreat at Fairhope) issue (SD 16.14).
+      *   Ongoing: Jack Burrell, City Council President, served on the Airport Authority board and ad hoc committee that reviewed the RFP.
+      *   Ongoing: Kevin Boone voted for four and a half years on Preble-Rish projects (e.g., Firefly) despite undisclosed business connections with John Avent (Dewberry Preble-Rish, LLC).
+
+      THE DISCOVERY:
+      *   Article 2 revealed Kevin Boone's long-standing and undisclosed conflict of interest with John Avent of Dewberry Preble-Rish, LLC.
+      *   Article 2 documented Boone's vote favoring the Fly Creek Apartments project in September 2016, while Avent represented Preble-Rish at the meeting.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of elected officials (Boone) failing to recuse themselves from decisions involving private business interests (Preble-Rish).
+      *   This pattern mirrors the conflicts documented in Article 1, where Jack Burrell, as Council President and Airport Authority Board member, controlled the agenda and aided a "grossly flawed and gerrymandered" RFP process regarding the $8 million Fairhope Airport debt and $310,000 annual appropriation.
+      *   Both articles question Burrell's and Boone's ethical conduct in prioritizing private business over Fairhope's interests (e.g., Fly Creek, Airport Authority debt).
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President)
+      *   Kevin Boone (Councilman)
+      *   John Avent (Dewberry Preble-Rish, LLC)
+      *   Fairhope Airport Authority
+      *   City of Fairhope
+      *   Preble-Rish
+      *   Mid-Bay Air LLC (Hix/Snedeker aircraft)
+      *   Fly Creek Apartments (Retreat at Fairhope)
+      *   Ordinance 1572
+      *   Robert Brown
+      *   Jimmy Conyers
+      *   Jay Robinson
+      *   Karin Wilson
+    llm_text: Kevin Boone voted for the Fly Creek Apartments project in 2016 despite his undisclosed ties to John Avent of Preble-Rish. This pattern mirrors Jack Burrell's control of a flawed Fairhope Airport RFP, showing officials prioritized private business over Fairhope's needs.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T06:09:28.726269Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT:
+      *   Dec. 17, 2015: Lease signed and notarized regarding Fairhope Airport property before Ethics Advisory Opinion (Feb. 3, 2016).
+      *   June - Oct 2016: Councilman Kevin Boone voted on multiple projects (Fly Creek Apartments, Old Battles Place, Fox Hollow) involving Dewberry/Preble-Rish/John Avent without recusal.
+
+      THE DISCOVERY:
+      *   Kevin Boone voted on projects favoring Dewberry/Preble-Rish/HMR, LLC, despite having a business partnership with John Avent and receiving $2500 campaign donations from the firm.
+      *   The RFP bid process for the Fairhope Airport lease was allegedly grossly flawed and gerrymandered, with elected official Jack Burrell aiding and abetting the process.
+
+      THE PIVOT:
+      *   Article 2 (2016) establishes a pattern of elected officials (Kevin Boone) prioritizing personal/business interests (via LLCs and partnerships) over public trust in Fairhope planning and zoning, setting a precedent for the conflicts of interest alleged against Jack Burrell in the Airport RFP (2015).
+
+      KEY ENTITIES:
+      *   Jack Burrell (Fairhope City Council President, Airport Authority Board member)
+      *   Kevin Boone (Councilman)
+      *   Fairhope Airport Authority
+      *   Preble-Rish/Dewberry
+      *   John Avent
+      *   Mid-Bay Air LLC (Hix/Snedeker aircraft)
+      *   HMR, LLC
+      *   Fairhope City Council
+      *   Fly Creek Apartments (240-unit project)
+      *   Old Battles Place (110-unit project)
+    llm_text: Councilman Kevin Boone voted on projects like Fly Creek Apartments favoring Dewberry/Preble-Rish despite a John Avent partnership and $2500 donations. This conflict of interest pattern set the stage for the alleged flawed 2015 Fairhope Airport lease involving Jack Burrell.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T06:10:51.547734Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boone-doggle:
+    brief: |-
+      THE CONFLICT:
+      *   Kevin Boone (Councilman) engaged in multiple conflicts of interest by voting on council resolutions involving hundreds of thousands of dollars in favor of engineering companies connected to his LLCs.
+      *   Kevin Boone was criticized for failing to disclose these conflicts and for networking with "good ole boys," mirroring past Councilman Ford.
+
+      THE DISCOVERY:
+      *   The Main Article details a flawed and gerrymandered RFP process for a Fairhope Airport hangar lease, executed on Dec. 17, 2015, prior to the Ethics Commission Advisory Opinion (Feb. 3, 2016).
+      *   The RFP process involved Council President Jack Burrell (who controlled the agenda) and implicated Hix/Snedeker (Mid-Bay Air LLC) as the winner, raising allegations of bid rigging and collusion among Airport Authority Board members.
+
+      THE PIVOT:
+      *   The older article establishing Kevin Boone's pattern of undeclared financial conflicts of interest provides historical context supporting the broader claim in the newer article that elected officials (including those involved in the Airport Authority process) use LLCs and personal connections for municipal gain, lending credence to the allegations against Burrell and the Authority.
+
+      KEY ENTITIES:
+      *   Kevin Boone (Councilman)
+      *   Jack Burrell (City Council President)
+      *   Fairhope Airport Authority
+      *   Hix/Snedeker (Mid-Bay Air LLC)
+      *   Terry Chapman
+      *   Kel Jones
+      *   Councilman Robinson
+      *   Councilman Conyers
+      *   Councilman Brown
+      *   Dec. 17, 2015
+      *   Feb. 3, 2016
+      *   $8 million (Airport debt)
+      *   $310,000 (Annual tax appropriation request)
+    llm_text: Kevin Boone voted for engineering companies tied to his LLCs, failing to disclose massive conflicts of interest. This pattern supports allegations that Council President Jack Burrell and the Fairhope Airport Authority engaged in bid rigging during the Dec. 17, 2015, hangar lease process.
+    widget_date: "2017-01-13"
+    generated_at: "2026-11-09T06:12:10.621095Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT: Jack Burrell (City Council President/Airport Authority Board member) resisted Mayor Karin Wilson's request to transfer ownership of the 258-acre Airport Authority property (purchased in 2007 for $8.85 million) to the City of Fairhope to pay down the 21% debt.
+      THE CONFLICT: The Airport Authority received $500,000 annually for 6 years while paying little principal on the $8 million debt.
+      THE DISCOVERY: Article 2 (Jan. 9th) established that Mayor Wilson urged the council to take ownership of the property to address the debt.
+      THE PIVOT: Article 2 showed Burrell publicly undermining Mayor Wilson's effort to serve the citizens, providing context for the later allegations (Article 1) that he used his position (Board member/Ad hoc committee) to facilitate a grossly flawed and rigged RFP process benefiting private interests (Hix/Snedeker/Mid-Bay Air LLC) rather than the city.
+      KEY ENTITIES: Karin Wilson (Mayor), Jack Burrell (City Council President/Airport Authority Board member), Fairhope Airport Authority, Mid-Bay Air LLC (Hix/Snedeker), Terry Chapman, Kel Jones, Dec. 17th 2015 (Lease execution), Feb. 3 2016 (Ethics Advisory Opinion), Jan. 9th (Article 2 context), Jan. 25th 2017 (Article 1 date).
+    llm_text: Jack Burrell blocked Mayor Karin Wilson's plan to transfer the 258-acre property to pay debt. Did Burrell use his position to rig the RFP process, benefiting Mid-Bay Air LLC instead of Fairhope citizens?
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T06:13:26.657621Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT:
+      *   The Fairhope Airport Authority accrued an $8 million debt.
+      *   The Authority received $500,000 annually for 6 years, paying little on principal.
+      *   The lease in question was signed on Dec. 17th, 2015, before the Ethics Commission Advisory Opinion was rendered on Feb. 3, 2016.
+      *   The City of Fairhope has the option, exercisable if principal was not paid by 2012, to take back 258 acres for $10.00.
+
+      THE DISCOVERY:
+      *   The Airport Authority operated as a "black hole for information," shielded from public scrutiny by Mr. Jack Burrell.
+      *   The $500,000 annual appropriation to the Authority was nearly $200,000 more than the education contribution.
+      *   Mr. Burrell was a remnant of the previous, failed administration and was linked to the previous Mayor.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of unchecked financial appropriation ($500k/year) and systemic lack of transparency under Burrell's influence, framing the 2015/2016 RFP bid rigging allegations (Article 1) not as isolated incidents, but as part of a long-standing failure of accountability.
+      *   Article 2 proves Burrell’s opposition to Mayor Wilson’s interests is tied to protecting the Authority's entrenched financial structure, undermining his current claims of serving the citizens.
+
+      KEY ENTITIES:
+      *   Jack Burrell (City Council President, Airport Authority voting Board member, Ad hoc committee member)
+      *   Mayor Wilson
+      *   Fairhope Airport Authority
+      *   Hix/Snedeker aircraft (Mid Bay Air LLC)
+      *   Mr. Terry Chapman
+      *   Mr. Kel Jones
+      *   Ethics Commission
+      *   Attorney Bailey
+      *   Karin Wilson
+      *   jimmy.conyers
+      *   robert.brown
+      *   kevin.boone
+    llm_text: Jack Burrell shielded the Fairhope Airport Authority, creating an $8 million debt while receiving $500,000 annually for six years. Discover how this lack of transparency threatens 258 acres of city land for just $10.00.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-09T06:07:38.908706Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-friday-merry-christmas:
+    brief: |-
+      THE CONFLICT: Improper bidding/bid rigging for a ground lease at Fairhope Airport involving elected official Jack Burrell (City Council President/Airport Authority Board Member); Lease executed Dec 17, 2015; Ethics Advisory Opinion rendered Feb 3, 2016.
+
+      THE DISCOVERY: Article 2 is a holiday greeting (HAVE A MERRY CHRISTMAS!) and provides no factual or investigative discovery related to the Fairhope Airport conflict.
+
+      THE PIVOT: Article 2 has no factual relevance or context to Article 1. Article 1 details the allegations of improper bidding (RFP process) and the ownership dispute (City vs. Authority) surrounding the $8 million Airport debt.
+
+      KEY ENTITIES: Jack Burrell, Fairhope Airport Authority, City of Fairhope, Mr. Hix (Mid-Bay Air LLC), Mr. Terry Chapman (Executive Aviation), Mr. Kel Jones (Executive Aviation), Karin Wilson, Jimmy Conyers, Robert Brown, Kevin Boone, Jay Robinson.
+    llm_text: Jack Burrell faced improper bidding allegations over a $8 million Fairhope Airport ground lease. See how the City of Fairhope and the Airport Authority battled ownership and ethical scrutiny.
+    widget_date: "2016-12-23"
+    generated_at: "2026-11-09T06:14:29.913581Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

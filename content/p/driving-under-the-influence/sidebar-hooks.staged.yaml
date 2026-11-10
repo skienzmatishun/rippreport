@@ -1,0 +1,79 @@
+metadata:
+  generated_at: "2026-11-09T11:28:18.437471Z"
+  generator_version: 1.0.0
+  post_slug: driving-under-the-influence
+  main_date: "2016-05-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  put-your-big-boy-pants-on:
+    brief: |-
+      THE CONFLICT:
+      *   In 2012, Tucker Dorsey supported a 30 million dollar mega site and a pay freeze for county employees, pressured by Frank Burt.
+      *   Rep. Davis sought permission to work for an oil company, but the Ethics Commission did not render an opinion.
+      *   Sen. Pittman skimmed 750,000 of BP money for his company; the Ethics Commission did not intervene.
+      *   Tucker Dorsey was elected Baldwin County Commissioner and became interim director for the South Alabama Regional Planning Commission (SARPC).
+      *   Dorsey was a board member of the Mobile Area Council of Boy Scouts, which was facing financial issues.
+
+      THE DISCOVERY:
+      *   Baldwin County was positioned as the most corrupt county in Alabama due to political figures leveraging the Ethics Commission to overlook conflicts of interest, especially monetary ones.
+      *   The political system in Baldwin County was characterized by a "good ole boy club" dynamic, requiring support for major projects (e.g., the 30 million dollar site) for political acceptance.
+
+      THE PIVOT:
+      *   The systemic corruption and conflicts of interest identified in the past (2012/before) provide the necessary historical context for the Main Article's critique of modern local governance, specifically the judicial and non-profit system (Baldwin Substance Abuse Services, Inc.) which is controlled by local judges and attorneys.
+      *   The historical pattern of political figures prioritizing personal/crony interests (Dorsey/Pittman) is mirrored in the current system where judges and attorneys (Judge Thomason) control BSAS to generate income from DUI fines, bypassing public accountability.
+
+      KEY ENTITIES:
+      *   Tucker Dorsey
+      *   Francis Paul Ripp
+      *   Frank Burt
+      *   Rep. Davis
+      *   Sen. Pittman
+      *   Baldwin Substance Abuse Services, Inc. (BSAS)
+      *   Judge Thomason
+      *   Chris Elliott
+      *   James Ball
+      *   Baldwin County
+      *   South Alabama Regional Planning Commission (SARPC)
+      *   Baldwin County Commissioner
+      *   Fairhope Mayor Kant
+    llm_text: Baldwin County used the Ethics Commission to ignore conflicts, letting Tucker Dorsey and Sen. Pittman profit from big deals. See how this historical "good ole boy club" now lets Judge Thomason control BSAS for personal income, not public service.
+    widget_date: "2016-05-13"
+    generated_at: "2026-11-09T11:26:30.477247Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-friday-freaky-town:
+    brief: |-
+      THE CONFLICT:
+      *   2008: BCLE reported complaints against Judge Thomason and Attorney Steven Johnson regarding the Baldwin County Family Court.
+      *   2008: Mayor Tim Kant was accused of corruption and fixing elections; councilmen Boone and Mueller approved the Fly Creek Apartments zoning for $2.5 million despite public opposition.
+      *   2016: County Commissioner Chris Elliott was arrested for DUI in Fairhope after a social event.
+      *   2016: Attorney David J. "Baloney" Mahoney was arrested in Escambia County Florida for DUI; previously linked to a case involving City Judge Julian Brackin.
+
+      THE DISCOVERY:
+      *   The Baldwin Substance Abuse Services, Inc. (BSAS), a domestic non-profit formed on 10-4-2007 in Baldwin County, is utilized for court-referred DUI offender training/treatment.
+      *   Judge Thomason is listed as an incorporator of BSAS, which has collected millions of dollars from DUI victims.
+      *   BSAS mandates a $400 education course (taught by James Ball in Robertsdale) and six drug tests ($300 total) for first offenders.
+      *   The program is criticized as a "cash cow" generating steady income for attorneys, municipalities, and non-profits like BSAS and its incorporators.
+
+      THE PIVOT:
+      *   Article 2 (2008) establishes a historical precedent of judicial and municipal corruption in Baldwin County, specifically naming Judge Thomason in complaints.
+      *   Article 1 (2016) connects this historical figure (Judge Thomason) to the financial and operational structure of BSAS, revealing his direct, non-salary-drawing incorporation role in the non-profit that processes DUI offenders, linking past corruption to current financial conflicts of interest.
+
+      KEY ENTITIES:
+      *   Judge Thomason
+      *   Attorney Steven Johnson
+      *   Mayor Tim Kant
+      *   Diana Brewer (Councilwoman)
+      *   County Commissioner Chris Elliott
+      *   David J. "Baloney" Mahoney
+      *   Baldwin Substance Abuse Services, Inc. (BSAS)
+      *   James Ball (BSAS instructor)
+      *   Francis Paul Ripp (BCLE/The Ripp Report)
+      *   Fly Creek Apartments
+      *   Boy Scouts of America (Mobile Area Council)
+      *   Fairhope (Location)
+      *   Baldwin County (Location)
+      *   10-4-2007 (BSAS Formation Date)
+    llm_text: Judge Thomason faced corruption complaints in 2008 over Baldwin County. Now, he incorporated BSAS, the non-profit collecting millions from DUI offenders, raising serious financial conflicts of interest for the county.
+    widget_date: "2016-04-14"
+    generated_at: "2026-11-09T11:27:59.108891Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

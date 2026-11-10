@@ -1,0 +1,69 @@
+metadata:
+  generated_at: "2026-11-09T14:28:46.238495Z"
+  generator_version: 1.0.0
+  post_slug: judge-sentences-bayou-la-batre-mayor
+  main_date: "2013-06-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  happy-belated-new-year-clean-sweep:
+    brief: |-
+      THE CONFLICT:
+      *   BP Boom fraud/corruption involving Stan Wright (Bayou La Batre) led to sentencing by U.S. District Judge Kristi DuBose on June 30, 2013.
+      *   The corruption was described as a pattern, not an isolated land deal.
+
+      THE DISCOVERY:
+      *   The 2012 Fairhope election, ending September 11th, resulted in four new council members and removed the city administrator, police chief, and head of public works.
+      *   In 2012, Tim Kant and Trip Pittman were already linked to potential BP Boom Scam indictments, referencing Stan Wright's case.
+      *   Fairhope citizens in 2012 were suspicious of the election process; Dr. Chris Warner attempted a full recount, which was denied by the city citing a $4,000 cost for a machine recount.
+
+      THE PIVOT:
+      *   Article 2 (2012) establishes that Tim Kant and Trip Pittman were already subject to severe political and legal scrutiny (BP Boom indictment threat, election fraud suspicion) prior to the 2013 sentencing, proving their corruption was a known, pre-existing political problem in Fairhope.
+
+      KEY ENTITIES:
+      *   Tim Kant
+      *   Trip Pittman
+      *   Judge Kristi DuBose
+      *   Stan Wright
+      *   Bayou La Batre
+      *   Fairhope
+      *   Dr. Chris Warner
+      *   Bob "Five Fingers" James
+      *   Burt
+      *   Dorsey
+    llm_text: BP Boom fraud against Stan Wright wasn't a sudden event. Tim Kant and Trip Pittman faced serious legal scrutiny and election suspicion in Fairhope long before Judge Kristi DuBose's 2013 sentencing.
+    widget_date: "2013-03-15"
+    generated_at: "2026-11-09T14:27:08.743977Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  phenix-city-corruption-similar:
+    brief: |-
+      THE CONFLICT:
+      *   BP Boom fraud involved Mayor Tim Kant and Senator Trip Pittman in Fairhope/Bayou La Batre.
+      *   The corruption was described as a pattern, not an isolated land deal.
+      *   U.S. District Judge Kristi DuBose sentenced the ex-Mayor on June 30, 2013.
+      *   Other involved parties included County Commissioners Bob "Five Fingers" James, Burt, and Dorsey.
+
+      THE DISCOVERY:
+      *   City Administrator Gregg Mims received an ACCMA Award nomination (third/last) for a three-day event in Gulf Shores.
+      *   The event was attended using taxpayer funds and focused heavily on non-business/social activities.
+      *   Jonathan Smith, planning and zoning czar, congratulated Mims for the award.
+      *   Article 2 notes ongoing corruption in Phenix City, where the city administrator is expected to be fired by a new council.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that the pattern of municipal government vanity, lack of accountability, and perceived corruption in Fairhope is ongoing, extending beyond the historical BP Boom scandal documented in Article 1.
+
+      KEY ENTITIES:
+      *   Tim Kant
+      *   Trip Pittman
+      *   Kristi DuBose
+      *   Gregg Mims
+      *   Jonathan Smith
+      *   Bob "Five Fingers" James
+      *   Burt
+      *   Dorsey
+      *   BP
+      *   Fairhope
+      *   Bayou La Batre
+    llm_text: Tim Kant and Trip Pittman faced BP Boom fraud charges, but Fairhope corruption continues. City Administrator Gregg Mims used taxpayer funds for vanity awards, proving the lack of accountability extends beyond the 2013 convictions.
+    widget_date: "2012-08-01"
+    generated_at: "2026-11-09T14:28:29.821081Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

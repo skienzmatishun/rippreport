@@ -1,0 +1,53 @@
+metadata:
+  generated_at: "2026-11-09T11:57:23.237790Z"
+  generator_version: 1.0.0
+  post_slug: miracle-blindside-reality
+  main_date: "2015-12-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-railroad:
+    brief: |-
+      THE CONFLICT: Fly Creek PUD was initially proposed as a village concept of high-end townhomes, not apartments. This project was linked to the Triangle lawsuit, resulting in a $11.5 million settlement. The project resulted in severe damage to Fly Creek and wetlands, with estimated cleanup costs of $10 million.
+
+      THE DISCOVERY: Article 2 revealed systemic corruption in Fairhope, including the Mayor's monopolistic control, no finance committee/forensic audit, favorable treatment of campaign contributors (Arthur Corte), and the ignoring of environmental violations (e.g., removal of $1 million worth of trees).
+
+      THE PIVOT: Article 2 provides the historical context that the initial Fly Creek PUD did not include apartments and was subject to environmental and legal liabilities. Article 1 documents a recent, controversial reversal of the original plan (240 "upscale apartments" proposed) despite public opposition, suggesting the current change is part of the long-running, corrupt pattern and disregard for the comprehensive plan established in Article 2.
+
+      KEY ENTITIES: Fairhope; Fly Creek PUD; Arthur Corte (non-resident owner/land owner); Publix; Mayor (unnamed); Councilman Ford; Jennifer Fiddler; Daphne (engineering firm); Mississippi (developer); Triangle lawsuit; Parker Road; $11.5 million (settlement); $10 million (cleanup estimate).
+    llm_text: Fly Creek PUD switched from townhomes to upscale apartments, defying the original plan despite a $11.5 million lawsuit settlement. Discover how Mayor-backed corruption, including Arthur Corte's influence, ignored environmental damage and drove this controversial change in Fairhope.
+    widget_date: "2015-12-04"
+    generated_at: "2026-11-09T11:55:59.722913Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  football-sneak-play:
+    brief: |-
+      THE CONFLICT:
+      *   Angus Cooper held a campaign fund raiser for Mayor Kant of Fauxhope.
+      *   Council approved a $35,000 two-hour practice slot for senior bowl players on Fairhope football facility.
+      *   Mayor Kant received over $40,000 in campaign funds, largely from out-of-town contributors.
+      *   Councilwoman Diana Brewer voted for the football "sneak" play despite a conflict of interest.
+
+      THE DISCOVERY:
+      *   Diana Brewer is on the board of the Mobile Maritime Museum, where Angus Cooper is also on the board of directors.
+      *   Brewer failed to disclose this conflict of interest before voting on the football budget.
+      *   The city pays $17,500 per hour for the facility, plus utilities, maintenance, and cleanup.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of financial conflicts of interest and 'BLINDSIDE' actions (e.g., the $35k football deal benefiting a major contributor) involving Mayor Kant and council members.
+      *   This established pattern provides context for the controversial December 7th Fly Creek PUD vote, where the Mayor voted against a project initially favored by the council, amidst claims of undue pressure from the developer and land owner Arthur Corte.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Mayor Kant
+      *   Angus Cooper
+      *   Diana Brewer
+      *   Arthur Corte
+      *   Fly Creek PUD
+      *   Planning and Zoning
+      *   Councilman Ford
+      *   Jennifer Fiddler
+      *   Mobile Maritime Museum
+      *   Daphne engineering firm
+    llm_text: Diana Brewer approved a $35,000 football slot for Mayor Kant despite sharing a board with Angus Cooper at the Mobile Maritime Museum. Discover how this undisclosed conflict reveals a pattern of financial 'BLINDSIDE' actions involving Mayor Kant in Fairhope.
+    widget_date: "2015-10-23"
+    generated_at: "2026-11-09T11:57:06.458264Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

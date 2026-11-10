@@ -1,0 +1,126 @@
+metadata:
+  generated_at: "2026-11-08T19:16:09.708184Z"
+  generator_version: 1.0.0
+  post_slug: court-of-public-opinion
+  main_date: "2018-01-03"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  see-ya-in-court-jack:
+    brief: |-
+      THE CONFLICT: Jack Burrell, City Council President, denied Francis Paul Ripp his constitutional right to free speech during a City of Fairhope council meeting on August 28, 2017, leading Ripp to file a federal lawsuit (December 29, 2017).
+      THE DISCOVERY: The lawsuit documented that Burrell actively obstructed public participation, violating the First and Fourteenth Amendments, and that the council voted against a measure that would save the city $90,000 (a full-time city attorney).
+      THE PIVOT: The 2017 federal lawsuit serves as concrete evidence of the City Council's "obstruction" and "limiting public participation," supporting Article 1's claim that the council failed in transparency and accountability, necessitating change in the 2018 Baldwin County elections.
+      KEY ENTITIES: Francis Paul Ripp, Jack Burrell, City of Fairhope, Baldwin County, Ripp Report, August 28, 2017, $32 million (county debt), $90,000 (city savings)
+    llm_text: Jack Burrell denied Francis Paul Ripp free speech at the City of Fairhope council meeting on August 28, 2017. This federal lawsuit proves council obstruction, showing they rejected a $90,000 savings measure, making transparency vital for the 2018 Baldwin County elections.
+    widget_date: "2017-12-29"
+    generated_at: "2026-11-08T19:08:17.351987Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-special-meeting:
+    brief: |-
+      THE CONFLICT: Jack Burrell was accused of being a bully whose antics were costing Fairhope taxpayers (Article 2).
+      THE DISCOVERY: Article 2 revealed Burrell prioritized personal control over municipal efficiency, specifically resisting the hiring of a full-time city attorney.
+      THE PIVOT: Article 2 provides historical context for the subsequent failures of the Fairhope city council (mentioned in Article 1), which limited public participation and obstructed the newly elected Mayor, leading to calls for transparency and change in 2017/2018.
+      KEY ENTITIES: Jack Burrell, mega-site, wilson, Fairhope City Council, Baldwin County Commissioners, $32 million (debt), 12 new city employees.
+    llm_text: Jack Burrell's resistance to hiring a full-time city attorney wasted Fairhope taxpayer money and stalled municipal efficiency. See how his actions set the stage for later city council failures and fueled calls for transparency in Fairhope.
+    widget_date: "2017-12-28"
+    generated_at: "2026-11-08T19:11:41.451436Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT: Boone Burrell and the "three B's" actively obstructed the new Mayor of Fairhope by supporting Sherry Sullivan's lawsuit, which sought $100,000 from the City of Fairhope; Jay Robinson abstained from the settlement vote due to family friendship with Sullivan; Burrell was also linked to obstruction and activities at the Fairhope Airport, facing scrutiny from the Alabama Unethical Commission.
+      THE DISCOVERY: Article 2 revealed that the three B's encouraged fired employees to sue the city to push an anti-Mayor campaign, and they were encouraging current employee Pandora Heathcoat to file a lawsuit after Sullivan was paid.
+      THE PIVOT: Article 2 provides specific examples of targeted political obstruction by Boone Burrell and the three B's in Fairhope, illustrating the pattern of abuse of office and limited public participation that Article 1 generalizes when calling for a "clean sweep" in the 2018 Baldwin County mid-term election to address systemic failures, such as the $32 million mega site debt.
+      KEY ENTITIES: Boone Burrell, Sherry Sullivan, Jay Robinson, Pandora Heathcoat, Fairhope Mayor, Kant, Baldwin County, $32 million debt, Fairhope Airport, three B's
+    llm_text: Boone Burrell and the "three B's" actively obstructed the Fairhope Mayor by supporting Sherry Sullivan’s $100,000 lawsuit. Discover how this targeted political abuse links to systemic failures and the massive $32 million debt affecting Baldwin County.
+    widget_date: "2017-11-15"
+    generated_at: "2026-11-08T19:10:40.415303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  its-no-joke:
+    brief: |-
+      THE CONFLICT:
+      Baldwin County faced a $32 million debt tied to the "mega site" prior to the Nov. 2018 mid-term election.
+      Four county commissioners were up for re-election in Nov. 2018.
+      In Fairhope, the City Council obstructed the newly elected Mayor.
+      The Mayor pushed for transparency and accountability, replacing former leader Kant.
+
+      THE DISCOVERY:
+      Roy Moore's election as Alabama's senator would cause Alabama to lose hundreds of millions, if not billions, of dollars globally.
+      H Bryant Ayers stated Moore would embarrass Alabama due to personal religious beliefs superior to US institutions (Constitution/Supreme Court).
+
+      THE PIVOT:
+      Both articles highlight how specific political actions (local debt/mismanagement, or state religious views) undermine the public good and demand accountability from the "Court of Public Opinion."
+
+      KEY ENTITIES:
+      burrell
+      mega-site
+      wilson
+      moore
+      H Bryant Ayers
+      Baldwin County
+      Fairhope
+      $32 million
+      2017
+      2018
+    llm_text: Fairhope's Mayor pushed for accountability amid Baldwin County's $32 million mega-site debt. H Bryant Ayers warns Roy Moore's election threatens billions globally, challenging core US institutions.
+    widget_date: "2017-11-01"
+    generated_at: "2026-11-08T19:14:33.604000Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bonus-money:
+    brief: |-
+      THE CONFLICT: Jack Burrell and Hix faced allegations of wrongdoing at Fairhope Airport concerning the use of taxpayer money, including the Sherry Sullivan claim.
+      THE DISCOVERY: The Alabama Ethics Commission, upon review of evidence, concluded on October 19 that there was no probable cause to believe that Jack Burrell or Hix committed a violation of the Alabama Ethics Act.
+      THE PIVOT: The past findings of obstruction (Fairhope City Council limiting public participation) and misuse of public funds (bonus money claims/Sherry Sullivan settlement) established a history of unaccountability, directly justifying the call for "total change" and accountability under Mayor Karin Wilson ahead of the Nov 2018 Baldwin County elections, specifically regarding the $32 million mega-site debt.
+      KEY ENTITIES: Jack Burrell, Karin Wilson (Mayor), Hix, Snedeker, Sherry Sullivan, Fairhope City Council, Alabama Ethics Commission, Baldwin County, The Ripp Report, Mega Site ($32 million).
+    llm_text: Though the Alabama Ethics Commission cleared Jack Burrell and Hix of Fairhope Airport wrongdoing, their history of unaccountability remains. Mayor Karin Wilson now drives calls for total change ahead of the Nov 2018 elections, challenging the $32 million Mega Site debt.
+    widget_date: "2017-10-25"
+    generated_at: "2026-11-08T19:13:04.946270Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wonderful-wednesday-4:
+    brief: |-
+      THE CONFLICT:
+      *   Past administration included Mr. Burrell and Mr. Boone.
+      *   Mayor Kant was obstructed by the Fairhope City Council.
+      *   The "triangle lawsuit" totaled around $50 million and involved Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat.
+      *   Jack Burrell, as Council President, signed a resolution launched by the council, despite the Mayor refusing to sign.
+      *   Jay Robinson had a conflict of interest (his wife is best friends with Sherry Sullivan).
+      *   The conflict involved a council investigation into Elias Technologies intended to assist the three litigants who sought $100,000 each.
+
+      THE DISCOVERY:
+      *   84% of Fairhope eligible voters decided NOT to participate or vote in the recent US Senate primary.
+      *   Mr. Burrell is identified as the architect of the council's obstructionist behavior and airport misdeeds.
+      *   The council used subpoenas in its investigation into Elias Technologies.
+
+      THE PIVOT:
+      *   Article 2 established the historical context of Burrell's obstruction and unresolved financial baggage ($50 million lawsuit/airport misdeeds).
+      *   This historical baggage directly contributed to the "white elephant" mega-site and the $32 million debt cited in 2018 (Article 1).
+      *   Article 2 provides evidence of the council's systemic pattern of abuse and conflict of interest, validating Article 1's call for accountability and a "clean sweep."
+
+      KEY ENTITIES:
+      *   Mr. Burrell
+      *   Mr. Boone
+      *   Mayor Kant
+      *   Baldwin County
+      *   Fairhope
+      *   Jennifer Fidler
+      *   Sherry Sullivan
+      *   Pandora Heathcoat
+      *   Jay Robinson
+      *   Jack Burrell
+      *   Mega-site
+      *   Wilson
+      *   Elias Technologies
+      *   The Ripp Report
+    llm_text: Jack Burrell architected Fairhope's obstruction, fueling the $50 million "triangle lawsuit" involving Jennifer Fidler and Sherry Sullivan. See how his council abuse directly contributed to the mega-site debt and why local accountability is urgent.
+    widget_date: "2017-08-23"
+    generated_at: "2026-11-08T19:09:26.901713Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  covered-in-oil:
+    brief: |-
+      THE CONFLICT: Tim Kant and BP contractor Trip Pittman were identified as corrupt politicians in Baldwin County regarding the Fairhope Airport Authority "bidding" scandal.
+      THE DISCOVERY: Article 2 revealed Pittman received only 7% of the vote and predicted Jack Burrell would be voted out or indicted for his involvement in the Fairhope Airport Authority "bidding" scandal.
+      THE PIVOT: Article 2 provides specific, documented historical examples (Kant, Pittman, Burrell) of political corruption in Baldwin County that justify Article 1's call for "total change," replacement of four county commissioners, and increased transparency regarding issues like the Mega Site debt.
+      KEY ENTITIES: Tim Kant, Trip Pittman, Jack Burrell, Fairhope Airport Authority, Baldwin County, Mega Site
+    llm_text: Baldwin County faces deep corruption, proven by Tim Kant and Trip Pittman's Fairhope Airport Authority scandal. Read why their actions demand total change, including replacing four commissioners and addressing Mega Site debt.
+    widget_date: "2017-08-16"
+    generated_at: "2026-11-08T19:15:41.392817Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

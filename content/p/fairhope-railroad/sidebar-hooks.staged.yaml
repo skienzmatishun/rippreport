@@ -1,0 +1,61 @@
+metadata:
+  generated_at: "2026-11-09T12:00:08.674629Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-railroad
+  main_date: "2015-12-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  football-sneak-play:
+    brief: |-
+      THE CONFLICT:
+      1. Mayor Kant (Fauxhope) accepted over $40,000 in campaign donations, primarily from out-of-town contributors, via Angus Cooper. (Article 2, older context)
+      2. Mayor Kant authorized $35,000 (2 hours @ $17,500/hour) to pay for senior bowl players to practice at city facilities, despite budget submission delays. (Article 2)
+      3. Councilwoman Diana Brewer voted for the football arrangement, despite Angus Cooper serving on the board of the mobile maritime museum, constituting a conflict of interest. (Article 2)
+      4. The Publix site in Fly Creek PUD was illegally rezoned from high-end townhomes to a strip center, ignoring comprehensive plans and environmental standards. (Article 1)
+      5. This development caused severe environmental damage, including millions of gallons of red mud in Fly Creek, leading to a $11.5 million lawsuit settlement and $10 million estimated cleanup cost. (Article 1)
+
+      THE DISCOVERY:
+      1. Article 2 reveals a pattern of mayoral favoritism and financial transactions prioritizing major political contributors (e.g., Angus Cooper) over taxpayer interests.
+      2. Article 1 demonstrates this pattern applied to Mr. Arthur Corte, where planning and zoning ignored violations to secure a "good ole boy deal" for the Publix development.
+
+      THE PIVOT:
+      1. Article 2 establishes that Mayor Kant's administration operates through financial favoritism towards campaign contributors (Cooper), not just for small deals (football), but as a systemic norm.
+      2. Article 1 shows this established pattern of corruption (favoring contributors/donors) directly resulted in massive public detriment, including $11.5 million in legal costs, severe environmental damage, and the betrayal of public trust concerning the Fly Creek PUD.
+
+      KEY ENTITIES:
+      1. Mayor Kant (Fauxhope)
+      2. Angus Cooper
+      3. Diana Brewer
+      4. Mr. Arthur Corte
+      5. Publix
+      6. Fly Creek Planned Unit Development (PUD)
+      7. Tripp Pittman (State Senator, $636,000 BP contract)
+      8. George Robards (Planning and Zoning, sidewalk contracts)
+      9. Lee Turner (P&Z Director, heads Single Tax Colony)
+      10. Fairhope Railroad
+      11. Parker Road (location of development/violation)
+    llm_text: Mayor Kant accepted over $40,000 from Angus Cooper while authorizing $35,000 for senior bowl practices. This favoritism led to the illegal Publix rezoning in Fly Creek PUD, causing millions of gallons of red mud and a $11.5 million lawsuit.
+    widget_date: "2015-10-23"
+    generated_at: "2026-11-09T11:58:36.085114Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  divorce-corp-documentary:
+    brief: |-
+      THE CONFLICT: Systemic corruption within Baldwin County Family Court, involving legal practices and judicial conduct, was highlighted in a documentary.
+      THE DISCOVERY: The documentary (Divorce Corp) revealed that over $50 billion annually flows through family courts, enriching courthouse insiders like Judge Thomason and law firm Brackin Johnson and McGriff.
+      THE PIVOT: The documentary establishes a historical pattern of institutional corruption within the Baldwin County legal system, providing context that supports the claims in the Fairhope article regarding pervasive political and zoning corruption (Mayor/P&Z) that bypasses legal and financial checks and balances.
+      KEY ENTITIES:
+      *   Judge Thomason
+      *   Brackin Johnson and McGriff
+      *   Mayor (Fairhope)
+      *   Arthur Corte
+      *   Publix (Fly Creek PUD)
+      *   George Robards (Planning and Zoning)
+      *   Lee Turner (P&Z Director/Single Tax Colony)
+      *   State Senator Tripp Pittman ($636,000 BP contract)
+      *   Fly Creek
+      *   Triangle lawsuit ($11.5 million settlement)
+      *   $10 million (estimated creek cleanup cost)
+    llm_text: Baldwin County Family Court handles over $50 billion annually, yet Judge Thomason and Brackin Johnson and McGriff enriched themselves through systemic corruption. See how this legal rot connects to Fairhope's pervasive political and zoning corruption bypassing all checks.
+    widget_date: "2015-10-02"
+    generated_at: "2026-11-09T11:59:51.950149Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

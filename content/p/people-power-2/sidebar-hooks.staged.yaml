@@ -1,0 +1,217 @@
+metadata:
+  generated_at: "2026-11-08T17:40:38.203289Z"
+  generator_version: 1.0.0
+  post_slug: people-power-2
+  main_date: "2018-02-16"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  big-heads:
+    brief: |-
+      THE CONFLICT:
+      1. January 22, 2018: City Council introduced Ordinance directing land transfer for Tatumville Subdivision to Fairhope Single Tax Corporation.
+      2. February 12, 2018: Public health warning issued due to 100,000 to 200,000 gallon sewer spill near Valley Street Lift Station into Big Head Gully, Tatumville Gully, and Mobile Bay.
+      3. February 15, 2018: Petition of over 2,200 people voiced objections to the Tatumville Subdivision project.
+      4. Recent Event (Main Article): 500,000 gallons of raw sewage overflowed into Big Head gully and Fly Creek watershed.
+      5. Recent Event (Main Article): Petition of 2,276 citizens convinced Fairhope Single Tax to back off the Tuberville subdivision.
+
+      THE DISCOVERY:
+      1. The Tatumville Subdivision project (Single Tax) was being advanced despite documented public health warnings and prior sewage spills in February 2018.
+      2. Widget Article revealed multiple conflicts of interest among council members: Robert Brown/Cliff Pittman (building company/single tax board); Jay Robinson/Michel Upchurch (law/single tax treasurer); Lee Turner (President of Planning/Single Tax).
+
+      THE PIVOT:
+      1. Article 2 establishes that the sewer infrastructure failure and public health risks (Feb 2018 spill) were inherent to the Single Tax/Tatumville project, not a recent isolated incident.
+      2. Article 1 demonstrates the continuation of this systemic failure (500,000 gallon overflow) and the council's subsequent obstruction of Mayor Wilson, linking current citizen anger to pre-existing conflicts and historical failures (Jim Nix/Tim Kant).
+
+      KEY ENTITIES:
+      1. Mayor Wilson
+      2. Councilman Robinson
+      3. Kevin Boone
+      4. Robert Brown
+      5. Cliff Pittman
+      6. Jay Robinson
+      7. Michel Upchurch
+      8. Jack Burrell
+      9. Lee Turner
+      10. Sherry Sullivan
+      11. Jim Nix
+      12. Tim Kant
+      13. Fairhope Single Tax Corporation
+      14. Big Head Gully
+      15. Tatumville Subdivision
+      16. Catalyst
+      17. City of Fairhope
+    llm_text: The Tatumville Subdivision advanced despite a 2018 sewer spill into Big Head Gully and a recent 500,000-gallon overflow. Our report exposes conflicts of interest involving Robert Brown and Cliff Pittman on the Fairhope Single Tax board.
+    widget_date: "2018-02-14"
+    generated_at: "2026-11-08T17:33:24.893981Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bend-over-fairhope:
+    brief: |-
+      THE CONFLICT:
+      *   Council obstructed Mayor regarding the Fairhope Single Tax and development near Big Head Gully.
+      *   In the past (Article 2), a petition against the Single Tax plan had over 925 signatures.
+      *   Council members Boone and Brown had direct ties to the Single Tax plan.
+      *   The Council previously settled the Triangle lawsuit.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the Council prioritized developer interests (Single Tax) over public concerns regarding Big Head Gully.
+      *   The Council was historically engaged in obstructing the Mayor and using staff/fired employees to spread rumors.
+
+      THE PIVOT:
+      *   The historical pattern of council obstruction and favoring developers (Single Tax, Big Head Gully) established in Article 2 led to the current failure of the 13 million dollar sewer plant.
+      *   The recent 2276-signature petition against the Tuberville subdivision (Article 1) is a continuation of the conflict against Single Tax development that began near Big Head Gully (Article 2).
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Councilman Robinson
+      *   Boone
+      *   Burrell
+      *   Brown
+      *   Chucky
+      *   Tuberville
+      *   Big Head Gully
+      *   Fairhope Single Tax
+      *   Mr Peterson
+      *   Fly Creek watershed
+    llm_text: Council members Boone and Brown pushed the Fairhope Single Tax, prioritizing developer interests over Mayor Wilson and Big Head Gully concerns. See how this historical obstruction pattern impacts the Tuberville subdivision and local infrastructure.
+    widget_date: "2018-02-09"
+    generated_at: "2026-11-08T17:35:40.550665Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephant-in-a-volkswagen:
+    brief: |-
+      THE CONFLICT:
+      1994 watershed flooding damaged Magnolia Apartments, causing over $1 million in losses.
+      The Tatumville Subdivision (Ordinance 5) was pushed by Mr. Lee Turner (President of Single Tax) and Mr. Cliff Pittman (Single Tax board member).
+      The Airport Authority has been a source of controversy since the new mayor, with council members obstructing mayoral appointments (Item 13).
+
+      THE DISCOVERY:
+      The 2018 sewer infrastructure problem involved the $13 million sewer plant failing to process 500,000 gallons of raw sewage into Big Head gully and the Fly Creek watershed.
+      The 2276-signature citizen petition successfully convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.
+
+      THE PIVOT:
+      The historical pattern of prioritizing development (Tatumville, Fly Creek) over critical watershed protection (1994 flood) demonstrates the systemic lack of oversight that contributed to the recent, severe sewer infrastructure failure in the Fly Creek watershed (2018).
+
+      KEY ENTITIES:
+      Fairhope Single Tax
+      Mayor Wilson
+      Councilman Robinson
+      Mr. Lee Turner (President of Single Tax)
+      Mr. Cliff Pittman
+      Tatumville Subdivision
+      Tuberville subdivision
+      Fly Creek watershed
+      Big Head gully
+      Jim Nix
+      Tim Kant
+      Burrell
+      Peterson
+    llm_text: Mr. Lee Turner and the Fairhope Single Tax pushed development like the Tatumville Subdivision, ignoring the 1994 flood damage. This pattern of prioritizing profit led directly to the massive $13 million sewer failure in the Fly Creek watershed.
+    widget_date: "2018-01-27"
+    generated_at: "2026-11-08T17:36:30.159345Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-year-new-problems:
+    brief: |-
+      THE CONFLICT:
+      1. In 2018, the City Council obstructed the newly elected Mayor and faced a 2/2 vote failure on decriminalizing the downtown entertainment district, with Conyers and Burrell voting for and Boone and Robinson voting against.
+      2. During this period, the Council also voted on zoning changes for Green Nursery on Greeno road.
+
+      THE DISCOVERY:
+      1. Article 2 (2018) provides historical context showing a pattern of City Council obstruction against the Mayor's administration.
+      2. This historical pattern aligns with the current failure of the Council to address severe sewer infrastructure problems identified by Mayor Wilson.
+
+      THE PIVOT:
+      1. The 2018 obstruction (Article 2) is key context for Article 1 because it establishes a long-standing pattern of Council denial and obstruction, which directly contributed to the current failure of the 13 million dollar sewer plant to process 500,000 gallons of raw sewage into Big Head gully and the Fly Creek watershed.
+
+      KEY ENTITIES:
+      1. Mayor Wilson
+      2. Councilman Robinson
+      3. Boone
+      4. Burrell
+      5. Conyers
+      6. Tim Kant
+      7. Jim Nix
+      8. Sherry Sullivan
+      9. Mr Peterson
+      10. Fairhope Single Tax
+      11. Fairhope Arts and Crafts Festival Foundation
+      12. Green Nursery
+      13. Big Head gully
+      14. Fly Creek watershed
+    llm_text: Mayor Wilson now battles a $13M sewer failure dumping raw sewage into Big Head gully. Council obstruction isn't new; in 2018, Robinson and Boone blocked the Mayor on downtown decriminalization.
+    widget_date: "2018-01-12"
+    generated_at: "2026-11-08T17:37:50.903585Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  repeat:
+    brief: |-
+      THE CONFLICT:
+      In 2017, the Fairhope City Council spent a year obstructing the newly elected Mayor, allowing the previous leadership (Kant) to maintain a pattern of limiting public participation and avoiding transparency. This pattern is connected to historical failures, such as the county being saddled with a $32 million debt from the mega site.
+
+      THE DISCOVERY:
+      Article 2 revealed that the City Council historically failed the community in its first year, while the Mayor succeeded by pushing transparency and accountability and hiring new city employees.
+
+      THE PIVOT:
+      Article 2 establishes the historical pattern of council obstruction under leaders like Kant, which directly explains the current failure in Article 1: the Council is obstructing Mayor Wilson and failing to act on critical sewer infrastructure issues (e.g., the $13 million sewer plant failing to process 500,000 gallons of raw sewage into Big Head gully and the Fly Creek watershed), despite 2276 citizens signing a petition.
+
+      KEY ENTITIES:
+      Fairhope
+      Baldwin County
+      Mayor Wilson
+      Councilman Robinson
+      Tim Kant
+      Jim Nix
+      Mr Peterson
+      Sherry Sullivan
+      Boone
+      Burrell
+      Tuberville subdivision
+      Big Head gully
+      Fly Creek watershed
+      2276 (signatures)
+      $13 million (sewer plant cost)
+      500,000 (gallons of raw sewage)
+    llm_text: Council obstruction under Tim Kant created a pattern of failure, now blocking Mayor Wilson from fixing a critical $13 million sewer plant issue. Despite 2276 signatures, 500,000 gallons of raw sewage still pollute Big Head gully and the Fly Creek watershed.
+    widget_date: "2018-01-06"
+    generated_at: "2026-11-08T17:39:00.385156Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-party-before-country-or-city:
+    brief: |-
+      THE CONFLICT:
+      *   Jim Nix served 7 terms as Mayor of Fairhope before being forced to hand over the office due to criminal charges.
+      *   Tim Kant succeeded Jim Nix and ran a dynasty in Fairhope, described as being run like organized crime, characterized by no accountability or transparency.
+
+      THE DISCOVERY:
+      *   Local politics in Fairhope were historically "rotten," driven partly by straight ticket voting and the "Moore Factor" (62% voted for Roy Moore, prioritizing political party over city/country).
+      *   Jack Burrell is identified as a successor to Tim Kant, continuing the pattern of corrupt local leadership.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of corrupt, unaccountable local governance (Kant/Burrell).
+      *   Article 1 shows the current City Council (led by Robinson) obstructing necessary sewer infrastructure projects (13 million dollar plant failure, raw sewage overflow into Big Head gully) and obstructing Mayor Wilson, continuing the pattern of institutional obstruction warned about in the historical context.
+
+      KEY ENTITIES:
+      *   Mayor Wilson (Karin Wilson)
+      *   Councilman Robinson
+      *   Tim Kant
+      *   Jim Nix
+      *   Jack Burrell
+      *   Sherry Sullivan
+      *   Tuberville subdivision
+      *   13 million dollar sewer plant
+      *   2276 signatures
+      *   Roy Moore
+      *   Doug Jones
+      *   Fairhope Arts and Crafts Festival Foundation
+      *   Boone
+      *   Peterson
+    llm_text: Tim Kant's corrupt dynasty and Jack Burrell's succession established a pattern of unaccountable Fairhope leadership. Now, Councilman Robinson obstructs Mayor Wilson on the critical 13 million dollar sewer plant, threatening raw sewage into Big Head gully.
+    widget_date: "2017-12-22"
+    generated_at: "2026-11-08T17:34:36.271288Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  job-with-benefits:
+    brief: |-
+      THE CONFLICT: 13 million dollar sewer plant failed to process 500,000 gallons of raw sewage into Big Head gully and the Fly Creek watershed; Mayor Wilson was obstructed by the City Council, despite 2276 signatures supporting a petition against the Tuberville subdivision.
+      THE DISCOVERY: Council President Burrell previously defended the Fairhope sewer system, stating infrastructure problems "are blown out of proportion" and questioned the $13 million plant spending while the city utilities transferred 10 million to the general fund for non-utility expenses.
+      THE PIVOT: Article 2 establishes the historical pattern of Council President Burrell deflecting and minimizing the sewer infrastructure crisis and mismanaging city funds, directly contradicting his current defense of the problem presented by Mayor Wilson in Article 1.
+      KEY ENTITIES: Mayor Wilson, Councilman Robinson, Burrell, Sherry Sullivan, Jim Nix, Tim Kant, Boone, Chucky, Fairhope, Fairhope Airport Authority
+    llm_text: Mayor Wilson faced City Council obstruction after a $13 million sewer plant failed, dumping 500,000 gallons into Big Head gully. Council President Burrell dismissed this crisis while diverting $10 million from utilities—see how he minimizes real infrastructure failures.
+    widget_date: "2017-10-20"
+    generated_at: "2026-11-08T17:40:20.483747Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,216 @@
+metadata:
+  generated_at: "2026-11-09T04:06:24.464042Z"
+  generator_version: 1.0.0
+  post_slug: fairness
+  main_date: "2017-04-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  community-or-developer:
+    brief: |-
+      THE CONFLICT:
+      *   Fly Creek Apartments project required approval via Ordinance No. 1572 PUD Sunset Provision.
+      *   The issue was discussed as the 10th time in council chambers.
+      *   A past $11.25 million triangle lawsuit was settled involving Angelo Corte and the former Mayor without public participation.
+
+      THE DISCOVERY:
+      *   On Monday, April 10, 2017, the City Council considered the Final Adoption of the Ordinance Amending Ordinance No. 1572.
+      *   Article 2 revealed conflicts of interest among council members related to the developer, engineers, and contractors.
+      *   The Baldwin Insider, linked to the Catalyst fraternity (including county commissioners, attorneys, judges, and developers), was identified as an influence group supporting the project.
+
+      THE PIVOT:
+      *   Article 2 establishes that institutionalized conflicts of interest and external control (Catalyst/Baldwin Insider) existed *prior* to the current 120-day sunset clause extension decision mentioned in Article 1.
+      *   It provides historical context for the pattern of council decisions favoring the developer over citizens, which Article 1 alleges continued (e.g., ignoring Publix site red mud violations).
+
+      KEY ENTITIES:
+      *   Fly Creek Apartments
+      *   Angelo Corte
+      *   Mayor Wilson
+      *   Robert Brown
+      *   Burrell / Beavis / Boone / Butthead
+      *   Senator Pittman
+      *   Mr. Boone
+      *   Baldwin Insider
+      *   Catalyst
+      *   Ordinance No. 1572
+      *   April 10, 2017
+      *   $11.25 million (lawsuit cost)
+      *   Publix site
+    llm_text: The Fly Creek Apartments project faced 10 council discussions under Ordinance No. 1572, but Article 2 reveals institutional conflicts of interest. The Baldwin Insider/Catalyst group influenced these decisions, linking back to the $11.25 million Angelo Corte lawsuit.
+    widget_date: "2017-04-08"
+    generated_at: "2026-11-09T03:59:22.100624Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  beavis-and-butthead:
+    brief: |-
+      THE CONFLICT:
+      *   Historical financial conflict: $11.25 million triangle lawsuit settled by former Mayor and Mr. Corte without public participation.
+      *   Fly Creek Apartments project involved violations (red mud, graded right of ways) ignored by council.
+      *   Council voted for a 120-day sunset clause extension for Fly Creek Apartments (10th time).
+      *   Political tension centered on Mayor Wilson, who opposed the project from the beginning, against council members Burrell and Boone.
+
+      THE DISCOVERY:
+      *   Article 2 documented Burrell and Boone engaging in rude, crude, and bullying conduct against the newly elected mayor.
+      *   Burrell ran for council instead of mayor, fearing loss to the previous mayor who promised support in 2020.
+      *   Boone was supported by Catalyst, his son's political organization, focused on self-interest.
+      *   Burrell publicly stated intent to drive the mayor out of office within less than a year.
+
+      THE PIVOT:
+      *   Article 2 establishes Burrell and Boone's established pattern of negative behavior and political motivation (retribution/self-interest), providing context for their current actions in Article 1.
+      *   This history suggests the council's favoring of the developer and ignoring violations is driven by political bias rather than objective fairness.
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Angelo-Corte
+      *   Robert Brown
+      *   Senator Pittman
+      *   Burrell
+      *   Boone
+      *   Fly Creek Apartments
+      *   Catalyst
+    llm_text: Mayor Wilson opposes the Fly Creek Apartments project, despite council members Burrell and Boone ignoring red mud violations. Their history shows Burrell and Boone bullied the mayor for political self-interest, not objective fairness.
+    widget_date: "2017-03-31"
+    generated_at: "2026-11-09T04:01:39.006446Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  miracle-blindside-reality:
+    brief: |-
+      THE CONFLICT:
+      1.  December 7th: Planning and Zoning in Fairhope met regarding the controversial Fly Creek PUD (Planned Unit Development).
+      2.  The project proposed 240 "upscale apartments" on land owned by Arthur Corte (a non-resident of Fairhope).
+      3.  The original proposal sales point stated NO apartments would be developed in the PUD.
+      4.  The Mayor voted against the project, resulting in a 5 no 4 yes vote (supported by Councilman Ford and Jennifer Fiddler).
+      5.  The Triangle lawsuit settlement occurred without public participation, costing the city $11.25 million (including $3 million in attorney fees).
+
+      THE DISCOVERY:
+      1.  Article 2 revealed that the initial public outcry against the apartment development on Fly Creek led to a successful vote against the PUD on December 7th, and highlighted the historical lack of public notification during the $11.25 million Triangle lawsuit settlement.
+
+      THE PIVOT:
+      1.  Article 2 establishes that Mayor Wilson (and supporting council members) previously stood against the project (Dec. 7th vote), contrasting with the current situation where four councilmen voted for a 120-day sunset clause extension for the developer (Main Article).
+      2.  Article 2 provides context for the pattern of "BLINDSIDE" decisions (e.g., the Triangle lawsuit lack of public notification) that the Main Article cites when questioning the council's fairness.
+
+      KEY ENTITIES:
+      1.  Arthur Corte
+      2.  Mayor Wilson
+      3.  Robert Brown
+      4.  Councilman Pittman
+      5.  Councilman Boone
+      6.  Councilman Ford
+      7.  Jennifer Fiddler
+      8.  Fly Creek Apartments/PUD
+      9.  Baldwin County
+      10. $11.25 million (Triangle lawsuit cost)
+      11. 120 days (sunset clause extension)
+    llm_text: Mayor Wilson and Councilman Ford voted against the 240 Fly Creek apartments on Arthur Corte's land on Dec 7, yet the city paid $11.25 million in a blindsided Triangle lawsuit. Does the council remember past decisions when they now extend the development by 120 days?
+    widget_date: "2015-12-11"
+    generated_at: "2026-11-09T04:02:41.695346Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest:
+    brief: |-
+      THE CONFLICT:
+      Kevin Boone held documented, undisclosed business connections via LLCs with John Avent of Dewberry Preble-Rish, LLC.
+      Boone attended and voted on the Retreat at Fairhope/Fly Creek Apartments issue twice in September 2016 (SD 16.14).
+      In 2016, Boone voted in favor of the project despite Avent representing Preble-Rish at the planning and zoning meeting.
+
+      THE DISCOVERY:
+      Article 2 proves Boone's long-standing conflict of interest with Preble-Rish predated his council tenure and specifically involved voting on the Fly Creek Apartments project in September 2016.
+
+      THE PIVOT:
+      Article 2 provides historical context demonstrating Boone's pattern of failing to recuse himself due to business ties with the project's engineer (Preble-Rish), supporting the current accusations in Article 1 that Boone has business relationships with Mr. Corte and the engineer company, leading to questionable votes on Fly Creek.
+
+      KEY ENTITIES:
+      Kevin Boone
+      John Avent
+      Preble-Rish, LLC
+      Fly Creek Apartments / Retreat at Fairhope
+      Angelo Corte
+      Robert Brown
+      Senator Pittman
+      Mayor Wilson
+      Burrell (Beavis/Butthead)
+      Council
+      $11.25 million (Triangle lawsuit settlement)
+    llm_text: Kevin Boone held undisclosed LLC ties with John Avent of Preble-Rish, LLC. He voted for the $11.25 million Fly Creek Apartments project in 2016 despite the conflict, revealing a pattern of questionable votes.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T04:05:03.833588Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  balls:
+    brief: |-
+      THE CONFLICT:
+      *   Between January 2016 and October 2016, Defendants Leaf River and Corte sought approval for the Fly Creek PUD Amendment through the City of Fairhope Planning Commission and City Council.
+      *   The project resulted in Fly Creek being filled with red mud and violations, including the tree ordinance (estimated damage nearly $1 million).
+      *   Corte and former Mayor cost $11.25 million in the triangle lawsuit, settled without public participation.
+
+      THE DISCOVERY:
+      *   Leaf River and Corte misrepresented key facts during the PUD Amendment review, specifically regarding drainage and red soil usage.
+      *   They claimed the drainage system was environmentally sensitive (non-point discharge) when they planned a point discharge system into a deficient retention pond.
+      *   They claimed the Red Soil Ordinance #1423 would not apply to the entire site, when they planned to move red soil (clay/silt) from non-critical to critical areas within 100' of wetlands/Fly Creek, violating the ordinance.
+
+      THE PIVOT:
+      *   Article 2 proves the Fly Creek PUD Amendment was based on material non-disclosure and misrepresentation, not legitimate planning, validating the concerns about the project's inherent flaws raised in Article 1.
+      *   This historical failure provides context for current council votes (e.g., extension of the sunset clause) and questions the council's current commitment to "Fairness" given past violations and settlements.
+
+      KEY ENTITIES:
+      *   Corte
+      *   Leaf River
+      *   Fly Creek
+      *   City of Fairhope Planning Commission
+      *   City Council
+      *   Burrell
+      *   Angelo-Corte
+      *   Pittman
+      *   Robert Brown
+      *   Mayor Wilson
+    llm_text: Leaf River and Corte misrepresented Fly Creek drainage and red soil use to secure PUD approval from the City of Fairhope Planning Commission. This deception caused nearly $1M in tree damage and resulted in a $11.25M settlement for Corte, questioning the council's commitment to fairness today.
+    widget_date: "2017-03-27"
+    generated_at: "2026-11-09T04:03:42.737139Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  selective-memory:
+    brief: |-
+      THE CONFLICT: The Fairhope City Council challenged Mayor Wilson's hiring/firing authority, leading to the termination of Sherry Sullivan and Jennifer Fidler. This occurred around March 9th.
+      THE DISCOVERY: Article 2 revealed the Council was aligning with the interests of the "losing party" (the previous administration/Jack), prioritizing old guard interests over constituents seeking change and transparency.
+      THE PIVOT: Article 2 establishes the Council's historical pattern of undermining Mayor Wilson's authority and favoring the previous political establishment, which contextually explains the Council's later decision (Article 1) to favor the developer (Fly Creek) and extend the sunset clause despite public opposition and documented violations (red mud, $11.25 million lawsuit).
+      KEY ENTITIES: Mayor Wilson, Mr. Corte, Mr. Brown, Mr. Boone, Senator Pittman, Mr. Burrell, Sherry Sullivan, Jennifer Fidler, Fly Creek Apartments.
+    llm_text: The Fairhope City Council fired Sherry Sullivan and Jennifer Fidler, challenging Mayor Wilson's authority. This Council consistently backs the previous administration and favors developers like Fly Creek, ignoring public concerns and documented violations.
+    widget_date: "2017-03-01"
+    generated_at: "2026-11-09T04:00:29.680754Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-spiders-web:
+    brief: |-
+      THE CONFLICT:
+      *   Kevin Boone and Goobers Jack Burrell (Fairhope city councilmen) were operating within a "good ole boy network" connected by LLCs, obscuring personal and business interests for over 50 years.
+      *   Mr. Boone had financial conflicts regarding engineering firms (e.g., John Avent of Preble-Rich/Dewberry) and adamantly fought against the Mayor's efforts to hire independent evaluators.
+      *   Tucker Dorsey (County Commissioner) and Chris Elliott (County Commissioner) were also connected to the same LLCs and involved in political jockeying (Dorsey targeting Pittman; Elliott targeting Probate Judge).
+      *   The Ethics Commission in Alabama failed to enforce ethical standards, allowing officials to manipulate rules.
+
+      THE DISCOVERY:
+      *   Article 2 revealed copies of LLCs connecting Kevin Boone to individuals presenting clear conflicts of interest relative to his voting record.
+      *   Article 2 showed Boone received handsome campaign contributions from the same conflicted LLCs he advocated for.
+      *   Article 2 established that self-serving representatives in Baldwin County were connected across Fairhope council, County Commissioner, and State Senator levels.
+
+      THE PIVOT:
+      *   Article 2 provides the structural context (the LLC web and Boone's documented conflicts) that explains why councilmen (Burrell, Boone) and other officials (Pittman) prioritize favoring developers (like in the Fly Creek Apartments project) over citizen interests, despite ethical rules and public complaints.
+      *   Article 2 demonstrates a long-standing, systemic pattern of self-serving behavior, not isolated incidents, making the current Fly Creek vote a continuation of established corruption rather than an isolated error.
+
+      KEY ENTITIES:
+      *   Kevin Boone
+      *   Goobers Jack Burrell
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Trip Pittman
+      *   Mayor Wilson
+      *   Angelo Corte
+      *   Robert Brown
+      *   Wilson (Mayor)
+      *   Boone (Mr. Boone)
+      *   Burrell
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   John Avent
+      *   Preble-Rich/Dewberry
+      *   Ethics Commission
+      *   Fly Creek Apartments
+      *   Baldwin County
+      *   Fairhope
+      *   Publix site
+    llm_text: Kevin Boone and Goobers Jack Burrell used a 50-year "good ole boy" LLC network to hide conflicts in Fairhope. See how this Baldwin County system prioritized developers, not citizens, risking crucial votes like the Fly Creek Apartments project.
+    widget_date: "2017-01-18"
+    generated_at: "2026-11-09T04:06:03.394163Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

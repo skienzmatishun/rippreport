@@ -1,0 +1,151 @@
+metadata:
+  generated_at: "2026-11-09T03:33:47.650539Z"
+  generator_version: 1.0.0
+  post_slug: help-fairness-killing-us
+  main_date: "2017-04-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  good-ole-boys-alive-and-well:
+    brief: |-
+      THE CONFLICT: Resolution 2606-16 (October 21st) accepted the deed of a sewer lift station property from Angelo A. Corte to the City of Fairhope. This occurred during the previous city council under Tim Kant, with Burrell and Boone present.
+      THE DISCOVERY: The accepted "gift" was misrepresented; it included three plus acres of wetlands receiving storm water runoff from the Publix site, not just the land for a small lift station.
+      THE PIVOT: Article 2 establishes historical context of council actions (Resolution 2606-16, ignored details, conflict claims) by Burrell and Boone under Tim Kant, providing the foundation for current scrutiny regarding conflicts of interest (Boone's LLC) and financial decisions (budget cuts targeting Botop).
+      KEY ENTITIES: Angelo Corte, Tim Kant, Burrell, Boone, Marion Wynne, Sherry-Lea Bloodworth-Botop, Conyers, Brown, Robinson, Fly Creek Pud, Preeble-Rish, Fairhope City Council, BA-101, LLC.
+    llm_text: Did Angelo Corte really "gift" Fairhope a small lift station? No; Resolution 2606-16 secretly included three acres of Publix storm water wetlands, raising conflict claims against Burrell and Boone under Tim Kant.
+    widget_date: "2017-04-26"
+    generated_at: "2026-11-09T03:25:52.490084Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cut-nose-off-spite-face:
+    brief: |-
+      THE CONFLICT: Mayor Wilson fired two employees; Council President Jack Burrell and Kevin Boone led the council to install a hiring freeze to punish the mayor.
+      THE DISCOVERY: Article 2 (April 24, 2017 agenda) revealed the council was engaging in vindictive obstruction against the mayor, citing corruption concerns in Fairhope and Baldwin County.
+      THE PIVOT: Article 2 establishes the pattern of council obstruction and political revenge (the hiring freeze) which precedes and provides context for the subsequent actions in Article 1, specifically the budget cut against Director Sherry-Lea Bloodworth-Botop under the guise of "Fairness."
+      KEY ENTITIES: Mayor Wilson, Jack Burrell, Kevin Boone, Sherry-Lea Bloodworth-Botop, Councilmen Conyers, Councilmen Brown, Councilmen Robinson, Angelo Corte, Preeble-Rish, Fly Creek Pud, BA-101, LLC, 4-29-2004, 1-31-2017.
+    llm_text: Mayor Wilson fired two employees, forcing Council Presidents Jack Burrell and Kevin Boone to install a retaliatory hiring freeze. This political obstruction context explains why Director Sherry-Lea Bloodworth-Botop now faces budget cuts disguised as "Fairness."
+    widget_date: "2017-04-21"
+    generated_at: "2026-11-09T03:28:38.672924Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  nuff-said:
+    brief: |-
+      THE CONFLICT: Airport scandal reported since November 2016 involving alleged unethical behavior by city council members, which the City Council chose to ignore despite complaints being filed with authorities.
+      THE DISCOVERY: The City Council demonstrated a lack of accountability and transparency regarding the airport scandal, preferring to defer action to authorities rather than addressing the facts internally.
+      THE PIVOT: Article 2 establishes a historical pattern of the Fairhope City Council prioritizing inaction and political convenience over ethical accountability, providing context for the Council's current use of "Fairness" to justify detrimental actions (e.g., budget cuts against Sherry-Lea Bloodworth-Botop).
+      KEY ENTITIES: Angelo Corte, Kevin Boone, Sherry-Lea Bloodworth-Botop (Botop), Burrell, Conyers, Robert Brown, Robinson, Fairhope Airport, Fly Creek, Preeble-Rish
+    llm_text: Did the Fairhope City Council really ignore the 2016 Airport scandal involving Angelo Corte and Kevin Boone? Discover how this pattern of inaction—from the scandal to budget cuts affecting Sherry-Lea Bloodworth-Botop—shows the council prioritizes political convenience over ethical accountability.
+    widget_date: "2017-03-25"
+    generated_at: "2026-11-09T03:29:39.372437Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  listening-not-reading:
+    brief: |-
+      THE CONFLICT:
+      Historical political tension existed between Council President Burrell/Boone and Mayor Kant.
+      On 1/12/11, Rick Kingrea sent a request to the Attorney General concerning potential ethical violations and possible criminal activity.
+      Boone, Burrell, and Brown voted against the Mayor’s appointments to the Airport Authority; Robinson and Conyers voted in favor.
+
+      THE DISCOVERY:
+      Kevin Boone was the principal member of BA-101, LLC (Nature of Business: PURCHASE/HOLD PROPERTY FOR INVESTMENT), formed 4-29-2004 and officially dissolved 2-6-2017.
+      The Council previously ignored Boone's conflict of interest regarding this dissolved LLC.
+      The Ethics Commission has consistently held that public officials must use a bid process when doing business with the entity on which they serve.
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of obstruction (blocking mayoral appointments) and self-serving actions by Burrell and Boone.
+      This historical context explains the current actions in Article 1: the council uses the definition of "Fairness" to punish the Mayor (via a hiring freeze) and eliminate the Director of Economic and Community Development (Sherry-Lea Bloodworth-Botop) through budget cuts, driven by Burrell and Boone.
+
+      KEY ENTITIES:
+      Angelo Corte
+      Kevin Boone
+      Botop (Sherry-Lea Bloodworth-Botop)
+      Councilman Burrell (President of the Council)
+      Councilman Conyers
+      Councilman Brown
+      Councilman Robinson
+      Preeble-Rish
+      Robert Brown
+      Robinson
+      Wilson (Karin Wilson, Mayor)
+      Fairhope Airport Authority
+      Ethics Commission
+      Rick Kingrea
+      Jack Burrell
+      Mayor Kant
+      BA-101, LLC
+      Fly Creek Pud
+    llm_text: Kevin Boone's ignored conflict with his dissolved LLC, BA-101, fuels Council President Burrell's attack on Mayor Kant. See how Burrell and Boone weaponized "Fairness" to cut Botop's budget and impose a hiring freeze.
+    widget_date: "2017-03-10"
+    generated_at: "2026-11-09T03:30:49.824345Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigating-the-investigators:
+    brief: |-
+      THE CONFLICT:
+      1. The Ripp Report filed a complaint against the Fairhope Airport Authority (FAA).
+      2. The FAA was investigated by attorneys hired by the Authority due to this complaint.
+      3. Lease for a hanger was executed on December 17, 2015, involving board member Ray Hix.
+      4. Mr. Hix was accused of winning the lease without inside information despite being a board member for six months prior.
+      5. During the bid process, Mr. Burrell (on the bid committee) reduced Mid-Bay’s fuel estimate by 15,000 gallons, raising questions about his authority.
+
+      THE DISCOVERY:
+      1. The Widget Article revealed irregularities in Ray Hix's bid answers (e.g., claiming 100% ownership of three aircraft when only one was confirmed, and inaccurate fuel usage estimates).
+      2. It showed that Mr. Hix's attorney had requested an advisory opinion from the Ethics Commission.
+
+      THE PIVOT:
+      1. Article 2 establishes the historical "controversy involving Mr. Burrell and the airport" (the bid irregularities and FAA complaint).
+      2. Article 1 cites the council ignoring this specific controversy when making current decisions (e.g., budget cuts, job removal), linking past alleged misconduct to current political failures.
+
+      KEY ENTITIES:
+      1. Ray Hix
+      2. Jack Burrell
+      3. Fairhope Airport Authority (FAA)
+      4. Ethics Commission
+      5. The Ripp Report
+      6. Kevin Boone
+      7. Sherry-Lea Bloodworth-Botop
+      8. Angelo Corte
+      9. Preeble-Rish
+      10. Fly Creek
+    llm_text: Ray Hix allegedly secured a Fairhope Airport Authority hangar lease despite irregularities in his bid answers. Jack Burrell's fuel estimate manipulation and this past controversy now fuel current council decisions, including budget cuts.
+    widget_date: "2017-03-03"
+    generated_at: "2026-11-09T03:32:04.239320Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shut-up:
+    brief: |-
+      THE CONFLICT:
+      *   2007: Fairhope Airport Authority purchased 265 acres adjacent to the airport for $8,845,000 with the City of Fairhope as guarantor, committing the city to an indefinite appropriation.
+      *   Sept 2016: Mayor Karin Wilson began investigating the debt ($7.7M land debt) and requested involvement in the refinance process.
+      *   Feb 23, 2017: Airport Authority approved the refinance of the $7,445,629 debt, despite Wilson's requests for covenant retention and no prepayment penalties.
+      *   Dec 22, 2017: City Council unanimously approved keeping the land in the Airport Authority's name, committing the city $320k/year for 7 years.
+
+      THE DISCOVERY:
+      *   The Airport Authority, led by Joe McEnerney and Jack Burrell, failed to renegotiate the original RFP extension deadline (Nov 2016), resulting in missed opportunities and increased costs to the city.
+      *   The Airport Authority acted with a lack of transparency, excluding Mayor Wilson from key meetings and decisions (e.g., executive sessions).
+
+      THE PIVOT:
+      *   Article 2 establishes Jack Burrell's historical pattern of undermining transparency and city governance (targeting Mayor Wilson) via the Airport Authority, providing context for his subsequent actions in Article 1, where he used his position as Council President to cut funding for Economic and Community Development (Sherry-Lea Bloodworth-Botop) under the guise of "Fairness."
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (Council President)
+      *   Sherry-Lea Bloodworth-Botop (Director of Economic and Community Development)
+      *   Kevin G. Boone
+      *   Angelo Corte
+      *   Conyers
+      *   Robert Brown
+      *   Robinson
+      *   Fairhope Airport Authority
+      *   Joe McEnerney
+      *   Rod Kanter
+      *   Fly Creek Pud
+      *   BA-101, LLC (Dissolved 1-31-2017)
+    llm_text: Mayor Karin Wilson fought the $7.7M Fairhope Airport Authority debt, but Jack Burrell undermined her and cut funding for Sherry-Lea Bloodworth-Botop. See how Burrell's lack of transparency led to missed opportunities and damaged city governance.
+    widget_date: "2017-02-24"
+    generated_at: "2026-11-09T03:27:28.968433Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  all-smoke-and-mirrors:
+    brief: |-
+      THE CONFLICT: Baldwin County Mega-Site, 3000 acres, cost $32 million; the County Commission skimmed $5 million from schools via a penny tax.
+      THE DISCOVERY: Fairhope Airport Authority debt constitutes 21% of the city’s debt, which citizens assume and pay through appropriation.
+      THE PIVOT: The historical financial mismanagement (Mega-Site/Airport Debt) revealed in Article 2 provides context for Article 1's criticism that the Council rejected public objections and cut funds for the Director of Economic and Community Development (Sherry-Lea Bloodworth-Botop) to side with a developer.
+      KEY ENTITIES: Fairhope City Council, Sherry-Lea Bloodworth-Botop, Councilman Boone (Kevin G.), Councilman Burrell, Councilman Brown, Councilman Conyers, Angelo Corte, Preeble-Rish, Fly Creek Pud, Fairhope Airport Authority, BA-101, LLC.
+    llm_text: Baldwin County skimmed $5 million from schools for the $32M Mega-Site, while Fairhope citizens absorb 21% of the city's debt from the Airport Authority. Council rejected public objections and cut funds for Sherry-Lea Bloodworth-Botop to side with a developer; see how financial mismanagement affects your wallet.
+    widget_date: "2017-02-17"
+    generated_at: "2026-11-09T03:33:32.863244Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

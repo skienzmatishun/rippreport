@@ -1,0 +1,30 @@
+metadata:
+  generated_at: "2026-11-09T12:04:34.229036Z"
+  generator_version: 1.0.0
+  post_slug: divorce-corp-documentary
+  main_date: "2015-10-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  ethics-complaint-turner:
+    brief: |-
+      THE CONFLICT: On September 25, 2015, an ethics complaint was filed regarding conflicts of interest involving Lee Turner, Chairman of the Fairhope Planning & Zoning Commission and President of the Single Tax Corporation, and George Robards, a Planning & Zoning member who secured public contracts with the Single Tax Corporation.
+      THE DISCOVERY: The 2015 article showed that the City of Fairhope government had used the Alabama Ethics Commission (led by Tom Albritton) to cover up these dual positions and conflicts related to joint financial projects and contract approvals.
+      THE PIVOT: The 2015 historical document proves documented, specific instances of institutional conflict and corruption within Baldwin County local government, lending weight to the current documentary's claim that other Baldwin County institutions, specifically Family Court (Brackin Johnson and McGriff firm and Judge Thomason's court), are corrupt and designed to exploit citizens.
+      KEY ENTITIES: Lee Turner, George Robards, Tom Albritton, Marion Wynne, Francis Paul Ripp, Brackin Johnson and McGriff, Judge Thomason, Baldwin County.
+    llm_text: Lee Turner and George Robards used the Single Tax Corporation for contracts in Fairhope in 2015. The City of Fairhope used Tom Albritton's ethics commission to cover this conflict, proving Baldwin County corruption extends to Family Court.
+    widget_date: "2015-09-25"
+    generated_at: "2026-11-09T12:03:14.494950Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  preemptive-notice-fire-station:
+    brief: |-
+      THE CONFLICT: In July and August 2009, the fire station proposal on Parker Road in Fairhope, Baldwin County, initially fell flat due to complaints about safety and traffic. Later, on May 8, 2013, the city council settled the triangle lawsuit for $12 million.
+
+      THE DISCOVERY: Developer Arthur Corte filled Fly Creek with red clay, causing environmental damage; Corte later sold the corner lot pledged for the fire station to Iberia Bank for $1 million, and used the fire station proposal to facilitate his development plans (connecting Parker Road to Highway 13 via Rock Creek).
+
+      THE PIVOT: Both articles expose entrenched, localized systemic corruption in Baldwin County, demonstrating how powerful legal entities (Brackin Johnson and McGriff, Judge Thomason's court) and political figures (Mayor Tim Kant, Arthur Corte) exploit legal and municipal systems for private financial and developmental gain.
+
+      KEY ENTITIES: Tim Kant; Arthur Corte; Brackin Johnson and McGriff; Judge Thomason; Fairhope; Baldwin County; Parker Road; Iberia Bank; Fly Creek; Rock Creek.
+    llm_text: Arthur Corte used the Fairhope fire station proposal to facilitate major development, even selling the corner lot to Iberia Bank. See how Tim Kant and local figures exploited Baldwin County systems for private gain.
+    widget_date: "2015-09-15"
+    generated_at: "2026-11-09T12:04:15.710329Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

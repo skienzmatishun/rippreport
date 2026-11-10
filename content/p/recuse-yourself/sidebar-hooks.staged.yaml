@@ -1,0 +1,147 @@
+metadata:
+  generated_at: "2026-11-09T03:58:29.375051Z"
+  generator_version: 1.0.0
+  post_slug: recuse-yourself
+  main_date: "2017-04-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairness:
+    brief: |-
+      THE CONFLICT:
+      Council voted for a 120-day extension of the sunset clause for Fly Creek Apartments (older event).
+      Former Mayor and Mr. Corte were involved in a $11.25 million triangle lawsuit settlement without public participation.
+
+      THE DISCOVERY:
+      The council ignored citizen input (10 times) regarding Fly Creek Apartments.
+      The council failed to address existing violations (red mud from Publix site, graded right-of-ways) while favoring the developer.
+
+      THE PIVOT:
+      Article 2 established a historical pattern of council actions favoring the developer/landowner (Corte) and ignoring violations/citizen concerns.
+      Article 1 builds on this pattern, revealing that Mr. Boone's conflicts (with Angelo Corte and Preble-Rish) predate his election, demonstrating a long-standing issue of conflicts of interest, not an isolated incident.
+
+      KEY ENTITIES:
+      Angelo Corte
+      Mr. Boone
+      Catalyst
+      Fly Creek
+      Preble-Rish
+      Mayor Wilson
+      Senator Pittman
+      Mr. Brown
+      Burrell
+    llm_text: Council ignored citizens 10 times over Fly Creek Apartments and a $11.25 million Corte lawsuit. Mr. Boone’s conflicts with Angelo Corte predate his election, showing this is a long-standing pattern, not an isolated incident.
+    widget_date: "2017-04-14"
+    generated_at: "2026-11-09T03:51:04.863326Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  community-or-developer:
+    brief: |-
+      THE CONFLICT: Fly Creek PUD Sunset Provision was debated for the 10th time on April 10, 2017, amidst claims of developer influence, permanent damage to the Fly Creek Watershed, and pending lawsuits.
+      THE DISCOVERY: Article 2 identified Catalyst, linked through the Baldwin Insider, as a fraternity of county commissioners, attorneys, judges, and developers acting in self-interest within the county/city.
+      THE PIVOT: Article 2 established the systemic, entrenched power of the Catalyst network in Fairhope, providing the foundational context for later allegations (Article 1) that specific council members (like Boone) had undisclosed, related conflicts of interest tied directly to Catalyst affiliates (Angelo Corte and Preble-Rish).
+      KEY ENTITIES: Angelo Corte, Boone, Catalyst, Fly Creek, Preble-Rish, Baldwin Insider, Fairhope City Council
+    llm_text: Fly Creek watershed damage involves more than just development. Article 2 exposes Catalyst, a powerful network linking Angelo Corte, Preble-Rish, and Fairhope officials like Boone, who influenced the PUD debate.
+    widget_date: "2017-04-08"
+    generated_at: "2026-11-09T03:53:28.971185Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-town-hall-meeting:
+    brief: |-
+      THE CONFLICT: Mr. Boone has business interests with Preble-Rish and Angelo Corte, dating back prior to his election. The Fly Creek Apartments issue, linked to the repeal of ordinance 1572, was a key issue during elections. A Town Hall meeting was held on 2/16/2017 concerning the Fly Creek Apartments and the Airport Authority.
+      THE DISCOVERY: On 2/16/2017, the public was actively concerned about repealing ordinance 1572 (Fly Creek Apartments) and the Airport Authority maintaining control over land, which represented 21% of city debt, while school funding (Fairhope High School) was inadequate.
+      THE PIVOT: The 2/16/2017 town hall established Fly Creek as a critical, long-standing public concern; Article 1 shows that the council is currently ignoring this public mandate by allowing conflicted councilmen (Mr. Boone) to vote on Fly Creek Apartment extensions and Preble-Rish related issues.
+      KEY ENTITIES: Mr. Boone, Angelo Corte, Catalyst, Preble-Rish, Fly Creek, Fairhope City Council, Mayor, Ordinance 1572, Fairhope Airport Authority
+    llm_text: Mr. Boone holds business ties to Preble-Rish and Angelo Corte, stemming before his election. The City Council ignores public mandates regarding Fly Creek and Ordinance 1572, letting Boone vote despite critical Fairhope High School funding needs.
+    widget_date: "2017-02-15"
+    generated_at: "2026-11-09T03:54:42.284874Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  5000-00-cash-reward:
+    brief: |-
+      THE CONFLICT: Formal complaint against Councilman Jack Burrell concerning receipt of free airplane transportation by Burrell and family from a winning bidder while serving as an elected official. (No specific dates provided in Article 2).
+
+      THE DISCOVERY: The Fairhope City Council has historically ignored conflicts of interest; Councilman Mr. Boone has a documented trail of LLCs, is related to Catalyst, and has undisclosed business interests with Preble-Rish and Angelo Corte dating prior to his election. (Investigation requested in January).
+
+      THE PIVOT: Article 2 establishes a history of high-profile conflicts of interest within the Fairhope City Council (Burrell/Airport Bid), setting the context for the subsequent, more detailed allegations against Councilman Boone regarding real estate and corporate influence (Fly Creek/Corte) detailed in Article 1.
+
+      KEY ENTITIES: Jack Burrell, Fairhope City Council, Mr. Boone, Angelo Corte, Preble-Rish, Catalyst, Fly Creek Apartments, Fairhope Airport.
+    llm_text: Jack Burrell faces a formal complaint for free airplane rides from a winning bidder. Meanwhile, Councilman Mr. Boone holds undisclosed business interests with Angelo Corte and Preble-Rish, revealing deep conflicts across the Fairhope City Council.
+    widget_date: "2017-02-08"
+    generated_at: "2026-11-09T03:55:56.050390Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest:
+    brief: |-
+      THE CONFLICT: Kevin Boone maintained undisclosed business connections through LLCs with Preble-Rish and John Avent predating his council service. Boone voted on the Fly Creek Apartments (Retreat at Fairhope) twice in September 2016 (SD 16.14) during a Planning and Zoning meeting while Avent represented Preble-Rish.
+
+      THE DISCOVERY: Article 2 revealed that Boone's conflicts with Preble-Rish were long-standing, unacknowledged, and unrecused, contrasting with council members Robinson, Conners, and Brown who acknowledged and abstained from conflicts.
+
+      THE PIVOT: Article 2 establishes that Boone's conflicts (Preble-Rish/Fly Creek) are not recent or isolated, validating Article 1's claim that his current conflicts regarding Angelo Corte and Fly Creek Apartments are part of a continuous, pre-election pattern of self-interest.
+
+      KEY ENTITIES: Kevin Boone, Angelo Corte, John Avent, Preble-Rish, Catalyst, Fly Creek Apartments (Retreat at Fairhope), Fairhope City Council, Robinson, Conners, Brown, September 2016, SD 16.14, January.
+    llm_text: Kevin Boone maintained undisclosed LLC ties with Preble-Rish and John Avent, voting on Fly Creek Apartments in September 2016. Unlike council members Robinson, Conners, and Brown who recused themselves, Boone ignored these conflicts, revealing a pattern of self-interest.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T03:57:09.708967Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bit-dogs-bark-first:
+    brief: |-
+      THE CONFLICT:
+      Past corruption within Baldwin County and Fairhope municipalities over many years, where a former Mayor insulated "connected" players, leading to the failure of a previous administration.
+      The last election saw the Mayor and three councilmen voted out, leaving remaining councilmen Mr. Burrell and Mr. Boone.
+      During the failed administration, accomplishments included the Triangle lawsuit ($12 million) and a sewer plant ($11 million).
+      Mr. Boone previously denied involvement in any LLCs or engineering companies when challenged by The Ripp Report.
+
+      THE DISCOVERY:
+      Mr. Boone established multiple LLCs, including BA-101, LLC (formed 4-29-2004) and North Ridge, LLC (formed 6-2-2008).
+      North Ridge, LLC lists John G. Avent, who is a Firm Partner at Preble-Rish, Inc., as a member, indicating a clear conflict of interest for Mr. Boone.
+      Mr. Boone has a long history of business interests with Preble-Rish and Angelo Corte dating back prior to his election, which he failed to disclose.
+
+      THE PIVOT:
+      Article 2 provides the historical evidence (LLC records, Avent/Preble-Rish connection, long-term undisclosed conflicts) that substantiates the current accusations in Article 1 regarding Mr. Boone's multiple, pre-elected, and undisclosed business conflicts of interest related to Preble-Rish and Angelo Corte, necessitating his recusal from Fly Creek Apartment and Preble-Rish related issues.
+
+      KEY ENTITIES:
+      Mr. Boone (Kevin G. Boone)
+      Mr. Angelo Corte
+      Mr. Burrell
+      Mr. Robinson (Jay Robinson)
+      Mayor Wilson
+      Preble-Rish, Inc.
+      Catalyst
+      Fly Creek Apartments
+      Fairhope City Council
+      Fairhope Airport Authority
+      John G. Avent
+      Hix (Ray Hix)
+      Triangle lawsuit ($12 million)
+      LLC entities: BA-101, LLC (Entity ID 451-082), North Ridge, LLC (Entity ID 420-935)
+      Locations: Fairhope, Alabama; Fly Creek
+      Dates: 4-29-2004; 6-2-2008
+    llm_text: Mr. Boone denied ties to engineering firms, but records show he formed North Ridge, LLC in 2008. This LLC lists John G. Avent of Preble-Rish, exposing his undisclosed conflict with Angelo Corte and the Fairhope City Council.
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-09T03:52:17.890768Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-down-and-i-call:
+    brief: |-
+      THE CONFLICT:
+      1. December 21, 2016: A Ripp Report filed an Ethics Complaint to the Alabama Attorney General Special Prosecutor Mr. Matt Hart, the United States Attorney’s Office, and Honorable Jody W. Bishop.
+      2. The complaint concerned alleged criminal activity and conflicts of interest regarding past airplane hangar leases at the Fairhope Airport Authority.
+      3. Jack Burrell, Fairhope City Council President, was a board member of the Airport Authority and sat on a two-man ad hoc committee selecting lease bids.
+
+      THE DISCOVERY:
+      1. Article 2 showed that the Alabama Ethics Commission was potentially manipulated by individuals who presented incomplete information regarding Advisory Opinion 2016-4.
+      2. Key officials (e.g., Council President Burrell) held overlapping roles in both the City Council and the Airport Authority, despite shared friendships.
+
+      THE PIVOT:
+      1. Article 2 establishes a historical pattern (2016) of systemic conflicts of interest and the manipulation of local ethical bodies (Alabama Ethics Commission) by high-ranking Fairhope officials.
+      2. This history of institutional conflict provides context for the current situation (Article 1) where the Fairhope City Council has allegedly ignored obvious conflicts of interest involving Mr. Boone regarding Fly Creek Apartments and Preble-Rish.
+
+      KEY ENTITIES:
+      1. Angelo Corte
+      2. Boone
+      3. Catalyst
+      4. Fly Creek
+      5. Preble-Rish
+      6. Jack Burrell
+      7. Fairhope Airport Authority
+      8. Alabama Ethics Commission
+      9. Matt Hart (Alabama Attorney General Special Prosecutor)
+    llm_text: Remember the 2016 ethics complaint against Jack Burrell regarding Fairhope Airport Authority hangar leases? This history of manipulating the Alabama Ethics Commission explains why current conflicts involving Boone and Fly Creek demand immediate attention.
+    widget_date: "2016-12-21"
+    generated_at: "2026-11-09T03:58:10.732095Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

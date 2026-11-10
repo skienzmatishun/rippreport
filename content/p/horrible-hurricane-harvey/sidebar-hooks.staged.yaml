@@ -1,0 +1,42 @@
+metadata:
+  generated_at: "2026-11-08T22:53:27.604910Z"
+  generator_version: 1.0.0
+  post_slug: horrible-hurricane-harvey
+  main_date: "2017-09-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  now-you-know-jack:
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell obstructed Mayor Kant after a planned re-election effort for Kant failed, fueling Burrell’s assault on the Mayor. (Historical context from Article 2)
+
+      THE DISCOVERY:
+      The City of Fairhope previously denied a citizen the ability to speak at a public meeting three times "many years ago," and the city was required to recant these actions.
+
+      THE PIVOT:
+      The historical pattern of Burrell denying constitutional Free Speech rights (Article 2) provides context for his recent action of denying a citizen Free Speech during a council meeting (Article 1).
+
+      KEY ENTITIES:
+      Jack Burrell (President of the city council)
+      Mayor Kant
+      Scott Boone (Catalyst King)
+      Catalyst
+      Mr. Elliott
+      Robert Jester
+      Cucky Cheez
+      Fairhope
+      The Ripp Report
+    llm_text: Jack Burrell’s recent obstruction of Mayor Kant follows a pattern of suppressing rights in Fairhope. The Council President previously denied a citizen the ability to speak at a public meeting, showing why his actions threaten constitutional Free Speech.
+    widget_date: "2017-08-30"
+    generated_at: "2026-11-08T22:52:16.079294Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-a-drainage-ditch:
+    brief: |-
+      THE CONFLICT: City Council approved the Fly Creek Apartments project in October 2016, leading to a trial regarding the violation of the Fly Creek Watershed, which ignored campaign promises.
+      THE DISCOVERY: The trial (2016/2017) revealed the proposed apartment drainage plan would dump excess stormwater directly into wetlands adjacent to Fly Creek, compounding existing damage from the Publix construction and a past sewer spill.
+      THE PIVOT: The environmental compromise (Fly Creek/wetlands drainage) made by Council members like Jack Burrell (who also denies free speech in the Main Article) establishes a pattern of prioritizing developers over constituent protection, providing context for the political distrust (Catalyst's rejection of Burrell for Mayor in 2020) detailed in Article 1.
+      KEY ENTITIES: Jack Burrell, Kevin Boone, Scott Boone, Adam Milam, Mayor Wilson, Mr. Elliott, Catalyst, Fly Creek Apartments, Publix, Fairhope, Baldwin County, Dec. 27, 2014 (date of Fly Creek image).
+    llm_text: Jack Burrell and City Council approved the Fly Creek Apartments in 2016, allowing stormwater to dump directly into vulnerable wetlands. This environmental compromise proves leaders prioritize developers over constituents, fueling political distrust in Fairhope.
+    widget_date: "2017-08-25"
+    generated_at: "2026-11-08T22:53:11.237096Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

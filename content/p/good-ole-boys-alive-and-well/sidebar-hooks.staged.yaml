@@ -1,0 +1,192 @@
+metadata:
+  generated_at: "2026-11-09T03:42:10.959358Z"
+  generator_version: 1.0.0
+  post_slug: good-ole-boys-alive-and-well
+  main_date: "2017-04-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  cut-nose-off-spite-face:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Wilson was elected and subsequently fired two employees.
+      *   Council President Jack Burrell and Kevin Boone led the council to install a hiring freeze to punish the mayor.
+      *   The City Council agenda on Monday, April 24, 2017, included the Mayor's Veto of an Ordinance Amending Ordinance No. 1572 (Fly Creek PUD Sunset Provision).
+
+      THE DISCOVERY:
+      *   The council previously attempted to undermine the mayor through a hiring freeze and slow budget processes.
+      *   The council voted to override the mayor's veto regarding Ordinance No. 1572 (Fly Creek PUD).
+      *   A resolution (Resolution 2606-16) accepting a sewer lift station deed from Angelo A. Corte was recorded on October 21st, but Council President Burrell introduced it on October 24th, failing to note the prior recording or that the "gift" included three plus acres of wetlands, not just the small lift station land.
+
+      THE PIVOT:
+      *   The older article establishes that Burrell and Boone's actions (hiring freeze, slowing services) were part of a vindictive campaign against Mayor Wilson following the election loss.
+      *   The newer article shows that Burrell's alleged incompetence regarding the Angelo Corte "gift" or the subsequent council actions (overriding the veto, blocking airport appointments) is a continuation of this obstructionist pattern against the mayor.
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Jack Burrell (Council President/Airport authority city liaison)
+      *   Kevin Boone
+      *   Tim Kant (Previous council president)
+      *   Marion Wynne (City Attorney)
+      *   Robert Brown (Self-imposed finance committee member)
+      *   Sherry-Lea Bloodworth-Botop
+      *   Angelo A. Corte
+      *   Fairhope City Council
+      *   Ordinance No. 1572 (Fly Creek PUD)
+      *   Fairhope Airport
+      *   Dates: April 24, 2017; October 21st; October 24th
+    llm_text: Jack Burrell and Kevin Boone launched a vindictive campaign against Mayor Wilson, including a hiring freeze and overriding his veto on Fly Creek PUD. Now, Burrell faces scrutiny for introducing an Angelo A. Corte "gift" that included three acres of wetlands, not just the small sewer lift station land.
+    widget_date: "2017-04-21"
+    generated_at: "2026-11-09T03:34:34.145963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  recuse-yourself:
+    brief: |-
+      THE CONFLICT: Conflicts of interest involving councilman Mr. Boone, related to Fly Creek Apartments, Angelo Corte, and Preble-Rish, dated back prior to his election.
+      THE DISCOVERY: Article 2 revealed Mr. Boone had a trail of LLCs and was directly related to Catalyst, requiring a full-time investigation, which the council had previously ignored.
+      THE PIVOT: Article 2 provides the historical context proving Boone's existing, documented conflicts with Angelo Corte and Preble-Rish, making his denial of conflict during the recent vote on the Corte sewer deed (Resolution 2606-16) in Article 1 questionable.
+      KEY ENTITIES: Angelo Corte, Mr. Boone, Preble-Rish, Catalyst, Tim Kant, Jack Burrell, Marion Wynne, Robert Brown, Sherry-Lea Bloodworth-Botop, Fairhope City Council, Fly Creek PUD, Fairhope Airport.
+    llm_text: Councilman Boone denied conflicts during the Corte sewer deed vote, but new evidence reveals a trail of LLCs linking him to Catalyst and Angelo Corte. Investigate how these pre-election ties at Fly Creek Apartments undermine his current decisions.
+    widget_date: "2017-04-19"
+    generated_at: "2026-11-09T03:36:51.365421Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-town-hall-meeting:
+    brief: |-
+      THE CONFLICT:
+      *   On 2/16/2017, Fairhope's first town hall meeting highlighted issues: Repealing Ordinance 1572 (Fly Creek Apartments) and Airport Authority control.
+      *   The Mayor fought to bring up the repeal, but the council president refused to place it on the city council agenda.
+      *   The Airport Authority land represented 21% of the city debt, and Fairhope spent more on the Airport than schools.
+
+      THE DISCOVERY:
+      *   In early 2017, the City Council was actively obstructing the Mayor's efforts regarding Fly Creek repeal and maintaining control over Airport land.
+      *   School funding was inadequate despite the need for new classroom wings.
+
+      THE PIVOT:
+      *   Article 2 (2/16/2017) established the council's historical opposition to the Mayor on Fly Creek and Airport Authority issues.
+      *   Article 1 shows the council subsequently overriding the Mayor’s veto on an ordinance amending Ordinance 1572 (Fly Creek Pud), confirming the continued, unresolved conflict and the council's decision to favor the developer over citizens.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Mayor
+      *   Ordinance 1572 (Fly Creek Pud)
+      *   Fairhope Airport
+      *   Tim Kant (previous council president)
+      *   Jack Burrell
+      *   Marion Wynne (city attorney)
+      *   Angelo A. Corte
+      *   Robert Brown
+      *   Sherry-Lea Bloodworth-Botop
+      *   Boone
+      *   2/16/2017
+    llm_text: Fairhope City Council obstructed Mayor efforts on Ordinance 1572 (Fly Creek Pud) since 2/16/2017, favoring developers over citizens. This fight over Airport Authority land—representing 21% of city debt—stifles crucial school funding despite classroom needs.
+    widget_date: "2017-02-15"
+    generated_at: "2026-11-09T03:37:59.069189Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  5000-00-cash-reward:
+    brief: |-
+      THE CONFLICT: Formal complaint filed against Councilman Jack Burrell alleging he and family received free airplane transportation from a winning bidder while serving as an elected official.
+      THE DISCOVERY: The Ripp Report/BCLE offered a $5,000 cash reward to anyone who could prove the formal complaint against Jack Burrell was false, fabricated, or based on willful malicious intent.
+      THE PIVOT: Article 2 establishes a historical record of formal allegations of misconduct and conflict of interest against Jack Burrell. Article 1 shows Burrell, in his role as Council President and Airport Authority Board member, engaging in actions (Resolution 2606-16 regarding the wetland "gift") that raise questions of complicity and lack of transparency, reinforcing the pattern of alleged misconduct.
+      KEY ENTITIES: Jack Burrell, The Ripp Report, BCLE, Tim Kant, Marion Wynne (City Attorney), Robert Brown, Angelo A. Corte, Sherry-Lea Bloodworth-Botop, Boone, Fairhope City Council, Fairhope Airport, Resolution 2606-16, Publix site.
+    llm_text: Councilman Jack Burrell faces a formal complaint about receiving free airplane travel from a winning bidder. The Ripp Report offers $5,000 for proof the complaint is false, but Burrell’s history includes alleged misconduct like Resolution 2606-16.
+    widget_date: "2017-02-08"
+    generated_at: "2026-11-09T03:39:04.887930Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest:
+    brief: |-
+      THE CONFLICT:
+      *   Kevin Boone had documented business connections through LLCs with John Avent of Dewberry Preble-Rish, LLC, dating back prior to his council tenure.
+      *   In September 2016 (SD 16.14), Boone attended and voted on the Fly Creek Apartments (Retreat at Fairhope) issue while Avent represented Preble-Rish.
+      *   Discussions existed regarding the repeal of ordinance 1572 related to the Fly Creek PUD.
+
+      THE DISCOVERY:
+      *   Article 2 reveals Boone's conflicts were not isolated incidents but a long-standing pattern spanning four and a half years, which he historically failed to acknowledge or recuse from.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical and systemic nature of Boone's conflict with Preble-Rish/Fly Creek, making his recent recusal in Article 1 (regarding Fly Creek PUD, Angelo Corte, and Preble Rish) a reactive measure to a pre-existing, unaddressed issue.
+
+      KEY ENTITIES:
+      *   Kevin Boone
+      *   John Avent
+      *   Dewberry Preble-Rish, LLC
+      *   Fly Creek Apartments/Retreat at Fairhope
+      *   Ordinance 1572
+      *   Angelo A. Corte
+      *   Preble-Rish
+      *   Tim Kant
+      *   Jack Burrell
+      *   Marion Wynne
+      *   Sherry-Lea Bloodworth-Botop
+      *   Robert Brown
+      *   Boone
+      *   Conyers
+      *   Robinson
+    llm_text: Kevin Boone maintained business LLC connections with John Avent and Dewberry Preble-Rish, LLC for four and a half years. Discover how Boone repeatedly voted on Fly Creek Apartments issues like Ordinance 1572 without recusing, revealing a systemic conflict.
+    widget_date: "2017-01-25"
+    generated_at: "2026-11-09T03:40:28.500759Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bit-dogs-bark-first:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County and Fairhope experienced over 20 years of perceived corruption, insulating connected players.
+      *   Former councilmen Burrell and Boone achieved the Triangle lawsuit settlement ($12 million, behind closed doors) and the sewer plant construction ($11 million).
+      *   Kevin Boone established BA-101, LLC on 4-29-2004.
+      *   North Ridge, LLC was established on 6-2-2008, linking Kevin Boone and John G. Avent.
+      *   John G. Avent is a firm partner at Preble-Rish, Inc.
+
+      THE DISCOVERY:
+      *   Article 2 proves Kevin Boone has a clear conflict of interest due to his documented affiliation with John G. Avent, a partner at Preble-Rish, Inc.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of conflict of interest and corruption ("good ole boys"), providing the necessary background context for Article 1's specific allegations of obstruction (e.g., Boone recusing himself from Fly Creek PUD/Preble-Rish, and the council blocking the mayor's appointments).
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Tim Kant
+      *   Jack Burrell
+      *   Kevin Boone
+      *   Marion Wynne
+      *   Robert Brown
+      *   Sherry-Lea Bloodworth-Botop
+      *   Angelo A. Corte
+      *   Preble-Rish
+      *   John G. Avent
+      *   Hix
+      *   Jay Robinson
+      *   Fairhope Airport Authority
+    llm_text: Kevin Boone secured the $12 million Triangle lawsuit settlement and $11 million sewer plant construction in Baldwin County. His documented affiliation with Preble-Rish partner John G. Avent proves a historical conflict of interest, showing how "good ole boys" shielded corruption for over 20 years.
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-09T03:35:53.120197Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-down-and-i-call:
+    brief: |-
+      THE CONFLICT:
+      *   December 21, 2016: Ethics Complaint filed by the Fairhope Mayor regarding past Fairhope Airport Authority actions and airplane hanger leases.
+      *   Allegation: Fairhope City Council President/Airport Authority member Jack Burrell and related parties manipulated the Ethics Commission (Advisory Opinion 2016-4).
+      *   Context: Burrell, as Council President and Airport Authority liaison, was part of the two-man ad hoc committee selecting bids, alongside the municipal judge for Fairhope.
+
+      THE DISCOVERY:
+      *   Article 2 revealed documented ethical concerns and allegations of criminal activity against Jack Burrell and related officials concerning airport land leases in December 2016.
+      *   These allegations were forwarded to the Alabama Attorney General Special Prosecutor Matt Hart, US Attorney’s Office, and FBI Mobile.
+
+      THE PIVOT:
+      *   Article 2 establishes Jack Burrell’s history of ethical scrutiny within the Fairhope Airport Authority and council structure, providing context for his current actions in Article 1 (e.g., rejecting the Mayor’s airport authority appointments and suggesting 60/90 day delays).
+      *   The past ethical issues inform the current conflict over the Mayor's ability to govern, as seen by the council overriding the mayor's veto and blocking her appointments.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Angelo A. Corte
+      *   Tim Kant
+      *   Marion Wynne (City Attorney)
+      *   Sherry-Lea Bloodworth-Botop
+      *   Fairhope Airport Authority
+      *   Ethics Commission (Alabama)
+      *   Matt Hart (Alabama Attorney General Special Prosecutor)
+      *   Jody W. Bishop
+      *   Boone
+      *   Ordinance no.1572 Fly Creek Pud
+      *   Resolution 2606-16 (October 21/24)
+      *   Fairhope City Council
+      *   Publix site (storm water runoff location)
+    llm_text: Jack Burrell faced ethics complaints over Fairhope Airport Authority leases in 2016, prompting investigation by Matt Hart. See how this history fuels his current power battle, blocking the Mayor's appointments and challenging local governance.
+    widget_date: "2016-12-21"
+    generated_at: "2026-11-09T03:41:55.657202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

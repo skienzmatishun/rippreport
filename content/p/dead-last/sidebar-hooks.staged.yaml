@@ -1,0 +1,148 @@
+metadata:
+  generated_at: "2026-11-08T18:44:10.694577Z"
+  generator_version: 1.0.0
+  post_slug: dead-last
+  main_date: "2018-01-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  new-year-new-problems:
+    brief: |-
+      THE CONFLICT: Failed vote on Entertainment District decriminalization in Fairhope (circa 2018); Councilmen Conyers and Burrell voted FOR; Councilmen Boone and Robinson voted AGAINST (2/2 split).
+      THE DISCOVERY: City Council demonstrated a pattern of internal obstruction, procedural failure (e.g., motion barring failed items for 60 days), and lack of unified leadership despite new mayoral administration.
+      THE PIVOT: The 2018 council failures illustrate a recurring pattern of local governmental inaction and internal conflict, directly correlating with the current failure of the 32 million dollar South Alabama Mega Site investment to secure major manufacturing, resulting in Baldwin County being "dead last."
+      KEY ENTITIES: Conyers, Burrell, Boone, Robinson, Lee Lawson, Baldwin County Commission, Baldwin County Economic Development Alliance, South Alabama Mega Site, Fairhope City Council.
+    llm_text: The 2018 Fairhope vote saw Conyers and Burrell support decriminalization, while Boone and Robinson blocked it, exposing deep council obstruction. This pattern of local failure now sinks Baldwin County, leaving the $32M South Alabama Mega Site investment stalled and the county "dead last."
+    widget_date: "2018-01-12"
+    generated_at: "2026-11-08T18:36:40.696763Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blind-and-deaf:
+    brief: |-
+      THE CONFLICT: $32 million investment in the Baldwin County Mega Site was made in mid-2011; the project has failed to secure a major business, resulting in the county being "DEAD LAST."
+      THE DISCOVERY: Article 2 documented a citizen in Louisiana being handcuffed and arrested for challenging a School Board at a public meeting.
+      THE PIVOT: Article 2 does not provide historical or contextual evidence for the Baldwin County Mega Site's financial failure; the articles discuss separate, unrelated events (Alabama economic development vs. Louisiana public meeting conduct).
+      KEY ENTITIES: Baldwin County, South Alabama Mega Site (3000-Acre), Lee Lawson, County commissioners, Fairhope Airport, Chuckee, Louisiana
+    llm_text: Baldwin County invested $32 million in its Mega Site but failed to secure a major business, leaving the area "DEAD LAST." This local economic failure doesn't relate to the separate story where a Louisiana citizen faced arrest for challenging a school board.
+    widget_date: "2018-01-10"
+    generated_at: "2026-11-08T18:39:01.754317Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County purchased the Mega Site in mid 2011.
+      *   The county is saddled with a 32 million dollar debt.
+      *   Baldwin County Commissioners are up for re-election in Nov 2018 (Mid term elections).
+
+      THE DISCOVERY:
+      *   In 2017, The Ripp Report noted the Mega Site had resulted in "no change" and was a "white elephant."
+      *   In 2017, the County Commissioners' last term saw no positive change regarding the mega site.
+
+      THE PIVOT:
+      *   The 2017 report established the pre-existing, negative reality of the 32 million dollar debt and the lack of success of the Mega Site before the current political promises (in the Main Article) are made.
+      *   The 2017 context proves the current sales pitch (that the Mega Site is the only certified mega site left in Alabama) is misleading, given the established failure and debt.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   32 million dollar investment/debt
+      *   Baldwin County Economic Development Alliance (Lee Lawson)
+      *   County Commissioners
+      *   Fairhope
+      *   2011 (purchase date)
+      *   2017 (Widget Article date)
+      *   Nov 2018 (election date)
+      *   3000-Acre Certified South Alabama MEGA SITE
+    llm_text: Baldwin County took on a $32 million debt buying the 3000-Acre Mega Site in 2011. Our 2017 report already called this "white elephant"—do current promises mislead voters heading to the Nov 2018 election?
+    widget_date: "2018-01-03"
+    generated_at: "2026-11-08T18:40:01.004560Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-special-meeting:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell called a Fairhope Special Meeting on Friday the 29th at 8:00 am.
+      *   The meeting addressed Burrell's refusal to implement a full-time city attorney, costing Fairhope taxpayers.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Jack Burrell's local governance actions were costing Fairhope taxpayers and had a demoralizing effect on city employees.
+
+      THE PIVOT:
+      *   Article 1 uses the previous "DEAD LAST" outcome of the Fairhope Airport sales pitch (driven by the Baldwin County Economic Alliance) to establish a pattern of failed promises by the same county commission/alliance currently promoting the $32 million Baldwin County Mega Site (purchased mid-2011).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Baldwin County Commission
+      *   Baldwin County Economic Development Alliance
+      *   Lee Lawson
+      *   3000-Acre Certified South Alabama Mega Site
+      *   $32 million
+    llm_text: Jack Burrell's refusal to hire a city attorney drains Fairhope taxpayers. This cost mirrors the Baldwin County Commission's failed promises, including the $32 million Mega Site deal.
+    widget_date: "2017-12-28"
+    generated_at: "2026-11-08T18:41:10.515990Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT: Political dispute in Fairhope regarding employee firings and related lawsuits seeking $100,000 from the city of Fairhope; Boone Burrell and the three B’s supported Sherry Sullivan against the Mayor.
+      THE DISCOVERY: Article 2 showed Boone Burrell was obstructing the Mayor and was linked to activities at the Fairhope Airport, which was a point of public concern prior to the Mega Site failure.
+      THE PIVOT: Article 2 establishes a history of political obstruction and dysfunction (e.g., Burrell's actions at Fairhope Airport) within Baldwin County, providing context for the failure of the Baldwin County Mega Site pitch (DEAD LAST) despite a $32 million investment.
+      KEY ENTITIES: Baldwin County, Fairhope, 3000-Acre Mega Site, $32 million, Boone Burrell, Sherry Sullivan, Jay Robinson, Pandora Heathcoat, Lee Lawson, Baldwin County Economic Development Alliance.
+    llm_text: Boone Burrell’s $100,000 lawsuit against the Fairhope Mayor masks deeper issues. His political obstruction, linked to Fairhope Airport, explains why Baldwin County lost the $32 million Mega Site pitch.
+    widget_date: "2017-11-15"
+    generated_at: "2026-11-08T18:42:14.927565Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  its-no-joke:
+    brief: |-
+      THE CONFLICT:
+      *   Mid-2011: Baldwin County purchased the $32 million South Alabama Mega Site.
+      *   The site failed to secure a car manufacturing plant; the county came in second.
+      *   The Baldwin County Economic Alliance previously faced "DEAD LAST" results with the Fairhope Airport project.
+
+      THE DISCOVERY:
+      *   If Roy Moore is elected Alabama’s Senator, Alabama risks losing hundreds of millions/billions in commerce.
+      *   Moore’s personal religious beliefs are predicted to isolate Alabama from international and US companies.
+      *   H Bryant Ayers predicted Moore would compel Alabama to "embarrass Alabama" due to views superior to the Constitution.
+
+      THE PIVOT:
+      *   Article 2 (older) establishes a statewide economic vulnerability linked to political figures (Roy Moore).
+      *   Article 1 (newer) demonstrates local economic stagnation and failed investment (32 million Mega Site) in Baldwin County.
+      *   Both articles address the failure of Alabama to attract major investment, whether through political isolation or local project failure.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   South Alabama Mega Site
+      *   Lee Lawson
+      *   Baldwin County Economic Development Alliance
+      *   Roy Moore
+      *   H Bryant Ayers
+    llm_text: Baldwin County missed the $32 million South Alabama Mega Site, highlighting local investment failure. Roy Moore's predicted religious isolation threatens billions in commerce, proving state politics risk every Alabama job.
+    widget_date: "2017-11-01"
+    generated_at: "2026-11-08T18:37:48.725114Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bonus-money:
+    brief: |-
+      THE CONFLICT:
+      *   Allegations of wrongdoing at Fairhope Airport involving Jack Burrell and Hix were made to the Alabama Ethics Commission.
+      *   Fairhope City Council used taxpayer money to settle the Sherry Sullivan claim for fired employees, a move led by Jack Burrell.
+      *   The Baldwin County Mega Site was purchased in mid-2011 for a $32 million investment.
+      *   The Baldwin County Economic Alliance made the same sales pitch for Fairhope Airport that was used for the Mega Site.
+
+      THE DISCOVERY:
+      *   On Oct. 19, Hix and Snedeker shared letters of exoneration.
+      *   The Alabama Ethics Commission concluded there was not probable cause to believe that Jack Burrell or Hix committed a violation of the Alabama Ethics Act.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of political maneuvering and alleged ethical issues involving Jack Burrell and local officials in Fairhope.
+      *   This history provides context for the current failure of the Baldwin County Mega Site (Article 1), where the $32 million investment has not paid off and the county is "dead last" among certified mega sites.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Karin Wilson (Fairhope Mayor)
+      *   Hix
+      *   Snedeker
+      *   Lee Lawson (Baldwin County Economic Development Alliance)
+      *   Baldwin County Commission
+      *   Sherry Sullivan
+      *   The Ripp Report
+      *   Fairhope Airport
+      *   Baldwin County Mega Site ($32 million)
+    llm_text: Ethics Commission cleared Jack Burrell and Hix, but local maneuvering patterns persist in Fairhope. This history provides crucial context for the failed $32 million Baldwin County Mega Site, which is now dead last.
+    widget_date: "2017-10-25"
+    generated_at: "2026-11-08T18:43:45.479151Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,85 @@
+metadata:
+  generated_at: "2026-11-09T14:19:17.225071Z"
+  generator_version: 1.0.0
+  post_slug: bp-restore-act-fraud
+  main_date: "2013-11-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  triangle-lawsuit-settlement-2013:
+    brief: |-
+      THE CONFLICT:
+      *   Triangle Lawsuit against the City of Fairhope resulted in a settlement/purchase of the Triangle property.
+      *   The settlement involved Mayor Timothy Kant and was linked to environmental damage caused by Arthur Corte's Publix development in Fly Creek (red clay, damaged watershed).
+      *   Mayor Kant was summoned to a federal grand jury in Mobile regarding allegations of grant fraud in the BP boom scandal.
+      *   Authorization for the settlement was added to a Council agenda in April 2013, and the settlement was announced in October 2013, without public notice or input.
+
+      THE DISCOVERY:
+      *   The cumulative effective purchase price of the Triangle property for the community was at least $11 million (including over $2M in attorney fees), not just $8.7 million.
+      *   The total amount requested from BP by the City of Fairhope across projects (including Fly Creek and TTI Swamp) was $500 million.
+      *   Mayor Kant demonstrated a "masterful pattern of deceit" and lack of accountability concerning the Publix Project and the resulting lawsuit.
+
+      THE PIVOT:
+      *   Article 2 established the scale of the corruption and the Mayor's history of deceit (grand jury summons, high costs, $500M ask) tied directly to Arthur Corte/Publix and the Triangle Lawsuit.
+      *   Article 1 details the mechanism of the fraud by showing the City deliberately omitted that the majority of the watershed is privately owned by the Corte family and that Arthur Corte's development caused the damage, thereby invalidating the BP Restore Act application (Fly Creek Watershed Restoration Project).
+
+      KEY ENTITIES:
+      *   City of Fairhope
+      *   Mayor Tim Kant
+      *   Arthur Corte / Corte family
+      *   BP Restore Act
+      *   Triangle Lawsuit
+      *   Thompson Engineering
+      *   Hand-Arendall
+      *   American Municipal Insurance Corporation
+      *   Senator Shelby
+      *   Senator Jeff Sessions
+      *   Congressman Bradley Byrne
+    llm_text: Mayor Tim Kant managed the $11M Triangle settlement linked to Arthur Corte's Publix development and Fly Creek environmental damage. Did Kant hide the truth about private land ownership and grant fraud?
+    widget_date: "2013-10-28"
+    generated_at: "2026-11-09T14:17:55.880132Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mikey-is-gone:
+    brief: |-
+      THE CONFLICT:
+      *   Lawsuit settlement against the City of Fairhope resulted in the Fly Creek Watershed Restoration Project.
+      *   Authorization for the Mayor to proceed with settlement was added to a Council agenda in April 2013 without public notice.
+      *   Second meeting regarding settlement occurred in October 2013 without public input.
+      *   The settlement cost the city $3 million in attorney fees, $3 million in down payment, and incurred a $5.75 million debt.
+      *   The City of Fairhope is applying for BP Restore Act funds for this project and a threatened Titi Swamp lawsuit.
+
+      THE DISCOVERY:
+      *   Article 2, an older report, highlighted the Mobile Tar Sands Debacle and generalized BP Corruption as a major state issue.
+      *   Article 2 noted that Attorney General Luther Strange was facing public scrutiny regarding an alleged extra-marital affair.
+      *   Article 2 confirmed that Matt Hart (Alabama Attorney General Office's special prosecutor for White Collar Crime and Political Corruption) was investigating Mayor Tim Kant and Trip Pittman.
+
+      THE PIVOT:
+      *   Article 2 establishes a broader, pre-existing climate of high-level state political corruption and investigation in Alabama.
+      *   This context provides the backdrop for the specific fraud allegations (omission of private ownership by Corte family, misuse of public funds, violation of open meeting rules) detailed in the Fairhope BP Restore Act application.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   City Council (Fairhope)
+      *   Arthur Corte
+      *   Thompson Engineering
+      *   BP Restore Act
+      *   Tim Kant (Mayor)
+      *   Trip Pittman (Senator)
+      *   Senator Shelby
+      *   Senator Jeff Sessions
+      *   Congressman Bradley Byrne
+      *   Mike Odom
+      *   Fairhope Courier
+      *   Robert Bentley (Governor)
+      *   Chad Fincher
+      *   Luther Strange (Attorney General)
+      *   Mike Hubbard (Alabama Speaker of the House)
+      *   Matt Hart (Special Prosecutor)
+      *   Hand-Arendall
+      *   American Municipal Insurance Corporation
+      *   Fly Creek Watershed Restoration Project
+      *   Publix supermarket
+      *   Perdido Pass (July 2010)
+    llm_text: Fairhope incurred a $5.75 million debt on the Fly Creek Watershed Project without public notice. Special Prosecutor Matt Hart is already investigating Mayor Tim Kant and Senator Trip Pittman amid a state-wide climate of political corruption.
+    widget_date: "2013-09-13"
+    generated_at: "2026-11-09T14:18:58.386127Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

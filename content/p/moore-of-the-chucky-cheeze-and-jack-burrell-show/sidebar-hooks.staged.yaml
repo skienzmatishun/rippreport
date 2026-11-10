@@ -1,0 +1,49 @@
+metadata:
+  generated_at: "2026-11-08T19:34:16.469569Z"
+  generator_version: 1.0.0
+  post_slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  main_date: "2017-12-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fauxhope-party-before-country-or-city:
+    brief: |-
+      THE CONFLICT:
+      *   Roy Moore was voted for by the City of Fairhope and Baldwin County despite the State of Alabama electorate denying him the oath of office.
+      *   Tim Kant ran Fairhope as a "dynasty" characterized by lack of accountability, no transparency, and suspected rigging in local elections.
+
+      THE DISCOVERY:
+      *   Fairhope was historically viewed as "Fauxhope" due to local corruption.
+      *   In the election, 62% of Fairhope voters supported Roy Moore (30% turnout); 37% supported Doug Jones.
+      *   Tim Kant used small local papers; Jack Burrell is identified as the "new Kant."
+      *   Karin Wilson (Mayor of Fairhope) achieved more in one year than any previous council.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical political environment (Kant's corruption and the "Moore Factor") where voters prioritize party over facts.
+      *   Article 1 shows Jack Burrell and Chuckee are currently using this historical pattern of ignoring facts to smear the Mayor, who opposed Burrell and Kant's previous plans.
+      *   Article 1 details allegations against Sen Tripp Pittman, including the theft of $750,000 from BP, and the fact that he received a pass from the Alabama Ethics Commission while serving on it.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Jack Burrell
+      *   Tim Kant
+      *   Sen Tripp Pittman
+      *   Karin Wilson (Mayor of Fairhope)
+      *   Doug Jones
+      *   Fairhope / Fauxhope
+      *   BP
+      *   The Ripp Report
+      *   Alabama Ethics Commission
+    llm_text: Fairhope's history as "Fauxhope" under Tim Kant's corruption set the stage for today's political chaos. Now, Jack Burrell and Sen Tripp Pittman ignore facts, smearing Mayor Karin Wilson while Pittman faces $750k theft allegations.
+    widget_date: "2017-12-22"
+    generated_at: "2026-11-08T19:32:53.958297Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  do-your-job-pass-the-budget:
+    brief: |-
+      THE CONFLICT: Jack Burrell and Sen Tripp Pittman are involved in a plan to smear the Mayor of Fairhope, which failed when the Mayor contradicted their narrative. Pittman is accused of stealing $750,000 from the BP scandal.
+      THE DISCOVERY: In late 2017 (Dec. 6th and Dec. 18th), City Council President Burrell obstructed the Fairhope City budget for three months, prioritizing the protection of the Fairhope Airport over city interests.
+      THE PIVOT: Article 2 establishes Burrell's pattern of leveraging the Alabama Non-Ethics Commission to evade scrutiny and protect cronies (Fairhope Airport), providing context for why he and Pittman allegedly "got a pass" from the same commission mentioned in Article 1 regarding the BP scandal.
+      KEY ENTITIES: Jack Burrell, Sen Tripp Pittman, Kant, Chuckee, Mayor of Fairhope, Fairhope City Council, Alabama Non-Ethics Commission, BP scandal, Fairhope Airport.
+    llm_text: Jack Burrell and Sen Tripp Pittman tried to smear the Mayor of Fairhope, but their corruption pattern is clearer now. Pittman stole $750,000 from the BP scandal, while Burrell obstructed the budget to protect Fairhope Airport interests.
+    widget_date: "2017-12-18"
+    generated_at: "2026-11-08T19:33:56.173782Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

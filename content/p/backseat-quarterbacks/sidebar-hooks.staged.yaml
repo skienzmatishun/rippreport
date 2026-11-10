@@ -1,0 +1,113 @@
+metadata:
+  generated_at: "2026-11-08T16:45:30.951162Z"
+  generator_version: 1.0.0
+  post_slug: backseat-quarterbacks
+  main_date: "2018-03-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  wrong-ball:
+    brief: |-
+      THE CONFLICT: Frank Burt held the County Commissioner position since 1988. Catalyst recruited Jeb Ball to challenge Burt in the County Commissioner's race (District one).
+      THE DISCOVERY: Baldwin County Substance Abuse Services (BCSA), founded by judges/lawyers including Judge Michelle Hart (Thomason), operates as a "money scheme" allowing people to pay out of convictions and collects fees/urine tests in CASH.
+      THE PIVOT: Article 2 establishes a historical pattern of political figures (commissioners/judges) utilizing public office for financial gain and conflicts of interest (BCSA fees, Catalyst influence), providing context for the serious issues (three councilmen using office for financial gain) mentioned in Article 1 regarding Fairhope's City Council.
+      KEY ENTITIES: Mayor Wilson, Frank Burt, Jeb Ball, Catalyst, Judge Michelle Hart (Thomason), Baldwin County Substance Abuse Services (BCSA), Fairhope, City Council (Boone, Burrell), Restore Act.
+    llm_text: Frank Burt held the County Commissioner post since 1988, but Judge Michelle Hart's BCSA operates a cash "money scheme" using public influence. See how political figures exploit office for financial gain, connecting to recent conflicts in Fairhope's City Council.
+    widget_date: "2018-03-09"
+    generated_at: "2026-11-08T16:38:16.309348Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-the-three-bs-and-chuckee-cheeze:
+    brief: |-
+      THE CONFLICT:
+      *   Catalyst, led by Scott Boone (son of Kevin Boone), was an old guard political group in Baldwin County utilizing intimidation to place candidates in races (probate judge, State Senate, Baldwin County commission races).
+      *   Jack Burrell was involved in the Airport scandal and an Ethics complaint, represented by the Airport Board.
+      *   Catalyst candidates were financed by Prebble-Rish, a partner of Kevin Boone.
+
+      THE DISCOVERY:
+      *   Article 2 established that Kevin Boone was a key conduit for Catalyst influence and that Jack Burrell had a history of ethical issues and political maneuvering.
+
+      THE PIVOT:
+      *   Article 1 shows current obstruction and corruption within Fairhope City Council (involving Boone and Burrell) against Mayor Wilson. Article 2 provides historical context that Boone and Burrell are tied to the systemic, financially backed, and politically aggressive Catalyst network, suggesting current council behavior is rooted in long-standing political interests rather than isolated disputes.
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Kevin Boone (Councilman)
+      *   Jack Burrell
+      *   Catalyst
+      *   Scott Boone
+      *   Prebble-Rish
+      *   Fairhope
+      *   $17.8 million (Restore Act funds)
+    llm_text: Kevin Boone and Jack Burrell run the Catalyst network, tied to Kevin Boone and Prebble-Rish, using intimidation across Baldwin County. See how this old guard's systemic corruption fuels their current obstruction of Mayor Wilson in Fairhope City Council.
+    widget_date: "2018-03-07"
+    generated_at: "2026-11-08T16:40:36.362583Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  in-your-face:
+    brief: |-
+      THE CONFLICT: Robert Brown, a Fairhope City Councilman, secured a contract with Eastern Shore Art Center despite receiving a clear warning from the State of Alabama Ethics Commission regarding the misuse of his office for personal benefit (Feb. 26 2018).
+
+      THE DISCOVERY: The older article (2018) proved that Fairhope City Council members routinely disregarded public doctrine and Ethics Commission warnings, using the commission as a vehicle to justify conflicts of interest.
+
+      THE PIVOT: Article 2 establishes a history of council corruption and lack of accountability, providing context for the current accusations in Article 1 that the City Council is in "obstruction mode" and has used its elected office for financial or personal gain.
+
+      KEY ENTITIES: Mayor Wilson, Councilman Burrell, Councilman Boone, Robert Brown, Jack Burrell, State of Alabama Ethics Commission, Eastern Shore Art Center, $17.8 million (Restore Act funds)
+    llm_text: Robert Brown secured an Eastern Shore Art Center contract despite a clear State of Alabama Ethics Commission warning about misusing his office. Fairhope City Council members routinely disregarded public doctrine, confirming the council's history of corruption and obstruction mode.
+    widget_date: "2018-02-28"
+    generated_at: "2026-11-08T16:41:50.671496Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  big-heads:
+    brief: |-
+      THE CONFLICT: 100,000+ gallon sewer spill occurred in Fairhope on February 12, 2018, near Valley Street Lift Station (Middle Street and Dogwood Ave), discharging into Big Head Gully and Tatumville Gully. The City Council considered an ordinance on January 22, 2018, to transfer land to Fairhope Single Tax Corporation for the Tatumville Subdivision. Conflicts of interest were alleged involving councilmen Kevin Boone, Robert Brown/Cliff Pittman, Jay Robinson/Michel Upchurch, and Lee Turner.
+      THE DISCOVERY: The City Council was actively involved in land transfers and associated financial/conflict of interest issues while a major sewer spill was ongoing.
+      THE PIVOT: Article 2 demonstrates the Council's historical failure to address critical sewer infrastructure needs in 2018, providing context for Article 1's claim that councilmen Boone and Burrell ignored sewer infrastructure issues for four years, leading to the later need for Mayor Wilson's $17.8 million Restore Act funding for sewer infrastructure.
+      KEY ENTITIES: Mayor Wilson, Kevin Boone, Jack Burrell, Robert Brown, Cliff Pittman, Jay Robinson, Michel Upchurch, Lee Turner, Fairhope Single Tax Corporation, Big Head Gully, Tatumville Subdivision, $17.8 million.
+    llm_text: A 100,000+ gallon sewer spill hit Fairhope in February 2018, yet councilmen like Kevin Boone pursued land transfers for the Tatumville Subdivision. Discover how this conflict of interest fueled years of ignored infrastructure, requiring Mayor Wilson's $17.8 million Restore Act funding.
+    widget_date: "2018-02-14"
+    generated_at: "2026-11-08T16:43:02.610085Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  newsletter-the-ripp-report:
+    brief: |-
+      THE CONFLICT:
+      BP Pittman, holding the District 32 State Senate seat, was identified by The Ripp Report as a poster child for corruption, having skimmed $750,000 from BP.
+
+      THE DISCOVERY:
+      The Ripp Report is a non-profit consumer group dedicated to exposing political corruption across Baldwin County, which contains 14 municipalities.
+
+      THE PIVOT:
+      Article 2 established the regional historical context of political corruption within Baldwin County, providing a background framework for the current scrutiny of local corruption, specifically the allegations against three councilmen in Fairhope who used their office for financial gain and the obstruction faced by Mayor Wilson.
+
+      KEY ENTITIES:
+      Mayor Wilson
+      Fairhope
+      City Council
+      Boone
+      Burrell
+      BP Pittman
+      The Ripp Report
+      Baldwin County
+      $750,000
+      $17.8 million
+      14 municipalities
+    llm_text: BP Pittman skimmed $750,000 from BP, making him a poster child for corruption. The Ripp Report tracks this local rot across Baldwin County, protecting readers from political dishonesty in Fairhope and beyond.
+    widget_date: "2018-02-07"
+    generated_at: "2026-11-08T16:44:11.778911Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  grinder-pumps:
+    brief: |-
+      THE CONFLICT: Prior to Mayor Karin Wilson's election in 2016 (defeating Tim Kant), previous administrations allowed "loose interpretations" of sewer standards, enabling developers to use grinder pumps instead of required gravity sewer systems, a practice sometimes facilitated by the former Mayor/Utilities Superintendent (Kant) who allegedly collected funds from developers.
+      THE DISCOVERY: In the past, developers sought waivers (e.g., Van Antwerp Park, Phase 5 Battles Trace, Jan. 4) to install grinder pumps ($3,500 apiece) due to perceived high costs (gravity systems costing 500 percent more), bypassing strict city standards requiring gravity systems.
+      THE PIVOT: Mayor Wilson has hired staff educated in municipal sewer systems and grinder pumps to eliminate the historical "good ole boy deals" and enforce standards, contrasting this effort with current City Council members (Boone and Burrell) who ignored sewer infrastructure issues for four years, despite the Mayor securing $17.8 million in Restore Act funds for Fairhope.
+      KEY ENTITIES: Karin Wilson, Tim Kant, Richard Peterson, Boone, Burrell, Van Antwerp Park, Battles Trace, Larry Smith, Fairhope City Council, Restore Act.
+    llm_text: Karin Wilson is tackling Tim Kant's era, where developers used cheap grinder pumps instead of required gravity sewers through "good ole boy deals." Don't ignore how Council members Boone and Burrell neglected infrastructure despite Wilson securing $17.8 million in Restore Act funds.
+    widget_date: "2018-02-02"
+    generated_at: "2026-11-08T16:39:25.572189Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pot-and-the-kettle-are-black:
+    brief: |-
+      THE CONFLICT: Frank Burt held District 1 in Baldwin County since 1989 (28 years); the infamous mega site in District 1 cost $35 million.
+      THE DISCOVERY: The City Council in Fairhope (Mayor Wilson’s jurisdiction) has a history of obstruction, and councilmen Boone and Burrell ignored sewer infrastructure issues for four years, leading to a $10 million investment growing to over $13 million.
+      THE PIVOT: Article 2 establishes a historical pattern of entrenched political power (8-time incumbent Burt) and large-scale financial mismanagement ($35M mega site) within Baldwin County, providing context that the current council obstruction and misuse of $17.8 million Restore Act funds (Article 1) are symptomatic of systemic local cronyism, not isolated incidents.
+      KEY ENTITIES: Frank Burt, Jeb Ball, Mayor Wilson, Boone, Burrell, Judge Michell Thomason, Catalyst, Fairhope, Baldwin County, $35 million, $17.8 million.
+    llm_text: Frank Burt held District 1 for 28 years, overseeing a $35 million mega site. This entrenched power mirrors how Fairhope councilmen Boone and Burrell ignored sewer issues and misused $17.8 million Restore Act funds.
+    widget_date: "2018-01-24"
+    generated_at: "2026-11-08T16:45:13.113414Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

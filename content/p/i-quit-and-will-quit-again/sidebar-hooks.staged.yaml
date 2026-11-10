@@ -1,0 +1,111 @@
+metadata:
+  generated_at: "2026-11-08T16:30:39.964485Z"
+  generator_version: 1.0.0
+  post_slug: i-quit-and-will-quit-again
+  main_date: "2018-03-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  catalyst-candidates:
+    brief: |-
+      THE CONFLICT: Political contest in Baldwin County centered around the influence of "Catalyst Candidates," leading up to the June 9, 2018, primary.
+      THE DISCOVERY: The Ripp Report altered the official Baldwin County Probate Office list to include the reference to "Catalyst Candidates" and "Michelle Thomason, The Catalyst Queen."
+      THE PIVOT: Article 2 established the "Catalyst" designation as a political concern regarding county control; Article 1 uses this established label to frame Joe Davis's resignation and John Lake's appeal (Lake is explicitly labeled non-Catalyst).
+      KEY ENTITIES: John Lake, Joe Davis, Amber Smith, Daphne City Council, Catalyst Candidates, Baldwin County Probate Office, Michelle Thomason.
+    llm_text: Michelle Thomason, "The Catalyst Queen," shaped Baldwin County politics through the Catalyst Candidates. See how the label impacts John Lake's appeal and Joe Davis's resignation amid the June 9, 2018, primary.
+    widget_date: "2018-03-16"
+    generated_at: "2026-11-08T16:22:07.533706Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backseat-quarterbacks:
+    brief: |-
+      THE CONFLICT: City Council obstruction of Mayor Wilson; allegations of three councilmen using elected office for financial or personal gain in Fairhope.
+      THE DISCOVERY: Mayor Wilson secured $17.8 million in Restore Act funds for four Fairhope projects, including $10 million for sewer infrastructure, despite council resistance.
+      THE PIVOT: Article 2 establishes the history of council obstruction and corruption in Daphne/Fairhope, providing the context for political failures (e.g., Joe Davis quitting) and the need for ethical representation (John Lake's 24-year, zero-complaint record) discussed in Article 1.
+      KEY ENTITIES: Mayor Wilson, John Lake (24 years on Daphne City Council), Joe Davis, Amber Smith, Boone, Burrell, The Ripp Report (founded 2006/formalized 2015), Fairhope.
+    llm_text: Mayor Wilson secured $17.8 million in Restore Act funds for Fairhope projects, defying council obstruction and corruption allegations. Discover the history of political failure, from Joe Davis to John Lake's 24-year clean record, to understand this fight.
+    widget_date: "2018-03-14"
+    generated_at: "2026-11-08T16:24:21.597364Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrong-ball:
+    brief: |-
+      THE CONFLICT: Frank Burt held the County Commissioner position in District one since 1988 (29 years). Baldwin County Substance Abuse Services (BCSA) was founded by judges and lawyers, including Judge Michelle Hart (Thomason). BCSA collected fees and urine tests in CASH, raising concerns about a "money scheme."
+      THE DISCOVERY: Jeb Ball was recruited by Catalyst for the County Commissioner race and was also slated to potentially hold the position of Director of BCSA, creating a major conflict of interest.
+      THE PIVOT: Article 2 establishes Catalyst's historical involvement in financial conflicts (BCSA/Jeb Ball), providing context for the political pressures and alleged criminal issues that led to Joe Davis (a Catalyst candidate) quitting/walking out of the Daphne City Council.
+      KEY ENTITIES: Joe Davis, John Lake, Amber Smith, Jeb Ball, Frank Burt, Judge Michelle Hart (Thomason), Catalyst, Daphne City Council, Baldwin County Substance Abuse Services (BCSA).
+    llm_text: Frank Burt held the County Commissioner seat for 29 years, but BCSA's cash collection raised money scheme concerns. Jeb Ball's dual role with Catalyst and BCSA Director creates a major conflict affecting Daphne City Council politics.
+    widget_date: "2018-03-09"
+    generated_at: "2026-11-08T16:25:41.219474Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mid-term-elections-vote-incumbents-out:
+    brief: |-
+      THE CONFLICT: Tucker Dorsey helped Baldwin County marry to a mega-site costing $35 million, not counting lost revenue, linking him to Clarence Burke and "the good ole boys" old ways of doing business.
+      THE DISCOVERY: Article 2 revealed that voting for Tucker Dorsey was perceived as supporting the old guard, fueling anti-establishment sentiment and the "Catalyst" political mold within Baldwin County.
+      THE PIVOT: Article 2 establishes the historical context of corruption and the "Catalyst" political identity in the region, directly framing the conflict in Article 1 where Catalyst Candidate Joe Davis quit the Daphne City Council due to inability to convince the council, contrasting him with non-Catalyst incumbent John Lake.
+      KEY ENTITIES: John Lake, Joe Davis, Amber Smith, Tucker Dorsey, Clarence Burke, Daphne City Council, Baldwin County Commission, The Ripp Report
+    llm_text: Tucker Dorsey helped Baldwin County marry a $35 million mega-site, linking him to Clarence Burke and the old guard. This corruption fuels the "Catalyst" anti-establishment push, challenging incumbents like John Lake and Joe Davis.
+    widget_date: "2018-02-21"
+    generated_at: "2026-11-08T16:26:52.351141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT:
+      *   Mid Term Elections were upcoming in Baldwin County.
+      *   The election agenda included Baldwin County Commissioners, Sheriff, Judge of Probate, Coroner, and State Senate seat 32.
+      *   Former Mayor Kant and Sen Pittman were previously involved in "back room deals" in Bay Minette/Fairhope.
+      *   Judge Michelle Thomason ran for Court of Civil Appeals and had a negative reputation as a Circuit Judge in Family Court.
+      *   The Ripp Report began in 2006 due to corruption in Fairhope, formally organizing in 2015.
+
+      THE DISCOVERY:
+      *   The older article established that Baldwin County was previously controlled by a "good ole boys" network and that corruption was systemic (e.g., Ethics Commission aiding corruption).
+      *   It predicted an opportunity for voters to change the political makeup by voting out entrenched officials.
+
+      THE PIVOT:
+      *   The older article sets the historical context of entrenched corruption (Kant, Pittman, Ethics Commission) that the current election (Main Article) is reacting against.
+      *   The current conflict (Joe Davis vs. John Lake) is a direct result of the ongoing effort to remove "corrupt public officials, and their cronies" from power, as stated by The Ripp Report.
+      *   The older context explains why candidates like Joe Davis are framed as anti-establishment "CATALYST CANDIDATES" against long-serving officials like John Lake.
+
+      KEY ENTITIES:
+      *   The Ripp Report
+      *   Fairhope
+      *   Baldwin County
+      *   Joe Davis
+      *   John Lake
+      *   Amber Smith
+      *   Karen Wilson
+      *   Kant
+      *   Sen Pittman
+      *   Michelle Thomason
+      *   Daphne City Council
+    llm_text: Baldwin County once operated under a corrupt "good ole boys" network involving Kant and Sen Pittman. Joe Davis challenges long-time official John Lake, continuing The Ripp Report's fight to remove entrenched corruption from local power.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-08T16:27:42.763201Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  say-goodbye-incumbents:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission was dominated by incumbents (Frank Burt, Trip Pittman, Tucker Dorsey, Charles Gruber) associated with issues like a $35 million mega site and ties to Catalyst, requiring change.
+      THE DISCOVERY: Article 2 identified John Lake as a long-history, non-corrupt public servant (24 years on Daphne City Council) and positioned him as a strong candidate to replace incumbents, particularly in Seat 2.
+      THE PIVOT: Article 2 established John Lake's proven record of public service and lack of corruption, providing the historical credibility that Article 1 uses to counter the "CATALYST" label and support his decision not to be a catalyst candidate.
+      KEY ENTITIES: John Lake, Joe Davis, Amber Smith, Chris Elliott, Trip Pittman, Tucker Dorsey, Billy Joe Underwood, Frank Burt, Jeb Ball, Charles Gruber, Christopher Callaghan, Daphne City Council, Baldwin County Commission
+    llm_text: Baldwin County Commission incumbents like Trip Pittman and Frank Burt dominate with the $35 million mega site issue. Learn how 24-year Daphne City Council veteran John Lake offers proven, non-corrupt public service to bring real change to Seat 2.
+    widget_date: "2017-11-03"
+    generated_at: "2026-11-08T16:23:00.597427Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  poison-water-alabama-senate-special-election:
+    brief: |-
+      THE CONFLICT: Alabama Senate Special Election, Dec 12, 2017, replaced Jeff Sessions (who became US Attorney General).
+      THE DISCOVERY: Article 2 identified political figures like Luther Strange, Roy Moore, and Tripp Pittman as having serious ethical or performance issues (e.g., Pittman's $750,000 BP funds grab; Strange selling out to Bentley).
+      THE PIVOT: Article 2 establishes the historical context of high-level political corruption in Alabama, providing background for the ongoing need for watchdog organizations (The Ripp Report, founded 2006) to expose local corruption, as demonstrated by the Daphne City Council situation in Article 1.
+      KEY ENTITIES: Jeff Sessions, Luther Strange, Roy Moore, Tripp Pittman, Joe Davis, John Lake, Amber Smith, The Ripp Report, Daphne City Council, Baldwin County Commission.
+    llm_text: Luther Strange, Roy Moore, and Tripp Pittman showed high-level corruption during the 2017 Alabama Senate election that replaced Jeff Sessions. See how The Ripp Report continues exposing local issues, from the Daphne City Council to Baldwin County.
+    widget_date: "2017-06-07"
+    generated_at: "2026-11-08T16:28:59.333822Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-associates-exposed:
+    brief: |-
+      THE CONFLICT: Kevin Boone, a Fairhope councilman, engaged in questionable conduct, including accepting a $12.2 million settlement for the Triangle Lawsuit; in 2012, Kevin Boone, Chris Elliott, and Dane Haygood formed political consultants; in 2014, Scott Boone and Lynn Stacey formed Catalyst Associates, LLC.
+      THE DISCOVERY: Catalyst Associates, LLC was established on August 11, 2014, and received payment from Judge Michelle Thomason for consulting and polling just three days later on August 14, 2014, linking the entity to legal and political influence.
+      THE PIVOT: Article 2 proves that "CATALYST" is not merely a political label but an entity rooted in historical conflicts of interest involving Kevin Boone and local political power structures (including Mayor Tim Kant), providing context for the current criticism of Catalyst Candidate Joe Davis.
+      KEY ENTITIES: Joe Davis, John Lake, Amber Smith, Catalyst Associates, LLC, Kevin Boone, Chris Elliott, Dane Haygood, Judge Michelle Thomason, Daphne City Council, Tim Kant
+    llm_text: Kevin Boone's history—including a $12.2M Triangle Lawsuit settlement—ties directly to Catalyst Associates, LLC. See how this firm quickly earned Judge Michelle Thomason's payment, coloring current Candidate Joe Davis's political influence.
+    widget_date: "2014-10-03"
+    generated_at: "2026-11-08T16:30:10.269352Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,99 @@
+metadata:
+  generated_at: "2026-11-09T08:25:54.082714Z"
+  generator_version: 1.0.0
+  post_slug: people-power
+  main_date: "2016-11-16"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  dont-throw-rocks-if-you-live-in-a-glass-house:
+    brief: |-
+      THE CONFLICT: The previous administration in Fairhope, lasting 16 years, was defined by power struggles, stagnation, and "good ole boy deals," led by Mayor Kant and Council President Jack Burrell.
+      THE DISCOVERY: Following Mayor Karin Wilson’s swearing-in ceremony (referenced near November 14th in Article 2), the newly elected council (Conyers, Brown, Robinson) did not cooperate with Wilson regarding the AMEA nomination, allowing Council President Burrell to self-appoint 4-0.
+      THE PIVOT: Article 2 reveals that despite the election for change, the new council immediately engaged in a power struggle, validating the historical mistrust and demonstrating that the promise of cooperation (as presented in Article 1) was immediately tested and compromised by the old guard (Burrell/Kant surrogates).
+      KEY ENTITIES: Karin Wilson (Mayor), Mayor Kant, Jack Burrell (Council President), Jimmy Conyers (Council), Robert Brown (Council), Jay Robinson (Council), Kevin G. Boone (Council), Fairhope, AMEA, November 14th
+    llm_text: Karin Wilson promised Fairhope change, but the old guard immediately fought back. Council President Jack Burrell self-appointed 4-0, proving the promise of cooperation failed despite the November 14th election.
+    widget_date: "2016-11-11"
+    generated_at: "2026-11-09T08:18:35.374053Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exit-and-enter:
+    brief: |-
+      THE CONFLICT: Past 16 years in Fairhope were characterized by power struggles (weak vs. strong Mayor/Council), stagnation, and "good ole boy deals." (Names: Mayor Kant, Jim Nix).
+      THE DISCOVERY: Article 2 revealed Mayor Kant, handpicked by Jim Nix, controlled City Council and Planning and Zoning, oversaw financial issues (triangle lawsuit, $20 million soccer fields, $3 million legal settlement for parkland), and obstructed the transition to new leadership.
+      THE PIVOT: Article 2 provides the historical context (16 years of corruption and financial mismanagement) that frames the cooperation and promise seen in the new council meeting described in Article 1 as a genuine break from a deeply flawed past.
+      KEY ENTITIES: Karin Wilson, Mayor Kant, Jim Nix, Senator Tripp Pittman, Angelo Corte, Fairhope, Planning and Zoning Board, Ripp Report
+    llm_text: For 16 years, Mayor Kant and Jim Nix controlled Fairhope, driving stagnation and financial chaos like the $20M soccer field project. Read how their grip on City Council and Planning and Zoning blocked progress—and whether the new council truly breaks from this deeply flawed past.
+    widget_date: "2016-11-04"
+    generated_at: "2026-11-09T08:20:47.609231Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  going-down-with-the-ship:
+    brief: |-
+      THE CONFLICT:
+      1. For 16 years, Fairhope experienced stagnation and "good ole boy deals" due to power struggles between the Mayor and Council.
+      2. The city lost a Supreme Court case involving Planning and Zoning, costing taxpayers hundreds of thousands of dollars, facilitated by a former Mayor.
+      3. The Gulf Quest Maritime museum (42 million dollars, 28 million taxpayer funded) has not paid a single utility bill since opening, accumulating over $400,000 past due.
+
+      THE DISCOVERY:
+      1. Board member Angus Cooper, a major supporter of former Mayor Kant, facilitated a free $35,000 football practice session for Fairhope facilities.
+      2. Councilwoman Diana Brewer, previously involved with Fly Creek Apartments, was hired as the marketing/PR director for the Gulf Quest Maritime museum.
+      3. Angus Cooper donated $2500 to Diana Brewer's re-election bid, and his secretary donated $1500.
+      4. Fly Creek Apartments, pushed by Angelo Corte (a Tim Kant fan), faced 98% opposition from over 250 attendees at meetings.
+
+      THE PIVOT:
+      1. Article 1 claims the previous 16 years were defined by power struggles and stagnation.
+      2. Article 2 provides concrete evidence (Gulf Quest mismanagement, $35k free practice, legal losses, political donations to Brewer) demonstrating the specific "stagnation and good ole boy deals" referenced in Article 1.
+
+      KEY ENTITIES:
+      1. Fairhope Council
+      2. Angelo Corte
+      3. Diana Brewer
+      4. Jennifer Fiddler
+      5. Gulf Quest Maritime museum
+      6. Angus Cooper
+      7. Ex-Mayor Kant (Tim Kant)
+      8. Fly Creek Apartments
+      9. Hand Arendall (Attorneys)
+      10. 16 years (duration of previous power struggles)
+    llm_text: Did Fairhope's 16 years of stagnation involve corruption? Angus Cooper gave Gulf Quest a free $35k practice while donating $2500 to Diana Brewer, linking old power struggles to new deals.
+    widget_date: "2016-09-30"
+    generated_at: "2026-11-09T08:22:10.844424Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-eagle-has-landed-and-the-court-of-public-opinion-has-voted:
+    brief: |-
+      THE CONFLICT: 16 years of stagnation and power struggles in Fairhope, characterized by debate between a weak Mayor/strong council or strong Mayor/weak council; resulted in "good ole boy deals" and the voting out of officials.
+      THE DISCOVERY: Karin Wilson replaced the status quo and a four-term incumbent after a 10-year grassroots effort; Fairhope set a record election vote count, exceeding 2000 votes (more than Daphne).
+      THE PIVOT: Article 2 documents the successful democratic overthrow of the stagnant/corrupt previous regime (which Article 1 refers to as 16 years of fighting), providing the necessary context for the current cooperation observed in Article 1's City Council Meeting.
+      KEY ENTITIES: Karin Wilson, Fairhope, The Ripp Report, Baldwin County Legal Eagle, City Council.
+    llm_text: Karin Wilson shattered 16 years of stagnant "good ole boy deals" in Fairhope. See how a 10-year grassroots effort drove a record vote count, successfully changing the City Council.
+    widget_date: "2016-08-26"
+    generated_at: "2026-11-09T08:23:24.842344Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cut-the-head-off-the-snake:
+    brief: |-
+      THE CONFLICT: 16 years of power struggles within Fairhope City Council, debating between weak Mayor/strong Council or strong Mayor/weak Council, resulting in stagnation and "good ole boy deals."
+      THE DISCOVERY: Mayor Kant practiced micromanagement since 2000, favoring contributors like Arthur Corte (who instructed the approval of the Fly Creek Apartments), confirming the system of political corruption and reliance on contributors.
+      THE PIVOT: Article 2 provides the specific, historical evidence (Kant's 2000 practices, Arthur Corte's influence) that defines the 16 years of stagnation referenced in Article 1, justifying the current push for change and cooperation.
+      KEY ENTITIES: Fairhope, Mayor Kant, Karen Wilson, Arthur Corte, Jack Burrell, Jay Robinson, Murray Lawrence, Robert Brown, Gary Gover, The Ripp Report, Baldwin County Legal Eagle
+    llm_text: Fairhope's 16 years of stagnation stem from political deals, not just council conflict. Mayor Kant's micromanagement, favoring Arthur Corte on Fly Creek Apartments since 2000, reveals the deep-rooted corruption readers must understand.
+    widget_date: "2016-08-19"
+    generated_at: "2026-11-09T08:24:24.877227Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it:
+    brief: |-
+      THE CONFLICT: 16 years of stagnation and "good ole boy deals" in Fairhope, defined by debates over power (weak Mayor/strong council vs. strong Mayor/weak council), leading to the voting out of councilmen, councilwomen, and the Mayor.
+      THE DISCOVERY: On 9/11/2012, a certified Poll Watcher documented procedural violations during Fairhope Municipal Elections, including lack of control of voting machines, children inserting ballots, and denial of access to final machine opening and tape certification.
+      THE PIVOT: The 9/11/2012 documentation of election compromises (Article 2) confirms a historical "cloud of suspicion" regarding Fairhope elections, providing concrete evidence related to the distrust and power struggles that defined the preceding 16 years of council stagnation (Article 1).
+      KEY ENTITIES: Fairhope, Mrs. Culver, Lonnie Mixon, Tom Odom, Tim Kant, Kant Poll Watcher, Wilson
+    llm_text: Fairhope suffered 16 years of stagnation driven by power struggles. A 9/11/2012 Poll Watcher documented election violations—like children inserting ballots—confirming the historical suspicion behind the city's political turmoil.
+    widget_date: "2016-08-05"
+    generated_at: "2026-11-09T08:19:40.334087Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elected-or-selected:
+    brief: |-
+      THE CONFLICT: Former Mayor Jim Nix was forced out of office due to alleged criminal activity and faced criminal prosecution; Nix selected Tim Kant to replace him, needing a controlled subordinate.
+      THE DISCOVERY: Mayor Kant was selected by Jim Nix and became Mayor in 2000, following a hiring in 1983 as the city's first horticulturist; Kant is a paid Mayor and pad utility director, and has served four terms marked by corruption and infrastructure failure.
+      THE PIVOT: Article 2 establishes that the past 16 years of stagnation and power struggles referenced in Article 1 were rooted in a non-electoral 'selection' process orchestrated by Jim Nix, not a democratic mandate, proving the need for the people's voting power.
+      KEY ENTITIES: Tim Kant, Jim Nix, Arthor Corte, Sherry Sullivan, Mike Ford, Councilman Boone, Dyas family, Fairhope City Sketches, Fairhope, Baldwin County
+    llm_text: Jim Nix didn't use democracy to put Tim Kant in power; he hired the horticulturist in 1983 for a controlled subordinate role. Discover how Nix’s non-electoral selection led to 16 years of corruption and infrastructure failure in Fairhope.
+    widget_date: "2016-07-22"
+    generated_at: "2026-11-09T08:25:30.122081Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

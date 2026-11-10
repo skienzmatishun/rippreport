@@ -1,0 +1,75 @@
+metadata:
+  generated_at: "2026-11-09T14:05:07.239461Z"
+  generator_version: 1.0.0
+  post_slug: bp-restore-act-application
+  main_date: "2014-04-08"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  restore-act-accountability:
+    brief: |-
+      THE CONFLICT:
+      *   Gulf Oil Spill occurred in 2010.
+      *   BP grant monies were distributed throughout Baldwin County, overseen by Governor Bob Riley and the Alabama Emergency Management Association.
+      *   Senator Lee "Trip" Pittman received $639,000 from the City of Fairhope.
+      *   The Fairhope Mayor was subpoenaed to Federal Court in Mobile concerning the BP Boom Grant, facing allegations of grant fraud, intimidating witnesses, forgery, and collusion.
+      *   Mayor Stan Wright of Bayou La Batre was convicted of grant fraud.
+
+      THE DISCOVERY:
+      *   No local or state agency performed the promised audits to determine how the BP grant monies were spent.
+      *   Corruption occurred, including Brett Robinson receiving $36 million for unfinished projects and Bob Riley brokering deals benefiting his associates.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Mayor of Fairhope and Senator Trip Pittman were already subjects of criminal investigations (grant fraud, collusion) related to the initial 2010 BP Boom Grant disbursement.
+      *   Article 1 shows the current application for Restore Act funds (Fly Creek Watershed Restoration Project, 2013) is a continuation of the questionable use of BP funds to settle old lawsuits (Triangle Lawsuit) and is built upon the flawed, un-audited grant foundation established in 2010.
+
+      KEY ENTITIES:
+      *   Senator Lee "Trip" Pittman
+      *   Mayor Tim Kant
+      *   Governor Bob Riley
+      *   Arthur Corte
+      *   Thompson Engineering
+      *   Fairhope City Council
+      *   BP
+      *   Hand-Arendall
+      *   American Municipal Insurance Corporation
+    llm_text: Senator Lee "Trip" Pittman received $639,000 from Fairhope during the 2010 BP grant scandal. Unaudited corruption involving Governor Bob Riley and Mayor Stan Wright means current restoration funds rest on that fraudulent foundation.
+    widget_date: "2014-04-01"
+    generated_at: "2026-11-09T14:03:36.806215Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  what-triangle-lawsuit-details:
+    brief: |-
+      THE CONFLICT:
+      *   Triangle Lawsuit involved the Triangle Property (Dyas Family land).
+      *   The lawsuit settlement was initiated around April 8, 2013, and finalized in December.
+      *   The settlement involved a $12.5 million expenditure, $3 million in attorney fees (paid by taxpayers), $3 million withdrawn from utility reserves, and a $5.75 million new debt loan from Compass Bank.
+      *   The City of Fairhope (Mayor Tim Kant/Council) purchased the land via this settlement.
+
+      THE DISCOVERY:
+      *   The April 8, 2013 council meeting authorized the Mayor to enter a conditional settlement agreement involving the Triangle Property, which was not publicly disclosed or presented for citizen input.
+      *   The conditional settlement agreement initially restricted commercial use but the final agreement allowed for any use, conditioned upon PUD and Planning & Zoning.
+      *   The City used a $30,000 Thompson Engineering study, "The Fly Creek Watershed Restoration Plan," as the basis for the BP Restore Act application, which conveniently omitted that the primary damage in Fly Creek Watershed was caused by Arthur Corte's development of the Shoppes at Fairhope Village/Publix supermarket.
+
+      THE PIVOT:
+      *   Article 2 (Widget) proves the legal and financial origins of the Fly Creek land (Triangle Lawsuit settlement), establishing the historical context for the current BP Restore Act application referenced in Article 1.
+      *   Article 2 confirms the deliberate exclusion of public participation in the settlement process (April 2013/December), supporting Article 1's claim that the Mayor and Council conspired to omit public input regarding the $3 million expenditure.
+      *   Article 2 details that Thompson Engineering's study was "cut and paste" and failed to identify specific watershed problems, linking the flawed study directly to the settlement used for the BP Restore Act claim.
+
+      KEY ENTITIES:
+      *   Fairhope City Council / Mayor Tim Kant
+      *   Arthur Corte
+      *   Thompson Engineering
+      *   Hand-Arendall (attorney)
+      *   Triangle Lawsuit / Triangle Property / Dyas Family
+      *   BP Restore Act Funds ($22 million requested)
+      *   April 8, 2013
+      *   December (settlement finalization)
+      *   $12.5 million / $3 million (attorney fees/utility withdrawal) / $5.75 million (debt)
+      *   Publix supermarket
+      *   AMIC (American Municipal Insurance Corporation)
+      *   Senator Trip Pittman
+      *   Cain O'Rear
+      *   Fly Creek Watershed
+    llm_text: Mayor Tim Kant and the Fairhope Council finalized the $12.5 million Triangle Lawsuit settlement without public input in 2013. This hidden deal created the Fly Creek land used for the BP Restore Act, connecting Council decisions directly to your watershed concerns.
+    widget_date: "2014-03-28"
+    generated_at: "2026-11-09T14:04:46.753527Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

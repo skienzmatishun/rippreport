@@ -1,0 +1,86 @@
+metadata:
+  generated_at: "2026-11-09T13:04:26.461823Z"
+  generator_version: 1.0.0
+  post_slug: hip-boots-on-triangle
+  main_date: "2014-11-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  comprehensive-plan-charade:
+    brief: |-
+      THE CONFLICT:
+      *   Loss of a lawsuit regarding the Dyas Triangle in 2009 (Widget Article).
+      *   The loss resulted in taxpayers footing a bill of $11.5 million (Widget Article).
+      *   The city later settled the lawsuit with Alabama Municipal Insurance Corporation (AMIC), with a settlement of $8.75 million (Main Article).
+      *   The settlement required the city to purchase the Dyas Triangle (Main Article).
+      *   Total documented cost (purchase + legal fees) was $12 million (Main Article); Widget Article stated $11.5 million loss (including legal fees of $3.25 million) (Widget Article).
+
+      THE DISCOVERY:
+      *   Since 2001, Fairhope has conducted "reviews" of the comprehensive plan, costing $80,000 (Widget Article).
+      *   The city frequently strays from the comprehensive plan/ordinances via "sweetheart deals" involving the Mayor and developers (Widget Article).
+      *   The city previously considered a fire station deal with the landowner of the Publix project on Parker Road, which failed in 2009 due to safety concerns and "good ole boy deal" appearance (Widget Article).
+      *   The city plans to apply for $14.5 million (Mobile Bay Preservation) and $49 million (Coastal Environmental Education Network) in BP Restore Act funds, totaling $76.2 million for park projects (Widget Article).
+
+      THE PIVOT:
+      *   Article 2 establishes the history of corruption, deviation from comprehensive planning (e.g., Publix project), and the specific details of the 2009 lawsuit loss ($11.5M/8.75M settlement + $3.25M legal fees).
+      *   This history proves the current Mayor Kant's claims of "finished and done" and that the settlement is a "win" are part of a deliberate "BS Spin" (Main Article).
+      *   Article 1 highlights that the current land (Dyas Triangle) is not pristine but de-forested with deep erosion, contradicting the Mayor's claims (Main Article).
+      *   The past context demonstrates that the Mayor and city leadership have repeatedly prioritized developer interests over public input and city planning (Widget Article).
+
+      KEY ENTITIES:
+      *   Mayor Tim Kant
+      *   Francis Paul Ripp
+      *   Hand Arendall (law firm)
+      *   Alabama Municipal Insurance Corporation (AMIC)
+      *   Dyas Triangle
+      *   Fairhope
+      *   Publix project
+      *   BP Restore Act
+      *   Parker Road
+      *   2001 (start of comprehensive plan reviews)
+      *   2009 (failed fire station project/lawsuit loss)
+      *   $11.5 million (initial lawsuit loss)
+      *   $8.75 million (settlement amount)
+      *   $3.25 million (legal fees related to lawsuit)
+      *   $12 million (total invested/cost cited in Main Article)
+    llm_text: Mayor Tim Kant calls the Dyas Triangle settlement a "win," but the city lost $11.5 million in the 2009 lawsuit. Past "sweetheart deals" like the Publix project prove city leadership consistently prioritizes developers over public planning.
+    widget_date: "2014-11-14"
+    generated_at: "2026-11-09T13:01:50.887854Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  conflict-of-interest-summit:
+    brief: |-
+      THE CONFLICT:
+      *   Tucker Dorsey (Jasper T Dorsey), County Commissioner, holds durable limited power of attorney over Summit Construction Company, Inc., and is President of Summit Construction.
+      *   Trip Pittman, State Representative, was awarded approximately 6 lucrative municipal contracts, including construction contracts for sidewalks/bathrooms on the pier.
+      *   Summit Construction was the lone bidder ($2M initial bid, later requiring $5M) for the proposed Fairhope soccer fields project.
+
+      THE DISCOVERY:
+      *   Fairhope City Council and Mayor claimed no conflict of interest regarding contracts awarded to Summit Construction and Senator Pittman.
+      *   The evidence showed a direct conflict of interest where a County Commissioner was advancing his self-interest through Summit Construction.
+
+      THE PIVOT:
+      *   The historical evidence of political self-dealing (Dorsey/Pittman/Summit) establishes a pattern of systemic corruption and lack of public trust in Fairhope politics.
+      *   This pattern provides the necessary context for the critique in the Main Article, questioning Mayor Kant’s claims about the Dyas Triangle settlement ($8.75M settlement plus $3.2M fees, totaling over $12M), suggesting that all political actions are driven by corruption, not taxpayer benefit.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Dyas Triangle
+      *   Alabama Municipal Insurance Corporation (AMIC)
+      *   Hand Arendall
+      *   Tucker Dorsey (Jasper T Dorsey)
+      *   Trip Pittman
+      *   Summit Construction
+      *   Fairhope City Council
+    llm_text: County Commissioner Tucker Dorsey controlled Summit Construction while State Rep Trip Pittman secured six lucrative Fairhope municipal contracts. This pattern of self-dealing proves systemic corruption, forcing us to question Mayor Kant’s claims about the $12M Dyas Triangle settlement.
+    widget_date: "2014-10-10"
+    generated_at: "2026-11-09T13:03:07.125985Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  happy-belated-new-year-clean-sweep:
+    brief: |-
+      THE CONFLICT: The Triangle Lawsuit was a long-running "legal fee black hole" costing Fairhope millions of dollars, surviving three city councils leading up to the 2012 election.
+      THE DISCOVERY: In 2012, Mayor Tim Kant held total control over planning and zoning, making the lawsuit's survival a direct function of his administration.
+      THE PIVOT: Article 2 establishes the chronic, multi-year nature of the financial drain (millions of dollars over years) caused by the Triangle Lawsuit, providing context that the current settlement (Article 1) is part of a sustained pattern of costly governance, not an isolated incident.
+      KEY ENTITIES: Tim Kant, Dyas Triangle, Hand Arendall law firm, Alabama Municipal Insurance Corporation (AMIC), Mike Ford, Trip Pittman, Jonathan Smith, Fairhope
+    llm_text: Fairhope lost millions to the Triangle Lawsuit, a legal fee black hole that survived three city councils. Tim Kant’s 2012 administration controlled zoning, proving this financial drain is a pattern of costly governance, not an isolated incident.
+    widget_date: "2013-03-15"
+    generated_at: "2026-11-09T13:04:11.957256Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

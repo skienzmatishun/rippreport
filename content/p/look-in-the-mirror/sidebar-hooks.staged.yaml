@@ -1,0 +1,100 @@
+metadata:
+  generated_at: "2026-11-08T23:22:43.527586Z"
+  generator_version: 1.0.0
+  post_slug: look-in-the-mirror
+  main_date: "2017-08-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  covered-in-oil:
+    brief: |-
+      THE CONFLICT:
+      *   Trip Pittman, a BP contractor, was involved in a BP money/scam linked to the Fairhope Airport Authority "bidding" scandal.
+      *   Luther Strange, then Attorney General, allowed Sen. Pittman to walk with $750,000 of BP money without prosecuting anchors of less severe BP crimes.
+      *   Roy Moore was the state's Supreme Court Justice who was thrown off the bench for breaking the law twice.
+      *   Baldwin County has voted out Tim Kant and Trip Pittman (two of the three most corrupt politicians in the county).
+
+      THE DISCOVERY:
+      *   In the earlier election (Widget Article), Trip Pittman received only 7% of the vote (25,816 votes) in the Republican runoff, which was predicted to be less than 10% by Baldwin County constituents.
+
+      THE PIVOT:
+      *   The 7% vote share in the earlier election (Widget Article) establishes Pittman's lack of constituent support, providing context for the Main Article's claim that his seat "desperately needs to be filled by a candidate that represents the district and not his personal business."
+      *   The Widget Article details the local corruption and the successful removal of Pittman and Kant, framing the subsequent national-level ethics complaints against Luther Strange (Main Article) within a history of local political failure in Baldwin County.
+
+      KEY ENTITIES:
+      *   Trip Pittman (Senator/BP contractor)
+      *   Luther Strange (Attorney General/U.S. Senator)
+      *   Roy Moore (Former Ala. Chief Justice)
+      *   Tim Kant
+      *   Jack Burrell
+      *   Fairhope Airport Authority
+      *   Baldwin County
+      *   BP
+      *   750,000 dollars
+      *   Senate primary (17% state vote; 14% in Fairhope)
+    llm_text: Trip Pittman, the BP contractor tied to $750,000 in BP money, only secured 7% of the Baldwin County vote. This lack of support confirms local corruption forced him out, setting the stage for national ethics complaints against Luther Strange.
+    widget_date: "2017-08-16"
+    generated_at: "2026-11-08T23:19:23.241895Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT:
+      *   On September 30, 2016, the Alabama Court of the Judiciary suspended Judge Roy Moore for the remainder of his term as chief justice after finding him guilty of six charges of violation of the canons of judicial ethics.
+      *   Roy Moore is the only U.S. Supreme Court Justice to be thrown off the bench twice.
+      *   Luther Strange, as Attorney General, allowed the "Luv Gov" a pass and turned a blind eye to Sen. Pittman's actions as "appointed Trustee" of BP Funds, allowing Pittman to walk with $750,000 in BP money.
+
+      THE DISCOVERY:
+      *   Article 2 established that Sen. Trip Pittman, in 2012, had an arrangement with Fairhope, which ended when the Fairhope City Council voted to award a disaster debris removal contract to D&J Enterprises Inc. (of Auburn) instead of Pittman’s company.
+      *   Article 2 reported that Luther Strange faced ethics complaints regarding his actions related to the Luv Gov and Sen. Pittman.
+
+      THE PIVOT:
+      *   Article 2 provides the historical evidence (2016 and prior) detailing Luther Strange's ethical failings and Sen. Pittman’s financial misconduct ($750,000 BP funds) that forms the context for the "multiple ethics complaints" and the current open US Senate seat discussed in Article 1.
+
+      KEY ENTITIES:
+      *   Luther Strange (Attorney General)
+      *   Sen. Trip Pittman
+      *   Roy Moore (Supreme Court Justice)
+      *   Jeff Sessions (US Attorney General)
+      *   Congressman Mo Brooks (R-AL)
+      *   Baldwin County (35% of Alabama’s income)
+      *   Fairhope (City Council)
+      *   BP (Source of funds)
+      *   D&J Enterprises Inc. (Vendor)
+    llm_text: Judge Roy Moore was suspended in 2016, but Alabama's ethical mess runs deeper. AG Luther Strange allowed Sen. Trip Pittman to walk away with $750,000 in BP funds, providing crucial context for the open Senate seat.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T23:20:43.815603Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  primary-election-endorsements-2014:
+    brief: |-
+      THE CONFLICT:
+      1. BP Boom Scandal occurred in Fairhope.
+      2. Senator Trip Pittman received $750,000 from BP money while serving in office.
+      3. Former Attorney General Luther Strange allowed a political exchange involving Jeff Sessions’ seat.
+
+      THE DISCOVERY:
+      1. In the June 3, 2014 primary context, Pittman and Mayor Kant were found to have orchestrated the theft of the BP boom grant in Fairhope.
+      2. This theft led to the firing of Emergency Management Director Leigh Ann Ryals, county administrator Michael Thompson, and legal department head Scott Barnett.
+      3. Pittman maintained lucrative public contracts, such as the emergency debris removal contract for the City of Fairhope, despite the scandal.
+      4. Pittman also maneuvered to double the county commission's pay, including Tucker Dorsey, Bob James, and Charles Gruber.
+
+      THE PIVOT:
+      1. Article 2 (2014) provides historical proof of Pittman's active corruption (grant theft, contract misuse) linked to BP.
+      2. Article 1 confirms the later revelation of Pittman walking away with $750,000 from BP and that Luther Strange allowed this, connecting past actions to current ethics complaints.
+
+      KEY ENTITIES:
+      1. Trip Pittman
+      2. Mayor Kant
+      3. Luther Strange
+      4. Jeff Sessions
+      5. Leigh Ann Ryals
+      6. Michael Thompson
+      7. Scott Barnett
+      8. Tucker Dorsey
+      9. Bob James
+      10. Charles Gruber
+      11. Baldwin County
+      12. Fairhope
+      13. Alabama Ethics Commission
+    llm_text: Senator Trip Pittman and Mayor Kant orchestrated the theft of the BP boom grant in Fairhope. Discover how Pittman later pocketed $750,000 from BP, a deal Luther Strange allowed while serving as AG.
+    widget_date: "2014-05-24"
+    generated_at: "2026-11-08T23:22:12.779182Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

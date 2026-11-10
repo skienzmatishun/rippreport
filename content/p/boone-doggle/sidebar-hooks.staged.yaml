@@ -1,0 +1,166 @@
+metadata:
+  generated_at: "2026-11-09T06:55:55.622733Z"
+  generator_version: 1.0.0
+  post_slug: boone-doggle
+  main_date: "2017-01-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bit-dogs-bark-first:
+    brief: |-
+      THE CONFLICT:
+      *   Former Fairhope City Council members Mr. Burrell and Mr. Boone were part of a failed administration during the last 20 years.
+      *   This administration oversaw the Triangle lawsuit ($12 million) and the sewer plant ($11 million).
+      *   In the past, Mr. Boone opposed the selection of Cassady Company, Inc. for a Professional Engineering Capacity Study, insisting on firms like Dewberry/Preble-Rish LLC., Volkert, HMR, and Huthingson Moore & Ranch.
+
+      THE DISCOVERY:
+      *   Business Entity Records show Kevin Boone (K. Boone) is a registered member of BA-101, LLC (formed 4-29-2004) with John G. Avent.
+      *   Business Entity Records show Kevin Boone is a member of North Ridge, LLC (formed 6-2-2008) with John G. Avent, who is a Firm Partner at Preble-Rish, Inc.
+      *   Mr. Boone denied involvement in any LLCs with Volkert or any engineering companies when challenged by The Ripp Report.
+
+      THE PIVOT:
+      *   Article 2 provides historical, legal documentation (Alabama Secretary of State records) confirming Boone's pre-existing financial ties and LLC affiliations with key engineering firms (Preble-Rish) and associated individuals (John G. Avent).
+      *   This historical context proves that the conflicts of interest cited in Article 1 are not new but are rooted in long-standing business connections and the pattern of favoring connected interests over public transparency.
+
+      KEY ENTITIES:
+      *   Mr. Boone (Kevin Boone)
+      *   Mr. Burrell
+      *   Mr. Robinson (Councilman)
+      *   Mr. Conyers (Councilman)
+      *   Mr. Brown (Councilman)
+      *   John G. Avent
+      *   Preble-Rish, Inc.
+      *   BA-101, LLC
+      *   North Ridge, LLC
+      *   Fairhope City Council
+      *   Fairhope Airport Authority
+      *   Mayor Wilson
+      *   Councilman Ford
+      *   Mr. Hix
+      *   Dewberry
+      *   Volkert
+      *   HMR
+      *   Huthingson Moore & Ranch
+    llm_text: Kevin Boone denied ties to engineering firms, but state records show he owned LLCs with John G. Avent and Preble-Rish, Inc. These long-standing financial ties reveal conflicts of interest tied to past $12 million and $11 million projects in Fairhope.
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-09T06:48:41.421904Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT: Airport Authority purchased 258 acres in 2007 for $8.85 million; Airport Authority debt represented 21 percent of Fairhope's overall borrowing.
+      THE DISCOVERY: Mayor Karin Wilson urged the council to place the property in the city's ownership to reduce debt; Council President Jack Burrell dismissed citizen concerns and influenced newly elected councilmen (Robinson, Conyers, Brown) against this city-wide effort.
+      THE PIVOT: Article 2 establishes a pattern where council figures (Burrell/new council) prioritize institutional or personal interests (Airport Authority, bid selection) over citizen representation, setting the context for the conflicts of interest (LLCs, favored engineering companies) detailed against Councilman Kevin G. Boone in Article 1.
+      KEY ENTITIES: Karin Wilson, Jack Burrell, Kevin G. Boone, Jay Robinson, Robert Brown, Jimmy Conyers, Airport Authority
+    llm_text: Mayor Karin Wilson urged the council to take the Airport Authority's 258 acres, purchased for $8.85 million, to reduce Fairhope debt. Council President Jack Burrell dismissed her and influenced new councilmen against the move, prioritizing institutional interests over citizen concerns.
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T06:50:56.035533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT:
+      *   In 2016, the Fairhope Airport Authority (FAA) was operating with lack of public scrutiny.
+      *   Mayor Wilson used an option allowing the city to reclaim 258 acres for $10.00 if the principal debt was not paid by 2012.
+      *   The FAA received an annual budget allocation of $0.5 million from Fairhope.
+      *   Mr. Burrell, City Council President and FAA liaison, was linked to the previous Mayor and a "FAILED administration."
+
+      THE DISCOVERY:
+      *   The FAA board consisted of members with personal or financial connections to the Airport, constituting a potential conflict of interest.
+      *   Mr. Burrell was appointed to an ad hoc committee overseeing airplane hangar bids, conflicting with his roles as Council President and City Liaison.
+      *   Councilman Boone has numerous undisclosed conflicts of interest, including LLCs and family member involvement in deals.
+
+      THE PIVOT:
+      *   Article 2 (2016) establishes a historical pattern of municipal conflicts of interest (FAA/Burrell/Wilson) within Fairhope.
+      *   This systemic pattern of undisclosed financial/personal connections and using council power for private gain provides context for the newer issue involving Councilman Boone’s LLC involvement in hundreds of thousands of dollar zoning resolutions.
+
+      KEY ENTITIES:
+      *   Mr. Boone (Councilman)
+      *   Mr. Burrell (City Council President)
+      *   Mayor Wilson
+      *   Mr. Ford (Past Councilman)
+      *   Mr. Robinson (Newly elected councilman)
+      *   Mr. Conyers (Newly elected councilman)
+      *   Mr. Brown (Newly elected councilman)
+      *   John Sharp
+      *   Jane Nicholes
+      *   Ron Sivak
+      *   Fairhope Airport Authority (FAA)
+      *   Fairhope City Council
+    llm_text: Mayor Wilson’s 2016 FAA land grab involving $10/acre sets a pattern of unchecked municipal deals. Councilman Boone's undisclosed LLCs mirror these systemic conflicts, revealing how Fairhope power benefits private gain.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-09T06:54:21.579096Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-friday-merry-christmas:
+    brief: |-
+      THE CONFLICT: Mr. Boone, Councilman, has conflicts of interest involving LLCs and family members that were not shared with citizens. He has voted in favor of engineering companies (hundreds of thousands of dollars) with which he is connected.
+      THE DISCOVERY: Article 2 is a generic "HAVE A MERRY CHRISTMAS!" holiday greeting and reveals no specific factual evidence regarding Mr. Boone's conflicts of interest.
+      THE PIVOT: Article 2 provides no evidence or context to serve as a "smoking gun" or key context for Article 1. The conflict is detailed solely within Article 1.
+      KEY ENTITIES: Mr. Boone, Councilman Ford, Mr. Robinson, Mr. Conyers, Mr. Brown, Fairhope
+    llm_text: Councilman Boone voted hundreds of thousands for engineering companies linked to his family and LLCs in Fairhope. Discover how Mr. Boone hid these major conflicts of interest from Fairhope citizens.
+    widget_date: "2016-12-23"
+    generated_at: "2026-11-09T06:51:53.244911Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  green-acres-on-acid:
+    brief: |-
+      THE CONFLICT: State Senator Tripp Pittman secured BP contracts from Fairhope and Perdido beach netting him $750,000.00. This occurred while Pittman acted as designated trustee of BP funds for Baldwin County.
+      THE DISCOVERY: The Alabama Ethics Commission failed to act on a complaint regarding Pittman; the case led to an FBI investigation, Grand jury, and subpoena, which ultimately remained dormant within the AG's white collar crime division.
+      THE PIVOT: The historical pattern of officials in Baldwin County (e.g., Pittman, former Mayor of Fairhope) claiming "no conflict of interest" while securing lucrative contracts (Article 2) provides context for the current allegations that Councilman Boone (Article 1) is engaging in undisclosed conflicts via LLCs and voting on favorable resolutions, confirming a systemic lack of accountability.
+      KEY ENTITIES: Councilman Boone, Mr. Ford, Mr. Robinson, Mr. Conyers, Mr. Brown, Steve Russo, Tripp Pittman, Fairhope, Baldwin County, Alabama Ethics Commission, BP, Mayor Steve Russo.
+    llm_text: Tripp Pittman secured $750,000 in BP contracts from Fairhope while serving as a BP trustee for Baldwin County. This historical conflict, ignored by the Ethics Commission, confirms a systemic lack of accountability impacting Councilman Boone today.
+    widget_date: "2016-12-16"
+    generated_at: "2026-11-09T06:52:55.293311Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-time-for-reflection-goobers-on-notice:
+    brief: |-
+      THE CONFLICT:
+      *   Prior to 2016, the City of Fairhope had two mayors operating under a dubious system where the Mayor’s father-in-law controlled vote counting.
+      *   In August (prior to 2016/2017), Karin Wilson successfully upset #1 Goober Tim Kant in Baldwin County politics.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Fairhope was afflicted by deep-seated public corruption, including rigged elections and misuse of public contracts ("The Goobers").
+      *   Article 2 established Mayor Wilson's administration was built on a promise of transparency and accountability.
+
+      THE PIVOT:
+      *   Article 2 sets the historical context of systemic corruption that Mayor Wilson aimed to end.
+      *   Article 1 critiques Councilman Mr. Boone for exhibiting ongoing conflicts of interest (LLCs, family connections) and voting on high-dollar engineering contracts, demonstrating that the "Goober" patterns identified in Article 2 have persisted despite the political shift.
+
+      KEY ENTITIES:
+      *   Mr. Boone (Councilman)
+      *   Karin Wilson (Mayor)
+      *   Tim Kant (#1 Goober)
+      *   Mr. Robinson (Newly elected councilman)
+      *   Mr. Conyers (Newly elected councilman)
+      *   Mr. Brown (Newly elected councilman)
+      *   Fairhope
+      *   Baldwin County
+      *   BCLE/The Ripp Report
+    llm_text: Karin Wilson fought deep corruption, ending the "Goober" system that plagued Fairhope. Yet, Councilman Mr. Boone still shows conflicts of interest voting on high-dollar contracts, proving the old corruption patterns persist.
+    widget_date: "2016-12-09"
+    generated_at: "2026-11-09T06:49:39.555925Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-airport-un_authorized:
+    brief: |-
+      THE CONFLICT:
+      *   December 23, 2015: Airport Authority signed a memorandum of lease with Mid-Bay Air LLC.
+      *   August 7, 2015: Ray Hix was appointed Secretary/Treasurer of the Fairhope Airport Board.
+      *   Hix leveraged confidential airport information to benefit his company, Mid-Bay Air LLC.
+
+      THE DISCOVERY:
+      *   On December 2, 2016, the Alabama Ethics Commission replied that "No lease has ever been submitted to us regarding this issue," indicating a failure of compliance and oversight by the Airport Board.
+
+      THE PIVOT:
+      *   Article 2 provides documented historical evidence (2015-2016) of a severe, unaddressed municipal conflict of interest involving board members (Hix/Burrell).
+      *   This historical example establishes a pattern of self-interest overriding public duty in Fairhope, which serves as the context for the ongoing issue of Councilman Boone's undisclosed conflicts of interest via LLCs, voting on hundreds of thousands of dollars in council resolutions.
+
+      KEY ENTITIES:
+      *   Mr. Boone (Councilman)
+      *   Mr. Burrell (City Council President, Airport Authority Board Member)
+      *   Ray Hix (Fairhope Airport Board member/Secretary/Treasurer)
+      *   Mid-Bay Air LLC
+      *   Fairhope Airport
+      *   Mr. Robinson
+      *   Mr. Conyers
+      *   Mr. Brown
+      *   Councilman Ford (past reference)
+    llm_text: Ray Hix leveraged confidential Fairhope Airport data for Mid-Bay Air LLC in 2015, an issue the Ethics Commission found unaddressed. This historical conflict proves a pattern of self-interest that connects directly to Councilman Boone's ongoing undisclosed LLC conflicts.
+    widget_date: "2016-12-02"
+    generated_at: "2026-11-09T06:55:36.585096Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

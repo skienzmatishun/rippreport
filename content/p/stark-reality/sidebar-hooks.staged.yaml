@@ -1,0 +1,57 @@
+metadata:
+  generated_at: "2026-11-09T11:41:52.415750Z"
+  generator_version: 1.0.0
+  post_slug: stark-reality
+  main_date: "2016-03-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  manley-road-sidewalk-conflicts:
+    brief: |-
+      THE CONFLICT:
+      *   March 14, 2016: City of Fairhope authorized partnership with Fairhope Single Tax Corporation for Manley Road sidewalk construction.
+      *   March 28, 2016: City Council was predicted to approve Fly Creek Apartments despite public opposition.
+      *   Current/Recent: Senator Tripp Pittman secured $636,000 for himself through a municipal contract with Fairhope.
+      *   Current/Recent: Mayor Timothy Kant is driving the approval of Fly Creek Apartments for benefactor Mr. Corte.
+
+      THE DISCOVERY:
+      *   The March 14, 2016, agenda revealed that George Robards, a contractor and Planning and Zoning member, benefited from sidewalk contracts.
+      *   A conflict of interest existed because Planning and Zoning President Lee Turner was also President of Single Tax Corporation.
+      *   Mayor Kant appointed George Robards to the Planning and Zoning Board, and Robards is a major contributor to Kant's re-election.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that Mayor Kant's pattern of utilizing municipal contracts for political patronage and conflicts of interest (Robards/Turner) was established *before* the Fly Creek approval, framing the Fly Creek project not as an isolated decision but as part of a systemic "good ole boy deal."
+
+      KEY ENTITIES:
+      *   Mayor Timothy Kant
+      *   George Robards
+      *   Lee Turner
+      *   Fairhope Single Tax Corporation
+      *   Mr. Corte
+      *   Senator Tripp Pittman
+      *   Fairhope City Council
+      *   Fly Creek Apartments
+      *   Baldwin County
+    llm_text: Mayor Timothy Kant built his patronage system using George Robards and Lee Turner with Fairhope Single Tax Corporation. His push for Fly Creek Apartments benefiting Mr. Corte shows this isn't an isolated decision, but a systemic "good ole boy deal."
+    widget_date: "2016-03-14"
+    generated_at: "2026-11-09T11:39:23.398111Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  intimidation-tool-of-corruption:
+    brief: |-
+      THE CONFLICT: Past City Council/Planning and zoning board actions in Fairhope years ago; refusal to allow the author to speak at public meetings; past City Council threatened "removing" author over constructive criticism; past threats to take down a gate on the author's property.
+      THE DISCOVERY: Intimidation (subtle rumors, aggressive legal action, exceeding municipal authority) is a common, systemic tool used by politicians, judges, and attorneys in Baldwin County to enforce the "good Ole Boy" machine and obstruct transparency.
+      THE PIVOT: Mayor Timothy Kant's heavy-handed tactics and intimidation regarding the Fly Creek Apartments issue are not isolated incidents but fit a historical pattern of using municipal power to silence anti-status quo critics in Baldwin County.
+      KEY ENTITIES: Baldwin County; Fairhope; Mayor Timothy Kant; Senator Tripp Pittman; Governor Robert Bentley; Mike Hubbard (23 felony counts, April 11); Judge Michelle Thomason; Mr. Corte; Paul Ripp; Wounded Warriors; Boy Scouts of Mobile; Fly Creek Apartments.
+    llm_text: Mayor Timothy Kant's tactics over the Fly Creek Apartments are not isolated incidents in Fairhope. Baldwin County officials use municipal power and intimidation to silence anti-status quo critics, threatening transparency across the region.
+    widget_date: "2016-02-26"
+    generated_at: "2026-11-09T11:41:31.191837Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  memorial-day-special-edition:
+    brief: |-
+      THE CONFLICT: Senator Tripp Pittman and Sheriff Hoss Mack were advertised together on R&R Billboards, owned by Reagan Scroggins, whose wife is Jennifer Fidler (Fairhope Public Works Director). Fidler's department was responsible for the misspending of BP Boom Grant Funds.
+      THE DISCOVERY: Article 2 documented clear conflicts of interest involving Pittman, Mack, Fidler, and Tim Kant, including Pittman lacking an Alabama contractor's license for Pittman Tractor.
+      THE PIVOT: Article 2 established the foundational pattern of local corruption (Pittman benefiting from Fairhope contracts/BP funds and Fidler's oversight failure) which provided the context for Article 1 detailing Pittman securing $636,000 via a Fairhope municipal contract and the ongoing FBI/AG investigation.
+      KEY ENTITIES: Jennifer Fidler, Reagan Scroggins, Senator Tripp Pittman, Sheriff Hoss Mack, Tim Kant, Robert Bentley, Mike Hubbard, Judge Michelle Thomason, Fly Creek, Baldwin County, Fairhope, BP Boom Grant Funds.
+    llm_text: Senator Tripp Pittman and Sheriff Hoss Mack advertised together on billboards owned by Reagan Scroggins. Jennifer Fidler, who oversaw the misuse of BP Boom Grant Funds, links Pittman's contracts to a pattern of Fairhope corruption.
+    widget_date: "2014-05-26"
+    generated_at: "2026-11-09T11:40:28.677172Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

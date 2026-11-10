@@ -1,0 +1,74 @@
+metadata:
+  generated_at: "2026-11-09T10:52:54.721714Z"
+  generator_version: 1.0.0
+  post_slug: challengers-emerge-in-daphne-mayoral-race
+  main_date: "2016-07-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  game-on:
+    brief: |-
+      THE CONFLICT:
+      *   Dane Haygood was appointed Mayor in early 2013 after the death of Mayor Bailey Yelding.
+      *   Haygood's advancement was tied to an infamous political group involving Stacy, Haygood, and Elliot.
+      *   Ben Cruitt launched an unsuccessful election bid for Baldwin County Commission in 2002.
+      *   The Fairhope city faced a $12 million triangle lawsuit and a $5 million+ soccer field project lacking transparency under Mayor Kant.
+
+      THE DISCOVERY:
+      *   The municipal leadership in both Daphne and Fairhope operates under a "good ole boys" system, prioritizing developers and political connections over public interest.
+      *   Daphne has projects, such as the Apartments on Highway 98 and Johnson road, that are viewed as examples of developer rule over citizens.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical and systemic nature of the "good ole boy" political network in Baldwin County, providing context for John Lake's campaign claim in Article 1 that the current Mayor Haygood is politically connected to this system.
+
+      KEY ENTITIES:
+      *   Dane Haygood (Mayor)
+      *   John Lake (City Councilman, District 3)
+      *   Tim Swanson
+      *   Ben Cruitt (Former Baldwin County Press publisher)
+      *   Bailey Yelding (Former Mayor)
+      *   Stacy
+      *   Elliot
+      *   Karin Wilson (Fairhope candidate)
+      *   Mayor Kant (Fairhope Mayor)
+      *   Baldwin County (Location)
+      *   Daphne (Location)
+      *   Fairhope (Location)
+      *   Aug. 23 (Election Date)
+      *   2013 (Haygood Appointment Year)
+      *   2002 (Cruitt Election Bid Year)
+    llm_text: Dane Haygood's 2013 mayoral appointment ties him to Baldwin County's "good ole boys" political system. See how developer rule affects Daphne and Fairhope, from the Highway 98 apartments to the $12 million Fairhope lawsuit.
+    widget_date: "2016-07-20"
+    generated_at: "2026-11-09T10:50:56.193438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fraud:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Tim F. Kant of Fairhope faced allegations of fraud regarding the "Triangle lawsuit" in 2011.
+      *   The lawsuit resulted in Fairhope paying $3 million in combined legal fees to Hand-Arendall.
+      *   Kant, who also sits on the Planning Commission, was questioned in an Oct. 30, 2015 deposition about a loan from Bobby Faust.
+
+      THE DISCOVERY:
+      *   Article 2 (Jan 29, 2011) exposed alleged deception by Mayor Kant to Fairhope citizens regarding the Dyas "triangle lawsuit."
+      *   Article 2 cited pending BP fraud charges and lawsuits related to Publix and Fly Creek Apartments.
+      *   Article 2 highlighted that the settlement for the triangle lawsuit required the purchase of property, contrary to the Mayor's public claim that it was bought for a "park."
+
+      THE PIVOT:
+      *   Article 2 details corruption and alleged fraud within the municipality of Fairhope involving Mayor Kant.
+      *   Article 1 details the current municipal mayoral race (Aug. 23) in the separate municipality of Daphne, featuring candidates Dane Haygood, John Lake, Tim Swanson, and Ben Cruitt.
+      *   There is no factual or thematic connection between the two articles as they pertain to different cities (Fairhope vs. Daphne) and different political conflicts.
+
+      KEY ENTITIES:
+      *   Daphne
+      *   Dane Haygood
+      *   John Lake
+      *   Tim Swanson
+      *   Ben Cruitt
+      *   Fairhope
+      *   Tim F. Kant
+      *   Hand-Arendall
+      *   Bobby Faust
+      *   Baldwin County
+    llm_text: Mayor Tim F. Kant faced $3 million in legal fees after allegedly deceiving Fairhope citizens over the Dyas "triangle lawsuit." Learn how Kant concealed property purchases while also facing questions about a loan from Bobby Faust in Baldwin County.
+    widget_date: "2016-07-15"
+    generated_at: "2026-11-09T10:52:17.745552Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

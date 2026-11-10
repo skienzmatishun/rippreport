@@ -1,0 +1,123 @@
+metadata:
+  generated_at: "2026-11-09T10:13:02.235554Z"
+  generator_version: 1.0.0
+  post_slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  main_date: "2016-08-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  no-more-silence-we-want-answers:
+    brief: |-
+      THE CONFLICT:
+      *   The Triangle lawsuit resulted in a $12 million settlement costing the City of Fairhope, with Mayor Kant draining $3 million from the utility fund. (Widget Article, pre-2012 context)
+      *   In the mid-90s and around 2005, the Dyas family offered land for a Performing Arts Center in the triangle, but Mayor Kant rejected it in favor of Mr. Cortes' needs. (Widget Article)
+      *   Allegations of voter fraud were witnessed by a certified poll watcher during the 9/11/2012 Fairhope Municipal Election. (Widget Article)
+      *   Senator Pittman sought and received municipal contracts with Fairhope for emergency debris removal. (Main Article)
+      *   A BP Boom Grant fraud complaint was filed against Mayor Kant, the City of Fairhope, and Senator Pittman. (Main Article)
+
+      THE DISCOVERY:
+      *   The Widget Article revealed historical financial mismanagement, including the $12 million Triangle settlement and the misuse of the utility fund, pointing to systemic corruption under Mayor Kant prior to the BP Grant allegations.
+
+      THE PIVOT:
+      *   The Widget Article establishes Mayor Kant's long-term pattern of prioritizing "good ole boy deals" (e.g., Mr. Cortes, P&Z misuse, rejected Dyas land) over public interest and sound planning, providing the historical context for the current conflict of interest involving Senator Pittman and the BP Grant fraud complaint detailed in the Main Article.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Senator Pittman
+      *   Ethics Commission
+      *   Alabama Attorney General
+      *   Special Prosecutor Matt Hart
+      *   Fairhope
+      *   Dyas family
+      *   Mr. Cortes
+      *   Triangle
+      *   BP Boom Grant
+    llm_text: Mayor Kant drained $3 million from the utility fund and faced a $12M Triangle settlement. See how his long pattern of "good ole boy deals" connects to the current BP Boom Grant fraud complaint involving Senator Pittman.
+    widget_date: "2016-08-13"
+    generated_at: "2026-11-09T10:08:20.525109Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  observations-of-a-poll-watcher:
+    brief: |-
+      THE CONFLICT:
+      *   In the 2012 Mayor of Fairhope race, incumbent Mayor Kant received 55% of the vote, while Chris Warner received 12%.
+      *   Chris Warner challenged the 2012 election, alleging election tampering and low approval ratings (22%).
+      *   The BP Boom Scandal involved Senator Trip Pittman, characterized by allegations of theft and bid-rigging.
+      *   Senator Pittman required Mayor Kant's cooperation to receive municipal contracts with Fairhope.
+
+      THE DISCOVERY:
+      *   The Widget Article (July 24, 2014) revealed early claims of election fraud in Fairhope and Baldwin County, including concerns over absentee ballots and voting box control.
+      *   It established a pattern linking political success to Lynn Stacey (political consultant for Mayor Kant and Chris Elliot).
+      *   It documented the BP Boom Scandal allegations involving Senator Trip Pittman prior to the current contract dispute.
+
+      THE PIVOT:
+      *   Article 2 (2014) provides historical context demonstrating that concerns regarding corruption, bid-rigging (BP Boom Scandal), and the ethical integrity of Mayor Kant's administration were documented years before the current contract dispute involving Senator Pittman and Fairhope city contracts.
+      *   It frames the current conflict not as a new isolated incident, but as part of a documented pattern of alleged ethical misconduct and political influence in Baldwin County.
+
+      KEY ENTITIES:
+      *   Senator Pittman (Trip Pittman)
+      *   Mayor Kant
+      *   Chris Warner, Ph.D.
+      *   Lynn Stacey
+      *   Chris Elliot
+      *   Matt Hart (Special Prosecutor)
+      *   Alabama Ethics Commission
+      *   Fairhope
+      *   Baldwin County
+      *   Alabama Attorney’s Office
+    llm_text: The Pittman/Kant contract dispute is not a new incident in Fairhope. Our July 2014 article revealed documented claims of election fraud and the BP Boom Scandal, linking political success to Lynn Stacey.
+    widget_date: "2016-08-10"
+    generated_at: "2026-11-09T10:09:16.181360Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stark-reality:
+    brief: |-
+      THE CONFLICT: Senator Tripp Pittman secured a $636,000 municipal contract with Fairhope. The Mayor and Senator were subjects of an FBI investigation that was pending in the Alabama Attorney General’s office in Montgomery.
+
+      THE DISCOVERY: Article 2 revealed Pittman’s $636,000 contract with Fairhope and that this matter was under FBI investigation forwarded to the Attorney General’s office.
+
+      THE PIVOT: Article 2 provides historical context (the prior FBI/AG investigation and specific contract amount) establishing the basis for the current ethics complaints (Article 1) regarding Pittman’s conflict of interest and lack of general contractor’s license concerning the Fairhope emergency debris removal contract.
+
+      KEY ENTITIES: Senator Tripp Pittman, Mayor Timothy Kant, Fairhope, Ethics Commission, Special Prosecutor Matt Hart, Alabama Attorney General, BP Boom Grant, Dyas family, Mr. Cortes, Baldwin County.
+    llm_text: Senator Tripp Pittman secured a $636,000 Fairhope contract while facing an FBI investigation from the Alabama Attorney General’s office. Read how this massive conflict of interest fuels new ethics complaints against Pittman.
+    widget_date: "2016-03-25"
+    generated_at: "2026-11-09T10:10:23.492021Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fraud:
+    brief: |-
+      THE CONFLICT: Mayor Kant rejected free land offers (mid-90s, 2005) from the Dyas family for a Performing Arts Center in the triangle, opting for Mr. Cortes' property instead. This led to the Triangle lawsuit, which Kant orchestrated, resulting in $3 million in legal fees for Fairhope (Hand-Arendall).
+      THE DISCOVERY: Article 2 revealed Mayor Kant misrepresented the lawsuit settlement, claiming Fairhope bought the property for a "park" when it was necessary to settle the lawsuit, constituting fraud.
+      THE PIVOT: Article 2 establishes a historical pattern of alleged fraud and lying by Mayor Kant (e.g., Triangle lawsuit deception, Oct. 30, 2015, loan from Bobby Faust), providing context for current allegations in Article 1 regarding conflict of interest and ethics violations concerning the Fairhope BP Boom Grant.
+      KEY ENTITIES: Senator Pittman, Mayor Tim F. Kant, Ethics Commission, Special Prosecutor Matt Hart, Fairhope, Dyas family, Mr. Cortes, Bobby Faust, Hand-Arendall, Alabama Attorney’s Office, Sherry Sullivan
+    llm_text: Mayor Tim F. Kant misrepresented the Triangle lawsuit settlement, claiming Fairhope bought the land for a "park" instead of resolving conflict with the Dyas family. This historical fraud links to current ethics concerns involving the Fairhope BP Boom Grant.
+    widget_date: "2016-07-15"
+    generated_at: "2026-11-09T10:12:48.165625Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bp-restore-act-application:
+    brief: |-
+      THE CONFLICT:
+      1. In 2013 (April and October), Fairhope negotiated a lawsuit settlement regarding the Fly Creek Watershed Restoration Project using BP Restore Act funds.
+      2. Mayor Tim Kant and Senator Trip Pittman were already subjects of multiple fraud investigations involving BP.
+      3. The settlement process violated open meeting rules, omitting public input, and cost the city $3 million in attorney fees, $3 million in a down payment, and a $5.75 million debt.
+
+      THE DISCOVERY:
+      1. The "Study" used to justify the Restore Act funds was flawed because it omitted that Arthur Corte's development (Shoppes at Fairhope Village/Publix) caused the creek damage.
+      2. Thompson Engineering, the firm that created the flawed study, was also responsible for a failed $4.6 million BP boom project (July 2010) in Perdido Pass.
+
+      THE PIVOT:
+      1. The 2013 BP fraud investigations and open meeting violations (Article 2) establish a historical pattern of questionable ethical and financial dealings by Mayor Kant and Senator Pittman related to BP funding, directly contextualizing the current conflict of interest (Pittman securing municipal contracts for debris removal) and undermining their claims of Ethics Commission exoneration regarding the BP Boom Grant (Article 1).
+
+      KEY ENTITIES:
+      1. Tim Kant (Mayor)
+      2. Senator Trip Pittman
+      3. Arthur Corte
+      4. Thompson Engineering
+      5. Fly Creek Watershed Restoration Project
+      6. BP Restore Act
+      7. Matt Hart (Special Prosecutor, Alabama Attorney General’s office)
+      8. Ethics Commission
+      9. Hand-Arendall
+      10. Dyas family
+      11. Shoppes at Fairhope Village
+      12. April 2013 / October 2013
+    llm_text: Mayor Tim Kant and Senator Trip Pittman faced BP fraud investigations during the 2013 Fly Creek Watershed settlement. Their questionable dealings now clash with the $5.75 million debt caused by flawed studies omitting Arthur Corte's Shoppes at Fairhope Village damage.
+    widget_date: "2014-04-08"
+    generated_at: "2026-11-09T10:11:40.938100Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

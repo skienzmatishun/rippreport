@@ -1,0 +1,82 @@
+metadata:
+  generated_at: "2026-11-09T13:55:41.929085Z"
+  generator_version: 1.0.0
+  post_slug: two-independent-women
+  main_date: "2014-04-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  whos-telling-truth-bp-boom:
+    brief: |-
+      THE CONFLICT: Senator Lee "Slippery Trip" Pittman and Tim Kant were involved in corruption regarding grants and contracts, specifically the Fairhope Boom Grant. This was publicly exposed on November 20, 2010.
+      THE DISCOVERY: Article 2 revealed Senator Pittman's company was awarded $639,000 while he supervised grants for boom work, with Oil Recovery of Mobile listed as the contractor of record.
+      THE PIVOT: Article 2 provides historical evidence of Pittman's alleged corruption, strengthening the political case for Kim Mccuiston's independent challenge to him in 2014 (Article 1).
+      KEY ENTITIES: Lee "Slippery Trip" Pittman, Kim Mccuiston, Ginger Poynter, Tim Kant, Oil Recovery of Mobile, Baldwin County, Senate District 32, June 1, 2014.
+    llm_text: Senator Lee "Slippery Trip" Pittman took $639,000 from the Fairhope Boom Grant with Tim Kant, exposing corruption in Baldwin County. This historical evidence fueled Kim Mccuiston’s independent challenge against him in 2014.
+    widget_date: "2014-04-10"
+    generated_at: "2026-11-09T13:53:05.727812Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bp-restore-act-application:
+    brief: |-
+      THE CONFLICT:
+      *   Lawsuit against the City of Fairhope (Triangle Lawsuit) concerning BP Restore Act funds.
+      *   The Mayor (Tim Kant) and Senator Trip Pittman are subjects of multiple BP fraud investigations.
+      *   Conspiracy to exclude public participation occurred in April 2013 and October 2013.
+
+      THE DISCOVERY:
+      *   The "Fly Creek Watershed Restoration Project" study (developed by Thompson Engineering) was flawed, omitting that Arthur Corte's development of the Shoppes at Fairhope Village caused the red clay damage.
+      *   The City of Fairhope incurred $3 million in attorney fees, $3 million down payment, and a $5.75 million debt, all without public input.
+
+      THE PIVOT:
+      *   Article 2 (2013) provides specific, documented evidence of financial conspiracy and fraud involving Senator Trip Pittman and Mayor Tim Kant, substantiating Article 1’s (2014) general claim of pervasive political corruption in Baldwin County.
+
+      KEY ENTITIES:
+      *   Trip Pittman (Senator, SD 32)
+      *   Tim Kant (Mayor, Fairhope)
+      *   Ginger Poynter
+      *   Kim Mccuiston
+      *   Arthur Corte
+      *   Thompson Engineering
+      *   Hand-Arendall
+      *   American Municipal Insurance Corporation
+      *   Fairhope
+      *   Baldwin County
+      *   June 1, 2014
+      *   April 2013 / October 2013
+      *   $5.75 million (debt)
+    llm_text: Mayor Tim Kant and Senator Trip Pittman face BP fraud investigations tied to the Fairhope lawsuit. They incurred $5.75 million in debt based on a flawed study that ignored Arthur Corte's damage, excluding public input.
+    widget_date: "2014-04-08"
+    generated_at: "2026-11-09T13:54:25.144497Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-political-corruption-exposed:
+    brief: |-
+      THE CONFLICT:
+      *   November 10, 2010: Mobile Press-Register published an article by Connie Bagget regarding the BP Boom Scandal involving Mayor Tim Kant and Senator Lee "Trip" Pittman.
+      *   Ongoing: Federal case involving Mayor Kant and Senator Pittman was pending, directed by special prosecutor Matt Hart.
+      *   Past/Historical: Bob Riley steered $37.2 million of BP money to Brett-Robinson in Gulf Shores; Riley later registered as a lobbyist for Brett-Robinson.
+
+      THE DISCOVERY:
+      *   Article 2 revealed widespread, systemic political corruption across Alabama, controlled by the Republican machine (State House, Senate, AG, Governor's mansion).
+      *   Article 2 detailed multiple federal grand jury investigations: Mike Hubbard (Speaker of the House) for a $13 million education software contract; Mayor Kant and Senator Pittman.
+      *   Article 2 established that Senator Pittman was linked to corruption, despite his attempts to avoid an open congressional seat opportunity.
+
+      THE PIVOT:
+      *   Article 2 proves that the political corruption in Baldwin County (mentioned in Article 1) is not isolated but part of a deep, systemic state-level issue (e.g., investigations into Pittman, Hubbard, Kant).
+      *   Article 2 provides historical context demonstrating that incumbents, like Senator Lee "Trip" Pittman, are tied to the "machine" and corruption, justifying the independent challenges by Ginger Poynter and Kim Mccuiston in Article 1.
+
+      KEY ENTITIES:
+      *   Senator Lee "Trip" Pittman
+      *   Mike Hubbard (Alabama Speaker of the House)
+      *   Matt Hart (Special Prosecutor, Alabama State Attorney General's Office)
+      *   Mayor Tim Kant (Fairhope)
+      *   Ginger Poynter
+      *   Kim Mccuiston
+      *   Bradley Byrne
+      *   Luther Strange (Alabama Attorney General)
+      *   Bob Riley
+      *   Brett-Robinson
+      *   Baldwin County
+      *   June 1, 2014 (Petition deadline)
+    llm_text: Senator Lee "Trip" Pittman, Mayor Tim Kant, and Mike Hubbard faced systemic Alabama corruption investigated by Matt Hart. Learn how Baldwin County's challenges, led by Ginger Poynter and Kim Mccuiston, fight a deep, statewide Republican machine.
+    widget_date: "2013-09-04"
+    generated_at: "2026-11-09T13:55:25.314139Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

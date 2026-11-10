@@ -1,0 +1,48 @@
+metadata:
+  generated_at: "2026-11-09T12:38:56.502208Z"
+  generator_version: 1.0.0
+  post_slug: fly-creek-erosion-and-hidden-development-threats
+  main_date: "2015-03-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  letter-ian-smith-va-claims:
+    brief: "THE CONFLICT: \n1. Veteran claim originated in 1969, with \"clear and unmistakable error\" filed August 1, 2007.\n2. Triangle property owners were denied all proposed projects for forty years, leading to a secret $12 million settlement with the city.\n3. Fly Creek erosion problems existed due to construction (Regency Center/Mr. Corte), with banks collapsing over 20 feet by December 27, 2014.\n\nTHE DISCOVERY: \n1. The VA system suffers from systemic bureaucratic delays, with one claim lingering in remand for over 46 years (as of Feb 2015).\n2. VA staff acknowledged that inaction was linked to avoiding responsibility or negative record keeping.\n\nTHE PIVOT: \n1. Article 2 establishes a historical pattern of governmental institutional paralysis and refusal to address long-standing, documented issues (47-year claim delay).\n2. This pattern mirrors the city's decades-long denial of essential infrastructure (connecting Rock Creek to Parker Road) and refusal to address documented Fly Creek damage from private development (Regency Center/Mr. Corte) despite 2013 studies.\n\nKEY ENTITIES: \n1. Francis Paul Ripp\n2. Ian Smith (Committee on Veterans Affairs)\n3. Mayor Kant\n4. Arthur Corte\n5. Senator Pittman\n6. Thompson Engineering\n7. Publix\n8. Regency Center\n9. Fly Creek / Rock Creek\n10. $14,700,000 (Mobile Bay Preservation and Restoration grant)\n11. December 27, 2014\n12. February 19, 2015"
+    llm_text: Francis Paul Ripp waited 46 years for his VA claim. This institutional paralysis connects to the city's 40-year project denial and the Fly Creek erosion caused by Arthur Corte's Regency Center.
+    widget_date: "2015-02-19"
+    generated_at: "2026-11-09T12:37:02.727832Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  legal-eagle-update-feb-2015:
+    brief: |-
+      THE CONFLICT:
+      1. 2011: Complaint filed against Mayor Kant and Senator Pittman for grant fraud related to BP funds.
+      2. 40 years prior: Owners of the triangle property were denied all proposed projects until they settled with the city, resulting in a secret $12 million purchase.
+      3. Ongoing: Complaints were filed with the Alabama Ethics Commission and judiciary regarding Judge Thomason, Part-Time Judge Bracken, and Attorney Stephen Johnson.
+
+      THE DISCOVERY:
+      1. The Alabama Ethics Commission dismissed complaints regarding Judge Thomason without conducting an investigation.
+      2. Mayor Kant is reversing a 40-year policy to accommodate developer Mr. Corte (land owner of the proposed PUD development).
+      3. A $30,000 study commissioned in March 2013 by Thompson Engineering for the Fly Creek Watershed Restoration Project failed to identify major problems like red clay erosion from the Publix project.
+
+      THE PIVOT:
+      1. The dysfunction and alleged corruption within the Baldwin County legal system (Thomason, Bracken, Johnson) provide a background environment for political and development corruption (Kant, Corte).
+      2. The city's willingness to change zoning and pursue the $14,700,000 Mobile Bay Preservation and Restoration project (Lower Fly Creek Reach) to protect from development directly facilitates the 275 apartments and 15 townhomes proposed on 40 acres within the Fly Creek watershed, driven by Mr. Corte's interests.
+
+      KEY ENTITIES:
+      1. Mayor Kant
+      2. Mr. Corte
+      3. Senator Pittman
+      4. Judge Thomason
+      5. Part-Time Judge Bracken
+      6. Steven Johnson
+      7. Thompson Engineering
+      8. Publix (Regency Center)
+      9. Fly Creek
+      10. Highway 98
+      11. Alabama Ethics Commission
+      12. $14,700,000 (Grant amount)
+      13. $12 million (Triangle property settlement cost)
+      14. December 27, 2014 (Photo date)
+    llm_text: Mayor Kant reverses a 40-year policy for developer Mr. Corte, despite past grant fraud against Senator Pittman and legal issues involving Judge Thomason. This development threatens the $14.7M Fly Creek restoration project—read how Baldwin County corruption enables this risk.
+    widget_date: "2015-02-15"
+    generated_at: "2026-11-09T12:38:37.123318Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

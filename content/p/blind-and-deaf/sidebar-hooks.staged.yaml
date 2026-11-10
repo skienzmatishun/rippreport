@@ -1,0 +1,195 @@
+metadata:
+  generated_at: "2026-11-08T19:00:11.301623Z"
+  generator_version: 1.0.0
+  post_slug: blind-and-deaf
+  main_date: "2018-01-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  repeat:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council spent one year obstructing the newly elected Mayor.
+      *   A citizen in Louisiana was thrown out of a public meeting, handcuffed, and arrested for challenging a School Board (recent event, "last night").
+
+      THE DISCOVERY:
+      *   In 2017, The Ripp Report covered political issues in Baldwin County.
+      *   The Fairhope City Council showed early signs of limiting public participation and using silence against challengers.
+      *   Baldwin County carried a $32 million debt related to the "mega site."
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern (2017-2018) of council actions limiting public participation and suppressing challengers in Fairhope.
+      *   Article 1 demonstrates a contemporary instance (Louisiana School Board incident) of this same suppression tactics, questioning freedom of the press and public access.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Mayor (newly elected)
+      *   Kant (former Fairhope figure)
+      *   Chuckee
+      *   School Board
+      *   The Ripp Report
+    llm_text: Fairhope City Council spent a year obstructing the new Mayor, but this isn't new. The Ripp Report found a 2017 pattern of suppression, echoing last night's arrest of a citizen challenging the School Board.
+    widget_date: "2018-01-06"
+    generated_at: "2026-11-08T18:52:19.627881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion:
+    brief: |-
+      THE CONFLICT:
+      *   In 2017, Baldwin County commissioners were in their last term, overseeing a "white elephant" mega site and a $32 million debt paid by taxpayers and county employees.
+      *   The Fairhope city council obstructed the newly elected Mayor, despite the Mayor pushing transparency and hiring a dozen new city employees.
+
+      THE DISCOVERY:
+      *   Early on, the Fairhope city council showed signs of limiting public participation and using silence as a weapon against challengers; Kant ran Fairhope before leaving office.
+
+      THE PIVOT:
+      *   The 2017 context of local government (Fairhope/Baldwin County) demonstrating obstruction and the limitation of public participation establishes a historical pattern for the current event where a citizen in Louisiana was handcuffed and arrested for challenging a School Board.
+
+      KEY ENTITIES:
+      *   burrell
+      *   chucky
+      *   wilson
+      *   Baldwin County
+      *   Fairhope
+      *   Kant
+      *   $32 million
+      *   2017
+      *   Louisiana School Board
+    llm_text: Fairhope and Baldwin County showed local obstruction over a $32 million debt in 2017. This historical pattern connects to a citizen getting handcuffed by the Louisiana School Board for challenging authority.
+    widget_date: "2018-01-03"
+    generated_at: "2026-11-08T18:54:32.330864Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  see-ya-in-court-jack:
+    brief: |-
+      THE CONFLICT: Jack Burrell, City Council President of Fairhope, denied Francis Paul Ripp his constitutional right to free speech during a City of Fairhope council meeting on August 28, 2017.
+      THE DISCOVERY: Francis Paul Ripp filed a federal lawsuit against Jack Burrell on December 29, 2017, seeking damages for "humiliation" and "emotional pain" due to the denial of his constitutional rights (First and Fourteenth Amendments).
+      THE PIVOT: The 2017 federal lawsuit provides documented historical proof of Jack Burrell's repeated obstruction of constitutional rights in a public forum, contextualizing the current criticism (Main Article) regarding suppression and the alleged biased reporting by "Chuckee."
+      KEY ENTITIES: Jack Burrell, Francis Paul Ripp, City of Fairhope, Chuckee, Louisiana citizen, $90,000 (cost of rejected full-time city attorney).
+    llm_text: Jack Burrell denied Francis Paul Ripp free speech at a 2017 Fairhope council meeting. This documented federal lawsuit proves Burrell's repeated obstruction of constitutional rights, adding crucial context to current suppression claims about "Chuckee."
+    widget_date: "2017-12-29"
+    generated_at: "2026-11-08T18:55:36.600296Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  do-your-job-pass-the-budget:
+    brief: |-
+      THE CONFLICT:
+      *   City Council in Fairhope obstructed the city budget for three months, despite Mayor's efforts to approve it.
+      *   The conflict centered on Council President Burrell protecting interests related to Fairhope Airport.
+      *   Dec. 6th was a special City Council meeting regarding the budget.
+      *   Dec. 18th was a scheduled budget approval attempt.
+
+      THE DISCOVERY:
+      *   Council President Burrell was accused of micro-managing employees and exercising authority beyond his council position.
+      *   Burrell was also accused of silencing the public by refusing to allow dissent at public meetings.
+
+      THE PIVOT:
+      *   Article 2 established a pattern of local government suppressing public dissent (Burrell silencing the public).
+      *   Article 1 describes a current event where a citizen was handcuffed and arrested in Louisiana for challenging a School Board, linking local obstruction tactics to broader violations of free speech.
+
+      KEY ENTITIES:
+      *   Burrell (Council President)
+      *   Fairhope City Council
+      *   Mayor
+      *   Fairhope Airport
+      *   Louisiana (location of arrest)
+      *   Chuckee (mentioned in relation to public meeting conduct)
+    llm_text: Burrell obstructed the Fairhope budget for three months, protecting Fairhope Airport interests while silencing public dissent. See how this local power grab mirrors arrests for challenging school boards across Louisiana.
+    widget_date: "2017-12-18"
+    generated_at: "2026-11-08T18:56:44.420349Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-lawsuits:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope has a history of lawsuits costing taxpayers millions.
+      *   Council President Burrell is involved and possesses the ethics commission to defend the council.
+      *   "Jack" used a "change of agenda trick" to secretly settle the "triangle lawsuit."
+      *   A citizen in Louisiana was handcuffed and arrested for challenging a School Board at a public meeting last night.
+
+      THE DISCOVERY:
+      *   Fairhope City Council paid fired employees (using insurance money) rather than going to court.
+      *   The council previously defended the fired employees and assisted them in suing the city.
+      *   The council overrode planning and zoning decisions, despite the original decision being correct.
+      *   Potential for four additional suits, plus one pending related to Fly Creek Apartments.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of municipal obstruction (Fairhope City Council overriding the Mayor and hiding settlements) tied to Council President Burrell.
+      *   Article 1 reports a separate incident of citizen arrest in Louisiana regarding a School Board challenge, raising questions about public accountability, contrasting the municipal legal issues detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Burrell (Council President)
+      *   Chuckee
+      *   Fairhope City Council
+      *   Fly Creek Apartments
+      *   Louisiana
+      *   School Board
+      *   Wilson (Metadata only)
+    llm_text: Council President Burrell leads a Fairhope City Council pattern of obstruction, secretly settling the "triangle lawsuit" using insurance funds. Meanwhile, a Louisiana citizen faced arrest for challenging a School Board, raising tough questions about public accountability.
+    widget_date: "2017-10-27"
+    generated_at: "2026-11-08T18:58:04.081109Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wetlands:
+    brief: |-
+      THE CONFLICT:
+      In 2017, residents reported foul odors and discolored water in the Fly Creek Watershed (Sandy Ford/Firefly subdivision), linking it to sewer spills in Fairhope, Daphne, and Spanish Fort.
+      Fairhope City Council met on Oct 9th, 2017, discussing water testing by Baykeepers.
+      Landowner Arthur Corte refused testing on his property.
+      Councilman Kevin Boone had an LLC related to the Firefly project with Arthur Corte, which was subsequently dissolved after exposure.
+
+      THE DISCOVERY:
+      Official entities, including the City of Fairhope, EPA, Dept of Health, ADEM Lance Leflur, and Casi Callaway, failed to follow up or contact citizens with explanations regarding the documented sewage and water quality issues.
+
+      THE PIVOT:
+      Article 2 documented the systematic failure of local government and state agencies to address citizen complaints about pollution, confirming that complaints "have fallen on deaf ears" historically, providing factual context to Article 1's claim that officials are "blind and deaf."
+
+      KEY ENTITIES:
+      Arthur Corte
+      Kevin Boone
+      Casi Callaway
+      Fairhope City Council
+      Baykeepers
+      Fly Creek Watershed
+      Publix (outfall pipe)
+      Jim Graves
+      Myron Riley
+      ADEM Lance Leflur
+      Glenn Cunningham
+      EPA
+      School Board (Louisiana)
+      burrell
+      chucky
+    llm_text: Fairhope City Council ignored 2017 Fly Creek Watershed sewage spills, leaving residents exposed. Councilman Kevin Boone's LLC ties to Arthur Corte—who refused testing—show how local politics blocked pollution answers.
+    widget_date: "2017-10-11"
+    generated_at: "2026-11-08T18:53:23.357219Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  free-speech:
+    brief: |-
+      THE CONFLICT:
+      Fairhope Airport Authority RFP process was alleged to be tainted by inside information and conflicts of interest, involving the selection of H. Ray Hix as operator.
+      December 16th, 2015: Request for Advisory Opinion submitted to Alabama Ethics Commission by Dennis R. Bailey ESQ on behalf of Mid-Bay Air, LLC.
+      December 17th, 2015: Ground Lease and Operating Agreement signed by H. Ray Hix ("Limited Guarantor") and Joe McEnerney (Fairhope Airport Authority Board Chairman).
+      December 21st, 2015: Exhibit C (Ground Lease and Operating Agreement) submitted to Ethics Commission, which differed from the Dec 17th recorded lease.
+      February 3rd, 2016: Ethics Advisory Opinion issued, requiring contract filing within 10 days of execution (signed Dec 17th, 2015).
+      March 20th, 2017: Joe Mc Enerney filed an Affidavit referencing the Dec 17th lease, contrasting it with the Dec 21st submitted lease.
+
+      THE DISCOVERY:
+      The Dec 21st lease (Exhibit C) submitted to the Ethics Commission contained material factual differences (e.g., "Guarantor" vs. "Limited Guarantor," omissions of key sentences) compared to the Dec 17th executed and recorded lease, proving the initial Ethics Advisory Opinion request contained false documents.
+
+      THE PIVOT:
+      Article 2 establishes verifiable historical evidence of corruption and false reporting by the Fairhope Airport Authority Board, validating the current claims made by Chuckee (tabloid editor) that the Airport Authority dealings cost Fairhope Millions and that the council obstructed public participation.
+
+      KEY ENTITIES:
+      Fairhope Airport Authority
+      Chuckee (tabloid editor)
+      Mayor of Fairhope
+      Jack Burrell (source of information)
+      Joe McEnerney (Fairhope Airport Authority Board Chairman)
+      H. Ray Hix (Operator/Bidder)
+      Pam Caudill (FAA board member, married to Mike Turner)
+      Ray Hix (Airport Authority board member, shares ethics charges with Jack Burrell)
+      Dennis R. Bailey ESQ (Rushton, Stakley, Johnston and Garrett)
+      Mike Turner
+      Baldwin County
+      Alabama Ethics Commission
+      Fly Creek Apartments
+    llm_text: The Fairhope Airport Authority concealed corruption when Joe McEnerney signed the H. Ray Hix lease, then submitted false documents to the Ethics Commission. Learn how these deceptive actions cost Fairhope millions and blocked public participation.
+    widget_date: "2017-09-08"
+    generated_at: "2026-11-08T18:59:44.184281Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

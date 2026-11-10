@@ -1,0 +1,52 @@
+metadata:
+  generated_at: "2026-11-09T11:02:12.082696Z"
+  generator_version: 1.0.0
+  post_slug: wonderful-wednesday
+  main_date: "2016-07-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  demand-the-truth:
+    brief: |-
+      THE CONFLICT: Senator Pittman maintained debris removal contracts with the city of Fairhope since 2004; Pittman and the Fairhope Mayor were subject to a BP fraud investigation conducted by the FBI, which was transferred to special prosecutor Matt Hart (July 7, 2016).
+      THE DISCOVERY: Article 2 proved that the Mayor and Senator misrepresented the Ethics Commission's stance, claiming the Commission exonerated them or approved the contracts, when the letter only provided an opinion, not permission, and that their exoneration claims were untrue.
+      THE PIVOT: Article 2 establishes the historical, documented existence of the BP fraud investigation and the ongoing conflict of interest regarding municipal contracts, providing context for Article 1's challenge to Mayor Kant and Senator Pittman regarding the BP Fraud grant.
+      KEY ENTITIES: Senator Pittman, Fairhope Mayor (Kant), Sherry Sullivan, Mayor Kant, Mr. Corte, Jennifer Fiddler, Bob James, Matt Hart, Ethics Commission, Fly Creek Apartments
+    llm_text: Senator Pittman held debris removal contracts with Fairhope since 2004 during a BP fraud investigation led by Matt Hart. Mayor Kant and Pittman misrepresented the Ethics Commission's opinion as exoneration, hiding a major conflict of interest.
+    widget_date: "2016-07-07"
+    generated_at: "2026-11-09T11:00:50.446270Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  there-are-more-of-us-than-them:
+    brief: |-
+      THE CONFLICT:
+      *   Early corruption regarding Fly Creek Apartments was witnessed in Fairhope.
+      *   Mayor Kant was accused of fraud and questions surrounding the BP Grant participation by Mayor Kant and Senator Pittman.
+      *   Whistle-blowers (EMA Director, county manager, attorneys) were fired by County Commissioners Tucker Dorsey and Elliot following reports of Pittman Kant BP fraud.
+
+      THE DISCOVERY:
+      *   Article 2 revealed low voter confidence in Mayor Kant (30-35% turnout) and highlighted the $10 million sewer upgrade as temporary.
+      *   Article 2 documented Kant taking a trip to Washington with Jennifer Fiddler and Sherry Sullivan, framing it against his "horticulturalist vanity award" claims.
+      *   Article 2 established that the sewer system upgrade did not move inland, preventing bay dumping and missing a legitimate BP grant.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical context of Mayor Kant's alleged corruption (BP Grant fraud, Fly Creek issues) and the resulting public distrust, validating the subsequent claims in Article 1.
+      *   Article 2 documented the pattern of unauthorized trips involving Jennifer Fiddler and Sherry Sullivan, providing context for the Europe trip described in Article 1.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Sherry Sullivan ("Mayor in Training")
+      *   Mr. Corte
+      *   Jennifer Fiddler
+      *   Senator Pittman
+      *   Fly Creek Apartments
+      *   Fairhope
+      *   Tucker Dorsey
+      *   Elliot
+      *   Bob James
+      *   Governor's assistant
+      *   $1 million (infrastructure paid by Fairhope for Corte)
+      *   $10 million (sewer upgrade)
+      *   $10,000 (reward offered)
+    llm_text: Mayor Kant faced early corruption accusations over Fly Creek Apartments and BP Grant fraud involving Senator Pittman. Article 2 reveals his low voter confidence and how the $10 million sewer upgrade failed to prevent bay dumping.
+    widget_date: "2016-06-24"
+    generated_at: "2026-11-09T11:01:57.585062Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

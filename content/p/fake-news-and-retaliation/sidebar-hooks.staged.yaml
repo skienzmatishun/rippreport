@@ -1,0 +1,164 @@
+metadata:
+  generated_at: "2026-11-08T23:50:50.953008Z"
+  generator_version: 1.0.0
+  post_slug: fake-news-and-retaliation
+  main_date: "2017-08-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  countdown:
+    brief: |-
+      THE CONFLICT: US Senate primary in Alabama involved a total of 19 candidates (11 Republicans and 8 Democrats).
+      THE DISCOVERY: The primary included Luther Strange, Judge Roy Moore, Congressman Mo Brooks, Sen Trip Pittman, and Dr. Randy Brinson.
+      THE PIVOT: There is no factual or thematic connection; Article 2 discusses federal Senate races while Article 1 focuses on local Fairhope/Baldwin County municipal scandals involving the Mayor.
+      KEY ENTITIES: Tim Kant, Chucky, Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat, Mayor of Fairhope, Councilman Boone, Jack Burrell, Fairhope Airport Authority, Catalyst.
+    llm_text: The 19-candidate Alabama Senate primary, featuring Luther Strange and Judge Roy Moore, has no link to local Fairhope politics. Discover how Tim Kant and the Mayor of Fairhope navigate Baldwin County municipal scandals impacting your community.
+    widget_date: "2017-08-04"
+    generated_at: "2026-11-08T23:42:44.140125Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-a-political-tool:
+    brief: |-
+      THE CONFLICT:
+      *   State Senator Tripp Pittman used elected office for personal gain, securing Fairhope municipal contracts assisted by former Mayor Tim Kant.
+      *   Jack Burrell, referred to as “come fly with me,” faces ethics complaints regarding the Fairhope Airport Authority (with board member Ray Hix).
+      *   Mike Hubbard was convicted on 12 counts of felony public corruption nearly a full year prior to the articles.
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission has been documented as a failure, manipulated by politicians and having never held anyone accountable in Baldwin County.
+      *   The City Council refused internal investigation into ethical violations, issuing false statements that complaints were "baseless."
+
+      THE PIVOT:
+      *   Article 2 establishes a documented history of corruption involving Kant and Pittman, proving that the ethics system is compromised, which provides critical context for Kant’s alleged recent misconduct (provoking former employees like Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat) described in Article 1.
+
+      KEY ENTITIES:
+      *   Tim Kant (Former Mayor of Fairhope)
+      *   Jack Burrell
+      *   Tripp Pittman (State Senator)
+      *   Councilman Boone
+      *   Jennifer Fidler
+      *   Sherry Sullivan
+      *   Pandora Heathcoat
+      *   Fairhope Airport Authority
+      *   Alabama Ethics Commission
+      *   Catalyst
+      *   GCN Courier
+      *   Ray Hix (Airport Authority board member)
+      *   Luther Strange (Attorney General)
+    llm_text: Tripp Pittman secured Fairhope contracts with Tim Kant, proving Baldwin County's ethics system failed. See how this history of corruption compromises current issues involving Jack Burrell and the Fairhope Airport Authority.
+    widget_date: "2017-08-02"
+    generated_at: "2026-11-08T23:45:23.307439Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jack-ass:
+    brief: |-
+      THE CONFLICT:
+      *   Over ten years, the City of Fairhope awarded the emergency hurricane debris removal contract (Bid No. 009-17) to Pittman Tractor, the private business of Senator Lee “Trip” Pittman.
+      *   Senator Pittman used his position as "trustee" of BP funds to siphon $750,000.
+      *   Jack Burrell, City Council President, defended the contract, arguing it was legal and approved by the ethics commission.
+      *   Mayor Wilson subsequently had the contracts re-bid to give non-elected officials a fair chance.
+
+      THE DISCOVERY:
+      *   Article 2 reveals that City Council President Jack Burrell and Senator Pittman were part of a historical, systemic corruption cycle involving municipal contracts and misuse of BP funds in Fairhope and Baldwin County.
+
+      THE PIVOT:
+      *   Article 2 establishes the history of entrenched local corruption (Burrell/Pittman/Airport spending), providing context for Article 1, which details how remnants of that old power structure (Tim Kant and former employees Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat) are now attempting to undermine the *new* administration led by Mayor Wilson.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Senator Lee “Trip” Pittman
+      *   Mayor Wilson
+      *   Tim Kant
+      *   Jennifer Fidler
+      *   Sherry Sullivan
+      *   Pandora Heathcoat
+      *   Boone (Councilman)
+      *   Catalyst
+      *   Fairhope Airport Authority
+      *   GCN Courier
+    llm_text: Senator Lee “Trip” Pittman siphoned $750,000 from BP funds via Pittman Tractor, a decade-long contract defended by Jack Burrell. Mayor Wilson re-bid the contract, but entrenched figures like Tim Kant and Jennifer Fidler now fight the new administration.
+    widget_date: "2017-07-26"
+    generated_at: "2026-11-08T23:46:32.355870Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  airport-diversion:
+    brief: |-
+      THE CONFLICT: Ethics complaints against Council President Jack Burrell and Airport board member Ray Hix occurred (historical context); Tim Kant fired employees Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat, who subsequently accused the Mayor of assault and filed lawsuits.
+      THE DISCOVERY: Article 2 revealed that ethics complaints against Jack Burrell and Ray Hix were ruled "baseless" but remained under investigation; it also detailed City of Fairhope contracts regarding computer work and the resignation of Deborah Smith.
+      THE PIVOT: Article 2 provides the historical documentation (ethics complaints, airport spending/invoices, Burrell's role) that validates the Main Article's prediction that the "misdeeds of 'come fly with me' Burrell and the Fairhope Airport" will eventually be exposed, linking current political retaliation to past institutional issues.
+      KEY ENTITIES: Fairhope, Baldwin County, Jack Burrell, Ray Hix, Tim Kant, Mayor of Fairhope, Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat, Robert Brown, Elias Technologies, Deborah Smith, Chucky, Catalyst, Councilman Boone, Fairhope Airport Authority.
+    llm_text: Jack Burrell and Ray Hix faced ethics complaints, yet investigations continue despite rulings of "baseless." See how Tim Kant's firings of Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat now expose the Fairhope Airport's past misdeeds.
+    widget_date: "2017-07-19"
+    generated_at: "2026-11-08T23:47:45.669397Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jester-clone-clown:
+    brief: |-
+      THE CONFLICT:
+      Senator Tripp Pittman awarded 4 municipal contracts to his tractor company, seeking to skim $750,000; Pittman subsequently fired those who reported the Ethics complaint. Tim Kant fired employees (Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat) for undermining the newly elected Mayor.
+
+      THE DISCOVERY:
+      Robert Brown expressed deep loyalty to the Corte family and former Mayor Kant during a Fairhope city Council meeting; Brown, Councilman Boone, and Jack Burrell were seen meeting at Bone and Barrel immediately after the council meeting.
+
+      THE PIVOT:
+      Article 2 establishes the political alignment and internal council collusion involving Boone and Burrell supporting Kant, providing the historical context for the retaliation and obstruction against fired employees (Fidler, Sullivan, Heathcoat) detailed in Article 1.
+
+      KEY ENTITIES:
+      Tim Kant
+      Jennifer Fidler
+      Sherry Sullivan
+      Pandora Heathcoat
+      Robert Brown
+      Hoss Mack
+      Jack Burrell
+      Councilman Boone
+      Senator Tripp Pittman
+      Fairhope Airport Authority
+      Chucky
+      Jester 666
+      Catalyst
+      GCN Courier
+      Mayor of Fairhope
+    llm_text: Senator Tripp Pittman skimmed $750,000 via his tractor company and fired whistleblowers like Jennifer Fidler and Sherry Sullivan. Discover how Councilman Boone and Jack Burrell secretly backed Mayor Tim Kant, setting the stage for political retaliation in Fairhope.
+    widget_date: "2017-07-12"
+    generated_at: "2026-11-08T23:49:11.706609Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mimes-whitewashing:
+    brief: |-
+      THE CONFLICT: Fairhope City Council obstructed Mayor Karin Wilson, rejecting her $15,000 legal service request (June 9, 2017), while simultaneously attempting to settle a $100,000 employee lawsuit in executive session to "bury" the claims.
+      THE DISCOVERY: Article 2 revealed Councilman Brown and Councilman Boone were involved in obstructing the Mayor and preempting lawsuits, alongside Jack Burrell's involvement in "come fly with me" and Fairhope Airport authority.
+      THE PIVOT: Article 2 establishes the pattern of Council/Burrell misconduct and handling of employee claims, providing the background context for Article 1's claims that former employees (Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat) are now retaliating against the Mayor following their firing by Tim Kant.
+      KEY ENTITIES: Karin Wilson, Jack Burrell, Tim Kant, Councilman Boone, Councilman Brown, Jennifer Fidler, Sherry Sullivan, Pandora Heathcoat, Fairhope Airport Authority, Catalyst, GCN Courier, Ripp Report
+    llm_text: Councilman Brown and Councilman Boone obstructed Mayor Karin Wilson's $15,000 request while secretly settling a $100,000 employee lawsuit. Discover how former employees like Jennifer Fidler and Sherry Sullivan are retaliating against Mayor Wilson over their firings by Tim Kant.
+    widget_date: "2017-07-05"
+    generated_at: "2026-11-08T23:44:00.645721Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  misery-loves-company:
+    brief: |-
+      THE CONFLICT:
+      *   Fired employees Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat turned on the newly elected Mayor Kant.
+      *   They accused the Mayor of assault and filed lawsuits.
+      *   Tim Kant is predicted to run for public office.
+
+      THE DISCOVERY:
+      *   Fairhope approved large developments (e.g., Fly Creek Apartments, service station near Daphmont) years ago.
+      *   Residents (Daphmont) were last to be notified of these zoning changes.
+      *   Development interests prioritize expansion, impacting traffic and school buses.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of local government prioritizing developer interests and infrastructure spending over resident quality of life and timely notification.
+      *   This pattern supports Article 1’s criticism of the Fairhope Airport Authority spending millions on the airport while neglecting taxpayer needs (thousands on education).
+
+      KEY ENTITIES:
+      *   Tim Kant (Mayor of Fairhope)
+      *   Jennifer Fidler (Former employee)
+      *   Sherry Sullivan (Former employee)
+      *   Pandora Heathcoat (Former employee)
+      *   Councilman Boone
+      *   Jack Burrell
+      *   Fairhope Airport Authority
+      *   Catalyst
+      *   GCN Courier
+      *   Daphmont neighborhood (Daphne)
+      *   Fairhope Airport
+      *   Fly Creek Apartments
+      *   Boone (Councilman)
+    llm_text: Fired employees Jennifer Fidler, Sherry Sullivan, and Pandora Heathcoat are suing Mayor Tim Kant. Their case exposes how Fairhope prioritizes Fly Creek Apartments and airport spending over Daphmont residents and basic notification.
+    widget_date: "2017-06-22"
+    generated_at: "2026-11-08T23:50:27.542572Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T12:17:32.733610Z"
+  generator_version: 1.0.0
+  post_slug: letter-mayor-kennon-orange-beach
+  main_date: "2015-09-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  dirty-judge-misuse-of-justice:
+    brief: |-
+      THE CONFLICT: Judge Brackin, Orange Beach Municipal Judge, allowed a third offense DUI driver to leave the courtroom with a "slap on the wrist" prior to Sept. 4, 2015.
+      THE DISCOVERY: Judge Brackin has received a private reprimand and a public Censure from the Disciplinary Commission, Alabama State Bar.
+      THE PIVOT: Article 2 establishes Brackin's documented history of judicial misconduct (Censure/Reprimand), providing context and weight to the specific allegations of inconsistent justice regarding DUI violations raised in Article 1.
+      KEY ENTITIES: Judge Brackin; Judge Thomason; Mayor Kennon; Brackin Law Firm; Baldwin County Legal Eagle (BCLE); Orange Beach, Alabama; Alabama State Bar; Francis Paul Ripp.
+    llm_text: Judge Brackin gave a third-offense DUI driver a "slap on the wrist," sparking questions about justice in Orange Beach. The Alabama State Bar confirmed serious misconduct, issuing a public Censure and private reprimand.
+    widget_date: "2015-08-20"
+    generated_at: "2026-11-09T12:16:19.613879Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scoop-on-poop:
+    brief: |-
+      THE CONFLICT: Sewage/poop incident at the pier, linked to raw sewage from under renovation pier bathrooms, occurred historically; the issue previously resulted in a lawsuit and public safety concerns.
+      THE DISCOVERY: Article 2 revealed Mayor Kant falsely claimed Auburn and ADEM conducted unbiased tests and blamed geese, when the sample was collected by sewer plant employees and the contractor (George Robards) had conflicts of interest (sitting on Planning and Zoning).
+      THE PIVOT: Article 2 establishes a pattern of municipal cover-ups, official deception (Mayor Kant lying), and conflicts of interest involving city contractors (George Robards) and high-ranking officials, providing context for the 2015 allegations of non-investigation and miscarriage of justice concerning Judge Brackin's DUI case in Article 1.
+      KEY ENTITIES: Mayor Kennon, Orange Beach Municipal Judge Brackin, Mayor Kant, George Robards, Lee Turner, Baldwin County Legal Eagle (BCLE), Orange Beach, pier.
+    llm_text: Mayor Kant falsely blamed geese for the pier sewage incident, ignoring raw sewage from under renovation bathrooms. This deception, involving contractor George Robards, reveals a pattern of municipal cover-ups tied to Judge Brackin's past case.
+    widget_date: "2015-07-13"
+    generated_at: "2026-11-09T12:17:17.124650Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

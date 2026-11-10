@@ -1,0 +1,61 @@
+metadata:
+  generated_at: "2026-11-09T08:52:43.206842Z"
+  generator_version: 1.0.0
+  post_slug: baldwin-county-family-court-a-cottage-industry
+  main_date: "2016-10-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bp-catastrophe-alabama-disgrace:
+    brief: |-
+      THE CONFLICT:
+      * BP oil spill resulted in 11 deaths.
+      * BP paid billions in damages across four states (Alabama, Louisiana, Texas, Florida).
+      * Alabama leadership (Governor Bentley, Mayor Kant, Sen. Pittman) misused BP restoration funds for pet projects (beach mansion renovation, park development in Fairhope) instead of environmental repair.
+
+      THE DISCOVERY:
+      * Alabama utilized BP funds for non-environmental projects, including Bentley's beach mansion renovation and Fairhope park development.
+      * An $11 million BP restoration project on Marsh Island failed to rebuild oyster reefs, violating clean water act and leading to mismanagement.
+
+      THE PIVOT:
+      * Article 2 demonstrates a historical pattern of powerful political figures and officials (Bentley, Kant, Pittman) misusing large public/corporate funds for personal gain or political projects, establishing a context of systemic disregard for accountability and public welfare.
+      * This historical pattern provides context for the contemporary criticism in Article 1 regarding District Judge Michelle Thomason's alleged judicial impropriety (violations of Canons 5 and 7) and the "cottage industry" of divorce in Baldwin County, suggesting a pattern of institutional failure and self-interest within Alabama governance.
+
+      KEY ENTITIES:
+      * BP
+      * Michelle Thomason (District Judge, Baldwin County Family Court)
+      * Floyd (Presiding Judge, DR/Family Court)
+      * Roy Moore
+      * Bentley (Alabama Governor)
+      * Kant (Senator/Mayor)
+      * Pittman (Appointed Trustee, Baldwin County)
+      * Daphne (Mayor)
+      * Eastern Shore Republican Women
+      * Steven Johnson
+      * Buddy Brackin
+      * Baldwin County Bar Association
+      * Alabama Unified Judicial System (Canons 5 and 7)
+      * Bay Minette (Location of motion docket)
+    llm_text: Governor Bentley and leaders Kant/Pittman misused BP cleanup funds for a beach mansion and parks, not environmental repair. This history of institutional self-interest explains why we must scrutinize District Judge Michelle Thomason’s alleged judicial impropriety.
+    widget_date: "2016-10-21"
+    generated_at: "2026-11-09T08:50:19.557189Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  flies-in-the-ointment:
+    brief: |-
+      THE CONFLICT: Judge Michelle Thomason faced up to 6 complaints in 18 months regarding her 50/50 custody rulings; she held the position of President of the Baldwin County Republican Women, using the party and straight-ticket voting to eliminate primary opponents.
+      THE DISCOVERY: The Widget Article revealed that Judge Thomason utilized the Baldwin County Republican Party and straight ticket voting to secure political advantage and that local officials like Tucker Dorsey, Kevin Boone, and Thomason were all politically linked to the "Catalyst" political group.
+      THE PIVOT: Article 2 established that Thomason's judicial conduct issues (inflicting hardship, defying Judicial Canons 5 and 7) were rooted in political self-promotion and party leverage, not just judicial error, providing the historical context for the 2017 changes in court assignments detailed in Article 1.
+      KEY ENTITIES: Michelle Thomason, Tucker Dorsey, Kevin Boone, Catalyst, Baldwin County Republican Women, Judge Roy Moore, Judge Floyd, Judge Bosch, Judge Bishop, Judge Norton, Judge Taylor, Steven Johnson, Buddy Brackin
+    llm_text: Judge Michelle Thomason faced six custody complaints while leveraging the Baldwin County Republican Women to eliminate primary opponents. Her political ties to the Catalyst group confirm her judicial issues stem from self-promotion, not just courtroom error.
+    widget_date: "2016-10-14"
+    generated_at: "2026-11-09T08:51:19.775249Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  freaky-friday-freaky-town:
+    brief: |-
+      THE CONFLICT: Complaints were being filed against Judge Michelle Thomason and Attorney Steven Johnson regarding a corrupt judicial system in Baldwin County Family Court (circa 2016).
+      THE DISCOVERY: BCLE was actively working on complaints against Judge Thomason and Attorney Steven Johnson.
+      THE PIVOT: The earlier reporting (Widget Article) established that external bodies (BCLE) were investigating the corruption before the systemic court changes described in Article 1 were implemented.
+      KEY ENTITIES: Michelle Thomason, Steven Johnson, Buddy Brackin, Judge Floyd, Judge Bishop, Judge Norton, Judge Taylor, Eastern Shore Republican Women, BCLE, Baldwin County Family Court.
+    llm_text: BCLE investigated corruption complaints against Judge Michelle Thomason and Attorney Steven Johnson in Baldwin County Family Court. Discover how these early findings predate the systemic court changes and what it means for local justice.
+    widget_date: "2016-04-14"
+    generated_at: "2026-11-09T08:52:17.389925Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

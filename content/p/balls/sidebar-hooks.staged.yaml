@@ -1,0 +1,144 @@
+metadata:
+  generated_at: "2026-11-09T04:30:57.550976Z"
+  generator_version: 1.0.0
+  post_slug: balls
+  main_date: "2017-03-27"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  nuff-said:
+    brief: |-
+      THE CONFLICT: Defendants Leaf River and Corte made representations to the City of Fairhope Planning Commission and City Council between January 2016 and October 2016 regarding the Fly Creek PUD Amendment. These representations were material misstatements regarding drainage (claiming environmentally friendly non-point discharge when planning point discharge) and Red Soil Ordinance #1423 (claiming no red soil use when planning to move it into critical areas within 100' of Fly Creek wetlands). The City Council approved the PUD Amendment, despite 9th public meeting showing overwhelming opposition.
+      THE DISCOVERY: The Ripp Report has been actively covering an "Airport scandal" since November 2016, criticizing the City Council for ignoring facts regarding unethical behavior and lacking accountability compared to the Mayor’s policy on transparency.
+      THE PIVOT: The Widget article establishes a documented pattern of the City Council lacking transparency and accountability starting in late 2016, providing context for the Council’s decision to approve the Fly Creek PUD Amendment in 2016 based on material misrepresentations, leading to ongoing damage (e.g., Fly Creek filled with red mud, tree ordinance violation totaling almost 1 million, and pending/settled lawsuits).
+      KEY ENTITIES: Council President Burrell, Corte, Leaf River, Fly Creek, City of Fairhope Planning Commission, City Council, Fairhope Airport, Red Soil Ordinance #1423.
+    llm_text: 'Leaf River and Corte misled the City Council regarding Fly Creek drainage and Red Soil Ordinance #1423 to push the PUD Amendment. This 2016 lack of transparency provides crucial context for the ongoing Fairhope Airport scandal.'
+    widget_date: "2017-03-25"
+    generated_at: "2026-11-09T04:23:21.185323Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-voters-important-notice:
+    brief: |-
+      THE CONFLICT: Political struggle in Fairhope involving Councilmen Boone and Burrell and the opposition to newly elected Mayor Wilson; Catalyst Associates formed on Aug. 11, 2014, by Councilman Boone's family (Michael Scott Boone, Coley M. Boone).
+      THE DISCOVERY: Catalyst Associates, linked to Councilmen Boone and political group Elliott, Haygood, and Stacy, used influence to undermine Mayor Wilson and slow city business (e.g., hiring freezes, rejecting Airport Authority board choices).
+      THE PIVOT: The political influence and established power structure identified in Article 2 (Boone/Burrell/Catalyst) enabled the Council to approve the Fly Creek PUD Amendment (Jan-Oct 2016) despite known material misrepresentations by Defendants Corte and Leaf River, as detailed in Article 1.
+      KEY ENTITIES: Council President Burrell, Corte, Fly Creek, Mayor Wilson, Boone (Michael Scott/Coley M.), Catalyst Associates, Leaf River, Fairhope Planning Commission.
+    llm_text: Councilmen Boone and Burrell used Catalyst Associates to undermine Mayor Wilson and slow Fairhope city business. This established power structure later approved the controversial Fly Creek PUD Amendment despite misrepresentations by Corte and Leaf River.
+    widget_date: "2017-03-22"
+    generated_at: "2026-11-09T04:25:46.264330Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  selective-memory:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Wilson fired Sherry Sullivan and Jennifer Fidler.
+      *   The City Council responded swiftly, calling a special meeting chaired by Kevin Boone, and proposed a 60-day hiring freeze.
+      *   This conflict occurred prior to March 9th (when the next regular meeting was scheduled).
+      *   The Council's actions were viewed as favoring the "losing party in the last election."
+
+      THE DISCOVERY:
+      *   The Council was politically biased, ignoring constituents who voted for "change and transparency" and prioritizing political loyalty (to "Jack").
+      *   The Council was not listening to facts but rather "fiction" based on political affiliation.
+
+      THE PIVOT:
+      *   The political bias and lack of transparency demonstrated in the earlier personnel disputes (A2) establishes a historical context for distrust, suggesting the Council's current decision to extend the Fly Creek Apartments' prior approval (A1) may not be based on merit or public interest, but on political influence, similar to its reaction against the Mayor.
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Kevin Boone
+      *   Sherry Sullivan
+      *   Jennifer Fidler
+      *   Council President Burrell
+      *   Leaf River
+      *   Corte
+      *   Fly Creek Apartments
+      *   Fairhope City Council
+      *   Jack
+      *   Fairhope Planning Commission
+      *   Red Soil Ordinance #1423
+      *   Fairhope Tree Committee
+    llm_text: Mayor Wilson fired Sherry Sullivan and Jennifer Fidler, leading Kevin Boone and the City Council to impose a hiring freeze. This political bias raises serious questions about the Fly Creek Apartments approval; does the Council prioritize loyalty over public interest?
+    widget_date: "2017-03-01"
+    generated_at: "2026-11-09T04:26:46.878917Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-spiders-web:
+    brief: |-
+      THE CONFLICT: Kevin Boone, Tucker Dorsey, and Chris Elliott are connected via complex LLCs in Baldwin County, operating within a network described as having been in place for over 50 years.
+      THE DISCOVERY: Elected officials (Boone, Dorsey) use LLCs to conceal business and personal financial ties (e.g., campaign contributions) to firms like Preble-Rich/Dewberry (associated with John Avent), enabling them to vote in their own self-interest while the Alabama Ethics Commission is ineffective.
+      THE PIVOT: Article 2 establishes that Councilmen Boone and Burrell operate within a pervasive system of undisclosed, self-serving conflicts of interest via LLCs, providing the historical context for the material misrepresentations (regarding drainage system and red soil) made by Defendants Leaf River and Corte during the 2016 Fly Creek PUD Amendment approval, which benefited these interconnected interests.
+      KEY ENTITIES: Kevin Boone, Burrell (Council President), Corte, Leaf River, Chris Elliott, Tucker Dorsey, John Avent, Preble-Rich/Dewberry, Ethics Commission, City of Fairhope, Fly Creek, Baldwin County, Planning Commission.
+    llm_text: Kevin Boone, Tucker Dorsey, and Chris Elliott use complex LLCs in Baldwin County to hide a 50-year network of self-serving conflicts. These undisclosed ties enabled elected officials to vote in their own interest, impacting decisions like the 2016 Fly Creek PUD approval.
+    widget_date: "2017-01-18"
+    generated_at: "2026-11-09T04:28:12.400246Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-dont-know-jack:
+    brief: |-
+      THE CONFLICT: Ground lease for a commercial hangar on plat 2 at Fairhope Airport Authority was awarded on November 17, 2015, to Hix/Snedecker Companies DBA Mid-Bay Air,llc.
+      THE DISCOVERY: Jack Burrell, President of Fairhope City Council and an Airport Authority member, was part of the committee reviewing and recommending the Mid-Bay Air bid, which benefited Airport Authority Board member Ray Hix and Municipal Judge Mr Snedecker.
+      THE PIVOT: Article 2 establishes a pattern of ethical compromise, conflict of interest, and lack of transparency involving Council President Jack Burrell and the City/Airport Authority (2015), providing historical context that casts doubt on the integrity of the City Council's approval of the Fly Creek PUD Amendment and subsequent environmental damage (2016).
+      KEY ENTITIES: Jack Burrell, Corte, Fly Creek, Fairhope City Council, Vince Boothe, Ray Hix, Mr Snedecker, Mayor Wilson
+    llm_text: Jack Burrell, President of Fairhope City Council, recommended a hangar lease to Mid-Bay Air, benefiting Board member Ray Hix and Mr Snedecker. This pattern of ethical compromise casts serious doubt on the City Council's integrity regarding the Fly Creek PUD Amendment.
+    widget_date: "2016-11-25"
+    generated_at: "2026-11-09T04:29:28.322614Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  round-and-round-we-go:
+    brief: |-
+      THE CONFLICT:
+      1. Defendants Leaf River and Corte made representations to the City of Fairhope Planning Commission and City Council between January 2016 and April 2016 regarding the Fly Creek PUD Amendment.
+      2. Defendants misrepresented drainage plans, stating a sensitive non-point discharge system would be used, when they planned a point discharge system connecting to a deficient retention pond.
+      3. Defendants misrepresented compliance with Red Soil Ordinance #1423, claiming no red soil would be used on the entire site, when they planned to move red soil into critical areas within 100' of wetlands and Fly Creek.
+      4. The PUD Amendment was approved despite material non-disclosure; Fly Creek remains filled with red mud, the detention pond has failed, and a lawsuit has been settled and is pending.
+      5. Council President Burrell denied a request for the updated job description for Public Works Director to be added to the agenda.
+
+      THE DISCOVERY:
+      1. Baldwin County Commissioner Chris Elliott stated that the 13/48 intersection (Highway 13 and Fairhope Avenue) is partially in the city and partially in the county.
+      2. The area is governed by Extra Territorial Jurisdiction (ETJ), meaning the City of Fairhope issues building permits and has subdivision authority, regardless of county zoning.
+      3. The roundabout construction required property acquisition, and the owner of the remaining parcel operates gas stations in Baldwin County.
+
+      THE PIVOT:
+      1. Article 2 establishes the City of Fairhope’s regulatory power (ETJ) over development at major intersections, which is the same regulatory body involved in the PUD Amendment controversy detailed in Article 1.
+      2. The land use/developer entities mentioned in Article 1 (Leaf River and Corte) and the owner of the gas station parcel mentioned in Article 2 are both subjects of City of Fairhope permitting requirements and development controversies.
+
+      KEY ENTITIES:
+      1. Burrell (Council President)
+      2. Leaf River (Defendant)
+      3. Corte (Defendant)
+      4. City of Fairhope
+      5. Fly Creek
+      6. Baldwin County Commissioner Chris Elliott
+      7. Highway 13 and Fairhope Avenue (13/48)
+      8. Red Soil Ordinance #1423
+      9. Planning Commission
+      10. Mayor (newly elected, sympathetic to opposition)
+    llm_text: 'Leaf River and Corte misled Fairhope about Fly Creek drainage and violated Red Soil Ordinance #1423 during the PUD amendment. Discover how the City of Fairhope''s Extra Territorial Jurisdiction governs development at major intersections like 13/48.'
+    widget_date: "2016-09-16"
+    generated_at: "2026-11-09T04:24:45.188615Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-show-me-yours-and-i-will-show-you-mine-letter-that-is:
+    brief: |-
+      THE CONFLICT:
+      Mayor Kant and Senator Pittman faced ethical and legal scrutiny regarding the Fairhope BP Boom Grant and city contracts.
+      In the mid-90s and around 2005, Mayor Kant rejected the Dyas family's free land offer for a Performing Arts Center, favoring Mr. Cortes's request for a fire station adjacent to his proposed apartments.
+      Senator Pittman secured municipal contracts for emergency debris removal despite lacking a mandatory general contractor’s license.
+      Allegations of conflict of interest and improper bidding led to complaints filed with the Attorney General’s office and resulted in a Grand Jury investigation by the FBI.
+
+      THE DISCOVERY:
+      Article 2 revealed a pattern of political and judicial corruption involving Mayor Kant and Senator Pittman, specifically prioritizing personal/business gain over ethical standards and public interest in Fairhope.
+
+      THE PIVOT:
+      Article 2 establishes a historical context of ethical misconduct and the prioritization of private development interests (Cortes's needs) over public welfare in Fairhope, setting the stage for the later 2016 Fly Creek PUD Amendment approval, which was granted despite Defendants Corte and Leaf River knowing and misrepresenting severe environmental violations (Red Soil Ordinance #1423 and improper drainage discharge) to gain approval.
+
+      KEY ENTITIES:
+      Mayor Kant
+      Senator Pittman
+      Corte
+      Leaf River
+      Burrell (Council President)
+      Fly Creek
+      Ethics Commission
+      Matt Hart (Special Prosecutor)
+      Dyas family
+      Fairhope Planning Commission
+      Alabama Attorney’s Office
+      Red Soil Ordinance #1423
+    llm_text: Mayor Kant favored Cortes over the Dyas family, while Senator Pittman secured municipal contracts without a required license. These ethical lapses in Fairhope set the stage for later environmental misconduct, including the controversial Fly Creek PUD Amendment.
+    widget_date: "2016-08-17"
+    generated_at: "2026-11-09T04:30:41.027161Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

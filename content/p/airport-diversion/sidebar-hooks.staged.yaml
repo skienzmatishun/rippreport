@@ -1,0 +1,148 @@
+metadata:
+  generated_at: "2026-11-09T00:35:20.337997Z"
+  generator_version: 1.0.0
+  post_slug: airport-diversion
+  main_date: "2017-07-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  investigations:
+    brief: |-
+      THE CONFLICT: Council members Jack Burrell, Boone, and Robert Brown held illegal meetings (violating open meetings rules) to pressure for an investigation into Mayor Wilson and the city's financial mismanagement, including a $13 million sewer contract and an $11.25 million triangle lawsuit.
+
+      THE DISCOVERY: Article 2 revealed that Burrell, Boone, and Brown were actively working to remove Mayor Wilson and deflect attention from past administrative investigations involving over $50 million in city funds.
+
+      THE PIVOT: Article 2 establishes that Burrell's actions (like pressing for a minor invoice investigation) are not isolated political concerns but part of a long-standing effort by the "busy bees" to gain power and whitewash the corruption of the previous administration, thus providing context for his current ethics investigation (Article 1).
+
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Robert Brown, Boone, Ray Hix, Fairhope Airport, Deborah Smith, *The Courier* (Chucky Cheese)
+    llm_text: Jack Burrell, Boone, and Robert Brown held illegal meetings to pressure an investigation into Mayor Wilson’s $13 million sewer contract. Their actions aren't isolated; they are part of a long-standing power grab to whitewash over $50 million in previous city corruption.
+    widget_date: "2017-07-14"
+    generated_at: "2026-11-09T00:28:02.496848Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jester-clone-clown:
+    brief: |-
+      THE CONFLICT: Senator Tripp Pittman was appointed TRUSTEE of BP funds and plotted to skim $750,000 via a municipal contract awarded to his tractor company for marine boom installation; this led to an Ethics Complaint filed by MaxShelby.
+      THE DISCOVERY: Robert Brown's statements and letters mirrored those of the anonymous Jester 666, revealing close political alignment among Councilmen Brown, Boone, and Jack Burrell, who met immediately after a council meeting.
+      THE PIVOT: Article 2 establishes a pattern of political cronyism and misconduct involving Pittman, Burrell, and Brown, providing historical context for the ongoing ethics investigation against Jack Burrell and Ray Hix (Article 1), which Burrell is using the invoice inquiry (Elias Technologies/Deborah Smith) to deflect from.
+      KEY ENTITIES: Jack Burrell, Robert Brown, Ray Hix, Chucky Cheese, Pittman James, Hoss Mack, Kant, Boone, MaxShelby, Fairhope Airport, Elias Technologies, Deborah Smith.
+    llm_text: Senator Tripp Pittman plotted to skim $750,000 from BP funds using a contract for his tractor company. MaxShelby’s complaint reveals a pattern of cronyism involving Pittman, Jack Burrell, and Robert Brown, deepening the ethics investigation against Burrell and Ray Hix.
+    widget_date: "2017-07-12"
+    generated_at: "2026-11-09T00:30:09.954449Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-dont-know-jack:
+    brief: |-
+      THE CONFLICT:
+      *   September 21, 2015: Fairhope Airport Authority sent an RFP for a ground lease for a commercial hanger on plat 2.
+      *   October 13, 2015: RFP submittal deadline.
+      *   October 20, 2015: RFP opening.
+      *   November 17, 2015: Jack Burrell (Council President/Airport Authority member) and Vince Boothe (Airport Authority member) reviewed bids.
+      *   November 17, 2015: Ray Hix (Airport Authority Board member) recused himself before discussion, but later was awarded the bid along with Mr. Snedecker (Fairhope Municipal judge).
+      *   November 17, 2015: Jack Burrell motioned to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air, LLC, subject to approval by the State Ethics Commission.
+      *   December 17, 2015: Memorandum of lease was recorded for a 30-year ground lease.
+
+      THE DISCOVERY:
+      *   The bid process involved clear conflicts of interest (Burrell on Council and Airport Authority; Hix and Burrell associates on the board/committee).
+      *   Hix did not fully comply with ethical requirements by only recusing himself from the board, not resigning to pursue a business interest.
+      *   The lease was recorded as a simple memorandum, not a full lease/operating agreement.
+
+      THE PIVOT:
+      *   Article 2 established the foundational conflict of interest and ethical violations (2015) involving Jack Burrell and Ray Hix.
+      *   Article 1 confirms that an ethics complaint against Jack Burrell and Ray Hix was "ruled baseless" but notes the investigation is ongoing, suggesting the historical issues from Article 2 are fueling current scrutiny (e.g., the focus on invoices/computer work).
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President, Airport Authority Board)
+      *   Ray Hix (Airport Authority Board member)
+      *   Vince Boothe (Airport Authority member)
+      *   Mr. Snedecker (Fairhope Municipal judge)
+      *   Fairhope Airport Authority
+      *   City of Fairhope
+      *   Mayor Wilson
+      *   Ethics Commission
+      *   Deborah Smith (former City of Fairhope employee)
+      *   Hix/Snedecker Companies DBA Mid-Bay Air, LLC
+    llm_text: Jack Burrell and Ray Hix steered a 2015 Fairhope Airport Authority ground lease to Mid-Bay Air, LLC amid clear conflicts of interest. Discover how this ethically flawed 30-year deal continues to fuel current scrutiny despite a "baseless" ethics ruling.
+    widget_date: "2016-11-25"
+    generated_at: "2026-11-09T00:31:12.530100Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mimes-whitewashing:
+    brief: |-
+      THE CONFLICT: Mayor Karin Wilson filed an ethics complaint (and at least 4 other complaints) against Council President Jack Burrell.
+      THE CONFLICT: Council members Boone and Robert Brown obstructed the mayor, denying her request for $15,000 legal services (Satterwhite & Associates) on or around June 9, 2017.
+      THE DISCOVERY: Council acted to bury a $100,000 lawsuit brought by a former employee in executive session, violating due process.
+      THE DISCOVERY: Ripp Report sued the City of Fairhope twice over planning/zoning issues, costing the city over $300,000.
+      THE PIVOT: Article 2 established the Council’s pattern of obstruction and "whitewashing" against Mayor Wilson; Article 1 shows this pattern continues as Councilman Brown dismisses the ongoing ethics investigation against Burrell and Mr. Ray Hix, while Burrell attempts to divert public attention to unrelated invoices to deflect from the pending investigation.
+      KEY ENTITIES: Jack Burrell, Karin Wilson, Robert Brown, Mr. Ray Hix, Chucky Cheese, Deborah Smith, Boone, Fairhope Airport, City of Fairhope, Satterwhite & Associates.
+    llm_text: Mayor Karin Wilson challenges Council President Jack Burrell and Robert Brown over ethics complaints and denied $15,000 legal services. The Council continues to obstruct investigations and bury lawsuits, demonstrating a pattern of "whitewashing" the City of Fairhope.
+    widget_date: "2017-07-05"
+    generated_at: "2026-11-09T00:32:22.634994Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  misery-loves-company:
+    brief: |-
+      THE CONFLICT: Ethics complaint against Council President Jack Burrell and Airport board member Mr. Ray Hix; unchecked development in Daphne (Daphmont neighborhood at Johnson road/Highway 98) negatively impacting residents.
+      THE DISCOVERY: Article 2 reveals a pattern where local government (mayor/council/planning and zoning) allows developers full rein, prioritizing large-scale development (Fly Creek Apartments, service station) over resident quality of life and traffic management.
+      THE PIVOT: Article 2 establishes a historical pattern of local governance (Fairhope/Daphne) favoring development interests and ignoring resident concerns, providing context for the accountability failures, ethics investigations, and scrutiny of city contracts (invoices/Elias Technologies) detailed in Article 1.
+      KEY ENTITIES: Jack Burrell, Mr. Ray Hix, Robert Brown, Chucky Cheese, Deborah Smith, Daphne, Fairhope, Elias Technologies, Daphmont neighborhood.
+    llm_text: Council President Jack Burrell and Ray Hix face ethics complaints over unchecked Daphne development harming Daphmont residents. Local government consistently prioritizes developers like those building Fly Creek Apartments over resident quality of life.
+    widget_date: "2017-06-22"
+    generated_at: "2026-11-09T00:33:40.144402Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boycott-the-gas-station-on-the-new-roundabout:
+    brief: |-
+      THE CONFLICT:
+      *   Gas station placement on a safety roundabout on Fairhope Avenue and 13 was approved during the previous administration.
+      *   This included a unanimous approval of a $40,000 handshake deal by the previous Fairhope City Council.
+      *   Key actors included Jack "Come Fly With Me" Burrell, Mayor Kant, County Commissioner Elliott, and Trip Pittman.
+
+      THE DISCOVERY:
+      *   Article 2 revealed the prioritization of the "Jack Burrell Come Fly With Me Municipal Airport" (serving less than 1% of the community) over local schools, which receive less appropriation funding despite being overcrowded.
+      *   Article 2 detailed a perceived "Good Ole Boy Network" facilitating development despite Burrell's denials.
+
+      THE PIVOT:
+      *   Article 2 provides historical context proving Jack Burrell's established pattern of prioritizing private/developer interests (airport, gas station, $40k deal) over public welfare (schools, safety).
+      *   This pattern supports the suspicion in Article 1 that Burrell is using airport invoice investigations to deflect attention from his ongoing ethics complaint.
+
+      KEY ENTITIES:
+      *   Jack Burrell ("Come Fly With Me")
+      *   Robert Brown
+      *   Ray Hix
+      *   Chris Elliott
+      *   Kant
+      *   Trip Pittman
+      *   Deborah Smith
+      *   Fairhope Airport
+      *   Ethics Commission
+      *   "Chucky" (The Courier)
+    llm_text: Jack "Come Fly With Me" Burrell prioritized a tiny Fairhope Airport over overcrowded local schools, even approving a $40k gas station deal on Fairhope Ave with Kant, Elliott, and Pittman. Read how Burrell's pattern proves he favors private interests over public safety.
+    widget_date: "2017-05-24"
+    generated_at: "2026-11-09T00:28:59.147834Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  economic-development-baldwin-county-style:
+    brief: |-
+      THE CONFLICT:
+      *   2012: Baldwin County Commission approved spending $32 Million on 2300-acre Mega site.
+      *   Recent: City council approved an old, undocumented invoice of $32,000.
+      *   Ongoing: Ethics complaint against Council President Jack Burrell and Airport board member Ray Hix is under investigation (though Councilman Brown stated it was "ruled baseless").
+      *   Burrell previously cut economic and community development funding to less than the undocumented $32,000 bill amount.
+
+      THE DISCOVERY:
+      *   Article 2 revealed in 2012 that the $32 Million Mega site remained vacant with no serious buyers, indicating questionable use of public funds.
+
+      THE PIVOT:
+      *   Article 2 establishes Jack Burrell's long-standing pattern of controversial economic development decisions, including leveraging credit for the Fairhope Airport 1% plan while managing undocumented and questionable city financial transactions, providing historical context for the current ethics investigation into invoices.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Ray Hix (Airport board member)
+      *   Councilman Brown
+      *   Deborah Smith (City of Fairhope resignation)
+      *   Chucky Cheese (Editor, *The Courier*)
+      *   Fairhope Airport
+      *   Baldwin County Commission
+      *   Elias Technologies
+      *   Robert Brown
+      *   Wilson
+      *   $32 Million (2012 Mega site cost)
+      *   $32,000 (Undocumented invoice)
+    llm_text: Council President Jack Burrell faces an ethics investigation over a recent $32,000 undocumented invoice. This follows the original $32 Million Mega site approval, exposing a long pattern of controversial spending in Fairhope.
+    widget_date: "2017-05-17"
+    generated_at: "2026-11-09T00:34:57.562928Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

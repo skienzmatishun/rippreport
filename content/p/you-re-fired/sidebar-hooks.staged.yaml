@@ -1,0 +1,83 @@
+metadata:
+  generated_at: "2026-11-09T10:42:49.339430Z"
+  generator_version: 1.0.0
+  post_slug: you-re-fired
+  main_date: "2016-07-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments:
+    brief: |-
+      THE CONFLICT:
+      * October 2010: Alabama Ethics Commission issued a 4-0 advisory opinion stating Commissioner Tucker Dorsey should not participate in issues related to BCSS due to Burke's employment (conflict of interest).
+      * July 29, 2016: A complaint was filed stating Commissioner Dorsey did not heed the unanimous Ethics Commission advice.
+
+      THE DISCOVERY:
+      * Friends of Fly Creek filed a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River Group LLC over Fly Creek Apartments in June.
+      * The Court denied the defendants' motion to dismiss, allowing the lawsuit to proceed into discovery.
+      * George Robards, a contributor to the Mayor and Planning and Zoning, was a key defender of the original zoning for Leaf River Group LLC.
+      * Leaf River Group has one year to begin construction, after which zoning may be reversed to NO APARTMENTS.
+
+      THE PIVOT:
+      * Both articles detail public officials (Dorsey/Robards) making decisions tied to private financial interests (BCSS/Leaf River Group) despite formal ethical warnings (Ethics Commission opinion/Court ruling favoring citizens).
+      * The Fly Creek lawsuit demonstrates citizen legal action challenging municipal decisions that prioritized developers over public interest, paralleling the conflict of interest issue faced by Dorsey.
+
+      KEY ENTITIES:
+      * Tucker Dorsey
+      * BCSS
+      * Burke
+      * Alabama Ethics Commission
+      * Eric Mann
+      * Lagniappe
+      * Fairhope
+      * Fly Creek
+      * George Robards
+      * Leaf River Group LLC
+      * City of Fairhope
+      * Planning and Zoning Board
+    llm_text: Tucker Dorsey ignored ethics warnings about BCSS, while George Robards defended Leaf River Group in Fairhope. Citizens are now suing the City of Fairhope over Fly Creek Apartments, demanding decisions prioritize the public over private developers.
+    widget_date: "2016-07-27"
+    generated_at: "2026-11-09T10:39:56.335584Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elected-or-selected:
+    brief: |-
+      THE CONFLICT: Jim Nix forced out a former Mayor and SELECTED Tim Kant to become Mayor in 2000, despite Kant being hired in 1983. In 2010, the Alabama Ethics Commission ruled 4-0 that Tucker Dorsey, as a Baldwin County Commission member, should not vote on matters related to business dealings with BCSS due to a conflict of interest.
+
+      THE DISCOVERY: The Widget Article reveals systemic corruption in Fairhope, Baldwin County, including Mayor Kant being a paid Mayor and pad utility director, improper municipal leases ($5000/year for 15 years), and political maneuvering (Nix selecting Kant).
+
+      THE PIVOT: The Widget Article establishes a historical pattern of local political corruption and poor governance within Baldwin County, providing context for the Ethics Commission's investigation (referenced in the Main Article) into the conduct of public officials like Tucker Dorsey.
+
+      KEY ENTITIES: Donald Trump, Tucker Dorsey, Alabama Ethics Commission, Eric Mann, Lagniappe, Tim Kant, Jim Nix, Mike Ford, Sherry Sullivan, Arthor Corte, BCSS, Baldwin County Commission, Fairhope.
+    llm_text: Systemic corruption plagues Fairhope, where Jim Nix selected Tim Kant as a paid Mayor. This history of poor governance fuels the Alabama Ethics Commission's probe into Tucker Dorsey and other Baldwin County officials.
+    widget_date: "2016-07-22"
+    generated_at: "2026-11-09T10:42:22.218019Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dear-congressman-bradley-byrne:
+    brief: |-
+      THE CONFLICT:
+      *   Past incidents documented by The Ripp Report include the $636,000 BP fund abuse involving Sen. Pittman and Mayor Kant, leading to FBI investigation and referral to the Alabama Attorney General.
+      *   A settled triangle lawsuit in Fairhope cost taxpayers $11.25 million, reportedly omitted public participation by the Mayor.
+      *   Fly Creek damage was caused by the Publix project development, not "historic flooding," with sediment analysis documenting the source.
+
+      THE DISCOVERY:
+      *   The Ripp Report, a nonprofit, was formed to expose political and judicial corruption in Baldwin County, targeting Fly Creek, Fairhope, and judicial issues (Judge Thomason).
+      *   The report identified Arthur Corte and Mayor Kant as responsible parties for the Fly Creek damage and ongoing collusion.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of local political and judicial corruption (e.g., $11.25M lawsuit, BP fraud, Fly Creek disregard for public opposition) in Baldwin County, providing the context for the specific ethics conflict detailed in Article 1.
+      *   Article 1 (July 29, 2016) details Commissioner Tucker Dorsey failing to heed a 4-0 advisory opinion from the Alabama Ethics Commission (October 2010) regarding a conflict of interest related to BCSS.
+
+      KEY ENTITIES:
+      *   Donald Trump
+      *   Tucker Dorsey
+      *   Alabama Ethics Commission
+      *   Francis Paul Ripp / The Ripp Report
+      *   Congressman Bradley Byrne
+      *   Arthur Corte
+      *   Mayor Kant
+      *   BCSS
+      *   Publix project
+      *   Baldwin County Commission
+    llm_text: Mayor Kant oversaw $11.25M taxpayer costs and BP fund abuse in Baldwin County, along with Arthur Corte. Did Tucker Dorsey ignore the Alabama Ethics Commission's 2010 ruling on BCSS, showing a pattern of local corruption?
+    widget_date: "2016-06-03"
+    generated_at: "2026-11-09T10:41:03.871050Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

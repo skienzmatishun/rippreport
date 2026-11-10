@@ -1,0 +1,96 @@
+metadata:
+  generated_at: "2026-11-09T11:11:38.579071Z"
+  generator_version: 1.0.0
+  post_slug: there-are-more-of-us-than-them
+  main_date: "2016-06-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  investigative-reporting:
+    brief: |-
+      THE CONFLICT:
+      *   BP Fraud involving Mayor Kant and Senator Pittman.
+      *   Connie Baggett reported the fraud on November 20, 2010 (al.com).
+      *   The FBI investigation led to the Alabama Attorney General special council, Matt Hart.
+      *   Mike Hubbard, former Speaker of the House, was subsequently convicted.
+      *   Newly elected commissioners Dorsey and James retaliated by firing whistle-blowers (EMA Director, county manager, attorneys).
+
+      THE DISCOVERY:
+      *   The initial BP Fraud and its subsequent investigation were publicly revealed in November 2010.
+      *   The retaliation against whistle-blowers by commissioners Dorsey and James occurred following the initial exposure.
+
+      THE PIVOT:
+      *   Article 2 provides the historical context for the "Pittman Kant BP fraud" referenced in Article 1.
+      *   Article 2 establishes that the current systemic corruption in Baldwin County (Article 1) originated with a major, investigated financial crime and was followed by political retaliation that destroyed government infrastructure.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Senator Pittman
+      *   Connie Baggett
+      *   Tucker Dorsey
+      *   Bob James
+      *   Mike Hubbard
+      *   Matt Hart
+      *   Jennifer Fiddler
+      *   Sherry Sullivan
+      *   Fly Creek
+      *   Rock Creek
+      *   Quail Creek Golf Course
+    llm_text: Connie Baggett exposed the BP Fraud involving Mayor Kant and Senator Pittman back in 2010. Commissioners Dorsey and James didn't stop there; they retaliated against whistleblowers, destroying Baldwin County's government infrastructure.
+    widget_date: "2016-06-21"
+    generated_at: "2026-11-09T11:08:54.366569Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  political-intimidation:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Pittman was the trustee of BP funds for Baldwin County.
+      *   Mayor Kant personally paid Senator Pittman $636,000 from BP funds.
+      *   Mike Hubbard was convicted (Alabama context).
+      *   Fly Creek Apartments development included connectivity (roads, trails, bridges) into Woodlands, Plantation Pines, Rock Creek, and Sandy Ford.
+      *   The city purchased the soccer complex property for close to $1 million and spent $1.5 million leveling it.
+      *   Jim Nix passed the "hand-me-down government" to Mayor Kant.
+
+      THE DISCOVERY:
+      *   Mayor Kant's control is rooted in a "good ole boy" structure (e.g., Jim Nix), not democratic election results.
+      *   Mayor Kant has been involved in BP fraud alongside Senator Pittman.
+      *   The Fly Creek development is identified as a developer/Kant plan, not a community village plan.
+      *   Mayor Kant raised over $50,000 for his election, with over 50% from non-Fairhope donors/PACs.
+
+      THE PIVOT:
+      *   Article 2 establishes the institutional link (Pittman/Kant, Nix/Kant) and the specific financial crimes (BP fraud, Fly Creek deals) that Article 1 references generally as "blatant corruption."
+      *   Article 2 proves that the alleged corruption is not recent but a long-standing "hand-me-down government" structure.
+      *   Article 1's calls for change (voting out the mayor) are grounded in the historical evidence of political manipulation and fraud detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Senator Pittman
+      *   Sherry Sullivan
+      *   Jennifer Fiddler
+      *   Jim Nix
+      *   Jay Robinson
+      *   Max Shelby
+      *   Mike Hubbard
+      *   Tucker Dorsey
+      *   Elliot
+      *   Fairhope
+      *   Fly Creek Apartments
+      *   Baldwin County
+      *   Rock Creek
+      *   Woodlands
+      *   Plantation Pines
+      *   Sandy Ford
+      *   Quail Creek Golf Course
+      *   Single Tax Corporation
+    llm_text: Mayor Kant personally paid Senator Pittman $636,000 from BP funds, proving his control stems from a "good ole boy" system, not elections. The Fly Creek Apartments development reveals how this long-standing corruption shapes Fairhope.
+    widget_date: "2016-06-17"
+    generated_at: "2026-11-09T11:10:11.451430Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on-mayor-kant-hubbard-goes-down-youre-next:
+    brief: |-
+      THE CONFLICT: Over 10 years ago, The Ripp Report was established due to a lack of honest information from Fairhope city hall, specifically regarding Mayor Kant, leading to ongoing concerns about political and judicial corruption in Baldwin County.
+      THE DISCOVERY: The founding of The Ripp Report, self-funded by approximately $15,000, revealed that Mayor Kant was considered the worst public official in Baldwin County, and there were suspicions that the last two Fairhope election results were tampered with.
+      THE PIVOT: Article 2 provides the historical foundation, demonstrating that the concerns regarding Mayor Kant's corruption in Fairhope are not new, but a long-running investigative focus of The Ripp Report, lending credibility to the current allegations (e.g., BP Grant fraud, sewer system issues, unauthorized trips) detailed in Article 1.
+      KEY ENTITIES: Mayor Kant, Fairhope, The Ripp Report, Baldwin County, Jennifer Fiddler, Sherry Sullivan, Tucker Dorsey, Elliot, Bob James, Roy Moore.
+    llm_text: The Ripp Report first exposed Mayor Kant's corruption in Fairhope over a decade ago, revealing suspicions of tampered elections in Baldwin County. Our long-running investigation proves current issues—from BP Grant fraud to sewer problems—are not new concerns.
+    widget_date: "2016-06-11"
+    generated_at: "2026-11-09T11:11:19.937065Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

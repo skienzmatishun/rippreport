@@ -1,0 +1,53 @@
+metadata:
+  generated_at: "2026-11-09T12:35:50.666416Z"
+  generator_version: 1.0.0
+  post_slug: no-confidence-no-new-taxes
+  main_date: "2015-03-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fly-creek-erosion-and-hidden-development-threats:
+    brief: |-
+      THE CONFLICT:
+      *   40 years: Owners of the Triangle property were denied all proposed city projects.
+      *   2011: Complaint filed against Mayor Kant and Senator Pittman for grant fraud related to BP funds.
+      *   2013 (March): Mayor Kant commissioned a $30,000 study by Thompson Engineering for the Fly Creek Watershed Restoration Project.
+      *   Settlement: The Triangle lawsuit settlement cost $12 million and was conducted without public participation.
+
+      THE DISCOVERY:
+      *   Fly Creek (behind Publix) has severe erosion, with banks collapsing over 20 feet.
+      *   A $14,700,000 project (Mobile Bay Preservation and Restoration) was proposed to protect against development, which includes 275 apartments and 15 townhomes on 40 acres within the Fly Creek watershed.
+      *   Arthur Corte, a non-resident landowner, influenced the shift of the Publix development from the Triangle to his property.
+      *   The fire station location is confirmed to be for the developer’s benefit, including reduced insurance rates.
+
+      THE PIVOT:
+      *   Article 2 establishes a 40-year pattern of the city (under Mayor Kant/Council) denying public input and favoring developers (Corte) over community/environmental needs (Fly Creek erosion).
+      *   Article 1 demonstrates the continuation of this pattern: The Mayor and Council are pushing a fire station (a clear comprehensive plan violation) and providing free infrastructure upgrades (sewer, lift station, water main) to the same developer, while simultaneously planning new taxes without public input.
+      *   The $12 million secret settlement noted in both articles confirms the Council's historical refusal to include citizens in major decisions.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Arthur Corte
+      *   Fairhope City Council
+      *   Publix
+      *   Triangle
+      *   Parker Road
+      *   Fly Creek
+      *   Thompson Engineering
+      *   $500,000 (fire station cost)
+      *   $12 million (lawsuit settlement cost)
+      *   $14,700,000 (watershed project cost)
+      *   December 27, 2014
+    llm_text: Mayor Kant and the Fairhope City Council denied public input for 40 years, settling the Triangle lawsuit for $12 million. Now, they push a $14.7M Fly Creek project favoring Arthur Corte's development over protecting the severely eroding Fly Creek.
+    widget_date: "2015-03-12"
+    generated_at: "2026-11-09T12:34:25.696014Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-ian-smith-va-claims:
+    brief: |-
+      THE CONFLICT: Francis Paul Ripp filed a claim in 1969 regarding VA claims and benefits; he filed a "clear and unmistakable error" claim on August 1, 2007, leading to a settlement in October 2010, yet the claim lingered in remand for 46+ years (as of Feb 2015).
+      THE DISCOVERY: Article 2 revealed that VA staff, specifically at VA Montgomery AL., avoids taking responsibility for settling claims because it would negatively affect their employment status or merit raises, leading to thousands of veterans being in limbo.
+      THE PIVOT: The systemic governmental failure of lack of accountability and self-protection revealed in Article 2 (VA) mirrors the political self-interest and lack of public transparency demonstrated by the Mayor of Fairhope and City Council (Article 1), who prioritized a developer's needs (fire station location, free sewer/water upgrades) over taxpayer input and public good, resulting in wasted millions (e.g., $12 million in the triangle lawsuit settlement).
+      KEY ENTITIES: Francis Paul Ripp; Ian Smith; VA Montgomery AL.; Mayor of Fairhope; City Council; $500,000; 1969; February 19, 2015; $12 million.
+    llm_text: Francis Paul Ripp waited over 46 years for his VA claim to settle because VA Montgomery AL. staff feared losing raises. This institutional self-protection mirrors Mayor of Fairhope’s decisions, which prioritized developers over taxpayers and wasted millions, including the $12 million triangle lawsuit settlement.
+    widget_date: "2015-02-19"
+    generated_at: "2026-11-09T12:35:35.094153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

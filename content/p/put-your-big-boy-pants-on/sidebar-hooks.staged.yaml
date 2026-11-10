@@ -1,0 +1,121 @@
+metadata:
+  generated_at: "2026-11-09T11:33:20.293543Z"
+  generator_version: 1.0.0
+  post_slug: put-your-big-boy-pants-on
+  main_date: "2016-05-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  freaky-friday-freaky-town:
+    brief: |-
+      THE CONFLICT: Fairhope municipal corruption involving Mayor Tim Kant, Councilmen Boone and Mueller (zoning for $2.5 million) reported in Widget Article.
+      THE DISCOVERY: Widget Article reported on the Mobile Area Council of the Boy Scouts of America, citing gross misappropriations and dereliction of fiduciary responsibility.
+      THE PIVOT: Widget Article established the historical context of financial mismanagement within the Mobile Area Council of the Boy Scouts, which Article 1 uses to question Tucker Dorsey’s ability to manage his duties as a Board Member and Baldwin County Commissioner.
+      KEY ENTITIES: Francis Paul Ripp, Tucker Dorsey, Sen. Pittman, Rep. Davis, Frank Burt, Mayor Tim Kant, Diana Brewer, Boone, Mueller, Judge Thomason, Attorney Steven Johnson, Mobile Area Council of the Boy Scouts.
+    llm_text: Mayor Tim Kant and Councilmen Boone and Mueller faced $2.5 million zoning corruption in Fairhope. We examine Mobile Area Council financial mismanagement to question Tucker Dorsey's financial integrity as a Board Member and Baldwin County Commissioner.
+    widget_date: "2016-04-14"
+    generated_at: "2026-11-09T11:29:07.712639Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stark-reality:
+    brief: |-
+      THE CONFLICT:
+      *   Governor Robert Bentley's communications with his director led to public embarrassment and potential interference in the investigation of Speaker Mike Hubbard (facing 23 felony counts on April 11).
+      *   State Senator Tripp Pittman secured a $636,000 municipal contract with Fairhope using BP funds, leading to an FBI investigation later handled by the Attorney General's office in Montgomery.
+      *   Baldwin County's Family Court system was described as corrupt, focused on money rather than children.
+      *   The Mobile Area Council of Boy Scouts was reportedly draining resources, an issue flagged by Eagle Scouts.
+
+      THE DISCOVERY:
+      *   Alabama and Baldwin County were identified as highly corrupt states/counties, with the judicial system and local municipal governments being major points of failure.
+      *   The Boy Scouts of Mobile, a member of Baldwin County, was shown to be financially mismanaging resources, mirroring issues seen in Wounded Warriors.
+      *   The Fly Creek Apartments approval in Fairhope was presented as a classic "good ole boy deal" driven by Mayor Timothy Kant and benefiting major donors (Mr. Corte).
+
+      THE PIVOT:
+      *   Article 2 establishes the historical precedent and systemic nature of corruption in Baldwin County (e.g., Pittman's contract, Boy Scouts financial drain), proving that the local issues cited in Article 1 (e.g., Pittman's contracts, Boy Scouts mismanagement) are part of a wider, long-standing political pattern ("Lynn Stacy political playbook").
+      *   Article 2 provides the foundational context for the ethical dilemmas discussed in Article 1 (e.g., the effectiveness of the Ethics Commission in the face of entrenched political interests).
+
+      KEY ENTITIES:
+      *   Robert Bentley (Governor)
+      *   Mike Hubbard (Speaker of the House)
+      *   Tripp Pittman (State Senator)
+      *   Governor Bentley's communications director
+      *   Timothy Kant (Mayor of Fairhope)
+      *   Mr. Corte (Landowner/Benefactor)
+      *   Tucker Dorsey (Baldwin County Commissioner)
+      *   Chris Miller (Acting Director, South Alabama Regional Planning Commission)
+      *   Frank Burt
+      *   Paul Ripp (Francis Paul Ripp)
+      *   Baldwin County
+      *   Fairhope
+      *   Mobile Area Council of Boy Scouts
+      *   South Alabama Regional Planning Commission (SARPC)
+    llm_text: Tripp Pittman secured a $636,000 BP contract in Fairhope, while Speaker Mike Hubbard faces 23 felony counts. Discover how Mayor Timothy Kant and Mr. Corte drive a long-standing, systemic corruption across Baldwin County.
+    widget_date: "2016-03-25"
+    generated_at: "2026-11-09T11:30:12.503438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  primary-election-endorsements-2014:
+    brief: |-
+      THE CONFLICT:
+      *   BP Boom Scandal occurred in Fairhope, involving Senator Pittman and Mayor Kant.
+      *   Pittman and Dorsey (Tucker Dorsey) orchestrated the firing of Emergency Management Director Leigh Ann Ryals, county administrator Michael Thompson, and legal department staff Scott Barnett.
+      *   This was done to cover up the theft of the BP boom grant.
+      *   Article 2 dated around June 3, 2014, highlighted rampant political corruption and Pittman's misuse of the emergency debris removal contract.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Pittman and Kant were actively being investigated by the Alabama Ethics Commission regarding the BP grant theft.
+      *   Article 2 identified Tucker Dorsey, Bob James, and Senator Pittman as part of the "Sicko Six," utilizing public contracts for private financial gain.
+
+      THE PIVOT:
+      *   Article 2 established the historical pattern of Pittman and Dorsey using political power to bypass ethics and cover up financial crimes (BP Boom Scandal, firing staff).
+      *   This history contextualizes Article 1's current scrutiny of Dorsey's conflicts: awaiting Ethics Commission approval for the interim SARPC director role, involvement in the 30 million dollar mega site/pay freeze (2012, required by Frank Burt), and financial mismanagement at the Mobile Area Council of Boy Scouts.
+
+      KEY ENTITIES:
+      *   Tucker Dorsey (Baldwin County Commissioner)
+      *   Senator Pittman (Slippery Trip)
+      *   Mayor Tim Kant
+      *   Bob James
+      *   Leigh Ann Ryals (Emergency Management Director)
+      *   Michael Thompson (County Administrator)
+      *   Scott Barnett (Legal Department)
+      *   Chris Miller (SARPC acting director)
+      *   Frank Burt
+      *   Lynn Stacy
+      *   South Alabama Regional Planning Commission (SARPC)
+      *   Alabama Ethics Commission
+      *   Baldwin County
+    llm_text: Senator Pittman and Mayor Kant orchestrated the BP Boom scandal, firing staff like Leigh Ann Ryals to cover up grant theft. Today, Tucker Dorsey faces Ethics Commission scrutiny over the SARPC director role and major financial mismanagement.
+    widget_date: "2014-05-24"
+    generated_at: "2026-11-09T11:31:31.886533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  two-for-tuesday-two-hat-turner:
+    brief: |-
+      THE CONFLICT:
+      1. 30 million dollar mega site financed by county pay freeze in 2012, supported by Tucker Dorsey.
+      2. Primary results from June 3, 2014, confirming the power structure prescribed by Lynn Stacy.
+      3. Senator Lee Pittman introduced unconstitutional legislation regarding sheriff qualifications and authored the Accountability Act.
+      4. Lee "Two Hats" Turner held simultaneous positions on the Fairhope Planning Commission and Fairhope Single Tax, allegedly limiting public participation.
+
+      THE DISCOVERY:
+      1. In 2014, the power structure dictated by Lynn Stacy remained intact within Baldwin County.
+      2. Mayors of Orange Beach, Gulf Shores, and Fairhope endorsed the sitting Baldwin County commissioners.
+      3. Tucker Dorsey held a coveted position on the state republican executive committee in 2014.
+
+      THE PIVOT:
+      1. The 2014 political landscape (A2) established the systemic influence of Lynn Stacy, Mayor Kant, and Senator Pittman, confirming the entrenched political machine referenced in the later critique (A1).
+      2. A2 provided the historical context for the "Lynn Stacy political playbook" cited by Francis Paul Ripp in A1.
+      3. A2 showed the pre-existing pattern of conflicts of interest (e.g., Lee Turner's dual roles) which informed the later scrutiny of Tucker Dorsey's multiple, conflicting roles.
+
+      KEY ENTITIES:
+      1. Tucker Dorsey
+      2. Lynn Stacy
+      3. Senator Lee Pittman
+      4. Lee "Two Hats" Turner
+      5. Francis Paul Ripp
+      6. Baldwin County
+      7. Fairhope
+      8. South Alabama Regional Planning Commission (SARPC)
+      9. Tim Kant
+      10. Orange Beach
+      11. Gulf Shores
+    llm_text: Lynn Stacy's power structure held firm in 2014, despite a $30 million mega site financed by a county pay freeze. Tucker Dorsey and Senator Lee Pittman cemented this entrenched machine, confirming the influence Francis Paul Ripp warned about in Baldwin County.
+    widget_date: "2014-06-10"
+    generated_at: "2026-11-09T11:32:55.916948Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,129 @@
+metadata:
+  generated_at: "2026-11-09T01:05:15.633237Z"
+  generator_version: 1.0.0
+  post_slug: hate
+  main_date: "2017-07-07"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  mimes-whitewashing:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Karin Wilson faced an ethics investigation and accusations of installing spyware (targeted on 7 computers) beginning around June 2, 2017.
+      *   Council members obstructed the Mayor’s efforts regarding legal defense and settlements against the city.
+      *   "Come fly with me" Burrell was involved in an ethics investigation.
+
+      THE DISCOVERY:
+      *   On or around June 9, 2017, the City Council unanimously denied the Mayor's request for $15,000 for professional legal services and mediation (Resolution PS033-17).
+      *   The Council approved over $500,000 for council agenda items.
+      *   The Council attempted to settle a $100,000 employee lawsuit in executive session without the Mayor's knowledge.
+
+      THE PIVOT:
+      *   Article 1 established the Mayor was under investigation and facing political obstruction (Jester 666 posts, June 2–July 2, 2017).
+      *   Article 2 provides concrete proof (unanimous denial of $15,000, approval of $500,000, secret lawsuit settlement) that the Council was actively obstructing the Mayor's legal and administrative functions, validating the claims of interference made in the earlier posts.
+
+      KEY ENTITIES:
+      *   Mayor Karin Wilson (QKFF)
+      *   Robert Brown (Councilman)
+      *   Tut Wynne (City Attorney)
+      *   Burrell ("come fly with me")
+      *   Boone
+      *   Jack (Council President/Airport Authority liaison)
+      *   Satterwhite & Associates
+      *   Fairhope City Council
+      *   Jester 666
+      *   $15,000 (Mayor's requested legal limit)
+      *   $500,000 (Council approved agenda items)
+      *   $100,000 (Employee lawsuit)
+      *   June 2, 2017
+      *   June 9, 2017
+    llm_text: On June 9, 2017, the Fairhope City Council unanimously denied Mayor Karin Wilson $15,000 for legal aid while approving $500,000 for agenda items. This secret $100,000 employee lawsuit settlement proves the Council actively obstructed her administrative functions.
+    widget_date: "2017-07-05"
+    generated_at: "2026-11-09T00:55:15.501584Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot:
+    brief: |-
+      THE CONFLICT: Ethics investigation regarding “come fly with me” Burrell. The city council refused to mediate a legal impasse for the mayor.
+      THE DISCOVERY: The Fairhope Airport Authority approved funds for “come fly with me” Jack to hire an attorney, despite the council's refusal to support the mayor's mediation effort. The Airport has reportedly cost the city millions while school investment is low.
+      THE PIVOT: Article 2 establishes the specific incident (Burrell's ethics investigation and Jack's funded legal representation) that Article 1 cites as the Council's definition of "FAIRNESS" used to criticize Mayor Wilson's handling of legal disputes.
+      KEY ENTITIES: Mayor Wilson, Robert Brown (Councilman), Burrell (“come fly with me”), Jack, Fairhope Airport Authority, Council, Tut Wynne, JESTER 666
+    llm_text: Mayor Wilson defines "FAIRNESS" one way, but the Fairhope Airport Authority funded legal help for Burrell ("come fly with me"). This decision costs the city millions while schools struggle, revealing a critical failure of local governance.
+    widget_date: "2017-06-28"
+    generated_at: "2026-11-09T00:58:20.988660Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-alive-and-well:
+    brief: |-
+      THE CONFLICT: Previous Fairhope City Council under Tim Kant exhibited political obstruction (e.g., overruling Mayor's veto on Ordinance 1572, Fly Creek PUD) and administrative failure (e.g., mishandling the sewer lift station deed, Resolution 2606-16, recorded Oct 21st, reviewed Oct 24th).
+      THE DISCOVERY: The prior administration utilized political influence (Burrell, Boone, Brown) to block mayoral appointments to the Fairhope Airport authority and reduce funding for the Economic and Community Development position (filled by Sherry-Lea Bloodworth-Botop).
+      THE PIVOT: The historical pattern of council obstruction and political maneuvering (e.g., Burrell's role in the "come fly with me" ethics investigation) establishes the context for the current council's refusal to allow Mayor Wilson mediation, leading to the ongoing political impasse and threat of lawsuit against Mayor Wilson.
+      KEY ENTITIES: Tim Kant, Jack Burrell, Boone, Marion Wynne, Robert Brown, Mayor Wilson (QKFF), Tut Wynne, Sherry-Lea Bloodworth-Botop, Angelo A. Corte, JESTER 666, Fairhope Airport, Fly Creek PUD, Ordinance 1572, Resolution 2606-16.
+    llm_text: Tim Kant’s council previously blocked Ordinance 1572 and the Fly Creek PUD through political obstruction. This history of maneuvering, including Jack Burrell's involvement, explains why the current council now refuses Mayor Wilson's mediation, threatening a lawsuit.
+    widget_date: "2017-04-26"
+    generated_at: "2026-11-09T01:00:08.974908Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  tale-of-two-cities:
+    brief: |-
+      THE CONFLICT: Mayor Wilson and Fairhope City Council are experiencing a political impasse involving accusations of hate, sexism, and corruption.
+      THE CONFLICT: The mayor faced an ethics investigation regarding "come fly with me" Burrell, leading to the airport authority funding an attorney for Jack.
+      THE CONFLICT: Councilman Robert Brown supported the mayor's mediation efforts, noting that the council's refusal led to potential lawsuits.
+
+      THE DISCOVERY: Daphne Planning and Zoning Board listened to 100+ citizens regarding the Daphmont Subdivision zoning request and rejected it.
+      THE DISCOVERY: Fairhope Planning and Zoning/Council ignored citizens regarding Fly Creek Apartments, despite 9 meetings and 99% opposition.
+
+      THE PIVOT: Article 2 establishes a functional, citizen-responsive governance model (Daphne) which directly contrasts with the documented governance failures (ignoring public input) in Fairhope cited in Article 1, contextualizing the council's lack of leadership and the mayor's political vulnerability.
+
+      KEY ENTITIES: Mayor Wilson, Fairhope City Council, Robert Brown, JESTER 666, Tut Wynne, Burrell, Jack, Daphne, Daphmont Neighborhood, Fly Creek Apartments, Colonaid Apartments, U of A (Tuscaloosa)
+    llm_text: Mayor Wilson faces corruption accusations while the Fairhope Council ignores citizens on projects like Fly Creek Apartments. See how Daphne Planning and Zoning successfully listened to 100+ citizens, proving a better model for local government.
+    widget_date: "2017-06-23"
+    generated_at: "2026-11-09T01:01:58.141418Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  joke:
+    brief: |-
+      THE CONFLICT: Historical financial issues regarding the soccer-field complex, costing $5-6 million, were negotiated during Mr. Boone and Mr. Burrell’s last term; this context predates Mayor Wilson's 2017 ethics investigation related to "come fly with me" Burrell.
+      THE DISCOVERY: The second article identified the land owners of the soccer fields as JOKE LLP, documented via a 130-page report based on Sen. Pittman’s BP Fraud Complaint.
+      THE PIVOT: The historical failure of the council to investigate major financial corruption (JOKE LLP/soccer fields) establishes a pattern of council obstruction that is mirrored in the current 2017 disputes where the council refused to mediate and allowed personal attacks (Jester 666) against Mayor Wilson.
+      KEY ENTITIES: Robert Brown, Mayor Wilson, Jester 666, Sen. Pittman, JOKE LLP, Mr. Burrell, Mr. Boone, Tut Wynne
+    llm_text: The $5-6 million JOKE LLP soccer field corruption predates the 2017 ethics investigation involving Mr. Burrell. See how this history of council obstruction mirrors current attacks against Mayor Wilson and Jester 666.
+    widget_date: "2017-06-16"
+    generated_at: "2026-11-09T01:03:35.148448Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  holes:
+    brief: |-
+      THE CONFLICT: The City Council obstructed Mayor Wilson's job by accomplishing nothing while creating civic problems, specifically involving the controversial Publix strip center hole and soccer fields requiring $1.5M in grading/filling; this led to lawsuits and the Council adopting a GOB strategy, supported by Burrell and Boone, aimed at removing the mayor.
+      THE DISCOVERY: The older article revealed that the Council's obstruction was not merely political dissent but part of a strategic "GOB strategy" implemented by Burrell and Boone to take down Mayor Wilson and reinstate fired employees.
+      THE PIVOT: The older article frames Mayor Wilson's current conflicts (mentioned in the 2017 posts) not as simple political disagreement (hate/dissent) but as a targeted, organized effort by entrenched, potentially guilty parties (GOBs) to remove her from office, validating the Jester's claims of conspiracy and obstruction.
+      KEY ENTITIES: Mayor Wilson, Robert Brown, Burrell, Wilson, Fly Creek, Fairhope City Council, Burrell and Boone, Jack, Jester 666, Publix.
+    llm_text: Burrell and Boone and the Fairhope City Council are not just opposing Mayor Wilson; they are executing a GOB strategy to remove her. They use issues like the Publix strip center hole and $1.5M soccer field grading to obstruct her job.
+    widget_date: "2017-06-09"
+    generated_at: "2026-11-09T00:56:40.088023Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  leaks-and-collusion:
+    brief: |-
+      THE CONFLICT:
+      1. Mayor Wilson faced an ethics investigation related to "come fly with me" and a plane incident involving Burrell. (Date not specified, referenced in 2017.)
+      2. A lawsuit threat arose due to the City Council's obstruction of the Mayor. (Referenced in 2017.)
+      3. Confidential city and HR information was allegedly leaked from city computers to Gulf Coast News. (Referenced in Widget Article.)
+
+      THE DISCOVERY:
+      1. The leaked information originated from city computers used by certain employees, not external sources.
+      2. The use of city computers for personal business (e.g., pornography, computer games) is noted.
+      3. Gulf Coast News coverage is influenced by Catalyst and Jack Burrell, certain lawyers, and county commissioners.
+
+      THE PIVOT:
+      1. The Widget Article establishes that the leaks and unauthorized computer use were internal city issues, not external whistleblowers, directly linking employee behavior to the public scandal described in the Main Article (Spygate).
+      2. The Widget Article identifies specific figures (Catalyst, Jack Burrell) influencing the media coverage, contextualizing the biased attacks described by JESTER 666 and Robert Brown in the Main Article.
+
+      KEY ENTITIES:
+      1. Mayor Wilson
+      2. Robert Brown (Councilman)
+      3. Burrell (Jack Burrell)
+      4. Chucky
+      5. Pandora
+      6. Kant
+      7. Tut Wynne (City Attorney)
+      8. Gulf Coast News (GCN)
+      9. Fairhope City Hall
+      10. Catalyst
+    llm_text: Mayor Wilson's ethics scandal wasn't driven by a whistleblower, but internal employee misuse of city computers. Catalyst and Jack Burrell are actively influencing Gulf Coast News coverage of the Fairhope City Hall drama.
+    widget_date: "2017-06-02"
+    generated_at: "2026-11-09T01:04:55.604826Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

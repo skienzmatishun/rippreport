@@ -1,0 +1,183 @@
+metadata:
+  generated_at: "2026-11-09T04:39:36.015255Z"
+  generator_version: 1.0.0
+  post_slug: nuff-said
+  main_date: "2017-03-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-voters-important-notice:
+    brief: |-
+      THE CONFLICT:
+      *   Airport scandal reported since Nov 2016.
+      *   Councilmen Boone and Burrell were slowing city business.
+      *   Catalyst Associates was formed on Aug 11, 2014, managed by Michael Scott Boone and Lynn Stacey, with Coley M. Boone as registered agent.
+      *   Catalyst represented a political group (Elliott, Haygood, Stacy) opposed to the new Mayor Wilson.
+      *   Actions against Mayor Wilson included a hiring freeze, rejection of Airport Authority board choices, slow budget approval, and a recall petition (less than 300 signatures in three weeks).
+
+      THE DISCOVERY:
+      *   Article 2 revealed Councilmen Boone and Burrell's opposition to Mayor Wilson was influenced by the self-serving political group Catalyst, not just city issues.
+      *   This opposition occurred after a fair election installed Mayor Wilson.
+
+      THE PIVOT:
+      *   Article 2 establishes the underlying motive for the council's behavior (political self-interest against Mayor Wilson) which explains why the council chose to ignore facts regarding unethical behavior in the Airport scandal, as noted in Article 1.
+
+      KEY ENTITIES:
+      *   Mayor Wilson
+      *   Councilman Boone
+      *   Councilman Burrell
+      *   Catalyst Associates
+      *   Michael Scott Boone
+      *   Lynn Stacey
+      *   Coley M. Boone
+      *   Elliott
+      *   Haygood
+      *   Stacy
+      *   Fairhope Airport
+      *   Fairhope City Council
+    llm_text: Councilmen Boone and Burrell slowed Mayor Wilson's business during the Fairhope Airport scandal. New evidence shows Catalyst Associates, led by Michael Scott Boone and Lynn Stacey, drove their opposition for political self-interest, not city needs.
+    widget_date: "2017-03-22"
+    generated_at: "2026-11-09T04:31:50.115495Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  whos-on-first:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope Airport Authority entered into a Ground Lease and Operating Agreement on Dec 17, 2015.
+      *   Dennis R. Bailey (representing Ray Hix) requested an Advisory Opinion from the Alabama Ethics Commission on Dec 16, 2015.
+      *   The executed lease (Dec 17, 2015) predated the favorable Ethics Advisory Opinion (Feb 3, 2016).
+      *   The executed lease should have been submitted to the Ethics Commission by Dec 27, 2015, but was presented March 8, 2016, over 60 days late.
+      *   The Airport scandal has been reported since Nov 2016.
+      *   Complaints alleging unethical behavior were filed with authorities, but the city council chose to ignore the facts.
+
+      THE DISCOVERY:
+      *   The Ground Lease and Operating Agreement (Dec 17, 2015) was executed and recorded before receiving the required Alabama Ethics Commission Advisory Opinion.
+      *   There are three inconsistent lease versions: Dec 17, 2015; Dec 21, 2015 (EXHIBIT C); and a sample lease (EXHIBIT B).
+      *   The lease terms (e.g., construction timelines, Guaranty type) contradict the Fairhope Airport Authority's own Notice of Request for Bids (RFP).
+
+      THE PIVOT:
+      *   The 2017 document (Widget Article) provides documented, specific evidence (dates, document comparisons, legal requirements) proving the unethical behavior and procedural failures (lack of adherence to Ethics Advisory Opinion and RFP) that form the basis of the ongoing "Airport scandal" reported since Nov 2016 (Main Article).
+      *   The historical legal non-compliance substantiates the later claims of "unethical behavior" and "lack of accountability and transparency" by the city council.
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   Jack Burrell (City Council)
+      *   Josh Myrick (Attorney)
+      *   Joe McEnerney (Chairman)
+      *   Dennis R. Bailey
+      *   Ray Hix
+      *   Alabama Ethics Commission
+      *   Dec 17, 2015 (Lease execution date)
+      *   March 11, 2017 (Widget Article date)
+      *   Nov 2016 (Scandal reporting start date)
+    llm_text: Fairhope Airport Authority executed its Ground Lease on Dec 17, 2015, before obtaining the required Alabama Ethics Commission advisory opinion. Dennis R. Bailey's documented evidence proves the city council ignored clear legal non-compliance, exposing the ongoing "Airport scandal."
+    widget_date: "2017-03-17"
+    generated_at: "2026-11-09T04:34:02.843960Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  listening-not-reading:
+    brief: |-
+      THE CONFLICT: Complaint against Council President Jack Burrell and Mr. Hix regarding Fairhope Airport Authority leasing of hanger property (costing $750,000) without issuing a Request for Proposal (RFP). The Mayor filed an ethics complaint against Burrell. Rick Kingrea sent a "plain vanilla request" to the Attorney General on 1/12/11.
+
+      THE DISCOVERY: The Ethics Commission mandates that public officials conducting business with the entity they serve must use a bid process, regardless of specific bid law applicability. Burrell deliberately misled the audience about the hanger's profitability.
+
+      THE PIVOT: Article 2 establishes the factual ethical violation (no required RFP for Hix) and reveals that the ongoing conflict (reported since Nov 2016 in Article 1) is rooted in Burrell’s political maneuvering (resistance to Mayor Kant’s appointments) and his denial of established ethical mandates, which the City Council chose to ignore.
+
+      KEY ENTITIES:
+      Jack Burrell
+      Mr. Hix
+      Mayor Kant
+      Karin Wilson
+      Rick Kingrea
+      Senator Pittman
+      Fairhope Airport Authority
+      Ethics Commission
+      Fairhope City Council
+      Boone
+      Brown
+      Robinson
+      Conyers
+    llm_text: Jack Burrell and Mr. Hix bypassed the required RFP for a $750k hanger lease at Fairhope Airport Authority. The Ethics Commission confirms Burrell deliberately misled the public, fueling a political conflict the City Council chose to ignore.
+    widget_date: "2017-03-10"
+    generated_at: "2026-11-09T04:35:14.674165Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  investigating-the-investigators:
+    brief: |-
+      THE CONFLICT:
+      *   Lease executed by Ray Hix's company on Dec. 17, 2015, for a hanger at Fairhope Airport Authority (FAA).
+      *   Mr. Hix was a board member for 6 months prior to the bid process, raising concerns about inside information.
+      *   The original complaint centered on elected official Jack Burrell.
+      *   The Ripp Report filed a complaint against the FAA, leading to the FAA hiring attorneys (paid from airport profits).
+
+      THE DISCOVERY:
+      *   Mr. Hix's bid contained inaccurate data, including claiming 100% ownership of three aircraft (only one confirmed) and providing unverified fuel estimates.
+      *   Mr. Jack Burrell, a bid committee member, unilaterally reduced Mid-Bay’s fuel estimate by 15,000 gallons, without stated authority.
+      *   The hanger construction (six months estimate) was not complete 27 months after the lease date (Dec. 17, 2015).
+      *   Mr. Hix's attorney, Mr. Bailey, is investigating The Ripp Report.
+
+      THE PIVOT:
+      *   Article 2 established unethical behavior and lack of transparency (2015/2016) concerning the FAA and Ray Hix.
+      *   Article 1 details that the city council ignored facts alleging unethical behavior by a council member, failing to hold them accountable.
+      *   Article 2 provides the specific historical evidence (inaccurate bids, unauthorized amendments, potential insider trading) that the council later ignored, fueling the current lack of accountability reported in Article 1 (post-Nov 2016).
+
+      KEY ENTITIES:
+      *   Ray Hix (Board Member, Bidder)
+      *   Jack Burrell (Elected Official, Bid Committee)
+      *   Fairhope Airport Authority (FAA)
+      *   Ethics Commission
+      *   Mr. Bailey (Hix's attorney)
+      *   Joe McEnerney (Airport Authority Chairman)
+      *   Fairhope City Council
+      *   Fairhope Airport
+    llm_text: Ray Hix secured a 2015 Fairhope Airport lease with inaccurate bid data, while Jack Burrell unilaterally cut fuel estimates as a bid committee member. The city council ignored this clear evidence of unethical FAA behavior, leaving zero accountability for these officials.
+    widget_date: "2017-03-03"
+    generated_at: "2026-11-09T04:38:01.563383Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shut-up:
+    brief: |-
+      THE CONFLICT: Land adjacent to Fairhope Airport was purchased in 2007 for $8,845,000 by the Airport Authority, committing the City of Fairhope to an indefinite loan and a $6.9 million balloon payment in 2020.
+      THE DISCOVERY: In August 2016, Mayor Karin Wilson discovered the minimal change to the airport land loan debt since 2011 and initiated a process to have the City exercise its right to assume ownership of the remaining 265 acres for $10.00.
+      THE PIVOT: The 2016-2017 timeline reveals the Airport Authority, led by Jack Burrell and Joe McEnerney, resisted Wilson’s calls for transparency and timely refinancing, resulting in complaints of unethical behavior that were later filed with authorities (starting Nov 2016) but ignored by the City Council.
+      KEY ENTITIES: Mayor Karin Wilson, Jack Burrell, Joe McEnerney, Fairhope City Council, Fairhope Airport Authority, Rod Kanter, Bryant Bank
+    llm_text: Mayor Karin Wilson exposed how the Fairhope Airport Authority resisted refinancing a $8.8M land loan. She successfully moved to assume the 265 acres for just $10.00, challenging Jack Burrell and Joe McEnerney.
+    widget_date: "2017-02-24"
+    generated_at: "2026-11-09T04:36:38.816629Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  all-smoke-and-mirrors:
+    brief: |-
+      THE CONFLICT:
+      *   Airport scandal reported by The Ripp Report since Nov 2016.
+      *   City Council ignored facts alleging unethical behavior by their own.
+      *   Complaints regarding the Airport Authority have been filed with authorities.
+
+      THE DISCOVERY:
+      *   Fairhope Airport Authority debt (21% of city debt) is assumed by citizens through appropriation.
+      *   The Authority retains ownership and control of the land.
+      *   The Authority uses tax dollars to hire attorneys to investigate and discredit citizens who file legitimate complaints against the board.
+      *   Baldwin County Mega-Site cost $32 million (3000 acres) but had no buyers (seeking $350 Million).
+      *   The County Commission skimmed $5 Million from schools via a penny tax.
+
+      THE PIVOT:
+      *   Article 2 (Widget) established the structural mechanism of financial burden and political intimidation (tax-funded defense of board members) within the Fairhope Airport Authority, which provides the factual basis for the specific complaints mentioned in Article 1 (Main).
+      *   The Airport Authority's practices demonstrate the lack of accountability and transparency criticized in Article 1, contrasting with the Mayor’s stated policy.
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   City Council
+      *   Baldwin County Mega-Site
+      *   County Commission
+      *   Economic Development Alliance
+      *   The Ripp Report
+      *   Fairhope (City)
+      *   Mayor (unnamed)
+    llm_text: Fairhope citizens fund the Airport Authority's 21% city debt and pay tax dollars to discredit legitimate complaints. The Authority operates while the County Commission simultaneously skimmed $5 million from local schools.
+    widget_date: "2017-02-17"
+    generated_at: "2026-11-09T04:32:55.233927Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jack-box-airport:
+    brief: |-
+      THE CONFLICT: Allegations of unethical behavior involving Jack Burrell (elected official/board member) and the Fairhope Airport Authority, reported by The Ripp Report since November 2016.
+      THE DISCOVERY: Ray Hix, a board member and Sec. Treasurer for the Authority, used his attorney (Mr. Bailey) to prepare a request for an Advisory Opinion from the Ethics Commission. The Authority attempted to hire Hix's attorney to defend the board members against formal complaints filed with the Attorney General’s office and the Ethics Commission.
+      THE PIVOT: Article 2 reveals that the Authority's defense strategy—hiring Hix's lawyer to seek legal quashing of the complaint—was an active attempt to obstruct the legitimate investigation referenced in Article 1, highlighting the lack of transparency criticized by The Ripp Report.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Mr. Hugh Evens (Ethics Commission Chief Council), Mr. Bailey, Mayor Wilson, Fairhope Airport Authority, The Ripp Report.
+    llm_text: 'The Jack Burrell ethics probe is escalating: Fairhope Airport Authority board member Ray Hix used Mr. Bailey to hire legal help. This move actively obstructed the Ethics Commission investigation, hiding the truth and transparency The Ripp Report demands.'
+    widget_date: "2017-02-10"
+    generated_at: "2026-11-09T04:39:14.500708Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,152 @@
+metadata:
+  generated_at: "2026-11-09T05:15:06.620192Z"
+  generator_version: 1.0.0
+  post_slug: selective-memory
+  main_date: "2017-03-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  shut-up:
+    brief: |-
+      THE CONFLICT: Mayor Karin Wilson confronted the Fairhope Airport Authority regarding a $8,845,000 land purchase in 2007, leading to conflicts over debt management, loan refinancing, and lack of transparency between Sept 2016 and Feb 2017.
+      THE DISCOVERY: Mayor Wilson's detailed timeline (Aug-Feb 2017) documented that the city paid over $3.6 million toward the loan, which ballooned in 2020, and noted that the Airport Authority failed to develop the land despite the city's indefinite commitment.
+      THE PIVOT: Article 2 established documented evidence of alleged corruption and financial mismanagement at the Airport Authority, which Article 1 uses to defend Mayor Wilson's actions and accuse the City Council (led by Kevin Boone) of ignoring "potential and alleged corruption" while disciplining her.
+      KEY ENTITIES: Karin Wilson, Jack Burrell, Kevin Boone, Sherry Sullivan, Jennifer Fidler, Dean Mosher, Joe McEnerney, Rod Kanter, Tut Wynn, Matt McDonald, Josh Myrick, Vince Booth, Paul Ripp, Fairhope Airport Authority.
+    llm_text: Mayor Karin Wilson confronted the Fairhope Airport Authority over an $8.845M land purchase, documenting $3.6M paid toward an undeveloped loan. Did Kevin Boone's City Council ignore documented alleged corruption while disciplining Wilson for holding the authority accountable?
+    widget_date: "2017-02-24"
+    generated_at: "2026-11-09T05:07:19.473600Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  all-smoke-and-mirrors:
+    brief: |-
+      THE CONFLICT: Fairhope Airport Authority demands citizen debt payment (21% of city debt) while maintaining control of land; Authority uses tax dollars to hire attorneys to intimidate and discredit whistleblowers.
+
+      THE DISCOVERY: The Airport Authority and Baldwin County Mega-Site projects demonstrate systemic "smoke and mirrors," involving $32 million in vacant land (Mega-Site) and opaque debt management.
+
+      THE PIVOT: The established pattern of institutional opacity and citizen intimidation (Article 2) provides the context for the current political resistance (Article 1) where Mayor Wilson is disciplined by the City Council for firing employees (Sherry Sullivan and Jennifer Fidler) who refused to accept the election results and resist change.
+
+      KEY ENTITIES: Fairhope City Council; Mayor Wilson; Kevin Boone; Sherry Sullivan; Jennifer Fidler; Mr. Burrell; Jack; Dean Mosher; Fairhope Airport Authority; Baldwin County Mega-Site.
+    llm_text: Fairhope Airport Authority demands 21% of citizen debt while controlling $32 million in vacant Baldwin County Mega-Site land. See how the Authority uses tax dollars to intimidate whistleblowers and pressures Mayor Wilson amid City Council conflict.
+    widget_date: "2017-02-17"
+    generated_at: "2026-11-09T05:09:45.285981Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-spiders-web:
+    brief: |-
+      THE CONFLICT: Mayor Wilson fired Sherry Sullivan and Jennifer Fidler; City Council, chaired by Kevin Boone, reacted by demanding a 60-day hiring freeze at a special meeting (next regular meeting March 9th).
+      THE DISCOVERY: Baldwin County officials, including Kevin Boone, use interconnected LLCs to conceal business ties and vote for personal interests, often circumventing ethical standards.
+      THE PIVOT: Boone's opposition to Mayor Wilson's hiring of independent engineering firms was not procedural; it was driven by his financial conflicts of interest tied to LLCs and firms like Preble-Rich/Dewberry (which has a share in Baldwin County Sewer), protecting a long-standing "corrupt machine."
+      KEY ENTITIES: Kevin Boone, Mayor Wilson, Sherry Sullivan, Jennifer Fidler, Chris Elliott, Tucker Dorsey, Burrell, John Avent, Ethics Commission, Fairhope City Council, March 9th.
+    llm_text: Kevin Boone’s hiring freeze demand isn't procedural; it hides financial ties to Preble-Rich/Dewberry via interconnected LLCs. Discover how Boone uses Baldwin County connections to protect a long-standing "corrupt machine" against Mayor Wilson.
+    widget_date: "2017-01-18"
+    generated_at: "2026-11-09T05:10:47.307816Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-dont-know-jack:
+    brief: |-
+      THE CONFLICT:
+      Jack Burrell and Vince Boothe facilitated the awarding of a 30-year ground lease for a commercial hanger on plat 2 at the Fairhope Airport Authority to Hix/Snedecker Companies DBA Mid-Bay Air, LLC.
+      This bid process took place between September 21, 2015 (RFP sent) and December 17, 2015 (lease recorded).
+      The motion to award the bid was made on November 17, 2015.
+
+      THE DISCOVERY:
+      Jack Burrell, President of the Fairhope City Council, held a dual role as a member of the Airport Authority review committee, creating a clear conflict of interest when the bid was awarded to Ray Hix (Airport Authority Board member) and Mr. Snedecker (Fairhope Municipal Judge).
+
+      THE PIVOT:
+      The 2015 Airport Authority corruption allegations (Burrell, Hix, Boothe) serve as the factual context and "red flag" evidence of potential corruption that Mayor Wilson is attempting to address, which the current City Council is resisting and attempting to suppress via disciplinary action against Sherry Sullivan and Jennifer Fidler.
+
+      KEY ENTITIES:
+      Mayor Wilson
+      Jack Burrell (also referenced as Jack)
+      Vince Boothe
+      Ray Hix
+      Mr. Snedecker (Fairhope Municipal Judge)
+      Kevin Boone
+      Sherry Sullivan
+      Jennifer Fidler
+      Fairhope City Council
+      Fairhope Airport Authority
+      Dean Mosher
+    llm_text: Jack Burrell served on the Airport Authority review committee while awarding a 30-year lease to Hix/Snedecker in 2015. Mayor Wilson fights City Council resistance trying to suppress these corruption allegations against Burrell and Vince Boothe.
+    widget_date: "2016-11-25"
+    generated_at: "2026-11-09T05:12:13.246357Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  round-and-round-we-go:
+    brief: |-
+      THE CONFLICT:
+      *   Sherry Sullivan and Jennifer Fidler were fired by the Mayor for refusing to accept election results and change.
+      *   The Fairhope City Council called a special meeting led by Kevin Boone regarding the Mayor's hiring/firing actions.
+      *   The City Council demanded a 60-day hiring freeze immediately.
+      *   The next regular council meeting was March 9th.
+      *   The conflict involves allegations of potential and alleged corruption related to the Airport timeline.
+
+      THE DISCOVERY:
+      *   Baldwin County Commissioner Chris Elliott clarified the 13/48 roundabout intersection is partially in Baldwin County and partially in the City of Fairhope.
+      *   The North West corner parcel (near the roundabout) is un-zoned due to past voter decisions.
+      *   The City of Fairhope has subdivision authority and issues building permits over this area via Extra Territorial Jurisdiction (ETJ).
+      *   The remaining un-zoned parcel was sold after the right-of-way acquisition and is owned by a gas station operator in Baldwin County.
+
+      THE PIVOT:
+      *   The ETJ and un-zoned status established in the historical context (Article 2) dictates that the City of Fairhope must approve or deny building permits if requirements are met, regardless of political pressure from the City Council (Article 1).
+      *   This regulatory structure limits the Council’s ability to simply override development concerns, even when facing internal political conflicts over transparency and alleged corruption.
+
+      KEY ENTITIES:
+      *   Kevin Boone
+      *   Sherry Sullivan
+      *   Jennifer Fidler
+      *   Mr. Burrell
+      *   Chris Elliott
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Mayor Wilson (unnamed)
+      *   Jack (unnamed)
+    llm_text: Mayor Wilson fired Sherry Sullivan and Jennifer Fidler over election results, sparking Fairhope City Council conflict led by Kevin Boone. Baldwin County Commissioner Chris Elliott confirmed Fairhope's ETJ authority controls the un-zoned roundabout parcel, limiting political overrides despite corruption allegations.
+    widget_date: "2016-09-16"
+    generated_at: "2026-11-09T05:13:37.691811Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-show-me-yours-and-i-will-show-you-mine-letter-that-is:
+    brief: |-
+      THE CONFLICT:
+      *   In the mid-90s and around 2005, the Dyas family offered free land in Fairhope for a Performing Arts Center and a fire station.
+      *   Mayor Kant rejected these offers, instead favoring Mr. Cortes for apartment development near a dead-end street.
+      *   Senator Pittman and Mayor Kant faced complaints regarding the Fairhope BP Boom Grant, including Pittman lacking a mandatory general contractor’s license.
+      *   The case was investigated by the FBI and forwarded to Special Prosecutor Matt Hart (Attorney General’s office).
+      *   Pittman contracted Fairhope for emergency debris removal (a clear conflict of interest) with Council approval.
+
+      THE DISCOVERY:
+      *   Mayor Kant and Senator Pittman attempted to claim an Ethics Commission letter exonerating them regarding the BP Boom Grant, but the complaint revealed the commission did not conduct a full investigation.
+      *   The Mayor paid Alabama Media Group for a fabricated "sponsored content" article on August 9th.
+
+      THE PIVOT:
+      *   Article 2 provides historical evidence of Mayor Kant and the City Council (approving Pittman’s contract) engaging in conflicts of interest and ethical lapses, directly supporting the Main Article’s claim that the City Council ignores potential corruption involving their "friends."
+      *   The pattern of prioritizing personal gain (Pittman’s contract, Cortes’ apartments) over community welfare (PA Center, proper contract retrieval) provides the context for the Council’s recent swift disciplinary action against Mayor Wilson (60-day hiring freeze) for doing her job.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Senator Pittman
+      *   Mayor Wilson
+      *   Kevin Boone
+      *   Sherry Sullivan
+      *   Jennifer Fidler
+      *   Matt Hart
+      *   Dyas family
+      *   Mr. Cortes
+      *   Fairhope City Council
+      *   Ethics Commission
+      *   Alabama Attorney’s Office
+      *   Quail Creek
+      *   March 7th
+      *   March 9th
+    llm_text: Mayor Kant rejected the Dyas family's free land offer for a Fairhope Performing Arts Center, favoring Mr. Cortes' apartment development instead. Senator Pittman and Mayor Kant faced FBI investigation over the BP Boom Grant and conflicts of interest, including a contracted debris removal job.
+    widget_date: "2016-08-17"
+    generated_at: "2026-11-09T05:08:35.847034Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-more-silence-we-want-answers:
+    brief: |-
+      THE CONFLICT: Mayor Kant's term featured allegations of voter fraud in the 9/11/2012 municipal elections; the city also faced a $12 million Triangle lawsuit settlement and alleged BP grant fraud involving Mayor Kant and Senator Pittman. Later, Mayor Wilson's administration led to the firing of Sherry Sullivan and Jennifer Fidler, prompting a Council special meeting chaired by Kevin Boone.
+
+      THE DISCOVERY: Article 2 revealed historical issues including the $12 million Triangle lawsuit settlement, the approval of Fly Creek Apartments by developer Arthur Corte (involving $500,000 for a Fire Station on a Dead End Road), and ethical issues where Senator Pittman held the emergency management debris removal contract.
+
+      THE PIVOT: Article 2 establishes a pattern of alleged corruption, poor planning, and "good ole boy deals" (e.g., Fly Creek/Corte, Pittman/BP fraud) under Mayor Kant, providing historical context that informs the Main Article's claims of potential and alleged corruption surrounding the firing of Sherry Sullivan and Jennifer Fidler under Mayor Wilson, particularly referencing Sullivan's state travel expenses.
+
+      KEY ENTITIES: Mayor Kant, Mayor Wilson, Kevin Boone, Sherry Sullivan, Jennifer Fidler, Senator Pittman, Arthur Corte, Dean Mosher, Mr. Burrell, Kevin Black, Tom Odom, Matt Hart.
+    llm_text: Mayor Kant’s term saw $12M lawsuits and BP grant fraud involving Senator Pittman. This pattern of "good ole boy deals" provides context for why Mayor Wilson's firing of Sherry Sullivan and Jennifer Fidler raises serious corruption questions.
+    widget_date: "2016-08-13"
+    generated_at: "2026-11-09T05:14:49.166455Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

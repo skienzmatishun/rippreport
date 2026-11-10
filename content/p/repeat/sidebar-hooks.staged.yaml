@@ -1,0 +1,126 @@
+metadata:
+  generated_at: "2026-11-08T19:07:40.631483Z"
+  generator_version: 1.0.0
+  post_slug: repeat
+  main_date: "2018-01-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  court-of-public-opinion:
+    brief: |-
+      THE CONFLICT: Fairhope City Council spent one year obstructing the newly elected Mayor. Baldwin County was saddled with a $32 million debt due to the "mega site" (white elephant).
+      THE DISCOVERY: In 2017, The Ripp Report covered various political issues in Baldwin County that were set to resurface in 2018.
+      THE PIVOT: Article 2 establishes the 2017 background and context of the mega-site debt and council obstruction, framing it as a historical issue leading up to the November 2018 county commissioner election.
+      KEY ENTITIES: Fairhope City Council, Mayor, Kant, Baldwin County, mega site, $32 million.
+    llm_text: Fairhope City Council obstructed the newly elected Mayor for a full year, saddling Baldwin County with a $32 million debt from the controversial mega site. Discover how this political conflict set the stage for the 2018 county commissioner election.
+    widget_date: "2018-01-03"
+    generated_at: "2026-11-08T19:00:51.270984Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  see-ya-in-court-jack:
+    brief: |-
+      THE CONFLICT: Jack Burrell, City Council President of Fairhope, denied Francis P. Ripp his right to free speech during a city council meeting on August 28, 2017.
+      THE DISCOVERY: On December 29, 2017, Francis P. Ripp filed a federal lawsuit in the Southern District against Jack Burrell, asserting denial of constitutional rights (First and Fourteenth Amendments) and seeking damages for "humiliation" and "emotional pain."
+      THE PIVOT: The lawsuit (Article 2) provides documented evidence (official video, federal filing) of the council's obstruction of public participation and denial of constitutional rights, substantiating the general claim in Article 1 that the council has been limiting public participation and obstructing the Mayor's efforts.
+      KEY ENTITIES: Francis P. Ripp, Jack Burrell, Fairhope City Council, Baldwin County, Mayor (unnamed), 2017, 2018, August 28, 2017, December 29, 2017.
+    llm_text: Jack Burrell, Fairhope City Council President, denied Francis P. Ripp free speech on August 28, 2017. Ripp later filed a federal lawsuit against Burrell for constitutional violations, proving local government obstruction of public rights.
+    widget_date: "2017-12-29"
+    generated_at: "2026-11-08T19:05:25.945849Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-a-city-owned-by-outside-interests-and-good-ole-boys:
+    brief: |-
+      THE CONFLICT:
+      *   In 2016, Mayor Kant and Arthur Corte were linked to corruption regarding the Fly Creek Apartments approval.
+      *   The Triangle lawsuit was settled without public participation for $11.25 million.
+      *   City borrowing included $5.25 million, $3 million for attorneys, and $3 million taken from the utility reserve fund.
+      *   The Triangle Nature Trail Park development involves Thompson Engineering and a cost of approximately $1 million on a $11.25 million acquired property.
+      *   The soccer complex was priced at $6 to $7 million.
+      *   Councilwoman Diana Brewer sided with the Mayor on the Fly Creek Apartments issue.
+      *   Councilmen Mueller and Boone pledged one term but later supported Kant.
+      *   Mayor Kant's 2016 re-election contributions involved over 50% of non-Fairhope residents and anonymous PAC donations.
+
+      THE DISCOVERY:
+      *   Article 2 revealed a pattern of non-public deals (Fly Creek, Triangle) and financial mismanagement (Triangle settlement, soccer complex costs) under Mayor Kant and his associates.
+      *   Article 2 established that key council members (Brewer, Mueller, Boone) were aligned with the Mayor, contrasting with Jack Burrell.
+
+      THE PIVOT:
+      *   Article 2 provides the historical evidence (2016 deals, lack of public participation) that establishes the "good ole boys" network and lack of transparency that Article 1 claims continues into 2018, leading to the Fairhope City Council obstructing the newly elected Mayor's efforts toward transparency and accountability.
+
+      KEY ENTITIES:
+      *   Mayor Kant
+      *   Arthur Corte
+      *   Diana Brewer
+      *   Mueller
+      *   Boone
+      *   Mr. Ford
+      *   Jack Burrell
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Fly Creek Apartments
+      *   Triangle (Triangle lawsuit, Triangle Nature Trail Park)
+      *   Sandy Ford
+      *   Rock Creek
+      *   Thompson Engineering
+    llm_text: Mayor Kant and Arthur Corte faced Fly Creek Apartments corruption in 2016, while Diana Brewer sided with him. See how Councilmen Mueller and Boone maintained a "good ole boys" network that still blocks current transparency efforts.
+    widget_date: "2016-05-27"
+    generated_at: "2026-11-08T19:06:42.483497Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-party-before-country-or-city:
+    brief: |-
+      THE CONFLICT: Tim Kant ran Fairhope as a corrupt dynasty with no accountability or transparency; this corruption was exacerbated by external political factors like the 62% of Fairhope voting for Roy Moore in the state election.
+      THE DISCOVERY: The second article revealed the deep-rooted corruption under Tim Kant, identified Jack Burrell as the successor, and quantified the political vulnerability of Fairhope due to low voter turnout (30%) and straight ticket voting (62% for Moore).
+      THE PIVOT: The historical corruption under Kant (Article 2) provides the context for the current City Council's actions (Article 1)—specifically their attempt to limit public participation and obstruct the newly elected Mayor, repeating the pattern of failed governance.
+      KEY ENTITIES: Tim Kant, Jack Burrell, Karin Wilson (Mayor), Roy Moore, Doug Jones, Fairhope City Council, Baldwin County, The Ripp Report, $32 million debt, Nov 2018 (Baldwin County election), Jan 8th (Fairhope City Council meeting).
+    llm_text: Tim Kant ran a corrupt dynasty in Fairhope, leaving behind $32 million debt. Now, Jack Burrell succeeds him as the City Council tries to obstruct Mayor Karin Wilson, repeating failed governance.
+    widget_date: "2017-12-22"
+    generated_at: "2026-11-08T19:03:10.701000Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  job-with-benefits:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council spent a whole year obstructing the newly elected Mayor.
+      *   Early on, "Kant ran Fairhope" before his departure.
+      *   Baldwin County faces a Nov 2018 mid-term election where four commissioners are up for re-election.
+      *   Baldwin County is saddled with a 32 million dollar debt related to a "white elephant, the mega site."
+
+      THE DISCOVERY:
+      *   Fairhope City Council President, Burrell, held the position for 5 years.
+      *   Burrell received Airport Authority coverage for attorney fees related to an Ethics complaint.
+      *   Burrell managed $13 million spent on a sewer plant but no money on sewer infrastructure.
+      *   During Burrell's time, city utilities transferred 10 million to the general fund for non-utility expenses.
+      *   The Airport Authority controls the land title and pays its bills using city funds, securing job benefits (e.g., free plane flights, paid legal defense) for Burrell and allies.
+
+      THE PIVOT:
+      *   Article 2 establishes a systemic, five-year pattern of cronyism, lack of accountability, and financial mismanagement (Burrell/Airport Authority) within the Fairhope City Council.
+      *   This long-term pattern directly explains the council's documented failure and obstruction (Article 1) of the newly elected Mayor's efforts to push transparency and accountability.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Burrell (Council President)
+      *   Mayor (newly elected)
+      *   Kant
+      *   Baldwin County
+      *   Fairhope Airport Authority
+      *   Alabama Ethics Commission
+    llm_text: Fairhope Council President Burrell mismanaged $13 million on a sewer plant and funneled $10 million from utilities to the general fund. This five-year cronyism at the Airport Authority explains why the council obstructed the newly elected Mayor's push for transparency.
+    widget_date: "2017-10-20"
+    generated_at: "2026-11-08T19:04:25.272276Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  broken-eggs:
+    brief: |-
+      THE CONFLICT: Fairhope City Council, led by Council President Jack Burrell (7+ years), achieved little, obstructed the Mayor, and was involved in issues including a triangle lawsuit, sewer plant problems, gift of wetlands, and the development of the soccer complex (estimated $3.5M to $6M).
+      THE DISCOVERY: Article 2 revealed specific conflicts of interest involving Burrell accepting free jet service provided by Ray Hix, who is partnered with Fairhope Municipal Judge Snedeker, and the involvement of Chunk Zunk (former FAA) on a newly appointed finance committee. It also documented a $10 million transfer from utilities to the general budget in 2015 and 2016.
+      THE PIVOT: Article 2 provides historical evidence of systemic dysfunction, obstruction, and financial mismanagement (e.g., 10M utility transfer, poor infrastructure) dating back to 2010 and 2017, validating Article 1's claim that past problems are repeating in 2018 and justifying the call for a "clean sweep" regarding the $32 million county debt.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Snedeker, Chunk Zunk, Robert Brown, Boone, Conyers, Robinson, Fairhope City Council, Fairhope Airport Authority (FAA)
+    llm_text: Jack Burrell accepted free jet service from Ray Hix, linked to Judge Snedeker. This scandal reveals years of systemic financial dysfunction, including a 10M utility transfer, validating the call for a clean sweep.
+    widget_date: "2017-10-13"
+    generated_at: "2026-11-08T19:01:53.453241Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  can-you-smell-it:
+    brief: |-
+      THE CONFLICT: Fairhope previously discharged human waste into Mobile Bay via unreported spills. During 2015 and 2016, Fairhope utilities paid the city $10 million for NON-UTILITY expenses while neglecting necessary infrastructure. The previous Mayor was Tim Kant.
+      THE DISCOVERY: Under Mayor Kant and the City Council, the city spent $13 million on upgrading the sewer plant on the bay instead of moving it inland, and spent zero on necessary infrastructure, leading to future repair bills.
+      THE PIVOT: The past mismanagement (sewer spills, poor infrastructure spending, lack of transparency) under Mayor Kant and the City Council provides the context for the current political push (2017-2018) demanding accountability and transparency from the new City Council and Mayor.
+      KEY ENTITIES: Fairhope City Council, Tim Kant, Karen Wilson, Mobile Baykeeper, Publix project, Fly Creek, Baldwin County, Ripp Report, Fairhope Yacht club.
+    llm_text: Fairhope dumped human waste into Mobile Bay in 2015/2016 while Tim Kant’s administration wasted $13 million on sewer upgrades instead of fixing infrastructure. Read how this mismanagement fuels the current push for council accountability and transparency.
+    widget_date: "2017-10-06"
+    generated_at: "2026-11-08T19:07:26.989636Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

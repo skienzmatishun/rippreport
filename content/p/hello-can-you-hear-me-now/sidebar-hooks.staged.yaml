@@ -1,0 +1,138 @@
+metadata:
+  generated_at: "2026-11-09T09:20:10.985505Z"
+  generator_version: 1.0.0
+  post_slug: hello-can-you-hear-me-now
+  main_date: "2016-10-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  going-down-with-the-ship:
+    brief: |-
+      THE CONFLICT:
+      *   City of Fairhope lost a Supreme Court case involving Planning and Zoning, resulting in hundreds of thousands of dollars in taxpayer loss.
+      *   On October 3rd, the 6th meeting addressing the Fly Creek Apartments occurred, attended by over 250 people, with an average opposition of 98%.
+      *   Jimmy Conyers defeated incumbent Diana Brewer for Fairhope City Council with 66% of the vote.
+
+      THE DISCOVERY:
+      *   The Gulf Quest Maritime museum cost $42 million, with $28 million funded by taxpayers.
+      *   The museum has $400,000 in past due utility bills, suggesting financial instability.
+      *   Diana Brewer was hired as the marketing and public relations director for the Gulf Quest Maritime museum.
+      *   Angus Cooper (Board member) donated $2,500 to Diana's re-election bid, and his secretary donated $1,500.
+
+      THE PIVOT:
+      *   Article 2 established Brewer's professional ties (museum/PR) and political alignments (supporting Tim Kant/Angelo Corte) while she was still a proponent of the Fly Creek Apartments.
+      *   Article 1 details the political fallout of her refusal to listen to the 98% opposition after the October 3rd meeting, leading to her electoral defeat (66% loss) and subsequent shift in stance ("whatever you want to hear").
+
+      KEY ENTITIES:
+      *   Diana Brewer
+      *   Jimmy Conyers
+      *   Tim Kant
+      *   Angelo Corte
+      *   Angus Cooper
+      *   Fly Creek Apartments
+      *   Gulf Quest Maritime museum
+      *   Hand Arendall
+      *   Fairhope City Council
+    llm_text: Diana Brewer pushed the Fly Creek Apartments despite 98% opposition, tying taxpayers to the $42M Gulf Quest Maritime museum. Jimmy Conyers defeated her 66%, proving Fairhope voters demand accountability over political favors.
+    widget_date: "2016-09-30"
+    generated_at: "2026-11-09T09:13:21.536095Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fire:
+    brief: |-
+      THE CONFLICT: Tucker Dorsey, as Commissioner, fired county manager, EMA director, and county attorneys; Dorsey ignored ethics charges concerning Sen. Pittman receiving $750,000 in BP Boom deployment contracts; Mega Site cost Baldwin County over $50 million; Diana Brewer lost Fairhope City Council re-election to Jimmy Conyers (66% vote) after opposing 98% of constituents regarding the Fly Creek Apartments.
+      THE DISCOVERY: Widget Article revealed Dorsey’s disregard for ethics and public trust in Baldwin County, linking his actions to financial waste (>$50M) and political fallout, predicting Dorsey (and others) would soon be leaving.
+      THE PIVOT: Widget Article established a precedent of political failure and corruption in the broader region (Baldwin County) involving figures like Tim Kant, framing Brewer's loss and subsequent political marginalization as part of a larger, systemic refusal to listen to constituents, similar to the issues faced by Dorsey and Kant.
+      KEY ENTITIES: Tucker Dorsey, Tim Kant, Diana Brewer, Jimmy Conyers, Sen. Pittman, Governor Riley, Fly Creek Apartments, Fairhope, Baldwin County, Mobile Area Boy Scouts, P&Z Board.
+    llm_text: Tucker Dorsey ignored ethics and fired staff while Sen. Pittman received a $750,000 contract, costing Baldwin County over $50 million. This disregard for public trust mirrors Diana Brewer's political marginalization, showing systemic regional failure.
+    widget_date: "2016-09-23"
+    generated_at: "2026-11-09T09:15:14.409880Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  above-the-law:
+    brief: |-
+      THE CONFLICT: Complaint filed against Steven Patrick Johnson to the Alabama State Bar (CSP NO. 2016-296) regarding admission of purchasing, transporting, and selling marijuana to another attorney during his divorce.
+      THE DISCOVERY: In 2016, the Alabama State Bar and its Disciplinary Commission recorded no further action against Steven Patrick Johnson, despite the attorney's own sworn admission.
+      THE PIVOT: Both articles document instances of alleged ethical and constituent disregard—Article 2 detailing the Alabama State Bar's inaction protecting a questionable attorney, and Article 1 detailing elected officials (Diana Brewer) ignoring overwhelming constituent opposition (98% against Fly Creek Apartments) to the detriment of taxpayers.
+      KEY ENTITIES: Jimmy Conyers, Diana Brewer, Tim Kant, Steven Patrick Johnson, Brackin McGriff and Johnson, Fairhope City Council, Fly Creek Apartments, P&Z board, Hollie McKellar, Alabama State Bar.
+    llm_text: Steven Patrick Johnson admitted to selling marijuana to another attorney, yet the Alabama State Bar took no action. This inaction mirrors how Diana Brewer ignored overwhelming constituent opposition regarding Fly Creek Apartments.
+    widget_date: "2016-08-31"
+    generated_at: "2026-11-09T09:16:28.584518Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  observations-of-a-poll-watcher:
+    brief: |-
+      THE CONFLICT: Election fraud allegations in Fairhope/Baldwin County documented by Chris Warner on July 24, 2014, specifically regarding Mayor Kant's 2012 primary victory (55% of the vote).
+      THE DISCOVERY: Chris Warner alleged systemic election tampering, lack of control over voting boxes, and political corruption linked to consultant Lynn Stacey in Fairhope and Baldwin County.
+      THE PIVOT: Article 2 establishes a historical context (2014) of severe distrust in Fairhope elections involving Mayor Kant, providing the background against which Article 1 discusses Tim Kant and the pattern of elected officials (like Diana Brewer) ignoring constituent opposition (e.g., Fly Creek Apartments).
+      KEY ENTITIES: Jimmy Conyers, Diana Brewer, Tim Kant, Chris Warner, Mayor Kant, Lynn Stacey, Fly Creek, Hollie McKellar, Fairhope, Baldwin County
+    llm_text: Chris Warner documented systemic election tampering in Fairhope, linking Mayor Kant’s 2012 victory to corruption involving Lynn Stacey. See how this 2014 distrust fuels the pattern of officials like Diana Brewer ignoring constituent opposition at Fly Creek.
+    widget_date: "2016-08-10"
+    generated_at: "2026-11-09T09:17:38.579733Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pay-executives-first-boy-scouts-come-last:
+    brief: |-
+      THE CONFLICT:
+      *   Mobile Area Boy Scout Council experienced severe financial losses (over $200,000 annually) since 2008 (9+ years).
+      *   Michael Hartigan served as Executive Director starting January 2009, accumulating over $1 million in salary/benefits and being responsible for losing close to $1.5 million since 2009.
+      *   Six-month investigation (started November 2015) found about one out of four board members had broken state/federal laws or lied.
+      *   Phil Webb, Board President (2014-2015), was accused of breaking IRS state and federal laws.
+
+      THE DISCOVERY:
+      *   The Mobile Area Council had to sell a third of Camp Maubila (owned over 50 years, near Jackson, AL) in 2015 to survive.
+      *   The financial mismanagement was linked to unethical and potentially illegal actions by board members.
+      *   Tucker Dorsey, a Baldwin County Commissioner, was involved in reporting these facts.
+
+      THE PIVOT:
+      *   The historical evidence of systemic financial mismanagement and illegal conduct within local governing bodies (Boy Scouts) provides context to the later political fallout where elected officials (Diana Brewer) ignored overwhelming constituent opposition (98% opposed Fly Creek Apartments) due to perceived self-interest, leading to her defeat by Jimmy Conyers.
+      *   The P&Z board decisions, which led to millions in lawsuits, mirror the documented financial and legal negligence seen in the Boy Scout Council.
+
+      KEY ENTITIES:
+      *   Diana Brewer (Lost Fairhope City Council seat)
+      *   Jimmy Conyers (Won Fairhope City Council seat, 66% vote)
+      *   Fly Creek Apartments (Project opposed by over 98% of attendees)
+      *   Phil Webb (Mobile Area Boy Scout Board President, accused of IRS law violations)
+      *   Tucker Dorsey (Baldwin County Commissioner)
+      *   Michael Hartigan (Mobile Area Council Executive Director since Jan 2009)
+      *   Tim Kant (Mentioned as a predecessor to Brewer)
+    llm_text: Michael Hartigan oversaw $1 million in salary while Phil Webb and board members caused $1.5 million in losses at the Mobile Area Boy Scout Council. This systemic local negligence mirrors how Diana Brewer ignored 98% of voters opposing Fly Creek Apartments, leading to Jimmy Conyers' victory.
+    widget_date: "2016-08-03"
+    generated_at: "2026-11-09T09:18:55.764045Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments:
+    brief: |-
+      THE CONFLICT:
+      *   Fly Creek Apartments project faced opposition from over 98% of attendees at 6 planning meetings.
+      *   A lawsuit was filed in June against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC.
+      *   Diana Brewer was defeated in a Fairhope City Council bid by Jimmy Conyers (66% of vote).
+
+      THE DISCOVERY:
+      *   The court denied the defendants' motion to dismiss the lawsuit against the City of Fairhope and Leaf River Group LLC.
+      *   The lawsuit can move into a discovery phase, requiring the production of documents, phone calls, and donations.
+      *   Leaf River Group has one year to begin construction, after which zoning may revert to original, prohibiting apartments.
+
+      THE PIVOT:
+      *   The court's denial of the motion to dismiss validates the constituent opposition to Fly Creek, providing legal weight to the political reasons for Diana Brewer's defeat.
+      *   Brewer lost her bid for reelection by ignoring constituent opposition to the Fly Creek Apartments project, despite the ongoing legal scrutiny.
+
+      KEY ENTITIES:
+      *   Jimmy Conyers (Fairhope City Council)
+      *   Diana Brewer (Former Fairhope City Council)
+      *   Tim Kant (City Council)
+      *   Fairhope City Council
+      *   Fairhope Planning and Zoning Board (P&Z)
+      *   Leaf River Group LLC
+      *   George Robards
+      *   Arthur Corte
+      *   Fly Creek
+      *   June (Year of lawsuit filing)
+    llm_text: The court denied the motion to dismiss the Fly Creek lawsuit, legally validating the overwhelming constituent opposition to the apartments. Diana Brewer lost her Fairhope City Council bid to Jimmy Conyers by ignoring this crucial local pushback.
+    widget_date: "2016-07-27"
+    generated_at: "2026-11-09T09:14:18.852911Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on:
+    brief: |-
+      THE CONFLICT: Past municipal decisions in Fairhope led to major financial costs (e.g., triangle lawsuit costing $12 million) and ignored public input regarding projects like the Fly Creek Apartments.
+      THE DISCOVERY: Article 2 established the pre-election context of systemic corruption, lack of transparency ("good ole boys" system), and the failure of the Planning and Zoning board under Mayor Kant prior to the recent election cycle.
+      THE PIVOT: Article 2 provides the historical evidence (e.g., $12M triangle lawsuit; failure of P&Z under Kant) that justifies the criticisms in Article 1 regarding the P&Z costing millions in lawsuits and the pattern of ignoring constituents.
+      KEY ENTITIES: Jimmy Conyers, Diana Brewer, Tim Kant, Karin Wilson, John Lake, Harry Still, Fly Creek, Fairhope, Hollie McKellar, Mayor Haygood.
+    llm_text: Mayor Kant's P&Z board fueled systemic corruption in Fairhope, ignoring input on Fly Creek Apartments. The $12 million triangle lawsuit and other historical failures show past decisions cost taxpayers millions.
+    widget_date: "2016-07-20"
+    generated_at: "2026-11-09T09:19:52.540963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,73 @@
+metadata:
+  generated_at: "2026-11-08T22:51:22.613936Z"
+  generator_version: 1.0.0
+  post_slug: divorce-corp
+  main_date: "2017-09-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  horrible-hurricane-harvey:
+    brief: |-
+      THE CONFLICT: Hurricane Harvey devastated Texas and Louisiana; Jack Burrell, President of the Fairhope city council, was criticized for denying a citizen Freedom of Speech during a council meeting.
+      THE DISCOVERY: Article 2 revealed political tension regarding the 2020 mid-term/mayoral elections involving Jack Burrell, Scott Boone, and Catalyst, set against the backdrop of the Harvey disaster recovery in Baldwin County.
+      THE PIVOT: Article 2 establishes the highly politicized and controversial environment in Baldwin County, linking Jack Burrell (A2) as a key political figure who is also noted as a friend of Judge Michelle Thomason (A1), providing context for the judicial complaints detailed in Article 1.
+      KEY ENTITIES: Jack Burrell, Michelle Thomason, Stephen Johnson, Judge “buddy” Bracken, Scott Boone, Catalyst, Fairhope, Orange Beach, Baldwin County
+    llm_text: Jack Burrell, President of Fairhope City Council, drew criticism for denying a citizen Freedom of Speech during the devastating Hurricane Harvey recovery. Explore the high political tension in Baldwin County, connecting Burrell, Scott Boone, and Catalyst amid controversial 2020 election battles.
+    widget_date: "2017-09-01"
+    generated_at: "2026-11-08T22:47:25.384748Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  now-you-know-jack:
+    brief: |-
+      THE CONFLICT: Political conflict in Fairhope between Council President Jack Burrell and Mayor Kant, rooted in an Ethics complaint filed by Mayor Kant.
+      THE DISCOVERY: Jack Burrell orchestrated obstruction of the Mayor and denied citizens the constitutional right to free speech and public participation in Fairhope; he also selectively funded investigations (The Ripp Report) while denying the Mayor legal counsel.
+      THE PIVOT: Article 2 establishes that Jack Burrell has a personal relationship with Judge Michelle Thomason, who is the focus of Article 1's complaints regarding incompetence and the "cottage industry" in Baldwin County family court.
+      KEY ENTITIES: Jack Burrell, Mayor Kant, Judge Michelle Thomason (District Court Place 1), Stephen Johnson, Judge "buddy" Bracken, The Ripp Report, Baldwin County, Fairhope.
+    llm_text: Jack Burrell obstructed Mayor Kant and denied Fairhope citizens their right to free speech. The Ripp Report finds Burrell maintains a personal link to Judge Michelle Thomason, who faces serious incompetence complaints in Baldwin County family court.
+    widget_date: "2017-08-30"
+    generated_at: "2026-11-08T22:48:29.613941Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exposure:
+    brief: |-
+      THE CONFLICT: Earlier allegations of a "cottage industry" in Baldwin County Family Court and unethical practices against Judge Thomason and Attorney Stephen Johnson; the defeat of Tim Kant.
+
+      THE DISCOVERY: The Ripp Report and Baldwin County Legal Eagle achieved a record posting (48,200 people reached) confirming earlier allegations against Judge Thomason and Attorney Stephen Johnson, resulting in 9 phone calls.
+
+      THE PIVOT: Article 2 provided the initial public awareness and data (48,200 reach) regarding the court's dysfunction and linked Divorce Corp. as a case study, establishing the historical context for the focused, ongoing exposure campaign in Article 1.
+
+      KEY ENTITIES: Judge Michelle Thomason (District Court Place 1), Attorney Stephen Johnson, Judge "buddy" Bracken (Orange Beach), Jack Burrell, Divorce Corp, The Ripp Report, Baldwin County.
+    llm_text: The Ripp Report confirmed serious unethical practices against Judge Michelle Thomason and Attorney Stephen Johnson in Baldwin County Family Court. Over 48,200 people saw this record exposure detailing the county's dysfunction and why families need court oversight.
+    widget_date: "2016-11-02"
+    generated_at: "2026-11-08T22:49:49.877433Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-family-court-a-cottage-industry:
+    brief: |-
+      THE CONFLICT:
+      *   District Judge Michelle Thomason faced consistent complaints regarding her rulings in Baldwin County Family Court, specifically her 50/50 custody decisions, which caused family hardship.
+      *   Thomason was associated with political activity, specifically the Eastern Shore Republican Women, raising questions about compliance with Judicial Canons 5 and 7.
+      *   The court process was characterized by a "cottage industry" of divorce and child custody, with divorces taking up to 12 years.
+
+      THE DISCOVERY:
+      *   In the last 18 months, Judge Thomason received up to 6 complaints against her, all of which were officially dismissed by the Judiciary.
+      *   In 2017, changes implemented by Presiding Judge Floyd reassigned Thomason’s temporary custody and support motions to other circuit judges, preventing her from dictating status quo orders at the beginning of cases.
+      *   Thomason's domestic violence dockets were also specially assigned to other judges in 2017.
+
+      THE PIVOT:
+      *   Article 2 establishes that the systemic problems (complaints, ethical concerns, difficult custody rulings) were well-documented, officially investigated (and dismissed), and partially mitigated by court changes (2017 assignments).
+      *   Article 1 indicates that the core complaints are resurfacing ("several people have come forward with the same complaints we visited last year"), suggesting the systemic issues or the underlying behavior have not been resolved despite the prior judicial changes and official review.
+
+      KEY ENTITIES:
+      *   Judge Michelle Thomason (District Court Place 1)
+      *   Attorney Stephen “bottom feeder” Johnson
+      *   Judge “buddy” Bracken (Mentor to Thomason)
+      *   Jack Burrell
+      *   Judge Floyd
+      *   Judge Bishop
+      *   Judge Norton
+      *   Judge Taylor
+      *   Baldwin County Family Court
+      *   Divorce Corp
+      *   Eastern Shore Republican Women
+      *   2020 (Election focus)
+    llm_text: Judge Michelle Thomason faces renewed custody complaints despite 2017 court changes and official dismissals. Her controversial 50/50 rulings in Baldwin County Family Court continue to cause severe family hardship.
+    widget_date: "2016-10-28"
+    generated_at: "2026-11-08T22:51:05.892241Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

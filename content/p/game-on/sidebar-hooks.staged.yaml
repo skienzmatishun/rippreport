@@ -1,0 +1,49 @@
+metadata:
+  generated_at: "2026-11-09T10:54:48.667793Z"
+  generator_version: 1.0.0
+  post_slug: game-on
+  main_date: "2016-07-20"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fraud:
+    brief: |-
+      THE CONFLICT: Mayor Tim F. Kant was involved in the Dyas "triangle lawsuit" in Fairhope. The lawsuit cost the city $12 million (mentioned in Article 1) and led to the city purchasing the property in a settlement. This occurred over two decades of fighting the Dyas family, costing the city $3 million in legal fees paid to Hand-Arendall.
+      THE DISCOVERY: The January 29, 2011, Widget Article established that the Mayor (Tim F. Kant) lied to citizens about the lawsuit, claiming the city was in good hands and would not pay legal fees. Kant's denial of political influence in the case was contradicted by his October 30, 2015, deposition regarding a loan from Bobby Faust.
+      THE PIVOT: Article 2 proves that Mayor Kant's claims of transparency and competence (e.g., regarding the triangle lawsuit) are fraudulent and deceptive, providing historical evidence that supports the current claims in Article 1 that the city operates as a "criminal enterprise" and lacks "transparency" under Mayor Kant's leadership.
+      KEY ENTITIES: Tim F. Kant, Karin Wilson, John Lake, Harry Still III, Mayor Haygood, Stacy, Elliot, Bobby Faust, Sherry Sullivan, Kevin Boone, Fairhope, Daphne, Triangle lawsuit, Fly Creek Apartments, Hand-Arendall, Lagniappe, AL.com, January 29, 2011, October 30, 2015.
+    llm_text: Mayor Tim F. Kant lied to Fairhope citizens about the $12 million Dyas triangle lawsuit. His 2015 deposition regarding Bobby Faust contradicts his 2011 claims, proving Kant's leadership lacks transparency and competence.
+    widget_date: "2016-07-15"
+    generated_at: "2026-11-09T10:53:25.863516Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wonderful-wednesday:
+    brief: |-
+      THE CONFLICT:
+      Mayor Kant is accused of fraud, misuse of public funds (including trips for horticulture awards), and favoring private development over public interest through "good ole boy tricks" in Fairhope.
+      Mr. Corte successfully demanded Kant reverse a planning and zoning decision for his private development, receiving infrastructure paid for by Fairhope (approx. $1 million).
+      Allegations exist regarding Kant and Senator Pittman's participation in a BP Fraud grant.
+
+      THE DISCOVERY:
+      Article 2 revealed that Sherry Sullivan, described by Fairhope employees as "Mayor in Training," was traveling with Mayor Kant on tax-funded trips (e.g., to accept European awards).
+      Article 2 documented Kant's pattern of using planning and zoning power to benefit developers like Mr. Corte, linking these actions to the infrastructure neglect in Fairhope.
+
+      THE PIVOT:
+      Article 2 provides the historical evidence (e.g., Corte's development approval, fraud allegations, double-dipping/bonuses) that Article 1 uses to frame Mayor Kant as a failure and justify calls for his removal and the election of candidates like Karin Wilson.
+
+      KEY ENTITIES:
+      Mayor Kant
+      Sherry Sullivan
+      Mr. Corte
+      Jennifer Fiddler
+      Senator Pittman
+      Karin Wilson
+      John Lake
+      Harry Still III
+      Fairhope
+      Daphne
+      Fly Creek Apartments
+      Triangle lawsuit
+      Baldwin County
+    llm_text: Mayor Kant used tax funds for trips with Sherry Sullivan and granted Mr. Corte $1M in infrastructure via planning deals. See how his 'good ole boy tricks' fuel calls for his removal and the election of Karin Wilson in Fairhope.
+    widget_date: "2016-07-13"
+    generated_at: "2026-11-09T10:54:32.431068Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

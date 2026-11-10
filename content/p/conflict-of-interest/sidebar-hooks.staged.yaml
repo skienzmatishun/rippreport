@@ -1,0 +1,116 @@
+metadata:
+  generated_at: "2026-11-09T06:29:27.161920Z"
+  generator_version: 1.0.0
+  post_slug: conflict-of-interest
+  main_date: "2017-01-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT: Kevin Boone, through LLCs, had ongoing business connections with John Avent and the engineering company Dewberry Preble-Rish, LLC, while serving on Fairhope City Council and Planning and Zoning. This conflict was evident during the September 2016 Planning and Zoning meeting (SD 16.14) regarding the Retreat at Fairhope Village (Fly Creek Apartments).
+      THE DISCOVERY: The Widget Article provides specific Fairhope Planning and Zoning Commission Minutes from 2016 (e.g., Sept 3, 2016 SD 16.14) documenting Mr. Boone voting on multiple projects presented by Dewberry/Preble-Rish (e.g., Fly Creek Apartments, Old Battles Place, Firethorne) and confirms a $2500.00 campaign donation from the firm to his re-election campaign.
+      THE PIVOT: The Widget Article serves as the 'smoking gun' by providing dated, documented evidence (P&Z minutes) proving that Boone did not recuse himself from voting on projects tied to his business partner, John Avent/Preble-Rish, thus substantiating the claims of conflict of interest made in the Main Article.
+      KEY ENTITIES: Kevin Boone, John Avent, Dewberry Preble-Rish, LLC, Fairhope City Council, Planning and Zoning, Fly Creek Apartments, Retreat at Fairhope, Jay Robinson, Hollie MacKellar, George Robards, Conners, Brown, Robinson, Wilson, Preble-Rish, LLC.
+    llm_text: Kevin Boone voted on projects like Fly Creek Apartments while serving on Fairhope City Council. Minutes confirm Boone had business ties to Dewberry Preble-Rish and accepted a $2500 donation, proving he failed to recuse himself from conflicts of interest.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T06:22:40.749842Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-spiders-web:
+    brief: |-
+      THE CONFLICT:
+      *   Kevin Boone, a Fairhope City Councilman, has maintained business connections through LLCs with individuals and engineering company Preble-Rish for many years.
+      *   Boone has failed to acknowledge these conflicts or recuse himself from voting on related issues over the last four and a half years.
+      *   Boone voted on the Fly Creek Apartments (Retreat at Fairhope) issue twice in September 2016 (SD 16.14) while John Avent (representing Preble-Rish) was present during Planning and Zoning meetings.
+      *   Other council members (Robinson, Conners, Brown) acknowledged conflicts of interest and abstained from voting on certain agenda items.
+
+      THE DISCOVERY:
+      *   The LLC network connects elected officials in Baldwin County, allowing them to promote private interests without detection.
+      *   The Widget Article published copies of LLCs demonstrating a clear conflict of interest connecting Councilman Kevin Boone to individuals like John Avent.
+      *   Boone has advocated for specific engineering firms and received campaign contributions from the same LLCs in which he has a financial interest.
+
+      THE PIVOT:
+      *   Article 2 established the existence of the opaque LLC network and the financial ties between Boone and Avent, providing the foundational proof for the specific voting conflicts and lack of recusal detailed in Article 1.
+      *   The initial disclosure of the "spider's web" of LLCs validates the claim that Boone's voting decisions (e.g., opposing new Mayor's efforts to hire fresh eyes for sewer infrastructure) are driven by personal financial interest, not public good.
+
+      KEY ENTITIES:
+      *   Kevin Boone (Fairhope City Councilman)
+      *   John Avent (Preble-Rish/Dewberry)
+      *   Preble-Rish, LLC
+      *   Fly Creek Apartments (Retreat at Fairhope)
+      *   September 2016 (SD 16.14)
+      *   Robinson (Councilman)
+      *   Conners (Councilman)
+      *   Brown (Councilman)
+      *   Tucker Dorsey (County Commissioner)
+      *   Chris Elliott (County Commissioner)
+      *   Ethics Commission (Alabama)
+      *   Ordinance 1572
+    llm_text: Fairhope City Councilman Kevin Boone maintains secret LLC connections with John Avent of Preble-Rish. He failed to recuse himself from votes like the Fly Creek Apartments issue, proving private profit outweighs public good.
+    widget_date: "2017-01-18"
+    generated_at: "2026-11-09T06:24:25.437698Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  you-re-fired:
+    brief: |-
+      THE CONFLICT: Tucker Dorsey failed to heed a 2010 Alabama Ethics Commission advisory opinion regarding BCSS business dealings (complaint filed July 29, 2016). Councilman Kevin Boone maintained a direct business connection via LLCs to John Avent of Preble-Rish, LLC, for 4.5 years, voting on Preble-Rish projects including Firefly and the Retreat at Fairhope (Fly Creek Apartments) in Sept 2016 (SD 16.14).
+      THE DISCOVERY: The Alabama Ethics Commission defines a conflict of interest as actions by a public official affecting their personal financial interests or those of associated businesses.
+      THE PIVOT: Article 2 establishes the legal standard and the Ethics Commission's authority, providing the necessary context to prove that Boone’s failure to recuse himself from Fly Creek (Sept 2016) constitutes a clear violation, contrasting with Councilmen Robinson, Conners, and Brown who properly abstained.
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish, Fairhope City Council, Fly Creek Apartments, Tucker Dorsey, Alabama Ethics Commission, Robinson, Conners, Brown, Ordinance 1572
+    llm_text: Kevin Boone maintained a direct business tie with John Avent of Preble-Rish, LLC, for four and a half years. Did Boone violate the Alabama Ethics Commission by voting on Fly Creek Apartments in 2016, even as Councilmen Robinson, Conners, and Brown properly abstained?
+    widget_date: "2016-07-29"
+    generated_at: "2026-11-09T06:25:36.262406Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bit-dogs-bark-first:
+    brief: |-
+      THE CONFLICT: Kevin Boone had long-standing business connections with John Avent of Dewberry Preble-Rish, LLC, dating prior to Boone serving on the Fairhope City Council. Boone voted on the Fly Creek Apartments (Retreat at Fairhope) twice in September 2016 (SD 16.14) while Avent represented Preble-Rish.
+      THE DISCOVERY: Business entity records show Kevin Boone and John G. Avent are members of BA-101, LLC (formed 4-29-2004) and North Ridge, LLC (formed 6-2-2008).
+      THE PIVOT: Article 2 provides dated, legal documentation (LLC formation and membership records) proving the Boone-Avent connection is a long-term business relationship, not a recent or isolated conflict, establishing the foundation for the conflicts cited in Article 1.
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish, Dewberry, Fly Creek Apartments (Retreat at Fairhope), Fairhope City Council, Robinson, Conners, Brown, Burrell, Hix, Fairhope Airport.
+    llm_text: Kevin Boone maintained long-standing business ties with John Avent of Preble-Rish, dating back to 2004 before serving on the Fairhope City Council. Discover the LLC records proving this deep relationship influenced his 2016 votes on the Fly Creek Apartments.
+    widget_date: "2017-01-11"
+    generated_at: "2026-11-09T06:27:01.875797Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-down-and-i-call:
+    brief: |-
+      THE CONFLICT: Airport Authority board members, including Council President Jack Burrell, faced allegations of conflicts regarding past airplane hanger leases, prompting an Ethics Complaint filed by the Mayor in early December 2016.
+      THE DISCOVERY: Article 2 revealed that the Ethics Commission was potentially manipulated by individuals involved in the Airport Authority, specifically noting the municipal judge as a partner of a board member and the Council President's role on the bid committee.
+      THE PIVOT: Article 2 establishes a historical pattern (Dec 2016) of systemic ethical manipulation and conflicts within Fairhope leadership (Council President/Authority) that provides context for the current, ongoing conflicts of interest involving Councilman Kevin Boone (Sept 2016/current) and Preble-Rish/John Avent.
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish, Fly Creek Apartments (Retreat at Fairhope), Sept 2016, Councilman Robinson, Councilman Conners, Councilman Brown, Jack Burrell, Fairhope Airport Authority, December 21, 2016, Ethics Commission.
+    llm_text: Jack Burrell and the Airport Authority faced ethical scrutiny over 2016 hanger leases. See how that pattern of manipulation connects to current conflicts involving Kevin Boone and Preble-Rish.
+    widget_date: "2016-12-21"
+    generated_at: "2026-11-09T06:28:09.245785Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-airport-authority-flying-without-a-compass:
+    brief: |-
+      THE CONFLICT:
+      Past conflict involved indications of wrongdoing at the Fairhope Airport and subsequent legal/ethical issues; a specific illegal meeting occurred before the Fairhope City Council received additional Alabama Ethics training.
+      THE DISCOVERY:
+      Article 2 revealed prior to the current conflict that there were "every indication that something stunk at the airport" and that the Mayor and City Council were covering for "major players" at the airport.
+      THE PIVOT:
+      Article 2 establishes a historical pattern of ethical failure and cover-up by the City Council (including the previous Mayor/Council) before the current conflict (Article 1) involving Councilman Kevin Boone and Preble-Rish/Fly Creek Apartments, suggesting systemic political corruption rather than isolated incidents.
+      KEY ENTITIES:
+      Fairhope Airport Authority
+      Fairhope City Council
+      Kevin Boone
+      John Avent
+      Dewberry Preble-Rish, LLC
+      Preble-Rish
+      Fly Creek Apartments (Retreat at Fairhope)
+      Robinson
+      Conners
+      Brown
+      Ordinance 1572
+      Fairhope Times
+    llm_text: Fairhope City Council didn't just cover for Kevin Boone and Preble-Rish; evidence shows a historical pattern of ethical failure at Fairhope Airport. Learn how the council covered up "major players" long before the recent conflict erupted.
+    widget_date: "2016-12-14"
+    generated_at: "2026-11-09T06:23:29.997319Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exposure:
+    brief: |-
+      THE CONFLICT: Councilman Kevin Boone had undisclosed business connections through LLCs to John Avent of Dewberry Preble-Rish, LLC; Boone voted on the Retreat at Fairhope (Fly Creek Apartments) twice in Sept 2016 (SD 16.14) while Avent represented Preble-Rish.
+      THE DISCOVERY: Article 2 (Widget) revealed allegations against Judge Thomason and Attorney Stephen Johnson in Baldwin County Family Court, demonstrating systemic failure and unethical conduct within the judiciary and legal field.
+      THE PIVOT: Article 2 establishes that public exposure (via The Ripp Report, social media, and citizen action) is the necessary mechanism to unseat unethical officials and force systemic change, providing the context for the call to action regarding Boone's conflict in Article 1.
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish, Fairhope City Council, Sept 2016, Judge Thomason, Stephen Johnson, Robinson, Conners, Brown, Fly Creek Apartments.
+    llm_text: The Ripp Report exposed systemic failure involving Judge Thomason and Attorney Stephen Johnson in Baldwin County Family Court. See how exposing conflicts like Councilman Kevin Boone's connection to John Avent and Preble-Rish forces necessary change.
+    widget_date: "2016-11-02"
+    generated_at: "2026-11-09T06:29:11.229553Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

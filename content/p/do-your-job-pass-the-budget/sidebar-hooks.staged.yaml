@@ -1,0 +1,122 @@
+metadata:
+  generated_at: "2026-11-08T19:50:08.212947Z"
+  generator_version: 1.0.0
+  post_slug: do-your-job-pass-the-budget
+  main_date: "2017-12-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-the-beautiful:
+    brief: |-
+      THE CONFLICT: Roy Moore was found guilty of Ethics charges, violated his oath of office and the judiciary twice, and was thrown off the bench during the Alabama Senate race.
+
+      THE DISCOVERY: The second article (older context) identified the "Moore Factor," demonstrating that 48% of Alabama voters prioritize personal/religious beliefs over factual evidence, leading to single-party political failure.
+
+      THE PIVOT: The Moore scandal establishes a statewide precedent of political disregard for the rule of law, which serves as background context for the local ethical and procedural failures in Article 1, where Council President Burrell prioritizes crony interests (Fairhope Airport) and obstructs the city budget rather than upholding municipal responsibilities.
+
+      KEY ENTITIES: Roy Moore, Alabama, Fairhope, Burrell (Council President), Wilson (metadata), Mayor (Fairhope City Council)
+    llm_text: Roy Moore violated his oath of office twice in Alabama, setting a clear precedent for political disregard of the rule of law. Does this statewide pattern explain why Fairhope Council President Burrell obstructs the city budget to prioritize crony interests like the Fairhope Airport?
+    widget_date: "2017-12-13"
+    generated_at: "2026-11-08T19:43:07.284357Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  protester-pride:
+    brief: |-
+      THE CONFLICT: Roy Moore lost his judicial job twice by violating his oath of office; citizens protested his candidacy against Bannon.
+      THE DISCOVERY: 70+ people, including Ginger Broadway Poynter, Michele Walker Harmon, and Kim Mc Cuiston, participated in peaceful protest in Baldwin County asserting constitutional rights against politicians.
+      THE PIVOT: Article 2 establishes a history of active, successful local civic resistance against powerful political figures in Fairhope/Baldwin County, providing context for the current demand for accountability and budget resolution against Council President Burrell (Article 1).
+      KEY ENTITIES: Roy Moore, Bannon, Ginger Broadway Poynter, Michele Walker Harmon, Kim Mc Cuiston, Burrell, Mayor (Fairhope City Council), Wilson
+    llm_text: Ginger Poynter, Michele Harmon, and Kim Mc Cuiston protested Roy Moore and Bannon in Baldwin County. Discover how this history of local civic resistance empowers demands for accountability against Council President Burrell.
+    widget_date: "2017-12-06"
+    generated_at: "2026-11-08T19:45:40.700882Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  listening-not-reading:
+    brief: |-
+      THE CONFLICT:
+      *   Council President Jack Burrell faced ethics complaints regarding the Fairhope Airport Authority (FAA) hanger lease (costing $750,000 for a $1 million airplane).
+      *   On 1/12/11, Councilman Rick Kingrea sent a "plain vanilla request" to the Attorney General referencing possible ethical violations by public officials related to the BP oil spill.
+      *   Karin Wilson became Mayor of Fairhope during the first fair election, succeeding a period where Burrell held significant council power.
+
+      THE DISCOVERY:
+      *   Article 2 proved that the FAA was compelled to bid the hanger lease because Mr. Hix was on the Airport Authority board.
+      *   The Ethics Commission mandate requires public officials to conduct business through a bid process, regardless of whether specific bid laws apply.
+
+      THE PIVOT:
+      *   Article 1 accuses Burrell of protecting cronies at the airport while hiding behind the Alabama Non-Ethics Commission. Article 2 provides documented evidence (Hix's board membership and Ethics Commission rulings) that Burrell was deliberately misleading the public about the legal requirement for bidding.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Mr. Hix
+      *   Karin Wilson (Mayor)
+      *   Mayor Kant
+      *   Fairhope City Council
+      *   Fairhope Airport Authority
+      *   Ethics Commission
+      *   Rick Kingrea
+      *   Alabama Non-Ethics Commission
+    llm_text: Council President Jack Burrell misled Fairhope residents about the $750,000 FAA hanger lease. Documents prove Mr. Hix's Airport Authority board role legally compelled the bid process, exposing Burrell's ethical violations.
+    widget_date: "2017-03-10"
+    generated_at: "2026-11-08T19:46:44.175948Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-lawsuits:
+    brief: |-
+      THE CONFLICT: Fairhope City Council previously assisted fired employees in litigation against the city; the council then voted in executive session to pay settlements (insurance money) to these employees, overriding the Mayor. This historical pattern includes the Triangle lawsuit (settled by "Jack") and a pending lawsuit related to Fly Creek Apartments where the council overrode planning and zoning decisions.
+      THE DISCOVERY: The Council has a history of using executive session and agenda tricks to hide costly lawsuits from the public, resulting in millions paid to taxpayers for employee settlements.
+      THE PIVOT: Article 2 establishes the recurring pattern of the Council overriding the Mayor and using taxpayer funds for litigation settlements related to fired employees; this context explains the current obstruction (Article 1) where the council again sides with fired employees in litigation while blocking the city budget.
+      KEY ENTITIES: Fairhope City Council, Mayor, Burrell (Council President), Fairhope Airport, Fly Creek Apartments, Triangle lawsuit
+    llm_text: Fairhope City Council repeatedly hides millions in fired employee settlements—like the Triangle lawsuit—using executive sessions, often overriding the Mayor. See how the Council's pattern of secrecy is blocking the city budget and impacting taxpayers today.
+    widget_date: "2017-10-27"
+    generated_at: "2026-11-08T19:47:48.163982Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wetlands:
+    brief: |-
+      THE CONFLICT: Environmental neglect and regular sewer spills/sewage dumping in Fairhope/Daphne/Spanish Fort Fly Creek Watershed (Oct 9, 2017). Councilman Kevin Boone had an exposed LLC related to the Firefly subdivision within this watershed.
+      THE DISCOVERY: City officials (City of Fairhope, EPA, Dept of Health, etc.) failed to follow up or contact citizens regarding foul odors and discolored, contaminated water in the Fly Creek Watershed (Oct 2017).
+      THE PIVOT: Article 2 demonstrates a historical pattern of City Council prioritizing private interests (Arthur Corte's land, Boone's LLC) over public environmental welfare, establishing the context for the later obstruction of the Fairhope City Budget (Dec 2017) where Council President Burrell protected crony interests (Fairhope Airport) and sided with disgruntled, litigating employees over the city's long-term fiscal health.
+      KEY ENTITIES: Kevin Boone, Arthur Corte, Casi Callaway, Council President Burrell, Wilson, Fly Creek, Fairhope City Council, Baykeepers, Jim Graves, ADEM Lance Leflur.
+    llm_text: In 2017, Kevin Boone's LLC connected directly to sewage spills polluting the Fly Creek Watershed. Fairhope City Council prioritized crony interests like Arthur Corte's land over public welfare, ignoring citizen reports of foul, contaminated water.
+    widget_date: "2017-10-11"
+    generated_at: "2026-11-08T19:48:55.916802Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  free-speech:
+    brief: |-
+      THE CONFLICT:
+      *   Ground Lease and Operating Agreement for Mid-Bay Air, LLC involved H. Ray Hix and the Fairhope Airport Authority (FAA).
+      *   The process spanned December 16th, 2015, through March 20th, 2017.
+      *   The FAA Board, including Joe McEnerney (Board Chairman), and associated members were linked to potential conflicts of interest.
+
+      THE DISCOVERY:
+      *   The request for Advisory Opinion to the Alabama Ethics Commission on December 16th, 2015, contained false documents (the Dec 21st lease differed from the executed Dec 17th lease).
+      *   The documents proved the FAA failed to comply with the February 3rd, 2016, Ethics Advisory Opinion requiring contract filing within 10 days of signing.
+      *   The RFP process was tainted, suggesting Board members used inside information for personal gain.
+
+      THE PIVOT:
+      *   Article 2 provides documented proof of historical ethical breaches and cronyism within the Fairhope Airport Authority, validating Article 1's claim that Council President Burrell protects "his crony friends at the airport."
+      *   The historical conflicts revealed in Article 2 provide context for the current budget obstruction (Dec 6th/18th) which centers on the "sacred cow" of the Fairhope Airport.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Fairhope City Council
+      *   Fairhope Airport Authority (FAA)
+      *   Joe McEnerney (FAA Board Chairman)
+      *   H. Ray Hix (Mid-Bay Air, LLC Operator)
+      *   Pam Caudill (FAA Board member)
+      *   Dennis R. Bailey ESQ (Rushton, Stakley, Johnston and Garrett)
+      *   Alabama Ethics Commission
+      *   Mike Turner
+      *   Fairhope (City/Baldwin County)
+      *   December 17th, 2015 (Executed Lease)
+      *   December 21st, 2015 (Submitted Lease/Exhibit C)
+      *   February 3rd, 2016 (Ethics Advisory Opinion)
+    llm_text: Joe McEnerney and the Fairhope Airport Authority used false documents regarding the H. Ray Hix lease, violating key ethics rules. Discover documented cronyism at the FAA, proving Council President Jack Burrell protects his friends and impacts your local budget.
+    widget_date: "2017-09-08"
+    generated_at: "2026-11-08T19:44:31.638138Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  now-you-know-jack:
+    brief: |-
+      THE CONFLICT: Jack Burrell orchestrated a campaign obstructing Mayor Kant from day one, stemming from an Ethics complaint the Mayor was required by law to file.
+      THE DISCOVERY: Article 2 proves Burrell has historically used his position to deny citizens free speech rights (three times) and actively opposed the City of Fairhope holding title to the subsidized Fairhope Airport land, favoring the Authority's control.
+      THE PIVOT: Article 2 establishes that Burrell's protection of the Fairhope Airport (the "sacred cow" mentioned in Article 1) is not for the city's best interest but is part of a long-term, documented political conflict against the Mayor, providing context for the current budget deadlock (Dec. 6th/18th).
+      KEY ENTITIES: Jack Burrell, Mayor Kant, Fairhope City Council, Fairhope Airport, Ethics Commission, The Ripp Report
+    llm_text: Jack Burrell obstructs Mayor Kant over a required ethics complaint. His defense of the Fairhope Airport isn't for the city; it's part of a long political conflict against the Mayor.
+    widget_date: "2017-08-30"
+    generated_at: "2026-11-08T19:49:51.188242Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

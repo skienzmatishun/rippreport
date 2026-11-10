@@ -1,0 +1,125 @@
+metadata:
+  generated_at: "2026-11-09T05:49:45.318602Z"
+  generator_version: 1.0.0
+  post_slug: jack-box-airport
+  main_date: "2017-02-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  5000-00-cash-reward:
+    brief: |-
+      THE CONFLICT: Formal complaint against Councilman Jack Burrell (Fairhope) alleging he and family received free airplane transportation from the winning bidder while serving as an elected official, involving involvement in bid selection.
+      THE DISCOVERY: The Ripp Report and BCLE offered a $5,000 cash reward to anyone who could prove the complaint against Jack Burrell was false, fabricated, or based on willful malicious intent.
+      THE PIVOT: The initial formal complaint (Article 2) established the core allegations against Burrell, which are now being addressed by the Fairhope Airport Authority using tax dollars to hire an ethics attorney, involving Ray Hix's attorney and a request for an Ethics Commission Advisory Opinion (Article 1).
+      KEY ENTITIES: Jack Burrell (Council President, Airport Authority Board member), Ray Hix (Sec. Treasurer, Airport Authority Board member), Fairhope Airport Authority, The Ripp Report, BCLE, Hugh Evens (Ethics Commission Chief Council), Mr. Bailey (Hix's attorney), Mayor Wilson, Mayor Kant.
+    llm_text: Councilman Jack Burrell faces a formal complaint alleging he received free airplane transport from a winning bidder during bid selection. The Fairhope Airport Authority is now using taxpayer dollars to hire an ethics attorney to investigate the serious claims.
+    widget_date: "2017-02-08"
+    generated_at: "2026-11-09T05:42:21.572918Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  caught-trap-like-rat:
+    brief: |-
+      THE CONFLICT: Alleged "bid rigging" involving Jack Burrell’s participation in the Airport Authority, leading to Ethics complaints filed by The Ripp Report following the removal of 16-year Mayor Kant.
+      THE DISCOVERY: The Ripp Report filed up to four Ethics complaints against Jack Burrell regarding his involvement with the Airport Authority and obstruction of repealing Ordinance 1572 (Fly Creek Apartments).
+      THE PIVOT: The Airport Authority is currently using tax dollars and Ray Hix's attorney to defend board members (Burrell and Hix) in an attempt to quash the legitimate Ethics investigation originally initiated by The Ripp Report against Burrell.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Mayor Kant, Mayor Wilson, The Ripp Report, Ethics Commission, Fairhope Airport Authority, Hugh Evens, Mr. Bailey.
+    llm_text: Jack Burrell faces Ethics complaints over alleged bid rigging at the Airport Authority. Now, the Airport Authority is using tax dollars and Ray Hix's attorney to defend board members and quash The Ripp Report's investigation.
+    widget_date: "2017-02-03"
+    generated_at: "2026-11-09T05:44:35.266249Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-public-opinion-now-session:
+    brief: |-
+      THE CONFLICT: Improper bidding and bid rigging by Fairhope Airport Authority; lease execution on Dec 17, 2015, occurred before the required Ethics Commission Advisory Opinion (Feb 3, 2016). Jack Burrell (City Council President/Authority Board Member) and Ray Hix (Sec. Treasurer) were central to the process.
+      THE DISCOVERY: Ray Hix utilized privileged information obtained during his tenure (April-July 2015) as an Authority member to benefit his company, Hix/Snedeker/Mid-Bay Air LLC, during the RFP process.
+      THE PIVOT: Article 2 establishes the historical corruption (improper bidding and insider information use) that Article 1 details the current, defensive response to—specifically the Authority using tax dollars to hire Ray Hix's attorney to quash the complaint.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Hugh Evens, Mr. Bailey, Mayor Wilson, Mid-Bay Air LLC, Fairhope Airport Authority, Karin Wilson
+    llm_text: Ray Hix used privileged information as an Authority member to benefit his company during the Fairhope Airport bid process. Now, the Authority is using taxpayer dollars to hire Hix’s attorney to quash the corruption complaint involving Jack Burrell.
+    widget_date: "2017-01-27"
+    generated_at: "2026-11-09T05:46:57.836549Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT: Kevin Boone, Fairhope Councilman, voted on projects involving his business partner, John Avent, and engineering firm Dewberry/Preble-Rish, LLC, between June 6, 2016, and October 3, 2016, without recusing himself.
+      THE DISCOVERY: Dewberry/Preble-Rish, LLC donated $2500.00 to Kevin Boone's re-election campaign, constituting a clear violation of Ethics rules due to Boone's involvement in their projects (e.g., Fly Creek Apartments, 240-unit project).
+      THE PIVOT: Article 2 establishes a historical pattern of conflicts of interest and ethical breaches involving local Fairhope officials (Boone) and development firms (Preble-Rish). This context highlights the current ethical crisis in Article 1, where the Fairhope Airport Authority is using tax dollars to hire Ray Hix’s attorney to defend board members (Jack Burrell and Ray Hix) against an investigation by the Attorney General’s office and the Ethics Commission.
+      KEY ENTITIES:
+      Jack Burrell (Airport Authority board member, elected official)
+      Ray Hix (Airport Authority Sec. Treasurer, attorney)
+      Kevin Boone (Fairhope Councilman)
+      John Avent (Business partner of Boone, Dewberry/Preble-Rish)
+      Fairhope Airport Authority
+      Fairhope Planning and Zoning Commission
+      Mr. Hugh Evens (Ethics Commission Chief Council)
+      Mr. Bailey (Ray Hix's attorney)
+      Mayor Wilson
+      Mayor Kant
+      Preble-Rish
+      Dewberry/Preble-Rish, LLC
+      Francis Paul Ripp (The Ripp Report)
+    llm_text: Councilman Kevin Boone violated ethics rules when Dewberry/Preble-Rish donated $2500 while he oversaw their projects. Now, the Fairhope Airport Authority spends tax dollars hiring Ray Hix's attorney to defend officials like Jack Burrell from an AG investigation.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T05:45:41.729028Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boone-doggle:
+    brief: |-
+      THE CONFLICT: Councilman Boone engaged in conflicts of interest by voting on council resolutions involving hundreds of thousands of dollars for engineering companies connected to his LLCs.
+      THE DISCOVERY: The older article established patterns of financial conflicts and lack of transparency among Fairhope City Council members (including Boone and past councilman Ford).
+      THE PIVOT: This history of council conflicts establishes the broader context of ethical failure in Fairhope governance, which is evident in the later Airport Authority controversy where tax dollars are used to hire Mr. Hix's attorney to defend board members (Jack Burrell) against legitimate Ethics Commission complaints.
+      KEY ENTITIES: Jack Burrell, Ray Hix, Fairhope Airport Authority, Mr. Hugh Evens, Councilman Boone, Mayor Wilson, Mr. Bailey
+    llm_text: Councilman Boone voted on resolutions benefiting his LLCs, creating serious conflicts of interest in Fairhope. This ethical failure extends to the Airport Authority, where tax dollars fund Jack Burrell’s defense against valid Ethics Commission complaints.
+    widget_date: "2017-01-13"
+    generated_at: "2026-11-09T05:47:57.237348Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Karin Wilson urged council to take ownership of 258 acres purchased by Fairhope Airport Authority in 2007 for $8.85 million to reduce debt (21% of Fairhope's overall borrowing).
+      *   Jack Burrell, Airport Authority Board member, allegedly mocked Wilson and refused to recuse himself from bid selection he influenced.
+      *   This conflict led to a complaint regarding the Airport Authority's finances and Burrell's involvement.
+
+      THE DISCOVERY:
+      *   Article 2 showed Burrell prioritizing airport users over the broader citizenry, undermining Mayor Wilson's efforts to place the land title in city ownership despite the land being paid for by city tax dollars.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of alleged self-interest and financial mismanagement by Jack Burrell concerning Airport Authority assets (the land/tax dollars), providing the historical context for the subsequent legal and ethics inquiry (Article 1) regarding the lease and use of tax dollars for investigations.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President, Airport Authority Board member)
+      *   Karin Wilson (Mayor)
+      *   Ray Hix (Sec. Treasurer, Airport Authority; attorney involved in lease request)
+      *   Fairhope Airport Authority
+      *   258 acres
+      *   $8.85 million
+      *   2007
+      *   Hugh Evens (Ethics Commission Chief Council)
+      *   Mr. Bailey (Hix's attorney)
+    llm_text: Mayor Karin Wilson urged city ownership of 258 acres bought for $8.85 million in 2007. Board member Jack Burrell allegedly prioritized airport users, undermining city tax dollars and fueling an ethics inquiry.
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T05:43:25.825169Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT:
+      *   2016: Fairhope Airport Authority had been flying under public scrutiny; budget included half a million dollars annually, exceeding education contribution.
+      *   Mayor Wilson exercised an option on the original loan, allowing the city to take back 258 acres for $10.00 if not paid off by 2012.
+      *   Mayor Wilson noted Airport consumed 21% of City’s budget while serving 1% or less.
+      *   Mr. Burrell (Fairhope City Council President) supported the Authority over citizen interests, despite his representative role.
+
+      THE DISCOVERY:
+      *   The Fairhope Airport Authority exhibited historical financial opacity and conflict of interest due to board members having personal/financial links to the Authority.
+      *   Mr. Burrell was linked to the past "FAILED administration" and was at the helm of the Authority, serving on an ad hoc committee for hangar bids, conflicting with his council president role.
+
+      THE PIVOT:
+      *   Article 2 establishes Mr. Burrell's prior pattern of prioritizing the Authority over citizen interests.
+      *   Article 1 details a current complaint against the Authority/board members, where the Authority is using tax dollars to hire Mr. Hix's attorney (who prepared the lease) to quash investigation by the Attorney General and Ethics Commission.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Ray Hix (Sec. Treasurer for Authority)
+      *   Mayor Wilson
+      *   Mr. Hugh Evens (Ethics Commission Chief Council)
+      *   Mr. Bailey (Mr. Hix's attorney)
+      *   Fairhope Airport Authority
+      *   Fairhope City Council President
+    llm_text: Mayor Wilson warned the Fairhope Airport Authority consumed 21% of the city budget while Jack Burrell supported the board. Authorities now spend taxpayer money hiring Mr. Bailey to block an Attorney General investigation.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-09T05:49:17.817844Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

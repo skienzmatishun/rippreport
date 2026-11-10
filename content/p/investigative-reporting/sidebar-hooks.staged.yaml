@@ -1,0 +1,30 @@
+metadata:
+  generated_at: "2026-11-09T11:13:35.370821Z"
+  generator_version: 1.0.0
+  post_slug: investigative-reporting
+  main_date: "2016-06-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  political-intimidation:
+    brief: |-
+      THE CONFLICT: BP Fraud investigation involving Mayor Kant and Senator Pittman in Baldwin County. Mike Hubbard was subsequently convicted by the Alabama Attorney General (Special Council Matt Hart).
+
+      THE DISCOVERY: Senator Pittman served as the trustee of BP funds for Baldwin County and personally received $636,000 of those funds with the alleged assistance of Mayor Kant.
+
+      THE PIVOT: Article 2 establishes the initial financial corruption ($636,000 payment) and the trustee relationship linking Kant and Pittman directly to the BP fraud case, providing the core evidence for the FBI/Alabama Attorney General investigations detailed in Article 1.
+
+      KEY ENTITIES: Mayor Kant, Senator Pittman, Connie Baggett, Mike Hubbard, Matt Hart, Fairhope, Fly Creek, BP, Alabama Attorney General.
+    llm_text: Senator Pittman, a BP trustee, personally took $636,000 in fraud with Mayor Kant. See how this local corruption led to Mike Hubbard's conviction by Alabama Attorney General Matt Hart.
+    widget_date: "2016-06-17"
+    generated_at: "2026-11-09T11:12:23.484454Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  game-on-mayor-kant-hubbard-goes-down-youre-next:
+    brief: |-
+      THE CONFLICT: BP Fraud involving Mayor Kant and Senator Pittman, reported by Connie “the Hachette” Baggett on November 20, 2010.
+      THE DISCOVERY: The Ripp Report, established over 10 years prior, documents the long-term lack of honest information and political/judicial corruption in Fairhope/Baldwin County, focusing specifically on Mayor Kant.
+      THE PIVOT: Article 2 provides the historical context that Mayor Kant's corruption is not an isolated event but part of a sustained pattern of local political malfeasance, lending credibility to the 2010 BP Fraud investigation detailed in Article 1.
+      KEY ENTITIES: Mayor Kant, Senator Pittman, Mike Hubbard, Connie “the Hachette” Baggett, Matt Hart, Commissioners Dorsey, James, Ripp Report.
+    llm_text: Mayor Kant's 2010 BP Fraud with Senator Pittman fits a larger pattern. Connie Baggett and the Ripp Report expose how sustained local political corruption plagued Fairhope, showing this isn't an isolated incident.
+    widget_date: "2016-06-11"
+    generated_at: "2026-11-09T11:13:22.045540Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

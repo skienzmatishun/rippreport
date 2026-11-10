@@ -1,0 +1,229 @@
+metadata:
+  generated_at: "2026-11-08T21:46:32.187439Z"
+  generator_version: 1.0.0
+  post_slug: can-you-smell-it
+  main_date: "2017-10-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  pandemic-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   Alabama is described as one of the most corrupt states in the U.S.
+      *   Four state lawmakers were convicted since 2014.
+      *   Former Attorney General Luther turned a blind eye to Sen. Pittman skimming $750,000 from BP.
+      *   The City Council in Fairhope has been shown to obstruct the Mayor and prioritize political agendas over constituents.
+
+      THE DISCOVERY:
+      *   The Ethics Commission in Alabama lacks credibility and is viewed as protecting powerful politicians rather than enforcing ethics.
+      *   The local government in Fairhope (City Council) is actively involved in obstruction and prioritizing friends/political gain over community interest.
+
+      THE PIVOT:
+      *   Article 2 established the systemic, high-level corruption in Alabama, including the complicity of officials like Luther and Sen. Pittman in the BP incident.
+      *   This background context explains why environmental issues in Fairhope (like sewer spills, the Publix project runoff, and the $13M sewer upgrade over inland relocation) were ignored or downplayed by local bodies and non-profits like Mobile Baykeeper, who were not present at critical meetings.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Karen Wilson (Mayor)
+      *   Tim Kant (Former Mayor)
+      *   Mobile Baykeeper
+      *   Sen. Pittman
+      *   BP contractors
+      *   Publix project
+      *   Fly Creek
+      *   $13 million (sewer plant upgrade cost)
+      *   $10 million (2015-2016 non-utility expenses)
+      *   Ethics Commission
+    llm_text: Alabama corruption, where Luther overlooked Sen. Pittman's $750k BP skim, fuels local problems in Fairhope. The City Council obstructs Mayor Karen Wilson, ignoring critical sewer spills and the $13M upgrade for political gain.
+    widget_date: "2017-10-04"
+    generated_at: "2026-11-08T21:38:13.400268Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  switching-hats:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell served as City Council President in Fairhope for five years.
+      *   Burrell obstructed the Mayor and was involved in the Airport debacle, triangle lawsuit, soccer fields, sewer plant decisions, and the gift of wetlands from Corte.
+      *   Lee Turner held dual positions as Head of Planning and Zoning and Single Tax for years, raising conflict of interest concerns.
+      *   Turner promoted the Tatumville Subdivision project, using his position and Burrell's influence to circumvent normal council procedures, despite public concerns regarding the watershed.
+
+      THE DISCOVERY:
+      *   Fairhope City Council and Planning and Zoning lacked effective leadership.
+      *   Specific officials (Burrell and Turner) utilized their positions for obstruction and personal promotion of projects that negatively impacted the city (e.g., Tatumville, Fly Creek Apartments).
+
+      THE PIVOT:
+      *   Article 2 reveals that the environmental neglect and infrastructure failure highlighted in Article 1 (Fly Creek runoff, $13 million sewer upgrade vs. zero infrastructure spending) is rooted in historical, systemic governance failures and conflicts of interest by key officials (Burrell and Turner).
+      *   The manipulation of zoning and planning (Tatumville) by Turner is directly linked to the ongoing pressure on the watershed criticized in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Lee Turner
+      *   Fairhope City Council
+      *   Fairhope Planning and Zoning
+      *   Fly Creek
+      *   Tatumville Subdivision/Gully
+      *   Karen Wilson
+      *   Tim Kant
+      *   Mobile Baykeeper
+      *   Publix project
+    llm_text: Jack Burrell and Lee Turner exploited Fairhope City Council power to push projects like Tatumville, bypassing public concerns. Their conflicts of interest caused the systemic failures, fueling the Fly Creek runoff and current infrastructure crisis.
+    widget_date: "2017-09-29"
+    generated_at: "2026-11-08T21:41:59.664590Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  opposition-obstruction:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council, led by Council President Jack Burrell, voted as a unit against the Mayor (Article 2, older context).
+      *   On Sept 11, the council rejected a second insurance bid introduced by the Mayor, costing taxpayers $60,000 and resulting in less coverage.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Council President Jack Burrell directs the council's agenda, overriding the Mayor's recommendations (e.g., insurance bid rejection).
+      *   Councilman Boone defended document leaks as "transparency," while warning lawyers advised against leaking subpoenaed information.
+
+      THE PIVOT:
+      *   Article 2 establishes a history of political obstruction and agenda setting by the Fairhope City Council, which provides context for the environmental neglect detailed in Article 1 (e.g., ignoring Fly Creek runoff and sewer issues).
+      *   The council's political priorities (Article 2) explain the documented failure of the City to adequately address environmental problems (Article 1), such as spending $13 million on sewer upgrade instead of moving the plant inland.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President)
+      *   Councilman Boone
+      *   Karen Wilson (Mayor)
+      *   Tim Kant (Former Mayor)
+      *   Mobile Baykeeper
+      *   Publix project
+      *   Fairhope City Council
+      *   Fairhope (Location)
+    llm_text: Council President Jack Burrell controls Fairhope City Council, overriding Mayor Karen Wilson and rejecting a $60,000 insurance bid. This political agenda explains why the city neglects critical issues like Fly Creek runoff and sewer problems.
+    widget_date: "2017-09-15"
+    generated_at: "2026-11-08T21:40:47.849555Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-a-drainage-ditch:
+    brief: |-
+      THE CONFLICT:
+      *   Fly Creek Apartments faced a six-day trial in Bay Minette.
+      *   The trial stemmed from the City Council/Mayor allowing a large apartment complex and parking lot in the Fly Creek Watershed despite public concerns.
+      *   The Council endorsed the project in October 2016.
+      *   An extension was granted in April 2017 by the newly elected city council (except Jimmy Conyers).
+      *   Past Mayor and three councilmen were voted out of office due to these issues.
+      *   Publix construction caused damage to the creek, but this was not discussed at the 2016 trial.
+      *   A sewer spill at the same location on Fly Creek as the proposed apartments occurred.
+
+      THE DISCOVERY:
+      *   The City Council and Planning/Zoning rejected public concerns in favor of the developer due to political pressure.
+      *   The new drainage plan calls for a single point discharge at the outfall pipe, detouring the 1-acre retention pond and omitting the expansion to a 5-acre pond.
+      *   This plan directs excess stormwater from the complex directly into wetlands, which drain into Fly Creek, near the Publix outfall.
+      *   Wetlands ownership was held by Jack Burrell and Kevin Boone.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical precedent of City Council/Mayor prioritizing developer interests over environmental protection in the Fly Creek Watershed.
+      *   This past decision (2016/2017) directly contextualizes the current failure (Article 1) of the City and authorities to address ongoing environmental issues, including runoff mud, sewer spills, and the lack of necessary infrastructure repair.
+
+      KEY ENTITIES:
+      *   Fly Creek
+      *   Fairhope
+      *   Bay Minette
+      *   Tim Kant (Previous Mayor)
+      *   Karen Wilson (New Mayor)
+      *   Adam Milam (Plaintiff's Attorney, Friends of Fly Creek)
+      *   Publix
+      *   Mobile Baykeeper
+      *   Jack Burrell
+      *   Kevin Boone
+      *   Jimmy Conyers
+      *   $13 million (Sewer plant upgrade spent)
+      *   $10 million (Fairhope utilities paid city, 2015-2016, for non-utility expenses)
+      *   Dec. 27, 2014 (Fly Creek photo date)
+      *   Oct. 2016 (Council endorsement)
+      *   April 2017 (Extension granted)
+    llm_text: The City Council prioritized Fly Creek apartments over public concerns in 2016. This history shows how officials ignored environmental needs, leaving the creek vulnerable to current sewer spills and runoff near Jack Burrell's wetlands.
+    widget_date: "2017-08-25"
+    generated_at: "2026-11-08T21:43:03.760089Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT:
+      *   2012: Fairhope City Council ended a contract with State Sen. Trip Pittman’s company.
+      *   During the Publix project construction, Fly Creek became affected by runoff mud and the outfall pipe dumped into Mobile Bay.
+      *   2015 and 2016: Fairhope utilities paid the city $10 million for NON-UTILITY expenses, ignoring infrastructure needs.
+      *   Previous Mayor Tim Kant and Sen. Pittman were involved with BP contractors who left hundreds of anchors and feet of rope in Mobile Bay.
+      *   Sept. 30, 2016: Judge Roy Moore was suspended by the Alabama Court of the Judiciary for six charges of judicial ethics violation.
+
+      THE DISCOVERY:
+      *   Article 2 established that Sen. Trip Pittman was viewed as the "WORST elected official in Baldwin County" and engaged in fleecing constituents.
+      *   Article 2 confirmed Pittman’s prior political history and ethics issues, including his role as "appointed Trustee” of BP Funds, which Luther Strange turned a blind eye to.
+
+      THE PIVOT:
+      *   Article 2 provides historical context showing Sen. Pittman’s pre-existing record of political corruption and financial misconduct, directly connecting his influence and status (BP Trustee/Contractor) to the environmental damage (BP spill, Fly Creek degradation) detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Fairhope
+      *   Mobile Bay / Fly Creek
+      *   Sen. Trip Pittman
+      *   Tim Kant (Previous Mayor)
+      *   Karen Wilson (New Mayor)
+      *   Publix project
+      *   Mobile Baykeeper
+      *   BP
+      *   Luther Strange
+      *   Judge Roy Moore
+      *   $13 million (sewer upgrade cost)
+      *   $10 million (non-utility expenses, 2015-2016)
+      *   2012 (Pittman contract termination)
+      *   2016 (Moore suspension)
+    llm_text: Sen. Trip Pittman engaged in fleecing constituents, facing scrutiny after Fairhope paid $10 million for non-utility expenses. His history connects his political influence to Fly Creek runoff during the Publix project, damaging Mobile Bay.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T21:44:14.201494Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  countdown:
+    brief: |-
+      THE CONFLICT: Fairhope has suffered chronic environmental issues in Mobile Bay and Fly Creek, including runoff mud from the Publix project outfall, unreported human waste spills, and recent sewer spills; former Mayor Tim Kant oversaw a $13 million sewer upgrade instead of moving the plant inland.
+      THE DISCOVERY: Article 2 revealed that Sen. Trip Pittman faced strong negative political opposition in Alabama, being labeled the "WORST elected official in Baldwin County" by local commentary.
+      THE PIVOT: Article 2 provides historical context establishing Sen. Pittman as a figure under intense political scrutiny and criticized for career politics, which connects to Article 1's implication that he may have ties to BP contractors involved in environmental issues in Mobile Bay.
+      KEY ENTITIES: Fairhope, Mobile Bay, Fly Creek, Tim Kant, Karen Wilson, Sen. Trip Pittman, Publix project, Mobile Baykeeper, Luther Strange, Mo Brooks, Randy Brinson.
+    llm_text: Fairhope suffers chronic Mobile Bay pollution, including Publix runoff and severe sewer spills. How does Sen. Trip Pittman, facing intense local scrutiny, connect to BP contractors tied to this critical environmental disaster?
+    widget_date: "2017-08-04"
+    generated_at: "2026-11-08T21:39:28.822066Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hardest-working-elected-official-eastern-shore:
+    brief: |-
+      THE CONFLICT:
+      *   Prior to Karen Wilson's tenure, Fairhope experienced environmental issues, including human waste spills into Mobile Bay and Fly Creek.
+      *   Previous Mayor Tim Kant and Council spent $13 million on a sewer plant upgrade instead of moving the plant inland.
+      *   Between 2015 and 2016, Fairhope utilities paid the city $10 million for NON-UTILITY expenses.
+      *   Past issues included BP contractors leaving hundreds of anchors and feet of rope in the bay during the Publix project construction.
+
+      THE DISCOVERY:
+      *   Karen Wilson, upon taking office, demonstrated ethical conduct by refusing a second paycheck, despite a 60,000 dollar reduction in pay.
+      *   Wilson undertook the restructuring of the planning and zoning department, reducing past litigation.
+      *   Wilson initiated a comprehensive engineering study of Fairhope infrastructure.
+
+      THE PIVOT:
+      *   Article 2 establishes Karen Wilson's early commitment to ethical governance, transparency, and infrastructure reform, contrasting sharply with the past neglect (e.g., the $13M sewer upgrade without infrastructure funding) and the inaction of groups like Mobile Baykeeper during the Tim Kant era.
+      *   Her actions (engineering study) are framed as a direct response to the infrastructure failures detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Karen Wilson (Mayor)
+      *   Tim Kant (Previous Mayor)
+      *   Mobile Baykeeper
+      *   Fairhope
+      *   Fly Creek
+      *   Mobile Bay
+      *   Publix project
+      *   2015
+      *   2016
+      *   $13 million
+      *   $10 million
+      *   $60,000
+      *   Eastern Shore
+    llm_text: Karen Wilson fixed Fairhope's environmental mess, contrasting past neglect like Tim Kant's $13 million sewer upgrade and $10 million in non-utility costs. Read how her commitment to ethics and infrastructure reform is finally cleaning up Mobile Bay and Fly Creek.
+    widget_date: "2017-07-21"
+    generated_at: "2026-11-08T21:45:23.352647Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fly-creek-drainage-ditch:
+    brief: |-
+      THE CONFLICT: Mayor Tim Kant approved a zoning change for the Fly Creek PUD (Publix property) with developer Arthur Corte, allowing the construction of 285 apartments and 15 townhomes, turning Fly Creek into a drainage ditch (pre-Jan 5th approval).
+      THE DISCOVERY: Article 2 revealed Mayor Kant used his control of planning and zoning to bypass public participation and facilitate a "good ole boy deal" with Arthur Corte, ignoring previous damage and violations.
+      THE PIVOT: Article 2 provides the historical context (Kant's approval of the initial Publix zoning) that resulted in the current environmental issues detailed in Article 1, including runoff mud, limited navigation, subsequent sewer spills, and the decision to build apartments on Fly Creek banks.
+      KEY ENTITIES: Tim Kant, Arthur Corte, Publix, Karen Wilson, Mobile Baykeeper, Fairhope
+    llm_text: Mayor Tim Kant pushed the 285-apartment Fly Creek PUD with Arthur Corte, turning the drainage ditch into development. Kant bypassed public input for a "good ole boy deal," ignoring prior damage that now threatens Fairhope.
+    widget_date: "2014-12-26"
+    generated_at: "2026-11-08T21:46:16.846072Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

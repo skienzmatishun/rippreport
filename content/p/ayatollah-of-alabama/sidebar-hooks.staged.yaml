@@ -1,0 +1,144 @@
+metadata:
+  generated_at: "2026-11-08T20:10:59.414332Z"
+  generator_version: 1.0.0
+  post_slug: ayatollah-of-alabama
+  main_date: "2017-12-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  banned-from-the-mall:
+    brief: |-
+      THE CONFLICT: Roy Moore was removed from the Alabama Supreme Court twice for violating his oath of office.
+      THE DISCOVERY: The older article established that in Gadsden, Alabama, there was common knowledge within Moore’s local community regarding his reputation for chasing teenage girls.
+      THE PIVOT: The older article provides the ethical and moral context (local reputation/behavior) that underlies the legal/constitutional violations (oath of office) detailed in the main article, making the violations rooted in long-standing personal conduct rather than isolated political incidents.
+      KEY ENTITIES: Roy Moore, Alabama Supreme Court, US Senate, Gadsden Alabama, Oak Hollow, Fairhope, Dec 5th
+    llm_text: Roy Moore faced two removals from the Alabama Supreme Court for violating his oath. But local Gadsden knowledge reveals his legal violations stem from long-standing personal conduct, not just isolated political incidents.
+    widget_date: "2017-11-17"
+    generated_at: "2026-11-08T20:04:08.115597Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope city council supported lawsuits seeking $100,000 from the City of Fairhope related to employee firings.
+      *   Councilmen Boone Burrell and the "three B’s" supported Sherry Sullivan and encouraged fired employees to sue the city.
+      *   Boone Burrell was accused of obstructing the Mayor and using the Alabama Unethical Commission regarding activities at the Fairhope Airport.
+
+      THE DISCOVERY:
+      *   Local government in Fairhope (City Council) was involved in actions that increased burden on the city and involved ethical conflicts (Jay Robinson abstained due to family friendship with Sherry Sullivan).
+      *   The local political environment demonstrates systemic dysfunction and ethical breaches within Alabama governance prior to Moore's Senate run.
+
+      THE PIVOT:
+      *   Article 2 provides specific, documented evidence of local political corruption (Fairhope firings/lawsuits, Burrell's obstruction) which supports Roy Moore's current claim in Article 1 that Alabama has become "corrupt and politically dysfunctional."
+      *   Moore's campaign (Dec 5th, Oak Hollow, Fairhope) is contextualized by the underlying local governance issues detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Alabama Supreme Court
+      *   US Senate
+      *   Fairhope
+      *   Boone Burrell
+      *   Jack Burrell
+      *   Chucky Cheeze
+      *   Sherry Sullivan
+      *   Jay Robinson
+      *   Pandora Heathcoat
+      *   Alabama Unethical Commission
+      *   Fairhope Airport
+    llm_text: Councilman Boone Burrell and the Fairhope City Council pushed lawsuits seeking $100,000 over employee firings. This local ethical breach proves Roy Moore's claim that Alabama governance is corrupt and politically dysfunctional.
+    widget_date: "2017-11-15"
+    generated_at: "2026-11-08T20:06:27.724563Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT: Roy Moore, Chief Justice of the Alabama Supreme Court, was suspended by the Alabama Court of the Judiciary on September 30, 2016, for violating six canons of judicial ethics. He was the only Supreme Court Justice suspended twice.
+      THE DISCOVERY: Article 2 documented the specific finding of guilt and the suspension of Roy Moore by the Court of the Judiciary on September 30, 2016.
+      THE PIVOT: Article 2 provides the factual, dated evidence (2016 suspension for ethical violations) that substantiates Article 1's claim that Moore violated his oath of office twice, making him an unviable candidate for the US Senate.
+      KEY ENTITIES: Roy Moore, Alabama Supreme Court, Alabama Court of the Judiciary, Luther Strange, Sen. Trip Pittman, Congressman Mo Brooks, Dr. Randy Brinson, Oak Hollow, Fairhope, September 30, 2016.
+    llm_text: The Alabama Court of the Judiciary suspended Roy Moore, Alabama Supreme Court Chief Justice, on September 30, 2016, for violating six judicial ethics canons. Article 2 details this 2016 suspension, showing why his past makes him an unviable US Senate candidate.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T20:07:18.600969Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-hole:
+    brief: |-
+      THE CONFLICT: Roy Moore violated his oath of office twice while serving on the Alabama Supreme Court, leading to his disqualification long before sexual allegations were levied.
+
+      THE DISCOVERY: Prior to his Senate bid, Roy Moore was shunned by most of his own party in Washington and refused to debate or defend his political positions.
+
+      THE PIVOT: The historical isolation and refusal to defend his views (Article 2) confirms his current defiance of law (oath violations/disqualification, Article 1), making his political candidacy unsustainable despite his campaign efforts (e.g., Oak Hollow, Fairhope, Dec 5th).
+
+      KEY ENTITIES: Roy Moore, Richard Shelby, Jones, Alabama Supreme Court, US Senate, Republican leadership
+    llm_text: Roy Moore violated his oath twice while serving on the Alabama Supreme Court, leading to disqualification long before sexual allegations surfaced. His refusal to defend his views and isolation by Republican leadership proves his current US Senate candidacy is unsustainable.
+    widget_date: "2017-11-08"
+    generated_at: "2026-11-08T20:08:27.843302Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethics-comedians:
+    brief: |-
+      THE CONFLICT: Senator Trip Pittman (appointed by the Governor as "trustee" of BP funds) entrusted himself with $750,000 in municipal contracts during the BP Boom scandal.
+      THE DISCOVERY: The Alabama Ethics Commission dismissed a 10-month investigation (against Burrell and Hix) with a simple statement of "no probable cause," while also failing to hold Senator Trip Pittman accountable for the $750,000 breach.
+      THE PIVOT: Article 2 establishes a historical pattern of systemic ethical failure and institutional impunity by the Alabama Ethics Commission, providing the context that allowed Roy Moore's repeated violations of the Alabama Supreme Court oath (twice) to occur without effective oversight or consequence, as detailed in Article 1.
+      KEY ENTITIES: Roy Moore, Trip Pittman, Alabama Supreme Court, Ethics Commission, Oak Hollow, Fairhope, Dec 5th, $750,000
+    llm_text: Senator Trip Pittman took $750,000 in BP municipal contracts, but the Alabama Ethics Commission dismissed his breach. This institutional failure allowed Roy Moore to violate his Supreme Court oath twice without oversight.
+    widget_date: "2017-10-19"
+    generated_at: "2026-11-08T20:09:29.123567Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-corruption:
+    brief: |-
+      THE CONFLICT:
+      * Four state lawmakers convicted since 2014.
+      * Speaker of the House Hubbard is packing for jail.
+      * big Luther (Attorney General) turned a blind eye to Sen. Pittman skimming $750,000 from BP.
+      * Luv Gov resigned.
+
+      THE DISCOVERY:
+      * Alabama is characterized as the most corrupt state in the US.
+      * The Ethics Commission lacks credibility and authorities are deemed "asleep at the wheel."
+      * Ethics Commission members (Jerry Fielding, Frank "Butch" Ellis, Jr., Charles Price) prioritize legal cover for powerful politicians over ethical goals.
+      * The City Council in Fairhope obstructs the Mayor while ignoring allegations against friends/fellow councilmen.
+
+      THE PIVOT:
+      * Article 2 establishes a historical context of systemic, protected corruption in Alabama (e.g., $750k skim, Ethics Commission failure).
+      * Article 1 details Roy Moore's personal violation of his oath of office twice for The Alabama Supreme Court, reinforcing the theme that political power is prioritized over constitutional law within the state structure.
+      * Moore's campaign (Oak Hollow, Fairhope, Dec 5th) occurs within a state where institutional accountability (Ethics Commission) is compromised.
+
+      KEY ENTITIES:
+      * Roy Moore
+      * The Alabama Supreme Court
+      * US Senate
+      * Ethics Commission
+      * Dr. Stewart Hill Tankersley
+      * Jerry Fielding
+      * Frank "Butch" Ellis, Jr.
+      * Charles Price
+      * Sen. Pittman
+      * big Luther
+      * Speaker of the House Hubbard
+      * City Council of Fairhope
+    llm_text: Alabama is the nation's most corrupt state; Speaker Hubbard packs for jail while Sen. Pittman skimmed $750,000 from BP. The Ethics Commission, including Jerry Fielding and Frank "Butch" Ellis, Jr., protects powerful politicians instead of enforcing accountability.
+    widget_date: "2017-10-04"
+    generated_at: "2026-11-08T20:05:14.763554Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blood-in-the-water:
+    brief: |-
+      THE CONFLICT:
+      *   Roy Moore violated his oath of office twice while serving on the Alabama Supreme Court.
+      *   This occurred prior to the December 2017 Senate election runoff between Roy Moore and Doug Jones.
+
+      THE DISCOVERY:
+      *   Article 2 revealed low voter turnout in Alabama (14.39% overall) despite anticipation of a record turnout for the Moore/Jones runoff in Dec 2017.
+      *   Article 2 noted Moore's prior violation of his oath while in office.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical fact of Moore's oath violation in the Alabama Supreme Court, providing the constitutional basis for the disqualification referenced in Article 1, long before current sexual allegations were levied.
+      *   This past violation is the core reason the US Senate plans to remove him and why he is shunned by Republican leadership in Article 1.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Doug Jones
+      *   Tripp Pittman
+      *   Alabama Supreme Court
+      *   US Senate
+      *   Republican leadership
+      *   Oak Hollow, Fairhope (Dec 5th event location)
+    llm_text: Roy Moore violated his oath on the Alabama Supreme Court before the 2017 Senate runoff. This historical fact, not just recent allegations, is why the US Senate plans to remove him and why Republican leadership shuns him.
+    widget_date: "2017-09-27"
+    generated_at: "2026-11-08T20:10:42.734186Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,152 @@
+metadata:
+  generated_at: "2026-11-08T18:27:40.594139Z"
+  generator_version: 1.0.0
+  post_slug: the-pot-and-the-kettle-are-black
+  main_date: "2018-01-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  qualification:
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Kant and Sen Pittman were part of the "good ole boy network" in Bay Minette, Baldwin County.
+      *   Judge Michell Thomason served as a Circuit Judge in Family Court with a negative reputation.
+      *   Frank Burt, Jr. has held County Commissioner (District No. 1) office in Baldwin County since 1989 (8-time incumbent).
+      *   The infamous mega site in District 1 cost $35 million.
+
+      THE DISCOVERY:
+      *   The election of Mayor Karen Wilson signaled the stopping of the "good ole boy" network in Bay Minette.
+      *   Judge Michell Thomason was identified as running for Court of Civil Appeals.
+      *   Article 2 established that Judge Thomason was the first client of Catalyst (who previously operated under names Elliott Haygood and Stacy).
+
+      THE PIVOT:
+      *   Article 2 provides historical context for Catalyst's established pattern of influence and connection (e.g., Thomason's client status).
+      *   Article 1 shows Catalyst leveraging this history by selecting Jeb Ball (director of BCSA, founded by Thomason) to replace Frank Burt, creating apparent conflicts of interest in the mid-term election.
+
+      KEY ENTITIES:
+      *   Frank Burt, Jr.
+      *   Jeb Ball
+      *   Catalyst (Elliott Haygood, Stacy)
+      *   Michell Thomason
+      *   Baldwin County
+      *   BCSA (Baldwin County Substance Abuse)
+      *   Mayor Karen Wilson
+      *   Kant
+      *   Sen Pittman
+      *   Bay Minette
+    llm_text: Mayor Karen Wilson broke the Bay Minette "good ole boy" network. Judge Michell Thomason, a former insider, was Catalyst’s first client, linking him to Jeb Ball’s influence replacing 8-time incumbent Frank Burt, Jr.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-08T18:20:05.230369Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dead-last:
+    brief: |-
+      THE CONFLICT:
+      *   Mid-term elections in Baldwin County are approaching (final qualifications Feb 9th).
+      *   Frank Burt, 86, is an 8-time County Commissioner (since 1989) in District 1.
+      *   District 1 is the site of the Mega Site, costing $35 million.
+      *   Catalyst is selecting Jeb Ball (Director of Baldwin County Substance Abuse, BCSA) to replace Burt.
+      *   BCSA was founded by Judge Michell Thomason, among others, by Judges and Lawyers.
+
+      THE DISCOVERY:
+      *   The Mega Site investment began in mid-2011 ($32 million).
+      *   The site is advertised as the only certified Mega Site in Alabama, according to Lee Lawson of the Baldwin County Economic Development Alliance.
+      *   The project resulted in "tens of millions of lost opportunity" and the county was deemed "DEAD LAST" in attracting manufacturing plants.
+
+      THE PIVOT:
+      *   Article 2 establishes that the Mega Site has failed to deliver promised economic benefits since 2011, confirming the investment is a liability ($32M/$35M) rather than a success.
+      *   This failure provides context for the current election, suggesting the incumbents (like Burt) and the connected entities (Baldwin County Economic Development Alliance) are perpetuating a false narrative that requires voters to reject them.
+
+      KEY ENTITIES:
+      *   Frank Burt, Jr. (R)
+      *   Jeb Ball
+      *   Michell Thomason
+      *   Catalyst (formerly Elliott Haygood and Stacy)
+      *   Baldwin County Economic Development Alliance (Lee Lawson)
+      *   Baldwin County (District 1, Bay Minette)
+      *   Mega Site
+      *   BCSA (Baldwin County Substance Abuse)
+    llm_text: Frank Burt, an 8-time Commissioner in District 1, faces Jeb Ball as mid-term elections approach. The $35M Mega Site failed to deliver promised economic benefits since 2011, proving the investment is a county liability, not a success story.
+    widget_date: "2018-01-17"
+    generated_at: "2026-11-08T18:22:08.100339Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion:
+    brief: |-
+      THE CONFLICT: Baldwin County faced a mega site issue resulting in a $32 million debt during the 2018 mid-term election cycle.
+      THE DISCOVERY: In 2017, the county's commissioners were targeted for replacement due to the negative impact of the mega site and resulting debt.
+      THE PIVOT: The 2017 context establishes the long-term failure (the mega site debt) linked to incumbent Frank Burt, Jr.'s tenure since 1989, providing historical weight to the current $35 million cost and the necessity of challenging him via Catalyst-backed candidates like Jeb Ball.
+      KEY ENTITIES: Frank Burt, Jr. (R), Jeb Ball, Catalyst, Michell Thomason, Elliott Haygood, Stacy, Baldwin County, District No. 1, BCSA.
+    llm_text: Baldwin County now faces $35M in debt stemming from a mega site failure. Challenge incumbent Frank Burt, Jr.'s 1989 tenure—which caused the crisis—with Catalyst-backed candidate Jeb Ball in District No. 1.
+    widget_date: "2018-01-03"
+    generated_at: "2026-11-08T18:23:23.952765Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-special-meeting:
+    brief: |-
+      THE CONFLICT: Jack Burrell called a special meeting in Fairhope on Friday the 29th concerning city governance and taxpayer costs.
+
+      THE DISCOVERY: Jack Burrell was criticized for being a bully, costing Fairhope taxpayers, and resisting the hiring of a full-time city attorney.
+
+      THE PIVOT: The Fairhope context (A2) establishes a pattern of local political control and mismanagement (Burrell) that parallels the power structures in Baldwin County (A1), where 8-time incumbent Frank Burt has dominated District 1 since 1989, tied to the $35 million mega site.
+
+      KEY ENTITIES:
+      Frank Burt, Jr.
+      Jeb Ball
+      Jack Burrell
+      Michell Thomason
+      Baldwin County
+      Fairhope
+      Catalyst
+      BCSA
+      District No. 1
+      February 9th
+      1989
+      $35 million
+    llm_text: Jack Burrell faced criticism in Fairhope for mismanagement and resisting a city attorney. This local pattern mirrors Baldwin County's power structure, where 8-time incumbent Frank Burt dominates District 1 tied to the $35 million mega site.
+    widget_date: "2017-12-28"
+    generated_at: "2026-11-08T18:26:09.763115Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT: Boone Burrell and Chucky Cheeze published a hit piece on the Mayor of Fairhope regarding fired employees and lawsuits seeking $100,000 from the city of Fairhope.
+      THE DISCOVERY: Boone Burrell was actively obstructing the Mayor and holding a position at the Fairhope Airport Authority, facing scrutiny from the Alabama Unethical Commission.
+      THE PIVOT: Both articles illustrate how entrenched local power structures operate through conflicts of interest and obstruction (e.g., Burrell in Fairhope; Frank Burt's 28-year tenure and the $35 million mega site loss in Baldwin County) to resist change and maintain influence.
+      KEY ENTITIES: Boone Burrell, Frank Burt, Jeb Ball, Michell Thomason, Catalyst, Sherry Sullivan, Jay Robinson, Pandora Heathcoat, Baldwin County, Fairhope, BCSA, Alabama Unethical Commission.
+    llm_text: Boone Burrell attacked the Fairhope Mayor over $100,000 in lawsuits. But Burrell obstructs the Mayor and faces the Alabama Unethical Commission, revealing how entrenched local power resists change, similar to Frank Burt's 28-year hold in Baldwin County.
+    widget_date: "2017-11-15"
+    generated_at: "2026-11-08T18:24:46.925053Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  its-no-joke:
+    brief: |-
+      THE CONFLICT:
+      Roy Moore was a candidate for Alabama’s Senate, threatening the state with hundreds of millions to billions in economic loss due to his religious beliefs and potential isolation from international companies.
+
+      THE DISCOVERY:
+      The Moore Senate race highlighted the severe economic and international reputation risk facing Alabama politics, as warned by H Bryant Ayers.
+
+      THE PIVOT:
+      This historical context of high-stakes, state-level political risk (Moore) sets the backdrop for the local political maneuvering in Baldwin County, where established power structures (Frank Burt) are being challenged by connected interests (Jeb Ball/Catalyst), all while managing local financial crises (the $35 million mega site).
+
+      KEY ENTITIES:
+      Frank Burt, Jr.
+      Jeb Ball
+      Michell Thomason
+      Roy Moore
+      Catalyst
+      H Bryant Ayers
+      Baldwin County
+      1989 (Burt's start date)
+      February 9th (Mid-term election qualification)
+      $35 million (Mega site cost)
+      BCSA (Baldwin County Substance Abuse LLC)
+    llm_text: Roy Moore’s Senate race exposed Alabama’s massive political risk, but the real drama unfolds in Baldwin County. Frank Burt, Jr. now battles connected interests like Jeb Ball over a $35 million mega site.
+    widget_date: "2017-11-01"
+    generated_at: "2026-11-08T18:21:16.476572Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bonus-money:
+    brief: |-
+      THE CONFLICT: Frank Burt has been the 8-time incumbent of Baldwin County District 1 since 1989; District 1 is the site of the mega site costing $35 million.
+      THE DISCOVERY: The Ethics Commission concluded there was not probable cause to believe Jack Burrell or Hix violated the Alabama Ethics Act regarding complaints filed by The Ripp Report.
+      THE PIVOT: Article 2 establishes a documented pattern of local governmental misconduct (e.g., city council executive sessions and using taxpayer money for bonus payments/Sherry Sullivan claim) under Jack Burrell, contextualizing the entrenched, high-level political corruption described by Frank Burt in Article 1.
+      KEY ENTITIES: Frank Burt, Jeb Ball, Michell Thomason, Jack Burrell, Karin Wilson, Hix, Snedeker, Sherry Sullivan, Catalyst, BCSA
+    llm_text: Frank Burt remains the 8-time incumbent overseeing the $35 million mega site in Baldwin County District 1. Despite Ethics Commission clearances, new reports reveal a documented pattern of local misconduct, including taxpayer money misuse under Jack Burrell.
+    widget_date: "2017-10-25"
+    generated_at: "2026-11-08T18:27:24.089337Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

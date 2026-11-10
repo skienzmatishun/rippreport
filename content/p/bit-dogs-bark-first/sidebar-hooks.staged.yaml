@@ -1,0 +1,146 @@
+metadata:
+  generated_at: "2026-11-09T07:04:16.428520Z"
+  generator_version: 1.0.0
+  post_slug: bit-dogs-bark-first
+  main_date: "2017-01-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT: Airport Authority purchased 258 acres in 2007 for $8.85 million; Mayor Karin Wilson urged the council to transfer title to the City; Jack Burrell resisted this transfer.
+
+      THE DISCOVERY: Article 2 showed Jack Burrell prioritized the interests of the Airport Authority (less than 1% of users/close friends) over the broader citizens' tax dollars and Mayor Wilson's efforts.
+
+      THE PIVOT: Article 2 provides historical context (2007) demonstrating Burrell's pattern of prioritizing connected special interests (Airport Authority/board members) over the city's fiscal and citizen interests, supporting Article 1's claims that Burrell and Boone are remnants of a failed, corrupt administration obstructing Mayor Wilson's transparency goals.
+
+      KEY ENTITIES: Karin Wilson, Jack Burrell, Kevin G. Boone, Jay Robinson, John G. Avent, Joseph P. Bullock, Robert Brown, Jimmy Conyers, Ray Hix, Fairhope Airport Authority, Fairhope City Council, Preble-Rish, LLC, HMR, Dewberry, Volkert, Cassady Company, Inc., Baldwin County.
+    llm_text: Mayor Karin Wilson pushed the City Council to take title of the 2007 $8.85 million land purchase from the Airport Authority. Jack Burrell resisted, prioritizing a small group's interests over broader citizen tax dollars.
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T06:56:43.948642Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hi-jack-ed:
+    brief: |-
+      THE CONFLICT: Burrell, linked to the past failed administration, prioritized the Fairhope Airport Authority’s interests over citizen interests, opposing Mayor Wilson's efforts to reclaim 258 acres for $10.00 via the original 2012 loan option (pre-2016).
+      THE DISCOVERY: The Airport Authority was a "black hole for information," receiving $0.5 million annually, and Burrell used his roles as City Council President/Liaison to support the Authority's control, despite Mayor Wilson stating 21% of the City’s budget served 1% or less of the population.
+      THE PIVOT: Article 2 establishes Burrell's long-standing pattern of protecting connected/past administration interests (FAA), which is mirrored in Article 1 where Burrell and Boone obstruct current municipal transparency (Triangle lawsuit settlement, $12M; sewer plant $11M), opposing local firms in favor of Preble-Rish, and blocking infrastructure surveys.
+      KEY ENTITIES: Burrell, Boone, Mayor Wilson, Jay Robinson, Preble-Rish, Hix, Fairhope Airport Authority, Cassady Company, Inc.
+    llm_text: Burrell used his council power to protect the Fairhope Airport Authority—a $0.5 million black hole—against Mayor Wilson's effort to reclaim 258 acres for $10. See how Burrell consistently blocks local transparency while supporting past administration interests.
+    widget_date: "2016-12-30"
+    generated_at: "2026-11-09T06:59:08.689214Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  double-down-and-i-call:
+    brief: |-
+      THE CONFLICT:
+      1. December 21, 2016, Ripp Report appealed to Alabama Attorney General Matt Hart, US Attorney’s Office, Judge Jody W. Bishop, and FBI regarding Fairhope Airport Authority.
+      2. Allegations centered on potential conflict of interest regarding past airplane hanger leases and whether Airport Authority Board members could bid on Airport proposals.
+      3. Jack Burrell, City Council President and Fairhope Authority Board Member, sat on a two-man ad hoc committee selecting bid proposals.
+      4. The Municipal Judge for Fairhope was identified as a partner of an Airport Authority Board member.
+
+      THE DISCOVERY:
+      1. Kevin Boone, a Fairhope City Council member, is a member of North Ridge, LLC (formed 6-2-2008), alongside John G. Avent.
+      2. John G. Avent is a Firm Partner at Preble-Rish, Inc.
+      3. Kevin Boone is a member of BA-101, LLC (formed 4-29-2004), registered agent for which is BOONE, KEVIN G.
+      4. Boone opposed the selection of Cassady Company, Inc. for a Professional Engineering Capacity Study, insisting on local firms (e.g., HMR, Dewberry/Preble-Rish LLC).
+      5. Councilman Jay Robinson received a $1,000 contribution to his campaign from Ray Hix (Airport Authority Board member/Sec. Treasurer).
+
+      THE PIVOT:
+      1. Article 2 establishes a historical pattern of alleged conflict and lack of transparency involving Jack Burrell and the Airport Authority (2016).
+      2. Article 1 reveals a direct financial and business conflict of interest between Councilman Boone and Preble-Rish/John G. Avent, which Boone actively used to obstruct necessary municipal infrastructure transparency (sewer/water/gas study).
+      3. Both articles detail council members (Burrell, Robinson, Boone) leveraging positions or relationships to prioritize special interest/individual interests over city transparency and public welfare.
+
+      KEY ENTITIES:
+      1. Jack Burrell (City Council President, Fairhope Authority Board Member)
+      2. Kevin Boone (Fairhope City Council member)
+      3. John G. Avent (Preble-Rish Partner)
+      4. Jay Robinson (Fairhope City Council member)
+      5. Mayor Wilson (Fairhope Mayor)
+      6. Ray Hix (Airport Authority Board member/Sec. Treasurer)
+      7. Fairhope Airport Authority
+      8. Preble-Rish, Inc.
+      9. BA-101, LLC
+      10. North Ridge, LLC
+      11. Cassady Company, Inc.
+      12. Triangle lawsuit ($12 million)
+      13. Sewer plant ($11 million)
+      14. Matt Hart (Alabama Attorney General Special Prosecutor)
+      15. Jody W. Bishop (28th Judicial Circuit Honorable)
+    llm_text: Councilman Kevin Boone secretly links to Preble-Rish partner John G. Avent via North Ridge, LLC. Boone then used this financial conflict to block critical Fairhope infrastructure studies, hiding essential city transparency.
+    widget_date: "2016-12-21"
+    generated_at: "2026-11-09T07:00:40.163780Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-airport-authority-flying-without-a-compass:
+    brief: |-
+      THE CONFLICT:
+      *   One year prior to the Main Article, the Fairhope City Council was involved in an illegal meeting and subsequently failed Alabama Ethics training.
+      *   The Mayor and much of the City Council at that time allegedly covered up issues related to the Fairhope Airport.
+
+      THE DISCOVERY:
+      *   The Widget Article reveals that prior to the current airport controversy, there were existing indications of corruption ("something stunk") at the Fairhope Airport, which the Mayor and City Council ignored.
+
+      THE PIVOT:
+      *   The Widget Article provides historical context, establishing a pattern of political misconduct and ethical failure within the Fairhope City Council and Mayor's office before the current council's actions (such as the sewer/triangle lawsuits and engineering contract disputes) occurred.
+      *   It shows that the current issues are not isolated but stem from prior institutional corruption and lack of ethics compliance at the airport.
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   Mayor Wilson
+      *   Kevin Boone
+      *   Mr. Burrell
+      *   Jay Robinson
+      *   John G. Avent
+      *   Preble-Rish, Inc.
+      *   Ray Hix
+      *   Cassady Company, Inc.
+      *   $12 million (Triangle lawsuit settlement)
+      *   $11 million (Sewer plant project)
+    llm_text: Mayor Wilson and the Fairhope City Council ignored prior corruption at the Fairhope Airport, even after failing Alabama Ethics training a year ago. Don't let current issues like the $12 million triangle lawsuit mask a deep pattern of institutional misconduct.
+    widget_date: "2016-12-14"
+    generated_at: "2026-11-09T07:01:36.054269Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  exposure:
+    brief: |-
+      THE CONFLICT: Corruption infecting Baldwin County's judiciary and municipal governments; allegations against Judge Thomason and Attorney Stephen Johnson.
+      THE DISCOVERY: Baldwin County demographics shifted within the last 15 years, enabling citizens to challenge the "good ole boys" criminal enterprise through voting.
+      THE PIVOT: Article 2 established the historical pattern of deep-rooted corruption in Baldwin County, providing the context for the specific municipal corruption (Fairhope City Council) detailed in Article 1.
+      KEY ENTITIES: Boone (Kevin G.), Burrell, Robinson (Jay), Hix (Ray), Fairhope City Council, Mayor Wilson, Thomason, Stephen Johnson, Preble-Rish, Cassady Company, Fairhope Airport Authority.
+    llm_text: Judge Thomason and Stephen Johnson are tied to Baldwin County corruption. Demographic shifts are now empowering citizens like Kevin Boone to challenge the "good ole boys" system in Fairhope.
+    widget_date: "2016-11-02"
+    generated_at: "2026-11-09T07:02:35.412008Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hello-can-you-hear-me-now:
+    brief: |-
+      THE CONFLICT: Incumbent Diana Brewer lost her Fairhope City Council bid to Jimmy Conyers in a runoff (66% vote); Brewer ignored constituents regarding Fly Creek Apartments and insisted the Triangle was purchased as a park, not a lawsuit settlement.
+      THE DISCOVERY: The P&Z board caused millions in lawsuits and led to the election of new council members who voted out the Mayor and two council members (Burrell and Boone).
+      THE PIVOT: The legacy of poor decisions and ignored constituents (Article 2) established the environment of corruption and distrust that led to the current political obstruction (Article 1), specifically regarding the denial of a transparent engineering study and the handling of the $12 million Triangle lawsuit settlement.
+      KEY ENTITIES: Diana Brewer, Jimmy Conyers, Fairhope City Council, Fly Creek Apartments, Triangle, Mayor, Tim Kant, John G. Avent, Kevin Boone, Mr. Burrell, Jay Robinson, Ray Hix, Preble-Rish, LLC, Dewberry, Volkert, HMR, Cassady Company, Fairhope Airport Authority.
+    llm_text: Diana Brewer lost the Fairhope City Council bid to Jimmy Conyers, fueled by ignored constituents like Fly Creek Apartments. Did the P&Z board cause millions in lawsuits, or is current political obstruction hiding the details of the $12 million Triangle settlement?
+    widget_date: "2016-10-05"
+    generated_at: "2026-11-09T06:57:45.405686Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  above-the-law:
+    brief: |-
+      THE CONFLICT:
+      2016: The Ripp Report filed a complaint (CSP NO. 2016-296) against attorney Steven Patrick Johnson to the Alabama State Bar regarding his admission of purchasing, transporting, and selling marijuana during his divorce proceedings.
+
+      THE DISCOVERY:
+      On July 20, 2016, the Disciplinary Commission of the Alabama State Bar responded that no action had been recorded against Steven Patrick Johnson, despite the complaint.
+
+      THE PIVOT:
+      The articles do not contain a factual connection between the legal misconduct of Steven Patrick Johnson (2016) and the municipal corruption involving Fairhope City Councilmen Boone and Burrell; the connection is only thematic, relating to The Ripp Report's historical focus on exposing misconduct and protecting the public interest.
+
+      KEY ENTITIES:
+      Kevin Boone
+      John G. Avent
+      Burrell
+      Jay Robinson
+      Ray Hix
+      Steven Patrick Johnson
+      Mayor Wilson
+      Preble-Rish, Inc.
+      BA-101, LLC (Formation Date: 4-29-2004)
+      North Ridge, LLC (Formation Date: 6-2-2008)
+      Fairhope Airport Authority
+    llm_text: Steven Patrick Johnson faced a 2016 complaint for marijuana sales, yet the Alabama State Bar took no action. The Ripp Report continues exposing misconduct, from Johnson to Fairhope City Councilmen Kevin Boone and Burrell.
+    widget_date: "2016-08-31"
+    generated_at: "2026-11-09T07:04:01.259575Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

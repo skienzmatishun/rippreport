@@ -1,0 +1,95 @@
+metadata:
+  generated_at: "2026-11-09T11:00:08.007568Z"
+  generator_version: 1.0.0
+  post_slug: fraud
+  main_date: "2016-07-15"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  wonderful-wednesday:
+    brief: |-
+      THE CONFLICT: The Dyas "triangle lawsuit" involved alleged fraud by Mayor Tim F. Kant against Fairhope citizens, documented around January 29, 2011.
+      THE DISCOVERY: Mayor Kant reversed a planning and zoning decision for Mr. Corte's Fly Creek Apartments, resulting in Fairhope paying approximately $1 million for infrastructure supporting Mr. Corte's private development (fire station/lift station).
+      THE PIVOT: Article 2 establishes a prior pattern of Mayor Kant prioritizing private developer interests (Corte/Fly Creek) over public good, validating the ongoing claims of fraud in Article 1 regarding the Fly Creek lawsuits and his loyalty to developers.
+      KEY ENTITIES: Tim F. Kant, Sherry Sullivan, Mr. Corte, Bobby Faust, Senator Pittman, Jennifer Fiddler, Dyas family, Kevin Boone, Hand-Arendall, Francis Paul Ripp, Fly Creek Apartments
+    llm_text: Mayor Tim F. Kant allegedly defrauded Fairhope citizens $1 million through the Dyas "triangle lawsuit." His zoning reversal for Mr. Corte's Fly Creek Apartments shows a clear pattern of prioritizing developer interests over public good.
+    widget_date: "2016-07-13"
+    generated_at: "2026-11-09T10:55:53.143897Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  demand-the-truth:
+    brief: |-
+      THE CONFLICT:
+      *   Dyas "triangle lawsuit" occurred in Fairhope, involving fraud allegations from beginning to end.
+      *   Mayor Tim F. Kant lied to citizens regarding legal fees in the Dyas lawsuit.
+      *   Fairhope paid $3 million in combined legal fees to Hand-Arendall.
+      *   Kant's Oct. 30, 2015, deposition included questioning about a loan from Bobby Faust, related to a promissory note.
+      *   BP fraud charges were pending against Mayor Kant and Senator Pittman.
+
+      THE DISCOVERY:
+      *   On July 7, 2016, Senator Pittman had maintained debris removal contracts with Fairhope since 2004 (except when his partner Bob James held the contract).
+      *   The FBI investigated the BP fraud claim; the case was passed to special prosecutor Matt Hart of the Alabama Attorney General's office.
+      *   Pittman admitted poor judgment but continued bidding on Fairhope debris removal contracts.
+      *   The Mayor claimed an Ethics Commission letter was permission for Pittman, but it was only an opinion, and the commission did not exonerate them from BP Fraud claims.
+
+      THE PIVOT:
+      *   Article 2 updates the status of the BP fraud investigation and details the ongoing conflict of interest (debris contracts, federal/FEMA funding) between Mayor Kant and Senator Pittman, which was hinted at in Article 1.
+      *   Article 2 proves that the Mayor was deliberately misrepresenting an Ethics Commission opinion as legal permission to cover up the conflict of interest and the lack of exoneration regarding the BP fraud claims mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Mayor Tim F. Kant
+      *   Senator Pittman
+      *   Fairhope
+      *   Dyas family
+      *   Hand-Arendall
+      *   Bobby Faust
+      *   Sherry Sullivan
+      *   Kevin Boone
+      *   Matt Hart
+      *   Bob James
+    llm_text: Mayor Tim F. Kant lied about an Ethics Commission opinion to cover up a conflict of interest with Senator Pittman. This hidden deal involves ongoing BP fraud claims and Fairhope debris contracts.
+    widget_date: "2016-07-07"
+    generated_at: "2026-11-09T10:57:17.386218Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope:
+    brief: |-
+      THE CONFLICT:
+      *   The Triangle lawsuit involved the Dyas family and Fairhope.
+      *   Mayor Tim F. Kant lied to citizens for years regarding the lawsuit.
+      *   The lawsuit settlement resulted in Fairhope purchasing the property, costing $3 million in combined legal fees to Hand-Arendall.
+      *   This event was discussed in the Main Article on January 29, 2011.
+
+      THE DISCOVERY:
+      *   The Widget Article (Official Complaint) stated the legal settlement was *not* the purchase of a park.
+      *   The Widget Article detailed lack of required traffic and environmental studies for the Publix/Fly Creek Apartments project (275 apartments and 18 townhouses).
+      *   It noted Fly Creek had lost its channel due to sediment from Publix shopping center construction.
+
+      THE PIVOT:
+      *   Article 1 claims Mayor Kant committed "FRAUD" by telling the public the property was bought for a "park."
+      *   Article 2 established the foundational truth that the legal settlement was *not* a park purchase, making Kant's public statement a direct contradiction and further deceit.
+
+      KEY ENTITIES:
+      *   Mayor Tim F. Kant
+      *   Dyas family
+      *   Fairhope
+      *   Hand-Arendall
+      *   Sherry Sullivan
+      *   Kevin Boone
+      *   Bobby Faust
+      *   Publix
+      *   Fly Creek Apartments
+      *   Lagniappe / AL.com
+      *   Planning Commission
+      *   $3 million (legal fees)
+    llm_text: Mayor Tim F. Kant misled Fairhope citizens for years, falsely claiming the Triangle lawsuit settlement was for a park. This $3 million deal actually financed the Publix/Fly Creek project, ignoring required traffic and environmental studies.
+    widget_date: "2014-12-28"
+    generated_at: "2026-11-09T10:58:24.130168Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  quid-pro-quo:
+    brief: |-
+      THE CONFLICT: Dyas "triangle lawsuit" involved fraud; Mayor Tim F. Kant lied to Fairhope citizens for years; Fairhope paid $3 million in combined legal fees to Hand-Arendall; City ultimately purchased the property to settle the lawsuit, not for a "park."
+      THE DISCOVERY: Mayor Tim Kant was involved in a Quid Pro Quo project with the owner of the Publix shopping center; The owner violated planning/zoning, causing massive damage to Fly Creek; A new developer, Professional Equity Management (Scottsdale Arizona), proposed a 300-unit development on the damaged Fly Creek site, alongside a proposed fire station on a dead-end street (county road violation).
+      THE PIVOT: Article 2 establishes the long-term pattern of Mayor Kant's conflicts of interest and control over land/development (Publix/Fly Creek) which directly relates to the multiple lawsuits (Publix/Fly Creek Apartments) and the broader fraud accusations detailed in Article 1.
+      KEY ENTITIES: Tim F. Kant; Dyas family; Hand-Arendall; Bobby Faust; Senator Pittman; Sherry Sullivan; Kevin Boone; Fairhope; Publix; Fly Creek Apartments; Professional Equity Management; Lagniappe; AL.com; Ripp Report #27; Ripp Report #28.
+    llm_text: Mayor Tim Kant lied to Fairhope citizens for years, costing the city $3 million to Hand-Arendall. Find out how his Publix conflict fueled the Fly Creek damage and why the city bought the property instead of building a "park."
+    widget_date: "2015-01-12"
+    generated_at: "2026-11-09T10:59:51.272270Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

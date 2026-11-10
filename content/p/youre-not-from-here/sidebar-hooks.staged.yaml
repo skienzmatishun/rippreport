@@ -1,0 +1,80 @@
+metadata:
+  generated_at: "2026-11-09T11:51:11.255063Z"
+  generator_version: 1.0.0
+  post_slug: youre-not-from-here
+  main_date: "2016-02-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  lipstick-on-a-pig:
+    brief: |-
+      THE CONFLICT:
+      Fly Creek PUD changes were initially rejected unanimously by the public and voted down 5/4 by Planning and Zoning. This rejection followed the start of Phase 1 in 2006.
+
+      THE DISCOVERY:
+      The initial public rejection (300+ people) "freaked out" the Mayor, who initially backed off but subsequently lobbied to reintroduce the project, framing the citizens as an "angry mob of people not from here."
+
+      THE PIVOT:
+      Article 2 established the project's initial failure and the Mayor's attempts to undermine public input (using City Council for a 'BLINDSIDE'), providing the historical context for Article 1's current fight against the reintroduction of the project via City Council, despite previous rejection.
+
+      KEY ENTITIES:
+      Arthur Corti
+      Fairhope Planning and Zoning
+      Hollie MacKellar
+      Jennifer Fidler
+      Mayor (Unnamed/General)
+      Councilman Ford
+      Mayor Kant
+      Brewer
+      Burrell
+      Angus Cooper
+      Fly Creek
+      Rock Creek
+      Montrose
+      Plantation Pines
+      The Woodlands
+      Parker Road
+      Fairhope Public Works
+      City Council
+    llm_text: Fly Creek PUD failed 5/4 after 300+ public rejections, but Mayor Kant used an "angry mob" framing to lobby for reintroduction. Don't let that history repeat; City Council now fights the project despite its initial failure.
+    widget_date: "2015-12-18"
+    generated_at: "2026-11-09T11:49:37.239005Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  miracle-blindside-reality:
+    brief: |-
+      THE CONFLICT:
+      *   December 7th: Fairhope Planning and Zoning met regarding the Fly Creek PUD (Planned Unit Development).
+      *   Initial proposal for the PUD involved 240 "upscale apartments" on land owned by non-resident Arthur Corti.
+      *   Mayor voted against the PUD, resulting in a 5 NO, 4 YES vote.
+      *   February 1st: Arthur Corti made an entitlement speech at the Fairhope Planning meeting, stating audience members "are not from here."
+      *   New development proposal includes approximately 500 apartments (Rock Creek, Montrose, etc.) within 2 miles of each other.
+      *   City installed Firestation and Sewer Lift Plant for the apartment project, costing over $1 million in tax dollars.
+
+      THE DISCOVERY:
+      *   The initial Fly Creek PUD (Dec. 7th) was opposed by the Mayor and Commissioner Jennifer Fiddler, despite the developer and land owner being non-resident.
+      *   The public opposition was strong (300+ attendees), forcing the meeting into the auditorium.
+      *   The Mayor demonstrated a capacity for listening to citizens (voting NO) in the initial PUD vote, unlike the subsequent actions.
+
+      THE PIVOT:
+      *   The Dec. 7th vote establishes a history of citizen opposition to apartments on Arthur Corti's land, proving the subsequent development (Feb. 1st discussion) violates a Phase 1 agreement (property ownership, not apartments).
+      *   The initial mayoral opposition contrasts sharply with the current alleged corrupt inside deal (Mayor/Land Owner) involving the $1M tax spending and the current push for 500 apartments.
+      *   The previous successful citizen mobilization (300 attendees) provides context for the current need to fight the City Council's "final FIX."
+
+      KEY ENTITIES:
+      *   Arthur Corti
+      *   Mayor
+      *   Jennifer Fiddler (Commissioner/Head of Fairhope Public Works)
+      *   Commissioner Hollie MacKellar
+      *   Senator Pittman
+      *   Councilman Ford
+      *   Fairhope Planning and Zoning
+      *   City of Fairhope
+      *   $636,000 (BP money)
+      *   $11.25 million (Triangle lawsuit cost)
+      *   240 apartments (initial PUD)
+      *   500 apartments (new development)
+      *   Rock Creek, Montrose, Plantation Pines, The Woodlands, Parker road
+      *   Fly Creek
+    llm_text: Mayor's initial 'NO' vote on 240 apartments on Arthur Corti's land contrasts sharply with the current push for 500 apartments and $1M in tax spending. Fight the City Council's "final FIX" before massive development permanently changes Fairhope.
+    widget_date: "2015-12-11"
+    generated_at: "2026-11-09T11:50:53.591302Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

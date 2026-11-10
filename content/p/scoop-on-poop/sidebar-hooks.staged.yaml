@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-09T12:21:52.955281Z"
+  generator_version: 1.0.0
+  post_slug: scoop-on-poop
+  main_date: "2015-07-13"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-epicenter-corruption:
+    brief: |-
+      THE CONFLICT: Systemic "good ole boy" corruption in Fairhope, involving Mayor Tim Kant, Lee Turner (President of Planning and Zoning and head of Single Tax Colony), and George Robards (major contributor to Kant and P&Z member). This corruption includes investigations into BP grant fraud and the approval of a $12 million triangle lawsuit settlement without public notice.
+      THE DISCOVERY: The infamous beach "poop" incident was not human waste, but geese droppings. Mayor Kant ordered the sample collection via sewer plant employees, not Auburn or ADEM, despite public claims otherwise. The source was identified as raw sewage from the pier bathrooms renovation, contracted by George Robards.
+      THE PIVOT: Widget Article (Fairhope corruption) establishes the historical pattern of conflict of interest (Kant/Turner/Robards leveraging P&Z for contracts); Main Article (beach poop) provides a concrete, recent example where this pattern directly compromised public health via the pier/sewer system due to Robards' contracting and the city's lack of oversight.
+      KEY ENTITIES: Mayor Tim Kant, Lee Turner, George Robards, Fairhope, Auburn, ADEM, Senator Trip Pittman, Jennifer Fidler, Jack Burrell, Mike Ford, Kevin Boone
+    llm_text: Mayor Tim Kant and Lee Turner exploit Fairhope's planning system, fueling conflicts with George Robards. Robards' pier renovation caused raw sewage—not goose droppings—directly compromising public health.
+    widget_date: "2015-06-05"
+    generated_at: "2026-11-09T12:20:54.273564Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lawsuits-parks-or-education:
+    brief: |-
+      THE CONFLICT: Fairhope City Council, led by Council President Jack Burrell, settled a lawsuit for $12 MILLION, which was presented to the public as a purchase of Future Park.
+      THE DISCOVERY: The city was spending $17 Million on lawsuits and parks while only donating $350 thousand to education over two years, indicating a priority disconnect.
+      THE PIVOT: The previous $12 Million lawsuit settlement and subsequent financial mismanagement demonstrate a pattern of city liability issues and lack of transparency (as seen in the pier incidents), providing context for the current sewage/coverup scandal (Scoop on Poop).
+      KEY ENTITIES: Mayor Kant, George Robards, Lee Turner, Jack Burrell, Diana Brewer, Auburn, ADEM, Fairhope City Council, Single Tax Colony.
+    llm_text: Fairhope City Council, led by Jack Burrell, spent $12 million on a lawsuit settlement labeled "Future Park." Meanwhile, the city donated only $350k to education over two years, showing serious financial mismanagement before the current sewage scandal.
+    widget_date: "2015-05-15"
+    generated_at: "2026-11-09T12:21:36.955848Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

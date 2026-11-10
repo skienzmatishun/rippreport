@@ -1,0 +1,125 @@
+metadata:
+  generated_at: "2026-11-08T20:18:05.299647Z"
+  generator_version: 1.0.0
+  post_slug: banned-from-the-mall
+  main_date: "2017-11-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-chucky-cheeze-and-jack-burrell-show:
+    brief: |-
+      THE CONFLICT: Local political conflict in Fairhope involved the firing of employees, including Sherry Sullivan, leading to lawsuits seeking $100,000 from the city of Fairhope (Article 2 is older context).
+      THE DISCOVERY: Article 2 revealed Boone Burrell and the three B’s supported lawsuits against Fairhope, allegedly encouraging firings to push an anti-Mayor campaign and noted Burrell's obstruction of the Mayor and Airport Authority.
+      THE PIVOT: Article 2 provides a historical example of municipal political obstruction and ethical compromise in Alabama (Boone Burrell/Fairhope Council) which establishes a pattern of localized political corruption mirroring the high-level ethical concerns and moral failings (Roy Moore’s reputation/guilt) discussed in Article 1.
+      KEY ENTITIES: Roy Moore, Alabama, Boone Burrell, Sherry Sullivan, Jay Robinson, Pandora Heathcoat, Fairhope, US Senate.
+    llm_text: Fairhope fired Sherry Sullivan, sparking $100k lawsuits. Boone Burrell and the three B's allegedly engineered this to push an anti-Mayor campaign, revealing a local pattern of political obstruction mirroring high-level ethical failures.
+    widget_date: "2017-11-15"
+    generated_at: "2026-11-08T20:11:59.748870Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-hole:
+    brief: |-
+      THE CONFLICT:
+      Roy Moore was thrown off the Supreme Court twice.
+
+      THE DISCOVERY:
+      Moore was shunned by most of his own party when he went to Washington.
+      Many Republicans were fearful that Judge Roy Moore as a Senator would be more harmful to the party than helpful.
+      Alabama's current US Senators include Richard Shelby.
+
+      THE PIVOT:
+      Article 2 establishes Moore's political isolation and the internal Republican party disapproval *before* Article 1 focuses on specific moral accusations (chasing teenage girls/mall ban) and his potential election in the US Senate.
+
+      KEY ENTITIES:
+      Roy Moore
+      Alabama
+      Richard Shelby
+      Gadsden
+    llm_text: Roy Moore faced removal from the Supreme Court twice. Now, most Republicans shun him, fearing the Alabama Senator would harm the party—a political risk Richard Shelby currently navigates.
+    widget_date: "2017-11-08"
+    generated_at: "2026-11-08T20:13:39.461812Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  little-choice:
+    brief: |-
+      THE CONFLICT:
+      *   A US Senate special election was held in Alabama involving 19 candidates (11 Republicans, 8 Democrats).
+      *   Infamous Judge Roy Moore was suspended by the Alabama Court of the Judiciary on September 30, 2016.
+      *   Moore was found guilty of six charges of violation of the canons of judicial ethics.
+
+      THE DISCOVERY:
+      *   Article 2 formally documented Moore's suspension and finding of guilt by the state judiciary in 2016, noting he was the only Supreme Court Justice thrown off the bench twice.
+
+      THE PIVOT:
+      *   Article 2 provides the specific, official, and dated judicial context (Sept. 30, 2016) for the ethical and legal issues that Article 1 discusses as "common knowledge" (Moore's reputation/guilt), moving the discussion from public gossip to established legal fact.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Alabama Court of the Judiciary
+      *   Luther Strange
+      *   Sen Trip Pittman
+      *   Congressman Mo Brooks (R-AL)
+      *   Jeff Sessions
+      *   D&J Enterprises Inc.
+      *   Fairhope City Council
+      *   Baldwin County
+      *   Dr. Randy Brinson
+    llm_text: Roy Moore wasn't just infamous; the Alabama Court of the Judiciary suspended him on September 30, 2016, for six judicial ethics violations. Stop relying on gossip and see the specific legal facts behind Moore's controversial career.
+    widget_date: "2017-08-11"
+    generated_at: "2026-11-08T20:14:45.776232Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethics-comedians:
+    brief: |-
+      THE CONFLICT:
+      *   Senator Trip Pittman, appointed by the Governor, was involved in the BP Boom scandal.
+      *   Pittman was entrusted with $750,000 in municipal contracts.
+      *   The Alabama Ethics Commission found no violation in the Pittman case and turned a blind eye to the breach of trust.
+
+      THE DISCOVERY:
+      *   The Ethics Commission often dismisses lengthy investigations (e.g., 10 months) using simple one-page statements, stating "there was not probable cause to believe" a violation occurred.
+      *   The Commission dismissed investigations into Burrell and Hix without finding a violation of the Alabama Ethics Act.
+
+      THE PIVOT:
+      *   The historical pattern of the Alabama Ethics Commission ignoring or dismissing ethical violations against elected officials (Pittman, Burrell/Hix) establishes a precedent of impunity within the state.
+      *   This documented failure of ethical oversight provides context for the political environment in Alabama that permits the consideration of Roy Moore, who has a documented reputation for chasing teenage girls and has been banned from a mall.
+
+      KEY ENTITIES:
+      *   Roy Moore
+      *   Trip Pittman
+      *   Alabama Ethics Commission
+      *   Gadsden Alabama
+      *   Burrell
+      *   Hix
+      *   $750,000
+      *   BP Boom scandal
+    llm_text: The Alabama Ethics Commission dismissed Trip Pittman's $750,000 BP Boom scandal, setting a pattern of impunity. This documented failure of oversight gives context to why figures like Roy Moore continue in Alabama politics.
+    widget_date: "2017-10-19"
+    generated_at: "2026-11-08T20:15:42.418217Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pandemic-corruption:
+    brief: |-
+      THE CONFLICT: Four state lawmakers convicted in Alabama since 2014; Attorney General Luther handled Sen. Pittman, who skimmed $750,000 from BP; Speaker of the House Hubbard is facing jail; the "Luv Gov" resigned.
+      THE DISCOVERY: The Ethics Commission lacks credibility; outgoing member Dr. Stewart Hill Tankersley reported three members—Jerry Fielding, Frank "Butch" Ellis, Jr., and Charles Price—view ethics as an obstacle to bypass rather than a goal.
+      THE PIVOT: Systemic corruption and institutional failure within Alabama (e.g., the compromised Ethics Commission) create an environment where severe personal moral failings (Roy Moore's reputation in Gadsden, Alabama, and being thrown off the Supreme Court twice) are overlooked by state political leaders who prioritize power over ethics.
+      KEY ENTITIES: Roy Moore, Gadsden Alabama, Ethics Commission, Dr. Stewart Hill Tankersley, Jerry Fielding, Frank "Butch" Ellis, Jr., Charles Price, Sen. Pittman, Luther (Attorney General), Speaker Hubbard, Luv Gov, Fairhope City Council, Alabama.
+    llm_text: Alabama lawmakers face jail over corruption, including Sen. Pittman skimming $750,000 from BP while Attorney General Luther investigated. Dr. Tankersley revealed the Ethics Commission failed its duty, proving systemic institutional failure in the state.
+    widget_date: "2017-10-04"
+    generated_at: "2026-11-08T20:16:45.080779Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blood-in-the-water:
+    brief: |-
+      THE CONFLICT: Roy Moore was thrown off the Supreme Court twice and subsequently violated an oath to uphold state and country laws.
+      THE DISCOVERY: In December 2017, there was a Moore/Jones Senate runoff in Alabama with a high-stakes political environment; 451,161 voters participated out of 3,134,166 registered voters (14.39% turnout).
+      THE PIVOT: Article 2 establishes the critical 2017 Senate race context and the political alarm (Trump, Republican establishment) surrounding Roy Moore, setting the stage for Article 1's discussion of his ongoing ethical controversies and banning from public spaces.
+      KEY ENTITIES: Roy Moore, Doug Jones, Tripp Pittman, Alabama, Dec 2017
+    llm_text: Roy Moore, banned from public spaces after being thrown off the Supreme Court twice, ran against Doug Jones in Alabama's Dec 2017 Senate runoff. This high-stakes race reveals the political alarm surrounding his ongoing ethical controversies.
+    widget_date: "2017-09-27"
+    generated_at: "2026-11-08T20:12:47.791713Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-moore-strange:
+    brief: |-
+      THE CONFLICT: Roy Moore was thrown off the Alabama Supreme Court TWICE. (Background context from 2018 mid-term elections).
+      THE DISCOVERY: Roy Moore's legal disqualifications (removal from the Supreme Court) are documented historical context for Alabama's political landscape.
+      THE PIVOT: The historical fact of Moore's removal (A2) provides the basis for the contemporary criticism (A1) regarding his fitness for the U.S. Senate, despite his religious following.
+      KEY ENTITIES: Roy Moore, BIG LUTHER STRANGE, Sen. Trip Pittman, Luv Gov, Mitch McConnell, Gadsden Alabama.
+    llm_text: Roy Moore was thrown off the Alabama Supreme Court twice. Given his documented legal disqualifications and historical context in Gadsden, does his past affect his fitness for the U.S. Senate, despite support from BIG LUTHER STRANGE?
+    widget_date: "2017-09-22"
+    generated_at: "2026-11-08T20:17:43.529750Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

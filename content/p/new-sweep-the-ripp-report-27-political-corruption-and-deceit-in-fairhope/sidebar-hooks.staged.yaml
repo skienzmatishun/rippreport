@@ -1,0 +1,70 @@
+metadata:
+  generated_at: "2026-11-09T12:55:57.783824Z"
+  generator_version: 1.0.0
+  post_slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
+  main_date: "2014-12-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fly-creek-drainage-ditch:
+    brief: |-
+      THE CONFLICT:
+      *   Past event: Triangle lawsuit settlement costing $12 million.
+      *   Past context: City rejected all proposed projects under the original limitation on landowners (e.g., a performing arts center).
+      *   Past approval date: Preliminary and final plat approval scheduled for January 5th (in the older article).
+
+      THE DISCOVERY:
+      *   The older article (Widget) revealed Mayor Tim Kant was using planning and zoning control to slip in a zoning change for the Fly Creek PUD (Publix property) to benefit developer Arthur Corte.
+      *   The older article also noted that no environmental study would be done and that Fly Creek would become a drainage ditch, impacting property values.
+
+      THE PIVOT:
+      *   The older article established the pattern of Mayor Kant using planning/zoning control for favorable deals with Arthur Corte, making the newer complaint (Main Article) an escalation of this existing political corruption and deceit, not a new isolated event.
+      *   The older article provided the initial scope (285 apartments/15 townhomes), while the newer article provides updated scope (275 apartments/18 townhouses) and concrete evidence of existing damage (loss of channel due to Publix construction).
+
+      KEY ENTITIES:
+      *   Tim Kant (Fairhope Mayor)
+      *   Arthur Corte (Developer)
+      *   Publix (Shopping center owner)
+      *   Fly Creek (Location affected)
+      *   Fairhope (City)
+      *   FBI, Alabama Attorney General, District Attorney for Baldwin County (Recipient agencies of the complaint)
+      *   Triangle lawsuit (Past legal event)
+    llm_text: Mayor Tim Kant used zoning control to benefit developer Arthur Corte’s Publix property at Fly Creek. Read how this decision created a drainage ditch, risking property values and escalating Fairhope’s existing corruption scandals.
+    widget_date: "2014-12-26"
+    generated_at: "2026-11-09T12:54:37.694361Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  flowers-marbles-for-brains:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope previously maintained a check and balance system via a Finance Committee.
+      *   Mayor Tim Kant convinced the City Council to dissolve the Finance Committee, granting him complete financial control.
+      *   Kant took $3 million from utility reserves to settle a lawsuit and pledged $1 million for a soccer field within the last year (as of Article 2's writing).
+      *   Article 2 called for the removal of Tim Kant and the current city council ahead of the 2016 election.
+
+      THE DISCOVERY:
+      *   Fairhope had never conducted a forensic audit of its finances or utilities, despite having two mayors in the previous 30 years.
+      *   Mayor Tim Kant maintained control over utilities.
+      *   The city council, convinced by Kant, removed financial oversight.
+
+      THE PIVOT:
+      *   Article 2 establishes the foundational period of unchecked financial power held by Mayor Kant (dissolving the Finance Committee) which enabled the current alleged political corruption (Article 1).
+      *   The lack of a forensic audit (A2) allowed the financial deceit (triangle lawsuit settlement not being a park purchase, A1) and the disregard for public process (late PUD notices, A1) to continue without historical financial scrutiny.
+
+      KEY ENTITIES:
+      *   Tim Kant (Mayor)
+      *   Fairhope City Council
+      *   FBI
+      *   Alabama Attorney General
+      *   Baldwin County District Attorney
+      *   Publix shopping center
+      *   Fly Creek
+      *   AL.com
+      *   Jan. 5 (PUD hearing date)
+      *   Dec. 5 (Public notice date)
+      *   275 apartments / 18 townhouses
+      *   $3 million (Utility reserve withdrawal)
+      *   $1 million (Soccer field pledge)
+      *   2016 (Election target)
+    llm_text: Mayor Tim Kant convinced the Fairhope City Council to dissolve the Finance Committee, seizing complete financial control. He withdrew $3 million from utility reserves, raising serious questions about his unchecked power and the $1 million soccer field pledge.
+    widget_date: "2014-12-05"
+    generated_at: "2026-11-09T12:55:46.884345Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

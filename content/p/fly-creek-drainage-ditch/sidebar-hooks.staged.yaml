@@ -1,0 +1,46 @@
+metadata:
+  generated_at: "2026-11-09T12:57:56.516954Z"
+  generator_version: 1.0.0
+  post_slug: fly-creek-drainage-ditch
+  main_date: "2014-12-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  flowers-marbles-for-brains:
+    brief: |-
+      THE CONFLICT:
+      1. In the past, Fairhope city council maintained a check and balance system via a Finance Committee.
+      2. Mayor Tim Kant convinced the current city council to dissolve the Finance Committee, granting him complete control over city finances and utilities.
+      3. The city has never conducted a forensic audit of its finances or utilities despite having two mayors in the last 30 years.
+
+      THE DISCOVERY:
+      1. The removal of the Finance Committee and lack of a forensic audit granted Mayor Tim Kant unchecked authority over financial decisions and utility control.
+      2. Kant used utility reserves to spend $3 million on a lawsuit settlement and pledged an additional $1 million for a soccer field.
+
+      THE PIVOT:
+      1. The historical lack of financial oversight (no forensic audit/no finance committee) is the systemic flaw that allows Mayor Tim Kant to bypass due process (public notice, environmental study) for the Fly Creek PUD zoning change.
+      2. This unchecked financial and planning power enabled the "good ole boy deal" with developer Arthur Corte, leading to Fly Creek becoming a developer's drainage ditch.
+
+      KEY ENTITIES:
+      1. Mayor Tim Kant
+      2. Arthur Corte (Developer)
+      3. Fairhope City Council
+      4. Fly Creek PUD
+      5. Pubilx (Property owner)
+      6. $12 million (Triangle lawsuit settlement)
+      7. $3 million (Utility reserve settlement)
+      8. January 5th (Scheduled plat approval date)
+      9. 285 apartments and 15 townhomes
+    llm_text: Mayor Tim Kant dissolved the Finance Committee, granting him unchecked financial power over Fairhope utilities. He used $3 million in reserves to fund a lawsuit, enabling the Fly Creek PUD deal with Arthur Corte that turned the land into a developer's drainage ditch.
+    widget_date: "2014-12-05"
+    generated_at: "2026-11-09T12:56:33.326408Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hip-boots-on-triangle:
+    brief: |-
+      THE CONFLICT: 41-year lawsuit bloodbath concerning the Dyas Triangle; settled by the city's former insurer, Alabama Municipal Insurance Corporation (AMIC).
+      THE DISCOVERY: The Dyas Triangle settlement of $8.75 million (plus $3.2 million in law fees) resulted in a total cost exceeding $12 million for taxpayers, and the land was not pristine, requiring millions for cleanup.
+      THE PIVOT: The historical context of the $12 million Triangle Lawsuit settlement and associated corruption surrounding Mayor Kant's administration provides the framework for current allegations of "good ole boy deals" and misuse of zoning control (Fly Creek/Arthur Corte).
+      KEY ENTITIES: Mayor Tim Kant, Arthur Corte, Hand Arendall, Alabama Municipal Insurance Corporation (AMIC), Dyas Triangle, Fly Creek PUD, Publix, Fairhope, Jan. 5th, 285 apartments, 15 townhomes.
+    llm_text: The $12 million Dyas Triangle lawsuit settlement, paid by AMIC, exposed major taxpayer costs during Mayor Tim Kant's administration. See how that historical corruption links directly to today's "good ole boy deals" involving Arthur Corte and the Fly Creek PUD.
+    widget_date: "2014-11-21"
+    generated_at: "2026-11-09T12:57:40.765192Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,110 @@
+metadata:
+  generated_at: "2026-11-08T17:22:28.594082Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-jester
+  main_date: "2018-02-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  mid-term-elections-vote-incumbents-out:
+    brief: |-
+      THE CONFLICT:
+      Tucker Dorsey, holding County commission seat three in Baldwin County, helped marry the county to a mega-site costing $35 million, leading to lost revenue and dissatisfaction among county employees. (Mid-term election context, older)
+
+      THE DISCOVERY:
+      Tucker Dorsey's actions were linked to Clarence Burke and Catalyst, representing a "good ole boys" approach to business, which the Ripp Report encouraged voters to oppose in the mid-term elections.
+
+      THE PIVOT:
+      Article 2 establishes a pattern of entrenched, self-serving political behavior ("good ole boys," "old ways of doing business") involving Catalyst and Dorsey. This historical context provides the backdrop for the newer allegations in Article 1, where Robert Brown and Cliff Pittman used their political positions (City Councilman, Board member) to improperly secure a $636,000 contract for Pittman Tractor via Single Tax money for ESAC, violating The Public Doctrine.
+
+      KEY ENTITIES:
+      Robert Brown (Fairhope City Councilman, Board member, City Representative, Pittman and Brown Development Co. partner)
+      Cliff Pittman (Director of Single Tax, Sen. Tripp Pittman)
+      Eastern Shore Art Center (ESAC)
+      Tucker Dorsey (Baldwin County Commissioner)
+      Clarence Burke
+      Catalyst
+      Jack Burrell (Fairhope City Council President)
+      Ray Hix (Board member)
+      Pittman Tractor ($636,000 contract)
+      Fairhope Airport scandal
+      Single Tax
+    llm_text: Tucker Dorsey helped marry Baldwin County to a $35 million mega-site, but Robert Brown and Cliff Pittman recently misused $636,000 in Single Tax funds for Pittman Tractor via ESAC. See how entrenched "good ole boys" politics continues to drain your taxpayer money.
+    widget_date: "2018-02-21"
+    generated_at: "2026-11-08T17:19:03.052669Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  people-power-2:
+    brief: |-
+      THE CONFLICT:
+      *   Jim Nix served 7 terms as Mayor of Fairhope before handing over office to Tim Kant.
+      *   Nix was facing criminal charges and chose to avoid court.
+      *   Both Nix and Kant are credited with the failing sewer system in Fairhope.
+      *   A 13 million dollar sewer plant failed to process 500,000 gallons of raw sewage into Big Head gully/Fly Creek watershed.
+      *   A petition with 2276 signatures convinced Fairhope Single Tax to back off the Tuberville subdivision.
+
+      THE DISCOVERY:
+      *   The sewer and infrastructure problems in Fairhope are historical, stemming from past administrations (Nix/Kant).
+      *   Mayor Wilson addressed the sewer problem shortly after being elected.
+      *   Councilman Robinson has previously denied responsibility for the sewer infrastructure failures.
+
+      THE PIVOT:
+      *   The historical record of official obstruction (Nix/Kant) and infrastructure failure (sewer system) proves that current issues (Robert Brown/Cliff Pittman contract misuse) are part of a systemic pattern of elected officials using their positions to advance personal wealth and obstruct public works, not isolated ethical errors.
+
+      KEY ENTITIES:
+      *   Robert Brown (City Councilman, Board Member, City Representative)
+      *   Cliff Pittman (Director of Single Tax, general partner of Pittman and Brown Development Co.)
+      *   Mayor Wilson
+      *   Councilman Robinson
+      *   Jim Nix (Former Mayor, 7 terms)
+      *   Tim Kant (Former Mayor)
+      *   Eastern Shore Art Center (ESAC)
+      *   Single Tax
+      *   Jack Burrell
+      *   Ray Hix
+      *   Sherry Sullivan
+    llm_text: Former Mayor Jim Nix and Tim Kant oversaw Fairhope's $13M sewer system failure. This history proves current contract misuse by Robert Brown and Cliff Pittman reflects a systemic pattern of elected officials advancing personal wealth.
+    widget_date: "2018-02-16"
+    generated_at: "2026-11-08T17:20:11.261068Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  now-you-know-jack:
+    brief: |-
+      THE CONFLICT: Fairhope Airport scandal involving city council president Jack Burrell and board member Ray Hix.
+      THE DISCOVERY: Jack Burrell orchestrated obstruction against the Mayor, particularly regarding the Airport land title, stemming from an Ethics complaint the Mayor filed.
+      THE PIVOT: Article 2 establishes Jack Burrell's history of using his office to obstruct the Mayor and prioritize personal/political interests (Airport title control), providing context for the "Fairhope Airport scandal" cited in Article 1, which frames the current discussion on ethical conduct by Robert Brown and Cliff Pittman.
+      KEY ENTITIES: Jack Burrell, Robert Brown, Cliff Pittman, Ray Hix, Mayor Kant, Eastern Shore Art Center (ESAC), Single Tax, The Ripp Report
+    llm_text: Jack Burrell used his office to obstruct Mayor Kant over the Fairhope Airport land title. See how his history of political maneuvering informs the current ethical debate involving Robert Brown and Cliff Pittman.
+    widget_date: "2017-08-30"
+    generated_at: "2026-11-08T17:21:16.349072Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-a-political-tool:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope Airport scandal involved City Council President Jack Burrell and Board Member Ray Hix (partner of Fairhope Municipal Judge Snedeker).
+      *   State Senator Tripp Pittman used his elected office to secure a $636,000 contract for Pittman tractor (BP funds), violating ethics rules.
+      *   Pittman secured municipal contracts with assistance from former Mayor Tim Kant.
+      *   Mike Hubbard was convicted on 12 counts of felony public corruption.
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission has failed to hold politicians accountable in Baldwin County.
+      *   Politicians, including Tripp Pittman, manipulated ethical guidelines for personal gain.
+      *   Pittman's complaint against Luther Strange was abandoned by the Attorney General’s office.
+
+      THE PIVOT:
+      *   Article 2 demonstrates the systemic failure and political manipulation of the Ethics Commission.
+      *   This context negates the expectation in Article 1 that Robert Brown's associates (ESAC Board) should have sought an Ethics Advisory Opinion, as the commission is unreliable and compromised.
+
+      KEY ENTITIES:
+      *   Robert Brown
+      *   Cliff Pittman
+      *   Jack Burrell
+      *   Ray Hix
+      *   Snedeker
+      *   Tim Kant
+      *   Tripp Pittman
+      *   Luther Strange
+      *   Mike Hubbard
+      *   Eastern Shore Art Center (ESAC)
+      *   Fairhope Airport Authority
+    llm_text: Tripp Pittman used his elected office to secure a $636,000 BP contract, violating ethics rules in the Fairhope Airport scandal. Baldwin County's Ethics Commission failed to hold him accountable, proving political manipulation defeats local oversight.
+    widget_date: "2017-08-02"
+    generated_at: "2026-11-08T17:22:07.871101Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

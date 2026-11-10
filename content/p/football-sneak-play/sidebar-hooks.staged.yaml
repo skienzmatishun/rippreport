@@ -1,0 +1,30 @@
+metadata:
+  generated_at: "2026-11-09T12:02:21.445652Z"
+  generator_version: 1.0.0
+  post_slug: football-sneak-play
+  main_date: "2015-10-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  divorce-corp-documentary:
+    brief: |-
+      THE CONFLICT: Corruption and unethical practices within Baldwin County Family Courts involving law firm Brackin Johnson and McGriff and Judge Thomason's court; this situation was documented in the "Divorce Corp" documentary.
+      THE DISCOVERY: The Family Courts in Baldwin County process over $50 billion annually, channeling funds to courthouse insiders, often harming parents and children through prolonged and exploitative legal systems.
+      THE PIVOT: Article 2 establishes a historical context of systemic institutional corruption in Baldwin County; this pattern provides background for the specific political conflicts in Article 1, where Mayor Kant and City Council members engage in financial deals (e.g., paying $35,000 for Senior Bowl practice) involving conflicts of interest.
+      KEY ENTITIES: Baldwin County, Fauxhope, Mayor Kant, Angus Cooper, Diana Brewer, Brackin Johnson, McGriff, Judge Thomason, Mobile Maritime Museum.
+    llm_text: Baldwin County Family Courts process $50 billion annually, funneling funds to insiders like Brackin Johnson and McGriff. Discover how Judge Thomason's court and Mayor Kant's $35k Senior Bowl deals expose systemic corruption hurting local families.
+    widget_date: "2015-10-02"
+    generated_at: "2026-11-09T12:00:56.444654Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  ethics-complaint-turner:
+    brief: |-
+      THE CONFLICT: On September 25, 2015, The Ripp Report filed an ethics complaint to Tom Albritton, Director of the Alabama Ethics Commission, regarding conflicts of interest in Fairhope City Government. This complaint centered on Lee Turner, Chairman of the Fairhope Planning & Zoning Commission and President of the Single Tax Corporation, and George Robards, a member of Planning & Zoning who received public contracts from the Single Tax Corporation approved by Turner.
+
+      THE DISCOVERY: The 2015 complaint established a documented pattern of dual roles within Fairhope City Government, where decisions (P&Z) directly benefited related entities (Single Tax Corporation) overseen by the same individuals, indicating systemic conflict of interest.
+
+      THE PIVOT: The 2015 ethics complaint provides historical context that the Fairhope City Government has a documented history of unresolved systemic conflicts of interest, lending credibility to the current accusation that Councilwoman Diana Brewer voted for the $35,000 Senior Bowl "sneak play" deal despite her conflict of interest via Angus Cooper's role on the Mobile Maritime Museum board, mirroring past ethical failures.
+
+      KEY ENTITIES: Lee Turner, George Robards, Tom Albritton, Marion Wynne, Angus Cooper, Diana Brewer, Mayor Kant (Fauxhope), Single Tax Corporation, Mobile Maritime Museum, Fairhope City Council.
+    llm_text: Fairhope's conflict history isn't new; the 2015 ethics complaint against Lee Turner and George Robards proves systemic issues existed. This documented history lends credibility to the accusation that Councilwoman Diana Brewer voted for the $35,000 Senior Bowl deal despite her conflicts.
+    widget_date: "2015-09-25"
+    generated_at: "2026-11-09T12:02:04.363073Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

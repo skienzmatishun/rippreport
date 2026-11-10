@@ -1,0 +1,179 @@
+metadata:
+  generated_at: "2026-11-09T05:33:53.816001Z"
+  generator_version: 1.0.0
+  post_slug: all-smoke-and-mirrors
+  main_date: "2017-02-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-town-hall-meeting:
+    brief: |-
+      THE CONFLICT:
+      1. On 2/16/2017, Fairhope's first town hall meeting was scheduled to address the repeal of ordinance 1572 and the Fly Creek Apartments issue.
+      2. The Airport Authority's demand to maintain control and ownership of airport land while the city pays the mortgage was a known issue at this time.
+
+      THE DISCOVERY:
+      1. Article 2 (2/16/2017) revealed that the City Council President opposed putting the repeal of ordinance 1572 on the city council agenda despite public demand.
+      2. Article 2 noted that the Airport land debt was equivalent to 21% of the city debt, and Fairhope was spending more on the Airport than on schools.
+
+      THE PIVOT:
+      1. Article 2 established the historical context that the Airport Authority maintained control while the city bore the 21% debt burden, which Article 1 confirms is still the case today.
+      2. Article 1 shows the long-term consequences (five years later) of the original schemes: the Mega-Site ($32 million, 3000 acres) remains vacant with no buyers, and the Airport Authority continues to use tax dollars to defend board members against legitimate complaints.
+
+      KEY ENTITIES:
+      1. Fairhope Airport Authority
+      2. Baldwin County Mega-Site (3000 acres, $32 million)
+      3. City of Fairhope
+      4. Fly Creek Apartments
+      5. Ordinance 1572
+      6. County Commission
+      7. Economic Development Alliance
+      8. Fairhope High School
+      9. 21% (of city debt)
+    llm_text: Fairhope still pays the 21% airport debt while the $32M Mega-Site remains vacant. Discover how the Airport Authority maintained control over Ordinance 1572, forcing the City to spend more on the airport than on Fairhope High School.
+    widget_date: "2017-02-15"
+    generated_at: "2026-11-09T05:26:11.398846Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  jack-box-airport:
+    brief: |-
+      THE CONFLICT:
+      *   A legitimate complaint was filed regarding the Fairhope Airport Authority (involving Jack Burrell and Ray Hix).
+      *   The Airport Authority sought to use tax dollars to hire a "top ethics attorney in Alabama" to investigate the complainants and head off scrutiny from the Attorney General’s office and the Ethics Commission.
+
+      THE DISCOVERY:
+      *   The Authority planned to have Ray Hix’s attorney (Mr. Bailey) represent the Authority, even while Hix held the position of Sec. Treasurer.
+      *   A Fairhope resident inquired with Ethics Commission Chief Council Mr. Hugh Evens, who blind copied Mr. Bailey.
+
+      THE PIVOT:
+      *   Article 2 establishes the tactic of using tax dollars for legal defense/intimidation (Hix/Bailey), which Article 1 confirms is a systemic practice: the Authority hires attorneys using tax dollars to "investigate" and discredit whistleblowers against the board.
+      *   Article 1 expands this issue by highlighting that citizens assume the Airport debt (21% of city debt) and links this financial mismanagement to the Mega-Site (3000 acres, $32 million, no buyers after five years).
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   Jack Burrell
+      *   Ray Hix (Sec. Treasurer)
+      *   Mr. Hugh Evens (Ethics Commission Chief Council)
+      *   Mr. Bailey (Hix's attorney)
+      *   Baldwin County Mega-Site
+      *   County Commission
+      *   Economic Development Alliance
+      *   Mayor Kant
+      *   Mayor Wilson
+      *   $32 million (Mega-Site cost)
+      *   21% (Airport debt relative to city debt)
+    llm_text: Fairhope Airport Authority is allegedly using taxpayer dollars to hire lawyers to discredit whistleblowers like Jack Burrell. This tactic hides the $32 million Mega-Site failure and the Authority's 21% city debt burden.
+    widget_date: "2017-02-10"
+    generated_at: "2026-11-09T05:28:49.024334Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  caught-trap-like-rat:
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope replaced a Mayor of 16 years.
+      *   Jack Burrell, then Council President, was involved in alleged "bid rigging" related to the Airport Authority.
+      *   Burrell resisted Mayor Wilson's support for repealing ordinance 1572 and changing airport land ownership.
+      *   Four complaints were filed with the Ethics Commission against Burrell.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Burrell used his authority to prevent the resolution to repeal ordinance 1572 (involving Fly Creek Apartments).
+      *   Burrell insisted the Airport Authority Land remain in the name of the Authority even when the city paid the mortgage.
+
+      THE PIVOT:
+      *   Article 2 established the political resistance (Burrell vs. Mayor Wilson) regarding the Airport Authority land ownership structure.
+      *   Article 1 confirms the current structure: citizens assume the Airport debt (21% of city debt) to pay the mortgage, while the Authority retains land ownership and uses tax dollars to hire attorneys to intimidate whistleblowers.
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   Jack Burrell (Council President)
+      *   Mayor Wilson
+      *   Ethics Commission
+      *   Ordinance 1572
+      *   Baldwin County Mega-Site
+      *   County Commission
+      *   Economic Development Alliance
+    llm_text: Council President Jack Burrell faced Ethics Commission complaints for alleged bid rigging while resisting Mayor Wilson's plan to repeal Ordinance 1572. Burrell prevented changing Airport Authority land ownership, meaning citizens assume the debt but the Authority keeps the land.
+    widget_date: "2017-02-03"
+    generated_at: "2026-11-09T05:30:02.528331Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-public-opinion-now-session:
+    brief: |-
+      THE CONFLICT:
+      *   Dec 17, 2015: Lease signed for Airport Authority RFP.
+      *   Feb 3, 2016: Ethics Commission Advisory Opinion rendered.
+      *   Allegation of bid rigging and collusion among Airport Authority Board members, including Council President Jack Burrell.
+      *   Dispute over property ownership: City of Fairhope vs. Airport Authority.
+      *   Authority received $500,000 annually for six years while paying little on the principal of the $8 million debt.
+
+      THE DISCOVERY:
+      *   Article 2 (Jan. 25, 2017) detailed how Jack Burrell, as City Council President, Airport Authority Board member, and liaison, aided and abetted a grossly flawed and gerrymandered RFP bid process.
+      *   Mr. Hix (winner bidder/Sec. Treasurer) used privileged information obtained from the Authority (April-July 2015) prior to the RFP.
+      *   The RFP process violated Ethics Commission guidelines (e.g., lease signed before Advisory Opinion).
+      *   Executive Aviation was the most qualified bidder, unlike Hix/Snedeker (Mid-Bay Air LLC).
+
+      THE PIVOT:
+      *   Article 2 provides specific, dated evidence (2015/2016) of political corruption and self-dealing within the Fairhope Airport Authority.
+      *   This specific historical malfeasance validates the broader, current critique in Article 1 that the Fairhope Airport Authority operates as "smoke and mirrors."
+      *   Article 1 expands this critique by linking the Authority's issues to broader county mismanagement (Baldwin County Mega-Site: 3000 acres, $32 million tied up for five years; $5 million skimmed from schools).
+
+      KEY ENTITIES:
+      *   Fairhope Airport Authority
+      *   City of Fairhope
+      *   Jack Burrell (City Council President, Airport Authority Board member)
+      *   Mr. Hix (Winner bidder/Sec. Treasurer)
+      *   Mr. Terry Chapman
+      *   Mr. Kel Jones
+      *   The Ethics Commission
+      *   Baldwin County Mega-Site
+      *   Economic Development Alliance
+      *   Jan. 25 2017 (Article 2 date)
+      *   Dec 17, 2015 (Lease signing)
+      *   Feb 3, 2016 (Advisory Opinion date)
+    llm_text: Jack Burrell, City Council President, helped rig the Fairhope Airport Authority RFP in 2015, signing a lease before the Ethics Commission advisory opinion (Feb 3, 2016). Discover the dated evidence of this corruption and how it proves the Authority operates as "smoke and mirrors."
+    widget_date: "2017-01-27"
+    generated_at: "2026-11-09T05:31:22.672851Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  follow-bouncing-ball:
+    brief: |-
+      THE CONFLICT: Councilman Kevin Boone voted on projects (June-October 2016) involving Dewberry/Preble-Rish, which was connected to his business partner John Avent and donated $2500 to his campaign, without recusing himself.
+      THE DISCOVERY: Article 2 documented a clear violation of Ethics rules and a betrayal of public trust by Kevin Boone favoring business interests over public duty.
+      THE PIVOT: This historical pattern of conflicts of interest and self-serving votes (2016) demonstrates the systemic lack of accountability and "smoke and mirrors" that continues to impact current taxpayer obligations, such as the Fairhope Airport Authority debt (21% of city debt) and the $32 million vacant Baldwin County Mega-Site.
+      KEY ENTITIES: Kevin Boone, John Avent, Preble-Rish/Dewberry, Fairhope Airport Authority, Baldwin County Mega-Site, Francis Paul Ripp, Hollie MacKellar, Jay Robinson, Bob Clark, George Robards.
+    llm_text: Kevin Boone voted on Dewberry/Preble-Rish projects in 2016, benefiting partner John Avent with a $2500 donation while ignoring ethics rules. This historical betrayal shows why we still face the Fairhope Airport debt and the $32 million vacant Baldwin County Mega-Site.
+    widget_date: "2017-01-20"
+    generated_at: "2026-11-09T05:32:36.068578Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boone-doggle:
+    brief: |-
+      THE CONFLICT: Councilman Boone failed to share conflicts of interest; he voted on council resolutions involving hundreds of thousands of dollars favoring engineering companies linked to his LLCs. (Past/Historical)
+      THE DISCOVERY: The Baldwin County Mega-Site (3000 acres, $32 million cost) has no buyers after five years, potentially costing over $50 million; Fairhope Airport Authority requires citizens to assume 21% of city debt, and the County Commission skimmed $5 million from schools via a penny tax. (Current Analysis)
+      THE PIVOT: Article 2 established a history of specific local political corruption (Boone/Ford era) related to council decision-making; Article 1 confirms this pattern of "smoke and mirrors" and financial mismanagement persists in major local projects like the Mega-Site and Fairhope Airport Authority.
+      KEY ENTITIES: Councilman Boone, Councilman Ford, Mr. Robinson, Mr. Conyers, Mr. Brown, Baldwin County Mega-Site, Baldwin County Commission, Economic Development Alliance, Fairhope Airport Authority
+    llm_text: Councilman Boone previously pushed resolutions benefiting his LLCs. Today, the $32 million Baldwin County Mega-Site sits empty, forcing Fairhope citizens to assume 21% of city debt and facing a $5M school skim.
+    widget_date: "2017-01-13"
+    generated_at: "2026-11-09T05:27:22.306749Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-citizens-citizens-citizens:
+    brief: |-
+      THE CONFLICT:
+      *   Jan. 9th: Fairhope City Council meeting where Mayor Karin Wilson addressed the Airport Authority debt and property ownership.
+      *   2007: Fairhope Airport Authority purchased 258 acres for $8.85 million.
+      *   Current: Fairhope Airport Authority debt constitutes 21% of Fairhope's overall borrowing.
+
+      THE DISCOVERY:
+      *   Mayor Karin Wilson urged the council to transfer ownership of the 258 acres from the Airport Authority to the city.
+      *   Jack Burrell, Council President and Airport Authority Board member, mocked the citizens and resisted the transfer of property ownership to the city.
+
+      THE PIVOT:
+      *   The Widget Article established that the Airport Authority controls city-paid property (258 acres) while the city assumes the debt (21% of overall borrowing), setting the stage for the Main Article's critique of the Authority retaining control and ownership despite citizen financial liability.
+
+      KEY ENTITIES:
+      *   Karin Wilson (Mayor)
+      *   Jack Burrell (Council President, Airport Authority Board member)
+      *   Fairhope Airport Authority
+      *   Baldwin County Mega-Site
+      *   Kevin G. Boone (City Council)
+      *   Jay Robinson (City Council)
+      *   Robert Brown (City Council)
+      *   Jimmy Conyers (City Council)
+    llm_text: Mayor Karin Wilson urges Fairhope to transfer 258 acres of city-paid land from the Airport Authority. Council President Jack Burrell resists the move, mocking citizens despite the Authority controlling property that carries 21% of Fairhope's borrowing debt.
+    widget_date: "2017-01-06"
+    generated_at: "2026-11-09T05:33:37.908227Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
