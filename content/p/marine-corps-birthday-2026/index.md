@@ -1,7 +1,7 @@
 ---
 title: MARINE CORPS BIRTHDAY
 date: 2026-11-10
-thumbnail: img/marine-corps-birthday-26.jpg
+thumbnail: img/marine-corps-birthday-26.png
 categories:
 - holiday
 authors:
